@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 97,
+  "translation": "እሳት ኣብ ቅድምኡ ይኸድል፣ ጸላእቱ ድማ ብዙርቡር ይትከይድ።",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ኣብ ቅድምኡ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ይኸድል"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "ይትከይድን"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ብዙርቡር"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ጸላእቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T13:40:26.161109027Z",
+  "model": "glm-5.3"
+}

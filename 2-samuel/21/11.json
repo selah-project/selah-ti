@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ነቲ እታ ሪጽፋሕ ውላደ ኣያሕ፣ ፍረበቲ ሻኡል፣ ዝገበራያ ⟨את⟩ እታ ዝገበራያ ናብ ዳዊድ ተዛረበ።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናብ ዳዊድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ሪጽፋሕ ውላደ ኣያሕ ፍረበቲ ሻኡል ዝገበራያ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ ዝ…ያ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ዝገበራ"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "ሪጽፋሕ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ኣያሕ"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "ፍረበቲ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    }
+  ],
+  "timestamp": "2026-09-19T13:39:54.337133276Z",
+  "model": "glm-5.3"
+}

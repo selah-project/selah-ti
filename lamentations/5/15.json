@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ዕለትና ሓሳብ ተቋረጸ፤ ስጉምና ናብ ምቕራብ ተቐየረ።",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "ተቋረጸ"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ሓሳብ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ዕለትና"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "ተቐየረ"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "ናብ ምቕራብ"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "ስጉምና"
+    }
+  ],
+  "timestamp": "2026-09-19T13:39:47.898009Z",
+  "model": "glm-5.3"
+}

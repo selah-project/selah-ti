@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 97,
+  "translation": "ብርቃታቱ ንዓለም ኣበርቑ፤ ምድሪ ረኣየትን ተንቀጥቐጠትን።",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "ኣበርቑ"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "ብርቃታቱ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ንዓለም"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "ረኣየት"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "ተንቀጥቐጠትን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T13:40:35.191445051Z",
+  "model": "glm-5.3"
+}

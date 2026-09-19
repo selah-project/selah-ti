@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 8:14",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኮይኑ ⟨את⟩ ኤልይሻዕ ተባርዩ ናብ ጎይታኡ መጸ፣ ንሱ ድማ «እንታይ በለካ ኤልይሻዕ?» በሎ። ንሱ ድማ «በለኒ ትውሕስ ኢኻ» በለ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ኸደ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ኤልይሻዕ (ተባርዩ — ካብ)"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ኤልይሻዕ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ጎይታኡ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ኤልይሻዕ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ትውሕስ"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ኢኻ ትውሕስ"
+    }
+  ],
+  "timestamp": "2026-09-19T13:39:23.472330452Z",
+  "model": "glm-5.3"
+}
