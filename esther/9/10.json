@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ዎርማ ኣስርተ ውላድ ሃማን ወዲ ሃምዳታ ጠላእ ኣይሁድ ቀተልዎም፤ ኣብ ኣውዳሪ ድማ ⟨את⟩ ኢዶም ኣይሰደዱን።",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "ዎርማ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሃማን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "ሃምዳታ"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "ጠላእ"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ኣይሁድ"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ቀተልዎም"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "ኣብ ኣውዳሪ ድማ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ሰደዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢዶም"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ኢዶም"
+    }
+  ],
+  "timestamp": "2026-09-19T06:50:03.046709267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 74,
+  "translation": "ክሳብ መዓስ ኤሎሂም፣ እቲ ጸባእ ይሓፍር፧ እቲ ተቓውማይ ንዘለኣለም ናይ ስምካ ይንገር፧",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "መዓስ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "ይሓፍር"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ጸባእ"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "ይንገር"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ተቓውማይ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ናይ ስምካ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ንዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:38.159985082Z",
+  "model": "glm-5.3"
+}

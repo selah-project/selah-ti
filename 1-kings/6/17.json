@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኣርባዕተ ኣማታት ነይሩ እቲ ቤት፣ ንሱ እቲ ማሕደር ኣብ ቅድሚኡ።",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ኣማታት"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "እቲ ቤት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "እቲ ማሕደር"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:50:11.544991244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ድሕሪ እዚ ስሙዕ ያዕቆቭ ኣገልጋሊ ኣነ፣ ዊስራኤልን ብዛዕባ እቲ ኣነ ዝበርትዖ እዩ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ድሕሪ እዚ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ስሙዕ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልጋሊ ኣነ"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ዊስራኤልን"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ኣነ ዝበርትዖ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ብዛዕባ እቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:11:25.912592495Z",
+  "model": "glm-5.3"
+}

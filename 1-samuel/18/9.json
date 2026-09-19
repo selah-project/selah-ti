@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ኮይኑ ሻኡል ⟨את⟩ ዳዊድ ብቕጻል ካብ እቲ መዓልቲ እቲ ንድሕሪት ይረኣዮ ነይር።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ብቕጻል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊድ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "ካብ እቲ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "ንድሕሪት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:09:28.930601819Z",
+  "model": "glm-5.3"
+}

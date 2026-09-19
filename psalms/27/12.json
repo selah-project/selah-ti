@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ኣይ ትሃበኒ ነፍሲ ተቓወምተይ፣ ምኽንያቱ ምስክራት ሐሶት ኣበይ ተንብሑ፣ ግፍይ ድማ ይተንፍሱ እዮም።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "ትሃበኒ"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ተቓወምተይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ተንብሑ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ኣበይ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ምስክራት"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሐሶት"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "ይተንፍሱ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ግፍይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:51.496413070Z",
+  "model": "glm-5.3"
+}

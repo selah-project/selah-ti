@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 70,
+  "translation": "ኣነ ግን ደሃን ምሉእ ዓስተኛን እየ፤ ኤሎሂም፣ ናብ ኣነ ቍሩዕ፤ ሓጋዚን ኣውጺኣያን ንስኻ ኢኻ፤ ያህዌህ፣ ኣይተወድኦን።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ግን"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ደሃ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ምሉእ ዓስተኛን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ቍሩዕ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ናብ ኣነ"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ሓጋዚ"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ኣውጺኣያን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ ኢኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "ኣይተወድኦን"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:28.730653145Z",
+  "model": "glm-5.3"
+}

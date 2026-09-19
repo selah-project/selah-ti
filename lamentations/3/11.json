@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "መስመርታተይ ኣጣሕቖ፣ ሰቓየኒ፣ ብውዑይ ገበረኒ።",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "መስመርታተይ"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "ኣጣሕቖ"
+    },
+    {
+      "surface": "ויפשחני",
+      "gloss": "ሰቓየኒ"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "ገበረኒ"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ብውዑይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:34:30.205028512Z",
+  "model": "glm-5.3"
+}

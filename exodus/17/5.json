@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 17:5",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ያህዌህ ድማ ንሞሸ ተዛረበ፦ «ብቓል ሕዝቢ ሓለፍ፣ ብዝሓት ኣበይቲ ዓባይ እስራኤል ⟨את⟩ ምስ ኣኻ ውሰድ፣ ከምኡውን እታ ካብኣ ወንበር ሓወጽካላ ማዕጸንኻ ብኢድኻ ውሰድ፣ ከውን እውን።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ሓለፍ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ብቓል"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "ውሰድ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ምስ ኣኻ"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "ብዝሓት ኣበይቲ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ומטך",
+      "gloss": "ማዕጸንኻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ሓወጽካላ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ካብኣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ወንበር"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ወንበር"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ውሰድ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ብኢድኻ"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "ከውን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:25:50.807779983Z",
+  "model": "glm-5.3"
+}

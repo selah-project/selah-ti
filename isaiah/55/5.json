@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 55:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 55,
+  "translation": "ኣለ ኣህዛብ ኣይትፈልጥን ትጸውዕ፣ ኣህዛት ኣይፈልጥካን ድማ ናብኻ ይኸድሑ\/ይሰጉ፤ ስለ ያህዌህ ኤሎሂምካን ስለ ቅዱስ እስራኤልን፣ ምኽንያቱ ዓበየካ።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ኣለ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ትፈልጥ"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ትጸውዕ"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "ኣህዛትን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "ይፈልጥካ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኻ"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "ይኸድሑ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "ቅዱስን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "פארך",
+      "gloss": "ዓበየካ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:17:45.980410174Z",
+  "model": "glm-5.3"
+}

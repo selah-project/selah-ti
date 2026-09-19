@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 32:19",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ሰንጠር ድማ ኣብ ምውዳእ ጥዑም ይወርድ፣ ከምኡውን ኣብ ቈላ እቲ ከተማ ትትሓብእ።",
+  "tokens": [
+    {
+      "surface": "וברד",
+      "gloss": "ሰንጠር"
+    },
+    {
+      "surface": "ברדת",
+      "gloss": "ኣብ ምውዳእ"
+    },
+    {
+      "surface": "היער",
+      "gloss": "ጥዑም"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "ኣብ ቈላ"
+    },
+    {
+      "surface": "תשפל",
+      "gloss": "ትትሓብእ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እቲ ከተማ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:59:34.034984817Z",
+  "model": "glm-5.3"
+}

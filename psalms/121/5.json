@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 121,
+  "translation": "ያህዌህ ዝኸልኻ እዩ፤ ያህዌህ ጽልኻ እዩ ኣብ የማንካ እገራ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ዝኸልኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "ጽልኻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "እገራ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "የማንካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:52.469413737Z",
+  "model": "glm-5.3"
+}

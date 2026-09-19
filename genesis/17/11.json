@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ከምኡውን ⟨את⟩ ስጋ ቅድም-ስጋኹም ተለጽምዎ፤ ንኪዳን ምልክት ኲና ኣብ መንጎ ኣነን ኣብ መንጎኹምን።",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "ተለጽምዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስጉ ቅድም-ስጋኹም"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ስጋ"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "ቅድም-ስጋኹም"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ኲና"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "ምልክት"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ንኪዳን"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ኣብ መንጎ ኣነ"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "ኣብ መንጎኹምን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:39:45.283401023Z",
+  "model": "glm-5.3"
+}

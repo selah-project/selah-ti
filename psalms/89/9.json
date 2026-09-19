@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ያህዌህ ኤሎሂም ጸባኦት፣ መን ከም ንስኻ ሓያላይ እዩ ያህ፧ እምነትካ ድማ ስዒባኻ እያ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ከም ንስኻ"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "ሓያላይ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "እምነትካን"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "ስዒባኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:42.546747475Z",
+  "model": "glm-5.3"
+}

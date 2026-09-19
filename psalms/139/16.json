@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 139,
+  "translation": "ጎልማ ኣዒንታትኻ ረኣያ፣ ከምኡውን ኩሉ ኣብ መጽሓፍካ ይኽተብ እዩ፣ መዓልታት ተፈጢሮም፣ ሓደ ካብኦም ድማ የለን።",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "ጎልማ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ረኣያ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ኣዒንታትኻ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ከምኡውን ኣብ"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "መጽሓፍካ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "ይኽተብ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "ተፈጢሮም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ድማ የለን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ካብኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:32.393975968Z",
+  "model": "glm-5.3"
+}

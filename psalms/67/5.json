@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 67,
+  "translation": "ኣህዛብ ደስ ክብሉን ክዛርዩን፣ ምኽንያቱ ህዝብታት ብማዕድን ትፈርድ፣ ኣብ ምድሪ ድማ ኣህዛቶም ትመርሖም ሴላ።",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "ደስ ክብሉ"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "ክዛርዩን"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "ትፈርድ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ህዝብታት"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "ብማዕድን"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ኣህዛቶምን"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "ትመርሖም"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:20.377584969Z",
+  "model": "glm-5.3"
+}

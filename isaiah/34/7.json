@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 34:7",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ምስ ንሳቶም ኣውራ ጠቦታት ይወርዳ፣ በግታት ምስ ብሉጽ ኣብርሆት፤ ምድሪኦም ብደም ተሰተያ፣ ጋዲኦም ድማ ብስብር ይደሸን።",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "ይወርዳ"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "ኣውራ ጠቦታት"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ምስ ንሳቶም"
+    },
+    {
+      "surface": "ופרים",
+      "gloss": "በግታትን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "ብሉጽ ኣብርሆት"
+    },
+    {
+      "surface": "ורותה",
+      "gloss": "ተሰተያ"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ምድሪኦም"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ብደም"
+    },
+    {
+      "surface": "ועפרם",
+      "gloss": "ጋዲኦምን"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ብስብር"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "ይደሸን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:06:14.135963714Z",
+  "model": "glm-5.3"
+}

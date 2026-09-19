@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኣነ ግና ያህዌህ ኤሎሂምካ ካብ ምድሪ ሚጽራይም እየ፤ ኤሎሂም ብዘይ ብቲ ኣይትፈልጥን፣ መድኃኒ ከኣ ብቲ ጥራይ የለን።",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ኣነ ግና"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ብዘይ ብቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ትፈልጥ"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "መድኃኒ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ብቲ ጥራይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:11:47.069802953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ግና ሰብ ኣይክርዕን፣ ሰብ ኣይግምጸን፣ ምኽንያቱ ህዝቢኻ ከም እቶም ምስ ካህን ዝክርዑ እዮም።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ግና"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "ክርዕ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "ይግምጸን"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ህዝቢኻ"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "ከም እቶም ዝክርዑ ምስ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ካህን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:07:06.277289427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ሻኡል ድማ ⟨את⟩ መልኣኽቲ ንዳዊድ ንኽርእዩ ሰዲዱ እናበለ፦ «ኣብ ኣልጋ ⟨את⟩ ኣእቱ ንብዕይ፣ ንኽቀትሎ እዩ።»",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰዲዱ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መልኣኽቲ"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "መልኣኽቲ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ንኽርእዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊድ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "ኣእቱ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብ ኣልጋ"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "ኣብ ኣልጋ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንብዕይ"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "ንኽቀትሎ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:10:02.105835282Z",
+  "model": "glm-5.3"
+}

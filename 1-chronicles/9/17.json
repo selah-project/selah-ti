@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 9:17",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እቶም ተጠብቒት ናይ በር ድማ ሻለም፣ ዓቁብ፣ ጥልሞንን ኣሕይማንን ኣሓቶምን እዮም፤ ሻለም እቲ ርእሲ እዩ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "והשערים",
+      "gloss": "ተጠብቒት ናይ በር"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሻለም"
+    },
+    {
+      "surface": "ועקוב",
+      "gloss": "ዓቁብ"
+    },
+    {
+      "surface": "וטלמן",
+      "gloss": "ጥልሞን"
+    },
+    {
+      "surface": "ואחימן",
+      "gloss": "ኣሕይማን"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "ኣሓቶም"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሻለም"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ርእሲ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:38:36.572328071Z",
+  "model": "glm-5.3"
+}

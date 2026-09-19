@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 44:2",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ጽሑቅተይ፣ እቲ ጽሑቅቲ ብር፣ ኣብ ኣፍ ኣኽሊሉ እቲ ቕንሲ ኣእትዎ፣ ከምኡውን ⟨את⟩ ብሩ ናይ ቕርሊ፤ እቲ ኣእዘዞ ድማ ከም ቃል ዮሴፍ ዝተዛረቦ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጽሑቅተይ"
+    },
+    {
+      "surface": "גביעי",
+      "gloss": "ጽሑቅተይ"
+    },
+    {
+      "surface": "גביע",
+      "gloss": "ጽሑቅቲ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "እቲ ብር"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ኣእትዎ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ኣብ ኣፍ"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "ኣኽሊሉ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "እቲ ቕንሲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ብሩ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብሩ"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ናይ ቕርሊ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ከም ቃል"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝተዛረቦ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:05:58.934032735Z",
+  "model": "glm-5.3"
+}

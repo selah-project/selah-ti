@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 28:7",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "እንተ ጠንከረ ትእዛዛተይን ፍርዳተይን ከም እቲ እዚ መዓልቲ ንኽገብር፣ ⟨את⟩ መንግስቱ ክሳብ ዘለኣለም ኣዳሉኡ እየ።",
+  "tokens": [
+    {
+      "surface": "והכינותי",
+      "gloss": "ኣዳሉኡ እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንግስቱ"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "መንግስቱ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ዘለኣለም"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "ጠንከረ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ንኽገብር"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ትእዛዛተይ"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "ድማ ፍርዳተይ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ከም እቲ መዓልቲ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:53:13.233184445Z",
+  "model": "glm-5.3"
+}

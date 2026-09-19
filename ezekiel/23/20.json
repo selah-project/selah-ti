@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 23:20",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ኣብ ኣፍቓሾም ድማ ተዓጸበት፣ እቶም ከብዲ ኣውራጺ ከም ዝኾነ ከብዲኦም፣ ውሕጹ ኣፍራሲ ድማ ውሕጹኦም እዩ።",
+  "tokens": [
+    {
+      "surface": "ותעגבה",
+      "gloss": "ተዓጸበት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פלגשיהם",
+      "gloss": "ኣፍቓሾም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ከብዲ"
+    },
+    {
+      "surface": "חמורים",
+      "gloss": "ኣውራጺ"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "ከብዲኦም"
+    },
+    {
+      "surface": "וזרמת",
+      "gloss": "ውሕጹ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ኣፍራሲ"
+    },
+    {
+      "surface": "זרמתם",
+      "gloss": "ውሕጹኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T03:40:41.389502700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 2:4",
+  "book": "joel",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ከም ምርኢይ ኣፍራስ ምርኢዩ እዩ፣ ከም ሰባት ኣፍራስ ከምኡ ይሰብሑ።",
+  "tokens": [
+    {
+      "surface": "כמראה",
+      "gloss": "ከም ምርኢይ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ኣፍራስ"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "ምርኢዩ"
+    },
+    {
+      "surface": "וכפרשים",
+      "gloss": "ከም ሰባት ኣፍራስ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "ይሰብሑ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:15:26.028253507Z",
+  "model": "glm-5.3"
+}

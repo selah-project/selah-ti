@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣብ እቲ እዋን እቲ ንጉሥ ንሻድራኽ፣ ሜሻኽን ዓበድ ነጎን ኣብ ግዝኣት ባቢሎን ኣስዓቢሎም።",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "ኣብ እቲ እዋን"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "ኣስዓቢሎም"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "ንሻድራኽ"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "ሜሻኽ"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ዓበድ"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "ነጎ"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "ኣብ ግዝኣት"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባቢሎን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:54:33.241308390Z",
+  "model": "glm-5.3"
+}

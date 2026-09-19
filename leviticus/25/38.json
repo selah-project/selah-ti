@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ኣነ ያህዌህ ኤሎሂምኩም እዩ፣ ካብ ምድሪ ሚጽራይም ⟨את⟩ ነኻቶም ዝወጺእኩም፣ ንኽተብሃብኩም ⟨את⟩ ምድሪ ከነዕን፣ ንኽኾነኩም ኤሎሂም።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ዝወጺእኩም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ነኻቶም"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ንኽተብሃብ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኻቶም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ ከነዕን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዕን"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ንኽኾነል"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኻቶም"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:06:56.045303407Z",
+  "model": "glm-5.3"
+}

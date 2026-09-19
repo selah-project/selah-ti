@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 73,
+  "translation": "ኩሉ መዓልቲ ተታሕልኩ፣ ትግባርየ ድማ ኩሉ ቀዳም ይመጽእ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "ተታሕልኩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "ትግባርየ"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "ኩሉ ቀዳም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:16.773119154Z",
+  "model": "glm-5.3"
+}

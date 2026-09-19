@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ዳዊድ ድማ ከም ዝኣዘዞ ያህዌህ ከምኡ ገበረ፤ ⟨את⟩ ፈሊስታውያን ካብ ገባዕ ክሳብ እትኣቱ ገዘር ሃደሶ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ዝኣዘዞ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ሃደሶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፈሊስታውያን"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፈሊስታውያን"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "ካብ ገባዕ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "באך",
+      "gloss": "እትኣቱ"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ገዘር"
+    }
+  ],
+  "timestamp": "2026-09-19T00:24:21.643222721Z",
+  "model": "glm-5.3"
+}

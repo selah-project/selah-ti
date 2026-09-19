@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 140,
+  "translation": "ገርሓት ውጥር ሓበሩሉ ንዓይን ገመላትን፣ ኣራት በብርሂቑ ኣብ ጎኒ ⟨እቲ⟩ ጐደና፣ ውጥርታት ተኽልዎ ንዓይ። ሰላሕ።",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "ሓበሩ"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "ገርሓት"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ውጥር"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "ከምኡውን ገመላት"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "በብርሂቑ"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "ኣራት"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ኣብ ጎኒ"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "ጐደና"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "ውጥርታት"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ተኽልዎ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:42.478987709Z",
+  "model": "glm-5.3"
+}

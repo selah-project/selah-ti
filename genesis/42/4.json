@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ያዕቆቭ ግና ⟨את⟩ ብንያሚን ናይ ዮሴፍ ሓው፣ ⟨את⟩ ሓዎት ኣይለኣኾን፤ «ከይገጥሮ ኣደጋ» ኢሉ ስለ ዝበለ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ብንያሚን"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "ብንያሚን"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ሓው"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ኣለኣኾ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓዎት"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ሓዎት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ከይ"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "ክገጥሮ"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "ኣደጋ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:04:34.089010413Z",
+  "model": "glm-5.3"
+}

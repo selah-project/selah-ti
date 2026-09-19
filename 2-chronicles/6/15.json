@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 6:15",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "«እቲ ንዓብዓይ ዳዊድ ኣቦኻ ⟨את⟩ ዝዛረብካዮ ጠቐምካዮ፤ ብመንጎኻ በልካዮ፣ ብኢድኻ ድማ ከም እቲ ሎሚ ኣክንየካዮ።»",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ጠቐምካ"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ንዓብዓይ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝዛረብካዮ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "በልካ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "ተዛረብካ"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "ብመንጎኻ"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "ብኢድኻ"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "ኣክንየካዮ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ከም እቲ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ሎሚ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:57:26.902767669Z",
+  "model": "glm-5.3"
+}

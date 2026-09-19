@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ድማ ተንስእዎ ከደ፣ የሆናታን ድማ ናብ እታ ከተማ ኣተወ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተንስእዎ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "የሆናታን ድማ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ኣተወ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ናብ እታ ከተማ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:12:59.029205399Z",
+  "model": "glm-5.3"
+}

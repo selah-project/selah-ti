@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ኣነ ድማ ነቲ ከም በኪር ንገብሮ፣ ኣብ ልዕሊ ነገስቲ ምድሪ ኰይኑ ክኸውን እዩ።",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "በኪር"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "ነቲ ንገብሮ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ኣብ ልዕሊ … ኰይኑ"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "ነገስቲ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:21.027844127Z",
+  "model": "glm-5.3"
+}

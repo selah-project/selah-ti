@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 149,
+  "translation": "ምስጋና ኤል ኣብ ጋርዓቶም፣ ሰዊሕ ቝራቑ ድማ ኣብ ኢዶም።",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "ምስጋና"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "ኣብ ጋርዓቶም"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ንሰዊሕን"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "ቝራቑ"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ኣብ ኢዶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:58.649777134Z",
+  "model": "glm-5.3"
+}

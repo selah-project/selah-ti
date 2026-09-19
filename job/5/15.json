@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 5:15",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ድኻ ካብ ሰይፊ ኣፋቶም የድሕን፣ ካብ ኢድ ሓያል ድማ።",
+  "tokens": [
+    {
+      "surface": "וישע",
+      "gloss": "የድሕን"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ካብ ሰይፊ"
+    },
+    {
+      "surface": "מפיהם",
+      "gloss": "ኣፋቶም"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ሓያል"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ድኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:05:53.855399584Z",
+  "model": "glm-5.3"
+}

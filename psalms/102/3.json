@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 102,
+  "translation": "ገጽካ ካባይ ኣይትሓብእን፤ ኣብ መዓልቲ ጸቕጢዒ እዝንካ ናባይ ኣንሕብር፤ ኣብ መዓልቲ እዘውደየ ብቕጽሉ መልሰለይ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ትሓብእ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽካ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ካባይ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ጸቕጢ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ዒ"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "ኣንሕብር"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ናባይ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "እዝንካ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "እዘውደየ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ብቕጽሉ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "መልሰለይ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:04:10.063798476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "እንተ ቐንዲ ተዋህብካ ⟨את⟩ ህዝበይ ዝኾነ ⟨את⟩ ድኹም ምስኻ፣ ከም ደባይ ኣይትከውንሉን፣ ወለድ ኣይተቐምጡሉን።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ቐንዲ"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "ተዋህብካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ህዝበይ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ህዝበይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ድኹም"
+    },
+    {
+      "surface": "העני",
+      "gloss": "ድኹም"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ኣይትከውን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "ከም ደባይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "ኣይተቐምጡ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዑሉ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ወለድ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:28:05.531461415Z",
+  "model": "glm-5.3"
+}

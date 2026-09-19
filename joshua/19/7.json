@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 19:7",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ዒን ራሞን፣ ዖተርን ዖሻን፤ ኣርባዕተ ከተማታትን ዓውራተንን።",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "ዒን"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ራሞን"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "ዖተርን"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "ዖሻን"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ከተማታት"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "ዓውራተንን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:28:53.308736643Z",
+  "model": "glm-5.3"
+}

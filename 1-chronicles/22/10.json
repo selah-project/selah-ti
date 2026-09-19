@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 22:10",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ንሱ ንስሚ ቤት ይሃንጾ እዩ፤ ንሱ ድማ ንኣነ ውዲ ይኸውን እዩ፣ ኣነ ድማ ንእሱ ኣቦ እየ፤ መንበር መንግስቱ እውን ኣብ ልዕሊ እስራኤል ክሳብ ዘለኣለም ኣጽኒዑ እየ።",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ይሃንጾ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "ንስሚ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ ድማ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይኸውን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ውዲ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሱ"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "והכינותי",
+      "gloss": "ኣጽኒዑ እየ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "መንበር"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "መንግስቱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T09:11:31.639046854Z",
+  "model": "glm-5.3"
+}

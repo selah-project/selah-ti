@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 115,
+  "translation": "ኣኽብርቲ ያህዌህ ብያህዌህ ተኣማኑ፤ ሓገዝኦምን ብርኪኦምን ንሱ እዩ።",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "ኣኽብርቲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ተኣማኑ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ብያህዌህ"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ሓገዝኦም"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "ብርኪኦምን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:57.335632556Z",
+  "model": "glm-5.3"
+}

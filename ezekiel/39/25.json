@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 39:25",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ስለዚ ከምዚ በለ ኣዶናይ ያህዌህ፦ «ሕጂ ⟨את⟩ ስደተ ያዕቆቭ ክመልስ እየ፣ ንመላእ ስድራ ኢስራኤል እናራሕም፣ ንቕድስነት ስምይ እንግዲኣ እናቕንጸል።»",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ክመልስ እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስደተ ያዕቆቭ"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "ስደተ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "እናራሕም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላእ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ኢስራኤል"
+    },
+    {
+      "surface": "וקנאתי",
+      "gloss": "እናቕንጸል"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ንስም"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ቕድስነትይ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:55:59.512194917Z",
+  "model": "glm-5.3"
+}

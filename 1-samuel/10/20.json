@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ሽሙኤል ድማ ⟨את⟩ ኹሉ ኩነታት እስራኤል ቐረቦ፤ ኩነት ብንያምይን ድማ ተወሰደት።",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ቐረቦ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሽሙኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ ኩነታት እስራኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ኩነታት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ተወሰደት"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ኩነት"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ብንያምይን"
+    }
+  ],
+  "timestamp": "2026-09-19T00:02:22.163596411Z",
+  "model": "glm-5.3"
+}

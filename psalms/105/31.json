@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "በለ፣ ድማ ተኸታት ኣንበጣታት ኣብ ኩሉ ዶባቶም መጸአ።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "መጸአ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ተኸታት ነፍሳት"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ኣንበጣታት"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ዶባቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:29.817922818Z",
+  "model": "glm-5.3"
+}

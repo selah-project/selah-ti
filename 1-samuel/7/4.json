@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ውላድ እስራኤል ድማ ⟨את⟩ እቶም ባዓላትን ⟨ואת⟩ እተን ኣሽታሮትን ኣብልኹ፣ ⟨את⟩ ያህዌህ ጥራይ ኣገልገሉ።",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "ኣብልኹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ባዓላት"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "እቶም ባዓላት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "እተን ኣሽታሮት"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "እተን ኣሽታሮት"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ኣገልገሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ጥራይ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:01:09.139709096Z",
+  "model": "glm-5.3"
+}

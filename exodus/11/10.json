@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ሞሸን ኣሃሮንን ኩሉ እዚኦም ተኣምራት ኣብ ቅድሚ ፓርዖ ገበሩ፤ ያህዌህ ድማ ⟨את⟩ ልቢ ፓርዖ ኣጸናዕዎ፣ ⟨את⟩ ውላድ እስራኤል ኻብ ምድሩ ኣይለኣኾምን።",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "ሞሸን"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ኣሃሮንን"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እዚኦም ተኣምራት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "እቶም ተኣምራት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ኣጸናዕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልቢ ፓርዖ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ለኣኾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ እስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ኻብ ምድሩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:16:03.837114613Z",
+  "model": "glm-5.3"
+}

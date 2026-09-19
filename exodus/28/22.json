@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 28:22",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ኣብ ልዕሊ እቲ ጉርጓሜ ሰንሰለት ተበጢዑ ስራሕ ገመድ ሓሊብ ወርቂ ትገብር።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "እቲ ጉርጓሜ"
+    },
+    {
+      "surface": "שרשת",
+      "gloss": "ሰንሰለት"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "ተበጢዑ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ስራሕ"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "ገመድ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ሓሊብ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:34:12.566004432Z",
+  "model": "glm-5.3"
+}

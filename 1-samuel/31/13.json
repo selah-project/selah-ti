@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ወሲዶም ⟨את⟩ ቁርጾም ተቐብሩ ኣብ ትሕቲ እታ በርበራ ኣብ ያቤሽ፣ ጾሙ ድማ ሸውዓተ መዓልታት።",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ወሲዶም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቁርጾም"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "ቁርጾም"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ተቐብሩ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ትሕቲ"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "እታ በርበራ"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "ኣብ ያቤሽ"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "ጾሙ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:20:29.514500059Z",
+  "model": "glm-5.3"
+}

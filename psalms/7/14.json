@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ንሱ ድማ ቅዠትታት ሞት ኣዳልዎ፤ ስሒምቱን ንዝቃጽሉ ይገበሮም።",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "ንሱ ድማ"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ኣዳልዎ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ቅዠትታት"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "ስሒምቱን"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "ንዝቃጽሉ"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "ይገበሮም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:09.671223992Z",
+  "model": "glm-5.3"
+}

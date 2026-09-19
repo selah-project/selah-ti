@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ስሉስ ሰብ ብሓይሊ ⟨እዩ⟩፣ ከምኡውን ሰብ ውልቃዊ ሓይሊ የበዝሕ።",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ስሉስ"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "ብሓይሊ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ከምኡውን ሰብ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ውልቃዊ"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "የበዝሕ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ሓይሊ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:54:42.531109539Z",
+  "model": "glm-5.3"
+}

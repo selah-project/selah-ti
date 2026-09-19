@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ወን ኣብ ቀዳማይ ወርሒ፣ ኣብ ዓሰርተ ኣርባዕተ መዓልቲ ናይ እቲ ወርሒ፣ ፋሲካ ናይ ያህዌህ ⟨እያ⟩።",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "ወን ኣብ ወርሒ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ቀዳማይ"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ኣብ ኣርባዕተ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ናይ እቲ ወርሒ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ፋሲካ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ናይ ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:37:35.832052307Z",
+  "model": "glm-5.3"
+}

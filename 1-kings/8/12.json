@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ነቲ ድማ ሽሎሞ በለ፦ ያህዌህ ኣብ ጸሉማት እተቐመጠ በለ።",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "እተቐመጠ"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "ኣብ ጸሉማት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:54:14.456116306Z",
+  "model": "glm-5.3"
+}

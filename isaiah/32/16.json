@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "እቲ ብደልን ማለት ምዃኑ ኣብ ⟨እቲ> በረኻ ይነብር፤ ጽድቂ ድማ ኣብ ⟨እቲ> ከርማል ትቐመጥ።",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "ይነብር"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ በረኻ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ብደልን ማለት"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ጽድቂ ድማ"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "ኣብ ከርማል"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ትቐመጥ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:00:17.386564926Z",
+  "model": "glm-5.3"
+}

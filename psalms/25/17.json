@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 25:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "መከራታት ልቤ ተዓቢዎም እዮም፤ ካብ መቕጻዕቲይ ኣውጽኣኒ።",
+  "tokens": [
+    {
+      "surface": "צרות",
+      "gloss": "መከራታት"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "הרחיבו",
+      "gloss": "ተዓቢዎም"
+    },
+    {
+      "surface": "ממצוקותי",
+      "gloss": "ካብ መቕጻዕቲይ"
+    },
+    {
+      "surface": "הוציאני",
+      "gloss": "ኣውጽኣኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:19.799589957Z",
+  "model": "glm-5.3"
+}

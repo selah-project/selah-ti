@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ምድሪ ዋዕለት፣ ተሰገየት፤ ልባኖን ተዓቢጹ ኸደ፤ ሻሮን ከም በረኻ ⟨ኰነት⟩፤ ባሳንን ካርሚልን ድማ ክራይ ውረዶም እዮም።",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "ዋዕለት"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "ተሰገየት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "ተዓቢጹ"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ልባኖን"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "ኸደ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ኰነት"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "ሻሮን"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "ከም በረኻ"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ውረዶም"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ባሳን"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "ካርሚልን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:59:37.364978073Z",
+  "model": "glm-5.3"
+}

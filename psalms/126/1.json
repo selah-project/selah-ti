@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 126,
+  "translation": "መዝሙር ናይ እተዓረጉ። ኣብ ምስሓብ ያህዌህ ⟨את⟩ ምምላስ ናይ ጽዮን፣ ከም ዘሕሉም ኮንና።",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ናይ እተዓረጉ"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "ኣብ ምስሓብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምምላስ ናይ ጽዮን"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "ምምላስ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ኮንና"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "ከም ዘሕሉም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:23.332400357Z",
+  "model": "glm-5.3"
+}

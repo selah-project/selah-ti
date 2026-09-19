@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ኤሎሂም ድማ ⟨את⟩ እተኣተዩት ናይ ኣቦኹም ኣውራጄ ኣውጺኡ ሃበኒ።",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "ኣውጺኡ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እተኣተዩት ኣውራጄ"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "እተኣተዩት ኣውራጄ"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "ናይ ኣቦኹም"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:54:12.684649980Z",
+  "model": "glm-5.3"
+}

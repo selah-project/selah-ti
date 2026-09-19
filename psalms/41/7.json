@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ምስ መጸ ንኽርኣየኒ ጽልኣ ይዛረብ፣ ልቡ ንእሱ ክፉእ ይእክብ፣ ናብ ወጻኢ ምስ ወጸ ይዛረቦ።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ምስ መጸ እንተ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ንኽርኣየኒ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ጽልኣ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ይዛረብ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "ይእክብ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሱ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "ናብ ወጻኢ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ይዛረቦ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:13.537355809Z",
+  "model": "glm-5.3"
+}

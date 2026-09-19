@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ምስ ⟨the⟩ ደም ኣይትብሉን፤ ኣይትጽርሙንን፣ ድማ ኣይተውሕሉንን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ትብሉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "ኣይትጽርሙን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ድማ ኣይ…ን"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "ኣይተውሕሉን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:02:40.267078026Z",
+  "model": "glm-5.3"
+}

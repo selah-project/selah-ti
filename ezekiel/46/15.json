@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 46,
+  "translation": "ብለይቲ ብለይቲ ⟨את⟩ እቲ ቁላብን ⟨ואת⟩ እታ ወፈያ ዲስኪን ⟨ואת⟩ እቲ ዘትን ይገብሩ፣ ዕላሊ ኩሉ ግዜ እዩ።",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "ይገብሩን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ቁላብ"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "እቲ ቁላብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "እታ ወፈያ ዲስኪ"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "እታ ወፈያ ዲስኪ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "እቲ ዘት"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "እቲ ዘት"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ብለይቲ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ብለይቲ"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ዕላሊ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ኩሉ ግዜ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:02:16.870223495Z",
+  "model": "glm-5.3"
+}

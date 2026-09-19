@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ከምኡውን ሓዎቡ እንተ የለዉን፣ ነቲ ⟨את⟩ ውርሻኡ ናብ ሓዎቡ ኣቦኡ ተውከሉን።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ከምኡውን እንተ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ሓዎቡ"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ተውከሉን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውርሻኡ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ውርሻኡ"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "ናብ ሓዎቡ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:37:12.442225989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 27:8",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ከምኡ'ውን ንሱ ካብ ዋጋኻ እንተ ጸኒዑ፣ ኣብ ቅድሚ ካህን ኪቕረብ፤ ካህን ድማ ⟨אתו⟩ ኪዋጅዮ፤ ኣብ ዘተበቅዐት ኢድ ናይቲ ዝበዝሕ ኪዋጅዮ ካህን።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ከምኡ'ውን እንተ"
+    },
+    {
+      "surface": "מך",
+      "gloss": "ጸባእ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "מערכך",
+      "gloss": "ካብ ዋጋኻ"
+    },
+    {
+      "surface": "והעמידו",
+      "gloss": "ኪቕረብ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "והעריך",
+      "gloss": "ኪዋጅዮ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ብቓል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዘ"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "ዝተበቅዐት"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "הנדר",
+      "gloss": "ናይቲ ዝበዝሕ"
+    },
+    {
+      "surface": "יעריכנו",
+      "gloss": "ኪዋጅዮ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:11:26.325117174Z",
+  "model": "glm-5.3"
+}

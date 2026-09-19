@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ኣገልጋሊ ኣሞን ንእሶ ተሓቡ፣ እቲ ንጉስ ድማ ⟨את⟩ ኣብ ገዛኡ ቀተልዎ።",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "ተሓቡ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልጋሊ ናይ"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "ኣሞን"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ንእሶ"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "ቀተልዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ንጉስ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ኣብ ገዛኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:35:15.645996152Z",
+  "model": "glm-5.3"
+}

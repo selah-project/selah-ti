@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣብ ቤት ሓዛኤል ሓዊ እስውዕል፣ ከምሮት በን-ሓዳድ ድማ ይብላዕ።",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "እስውዕል"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "ሓዛኤል"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ይብላዕ ድማ"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "ከምሮት"
+    },
+    {
+      "surface": "בן",
+      "gloss": "በን-…-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "…ሓዳድ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:15:27.572185490Z",
+  "model": "glm-5.3"
+}

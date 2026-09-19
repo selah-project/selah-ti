@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 97,
+  "translation": "እቶም ከረብታት ከም ሽምቢ ተበበዩ ቅድሚ ያህዌህ፣ ቅድሚ ጎይታ ኩሉ ምድሪ።",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "እቶም ከረብታት"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "ከም ሽምቢ"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "ተበበዩ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ጎይታ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:20.563464303Z",
+  "model": "glm-5.3"
+}

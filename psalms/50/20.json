@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ተቐምጥካ ብዛዕባ ሓውኻ ተዛረብካ፤ ብዛዕባ ወዲ ኣደኻ ድማ ምስዋእ ሃብካ።",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "ተቐምጥካ"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "ብዛዕባ ሓውኻ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ተዛረብካ"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "ብዛዕባ ወዲ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ኣደኻ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ሃብካ"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "ምስዋእ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:36.253701636Z",
+  "model": "glm-5.3"
+}

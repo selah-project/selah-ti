@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 76,
+  "translation": "ስግናት ሰብ ትዛረበካ እያ፤ ተሪታ ስግናት ድማ ትጠቕበሉ ኢኻ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ስግናት"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "ትዛረበካ"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ተሪታ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ስግናት"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "ትጠቕበሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:03.419943293Z",
+  "model": "glm-5.3"
+}

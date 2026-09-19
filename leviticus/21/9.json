@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ከምኡውን ወዲቲ ሰብ ካህን ንምዝናብ እንተ ሓደገት፣ ንሳ ⟨את⟩ ኣቦኣ ትሕድስ፤ ብሓዊ ትትሓብል።",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "ወዲቲ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "ክትወርድ"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "ንምዝናብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቦኣ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ኣቦኣ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ንሳ"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "ትሕድስ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ብሓዊ"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "ትትሓብል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:47.172653578Z",
+  "model": "glm-5.3"
+}

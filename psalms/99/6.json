@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 99,
+  "translation": "ሞሸን ኣሃሮንን ኣብ ኻህናቱ ነይሮም፣ ሽምዌል እውን ኣብ ዝጸውዑ ስሙ ነይሩ፤ ናብ ያህዌህ ይጸውዑ ነይሮም፣ ንሱ ድማ ይምልሶም ነይሩ።",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ኣሃሮንን"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "ኣብ ኻህናቱ"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "ሽምዌል እውን"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "ኣብ ዝጸውዑ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "ይጸውዑ ነይሮም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ ድማ"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "ይምልሶም ነይሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:56.062295541Z",
+  "model": "glm-5.3"
+}

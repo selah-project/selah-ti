@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 88,
+  "translation": "ኣነ ግን ናብ ያህዌህ ቐየለኹ፤ ኣብ ቡኡት ጸሎተይ ድማ ቅድሚኻ ተቐምጣ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብ ንስኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ቐየለኹ"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ኣብ ቡኡት"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ጸሎተይ"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "ቅድሚኻ ተቐምጣ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:48.207389798Z",
+  "model": "glm-5.3"
+}

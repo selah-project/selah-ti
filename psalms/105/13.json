@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ካብ ሃገር ናብ ሃገር፣ ካብ መንግስቲ ናብ ካልኢት ብሄሪ እናዘወሩ ከዱ።",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "እናዘወሩ ከዱ"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ካብ ሃገር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ሃገር"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "ካብ መንግስቲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ብሄሪ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ካልኢት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:31.085074103Z",
+  "model": "glm-5.3"
+}

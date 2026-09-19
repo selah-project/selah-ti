@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 15:1",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ኣብ መወዳእታ ናይ ሸውዓተ ዓመታት ምውድቂ ትገብር።",
+  "tokens": [
+    {
+      "surface": "מקץ",
+      "gloss": "ኣብ መወዳእታ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "ምውድቂ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:57:36.282347695Z",
+  "model": "glm-5.3"
+}

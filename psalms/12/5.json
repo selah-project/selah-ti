@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "«ብትሕታትና ክንጽውዕ ኢና፤ ከሳትና ⟨את⟩ ንሕና እየን፤ ንሕና መን ጎይታ ኣለና?» ኢሎም ዝበሉ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ዝበሉ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "ብትሕታትና"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "ክንጽውዕ"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "ከሳትና"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ንሕና",
+      "marks": "ንሕና"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ጎይታ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:57.832045845Z",
+  "model": "glm-5.3"
+}

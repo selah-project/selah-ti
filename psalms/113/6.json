@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 113,
+  "translation": "ንሱ ኣብ ሰማያትን ኣብ ምድርን ንኽርእየሉ ዝዝምዕሉ እዩ።",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "ዝዝምዕሉ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ንኽርእየሉ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ኣብ ሰማያት"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ኣብ ምድርን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:31.900031503Z",
+  "model": "glm-5.3"
+}

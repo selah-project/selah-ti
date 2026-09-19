@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ኣብ ምውሓር እቲ ባሕሪ ንስኻ ትስውእ ኢኻ፤ ኣብ ዝቕልጠፉ ማዕበላቱ ንሳቶም ትሰብኾም ኢኻ።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ትስውእ"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "ኣብ ምውሓር"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "ኣብ ዝቕልጠፉ"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "ማዕበላቱ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "ትሰብኾም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:42.547146230Z",
+  "model": "glm-5.3"
+}

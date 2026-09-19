@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "ብዘለኣለም ቅድሚ ያህዌህ ኩኑ፤ መዘኻኸሪኦም ከኣ ካብ ምድሪ ክቐርጽ።",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ኩኑ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ብዘለኣለም"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ክቐርጽ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "መዘኻኸሪኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:54.104817912Z",
+  "model": "glm-5.3"
+}

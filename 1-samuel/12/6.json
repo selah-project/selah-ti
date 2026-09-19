@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ሳሙኤል ድማ ንእቲ ሕዝቢ «ያህዌህ — ሞሸን ⟨את⟩ ኣሃሮንን ואת ዝፈጠረ፣ ኣቦታትኩምን ואת ካብ ሚጽራይም ዝዓቐበ እዩ» በሎም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎም"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ንእቲ ሕዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ንእቲ ሕዝቢ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "— ዝ…"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝፈጠረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "וን ⟨את⟩",
+      "marks": "ኣሃሮን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ኣቦታትኩም ድማ ካብ ሚጽራይም እዩ ዝዓቐበ ዝ…"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ዝዓቐበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቦታትኩም"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "ኣቦታትኩም"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:03:03.008373768Z",
+  "model": "glm-5.3"
+}

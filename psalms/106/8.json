@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ንስሙ ድማ ድሕነዎም፣ ንኽገልጥ ⟨את⟩ ኣኽልማቱ።",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "ድሕነዎም"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ንስሙ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "ንኽገልጥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣኽልማቱ"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "ኣኽልማቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:57.109501331Z",
+  "model": "glm-5.3"
+}

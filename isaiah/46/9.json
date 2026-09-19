@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 46:9",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 46,
+  "translation": "ተዘኻእሩ ንቕድሚ ካብ ዘለኣለም ዝነጹ ነገራት፤ እሞ ኣነ ኤል እየ፣ ካልእ የለን፣ ኤሎሂም የለን፣ ከምኣነ ካልእ የለን።",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "ተዘኻእሩ"
+    },
+    {
+      "surface": "ראשנות",
+      "gloss": "ቕድሚ ዝነጹ"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ካብ ዘለኣለም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለን፣"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ካልእ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "የለን፣"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "ከምኣነ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:12:15.143951387Z",
+  "model": "glm-5.3"
+}

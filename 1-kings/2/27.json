@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 2:27",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሽሎሞ ድማ ⟨את⟩ ኣብያታር ኻህን ናይ ያህዌህ ምግናን ካብ ምግላጽ ኣወግዱ፣ ቓል ያህዌህ ንምምላእ ⟨את⟩ ዝበሎ — እቲ ብቤት ዔሊ ኣብ ሺሎ ዝተባህለ።",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "ኣወግዱ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብያታር"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "ኣብያታር"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "ምግናን"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ኻህን"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ናይ ያህዌህ"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "ንምምላእ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቓል"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተባህለ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ዔሊ"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "ኣብ ሺሎ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:47:26.519936481Z",
+  "model": "glm-5.3"
+}

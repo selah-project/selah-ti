@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 21:1",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "እቲ ቃል እቲ ካብ ያህዌህ ⟨את⟩ ንይርምያሁ ዝወረደ፣ እቲ ንጉስ ጸቕድንያሁ ⟨את⟩ ጳሽሑር ወዲ ማልኪንያሁን ⟨את⟩ ጸፍንያሁ ወዲ ማዓሰንያሁን እቲ ካህን ንእኡ ምስ ለኣኾ፣ ንምባል፦",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ቃል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ዝወረደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ይርምያሁ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "ምስ ዝለኣኾ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንእኡ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ጸቕድንያሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጳሽሑር"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "ጳሽሑር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "ማልኪንያሁ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጸፍንያሁ"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "ጸፍንያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "ማዓሰንያሁ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ካህን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ንምባል"
+    }
+  ],
+  "timestamp": "2026-09-19T02:46:25.942080445Z",
+  "model": "glm-5.3"
+}

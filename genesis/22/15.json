@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "መልኣኽ ያህዌህ ድማ ካብ ሰማያት ንኣቭራሃም ካልኣይ ግዜ ተዛረበ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "መልኣኽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ካልኣይ ግዜ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:45:30.429984766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ንምፍረድ ጕልባትን ተጨንቑን፣ ካብ ምድሪ ሰብ ደጋጊም ኣይደርሕን።",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "ንምፍረድ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ጕልባት"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "ተጨንቆ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ደጋጊም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ድሕሪታ"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "ንምደርሓት"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:46.669096429Z",
+  "model": "glm-5.3"
+}

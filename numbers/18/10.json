@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ኣብ ቅዱስ ቅዱሳት ትእሎ፤ ዅሉ ተባዕታይ ይእሎ ⟨את⟩-ን፤ ቅዱስ ንኻ ክንበል እዩ።",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "ኣብ ቅዱስ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ትእሎ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ዅሉ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ተባዕታይ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይእሎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንኡ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክንበል እዩ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:26:27.379334577Z",
+  "model": "glm-5.3"
+}

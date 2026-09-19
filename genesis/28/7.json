@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ያዕቆብን ነቲ ኣቦኡ ቃልን ነቲ ኣደኡ ቃልን ምስ ሰምዐ፣ ናብ ፓዳን ኣራም ከደ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቲ ኣቦኡ ቃል"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ነቲ ኣደኡ ቃልን"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ኣደኡ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "ፓዳን"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:50:53.098019039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ያህዌህ ድማ ኣብ ሰማያት ኣወደረ፣ ውልቃዊ ድማ ድማዑ ሃቈ — በረድን ጽሩታት ሓዊን።",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "ኣወደረ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ኣብ ሰማያት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "ውልቃዊ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ሃቈ"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ድማዑ"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "በረድ"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "ጽሩታት"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:35.298044867Z",
+  "model": "glm-5.3"
+}

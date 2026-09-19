@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 19:7",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኣይ «ግፍዲ እዩ!» እየ እጽውዕ፣ ኣይተመለሰሉኒን፣ እጽውዕ ድማ፣ ፍትሒ የለን።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אצעק",
+      "gloss": "እጽውዕ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ግፍዲ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ይመልሰሉኒ"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "እጽውዕ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "…የለን"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍትሒ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:12:49.886846905Z",
+  "model": "glm-5.3"
+}

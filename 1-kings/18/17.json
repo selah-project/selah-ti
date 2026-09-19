@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ሽዑ ምስ ረኣየ ኣካብ ⟨את⟩ ኤልያስ፣ ኣካብ ነቲ በሎ፦ «ንስኻ'ዶ እዚ እዩ ነቲ ዝበርትዖ ይስራኤል?»",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ሽዑ"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "ምስ ረኣየ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ኣካብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤልያስ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያስ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ኣካብ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "ንስኻ'ዶ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "ዝበርትዖ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T01:08:03.313167592Z",
+  "model": "glm-5.3"
+}

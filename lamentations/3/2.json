@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣብ ጸልማት ንዓኣ ኣእቲሉ ከደ፣ ብብርሃን ግን ኣይኮነን።",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ንዓኣ"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ኣእቲሉ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጸልማት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:35:09.010080175Z",
+  "model": "glm-5.3"
+}

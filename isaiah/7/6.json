@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 7:6",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ንወጸና ይሁዳ፣ ነቕጻን ነበጻን ናብና፣ ወዲ ጣብኣል ⟨את⟩ ኣብ መንጎኣ ንንግር ንጉስ፦",
+  "tokens": [
+    {
+      "surface": "נעלה",
+      "gloss": "ንወጸና"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ונקיצנה",
+      "gloss": "ነቕጻን"
+    },
+    {
+      "surface": "ונבקענה",
+      "gloss": "ነበጻን"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ናብና"
+    },
+    {
+      "surface": "ונמליך",
+      "gloss": "ንንግርን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ኣብ መንጎኣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወዲ ጣብኣል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "טבאל",
+      "gloss": "ጣብኣል"
+    }
+  ],
+  "timestamp": "2026-09-19T01:43:50.093226624Z",
+  "model": "glm-5.3"
+}

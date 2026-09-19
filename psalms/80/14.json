@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 80,
+  "translation": "ጎልማሳ ሓረስ ካብ ጥቄታ ይኽርስሞ፣ ኣራዊት ስፍራ ድማ ይሰምብዋ እዩ።",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "ይኽርስሞ"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "ጎልማሳ ሓረስ"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "ካብ ጥቄታ"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "ኣራዊት"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ስፍራ"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "ይሰምብዋ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:45.698544598Z",
+  "model": "glm-5.3"
+}

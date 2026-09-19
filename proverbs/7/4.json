@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ንሕኮምታ በላ፣ ‹ኣሕተይ ንስኺ ⟨את⟩›፣ ንፍልጠት ድማ ብዝሕኣውተይ ተሰምያ።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "በላ"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "ንሕኮምታ"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ኣሕተይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንስኺ (ብዝሕኣው ፍልጠት)"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "ንብዝሕኣው ፍልጠትን"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ንምርዳእ"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ተሰምያ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:45:25.928546985Z",
+  "model": "glm-5.3"
+}

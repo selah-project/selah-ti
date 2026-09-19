@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣቢሹዓውን ሓደ ወሊዱ ⟨את⟩ ቡቂ፣ ቡቂውን ሓደ ወሊዱ ⟨את⟩ ዕዚ።",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "ኣቢሹዓውን"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ሓደ ወሊዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቡቂ"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ቡቂ"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "ቡቂውን"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ሓደ ወሊዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዕዚ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ዕዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:32:18.015536271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ብድምጺዬ ናብ ያህዌህ ቐሪብኩ፣ ንሱ ድማ ካብ ቅዱስ ከደቡ መለሰለይ። ስላህ።",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ድምጺዬ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ቐሪብኩ"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "መለሰለይ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ካብ ከደቡ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስ ናይ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:40.631199346Z",
+  "model": "glm-5.3"
+}

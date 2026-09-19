@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ነቲ ንጉስ ይሆራም ኣብ እታ መዓልቲ ካብ ሾምርያ ወጺኡ ⟨את⟩ ኹሉ እስራኤል ቆጸረ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጺኡ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ነቲ ንጉስ"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "ይሆራም"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ እታ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "ሾምርያ"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ቆጸረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ እስራኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T01:14:35.684986848Z",
+  "model": "glm-5.3"
+}

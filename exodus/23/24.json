@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 23:24",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ንኣማልኽቶም ኣይትስገድሎምን፣ ኣይተገልጾምን፣ ከም ተግባሮምን ኣይትገብርን፤ ብውልቂ ተሓርሶም፣ ቋላቶምን ብውልቂ ተሰብሮም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ትስገድ"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "ንኣማልክቶም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…ን"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "ተገልጾም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "…ን"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "כמעשיהם",
+      "gloss": "ከም ተግባሮም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "ብውልቂ"
+    },
+    {
+      "surface": "תהרסם",
+      "gloss": "ተሓርሶም"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ብውልቂ"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "ተሰብሮም"
+    },
+    {
+      "surface": "מצבתיהם",
+      "gloss": "ቋላቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:28:43.223738243Z",
+  "model": "glm-5.3"
+}

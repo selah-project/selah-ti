@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ከምኡ እውን ⟨את⟩ ኤፉድ ብወርቂ፣ ብተክለት፣ ብኣርገማን፣ ብተልዓት ሸኒንን ብጥሙት ማእከላይ በፍጥሩ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ከምኡ እውን በፍጥሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤፉድ"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ኤፉድ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ብወርቂ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ብተክለት"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ብኣርገማን"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ብተልዓት ሸኒ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ሸኒ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ብጥሙት"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ማእከላይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:44:27.487458076Z",
+  "model": "glm-5.3"
+}

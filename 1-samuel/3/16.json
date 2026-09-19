@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ዔሊ ድማ ሓደጎ ⟨את⟩ ሽሞኤል፥ «ሽሞኤል ወደይ» በለ። ንሱ ድማ «ኣለኹ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ሓደጎ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ዔሊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሽሞኤል"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሽሞኤል"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሽሞኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወደይ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ኣለኹ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:58:26.113978706Z",
+  "model": "glm-5.3"
+}

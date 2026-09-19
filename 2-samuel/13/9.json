@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 13:9",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ነቲ ⟨את⟩ ባንዲ ወሲዳ ኣብ ቅድምኡ ኣወረደቶ፤ ንምብላዕ ግን ኣበወ። ኣምኖን ድማ «ኩሉ ሰብ ካባይ ኣውጹ» በለ፤ ኩሉ ሰብ ካባቱ ተወጸኡ።",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "ወሲዳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ባንዲ"
+    },
+    {
+      "surface": "המשרת",
+      "gloss": "ነቲ ባንዲ"
+    },
+    {
+      "surface": "ותצק",
+      "gloss": "ኣወረደቶ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ኣብ ቅድምኡ"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "ኣበወ"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ንምብላዕ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "ኣምኖን"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "ኣውጹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ካባይ"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ተወጸኡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ካባቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:29:58.721708064Z",
+  "model": "glm-5.3"
+}

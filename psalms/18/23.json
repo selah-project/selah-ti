@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ምኽንያቱ ፍርዃቱ ኵሉ ኣብ ቅድሜይ እዩ፣ ትእዛዛቱ ከኣ ካብ ባዕለይ ኣየረሕቐን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኵሉ"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ፍርዃቱ"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "ኣብ ቅድሜይ"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ከኣ ትእዛዛቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ኣረሕቕኩ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ካብ ባዕለይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:48.770588901Z",
+  "model": "glm-5.3"
+}

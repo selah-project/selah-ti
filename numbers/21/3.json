@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ያህዌህ ቃል እስራኤል ሰምዑ፣ ነቲ ከነዓኒ ሃቦ፤ ንሳቶምን ነቶም ከተማታቶምን ድማ ሕረሞም፣ ከምኡውን ስም እቲ ቦታ ሕረማ በሎ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዑ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሃቦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ከነዓኒ"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ከነዓኒ"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "ሕረሞም"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳቶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ከተማታቶም"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "ከተማታቶም"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "ሕረማ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:32:34.162771945Z",
+  "model": "glm-5.3"
+}

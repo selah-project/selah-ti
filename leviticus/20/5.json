@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኣነ እውን ገጽይ ኣብ እቲ ሰብ ኣብ ስድራኡ እተባህገ ነቲ ሰብን ኩሉ እቶም ምስ ሲሱ ናብ እቲ ሰብ ዝኣተዉ ተወዲቦም።",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "እተባህገ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገጽይ ኣብ እቲ ሰብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽይ"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ኣብ እቲ ሰብ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "ኣብ ስድራኡ"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ተወዲቡ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ሰብን ኩሉ እቶም ዝኣተዉን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እቶም ዝኣተዉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "እቶም ዝኣተዉ ምስ ሲሱ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ምስ ሲሱ"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "ናብ እቲ ሰብ ዝኣተዉ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ካብ ማእከል"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ህዝቦም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:34.572707684Z",
+  "model": "glm-5.3"
+}

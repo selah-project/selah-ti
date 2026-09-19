@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "እዚ ድማ ከም ጽድቂ ንኡ ተቐየረ፣ ካብ ውላደት ናብ ውላደት ክሳብ ዘለኣለም።",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "ተቐየረ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "ከም ጽድቂ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ንውላደት"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ውላደትን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T09:04:03.341188798Z",
+  "model": "glm-5.3"
+}

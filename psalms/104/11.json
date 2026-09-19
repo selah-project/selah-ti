@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "ኩሉ እቲ እንስሳ ሜዳ ያጠምቱ፣ ውሑይ ኣጋዚብ ድማ ጽምኢቶም ይሰብሩ።",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "ያጠምቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "እንስሳ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ሜዳ"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ይሰብሩ"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "ውሑይ ኣጋዚብ"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "ጽምኢቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:27.952784447Z",
+  "model": "glm-5.3"
+}

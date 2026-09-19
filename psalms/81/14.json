@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 81,
+  "translation": "ኣሕይወኒ ሕዝበይ ዝሰምዐኒ ነይሩ፣ እስራኤል ድማ ኣብ መገድተይ ክነጥፍ ነይሩ!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "ኣሕይወኒ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝበይ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ዝሰምዐኒ ነይሩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ኣብ መገድተይ"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ክነጥፍ ነይሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:40.078011455Z",
+  "model": "glm-5.3"
+}

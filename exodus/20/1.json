@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኤሎሂም ⟨את⟩ ኩሉ ቃላት እዚኦም እናበለ ተዛረበ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበል"
+    }
+  ],
+  "timestamp": "2026-09-18T21:24:57.215347132Z",
+  "model": "glm-5.3"
+}

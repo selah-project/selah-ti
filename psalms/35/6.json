@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "«መገዲ እቶም ጸልማትን ስሓብን ይኹን፣ መልኣኽ ያህዌህ ድማ ኣስዒቦም።»",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ይኹን"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "መገዲ እቶም"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጸልማት"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "ስሓብን"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "መልኣኽን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "ኣስዒቦም"
+    }
+  ],
+  "timestamp": "2026-09-19T09:01:31.017116884Z",
+  "model": "glm-5.3"
+}

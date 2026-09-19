@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 96,
+  "translation": "ምኽንያቱ ያህዌህ ዓቢ እዩ፣ ብዙሕ ከኣ ዝመስገን እዩ፣ ንሱ ኣብ ልዕሊ ኩሉ ኣማልኽቲ ብኽብሪ ዝሓግር እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ዝመስገን"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ዝሓግር"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኣማልኽቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:40.888498204Z",
+  "model": "glm-5.3"
+}

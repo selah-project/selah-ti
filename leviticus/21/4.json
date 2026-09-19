@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ባዕሉ ሓያል ኣብ ማሕበሩ ንኽቕድስ ኣይንጽኣን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይንጽኣን"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ንጽኣእ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ባዕሉ ሓያል"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "ኣብ ማሕበሩ"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "ንኽቕድስ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:24.998258511Z",
+  "model": "glm-5.3"
+}

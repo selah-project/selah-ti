@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 113,
+  "translation": "«መን ከም ያህዌህ ኤሎሂምና እዩ፧» ንሱ ድማ ኣብ ልዕሊ ኩሉ ኮይኑ ንኽቐመጥ ዝምሓውስ እዩ።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "ከም ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "ዝምሓውስ ኣብ ልዕሊ ኩሉ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ንኽቐመጥ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:31.899686040Z",
+  "model": "glm-5.3"
+}

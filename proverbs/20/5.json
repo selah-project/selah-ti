@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 20:5",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ማይ ጥሉቅ እዩ ምክርቲ ኣብ ልቢ ሰብ፤ ሰብ ስምዒ ድማ ⟨እዩ⟩ ይወጽኖ።",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "ጥሉቅ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ምክርቲ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ኣብ ልቢ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ሰብ …ድማ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ስምዒ"
+    },
+    {
+      "surface": "ידלנה",
+      "gloss": "ይወጽኖ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:51:57.745802073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 97,
+  "translation": "ብርሃን ንጸድቓይ ተዘርኢ፣ ንቅኑዕ ልቢ ድማ ሓስና።",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ተዘርኢ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ንጸድቓይ"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "ንቅኑዕ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ሓስና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:02.944457151Z",
+  "model": "glm-5.3"
+}

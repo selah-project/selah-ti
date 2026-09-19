@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ፓርዖ ድማ ⟨את⟩ እዚ ጉዳይ እዚ ሰምዐ፤ ሞሸ ንምትካል ደለየ፤ ሞሸ ካብ ፓርዖ ኮልሓሰ፤ ኣብ ምድረ ምድያን ተቐመጠ፤ ኣብ ልዕሊ እቲ በዓቲ ድማ ተቐመጠ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እዚ ጉዳይ እዚ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ጉዳይ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "ደለየ"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "ንምትካል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ኮልሓሰ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ካብ ፓርዖ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድረ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ምድያን"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "እቲ በዓቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:11:00.064576401Z",
+  "model": "glm-5.3"
+}

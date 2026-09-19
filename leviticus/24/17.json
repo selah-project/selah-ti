@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ሰብን ኩሉ ነፍሲ ሰብነት እንተ ኣሳቐየ፣ ብቕጽዕቲ ሞት ይቕተል።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ሰብን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ኣሳቐየ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብነት"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይቕተል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:05:41.258300238Z",
+  "model": "glm-5.3"
+}

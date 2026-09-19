@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 135,
+  "translation": "ንምድሮም ውርሻ፣ ውርሻ ንእስራኤል ህዝቢኡ ሃቈን።",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ሃቈን"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ንምድሮም"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ውርሻ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ውርሻ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ንእስራኤል"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ህዝቢኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:31.748963675Z",
+  "model": "glm-5.3"
+}

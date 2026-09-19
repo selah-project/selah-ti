@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 30:23",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ምኻኑ ናብ ሞት ትመልሰኒ ከም ዝእከይ ዅድነይ፤ ናብቲ ንኩሉ ሕያው ዝተዋዕለ ቤት ዝኸይድ እየ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኻኑ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ዅድነይ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "תשיבני",
+      "gloss": "ትመልሰኒ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ንቤትን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ተዋዕለ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ሕያው"
+    }
+  ],
+  "timestamp": "2026-09-19T06:18:18.990405270Z",
+  "model": "glm-5.3"
+}

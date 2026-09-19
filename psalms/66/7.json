@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 66:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 66,
+  "translation": "ብሓይሉ ናብ ዘለኣለም ይግዝእ፤ ኣዒንቱ ኣብ ህዝቢታት ይርኣያ፤ ኣመጊታት ንሳቶም ኣይውሕሱን። ሰላህ።",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "ይግዝእ"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "ብሓይሉ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ኣዒንቱ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ኣብ ህዝቢታት"
+    },
+    {
+      "surface": "תצפינה",
+      "gloss": "ይርኣያ"
+    },
+    {
+      "surface": "הסוררים",
+      "gloss": "ኣመጊታት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "ውሕሱ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:00.643673364Z",
+  "model": "glm-5.3"
+}

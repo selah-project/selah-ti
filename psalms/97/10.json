@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 97,
+  "translation": "ኣፍቀደቲ ያህዌህ ኣብጽሑ ክፉእ፤ ⟨ንሱ⟩ ነፍሲታት ጸድቓይኡ ይሓልዎ፣ ካብ ኢድ ኣጣራፍ ድማ የድሕኖም።",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "ኣፍቀደቲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "ኣብጽሑ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ይሓልዎ"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "ነፍሲታት"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ጸድቓይኡ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኣጣራፍ"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "የድሕኖም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:02.944234339Z",
+  "model": "glm-5.3"
+}

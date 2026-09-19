@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኤፍራይም ምስ ዝዛረብ ⟨ነበረ⟩ ሽንፈት፤ ንሱ ኣብ እስራኤል ተኣማረ፣ ኣብ ባዕል ግን በዲል ገበረ፣ ሞተ።",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "ምስ ዝዛረብ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "ሽንፈት"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ተኣማረ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ኣብ እስራኤል"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "በዲል ገበረ"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "ኣብ ባዕል"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:11:47.068778367Z",
+  "model": "glm-5.3"
+}

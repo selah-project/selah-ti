@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ሰዓራ ሓብትኻ እንተ ኣትኻብልካዋ ፣ ክሳብ ምብጻሕ ውርደት ፀሓይ ንኡ ተመልሶ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ምውሰድ ኣታኺ"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "ክትኣትኻብል"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "ሰዓራ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ናይ ሓብትኻ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ምብጻሕ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ውርደት ፀሓይ"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "ተመልሶ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:27:59.317743574Z",
+  "model": "glm-5.3"
+}

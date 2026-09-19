@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ውላድ ጋድ ንሳድርኦም ብስድርኦም፤ ናይ ጽፎን ስድራ እቲ ጽፎናዊ፤ ናይ ሕጋይ ስድራ እቲ ሕጋይዊ፤ ናይ ሽውኒ ስድራ እቲ ሽውናዊ።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ንሳድርኦም ብስድርኦም"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "ናይ ጽፎን"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "እቲ ጽፎናዊ"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "ናይ ሕጋይ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "እቲ ሕጋይዊ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ናይ ሽውኒ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "እቲ ሽውናዊ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:34:08.885536026Z",
+  "model": "glm-5.3"
+}

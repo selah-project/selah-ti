@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 74,
+  "translation": "ይፍለጥ ከም ዝኣቱልና ናብ ልዕሊ ጥሙር ዱር ሳፉታት።",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "ይፍለጥ"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "ከም ዝኣቱልና"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ናብ ልዕሊ"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "ኣብ ጥሙር ዱር"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "እኽሊ (ኣጣዳፊ)"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "ሳፉታት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:53.429003877Z",
+  "model": "glm-5.3"
+}

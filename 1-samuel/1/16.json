@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "«ነቲ ⟨את⟩ ኣገልገልትኻ ንውላደ ብሊያል ከይትቕጽል ኣይትገብራ፤ ምኽንያቱ ካብ ብዙሕ ጸበበይን ስዕበይን እናበልኩ ክሳብ ኣብዚ በልኩ።»",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ቅ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ትገብራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣገልገልትኻ"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ኣገልገልትኻ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ን"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ብሊያል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ካብ ብዙሕ"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "ጸበበይ"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "ስዕበይ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "በልኩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ኣብዚ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:55:51.471321667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ዮሴፍ ድማ ኣብ ቀዳም ናባቶም መጸ፣ ረኣዮም ⟨את⟩ ንሳቶምን ኣሎን ተሓመሙን።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ናባቶም"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ኣብ ቀዳም"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ረኣዮም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳቶም"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "ኣሎ ከምዝ"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "ተሓመሙ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:25:06.028008807Z",
+  "model": "glm-5.3"
+}

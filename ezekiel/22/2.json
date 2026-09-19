@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ንስኻ ወዲ ሰብ፣ እታ ከተማ ሓሙሽተ ወጽርታ ኣብ ክንዲ ዝተፈርሰት ከተማ ክትፈርድ ቲ፧ ክትፈርድ ቲ፧ ⟨את⟩ ከተማቲ ደም እዚኣ ⟨את⟩ ኩሉ ግርኒ ክትፈልጣ ኣሎካ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "ክትፈርድ ቲ፧"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "ክትፈርድ ቲ፧"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተማቲ ደም"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማቲ"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "ክትፈልጣ ኣሎካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ግርኒ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "ግርኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:37:17.188699339Z",
+  "model": "glm-5.3"
+}

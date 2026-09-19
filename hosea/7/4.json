@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 7:4",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኩሎም ኣመናፍሮስ እዮም፣ ከም ምድጊ ተሓጺሩ ብእቲ ጸባኣይ፤ እቲ ጸባኣይ ካብ ምሕባእ እቲ ጽምሒ ክሳብ ኣመሊኡ ኣይቁረጽን።",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "ኣመናፍሮስ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "תנור",
+      "gloss": "ምድጊ"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "ተሓጺሩ"
+    },
+    {
+      "surface": "מאפה",
+      "gloss": "ብእቲ ጸባኣይ"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "ኣይቁረጽን"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ካብ ምሕባእ"
+    },
+    {
+      "surface": "מלוש",
+      "gloss": "እቲ ጽምሒ"
+    },
+    {
+      "surface": "בצק",
+      "gloss": "ጽምሒ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "חמצתו",
+      "gloss": "ኣመሊኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:07:43.557892921Z",
+  "model": "glm-5.3"
+}

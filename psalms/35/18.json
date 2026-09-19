@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ኣብ ብዙሕ ምክብርቲ ኣየኻ እየ፣ ብመንጎ ኣሸጊርቲ ህዝቢ ኣመስግንካ እየ።",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ኣየኻ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ኣብ ምክብርቲ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "ብመንጎ ህዝቢ"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "ኣሸጊርቲ"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "ኣመስግንካ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:14.548575486Z",
+  "model": "glm-5.3"
+}

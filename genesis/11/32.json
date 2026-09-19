@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ቀናት ተራሕ ድማ ክልተ ምእታትን ሓሙሽተ ዓመታትን ኮይኑ፤ ተራሕ ድማ ኣብ ሓራን ሞተ።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ቀናት"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ተራሕ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታትን"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ክልተ ምእታት"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ተራሕ"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "ኣብ ሓራን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:38:48.607429533Z",
+  "model": "glm-5.3"
+}

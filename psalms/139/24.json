@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 139,
+  "translation": "ከምኡውን ርኢ፣ መገዲ ጕድኣት ኣብ ውሽጠይ ዳይ እንተ ሃልዩ፣ ኣብ መገዲ ዘለኣለም ድማ መርሕኒ።",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ከምኡውን ርኢ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ዳይ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መገዲ"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ጕድኣት"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ኣብ ውሽጠይ"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "ከምኡውን መርሕኒ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መገዲ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:19.496912808Z",
+  "model": "glm-5.3"
+}

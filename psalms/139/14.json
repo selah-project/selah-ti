@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 139,
+  "translation": "ኣየኽኩኻ እየ፣ ምኽንያቱ ብርብርታዊ ምዃኑ ተፈላይኩ፤ ምዕባያት እዮም ተግባራትኻ፣ ነፍሰይ ድማ ብዙሕ ትፈልጦ እያ።",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ኣየኽኩኻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምዃኑ"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "ብርብርታዊ"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "ተፈላይኩ"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "ምዕባያት"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ተግባራትኻ"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "ነፍሰይ ድማ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ትፈልጦ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:32.393321851Z",
+  "model": "glm-5.3"
+}

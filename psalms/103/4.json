@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 103,
+  "translation": "ካብ ሽኦል ህይወትካ ዝድሕን፣ ሔሴድን ምሕረትን ዝክብረካ።",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "ዝድሕን"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ካብ ሽኦል"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "ህይወትካ"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "ዝክብረካ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "ከምኡውን ምሕረት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:36.307951423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "ያዕቆብ ድማ ንዮሴፍ በለ፦ ኤል ሻዳይ ብቡዝ ኣብ ምድሪ ከነዓን ተረኣየኒን ⟨את⟩ ንዓይ ባረከኒን።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ሻዳይ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ተረኣየ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንኹን"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "ብቡዝ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዓን"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ባረከ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ንዓይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:07:49.468881489Z",
+  "model": "glm-5.3"
+}

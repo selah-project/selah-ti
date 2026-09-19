@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 36:10",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ንእምዮም ንትምህርቲ የውሕዝ፣ ካብ ክፉት ክትምልሱ ድማ ይኣዘዝ።",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "የውሕዝ"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "ንእምዮም"
+    },
+    {
+      "surface": "למוסר",
+      "gloss": "ንትምህርቲ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ይኣዘዝ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም እንተ"
+    },
+    {
+      "surface": "ישבון",
+      "gloss": "ክትምልሱ"
+    },
+    {
+      "surface": "מאון",
+      "gloss": "ካብ ክፉት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:21:18.832387329Z",
+  "model": "glm-5.3"
+}

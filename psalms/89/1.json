@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "መምህርታዊ ቤት ምስጢር፣ ናይ ኤታን እቲ ኣዝራሕዊ።",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "መምህርታዊ ቤት ምስጢር"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "ናይ ኤታን"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "እቲ ኣዝራሕዊ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:16.381676774Z",
+  "model": "glm-5.3"
+}

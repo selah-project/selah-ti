@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 10:16",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣብ ልዕሊ ሰራዊት ኩነታት ውላድ ዘቡሎን ድማ ኤልያብ ወዲ ሔሎን ነበረ።",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ኩነታት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ዘቡሎን"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ኤልያብ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "ሔሎን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:19:20.833385306Z",
+  "model": "glm-5.3"
+}

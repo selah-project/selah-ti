@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ስም ካብ ብዙሕ ዕበይቲ ተመሪጻ ኣላ፤ ካብ ብርን ካብ ወርቂን ኸመይ፣ ጸጋ ቅኑዕ እዩ።",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "ተመሪጻ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ካብ ዕበይቲ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "ካብ ብር"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "ንካብ ወርቂ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ጸጋ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ቅኑዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:53:50.582032953Z",
+  "model": "glm-5.3"
+}

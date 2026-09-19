@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ተወፊእኩን ብዙሕ ተሰቓየኩን፣ ካብ ጭንቀት ልበይ ድማ ጮኸሁ።",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "ተወፊእኩን"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "ተሰቓየኩን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዝኾነ"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "ጮኸሁ"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "ካብ ጭንቀት"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:01.271890295Z",
+  "model": "glm-5.3"
+}

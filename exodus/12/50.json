@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኩሉ ውላድ እስራኤል ከም እትዛረቦ ያህዌህ ብኣንቀሳቓሲ ብዛዕባ ሞሸን ብዛዕባ ኣሃሮንን ተዛረባዮ ከምኡ ገበሩ።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም እትዛረቦ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ብኣንቀሳቓሲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብዛዕባ ሞሸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ብዛዕባ ኣሃሮን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ተዛረባዮ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:19:07.789660966Z",
+  "model": "glm-5.3"
+}

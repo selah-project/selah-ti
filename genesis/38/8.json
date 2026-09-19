@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ይሁዳ ድማ ንኣውናን በሎ፦ «ናብ ሰበይቲ ሓውካ እተው፣ ⟨את⟩ ንሳ ብጸገም ሓውኻ ምስ ተዓረባ፣ ወለዳ ንሓውኻ ከኣ ኣተስዕሉ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "ንኣውናን"
+    },
+    {
+      "surface": "בא",
+      "gloss": "እተው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ሓውካ"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "ብጸገም ሓውኻ ምስ ተዓረባ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳ"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "ኣተስዕሉ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ወለዳ"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ንሓውኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:59:21.834600081Z",
+  "model": "glm-5.3"
+}

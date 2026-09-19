@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 20:15",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ጸጋ ሰበለቶ፣ ደርሁ ይሓትቶ፤ ኤል ካብ ገቡ የውጽኾ።",
+  "tokens": [
+    {
+      "surface": "חיל",
+      "gloss": "ጸጋ"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ሰበለቶ"
+    },
+    {
+      "surface": "ויקאנו",
+      "gloss": "ይሓትቶ"
+    },
+    {
+      "surface": "מבטנו",
+      "gloss": "ካብ ገቡ"
+    },
+    {
+      "surface": "יורשנו",
+      "gloss": "የውጽኾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T06:14:12.066820444Z",
+  "model": "glm-5.3"
+}

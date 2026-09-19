@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 82,
+  "translation": "መዝሙር ናይ ኣሳፍ። ኤሎሂም ኣብ ጉባኤ ኤል ተቐምጡ፣ ኣብ መኻከን ኤሎሂም ይፈርድ እዩ።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ናይ ኣሳፍ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ተቐምጡ"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "ኣብ ጉባኤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ኣብ መኻከን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ይፈርድ እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:22.917678484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኩሉ ኣገልገልቲ ሰብ ብብርቂ ዝተገያዕ ድማ፣ ምስ ተኻወምካዮ ⟨אתו⟩ ኣብኡ እንጂ ይብልዕ ኣብኡ።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ ድማ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ኣገልገልቲ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "ዝተገያዕ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብርቂ"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "ምስ ተኻወምካዮ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ንሱ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ኣብኡ እንጂ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይብልዕ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:20:22.481950903Z",
+  "model": "glm-5.3"
+}

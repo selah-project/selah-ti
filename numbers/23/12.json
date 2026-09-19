@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ንሱ ድማ መልሱ እናበለ፦ ⟨את⟩ እቲ ያህዌህ ኣብ መዓርገይ ዝእተዮ ⟨אתו⟩ እቲ ምእንቲ ምዛረብ ክኣምር ኣይኮነን?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መልሱ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ኣይኮነን?"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ያህዌህ ኣብ መዓርገይ ዝእተዮ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ዝእተዮ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ኣብ መዓርገይ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ምእንቲ ምዛረብ ክኣምር"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ክኣምር"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ምእንቲ ምዛረብ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:33:15.034618674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 86,
+  "translation": "ከም ኣኻ ዝኾነ ኣብ ኣማልኽቲ የለን ኣዶናይ፣ ከም ሒሳብኻ ድማ የለን።",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ከም ኣኻ ዝኾነ"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ኣብ ኣማልኽቲ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ድማ የለን"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "ከም ሒሳብኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:42.830279859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 45:8",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "ሕጂ ስለዚ ኣኻቶም ንኣነ ⟨את⟩ ናብኡ ኣይሰደድኩምን፤ ኤሎሂም እዩ፤ ንፓርዖ ኣቦ፣ ንቤቱ ብሉዕላይን ኩሉ ምድሪ ሚጽራይምን ምስውኽ ኣቑመኒ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ ስለዚ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ኣኻቶም"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "ሰደድኩም"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ንኣነ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ናብኡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም እዩ"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "ኣቑመኒ"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ንፓርዖ"
+    },
+    {
+      "surface": "ולאדון",
+      "gloss": "ብሉዕላይ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ንቤቱ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ምስውኽ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:07:27.825669928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 13:10",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ምስ እተወድአ ነቲ ወፈያ ደቂቕ ክወጽእ፣ እስከ ሸሙኤል መጸ፤ ሻኡል ድማ ንክብሮ ኣብ ቅድሚኡ ተባብሮ ኣብ መንጎኦም ወጸ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ምስ እተወድአ"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "ምስ እተወድኡ"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "ክወጽእ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ነቲ ወፈያ ደቂቕ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሸሙኤል"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ኣብ መንጎኦም ተባብሮ"
+    },
+    {
+      "surface": "לברכו",
+      "gloss": "ንክብሮ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:01:53.218600126Z",
+  "model": "glm-5.3"
+}

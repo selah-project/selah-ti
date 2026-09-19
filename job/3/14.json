@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 3:14",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ምስ ኣገልቲ ወይሞ ምኽሮ ምድሪ፣ እቶም ንዓቕኦም ጥፍኣታት ዝሃንጹ።",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ኣገልቲ"
+    },
+    {
+      "surface": "ויעצי",
+      "gloss": "ወይሞ ምኽረት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "እቶም ዝሃንጹ"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ጥፍኣታት"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ንዓቕኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T06:01:47.121744654Z",
+  "model": "glm-5.3"
+}

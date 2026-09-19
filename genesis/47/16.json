@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 47,
+  "translation": "ዮሴፍ ድማ፦ «እንስሳትኩም ሃቡ፣ ኣነ ድማ ቀረጺ እንተ ዓረቐ ብእንስሳትኩም ንኹም ሃበኩም» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ሃቡ"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "እንስሳትኩም"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ሃበኩም"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኹም"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "ብእንስሳትኩም"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "ዓረቐ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ቀረጺ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:07:47.020380942Z",
+  "model": "glm-5.3"
+}

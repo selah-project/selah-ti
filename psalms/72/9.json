@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 72,
+  "translation": "ኣብ ቅድምኡ ኣብ ጽምኢ ዝነብሩ ክበክኑ እዮም፣ ኣሻጊርኡውን ጭቃ ክሕጡሩ እዮም።",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "ኣብ ቅድምኡ"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "ክበክኑ"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "ኣብ ጽምኢ ዝነብሩ"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "ኣሻጊርኡውን"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ጭቃ"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "ክሕጡሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:08.798749374Z",
+  "model": "glm-5.3"
+}

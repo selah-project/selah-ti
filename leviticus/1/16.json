@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ነቲ ቈይቱን ⟨את⟩ ምስ ስጉምቱ ይእልኦ፣ ነታ ድማ ናብ ምብራቕ እቲ መስብሂ፣ ናብ ቦታ እቲ ስንቁሕ ይድምርዋ።",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "ይእልኦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቈይቱን"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "ቈይቱን"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "ምስ ስጉምቱ"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "ይድምርዋ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ነታ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "እቲ መስብሂ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ምብራቕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "እቲ ስንቁሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:29:20.573675337Z",
+  "model": "glm-5.3"
+}

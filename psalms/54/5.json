@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 54,
+  "translation": "ምኽንያቱ ኣገላልጻት ኣብ ልዕለይ ተንበርከከ፣ ኣስበሳጺታት ከኣ ነፍሰይ ደሊኦም፤ ኤሎሂም ኣብ ቅድሞም ኣይተቐመጡን። ሰላህ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ኣገላልጻት"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ተንበርከከ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕለይ"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "ኣስበሳጺታት"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ደሊኦም"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ኣይተቐመጡን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "ኣብ ቅድሞም"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:02:57.174866406Z",
+  "model": "glm-5.3"
+}

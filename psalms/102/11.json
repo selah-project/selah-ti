@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 102,
+  "translation": "ብኽንዲ በድልኻን ቁጥዕኻን ምኽንያቱ ነስአኸኒን ጥልካኒን።",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "ብኽንዲ"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "በድልኻ"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "ቁጥዕኻን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "ነስአኸኒ"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "ጥልካኒን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:23.049576104Z",
+  "model": "glm-5.3"
+}

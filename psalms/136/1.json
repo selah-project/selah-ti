@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 136,
+  "translation": "ኣመስግኑ ለያህዌህ፣ ምኽንያቱ ጽቡቕ እዩ፣ ምኽንያቱ ናብ ዘለኣለም ሔሴዱ እዩ።",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "ኣመስግኑ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ለያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡቕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:16.586562723Z",
+  "model": "glm-5.3"
+}

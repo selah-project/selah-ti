@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ዝጎደአ እቲ ሓድሽ ወይኒ፣ ደኣ እቲ ጭማቂ ዕኽሊ ግን ኮይኑ ተሓውሰ፤ ኵሉ እቲ ዝተዓለመ ልቡ ድማ ተሰምዐን።",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "ተሓወሰ"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "ሓድሽ ወይኒ"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "ደኣ"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "ጭማቂ ዕኽሊ"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "ተሰምዐን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኵሉ"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "ዝተዓለመ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:58:30.781190580Z",
+  "model": "glm-5.3"
+}

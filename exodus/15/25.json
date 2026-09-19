@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 15:25",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ንያህዌህ ተጸወዐ፤ ያህዌህ ድማ እኳ ኦም ኣርኣዮ፣ እኳ ድማ ነቲ ኦም ናብ እቲ ማይ ደለዮ፤ እቲ ማይ ጣፍጣም ኮይና። ኣብኡ ⟨ያህዌህ⟩ ንእኳ ሕጊን ፍርዲን ኣተሕደሮ፣ ኣብኡ ድማ ንእኳ ፈተኖ።",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ተጸወዐ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויורהו",
+      "gloss": "ኣርኣዮ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ኦም"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ደለዮ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "እቲ ማይ"
+    },
+    {
+      "surface": "וימתקו",
+      "gloss": "ጣፍጣም ኮይና"
+    },
+    {
+      "surface": "המים",
+      "gloss": "እቲ ማይ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣተሕደሮ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእኳ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ሕጊ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ፍርዲን"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ኣብኡ ድማ"
+    },
+    {
+      "surface": "נסהו",
+      "gloss": "ፈተኖ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:20:46.769733463Z",
+  "model": "glm-5.3"
+}

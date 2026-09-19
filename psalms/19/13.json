@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 19:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "«ጌጋታት መን ይርድኦም? ካብ ተሓቢእቲ ኣንጽሐኒ።»",
+  "tokens": [
+    {
+      "surface": "שגיאות",
+      "gloss": "ጌጋታት"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ይርድኦም"
+    },
+    {
+      "surface": "מנסתרות",
+      "gloss": "ካብ ተሓቢእቲ"
+    },
+    {
+      "surface": "נקני",
+      "gloss": "ኣንጽሐኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:51.187117284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 23:9",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ያህዌህ ጸባኦት እዚ ኣሰሓበ፣ ዓበይቲ ኩሉ ብርሃናት ንምሕንኽስ፣ ኩሉ ኣኽብርቲ ምድሪ ንምዕዲም።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "יעצה",
+      "gloss": "ኣሰሓበ"
+    },
+    {
+      "surface": "לחלל",
+      "gloss": "ንምሕንኽስ"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ዓበይቲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "ብርሃናት"
+    },
+    {
+      "surface": "להקל",
+      "gloss": "ንምዕዲም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "נכבדי",
+      "gloss": "ኣኽብርቲ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:45:55.836006285Z",
+  "model": "glm-5.3"
+}

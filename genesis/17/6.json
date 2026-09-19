@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኣብ ዝኣክል ዝኣክል እናበለ ⟨את⟩ኻ ኣበዝዩኻ እየ፣ ናብ ኣህዛብ ኣድሊኹኻ እየ፣ ንጉሳት ኻባኻ ድማ ይወጽኡ እዮም።",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "ኣበዝዩኻ እየ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ኻ",
+      "marks": "ንኻ"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "ኣብ ዝኣክል"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ዝኣክል"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "ኣድሊኹኻ እየ"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "ናብ ኣህዛብ"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "ንጉሳት"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ኻባኻ"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ይወጽኡ እዮም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:42:08.109521511Z",
+  "model": "glm-5.3"
+}

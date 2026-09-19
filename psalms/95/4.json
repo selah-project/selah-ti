@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 95,
+  "translation": "ኣብ ኢዱ ጥልቓት ምድሪ ⟨እየን⟩፣ ከረባት ታራራት ንሱ ⟨እየን⟩።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ኣብ ኢዱ"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "ጥልቓት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "ከረባትን"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ታራራት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:41.711354284Z",
+  "model": "glm-5.3"
+}

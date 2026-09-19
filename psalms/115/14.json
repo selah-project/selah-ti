@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 115,
+  "translation": "ያህዌህ ንዓኻትኩም ይውስኽ፣ ንዓኻትኩምን ንውላድኩምን።",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "ይውስኽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ንዓኻትኩም"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ንዓኻትኩም"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ውላድኩም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:50.143857045Z",
+  "model": "glm-5.3"
+}

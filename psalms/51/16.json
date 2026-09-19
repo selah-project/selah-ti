@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 51,
+  "translation": "ካብ ደም(ታት) ኣውፁዑኒ ኤሎሂም፣ ኤሎሂም ናይ መድሃኒተይ፣ ልሳንይ ድማ ብጽድቅኻ ክሮኒ እዩ።",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ኣውፁዑኒ"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "ካብ ደም(ታት)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "ናይ መድሃኒተይ"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "ክሮኒ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ልሳንይ"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ብጽድቅኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:15.433463974Z",
+  "model": "glm-5.3"
+}

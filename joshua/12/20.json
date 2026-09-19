@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ንጉስ ሽምሮን-ሜሮን ሓደ፣ ንጉስ ኣኽሻፍ ሓደ።",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ሽምሮን-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "-ሜሮን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "ኣኽሻፍ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:23:51.642441738Z",
+  "model": "glm-5.3"
+}

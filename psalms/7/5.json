@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "እንተ መልስኩ ንሰላምተይ ክፉእ፣ ንጸላኢተይ ድማ ብዘይ ምኽንያት ኣውጺእኩ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "መልስኩ"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "ንሰላምተይ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "ኣውጺእኩ"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ንጸላኢተይ"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ብዘይ ምኽንያት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:56.892992176Z",
+  "model": "glm-5.3"
+}

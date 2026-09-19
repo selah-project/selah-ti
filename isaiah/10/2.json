@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ንድሑቃም ካብ ፍርዲ ንምስሓብ፣ ጽድቂ ሕማቓት ህዝበይ ድማ ንምውራዝ፣ ተማሃዮት ስለቢ ኮይነን፣ ⟨את⟩ ኣድንያት ድማ ይበዝዛ!",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "ንምስሓብ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ካብ ፍርዲ"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ድሑቃም"
+    },
+    {
+      "surface": "ולגזל",
+      "gloss": "ንምውራዝ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ሕማቓት"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ህዝበይ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ኮይነን"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "ተማሃዮት"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "ስለቢ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣድንያት"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "ኣድንያት"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "ይበዝዛ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:50:50.063984386Z",
+  "model": "glm-5.3"
+}

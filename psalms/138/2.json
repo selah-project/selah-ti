@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 138,
+  "translation": "ናብ ማሕደር ቅድስትካ ኣሰጊድኻ እየ፣ ብሔሴድካን ብሓቂኻን ⟨את⟩ ስምካ ኣድኽምኻ እየ፤ ምኽንያቱ ኣብ ልዕሊ ኩሉ ስምካ ቃልካ ዓበየልካ እዩ።",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "ኣሰጊድኻ እየ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ቅድስትካ"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "ኣድኽምኻ እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስምካ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምካ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሔሴድካ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ ልዕሊን"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ሓቂኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "ዓበየልካ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "שמᚔך",
+      "gloss": "ስምካ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ቃልካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:58.846186951Z",
+  "model": "glm-5.3"
+}

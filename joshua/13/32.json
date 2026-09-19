@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 13:32",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "እዚኦም እቶም ሞሸ ኣብ ሰፊሕ ምድሪ ሞኣብ፣ ካብታ ንኣላ ናይ ያርዳን፣ ኣብ ያርይሆ ናብ ምብራቕ ክሃቦም እዮም።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ክሃቦም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "ኣብ ሰፊሕ ምድሪ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ካብታ ንኣላ"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "ናይ ያርዳን"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "ያርይሆ"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ናብ ምብራቕ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:25:40.455951620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 57,
+  "translation": "ተንቐሕ ክብረይ፣ ተንቐሕ ነባልን ኽነርን፣ ነቲ ዋላሕቲ እነቅዕዎ እየ።",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "ተንቐሕ"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ክብረይ"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "ተንቐሕ"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "ነባል"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ኽነርን"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "እነቅዕዎ እየ"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ዋላሕቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:20.959781059Z",
+  "model": "glm-5.3"
+}

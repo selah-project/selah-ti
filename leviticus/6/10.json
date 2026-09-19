@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ብሓመጽ ኣይትፈልዐን፤ ክፍሊኦም ካብ ወፈያተይ ⟨את⟩ ሃቤኩ፤ ቅዱስ ቅዱሳት እያ፣ ከም ብዓተ ሓጢኣትን ከም ብዓተ በደልን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "ትፈልዐ"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ሓመጽ"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "ክፍሊኦም"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ሃቤኩ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ካብ ወፈያተይ"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "ካብ ወፈያተይ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እያ"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "ከም ብዓተ ሓጢኣት"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "ከም ብዓተ በደልን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:48:44.584170561Z",
+  "model": "glm-5.3"
+}

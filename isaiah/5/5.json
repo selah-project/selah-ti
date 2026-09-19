@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ሕጂ ድማ ነቲ እየ እገብሮ ንእቲ ከርምበይ ክኣሕብያኹም እየ፤ ነቲ መኽሮ እስዓቢሉ፣ ንምውዳእ ክኸውን፤ ነቲ ግድብ እቕይሩ፣ ንምድምሳስ ክኸውን።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ ድማ"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "ክኣሕብያ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "በጃኻም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ኣኹም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እየ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "እገብሮ"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "ንእቲ ከርምበይ"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "እስዓቢሉ"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "መኽሮ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ክኸውን"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "ንምውዳእ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "እቕይሩ"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "ግድብ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ክኸውን"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "ንምድምሳስ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:48:25.808730722Z",
+  "model": "glm-5.3"
+}

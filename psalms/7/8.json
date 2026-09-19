@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣኅያብ ህዝቢታት ከምኡ ይእክበኻ፣ ንሳን ኣብ ልዕሊ ድማ ተመሊስካ ኣብ ንቐል ቐልይ።",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "ኣኅያብ"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ህዝቢታት"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "ይእክበኻ"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "ኣብ ልዕሊኣ"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "ኣብ ንቐል"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "ተመሊስካ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:56.893985750Z",
+  "model": "glm-5.3"
+}

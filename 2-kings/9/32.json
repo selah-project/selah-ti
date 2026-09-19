@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "የሁኣ ድማ ገጹ ናብ እቲ መስኮት ኣቕነዐ፤ «መን ምስ ኣነ ⟨את⟩? መን?» በለ፤ ክልተ ሰለስተ እግልሳት ድማ ናብኡ ደለቡ።",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ኣቕነዐ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ገጹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "እቲ መስኮት"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ምስ ኣነ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "ደለቡ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ናብኡ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "እግልሳት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:20:24.669140390Z",
+  "model": "glm-5.3"
+}

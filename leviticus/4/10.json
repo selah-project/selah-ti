@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ከምቲ ካብ ሓቅል ናይ ወፈያ ሰላም ዝውጹዕ፣ ካህን ድማ ነፍሶም ኣብ መሠወዪ ዓቲ ኣቕዲሙ ኣብ ሓዊ ይቕጽሞም።",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ከምቲ ዝ"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "ዝውጹዕ"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ካብ ሓቅል"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "ይቕጽሞም"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠወዪ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ዓቲ ኣቕዲሙ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:48:57.162380724Z",
+  "model": "glm-5.3"
+}

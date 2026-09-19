@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ሕጂ ከኣ ወደይ፣ ብቃለይ ስምዐ፣ ነቲ ዝኣዝዘኒ ኩሉ ⟨את⟩ ንኻ ብቕንዕና ግበር።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ ከኣ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወደይ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ስምዐ"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ብቃለይ"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "ነቲ ዝኣዝዘኒ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ዓይ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ዝኣዝዝ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ንኻ",
+      "marks": "ንኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:47:23.064013772Z",
+  "model": "glm-5.3"
+}

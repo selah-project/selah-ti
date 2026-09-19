@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 102,
+  "translation": "ኣብ መገዲ ኣፍዩ ሓይሊ፣ ኣሸቐለ እውን መዓልታተይ።",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "ኣፍዩ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መገዲ"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "ሓይሊ"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "ኣሸቐለ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "መዓልታተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:54.416407988Z",
+  "model": "glm-5.3"
+}

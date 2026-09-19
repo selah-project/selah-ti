@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 137,
+  "translation": "ብሓዊ እዩ እቲ ዝህብዝ ⟨את⟩ ጽንኩስትኻ ድማ ኣብ እቲ ስንጭሪ ዘብርጽ።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ብሓዊ"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "ዝህብዝ"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "ድማ ዘብርጽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጽንኩስትኻ"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "ጽንኩስትኻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "እቲ ስንጭሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:16.800059368Z",
+  "model": "glm-5.3"
+}

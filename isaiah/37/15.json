@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ሕዝቅያስ ድማ ናብ ያህዌህ ብዝብል ጸለመ።",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "ጸለመ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ሕዝቅያስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብዝብል"
+    }
+  ],
+  "timestamp": "2026-09-19T02:06:45.281824761Z",
+  "model": "glm-5.3"
+}

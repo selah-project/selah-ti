@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ኖባኽ ከደን ⟨את⟩ ቅናትን ⟨את⟩ ውላዳታን ወሲዑን፣ ብስሙ ኖባኽ በላ።",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "ኖባኽ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ወሲዑን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅናት"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "ቅናት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ውላዳታ"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "ውላዳታ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "በላ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ንኣታ"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "ኖባኽ"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "ብስሙ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:38:32.488215918Z",
+  "model": "glm-5.3"
+}

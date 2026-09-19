@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ናይ ያህዌህ ቃል ንዮኤል ወዲ ፕቱኤል ዝመጸ እዩ።",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ዝመጸ እዩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "ዮኤል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "ፕቱኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T04:11:30.073301401Z",
+  "model": "glm-5.3"
+}

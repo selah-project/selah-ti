@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ከምኡውን ⟨את⟩ ገለም፤ ምኽንያቱ ኮርጺ ዘቐርጽ ኮይኑ ገረባ ኣየውሰንን፤ ንኹም ከርኹም እዩ። ካብ ስጋኦም ኣይትበሉን፣ ኣብ ኣካል ሞቶም ድማ ኣይትተኽቡን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ገለም"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "ገለም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "ዘቐርጽ"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ኮርጺ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣየውሰንን"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ገረባ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ከርኹም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኹም"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "ካብ ስጋኦም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ትበሉን"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "ኣብ ኣካል ሞቶም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "ትተኽቡን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:59:10.764331006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ጥምቢ ልቢ ጽቡቕ ኣይረኽብን፣ ኣብ ቀለቡ ዝተቐየረ ድማ ኣብ ንጥፍኣት ይውዕር።",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "ጥምቢ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ይረኽብ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡቕ"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "ዝተቐየር"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "ኣብ ቀለቡ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ይውዕር"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ኣብ ንጥፍኣት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:50:40.019040018Z",
+  "model": "glm-5.3"
+}

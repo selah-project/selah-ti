@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ነቲ ምዝዋር ድሕሪኡ እሳት፤ —ያህዌህ ኣብቲ እሳት ኣይነበረን። ነቲ እሳት ድሕሪኡ ድማ ቓል ጸጥታ ዝተሓጽረ።",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ነቲ ምዝዋር ድሕሪኡ"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "ምዝዋር"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይነበረን"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ኣብቲ እሳት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ነቲ እሳት ድሕሪኡ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "ጸጥታ"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "ዝተሓጽረ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:08:24.502600017Z",
+  "model": "glm-5.3"
+}

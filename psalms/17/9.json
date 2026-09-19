@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ካብ መልክዕ ኣጥፍኣት፣ እዚኦም ዝደቐንዑኒ፣ ተቓዋምተይ ኣብ ነፍሲ ኣኅጸቡ ኣብ ላዕለይ።",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "ካብ መልክዕ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኣጥፍኣት"
+    },
+    {
+      "surface": "זו",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "ዝደቐንዑኒ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ተቓዋምተይ"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ኣብ ነፍሲ"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "ኣኅጸቡ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ላዕለይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:16.255555792Z",
+  "model": "glm-5.3"
+}

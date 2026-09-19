@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ንምግበር ፈቃድካ ኤሎሂምነይ ደሊኹ እየ፣ ቶራኻ እውን ኣብ ውሽጣዊ ኣካለይ እያ።",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ንምግበር"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "ፈቃድካ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂምነይ"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ደሊኹ እየ"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ቶራኻ እውን"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ ውሽጥ"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "ኣካለይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:47.469935622Z",
+  "model": "glm-5.3"
+}

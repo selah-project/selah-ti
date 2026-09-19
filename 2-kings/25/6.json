@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ድማ ⟨את⟩ እቲ ንጉስ ሓዙ፣ ⟨את⟩ ናብ ንጉስ ባቢሎን ናብ ሪብላ ኣሪኾሞ፣ ⟨את⟩ ብፍርዲ ተዛረብዎ።",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "ሓዙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ንጉስ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ኣሪኾሞ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ናብ ንጉስ ባቢሎን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባቢሎን"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "ሪብላ"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ተዛረብዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ብፍርዲ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ብፍርዲ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:41:08.273456216Z",
+  "model": "glm-5.3"
+}

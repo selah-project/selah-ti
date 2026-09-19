@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 63,
+  "translation": "ከምዚ ኣብ ቁዱስ ርኣይኩኻ፣ ንርኢቲ ጀግናኻን ክብሪኻን።",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ኣብ ቁዱስ"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "ርኣይኩኻ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ንርኢቲ"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ጀግናኻን"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "ክብሪኻን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:42.925014717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 14:15",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ነዚ ህዝቢ እዚ ⟨את⟩ ከም ሓደ ሰብ ክትቐትሎ እንተ ኮንካ፣ ነቶም ኣህዛብ ዝሰምዑ ⟨את⟩ ኣውዳትካ ዝኾኑ ክብሉ እዮም፦",
+  "tokens": [
+    {
+      "surface": "והמתה",
+      "gloss": "ክትቐትሎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነዚ ህዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ከም ሰብ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ክብሉ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ዝሰምዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣውዳትካ"
+    },
+    {
+      "surface": "שמעך",
+      "gloss": "ኣውዳትካ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "በዚ ዝብሉ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:23:21.536922920Z",
+  "model": "glm-5.3"
+}

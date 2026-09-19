@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ኣበይ እየን ሔሴድካ እተን ቀዳማውቲ ኣዶናይ፧ ንዳዊድ ብትሕትናኻ ኣይ ተዛረብካ።",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "ኣበይ"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "ሔሴድካ"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "እተን ቀዳማውቲ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "ኣይ ተዛረብካ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ንዳዊድ"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "ብትሕትናኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:21.285994344Z",
+  "model": "glm-5.3"
+}

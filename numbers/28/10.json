@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ውዕል ሻባት ኣብ ሻባቱ፣ ኣብ ልዕሊ ውዕል ኩሉ ግዜን ንዓኡ ዝኾነ መስኰቱን።",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "ውዕል"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ሻባት"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "ኣብ ሻባቱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ውዕል"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "ኩሉ ግዜ"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "ንዓኡ ዝኾነ መስኰቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:36:23.259987362Z",
+  "model": "glm-5.3"
+}

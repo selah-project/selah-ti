@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኮይኑ በለ፦ ዝተረገመ ከነዓን፣ ኣገልባጺ ኣገልባጺታት ናብ ኣሕዋቱ ይኹን።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ኮይኑ በለ"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "ዝተረገመ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዓን"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ኣገልባጺ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ኣገልባጺታት"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይኹን"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ናብ ኣሕዋቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:33:58.647822490Z",
+  "model": "glm-5.3"
+}

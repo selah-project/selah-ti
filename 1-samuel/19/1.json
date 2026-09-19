@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ሻኡል ድማ ንወዲኡ ይሆናታንን ንኩሉ ኣገልጋልቱን ን⟨את⟩ ዳዊድ ንክትቕትልዎ ተዛረበ፤ ይሆናታን ወዲ ሻኡል ድማ ኣብ ዳዊድ ብጣዕሚ ደሊሉ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረቦ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ይሆናታን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ንምስ…ን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ኣገልጋልቱ"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ክቕትል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊድ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ይሆናታን ድማ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ደሊሉ"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "ኣብ ዳዊድ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:11:14.619095061Z",
+  "model": "glm-5.3"
+}

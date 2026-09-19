@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እዚ ኣብ ቅድሚ ያህዌህ ነካይድ እዩ፤ ⟨את⟩ ሞዓብ እውን ኣብ ኢድኩም ክሃብኩም እዩ።",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "ነካይድ እዩ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ክሃብኩም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞዓብ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "ኣብ ኢድኩም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:15:23.505742270Z",
+  "model": "glm-5.3"
+}

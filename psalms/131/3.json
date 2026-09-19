@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 131,
+  "translation": "እስራኤል ንያህዌህ ይጽበ፤ ካብ ሕጂን ክሳብ ዘለኣለምን።",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "ይጽበ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ካብ ሕጂ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:47.024250420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ንስኻ ኩሉ እቲ እዝዘኻ ዘይስማዕ ተዛረብ፣ ኣሃሮን ሓውካ ድማ ናብ ፓርዖ ⟨את⟩ ውላድ ይስራኤል ካብ ምድሩ ክሰድዶም ይዛረብ።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ተዛረብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "እዝዘኻ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ሓውካ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ይዛረብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ክሰድዶም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ ይስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ካብ ምድሩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:15:00.241881557Z",
+  "model": "glm-5.3"
+}

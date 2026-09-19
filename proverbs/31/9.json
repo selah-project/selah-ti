@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "«ኣፍካ ክትኽፈት፣ ጽድቂ ፍረድ፣ ድኻን ድሃን ድማ ደላይ።»",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ክትኽፈት"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ኣፍካ"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ፍረድ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "ደላይ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ድኻ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ድሃ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:00:45.642157632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "«ሕጂ ድማ ሓደ ለምንታይ እነብበኪ ⟨את⟩ ካብ ንስኺ፣ ⟨את⟩ ገጻይ ኣይትመለሺኒ።» ንሳ ድማ «ተዛረብ» በለቶ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ ድማ"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "ለምንታይ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "እነብበኪ"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "ካብ ንስኺ ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "ትመለሺ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገጻይ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጻይ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "በለቶ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረብ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:45:46.613003176Z",
+  "model": "glm-5.3"
+}

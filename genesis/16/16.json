@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ሃጋር ነቲ ⟨את⟩ ይሽማዕኤል ንኣቭራም ምስ ወለደቶ፣ ኣቭራም ዓመታት ሸሞንተን ሽድሽ ዓመትን ኣዕሩኹ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "ወን ኣቭራም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ሸሞንተ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ወን ሽድሽ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "ምስ ወለደቶ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ሃጋር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይሽማዕኤል"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ይሽማዕኤል"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "ንኣቭራም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:39:36.659209601Z",
+  "model": "glm-5.3"
+}

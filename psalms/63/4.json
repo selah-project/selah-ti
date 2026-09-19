@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 63,
+  "translation": "ስለዚ ሔሴድኻ ካብ ህይወት ዝበለጸ እዩ፤ ከምኡውን ከንፈተይ ይመስግኑኻ እዮም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ዝበለጸ እዩ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሔሴድኻ"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "ካብ ህይወት"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ከንፈተይ"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "ይመስግኑኻ እዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:42.925346141Z",
+  "model": "glm-5.3"
+}

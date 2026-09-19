@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 93,
+  "translation": "ቈላታት ኣርሒቖም፣ ያህዌህ፤ ቈላታት ድምጻቶም ኣርሒቖም፤ ቈላታት ድማ ዋሕሳቦም ይኣርእያሉ።",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "ኣርሒቖም"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ቈላታት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ኣርሒቖም"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ቈላታት"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ድምጻቶም"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ይኣርእያሉ"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ቈላታት"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "ዋሕሳቦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:34.128441359Z",
+  "model": "glm-5.3"
+}

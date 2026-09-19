@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 115,
+  "translation": "ከም እቶም ዝኾኑ እዮም መንገዲ ኣምላኽቶም፤ ኩሉ ኣብ እቶም ዝተኣመነ ከምኦም እዩ።",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "ከም እቶም"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "እዮም"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "መንገዲ ኣምላኽቶም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ…"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ዝተኣመነ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ኣብ እቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:13.071169372Z",
+  "model": "glm-5.3"
+}

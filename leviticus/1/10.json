@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ወፈያኡ ካብ እንስሳ ልምጭቲ — ካብ ልምጭታት ወይ ካብ ጠበላት — ንሙሉእ ወፈያ ⟨ዀነ⟩ እንተ ዀነ፣ ተባዕታይ ስን ዘይብሉ ይቕርቦ።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እንተ ዀነ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "እንስሳ ልምጭቲ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ወፈያኡ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "ልምጭታት"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ጠበላት"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ንሙሉእ ወፈያ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ተባዕታይ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ስን ዘይብሉ"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "ይቕርቦ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:47:47.949788698Z",
+  "model": "glm-5.3"
+}

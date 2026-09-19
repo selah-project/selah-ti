@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ፓርዖ ድማ ንሞሸ በዓይ ኮይኑ ተዛረበ፦ «ኪዱ፣ ⟨את⟩ ያህዌህ ኣገልግሉ፤ ግን ብርኩምን ጐደልኩምን ኣብኡ ንቕርቡ፤ ቆልዑኹምን እውን ምስኩም ይኸዱ።»",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "በዓይ ዐወረ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ኪዱ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ኣገልግሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ግን"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "ብርኩም"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "ጐደልኩምን"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "ንቕርቡ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "ቆልዑኹም"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ይኸዱ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ምስኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:16:48.480024758Z",
+  "model": "glm-5.3"
+}

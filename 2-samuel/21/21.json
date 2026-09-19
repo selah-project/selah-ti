@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ንእስራኤል ድማ ሰዓቖ፣ ያውናታን ወዲ ሽምዒ፣ ሓው ዳዊድ ድማ መታዮ።",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "ሰዓቖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "መታዮ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ያውናታን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ሽምዒ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ሓው"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:36:45.682704611Z",
+  "model": "glm-5.3"
+}

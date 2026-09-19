@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "እቲ ንጉስ ናይ ባቨል ነቲ ኣሕዙቡ ምትንያ ⟨את⟩ ኣብ ቦታኡ ኣኽየዶ ንጉስ፣ ስሙን ⟨את⟩ ቐየሮ ጽድቕያሁ።",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "ኣኽየዶ ንጉስ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ናይ ባቨል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምትንያ"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "ምትንያ"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "ኣሕዙቡ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ኣብ ቦታኡ"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ቐየሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ጽድቕያሁ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:40:55.879935812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ሔሴድካ ያህዌህ ምድሪ ሞላያ፤ ሕግታትኻ ኣምሃረኒ።",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "ሔሴድካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ሞላያ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ሕግታትኻ"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ኣምሃረኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:54.177475665Z",
+  "model": "glm-5.3"
+}

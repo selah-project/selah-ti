@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ነቲ ካህን ዝቐብኦን ነቲ ⟨את⟩ ኢዱ ዝምልኦን ንካህንነት ኣብ ቦታ ኣቦኡ ይስሓቶ፣ ከምኡውን ⟨את⟩ ልብሲ በፍቱ፣ ልብሲ ቅዱስነት ይልበስ።",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "ይስሓቶ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ነቲ ካህን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "ዝቐብኦ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ካህን"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ድማ ነቲ"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ዝምልኦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢዱ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ንካህንነት"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ቦታ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "ይልበስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልብሲ በፍቱ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ልብሲ"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "በፍቱ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ልብሲ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ቅዱስነት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:00:45.312077165Z",
+  "model": "glm-5.3"
+}

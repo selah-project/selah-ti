@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 21:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ስለዚ ኽሳብ ብሓመቐ ተመልአቱ፤ ሓሊፍቲ በጽሑኒ ከም ሓሊፍቲ ዘልዓለ፤ ተዘውተርኩ ኣብ ምስማዕ፣ ተፈሪርኩ ኣብ ምርኣይ።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚ"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ተመልአቱ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "ኽሳብ"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "ብሓመቐ"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "ሓሊፍቲ"
+    },
+    {
+      "surface": "אחזוני",
+      "gloss": "በጽሑኒ"
+    },
+    {
+      "surface": "כצירי",
+      "gloss": "ከም ሓሊፍቲ"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "ዘልዓለ"
+    },
+    {
+      "surface": "נעויתי",
+      "gloss": "ተዘውተርኩ"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ኣብ ምስማዕ"
+    },
+    {
+      "surface": "נבהלתי",
+      "gloss": "ተፈሪርኩ"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ኣብ ምርኣይ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:53:30.257015320Z",
+  "model": "glm-5.3"
+}

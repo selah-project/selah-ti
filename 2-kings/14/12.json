@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ይሁዳ ድማ ቅድሚ እስራኤል ተሸነፈት፤ ኵሎም ድማ ነፍሲ ወከፍ ሰብ ናብ ድጉሑ ኰሰ።",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "ተሸነፈት"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ኰሱ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ወከፍ ሰብ"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "ናብ ድጉሑ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:27:16.085460658Z",
+  "model": "glm-5.3"
+}

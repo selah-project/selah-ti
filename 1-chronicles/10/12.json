@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 10:12",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኩሉ ሰብ ሓይሊ ኰሙ፣ ኣካል ሻኡል ⟨את⟩ ኣካላት ውላዱን ⟨את⟩ ኣልዮም ያቤሽ ኣእተዮም፣ ኣጽምኦም ⟨את⟩ ትሕቲ እቲ ኣልቃ ኣብ ያቤሽ ተቐብኦም፣ ሸውዓተ መዓልታት ጾሙ።",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "ኰሙ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ሓይሊ"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ኣልዮም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣካል"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "ኣካል"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣካላት"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "ኣካላት"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱን"
+    },
+    {
+      "surface": "ויביאום",
+      "gloss": "ኣእተዮም"
+    },
+    {
+      "surface": "יבישה",
+      "gloss": "ያቤሽ"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ተቐብኦም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣጽምኦም"
+    },
+    {
+      "surface": "עצמותיהם",
+      "gloss": "ኣጽምኦም"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እቲ ኣልቃ"
+    },
+    {
+      "surface": "ביבש",
+      "gloss": "ኣብ ያቤሽ"
+    },
+    {
+      "surface": "ויצומו",
+      "gloss": "ጾሙ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:37:09.216836061Z",
+  "model": "glm-5.3"
+}

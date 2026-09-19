@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 112,
+  "translation": "ኣብ ጸልማት ብርሃን ንተላዕልቲ በራ፣ ጸጋ ዝህብ፣ ራሕም፣ ጽድቃዊ እዩ።",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "በራ"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ኣብ ጸልማት"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "ንተላዕልቲ"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "ጸጋ ዝህብ"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ራሕም"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ጽድቃዊ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:17.487775992Z",
+  "model": "glm-5.3"
+}

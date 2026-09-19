@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 70,
+  "translation": "ኤሎሂም፡ ንኽትድኅነኒ ፈጠን፤ ያህዌህ፡ ናብ ሓገዘተይ ፈጠን።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "ንኽትድኅነኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ናብ ሓገዘተይ"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ፈጠን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:25.894264750Z",
+  "model": "glm-5.3"
+}

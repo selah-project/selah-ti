@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ምኽንያቱ በልኩ፦ «ሔሴድ ናብ ዘለኣለም ይሃንጽ፤ ኣብ ሰማያት ኣምንታትካ ክትረጊጥ ኢኻ»።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "በልኩ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ይሃንጽ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ኣብ ሰማያት"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "ክትረጊጥ ኢኻ"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ኣምንታትካ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ኣብኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:16.383356381Z",
+  "model": "glm-5.3"
+}

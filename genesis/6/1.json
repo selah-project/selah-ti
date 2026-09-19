@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኮይኑ ከም እተኻየደ፣ ሰባት ኣብ ገጽ ምድሪ ክብዝሑ ምስ ጀመሩ፣ ከምኡውን ዓበይቲ ጓላት ተወሊዱሎም።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ ከም እተኻየደ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ጀመሩ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ክብዝሑ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ዓበይቲ ጓላት"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ተወሊዱሎም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ሎም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:35:52.129869827Z",
+  "model": "glm-5.3"
+}

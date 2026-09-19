@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ዕዝርያ ድማ ⟨את⟩ ኣማርያ ወለደ፣ ኣማርያ ድማ ⟨את⟩ ኣኽይጥብ ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ዕዝርያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣማርያ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ኣማርያ"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "ኣማርያ ድማ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣኽይጥብ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ኣኽይጥብ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:31:00.052996085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 24:11",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ወዲ እቲ እስራኤላይቲ ሰበይቲ ⟨את⟩ እቲ ስም ተዛረበ፣ ደቂ እስራኤል ድማ ሰዓበ፤ ንሱ ድማ ⟨אתו⟩ ናብ ሞሸ ኣእቱዎ፤ ስም ኣደኡ ሽለሞይት፣ ወዲቲ ዲብሪ፣ ካብ ኩዕለ ዳን እያ።",
+  "tokens": [
+    {
+      "surface": "ויקב",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ እቲ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሰበይቲ እቲ"
+    },
+    {
+      "surface": "הישראלית",
+      "gloss": "እስራኤላይቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ስም"
+    },
+    {
+      "surface": "השם",
+      "gloss": "እቲ ስም"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "ሰዓበ"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ኣእቱዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ንሱ (ወዲ እቲ ሰበይቲ)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ኣደኡ"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "ሽለሞይት"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ወዲቲ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ዲብሪ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ካብ ኩዕለ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ዳን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:05:49.322047037Z",
+  "model": "glm-5.3"
+}

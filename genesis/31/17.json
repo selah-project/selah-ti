@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ያዕቆቭ ድማ ተንቀሳቐሰ፣ ኣጓልቓሉን ስድራኡን ኣብ እቶም ኣጋምል ኣቐመጦም።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተንቀሳቐሰ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ኣቐመጦም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላዱ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስድራኡ"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ስድራኡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "እቶም ኣጋምል"
+    }
+  ],
+  "timestamp": "2026-09-18T20:54:11.815557363Z",
+  "model": "glm-5.3"
+}

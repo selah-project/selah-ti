@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ምኽንያቱ ንስኻ ውንጪይን ከብተይን ኢኻ፤ ብስምኻ ኣመርሕኒን ተማልእኒን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "ውንጪይን"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ከብተይን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኢኻ"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምኻ"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ኣመርሕኒን"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "ተማልእኒን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:36.480893890Z",
+  "model": "glm-5.3"
+}

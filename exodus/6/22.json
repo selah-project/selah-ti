@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ደቂ ዕዚኤል ሚሻኤል፣ ኤልጽፋንን ሲትሪን እዮም።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ደቂ"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ዕዚኤል"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "ሚሻኤል"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "ኤልጽፋንን"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "ሲትሪን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:12:25.604884569Z",
+  "model": "glm-5.3"
+}

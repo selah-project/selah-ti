@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 23:4",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "«እዚ እቲ ነገር እትገብርዎ እዩ፦ ሳልሳይ ካብ ኩልኩም፣ ኣብ ሻባት ዝኣቱ ካህናትን ለዋይምን፣ ንመእተውታት ሓጻርቲ ክኾኑ።»",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ነገር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ትገብርዎ"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "ሳልሳይ"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ካብ ኩልኩም"
+    },
+    {
+      "surface": "באי",
+      "gloss": "ዝኣቱ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ሻባት"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "ንካህናት"
+    },
+    {
+      "surface": "וללוים",
+      "gloss": "ንለዋይም"
+    },
+    {
+      "surface": "לשערי",
+      "gloss": "ንመእተውታት"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "መእተውታት"
+    }
+  ],
+  "timestamp": "2026-09-19T08:09:28.690105336Z",
+  "model": "glm-5.3"
+}

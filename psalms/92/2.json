@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 92,
+  "translation": "ብሉጽ እዩ ንያህዌህ ንምውድስ፣ ንስምካ ብቕሩብ ዝለዓለ ንምዝማሬ።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ብሉጽ"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "ንምውድስ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "ንምዝማሬን"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ንስምካ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ብቕሩብ ዝለዓለ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:54.897620660Z",
+  "model": "glm-5.3"
+}

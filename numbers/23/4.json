@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ኤሎሂም ድማ ናብ ቢልዓም ተራኸቦ፤ ንሱ ድማ ነቲ ኤሎሂም በሎ፦ «⟨את⟩ ሰባዕተ መሠዊሒታት ኣዳለኩ፣ ኣብ መሠዊሒ ድማ ከብትን ኣውራን ኣቐርብኩ።»",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "ተራኸቦ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ቢልዓም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰባዕተ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሰባዕተ"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "መሠዊሒታት"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "ኣዳለኩ"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "ኣቐርብኩ"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ከብት"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ኣውራን"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "ኣብ መሠዊሒ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:34:14.981328253Z",
+  "model": "glm-5.3"
+}

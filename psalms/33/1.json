@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ኣብ ያህዌህ ተደምቡ ጻድቃን፤ ንቅኑያት ምስጋና ዝምጥን ⟨እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "ተደምቡ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ጻድቃን"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ኣብ ያህዌህ"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "ንቅኑያት"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ዝምጥን"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ምስጋና"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:51.653002022Z",
+  "model": "glm-5.3"
+}

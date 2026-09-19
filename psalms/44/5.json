@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ንስኻ ንጉሰይ ኤሎሂም እንተተባብዕና፣ መድሓኒታት ንያዕቆቭ ኣዘዝ።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ንሱ⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ንጉሰይ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ኣዘዝ"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "መድሓኒታት"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:34.307804908Z",
+  "model": "glm-5.3"
+}

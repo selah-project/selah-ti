@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ወዲ ኣማርያህ፣ ወዲ ዕዝርያህ፣ ወዲ ምርዮት።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ኣማርያህ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ዕዝርያህ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "ምርዮት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:09:51.579130658Z",
+  "model": "glm-5.3"
+}

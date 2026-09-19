@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "እስራኤል፣ ኣንተ ተበልሽይካ፤ ኣብ ሓገዝካ ግን ኣባይ ጥራይ እየ።",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "ተበልሽይካ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ግን"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ኣባይ"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "ኣብ ሓገዝካ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:09:09.477853954Z",
+  "model": "glm-5.3"
+}

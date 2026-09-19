@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ያህዌህ ድማ ብቓል ሞሸ ኸም ዝበሎ ገበረ፤ እቶም ጭጋጋት ካብ እቶም ገዛታት፣ ካብ እተን ሓድሕዲታትን ካብ እቶም መስኮታትን ሞተ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ብቓል"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "እቶም ጭጋጋት"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "እቶም ገዛታት"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "እተን ሓድሕዲታት"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ንካብን"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "እቶም መስኮታት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:16:25.034870965Z",
+  "model": "glm-5.3"
+}

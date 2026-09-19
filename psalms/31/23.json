@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 31:23",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ኣነ ድማ ኣብ ስጉምቲ እነይ ካብ ቅድሚ ዓይኒኻ ተቐጢጠ እየ ቐልዐ፣ እንተኾነ ንድምጺ ልምዲ ኣብ ምዕዋተይ ናብኻ ሰምዐኻ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ቐልዐ"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "ኣብ ስጉምቲ እነይ"
+    },
+    {
+      "surface": "נגרזתי",
+      "gloss": "ተቐጢጠ እየ"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ካብ ቅድሚ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ዓይኒኻ"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "እንተኾነ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ሰምዐኻ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጲ"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ልምዲ"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "ኣብ ምዕዋተይ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:01.741807504Z",
+  "model": "glm-5.3"
+}

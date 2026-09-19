@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ካብ ዘርኣኻ እውን ናብ ሞለኽ ንኽሓልፍ ኣይትህበን፣ ስም ኤሎሂምካ እውን ኣይትኽልምን፤ ኣነ ያህዌህ እየ።",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "ካብ ዘርኣኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ትህብ"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "ንኽሓልፍ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ናብ ሞለኽ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እውን ኣይ…ን"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "ትኽልም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:58:51.301860494Z",
+  "model": "glm-5.3"
+}

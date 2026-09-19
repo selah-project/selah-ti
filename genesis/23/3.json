@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ኣቭራሃም ድማ ካብ ቅድሚ ሞተኛኡ ተንበርከኸ፤ ንውሉድ ሕት እናበለ ተዛረበ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተንበርከኸ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ሞተኛኡ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውሉድ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ሕት"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:45:17.787138744Z",
+  "model": "glm-5.3"
+}

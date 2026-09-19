@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 33:3",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ካብ ቅኑዕ ልብይ ቃላተይ እየን፣ እትፈልጣ ድማ ከንፈርየይ ብጥሩ ተዛረባ።",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "ቅኑዕ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልብይ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ቃላተይ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ነቲ እትፈልጣ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ከንፈርየይ"
+    },
+    {
+      "surface": "ברור",
+      "gloss": "ብጥሩ"
+    },
+    {
+      "surface": "מללו",
+      "gloss": "ተዛረባ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:20:13.244465726Z",
+  "model": "glm-5.3"
+}

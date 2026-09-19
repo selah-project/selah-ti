@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኩሉ ሕዝቢ ድማ ⟨את⟩ ናብ ኣፍደገ ድኽሪ ምላላይ ደረቢ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ሕዝቢ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ደረቢ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣፍደገ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድኽሪ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ምላላይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:51:45.064379678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እቶም እዚ ህዝቢ እዚ ዝዓብይዎ ኮይኖም ያስተሓብእዎ፣ እቶም ዝተዓቐቦም ድማ ተኹሊሎም።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ኮይኖም"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "እቶም ዝዓብይዎ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "ያስተሓብእዎ"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "እቶም ዝተዓቐቦም"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "ተኹሊሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:49:59.543527548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "እቲ ንእሽቲ ናይ ብጽዕቲ ካብ ብዙሕ ሃብቲ ብዙሓት ኣመንዲቓት ዝበለጸ እዩ።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ዝበለጸ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ንእሽቲ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ናይ ብጽዕቲ"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "ሃብቲ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኣመንዲቓት"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:47.843421246Z",
+  "model": "glm-5.3"
+}

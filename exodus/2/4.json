@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሓብቲ እቲ ውሉድ ካብ ርሕቀት ተቐሚጣ ነቲ ንእሳ እተገብር ነገር ንምፍልጠት።",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "ተቐሚጣ"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ሓብቲ እቲ ውሉድ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ካብ ርሕቀት"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "ንምፍልጠት"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "እተገብር"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሳ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:11:34.607987249Z",
+  "model": "glm-5.3"
+}

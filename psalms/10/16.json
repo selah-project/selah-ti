@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ያህዌህ ንዘለኣለምን ንዓበይትን ንጉስ ⟨እዩ⟩፤ ኣህዛብ ካብ ምድሩ ተጠፊኦም።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ንዘለኣለም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ንዓበይት"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "ተጠፊኦም"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ካብ ምድሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:56.644338933Z",
+  "model": "glm-5.3"
+}

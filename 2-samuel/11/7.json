@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኣውሪያ ድማ ናብኡ መጸ፤ ዳዊድ ድማ ሰላም ዮውኣብን ሰላም እቲ ሕዝቢን ሰላም እቲ ኲናትን ሓተተ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ኣውሪያ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ናብኡ"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "ሓተተ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮውኣብ"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "እቲ ኲናት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:28:41.713803491Z",
+  "model": "glm-5.3"
+}

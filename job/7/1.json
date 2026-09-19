@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣይኮነን፧ ንሰብ ኣብ ምድሪ ውድቀት ⟨ኣለዎ⟩፣ ቀኻይቱ ድማ ከም ቀኻይቲ ተታሒቢ እዮም።",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ኣይኮነን፧"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ውድቀት"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "ንሰብ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "ከም ቀኻይቲ"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "ተታሒቢ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ቀኻይቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:06:11.739066454Z",
+  "model": "glm-5.3"
+}

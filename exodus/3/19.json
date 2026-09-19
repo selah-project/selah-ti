@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣነ ድማ ከም ዝፈልጦ እየ፤ ንጉስ ሚጽራይም ⟨אתכם⟩ ንኹም ንኽከዱ ኣይህብን፣ ብሒዛት ኢድ እኳ ኣይኮነን።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ከም ዝፈልጦ እየ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይህብ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ንኹም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "ንኽከዱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይኮነን…ድማ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ሒዛቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:15:15.365154230Z",
+  "model": "glm-5.3"
+}

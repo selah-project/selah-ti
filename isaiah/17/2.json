@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 17:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ከተማት ዓሮዐር ተወጊዘን እየን፤ ንመሻት ክኾና እየን፣ ዝተኣማሩ እየን፣ ዝሓርም ድማ የለን።",
+  "tokens": [
+    {
+      "surface": "עזבות",
+      "gloss": "ተወጊዘን"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ከተማት"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "ዓሮዐር"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "ንመሻት"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ክኾና እየን"
+    },
+    {
+      "surface": "ורבצו",
+      "gloss": "ዝተኣማሩ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ድማ የለን"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "ዝሓርም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:54:47.549490045Z",
+  "model": "glm-5.3"
+}

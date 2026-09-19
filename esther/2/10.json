@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እስተር ⟨את⟩ ዓረባን ⟨את⟩ መወሊድኣን ኣይተዛረበትን፣ ምኽንያቱ ሞርዶካይ ኣብ ልዕሊኣ ከም ከይተዛረብ ኣዘዞ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ኣይተዛረበትን"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "እስተር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓረባ"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ዓረባ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መወሊድኣ"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "መወሊድኣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ሞርዶካይ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ኣዘዘ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ኣብ ልዕሊኣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ከይ"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "ተዛረብ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:48:08.063589621Z",
+  "model": "glm-5.3"
+}

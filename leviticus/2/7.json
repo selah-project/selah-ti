@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ካብ ማሕበሲ ወፈያኻ እንተ መባ፣ ስንዝባት ብዘይሚ ክትግበር እዩ።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "መባ"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "ማሕበሲ"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "ወፈያኻ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ስንዝባት"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ብዘይሚ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ክትግበር"
+    }
+  ],
+  "timestamp": "2026-09-18T21:46:24.155645259Z",
+  "model": "glm-5.3"
+}

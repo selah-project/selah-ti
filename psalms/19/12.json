@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ከምኡውን ኣገልጋልኻ ብኣንትን ይጠነቐቕ እዩ፤ ኣብ ምጽናሖም ድማ ዓቢ ዋጋ ኣሎ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልጋልኻ"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "ይጠነቐቕ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ብኣንትን"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "ኣብ ምጽናሖም"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ዋጋ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ዓቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:04.733278005Z",
+  "model": "glm-5.3"
+}

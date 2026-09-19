@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ኣካዝ ድማ ⟨את⟩ ቐጥርቲ ብርን ⟨ואת⟩ ወርቅቲን እቲ ዝተረከበ ኣብ ቤት ያህዌህን ኣብ ከዛ ቤት እቲ ንጉስን ብሊዕ ናብ ንጉስ ኣሹር ለኣኾ — ጉርሻ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ተበገረ\/ወሲዱ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ኣካዝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቐጥርቲ ብር"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ቐጥርቲ ብር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወርቅቲ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ወርቅቲ"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "እቲ ዝተረከበ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "ከምኡ'ውን ኣብ ከዛ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ለኣኾ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ናብ ንጉስ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣሹር"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ጉርሻ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:30:01.110841352Z",
+  "model": "glm-5.3"
+}

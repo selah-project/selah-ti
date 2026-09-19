@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ተዘሉ ተደንቁ፣ ስዕቡ ድማ ተማሩኡ፤ ሰተዩ፣ ብወይን ግን ኣይኮነን፤ ተንዲሎም፣ ብማርሓን ውን ኣይኮነን።",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "ተዘሉ"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "ተደንቁ"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "ተማሩኡ"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "ስዕቡ"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "ሰተዩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ብወይን"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "ተንዲሎም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ብማርሓን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:00:47.763201645Z",
+  "model": "glm-5.3"
+}

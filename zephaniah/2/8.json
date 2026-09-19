@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 2:8",
+  "book": "zephaniah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ውርጅማት ሞኣብን ጉህዞ ውላደ ዓሞንን ሰምዐኩ፤ እቶም ህዝበይ ⟨את⟩ ዝውርጁ ዘለዉ፣ ኣብ ልዕሊ ዶባኦም ድማ ዓቢ ኮይኖም።",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "ሰምዐኩ"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ውርጅማት"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    },
+    {
+      "surface": "וגדופי",
+      "gloss": "ጉህዞ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ዓሞን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም…ዘለዉ"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "ዝውርጁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ህዝበይ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ህዝበይ"
+    },
+    {
+      "surface": "ויגדילו",
+      "gloss": "ዓቢ ኮይኖም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ዶባኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:31:34.761803702Z",
+  "model": "glm-5.3"
+}

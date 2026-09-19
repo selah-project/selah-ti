@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ሽሙኤል ድማ ⟨את⟩ ሕዝቢ ናብ ያህዌህ ኣብ ምጽጳ ጸወዖ።",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ጸወዖ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሽሙኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "ምጽጳ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:02:22.162770330Z",
+  "model": "glm-5.3"
+}

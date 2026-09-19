@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ልሳን እቲ ዝጠብቕ ሕፍሲ ኣብ ጽምኢ ናብ ሕምቐቱ ተሰቐለ፤ ቖልቖላት እንቂቶ ሓተቱ፣ ዝካፍሎም ድማ የለን።",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "ተሰቐለ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ልሳን"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "ዝጠብቕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "ሕምቐቱ"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "ኣብ ጽምኢ"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "ቖልቖላት"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "ሓተቱ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እንቂቶ"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "ዝካፍል"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T06:36:22.906387231Z",
+  "model": "glm-5.3"
+}

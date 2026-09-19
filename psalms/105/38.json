@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ሚጽራይም ኣብ ምውጣትኦም ተዓረቐ፣ ምኽንያቱ ፍርሃቶም ኣብ ልዕሊኦም ወረደ።",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "ተዓረቐ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "ኣብ ምውጣትኦም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ወረደ"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "ፍርሃቶም"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ኣብ ልዕሊኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:17.718729142Z",
+  "model": "glm-5.3"
+}

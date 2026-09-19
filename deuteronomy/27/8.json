@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ኣብ እቶም ድኻም እውን ⟨את⟩ ኩሉ ቃላት እዚቲ ቶራ ብዝበለጸ ግሉጽ ትጽሕፍ።",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "ትጽሕፍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "እቶም ድኻም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ቃላት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "እዚቲ ቶራ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚቲ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ግሉጽ"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "ብዝበለጸ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:05:27.815522903Z",
+  "model": "glm-5.3"
+}

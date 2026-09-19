@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ናይ ያህዌህ ⟨እዩ⟩ መድሓኒት፤ ኣብ ላዕሊ ህዝቢኻ በረከትካ። ስለላም።",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "ናይ ያህዌህ"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "መድሓኒት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ህዝቢኻ"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "በረከትካ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስለላም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:40:22.985061797Z",
+  "model": "glm-5.3"
+}

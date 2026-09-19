@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኣቭራሃም ጸሊኡ ⟨את⟩ ኢዱ፣ ⟨את⟩ ነቲ መጥረጊሕ ሓዘ — ንወዱ ⟨את⟩ ንምሳዕር።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ጸሊኡ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢዱ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ሓዘ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ መጥረጊሕ"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "ነቲ መጥረጊሕ"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "ንምሳዕር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወዱ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:24:38.345108585Z",
+  "model": "glm-5.3"
+}

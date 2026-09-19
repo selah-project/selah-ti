@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ነታን ቤታት የሩሻላይም ⟨את⟩ በዝሓንኩም፣ ነታን እተን ቤታት ንምሕደስ እቲ ምሕጺን ኣፈርስኩም።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቤታት"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ቤታት"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "በዝሓንኩም"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "ኣፈርስኩም"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "እተን ቤታት"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "ንምሕደስ"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ምሕጺን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:53:43.799690509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 32:16",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ኣነ ድማ ነጸርኩ፣ ስለ ዘይዛረቡ፣ ስለ እተቐምጡ ደጊሞም ኣይምለሱን።",
+  "tokens": [
+    {
+      "surface": "והוחלתי",
+      "gloss": "ነጸርኩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ዘይዛረቡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "እተቐምጡ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ምለሱ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደጊሞም"
+    }
+  ],
+  "timestamp": "2026-09-19T06:19:19.861183685Z",
+  "model": "glm-5.3"
+}

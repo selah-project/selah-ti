@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 88,
+  "translation": "ኣብ ላዕለይ ሓሊፉ እዩ ቍጣኻ፤ ብርሃእኻ ድማ ቐቲሉኒ።",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ላዕለይ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ሓሊፉ እዩ"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "ቍጣኻ"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "ብርሃእኻ"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "ቐቲሉኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:23.402359695Z",
+  "model": "glm-5.3"
+}

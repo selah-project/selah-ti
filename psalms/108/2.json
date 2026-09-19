@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 108,
+  "translation": "«ዝተዓቐበ ልበይ ⟨እዩ⟩ ኤሎሂም፤ ክዜምር እየ፣ ክዛምር እየ ውን፣ ንክብርይ እውን።»",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ዝተዓቐበ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ክዜምር እየ"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ክዛምር እየ ውን"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ንክብርይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:05.613533974Z",
+  "model": "glm-5.3"
+}

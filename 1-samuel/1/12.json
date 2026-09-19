@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣብ ዝተኸፍለ ኣብ ቅድሚ ያህዌህ እናተማሕጸነት ምስ በዝሐት፣ ዒሊ ነቲ ⟨את⟩ ኣፋኣ እናጠቐኸ ርኣየ።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ኣብ ዝተኸፍለ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "በዝሐት"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "እናተማሕጸነት"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ዒሊ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "እናጠቐኸ ርኣየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣፋኣ"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ኣፋኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:54:19.634833679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "እቲ ንጉስ ተመሊሱ ክሳብ ዮርዳኖስ መጸ፤ ይሁዳ ድማ ነቲ ንጉስ ንምራኸብን ንጉስ ⟨את⟩ ዮርዳኖስ ⟨את⟩ ንምሕላፍን ናብ ገልገል መጸ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተመሊሱ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "ገልገል"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ንምኻድ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ንምራኸብ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "ንምሕላፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንጉስ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮርዳኖስ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:38:56.983058241Z",
+  "model": "glm-5.3"
+}

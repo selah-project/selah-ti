@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 125,
+  "translation": "ዜማ ናይ ኣውራዕ። ኣብ ያህዌህ ዝተጠሚቱ ከም ከረባ የሩሻላይም ኮይኖም ኣይተንቐሳቐስን፣ ናብ ዘለኣለም ይነብር።",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ዜማ"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ናይ ኣውራዕ"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "ዝተጠሚቱ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ኣብ ያህዌህ"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "ከም ከረባ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ተንቐሳቐስን"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ይነብር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:29.223312544Z",
+  "model": "glm-5.3"
+}

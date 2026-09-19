@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "⟨ואת⟩ እቲ ሓደ ጎቦ ተውሲድካ፣ ኣህሮንን ውላዱን ድማ ⟨את⟩ ኢዶምን ኣብ ልዕሊ ርእሲ እቲ ጎቦ የብርዮም።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ጎቦ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "እቲ ጎቦ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "እቲ ሓደ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ተውሲድካ"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "የብርዮም"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣህሮን"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ውላዱን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢዶም"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ኢዶም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "እቲ ጎቦ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:35:18.399258435Z",
+  "model": "glm-5.3"
+}

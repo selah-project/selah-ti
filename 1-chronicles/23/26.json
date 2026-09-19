@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ንለዋውያን ድማ እቲ ማሕደር ⟨את⟩ን ኩሉ መሳርሒታቱን ⟨את⟩ን ንኣገልግሎቱ ንምዕቃብ የለን።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ድማ ከምኡውን"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ንለዋውያን"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ንምዕቃብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ማሕደር"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "እቲ ማሕደር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ መሳርሒታቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "መሳርሒታቱ"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "ንኣገልግሎቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:48:47.407829891Z",
+  "model": "glm-5.3"
+}

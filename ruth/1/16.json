@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 1:16",
+  "book": "ruth",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ሩት ድማ በለት፦ ንምሕደግኻ ካብ ድሕሪኻ ንምምላስ ኣይግደፈኒ፤ ምኽንያቱ ኣብ ዘኾንኪ ኣኾን ኣብ ዘድልዪ ኣልይ፤ ህዝብኪ ህዝቢ እዩ ኤሎሂምኪ ኤሎሄይ እዩ።",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "በለት"
+    },
+    {
+      "surface": "רות",
+      "gloss": "ሩት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תפגעי",
+      "gloss": "ግደፈኒ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ኒ"
+    },
+    {
+      "surface": "לעזבך",
+      "gloss": "ንምሕደግኻ"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ንምምላስ"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "ካብ ድሕሪኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዘ"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ኾንኪ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ኣኾን"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "ኣብ ዘ"
+    },
+    {
+      "surface": "תליני",
+      "gloss": "ድልዪ"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ኣልይ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ህዝብኪ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "ואלהיך",
+      "gloss": "ኤሎሂምኪ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሄይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:32:57.002030727Z",
+  "model": "glm-5.3"
+}

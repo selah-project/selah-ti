@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኤሎሂም ናብ ቢልዓም ምስ መጸ፣ እናበለ፦ «እዞም ሰባት እዚኦም መን እዮም ምስ ኻ ዘለዉ?»",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ምስ መጸ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ቢልዓም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስ ኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:31:29.824676944Z",
+  "model": "glm-5.3"
+}

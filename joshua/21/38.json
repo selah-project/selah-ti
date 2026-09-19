@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 21:38",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ድማ ካብ ወገን ናይ ጋድ፣ ⟨את⟩ ከተማ ምላጽ ንዝቐትለ፣ ⟨את⟩ ራሞት ኣብ ግልዓድን ⟨את⟩ መርዓታትኣን ⟨את⟩ ማኽናይምን ⟨את⟩ መርዓታትኣን።",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ድማ ካብ ወገን"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተማ ምላጽ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "ምላጽ"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ንዝቐትለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራሞት"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "ራሞት"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "ኣብ ግልዓድ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መርዓታትኣ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መርዓታትኣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ማኽናይም"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "ማኽናይም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መርዓታትኣ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መርዓታትኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:30:33.730209905Z",
+  "model": "glm-5.3"
+}

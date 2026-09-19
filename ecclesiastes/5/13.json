@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ነቲ ሃብቲ እቲ ብጕዳይ እስከ ተጠፊኡ፣ ወዲ ውን ወለደ፣ ኣብ ኢዱ ድማ ዝኾነ ነገር የለን።",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "ተጠፊኡ"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "እቲ ሃብቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "ኣብ ጕዳይ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ኣብ ኢዱ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ዝኾነ ነገር"
+    }
+  ],
+  "timestamp": "2026-09-19T06:41:39.436906329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣሃሮን ድማ ናብ መሥዋዕቲ ቀረበ፤ ⟨את⟩ ንእሽተይ ስጉ ሓቂ እቲ ናዱ ዝነበረ ሰተየ።",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ቀረበ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሥዋዕቲ"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "ሰተየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንእሽተይ ስጉ ሓቂ"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ንእሽተይ ስጉ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ሓቂ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ናዱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:53:16.236866258Z",
+  "model": "glm-5.3"
+}

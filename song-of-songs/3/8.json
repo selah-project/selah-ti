@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኩሎም ሰይፊ ዝሓዙ፣ ጦርነት ዝተማሕሩ፣ ዎርዲ ሰይፊኡ ኣብ ስጉላኡ፣ ስገምቲ ለይታት።",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "ዝሓዙ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፊ"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "ዝተማሕሩ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ጦርነት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ዎርዲ"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ሰይፊኡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "ስጉላኡ"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ስገምቲ"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "ለይታት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:28:41.232300550Z",
+  "model": "glm-5.3"
+}

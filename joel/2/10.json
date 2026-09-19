@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 2:10",
+  "book": "joel",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣብ ቅድሚኡ ምድሪ ተንቀጥቐጠት፣ ሰማያት ተንዘረዘራ፣ ጸላይን ኸረምን ተጸልመቱ፣ ንኮከታት እውን ብርሃኖም ኣእተወ።",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "ኣብ ቅድሚኡ"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "ተንቀጥቐጠት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "רעשו",
+      "gloss": "ተንዘረዘራ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ጸላይ"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ንኸረምን"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "ተጸልመቱ"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "ንኮከታትን"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "ኣእተወ"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "ብርሃኖም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:12:54.793019540Z",
+  "model": "glm-5.3"
+}

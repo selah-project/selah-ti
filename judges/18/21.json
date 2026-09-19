@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ተመለሱን ኸዱን፣ ⟨את⟩ ውላድን ⟨את⟩ እንስሳትን ⟨את⟩ ክብደታትን ቅድሞም ኣተሕዉ።",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "ተመለሱ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ኸዱ"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "ኣተሕዉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እንስሳት"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "እንስሳት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ክብደታት"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "ክብደታት"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ቅድሞም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:51:21.445762999Z",
+  "model": "glm-5.3"
+}

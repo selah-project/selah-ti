@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "እዚኦም ኣብ ጋት ንሓራፋ ተወሊዑ፣ ብኢድ ዳዊድን ብኢድ ኣገልጋሊኡን ወደቑ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "ተወሊዑ"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "ንሓራፋ"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "ኣብ ጋት"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ወደቑ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ኣገልጋሊኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:45:39.854807689Z",
+  "model": "glm-5.3"
+}

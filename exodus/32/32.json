@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 32:32",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ሕጂ ድማ ሓጢያቶም እንተ ወሪድካዮም—እንተ ኣይወሪድካዮምን ኾነ፣ ካብ መጽሓፍካ ዝጻሕፍካዮ ሰርዘኒ በሎ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ ድማ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ወሪድካዮም"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ሓጢያቶም"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "እንተ …ን"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "מחני",
+      "gloss": "ሰርዘኒ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "מספרך",
+      "gloss": "መጽሓፍካ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "ዝጻሕፍካዮ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:41:11.892412108Z",
+  "model": "glm-5.3"
+}

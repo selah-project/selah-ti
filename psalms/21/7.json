@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ስለ ዝገብርኻዮ ንዘለኣለም በረኹታት፣ ብደስታ ብምስ ⟨את⟩ ገጽካ ተዓድዮ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ ዝገብርኻዮ"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "ኣቕሚዶ"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "በረኹታት"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ንዘለኣለም"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "ተዓድዮ"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ብደስታ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገጽካ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽካ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:19.934420638Z",
+  "model": "glm-5.3"
+}

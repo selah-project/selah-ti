@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "«ሓዊ ማይ ኣይሕልወን፣ ቐሊል ድማ ኣይዋልደን፤ ትሕቲ ኣፍኣ ኣብ ልዕለይ ኣይቕጽረን።»",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "ኣይሕልወን"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "ኣይዋልደን"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "ቐሊል"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "ኣይቕጽረን"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕለይ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ኣፍኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:22.154734023Z",
+  "model": "glm-5.3"
+}

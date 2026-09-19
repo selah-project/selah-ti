@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 24:28",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "እቲ ጓል ወለዲ ድማ ኸደት፣ ነገረት ድማ ነቶም ኣብ ቤት ኣደኣ ዝነግሩ ከምቶም ኣብዚ ዝርከቡ ቃላት።",
+  "tokens": [
+    {
+      "surface": "ותרץ",
+      "gloss": "ኸደት"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "እቲ ጓል ወለዲ"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ነገረት"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ነቶም ኣብ ቤት"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ኣደኣ"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "ከምቶም ቃላት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ኣብዚ ዝርከቡ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:47:12.357247679Z",
+  "model": "glm-5.3"
+}

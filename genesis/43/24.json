@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "እቲ ሰብ ድማ ነቶም ⟨את⟩ ተማዕበልቲ ናብ ቤት ዮስፍ ኣእተዎም፣ ማይ ሃበን ልምዓቶም ሓጹሮምን፣ ንኣጋላትን ከኣ መግቢ ሃቐን።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ኣእተዎም"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ተማዕበልቲ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "እቶም ተማዕበልቲ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ናብ ቤት"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮስፍ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "ሓጹሮም"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ልምዓቶም"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሃቐ"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "መግቢ"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "ንኣጋላትን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:05:24.987110775Z",
+  "model": "glm-5.3"
+}

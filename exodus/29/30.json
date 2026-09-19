@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 29:30",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "እቲ ኣብ ቦታኡ ካብ ውላዱ ዝኾነ ካህን፣ እቲ ናብ ድንቁር ምላሻት ንምግልገል ኣብ ቅድስት ዝኣተዎ፣ ነቶም ሰባት መዓልታት ይለብሶም።",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "ילבשם",
+      "gloss": "ይለብሶም"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ኣብ ቦታኡ"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "ካብ ውላዱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ…ዝኾነ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ዝኣተዎ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንቁር"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ምላሻት"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "ንምግልገል"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ኣብ ቅድስት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:36:11.007504553Z",
+  "model": "glm-5.3"
+}

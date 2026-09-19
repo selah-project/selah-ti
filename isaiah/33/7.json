@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 33:7",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ኣሎ እሞ ኣርኤላቶም ኣብ ውጻኢ ቐሊዖም፤ መልኣከ ሰላም በይኖም በድሒ ይብከዩ።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ኣሎ እሞ"
+    },
+    {
+      "surface": "אראלם",
+      "gloss": "ኣርኤላቶም"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "ቐሊዖም"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "ኣብ ውጻኢ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "መልኣከ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "מר",
+      "gloss": "በድሒ"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "ይብከዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:00:45.912385695Z",
+  "model": "glm-5.3"
+}

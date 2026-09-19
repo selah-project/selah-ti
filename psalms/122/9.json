@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 122,
+  "translation": "ስለ ቤት ያህዌህ ኤሎሂምና ንዓኻ ሎሚ በለጹን ክኣል እየ።",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "ክኣል እየ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "በለጹን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንዓኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:18.536346805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኣውርያ ድማ ኣብ ኣፍሪቕ ቤት እቲ ንጉስ ምስ ⟨את⟩ ኩሉ ኣገልጋሊ እቲ ጎይታኡ ተኺሱ፣ ናብ ቤቱ ኣይወረደን።",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ተኺሱ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ኣውርያ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣፍሪቕ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ኣገልጋሊ እቲ ጎይታኡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልጋሊ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "እቲ ጎይታኡ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ወረደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:28:49.507408921Z",
+  "model": "glm-5.3"
+}

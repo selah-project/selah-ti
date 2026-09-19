@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "እዚ ድማ ካብኦም ኣይክብሉን፤ እቲ ኣኽሊል፣ እቲ ፐረስን እቲ ዓዝኒያን እዮም።",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "እዚ ድማ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ክብሉን"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ካብኦም"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "እቲ ኣኽሊል"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "እቲ ፐረስ"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "እቲ ዓዝኒያ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:54:58.192971021Z",
+  "model": "glm-5.3"
+}

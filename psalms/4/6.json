@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ወፈያታት ጽድቂ ወፍዩ፣ ኣብ ያህዌህ ከኣ ኣመኑ።",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "ወፍዩ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ወፈያታት"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "ኣመኑ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:48.280632646Z",
+  "model": "glm-5.3"
+}

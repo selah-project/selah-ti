@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 51,
+  "translation": "እንሆ ኣብ ኣጽዑር ተወልድኩ፣ ኣደውን ኣብ ንጥፍኣት ጸንሰተኒ።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "ኣብ ኣጽዑር"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "ተወልድኩ"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "ኣብ ንጥፍኣት"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "ጸንሰተኒ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ኣደ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:26.071695975Z",
+  "model": "glm-5.3"
+}

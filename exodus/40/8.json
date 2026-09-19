@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ነቲ ምድብ ብዙርያኡ ⟨את⟩ ኣቆሚዎ፣ ነቲ ጋሻ ናዥ ኣፍደገ ምድብ ንሳ ⟨את⟩ ኣቐምጦ።",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ኣቆሚዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድብ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ነቲ ምድብ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ብዙርያኡ"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ኣቐምጦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጋሻ ናዥ ኣፍደገ ምድብ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ጋሻ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ናዥ ኣፍደገ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ምድብ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:45:47.234014370Z",
+  "model": "glm-5.3"
+}

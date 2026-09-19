@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ንሓደ ገጽ ተኣማንቲ ምስክራት ኣስሓብን፦ ⟨את⟩ ኦርያህ እቲ ካህንን ⟨את⟩ ዝኽርያሁ ወዲ ይበርኽያሁን።",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "ኣስሓብን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንሓደ ገጽ"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ምስክራት"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "ተኣማንቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኦርያህ እቲ ካህን"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ኦርያህ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ካህን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዝኽርያሁ ወዲ ይበርኽያሁ"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "ዝኽርያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "ይበርኽያሁ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:44:23.447069471Z",
+  "model": "glm-5.3"
+}

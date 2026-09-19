@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "መዝሙር ናይ ኣሳፍ። ኤል ኤሎሂም ያህዌህ ተዛረበ፣ ንምድሪ ካብ ውጺኢ ፀሓይ ክሳብ ብምባኣ ደወሎ።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ናይ ኣሳፍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ደወሎ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ንምድሪ"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ካብ ውጺኢ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ፀሓይ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "ብምባኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:01:57.341577271Z",
+  "model": "glm-5.3"
+}

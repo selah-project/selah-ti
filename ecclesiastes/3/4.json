@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ንምብካይ ሰዓት ኣሎ፣ ከምኡውን ንምስቓድ ሰዓት፤ ንምቐባል ሰዓት፣ ከምኡውን ንምዓይላ ሰዓት።",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ሰዓት"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "ንምብካይ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ከምኡውን ሰዓት"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "ንምስቓድ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ሰዓት"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "ንምቐባል"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ከምኡውን ሰዓት"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "ንምዓይላ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:40:01.010085379Z",
+  "model": "glm-5.3"
+}

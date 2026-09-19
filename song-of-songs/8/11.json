@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 8:11",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ንሽሎሞ ኣብ ባዕል-ሓሞን ወይኒ ነይርዎ፤ ⟨את⟩ እታ ወይኒ ንዘርእያኣ ሃበ፤ ነፍሲ ወከፍ ብፍረታ ሽሕ ቕረቕሮ የእትው።",
+  "tokens": [
+    {
+      "surface": "כרם",
+      "gloss": "ወይኒ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይርዎ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ንሽሎሞ"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "ኣብ ባዕል"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ሓሞን"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ወይኒ"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "እታ ወይኒ"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "ንዘርእያኣ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ወከፍ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "የእትው"
+    },
+    {
+      "surface": "בפריו",
+      "gloss": "ብፍረታ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ቕረቕሮ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:30:45.912078027Z",
+  "model": "glm-5.3"
+}

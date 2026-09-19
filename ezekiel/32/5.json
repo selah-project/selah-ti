@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ኣብ ⟨את⟩ እኽሊኻ ኣብ እቶም ከረብቲ ኣቐምጠዮ እየ፣ ስፍሕቲ ድማ ብቕርሲ ኣካልኻ እምላይ እየ።",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ኣቐምጠዮ እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እኽሊኻ"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "እኽሊኻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ከረብቲ"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "እምላይ እየ"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "ስፍሕቲ"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "ብቕርሲ ኣካልኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:46:37.793857334Z",
+  "model": "glm-5.3"
+}

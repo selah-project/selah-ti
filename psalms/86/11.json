@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 86,
+  "translation": "ያህዌህ መገዲኻ ኣምሃረኒ፤ ኣብ ሓቂኻ ክኽእል እየ፤ ልበይ ንምትሕትና ስምካ ሓደ ጌርዎ።",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "ኣምሃረኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "መገዲኻ"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ክኽእል እየ"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "ኣብ ሓቂኻ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ሓደ ጌርዎ"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "ንምትሕትና"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:27.352349644Z",
+  "model": "glm-5.3"
+}

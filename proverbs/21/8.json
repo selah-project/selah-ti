@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ተመሊስቲን ወንገልን እዩ መገዲ ሰብ፣ እቲ ንጹህ ግን ቅኑዕ እዩ ስራሁ።",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "ተመሊስቲን"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መገዲ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "ወንገልን"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "እቲ ንጹህ ግን"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ቅኑዕ"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ስራሁ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:52:23.362945454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ሞሸ ድማ ነቶም በሎ፦ ሓደ ሰብ ካብኡ ክሳብ ቍሩብ ኣይሓድር።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሓደ ሰብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ኣይሓድር"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ቍሩብ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:23:02.501964634Z",
+  "model": "glm-5.3"
+}

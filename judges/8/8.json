@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 8:8",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ካብ ነቲ ከባቢ ድማ ናብ ፐኑኤል ወሲዱ ከደ፤ ንሳቶም ድማ ከምኡ ተዛረቦም፤ ሰባት ፐኑኤል ድማ ⟨את⟩ ነቲ ከምቶም ሰባት ሱኩት ዝመለስዎ ከምኡ መለስዎ።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ወሲዱ ከደ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "ፐኑኤል"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረቦም"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "ויענו",
+      "gloss": "መለስዎ"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ (ጊድዕን)"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "ፐኑኤል"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከምቶም"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ዝመለስዎ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "ሱኩት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:41:38.055995442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እናበለት፦ «ንኣዶኒያው ሓውኻ ⟨את⟩ ኣቪሽግ እታ ሽነምማይቲ ከም ሰበይቲ ክትውሃብ ኣላ።»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "እናበለት፦"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ክትውሃብ ኣላ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቪሽግ"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "ኣቪሽግ"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "እታ ሽነምማይቲ"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "ንኣዶኒያው"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ሓውኻ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ከም ሰበይቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:46:55.372797863Z",
+  "model": "glm-5.3"
+}

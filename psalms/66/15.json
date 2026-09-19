@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 66,
+  "translation": "ዕልታት ናይ ሰቡብ ብስሓልቲ ኣወላት ኣውጽአልካ እየ፤ ስሓልቲ ምስ መሓሊታት ክገብር እየ። ስላል።",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "ዕልታት"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "ናይ ሰቡብ"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ኣውጽአልካ እየ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ስሓልቲ"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "ኣወላት"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ክገብር እየ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ስሓልቲ\/በቕል"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "መሓሊታት"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስላል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:47.646334436Z",
+  "model": "glm-5.3"
+}

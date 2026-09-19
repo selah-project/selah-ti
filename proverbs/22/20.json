@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ብምክርትን ብፍልጠትን ኣብ ሰለስተ ግዜ ንኻ ኣብ ጽሓፍኩልኻ ዘይኮነን?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ዘይኮነን"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "ኣብ ጽሓፍኩልኻ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ኣብ ሰለስተ ግዜ"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "ብምክርትን"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ብፍልጠትን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:54:11.430638075Z",
+  "model": "glm-5.3"
+}

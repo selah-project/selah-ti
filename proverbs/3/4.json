@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣብ ኣዕይንቲ ኤሎሂምን ሰባትን እንተታ በጺሕካ ድማ ጸጋን ጽቡቕ ምዝንባልን ትረክብ።",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ትረክብ ድማ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ጸጋን"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "ጽቡቕ ምዝንባልን"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡቕ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ ኣዕይንቲ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂምን"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ሰባትን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:42:31.176894404Z",
+  "model": "glm-5.3"
+}

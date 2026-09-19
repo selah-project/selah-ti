@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ረሃብዓም ናብ ሽኬም ከደ፣ ምኽንያቱ ኩሉ እስራኤል ንሱ ⟨אתו⟩ ንምንጋሥ ናብ ሽኬም መጸ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ረሃብዓም"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ናብ ሽኬም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ናብ ሽኬም"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "ንምንጋሥ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ንሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:01:34.975401288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 118,
+  "translation": "ከም ደበልታት ዘምዑኒ፤ ከም ናይ ቐንፈታት ሓዊ ኮነ ተጠፊኦም፤ ብስም ያህዌህ እነጥፍኦም እየ።",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "ዘምዑኒ"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "ከም ደበልታት"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "ተጠፊኦም"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "ከም ሓዊ"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "ቐንፈታት"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ብስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "እነጥፍኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:11.106033218Z",
+  "model": "glm-5.3"
+}

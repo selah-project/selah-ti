@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 81,
+  "translation": "ካብ ሕድኣ እኽሊ ኣበልዎ፣ ካብ እንጭረ ድማ ማሕ ምልእካ።",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "ኣበልዎ"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ካብ ሕድኣ"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "ካብ እንጭር"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "ማሕ"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "ምልእካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:06.470292941Z",
+  "model": "glm-5.3"
+}

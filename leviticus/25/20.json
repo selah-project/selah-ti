@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "እሞ ካብ ዝትብሉ፦ ኣብ እቲ ሸውዓተ ዓመት እንታይ ንበልዓ፧ — እንሆ ኣይንዝርዓን፣ ⟨את⟩ እምራትና ድማ ኣይንሕሰዕን።",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "እሞ ካብ"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ትብሉ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ንበልዓ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ኣብ ዓመት"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "ንዝርዓ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "ንሕሰዓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እምራትና"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "እምራትና"
+    }
+  ],
+  "timestamp": "2026-09-18T22:07:24.685607975Z",
+  "model": "glm-5.3"
+}

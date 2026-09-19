@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "እዚ ከኣ ንያህዌህ ካብ ጎርፍ ቀንዲ ዘለዎ ዘሕንፍቲ ከም ዝደልይ ይበልጽ።",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "ይበልጽ እዚ ከኣ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ካብ ጎርፍ"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ዘሕንፍቲ"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "ቀንዲ ዘለዎ"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "ከም ዝደልይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:15.181105491Z",
+  "model": "glm-5.3"
+}

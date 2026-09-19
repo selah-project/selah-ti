@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 71,
+  "translation": "ኤሎሂም ተወጸኦ ኢሎም፤ ተኽተሉ ድማ ምስ ዝተውጸአ ዓቕሙ፣ ምኽንያቱ ኣውጻኒ የለን።",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሎም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ተወጸኦ"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "ተኽተሉ"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "ድማ ምስ ዝተውጸአ ዓቕሙ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ኣውጻኒ የለን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:55.828315731Z",
+  "model": "glm-5.3"
+}

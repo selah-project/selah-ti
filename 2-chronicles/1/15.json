@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "እቲ ንጉስ ድማ ⟨את⟩ ቀረጽን ⟨ואת⟩ ወርቂን ኣብ የሩሻላይም ከም ዕንፍት ገበረ፤ ⟨ואת⟩ ኣርዛዊ ድማ ከም እቶም ኣብ ገላ ዘለዉ ሾምባት ብብዝሒ ሃቖም።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቀረጽ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ቀረጽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወርቂ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ኣብ የሩሻላይም"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "ከም ዕንፍት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣርዛዊ"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "ኣርዛዊ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃቐ"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "ከም ሾምባት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዘለዉ"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "ኣብ ገላ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ብብዝሒ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:53:08.021125363Z",
+  "model": "glm-5.3"
+}

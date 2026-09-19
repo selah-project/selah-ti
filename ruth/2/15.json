@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 2:15",
+  "book": "ruth",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ንሳ ንምልማት ምስ ተንበሸለት፣ ብዓዘር ⟨את⟩ ደቁኡ እናበለ ኣዘዘ፦ «እንተውን ኣብ መንጎ ንጋት እኽሊ ትልማት፣ ድማ ኣየሕፉሩን።»",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "ተንበሸለት"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "ንምልማት"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "ኣዘዘ"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ብዓዘር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደቁኡ"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "ደቁኡ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንተውን"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "העמרים",
+      "gloss": "ንጋት እኽሊ"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "ትልማት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ድማ ኣይ"
+    },
+    {
+      "surface": "תכלימוה",
+      "gloss": "የሕፉሩን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:32:18.102133262Z",
+  "model": "glm-5.3"
+}

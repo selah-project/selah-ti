@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣነ ድማ ⟨את⟩ ኩሉ ስራሕይ እቲ ትሕቲ ጸለማት እናሰርሕኩ ዝነበረ ጸቐጸርኩ፣ ምኽንያቱ ነቲ ሰብ እቲ ደቂቓይ ዝኾነ ክድሕኖ እዩ።",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "ጸቐጸርኩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ስራሕይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "ስራሕይ"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "እናሰርሕኩ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ጸለማት"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "ክድሕኖ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ነቲ ሰብ"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ደቂቓይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:40:46.908096238Z",
+  "model": "glm-5.3"
+}

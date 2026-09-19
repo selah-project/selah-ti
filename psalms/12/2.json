@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኣድን ያህዌህ፣ እቲ ጽዱቕ ተወዲኡ እዩ፣ እቶም ኣሚኖት ዘለዎም ካብ ውላደ ሰብ ጠፊኦም እዮም።",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "ኣድን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ተወዲኡ"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ጽዱቕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "ጠፊኦም"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ኣሚኖት-ዘለዎም"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ካብ-ውላደ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:49.252252839Z",
+  "model": "glm-5.3"
+}

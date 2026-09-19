@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 37:34",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ንያህዌህ ተጸበ፣ መገዱ ሓልዎ፣ ምድሪ ንምውራር ድማ የምሓልኻ፤ ኣብ ምጥፋእ እቶም ክፉኣት ትሪኢ ኢኻ።",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "ተጸበ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "ሓልዎ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "መገዱ"
+    },
+    {
+      "surface": "וירוממך",
+      "gloss": "የምሓልኻ"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ንምውራር"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "ኣብ ምጥፋእ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉኣት"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ትሪኢ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:55:45.782006186Z",
+  "model": "glm-5.3"
+}

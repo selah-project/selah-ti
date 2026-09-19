@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ንሳቶም ንምዝዘው ሓደ ሰብ ኣይኰረዮምን፣ ንነገስትቲ ድማ ኣብ ልዕሊኦም ተዛረቦም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "ኰረዮ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "ንምዝዘው"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "ተዛረቦም"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ኣብ ልዕሊኦም"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ንነገስትቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:31.085398333Z",
+  "model": "glm-5.3"
+}

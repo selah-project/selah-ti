@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 3:14",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ስላሕን ⟨את⟩ እቲ መጋር ብትኩልትን ብኣርገማንን ብቀሚልን ብሐሩርን ገበረ፤ ከምኡ ኸኣ ክሩባት ኣብ ልዕሊኡ ውዕበሉ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ መጋር"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "እቲ መጋር"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ብትኩልት"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ብኣርገማንን"
+    },
+    {
+      "surface": "וכרמיל",
+      "gloss": "ብቀሚልን"
+    },
+    {
+      "surface": "ובוץ",
+      "gloss": "ብሐሩርን"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ውዕበሉን"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊኡ"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "ክሩባት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:55:04.639255310Z",
+  "model": "glm-5.3"
+}

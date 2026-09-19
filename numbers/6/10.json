@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 6:10",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኣብቲ ሻምናይ መዓልቲ ድማ ክልተ ቱርያት ወይ ክልተ ውላድ ኩሩ ናብቲ ካህን ናብ ኣፍደገ ማሕደር ስብሓት ይኣቱ።",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ኣብቲ መዓልቲ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ሻምናይ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ይኣቱ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "ቱርያት"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ኩሩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ንኡቲ ካህን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣፍደገ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ስብሓት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:17:24.590806875Z",
+  "model": "glm-5.3"
+}

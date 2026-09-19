@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "⟨את⟩ ኣቃላቱ ኣብ ቤት ዓሽታሮት ኣቕምጹ፣ ⟨את⟩ ኣካልኡ ድማ ኣብ ሕድሪ ቤት-ሻን ዘረአኡ።",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "ኣቕምጹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቃላቱ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ኣቃላቱ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "ዓሽታሮት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣካልኡ"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "ኣካልኡ"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ዘረአኡ"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "ኣብ ሕድሪ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ሻን"
+    }
+  ],
+  "timestamp": "2026-09-19T00:21:15.518126265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 22:8",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኽልቅያሁ እቲ ዓቢ ኻህን ነቲ ጸሓፊ ሻፓን በሎ፦ «ኣብ ቤት ያህዌህ እቲ መጽሓፍ ቶራ ተረኺብኩ።» ኽልቅያ ድማ ⟨את⟩ እቲ መጽሓፍ ናብ ሻፓን ሃበ፣ ንሱ ድማ ኣንበቦ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "ኽልቅያሁ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ኻህን"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "እቲ ዓቢ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "ሻፓን"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "እቲ ጸሓፊ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "መጽሓፍ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "እቲ ቶራ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ተረኺብኩ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "ኽልቅያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ መጽሓፍ"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "እቲ መጽሓፍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "ሻፓን"
+    },
+    {
+      "surface": "ויקראהו",
+      "gloss": "ኣንበቦ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:37:36.668001533Z",
+  "model": "glm-5.3"
+}

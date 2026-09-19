@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 19:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ትንቢት ሚጽራይም። እንሆ ያህዌህ ኣብ ቐሊል ደመና ዝቐመጥ ኮይኑ ናብ ሚጽራይም ይበጽሕ፣ ኣማልኽቲ ሚጽራይም ብፊቱ ይንደዙ፣ ልቢ ሚጽራይም ድማ ኣብ ውሽጡ ይፈቱ።",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ትንቢት"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ዝቐመጥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "עב",
+      "gloss": "ደመና"
+    },
+    {
+      "surface": "קל",
+      "gloss": "ቐሊል"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ይበጽሕ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ונעו",
+      "gloss": "ይንደዙ"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "ኣማልክቲ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ብፊቱ"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "ይፈቱ"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ኣብ ውሽጡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:55:08.229667891Z",
+  "model": "glm-5.3"
+}

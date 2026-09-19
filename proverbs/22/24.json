@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ባዕል ቍጭቐቕ ⟨את⟩ ኣይትሓብብ፣ ምስ ⟨את⟩ ሰብ ኸምድን ከይትኣቱ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "ኣይትሓብብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ባዕል ቍጭቐቕ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ባዕል"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ቍጭቐቕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "ኸምድን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ከይትኣቱ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ከይትኣቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:54:28.486689448Z",
+  "model": "glm-5.3"
+}

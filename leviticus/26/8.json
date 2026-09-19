@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 26:8",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ካብኩም ሓሙሽተ ሚእቲ ኪኽተሉ፣ ካብኩም ሚእቲ ድማ ውሉር ኪኽተሉ፣ ጠላትኹም ድማ ብሰይፊ ቅድሚኹም ኪወድቑ እዮም።",
+  "tokens": [
+    {
+      "surface": "ורדפו",
+      "gloss": "ኪኽተሉ"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ካብኩም"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ሚእቲ"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ሚእቲ ድማ"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ካብኩም"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "ውሉር"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "ኪኽተሉ"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ኪወድቑ"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ጠላትኹም"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ቅድሚኹም"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ብሰይፊ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:08:31.395837926Z",
+  "model": "glm-5.3"
+}

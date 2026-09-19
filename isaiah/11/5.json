@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ጽድቂ ኣገልባጥቲ ወጥሒኡ ትጸንሕ፣ ቐጥታ ድማ ኣገልባጥቲ ወግሑ ትጸንሕ።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ትጸንሕ፣ ኮይና"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "ኣገልባጥቲ"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "ወጥሒኡ"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "ቐጥታ ድማ"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "ኣገልባጥቲ"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "ወግሑ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:49:19.780079533Z",
+  "model": "glm-5.3"
+}

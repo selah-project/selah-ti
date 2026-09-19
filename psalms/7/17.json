@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ክፉኑ ኣብ ርእሱ ይመልስ፣ ጅምሩ ድማ ኣብ ልዑሉ ይወርድ።",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "ይመልስ"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ክፉኑ"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "ኣብ ርእሱ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ድማ ኣብ"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "ልዑሉ"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "ጅምሩ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ይወርድ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:40:39.135976703Z",
+  "model": "glm-5.3"
+}

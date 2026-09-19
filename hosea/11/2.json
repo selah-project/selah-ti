@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ቐረብዎም፣ ንሳቶም ግን ካባንቲ ተቓሊሶም ናብቲ ባዓላት ወፈዩ፣ ናብቲ ተቐረጻታት ድማ ኣተላኹ።",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "ቐረብዎም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ነንሶም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ተቓሊሶም ከደ"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ካባንቲ"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "ናብቲ ባዓላት"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "ወፈዩ"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "ናብቲ ተቐረጻታት"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "ኣተላኹ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:09:46.610024784Z",
+  "model": "glm-5.3"
+}

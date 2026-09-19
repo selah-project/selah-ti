@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ንቍልቕቓቱን ⟨את⟩ ንተግባራቱን ⟨את⟩ እቶም ኣብ ማእከላይ ሚጽራይም ነቲ ፓርዖ ንጉስ ሚጽራይምን ነቲ ኹሉ ምድሩን ዝገበሮም።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቍልቕቓቱ"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "ቍልቕቓቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ተግባራቱ"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ተግባራቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበሮም"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ ማእከላይ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ንፓርዖ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ምድሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:35:15.632669070Z",
+  "model": "glm-5.3"
+}

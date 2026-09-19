@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኣይ ንስኻ እቲ ንጉስቲ ኣሽር ⟨את⟩ ንኩለን ምድራት ንኽጥፍኡ ዝገበሩዎ ሰምዕካ፣ ንስኻ ድማ ትድሓን ድዩ?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ሰምዕካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝገበሩዎ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዝገበሩ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ንጉስቲ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣሽር"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩለን"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ምድራት"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "ንኽጥፍኡ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ድማ"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "ትድሓን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:30:49.577703424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "ዝገብሮ መልኣኾም ንፋሳት፣ ኣገልጋልኡ እውን ተነድዲ እሳት።",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ዝገብሮ"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "መልኣኾም"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ንፋሳት"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "ኣገልጋልኡ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "להט",
+      "gloss": "ተነድዲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:39.434750902Z",
+  "model": "glm-5.3"
+}

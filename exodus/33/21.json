@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ያህዌህ ድማ በለ፦ «እንሆ ምስ ኣነ ⟨את⟩ ቦታ ኣሎ፣ ንስኻ ድማ ኣብ ልዕሊ እቲ ዓልበርቲ ትቐመጥ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ምስ ኣነ"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "ትቐመጥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "እቲ ዓልበርቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:38:01.976254769Z",
+  "model": "glm-5.3"
+}

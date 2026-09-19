@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "የሆሹዋዕ ድማ ምስ ኩሉ እስራኤል ናብ መርሕቲ ጊልጋል ተመለሰ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹያዕ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "መርሕቲ"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "ጊልጋል"
+    }
+  ],
+  "timestamp": "2026-09-18T23:22:32.666358732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ምድሪ ምስ ትጥቕምካያ ⟨את⟩ እታ ምድሪ፣ ዝያዳ ሓይላ ኣይትሃበካን፤ ኣብ ምድሪ ተዓዊትን ተሓቋቒጽን ትከውን ኣለኻ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ትጥቕምካያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ምድሪ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ዝያዳ"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ትሃብ"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "ሓይላ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "נע",
+      "gloss": "ተዓዊት"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "ተሓቋቒጽ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ትከውን"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:30:54.336851795Z",
+  "model": "glm-5.3"
+}

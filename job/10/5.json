@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ከም መዓልታት ሓዊስቲ መዓልትትካ ድዩ እየን፣ ወይ ድማ ዓመታትካ ከም መዓልታት ጋባር እየን?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "ከም መዓልታት"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሓዊስቲ"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "መዓልትትካ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "ዓመታትካ"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "ከም መዓልታት"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ጋባር"
+    }
+  ],
+  "timestamp": "2026-09-19T06:08:03.125398204Z",
+  "model": "glm-5.3"
+}

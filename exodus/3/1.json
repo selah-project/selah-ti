@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ሞሸ ድማ ናይ ይትሮ ኣቦቱ ሓው፣ ካህን ሚጽራይም፣ ⟨את⟩ መግዛእቲ ይርእዩ ነይሩ፤ ⟨את⟩ እቲ መግዛእቲ ድማ ኣብ ኣንጻር እቲ ምድራት ኣእቢሉ፣ ናብ ታለኣይ ከተማ ኤሎሂም፣ ናብ ሖርብ ኣተወ።",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "ሞሸ ድማ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ይርእዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መግዛእቲ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "መግዛእቲ"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "ይትሮ"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "ኣቦቱ ሓው"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "ኣእቢሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ መግዛእቲ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "እቲ መግዛእቲ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ኣብ ኣንጻር"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "እቲ ምድራት"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ኣተወ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ታለኣይ ከተማ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ናብ ሖርብ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:11:53.078893790Z",
+  "model": "glm-5.3"
+}

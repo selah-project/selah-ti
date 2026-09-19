@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ነታ ⟨את⟩ ኣብ ታሕቲ ኣግዳሚ እቲ መሥዋዕቲ ቤት ተቐምጣ፤ እቲ መርበብ ድማ ክሳብ ሽዱሽሒ ናይ እቲ መሥዋዕቲ ቤት ክኸውን።",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ተቐምጣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ነታ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ታሕቲ"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "ኣግዳሚ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "እቲ መሥዋዕቲ ቤት"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "ኣብ ታሕቲ"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ክኸውን"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "እቲ መርበብ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ሽዱሽሒ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ናይ እቲ መሥዋዕቲ ቤት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:31:37.608631310Z",
+  "model": "glm-5.3"
+}

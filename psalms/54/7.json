@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 54,
+  "translation": "እቲ ክፉእ ንተመልካተይ ይመልስ፤ ብሓቃኻ ኣጥፍኦም።",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "ይመልስ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "እቲ ክፉእ"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "ንተመልካተይ"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "ብሓቃኻ"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "ኣጥፍኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:02:57.175427976Z",
+  "model": "glm-5.3"
+}

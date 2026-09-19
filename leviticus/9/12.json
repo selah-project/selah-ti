@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ድማ ⟨את⟩ ወፈያ ዕላት በዓልዎ፤ ውላድ ኣሃሮን ⟨את⟩ ደም ነብርዎ ንእኡ፤ ንሱ ድማ ኣብ መሠዊን ብወገን የለዎ ዘረቐዮ።",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "በዓልዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወፈያ ዕላት"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ወፈያ ዕላት"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ነብርዎ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንእኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደም"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "ዘረቐዮ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊን"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ብወገን የለዎ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:51:46.977638215Z",
+  "model": "glm-5.3"
+}

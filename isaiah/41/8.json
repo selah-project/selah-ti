@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ንስኻ ድማ ይስራኤል ተገለይ ያዕቆባይ ዝኸውን ዝመርጭኩሉ፤ ኩርያ ኣቭራሃም ሓብተይ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ድማ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ተገለይ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆባይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝኸውን"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "ዝመርጭኩሉ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ኩርያ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "ሓብተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:10:04.179785592Z",
+  "model": "glm-5.3"
+}

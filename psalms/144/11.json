@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 144,
+  "translation": "ናጽነይኒን ኣውጽአኒን ካብ ኢድ ውላድ ውሉያት፡ ኣፎም ባዕርታ እናተዛረበ፡ የማናቶምን የማና ሓሶት እያ።",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "ናጽነይኒን"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ኣውጽአኒን"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ውሉያት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ኣፎም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "እናተዛረበ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ባዕርታ"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "የማናቶምን"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "የማና"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሓሶት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:23.392961861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "ያህዌህ ብገጸይ ብዙሕ ኣመስግኖ፣ ኣብ ማእከል ብዙሓት ኣድምጎ እየ።",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ኣመስግኖ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ብገጸይ"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "ኣብ ማእከልን"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "ኣድምጎ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:39.105350063Z",
+  "model": "glm-5.3"
+}

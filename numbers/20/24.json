@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 20:24",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "«ኣሃሮን ነቲ ህዝቡ ኪኣኽብ እዩ፣ እንተይ ናብ እቲ ምድሪ ነቶም ውላድ ይስራኤል ዝሃብኩዎ ኣይኣቱን፣ ኣብ ማይ ምርያባ ማለት ⟨את⟩ ቃለይ ስለ ዝበዝሕኹም እዩ።»",
+  "tokens": [
+    {
+      "surface": "יאסף",
+      "gloss": "ኪኣኽብ እዩ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነ"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "እቲ ህዝቡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ኣይኣቱን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እቲ ምድሪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ዝሃብኩዎ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ነቶም ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "על",
+      "gloss": "ማለት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ስለ ዝ"
+    },
+    {
+      "surface": "מריתם",
+      "gloss": "ዝበዝሕኹም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃለይ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ቃለይ"
+    },
+    {
+      "surface": "למי",
+      "gloss": "ኣብ ማይ"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "ምርያባ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:30:31.953615581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "ንስኻ ንንቕፈተይን ንዓቢኦተይን ንኣፍልያተይን ተለፊእካ ኣሎኻ፤ ኩሎም ተቓወምተይ ቅድሚኻ ኣለዉ።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ተለፊእካ"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ንቕፈተይ"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "ዓቢኦተይ"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "ኣፍልያተይ"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "ቅድሚኻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ተቓወምተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:50.168548566Z",
+  "model": "glm-5.3"
+}

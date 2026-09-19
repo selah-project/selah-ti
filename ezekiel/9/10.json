@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣነ እውን ዓይኒ ኣይትሕጸንን፣ ውን ኣየሓድግን እየ፤ ንመንገዶም ኣብ ርእሶም ኣቐምጠኩ።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ኣይትሕጸንን"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኒ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ውን ኣይኮነን"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "ኣየሓድግን"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ንመንገዶም"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "ኣብ ርእሶም"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ኣቐምጠኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:25:51.240318870Z",
+  "model": "glm-5.3"
+}

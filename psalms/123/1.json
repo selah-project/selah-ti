@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 123,
+  "translation": "መዝሙር ናይ ምዝፋያት። ናብኣት ⟨את⟩ ኢይና ኣሪኹ፣ ኣብ ሰማያት ዝቐመጥካ።",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ናይ ምዝፋያት"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኣት"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ኣሪኹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢይና"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ኢይና"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "ዝቐመጥካ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ኣብ ሰማያት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:54.037527989Z",
+  "model": "glm-5.3"
+}

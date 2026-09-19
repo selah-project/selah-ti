@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ድማ ያህዌህ ንሞሸ በሎ፦ ልቢ ፓርዖ ከቢድ እዩ፣ ነቲ ህዝቢ ክሰድድ ደልዩ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ከቢድ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ደልዩ"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ክሰድድ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ቲ ህዝቢ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:14:21.146082293Z",
+  "model": "glm-5.3"
+}

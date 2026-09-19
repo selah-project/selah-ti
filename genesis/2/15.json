@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ያህዌህ ኤሎሂም ድማ ⟨את⟩ እቲ ሰብ ወሲዱ ኣብ ገነት ዓደን ኣስሪሁዎ ንኽሰርሓ ንኽሓልዋ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሰብ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "ኣስሪሁዎ"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "ኣብ ገነት"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ዓደን"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "ንክሰርሓ"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "ንኽሓልዋ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:30:45.809693991Z",
+  "model": "glm-5.3"
+}

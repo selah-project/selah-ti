@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ያህዌህ ድማ ዓቢ ንፋስ ናብ ⟨ቲ⟩ ባሕሪ ወፈጠ፣ ኣብ ⟨ቲ⟩ ባሕሪ ዓቢ ጎበጦ ⟨ኮይኑ⟩፣ እቲ መርከብ ድማ ክትበታኽ ተባርአት ኮይና።",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "ወፈጠ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ንፋስ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "⟨ቲ⟩ ባሕሪ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "⟨ኮይኑ⟩"
+    },
+    {
+      "surface": "סער",
+      "gloss": "ጎበጦ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ኣብ ⟨ቲ⟩ ባሕሪ"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "እቲ መርከብ"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "ተባርአት ኮይና"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "ክትበታኽ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:22:29.525256602Z",
+  "model": "glm-5.3"
+}

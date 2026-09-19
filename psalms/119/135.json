@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ገጽኻ ብኣገልገልትኻ ኣብርሃለ፣ ⟨את⟩ ስርዓታትኻ ኣስተምሃመኒ።",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "ገጽኻ"
+    },
+    {
+      "surface": "האר",
+      "gloss": "ኣብርሃለ"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "ብኣገልገልትኻ"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "ኣስተምሃመኒ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስርዓታትኻ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ስርዓታትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:25.479340978Z",
+  "model": "glm-5.3"
+}

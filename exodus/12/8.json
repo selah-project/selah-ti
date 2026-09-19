@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ድማ ⟨את⟩ እቲ ስጉል ኣብ እዚ ለይቲ እዚ ብሓዊ ተበስኢ ንበልዑ፤ ምስ ዓጣታት ምስ መራራ ጎመናት ይበልዑዎ።",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ድማ ንበልዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ስጉል"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "እቲ ስጉል"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ኣብ ለይቲ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "ተበስኢ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ብሓዊ"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "ድማ ምስ ዓጣታት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "መራራ ጎመናት"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ይበልዑዎ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:20:05.228923690Z",
+  "model": "glm-5.3"
+}

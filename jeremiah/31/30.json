@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 31:30",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "እሞ ኣብ ክንዲኡ ግን ኩሉ ሰብ ኣብ ዘይትሓገሱ ክሞት እዩ፤ እቲ ኣዥሚ ዝበልዐ ኩሉ ሰብ፣ ስንባቱ ተቐነያ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ግን"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "ኣብ ዘይትሓገሱ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ክሞት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "እቲ ዝበልዐ"
+    },
+    {
+      "surface": "הבסר",
+      "gloss": "እቲ ኣዥሚ"
+    },
+    {
+      "surface": "תקהינה",
+      "gloss": "ተቐነያ"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ስንባቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:52:27.338374042Z",
+  "model": "glm-5.3"
+}

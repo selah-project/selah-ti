@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኣማልክቲ እቶም ሕዝብታት፣ ኣቦተይ እቶም ⟨את⟩ ንሳቶም ዝጠፍኡ — ⟨את⟩ ጎዛንን ⟨את⟩ ሓራንን ረጸፍን ውላደ ዓደን ኣብ ተላሳር ዝነበሩ — ዓዱኦም ድዩ?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "ዓዱኦም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳቶም"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኣማልክቲ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "እቶም ሕዝብታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝ"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "ዝጠፍኡ"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "ኣቦተይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጎዛን"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "ጎዛን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሓራን"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "ሓራን"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "ረጸፍን"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ውላደ…ን"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ዓደን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "ኣብ ተላሳር"
+    }
+  ],
+  "timestamp": "2026-09-19T01:30:49.577860300Z",
+  "model": "glm-5.3"
+}

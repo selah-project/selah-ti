@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "እስራኤል ናብ ሚጽራይም መጸ፣ ያዕቆቭ ድማ ኣብ ምድሪ ካም ተሻኽረ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ናብ ሚጽራይም"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ያዕቆቭ ድማ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ተሻኽረ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ካም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:25.775618315Z",
+  "model": "glm-5.3"
+}

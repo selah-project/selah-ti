@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ዓቕቢ ኣጋንኮቱ ናብ ኋላዊ ሰበረ፣ ዘለኣለማዊ ውርደት እውን ሃቦም።",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ሰበረ"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ኣጋንኮቱ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ናብ ኋላዊ"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ውርደት"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለማዊ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ንኣቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:34.334624349Z",
+  "model": "glm-5.3"
+}

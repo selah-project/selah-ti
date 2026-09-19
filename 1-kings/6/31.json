@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ከምኡውን ንእታይ ⟨את⟩ እቲ ደቪር ኣፍተይታት እኽሊ ዘይቲ ገበረ፤ እቲ ማዕራፍን እተን ምስንባርታትን ሓምሻይ ክፍሊ ነበረ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ደቪር"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ንእታይ"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "እቲ ደቪር"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ኣፍተይታት"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይቲ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "እቲ ማዕራፍ"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "ምስንባርታት"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "ሓምሻይ ክፍሊ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:51:24.367678274Z",
+  "model": "glm-5.3"
+}

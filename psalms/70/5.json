@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 70,
+  "translation": "ኩሉ ዝደለይካ ኣብ ኣኻ ይደስኡን ይሓሱሱን፤ እቶም ኩሉ ግዜ «ኤሎሂም ይዓቢ» ክብሉ እዮም፣ ኣህባይ ናይ መድሓኒትካ እዮም።",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "ይደስኡ"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ይሓሱሱን"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣብ ኣኻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "ዝደለይካ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ክብሉ እዮም"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ኩሉ ግዜ"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "ይዓቢ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "ኣህባይ"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "ናይ መድሓኒትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:28.730330941Z",
+  "model": "glm-5.3"
+}

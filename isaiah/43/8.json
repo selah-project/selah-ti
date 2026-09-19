@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "ህዝቢ ዓቢ እውን ዓይኒ ዘለዎ፣ ጸላምቲ እውን ኣእዝዮም ዘሎዮም ኣውጽእ።",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "ኣውጽእ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ዓይኒ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ዘለዎ"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "ጸላምቲ"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "ኣእዝዮም"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ንኣቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:09:41.243708630Z",
+  "model": "glm-5.3"
+}

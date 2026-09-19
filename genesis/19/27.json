@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኣቭራሃም ድማ ብቍርሕ ናብ እቲ ኣብኡ ⟨את⟩ ቅድሚ ያህዌህ ዝቐመጠ ቦታ ኰረበ።",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ኣንቢቑ ኰረበ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ብቍርሕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ቐመጠ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅድሚ ያህዌህ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:42:12.389521450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 122,
+  "translation": "መዝሙር ስዒበት ናይ ዳዊድ። እቶም «ናብ ቤት ያህዌህ ንከይድ» ኢሎም ምስ በሉኒ ቐንዐኽ።",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ስዒበት"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "ቐንዐኽ"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "ኣብ ምባሎም"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ንከይድ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:32.088284301Z",
+  "model": "glm-5.3"
+}

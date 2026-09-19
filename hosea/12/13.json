@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ያዕቆቭ ናብ መድረቂ ኣራም ሰለበ፤ ይስራኤል ድማ ንሰበይቲ ኣገልገለ፤ ንሰበይቲ ድማ በጊታ ሓለዎ።",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "ሰለበ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "መድረቂ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "ኣገልገለ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "ንሰበይቲ"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "ንሰበይቲ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ሓለዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:08:21.617785203Z",
+  "model": "glm-5.3"
+}

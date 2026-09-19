@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ምስ ሰብ ብዘይ ምኽንያት ኣይትጋይስ፣ እንተ ዘይገበረካ ክፉእ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "ትጋይስ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ብዘይ ምኽንያት"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይ"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "ገበረካ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉእ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:43:12.771426452Z",
+  "model": "glm-5.3"
+}

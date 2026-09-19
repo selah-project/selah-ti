@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ከም ዝበዝሕዎም ከምኡ ኣጸዩኒ፤ ክብሮም ናብ ውርደት ክቕይር እየ።",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "ከም ዝበዝሕዎም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ኣጸዩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ክብሮም"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "ናብ ውርደት"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "ክቕይር እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:06:39.931017056Z",
+  "model": "glm-5.3"
+}

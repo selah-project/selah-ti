@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 10:11",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "የሆሹዋዕ ድማ ⟨את⟩ ኩሉ ናይ ቤት ኣኻኣብ ኣብ ይዝረኣል ዝተረፈ፣ ኩሉ ዓባዋቱን ዝፈልጦምን ካህናቱን ሰቐለ፣ ክሳብ ቅሪት ከምዘይህደእሉ ኮይኑ።",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ሰቐለ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ዝተረፈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ዝተረፈ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ናይ ቤት"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ኣኻኣብ"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "ኣብ ይዝረኣል"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉን"
+    },
+    {
+      "surface": "גדליו",
+      "gloss": "ዓባዋቱ"
+    },
+    {
+      "surface": "ומידעיו",
+      "gloss": "ዝፈልጦምን"
+    },
+    {
+      "surface": "וכהניו",
+      "gloss": "ካህናቱን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ከምዘይ"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ዝህድእ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "ቅሪት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:21:16.390592922Z",
+  "model": "glm-5.3"
+}

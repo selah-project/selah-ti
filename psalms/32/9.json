@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ከም ሓቅቲ ወይ ከም እሙል ዘይርድእን ኣይትኹኑ፤ ጉልባን ሓርማን ኣካይዳኡ ንዝኸውን ክጽልምዎ ኣሎ፣ ከምዘይቐርቡ ናብኻ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ትኹኑ"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "ከም ሓቅቲ"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "ከም እሙል"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ዘይብሉን"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "ዚርድእ"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "ጉልባን"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "ሓርማን"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "ኣካይዳኡ"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "ንምኽሊ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ከምዘይ"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ይቐርቡ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:03.493694643Z",
+  "model": "glm-5.3"
+}

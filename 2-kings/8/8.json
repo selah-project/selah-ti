@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 8:8",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እቲ ንጉስ ናብ ሕዛኤል በለ፦ «ብኢድካ ስጕት ውሰድ፣ ኮይንካ ነቲ ሰብ ኤሎሂም ንምርኻእ ከደ፣ ⟨את⟩ ብኡ ⟨את⟩ ያህዌህ ተሓተት፣ እናብል፦ «ካብ እዚ ሕማቕ እነህየወ ድዩ?»»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "ሕዛኤል"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ውሰድ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ብኢድካ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ስጕት"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ንምርኻእ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "ተሓተት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ ብኡ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናብል"
+    },
+    {
+      "surface": "האחיה",
+      "gloss": "እነህየወ ድዩ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "ካብ ሕማቕ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:24:45.517001802Z",
+  "model": "glm-5.3"
+}

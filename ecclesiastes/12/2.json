@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ቅድሚ ምስኣያ ፀሓይን ብርሃንን ጨረቓን ከዋኽብቲን፣ ቅድሚ ምምለስ ደበራታት ድሕሪ ዝናብ።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "ክጸልም"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሓይ"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "ጨረቓ"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "ከዋኽብቲ"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ይምለሱ"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "ደበራታት"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ዝናብ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:46:29.624435041Z",
+  "model": "glm-5.3"
+}

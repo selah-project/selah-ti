@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ስለዚ ያህዌህ ሰምዐ፣ ተቐጸለ፤ ኣብ ያዕቆቭ ሓዊ ተነዊቐት፣ ኣብ የስራኤል ድማ ቍጭት ደረለ።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "ተቐጸለ"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ኣብ ያዕቆቭ ሓዊ"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "ተነዊቐት"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ኣብ ያዕቆቭ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ቍጭት"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ደረለ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ኣብ የስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:54.291363547Z",
+  "model": "glm-5.3"
+}

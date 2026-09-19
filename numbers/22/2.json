@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ባላቅ ወዲ ጽጶር ድማ ⟨את⟩ ኩሉ እቲ ዒስራኤል ንኣሞሪ ዝገበሮ ረኣየ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ባላቅ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ጽጶር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ (እቲ ዒስራኤል ንኣሞሪ ዝገበሮ)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ…ዝገበሮ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበሮ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ዒስራኤል"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ንኣሞሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:33:05.515444890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "ሔሴድ እቲ ዚስሕብ ኮይኑ ኣይኹንን፤ ንውላዱ ዚሓርኾ ከኣ ኣይኹንን።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይኹንን"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኣንቱ"
+    },
+    {
+      "surface": "משך",
+      "gloss": "ዚስሕብ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ከኣ ኣይኹንን"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ዚሓርኾ"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "ንውላዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:01.739563293Z",
+  "model": "glm-5.3"
+}

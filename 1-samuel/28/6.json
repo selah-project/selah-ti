@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ሻኡል ኣብ ያህዌህ ሓተተ፣ ያህዌህ ግና ኣይመልሶን፤ ኣብ ሕልማትን ኣብ ኡሪምን ኣብ ነብዪታትን ድማ ኣይመልሶን።",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ሓተተ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ኣብ ያህዌህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "መልሶ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ንኣብ ሕልማት"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "ኣብ ሕልማት"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ንኣብ ኡሪም"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "ኣብ ኡሪም"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ንኣብ ነብዪታት"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "ኣብ ነብዪታት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:19:08.464702456Z",
+  "model": "glm-5.3"
+}

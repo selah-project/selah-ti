@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 8:10",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እኳ እንሰለ ኣብ ኣህዛብ ተቓሊሶም፣ ሕጂ እየ ደልዮም፤ እሞ ንእሽቶ ተሓሙቑ ብኃልዮት ንጉስ ሃገረተ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እኳ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንሰለ"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ተቓሊሶም"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ኣብ ኣህዛብ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "אקבצם",
+      "gloss": "ደልዮም"
+    },
+    {
+      "surface": "ויחלו",
+      "gloss": "ተሓሙቑ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ንእሽቶ"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "ብኃልዮት"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ሃገረተ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:08:30.571885945Z",
+  "model": "glm-5.3"
+}

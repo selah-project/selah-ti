@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኣእይኒይ ክፈት፣ ድማ ኣስተውሐስቲ ነገራት ካብ ቶራኻ ክረኣየን።",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "ክፈት"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ኣእይኒይ"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "ክረኣየን"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ኣስተውሐስቲ ነገራት"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "ካብ ቶራኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:21.077134384Z",
+  "model": "glm-5.3"
+}

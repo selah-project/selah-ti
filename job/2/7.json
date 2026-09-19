@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እቲ ሓባይ ድማ ካብ ⟨את⟩ ቅድሚ ያህዌህ ወጸ፤ ነቲ ⟨את⟩ ኣይዩብ ብኽንፈቲ ሕማቕ ስዕረት ካብ እኽሊ እግሩ ጀሚሩ ክሳብ ላዕሊ ርእሱ ዘበነ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "እቲ ሓባይ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ቅድሚ ያህዌህ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ዘበነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣይዩብ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኣይዩብ"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "ብኽንፈቲ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ሕማቕ"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "ካብ እኽሊ"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "እግሩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "ላዕሊ ርእሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:02:51.385948215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኣብ ክንዲኡ ን⟨את⟩ ያህዌህ ኤሎሂምኹም ብጽሕና ትፈርሑ፤ ንሱ ድማ ⟨אתኹም⟩ ካብ ኢድ ኩሉ ጠቃላትኹም የድሕንኹም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ኣብ ክንዲኡ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኹም"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ትፈርሑ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ ድማ"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "የድሕን"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתኹም⟩",
+      "marks": "ኹም"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ጠቃላትኹም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:29:41.353006770Z",
+  "model": "glm-5.3"
+}

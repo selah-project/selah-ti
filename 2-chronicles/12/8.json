@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ንሳቶም ግን ኣብኡ ተገልገሉ እዮም፤ ኣገልግሎተይን ናይ መንግስታት ምድራትን ንእምቶም እዮም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ግን"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ኮይኖም"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "ተገልገሉ"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ንእምቶም"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "ኣገልግሎተይን"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "ናይ ኣገልግሎት"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "መንግስታት"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ምድራትን"
+    }
+  ],
+  "timestamp": "2026-09-19T08:01:09.001956573Z",
+  "model": "glm-5.3"
+}

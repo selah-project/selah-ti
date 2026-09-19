@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ንስኻ ትምህርቲ ጠሊእካዮ፣ ቃላተይ ድማ ናብ ድሕሪኻ በጊዕካ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "ጠሊእካዮ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ትምህርቲ"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "በጊዕካ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላተይ"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ናብ ድሕሪኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:36.252873460Z",
+  "model": "glm-5.3"
+}

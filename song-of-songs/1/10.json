@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ጋላትኪ ብሓብባት ውቕትን እያ፣ ኣንገትኪ ድማ ብመስለታት ውቕትን እያ።",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "ውቕትን እያ"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "ጋላትኪ"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "ብሓብባት"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "ኣንገትኪ"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "ብመስለታት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:26:05.908396477Z",
+  "model": "glm-5.3"
+}

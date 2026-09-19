@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ዓበይቲ ካብ ሚጽራይም ይበጽሑ፤ ኩሽ ኢዳታታ ናብ ኤሎሂም እናተልዓለት ትዘርጭ።",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "ይበጽሑ"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "ዓበይቲ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ኩሽ"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "እናተልዓለት"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ኢዳታታ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ናብ ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:40.302080480Z",
+  "model": "glm-5.3"
+}

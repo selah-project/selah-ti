@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 148,
+  "translation": "ስም ያህዌህን ⟨את⟩ ይምሰጉ፤ ምኽንያቱ ንሱ ኣዘዝ፣ ኰነውን ተፈጠሩ።",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ይምሰጉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስም ያህዌህ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ኣዘዝ"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "ኰነውን ተፈጠሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:47.385970146Z",
+  "model": "glm-5.3"
+}

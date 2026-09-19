@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኣብ ዙሪያኡ ኣረኣእያ ይደላዩ፣ ሓቕሽነት ኣብ ውላደ ሰብ ምትዕብየት እናተባብዐት እያ።",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "ኣብ ዙሪያኡ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኣረኣእያ"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "ይደላዩ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ከም ዝተባብዐት"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "ሓቕሽነት"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ኣብ ውላደ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:05.689353748Z",
+  "model": "glm-5.3"
+}

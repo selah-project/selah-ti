@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ምኽንያቱ ያህዌህ መገዲ ጽድቓት ይፈልጥ፣ መገዲ ርኹሳት ድማ ትጠፍእ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ይፈልጥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መገዲ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ጽድቓት"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "መገዲ…ን"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ርኹሳት"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ትጠፍእ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:40:45.072395694Z",
+  "model": "glm-5.3"
+}

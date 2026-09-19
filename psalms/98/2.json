@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 98,
+  "translation": "ያህዌህ ድሕንነቱ ኣፍለጠ፤ ብቕድሚ ኣይኒ ኣህዛብ ጽድቑ ድማ ገለጸ።",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "ኣፍለጠ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "ድሕንነቱ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ብቕድሚ ኣይኒ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ገለጸ"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ጽድቑ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:12.883290882Z",
+  "model": "glm-5.3"
+}

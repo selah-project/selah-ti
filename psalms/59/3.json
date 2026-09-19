@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 59,
+  "translation": "ኣድኁኒ ካብ ኣሠርተት ኲናት፣ ከኣ ካብ ሰባት ደም ኣድኅረኒ።",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ኣድኁኒ"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "ካብ ኣሠርተት"
+    },
+    {
+      "surface": "און",
+      "gloss": "ኲናት"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "ከኣ ካብ ሰባት"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ኣድኅረኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:21.984714954Z",
+  "model": "glm-5.3"
+}

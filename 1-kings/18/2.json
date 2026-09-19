@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ኤልያሁ ንርእዮ ናብ ኣሕኣብ ከደ፣ እቲ ጠሓን ኸኣ ኣብ ሽምሮን ዓብዪ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያሁ"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "ንርእዮ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ኣሕኣብ"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "ጠሓን"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ዓብዪ"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ኣብ ሽምሮን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:05:42.062442586Z",
+  "model": "glm-5.3"
+}

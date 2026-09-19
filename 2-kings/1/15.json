@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "መልኣኽ ያህዌህ ድማ ንኤልያሁ ተዛረቦ፦ «ኣብሮኡ ⟨את⟩ ውረድ፣ ኣብ ቅድሚኡ ኣይትፈርሕን»፤ ንሱ ድማ ተንበርክኮ ኣብሮኡ ⟨את⟩ ወረደ ናብቲ ንጉስ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረቦ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "መልኣኽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያሁ"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ውረድ"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብሮኡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ትፈርሕን"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ኣብ ቅድሚኡ"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ተንበርክኮ"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ወረደ"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብሮኡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:45:35.753826930Z",
+  "model": "glm-5.3"
+}

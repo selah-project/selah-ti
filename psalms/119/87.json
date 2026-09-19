@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ንእሽቶ ኣብ ምድሪ ጨርስዎን፤ ኣነ ግን ትእዛዳትኻ ኣይተወፊን።",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "ንእሽቶ"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "ጨርስዎን"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ግን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "ተወፊ"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ትእዛዳትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:40.835159657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "መዓልቲ ንመዓልቲ ቓል የውጽእ፡ ለይቲ ድማ ንለይቲ ዝርዳእ የርኢ።",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ንመዓልቲ"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "የውጽእ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ለይቲ ድማ"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "ንለይቲ"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "የርኢ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ዝርዳእ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:03.084754334Z",
+  "model": "glm-5.3"
+}

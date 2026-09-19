@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ናትካ ኢድ ⟨ውን⟩ ብሓይሊ ⟨እያ⟩፤ ኢድኻ ትጽንዕ፣ የምንኻኻ ድማ ተላዒሉ እዩ።",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ናትካ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "ሓይሊ"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "ትጽንዕ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድኻ"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ተላዒሉ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "የምንኻኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:12.498053717Z",
+  "model": "glm-5.3"
+}

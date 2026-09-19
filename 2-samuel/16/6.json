@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ድማ በዓስር ኣቢሉ ነቲ ዳዊድ ⟨את⟩ በረከት፣ ነቶም ኩሎም ኣገልጋሊ ንጉስ ዳዊድን ⟨ואת⟩፤ ኩሉ ህዝቢን ኩሎም ኣኻልንቲን ድማ ካብ የማኡን ካብ ጸገሙን ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "በዓስር በረከት"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "በዓስር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊድ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ኣገልጋሊ ንጉስ ዳዊድ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልጋሊ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "ኣኻልንቲ"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "ካብ የማኑ"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "ካብ ጸገሙ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:35:13.452320530Z",
+  "model": "glm-5.3"
+}

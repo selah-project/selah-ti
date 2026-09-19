@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ናይ ጌርሸም፦ ሊብኒ ወዱ፣ ያሕት ወዱ፣ ዚማ ወዱ።",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "ናይ ጌርሸም"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ሊብኒ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዱ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ያሕት"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዱ"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ዚማ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:32:45.932906576Z",
+  "model": "glm-5.3"
+}

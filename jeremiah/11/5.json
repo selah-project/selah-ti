@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 11:5",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "«ንኽግብር ⟨את⟩ ነቲ ሒራ እቲ ንኣቦታትኩም ዝወደእኩዎ፣ ንኣቶም ምድሪ ዝውሕስቲ ወተርቲን ሓሙኽን ንኽሃቦም፣ ከምቲ ሎሚ እዚ መዓልቲ።» ድማ መለስኩ እናበልኩ፦ «ኣሜን ያህዌህ» በልኩ።",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ንኽ"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ክግብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሒራ"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "ሒራ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ዝወደእኩዎ"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "ንኣቦታትኩም"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ንኽሃብ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንኣቶም"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ዝውሕስቲ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ወተርቲ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ሓሙኽን"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ከምቲ መዓልቲ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ואען",
+      "gloss": "መለስኩ ድማ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "እናበልኩ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ኣሜን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:39:15.439312532Z",
+  "model": "glm-5.3"
+}

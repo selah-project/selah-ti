@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ዝምረሑሉ፣ ዝበዝሑሉ፣ ኣብ ኩሉ ተኣምራቱ ዛረቡ።",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ዝምረሑሉ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ሉ"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ዝበዝሑሉ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ሉ"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ዛረቡ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "ተኣምራቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:40:18.188924344Z",
+  "model": "glm-5.3"
+}

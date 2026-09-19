@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ወራዲን ከምኡውን ዐንጻ ክተብለልካ እያ፤ ድማ ⟨את⟩ ስሙና ናይ ቦታ ትብልዕ ኢኻ።",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "ወራዲን"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "ዐንጻ"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "ክተብለልካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ትብልዐ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙና"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ስሙና"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ናይ ቦታ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:32:06.611201146Z",
+  "model": "glm-5.3"
+}

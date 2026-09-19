@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ጽድቅ ነፍሲ እቲ እንስሳ ናይኡ ይፈልጥ እዩ፤ ስለምታት እቶም ኣረመኔት ግን ኣረኣያ እየን።",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "ይፈልጥ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጽድቅ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "እቲ እንስሳ ናይኡ"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "ስለምታት"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኣረመኔት"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "ኣረኣያ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:46:57.659625190Z",
+  "model": "glm-5.3"
+}

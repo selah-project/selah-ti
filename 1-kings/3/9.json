@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 3:9",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ስለዚ ንኣገልገልትኻ ኣእሚን ዝሰምዕ ልቢ ሂብካ፣ ንኽፈርድ ⟨את⟩ ህዝቢኻ፣ ንኽርድእ መንጎ ጽቡእን ንቡርን፤ ምኽንያቱ መን እዩ ዝኽእል ⟨את⟩ እዚ ዝዓበየ ህዝቢኻ ንምፍራድ።",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ሂብካ"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ንኣገልገልትኻ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ዝሰምዕ"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ንኽፈርድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ህዝቢኻ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ህዝቢኻ"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "ንኽርድእ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "መንጎ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡእ"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ንቡር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ዝኽእል"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ንምፍራድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ህዝቢኻ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ህዝቢኻ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ዝዓበየ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:47:21.786702813Z",
+  "model": "glm-5.3"
+}

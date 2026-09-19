@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ሞሸ ድማ ⟨אתם⟩ ኻብ ምድቀ ፓራን ብቃል ያህዌህ ምሉእ ብምሉእ ካብኦም ሸሞንተ ዓበይቲ ንውላድ ያዕቆቭ ኮይኖም ኣለው — እዚኦም እዮም።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰዓበ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "እቶም ሰባት"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ኻብ ምድቀ"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "ፓራን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ሸሞንተ ዓበይቲ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እዚኦም እዮም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:22:38.772740377Z",
+  "model": "glm-5.3"
+}

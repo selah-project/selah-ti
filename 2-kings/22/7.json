@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ግና ነቲ ኣብ ኢዶም ዝተውሃበ ብር ምሳኦም ⟨את⟩ ኣይይሕሰብን ነይሩ፣ ምኽንያቱ ብቐንደስነት እዮም ይሰርሑ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ግና"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ይሕሰብ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ምሳኦም"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "እቲ ብር"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "ዝተውሃበ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ኢዶም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ብቐንደስነት"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ይሰርሑ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:37:36.667805124Z",
+  "model": "glm-5.3"
+}

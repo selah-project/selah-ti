@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ነቲ ⟨את⟩ ኣምዳት ቤት በዓል ኣውጺኦም ሓነይዎ።",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ኣውጺኦም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣምዳት"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "ኣምዳት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "በዓል"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "ሓነይዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:20:19.926406675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኃጥኣት ኣላዊ ተቐጽሎም፣ ብጽቡቕ ድማ ⟨את⟩ ጻድቓት ይከፍሎም።",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "ኃጥኣት"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ተቐጽሎም"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ኣላዊ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጻድቓት"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ጻድቓት"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ይከፍል"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ብጽቡቕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:47:15.626708879Z",
+  "model": "glm-5.3"
+}

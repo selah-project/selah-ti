@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 1:1",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ሓደ ሰብ ነይሩ ካብ ረማታይም ጽውፍም፣ ካብ ተራ ኣፍራይም፤ ስሙ ድማ ኣልቃና ወዲ የሮሓም ወዲ ኤሊሁ ወዲ ቶሕሁ ወዲ ጽውፍ ኣፍራታይ እዩ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሓደ ሰብ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הרמתים",
+      "gloss": "ረማታይም"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "ጽውፍም"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ካብ ተራ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኣፍራይም"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ስሙ ድማ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ኣልቃና"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "የሮሓም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "ኤሊሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "תחו",
+      "gloss": "ቶሕሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "צוף",
+      "gloss": "ጽውፍ"
+    },
+    {
+      "surface": "אפרתי",
+      "gloss": "ኣፍራታይ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:57:06.826903820Z",
+  "model": "glm-5.3"
+}

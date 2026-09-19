@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 2:9",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ንሱ ኣብ ጽንበር ዝወረሶ፣ ኣብ ቲምናት-ሕረስ፣ ኣብ ተራራ ኤፍራይም፣ ካብ ሰሜን ናብ ተራራ ጋዓሽ ቐበርዎ።",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "ቐበርዎ"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱ (ንየሆሹዋዕ)"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "ኣብ ጽንበር"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ዝወረሶ"
+    },
+    {
+      "surface": "בתמנת",
+      "gloss": "ኣብ ቲምናት"
+    },
+    {
+      "surface": "חרס",
+      "gloss": "ሕረስ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ኣብ ተራራ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ካብ ሰሜን"
+    },
+    {
+      "surface": "להר",
+      "gloss": "ናብ ተራራ"
+    },
+    {
+      "surface": "געש",
+      "gloss": "ጋዓሽ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:34:38.915809528Z",
+  "model": "glm-5.3"
+}

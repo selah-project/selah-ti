@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 116,
+  "translation": "ያህዌህ ቐንይ እዩ፣ ጸድቕን፤ ኤሎሂምና ከኣ ራሕም እዩ።",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "ቐንይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ጸድቕን"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ራሕም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:35.950135527Z",
+  "model": "glm-5.3"
+}

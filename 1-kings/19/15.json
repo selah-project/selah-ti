@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ያህዌህ ድማ ንእሳ «ኺ፣ ናብ መገዲኻ ቐይርካ ናብ ምድረ በዳ ደማስቆ ኺ፤ ምስ በጺሕካ ድማ ⟨את⟩ ሕዛኤል ኣብ ልዕሊ ኣራም ንንጉስ ነብዓኻ» በሎ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንእሳ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ኺ"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ቐይርካ"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "ናብ መገዲኻ"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "ናብ ምድረ በዳ"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ደማስቆ"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ምስ በጺሕካ"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ነብዓኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዛኤል"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "ሕዛኤል"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ንንጉስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:08:20.028684661Z",
+  "model": "glm-5.3"
+}

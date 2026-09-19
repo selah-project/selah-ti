@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 71,
+  "translation": "«ብጽድቅኻ ኣድኅነኒ፣ ኣውጽአኒ ድማ፤ እዝንኻ ናብዚ ኣዘንበረለይ፣ ሓልዮኒ ድማ።»",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "ብጽድቅኻ"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "ኣድኅነኒ"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "ኣውጽአኒ"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "ኣዘንበረ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ናብዚ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "እዝንኻ"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "ሓልዮኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:09.277170067Z",
+  "model": "glm-5.3"
+}

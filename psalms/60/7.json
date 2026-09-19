@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 60,
+  "translation": "ነቶም ውዑያትኻ ንኽድሕኑ፤ ብየማንካ ሓውዩ፤ ስዒብና።",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ንምኽንያት"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "ክድሕኑ"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "ውዑያትኻ"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "ሓውዩ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ብየማንካ"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "ስዒብና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:57.062897851Z",
+  "model": "glm-5.3"
+}

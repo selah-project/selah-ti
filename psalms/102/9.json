@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 102,
+  "translation": "ኩሉ መዓልቲ ተቓወሞተይ ዓቕለዉኒ፤ እቶም ዝበዝሑ ኣባይ ይሓልዩ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "ዓቕለዉኒ"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ተቓወሞተይ"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "ዝበዝሑ ኣባይ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ኣባይ"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "ይሓልዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:23.048558994Z",
+  "model": "glm-5.3"
+}

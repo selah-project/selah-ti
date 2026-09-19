@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኣፍታወ እቲ ዝገርሐኒ ኣሓልዎ፣ ምኽንያቱ ፍርዲታትኻ ብሉጽ እየን።",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "ኣሓልዎ"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ኣፍታወ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ…ዝገርሐኒ"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "ዝገርሐኒ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ፍርዲታትኻ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ብሉጽ እየን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:41.290892283Z",
+  "model": "glm-5.3"
+}

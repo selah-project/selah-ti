@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ስለዚ ያህዌህ ብኩላትኩም መንፈስ ንቅሓት በረኺቡ፣ ⟨את⟩ ኣይንቲኩም ⟨את⟩ ነብይቲ ዓቐጸሎም፣ ⟨את⟩ ርእሲኩም እቶም ራዕዪ ኸኣ ሓበረሎም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "በረኺቡ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ብኩላትኩም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "ንቅሓት"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "ዓቐጸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣይንቲኩም"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ኣይንቲኩም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነብይቲ"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ነብይቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ርእሲኩም"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "ርእሲኩም"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "ራዕዪ"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ሓበረ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:00:47.763740305Z",
+  "model": "glm-5.3"
+}

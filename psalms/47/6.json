@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 47,
+  "translation": "ኤሎሂም ብትርዓት ኣሸገ፣ ያህዌህ ብድምጺ ቀርን።",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "ኣሸገ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ብትርዓት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ብድምጺ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ቀርን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:00:13.241123752Z",
+  "model": "glm-5.3"
+}

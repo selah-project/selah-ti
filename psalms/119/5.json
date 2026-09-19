@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኣበይ ኩሉ ንኽተሓናዱ መገደተይ ንምሕላው ሕግታትኻ!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "ኣበይ"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "ንኽተሓናዱ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "መገደተይ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ንምሕላው"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ሕግታትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:53.183921421Z",
+  "model": "glm-5.3"
+}

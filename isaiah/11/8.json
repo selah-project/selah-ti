@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 11:8",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ዝጥብቕ በጊዕ ኣብ ጕድን ብርኩት ይተላለይ፣ ዝተወገደ ወዲ ድማ ኢዱ ኣብ ጕድን ሓሙጥቲ የበጽሕ።",
+  "tokens": [
+    {
+      "surface": "ושעשע",
+      "gloss": "ይተላለይ"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "ዝጥብቕ በጊዕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "חר",
+      "gloss": "ጕድን"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "ብርኩት"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ኣብን"
+    },
+    {
+      "surface": "מאורת",
+      "gloss": "ጕድን"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "ሓሙጥቲ"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "ዝተወገደ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "הדה",
+      "gloss": "የበጽሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:49:19.780674629Z",
+  "model": "glm-5.3"
+}

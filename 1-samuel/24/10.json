@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ዳዊድ ድማ ነሻኡል ኢሉ በሎ፦ «ስለምን ቓላት ሰብ ⟨את⟩ ተሰምዐካ፣ ከም እተባህለ ኣሎ፦ ‘ረኣይ፣ ዳዊድ ንጥፍኣትኻ ይደሊ ኣሎ’?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ነሻኡል"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ስለምን"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ተሰምዐካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቓላት ሰብ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቓላት"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ከም እተባህለ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ረኣይ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ይደሊ ኣሎ"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "ንጥፍኣትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:14:08.176126593Z",
+  "model": "glm-5.3"
+}

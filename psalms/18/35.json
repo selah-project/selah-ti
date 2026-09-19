@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ንኢደይ ንምዕቓል ይምህረኒ፣ ቅስቲ ናስ እውን ብዘርኣይ ኣውረሳ።",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "ይምህረኒ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ንኢደይ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ንምዕቓል"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "ኣውረሳ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ቅስቲ"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "ናስ"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "ብዘርኣይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:35.504269927Z",
+  "model": "glm-5.3"
+}

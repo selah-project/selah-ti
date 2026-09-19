@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣሎ፣ ንሱ ብዘይትን ይሰቓዕ፣ ኣብያት ድማ ተጠንሲሱ ውርሰት ወሊዱ።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "ይሰቓዕ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ዘይትን"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "ተጠንሲሱ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ኣብያት"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "ወሊዱ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ውርሰት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:09.671423964Z",
+  "model": "glm-5.3"
+}

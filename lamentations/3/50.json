@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ያህዌህ ካብ ሰማያት ክቕንጠልን ክረኣይን ክሳብ ዝኾነ።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "ክቕንጠልን"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ክረኣይን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ካብ ሰማያት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:34:26.180433433Z",
+  "model": "glm-5.3"
+}

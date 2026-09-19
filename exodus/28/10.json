@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ስድሳይ ካብ ኣስማቶም ኣብ ⟨ቲ⟩ ሓደ እኽሊ፣ እተረፉ ስድሳይ ስማታት ⟨ואת⟩ ኣብ ⟨ቲ⟩ ካልኣይቲ እኽሊ፣ ከም ውለዳቶም።",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "ስድሳይ"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "ካብ ኣስማቶም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "እቲ እኽሊ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እተረፉ ስድሳይ ስማታት"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ስማታት"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "እተረፉ ስድሳይ"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "እተረፉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "እቲ እኽሊ"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ካልኣይቲ"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "ከም ውለዳቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:32:55.893549065Z",
+  "model": "glm-5.3"
+}

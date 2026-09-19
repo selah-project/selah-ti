@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ናሕር ዘጠምን ዓሰርታን ዓመታት ነይሩ፣ ወለዶ ⟨את⟩ ተርሕ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ናሕር"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ዘጠም"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ዓሰርታ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለዶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተርሕ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ተርሕ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:39.520621061Z",
+  "model": "glm-5.3"
+}

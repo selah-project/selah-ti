@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 118,
+  "translation": "ካብ እቲ ምብትሒብ ንያህ ቐረብኩ፣ ያህ ድማ ኣብ ስፍሕታ ምላሽ ሃበኒ።",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "እቲ ምብትሒብ"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ቐረብኩ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ምላሽ ሃበኒ"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "ኣብ ስፍሕታ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:57.833475286Z",
+  "model": "glm-5.3"
+}

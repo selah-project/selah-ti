@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 94,
+  "translation": "ኣማለትን መሻለዪን ይቐትልዎ፣ ውላዳት ድማ ይቐትኑ።",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "ኣማለት"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "መሻለዪን"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "ይቐትልዎ"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "ውላዳትን"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "ይቐትኑ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:39.393013233Z",
+  "model": "glm-5.3"
+}

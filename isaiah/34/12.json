@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ንማልኢታ ንእቲ ንጉሳዊ ስልጣን ይጸውዑሉ ነበሩ፣ ወዲታ ግን የለን፤ ሃገርታ ኩሉ ኣመሓያርታ ድማ ናብ ጥፍኣት ክኾኑ እዮም።",
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "ንማልኢታ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ወዲታ ግን የለን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ነበሩ"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "ንጉሳዊ ስልጣን"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ይጸውዑሉ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ሃገርታ ኩሉ"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "ኣመሓያርታ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ክኾኑ እዮም"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "ናብ ጥፍኣት"
+    }
+  ],
+  "timestamp": "2026-09-19T02:05:05.809617686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ናይ ኣሃምሳ ሻለቃን ተቐባሊ ገጽታትን መምህር ምክሪን ጠበብቲ ተምሃራይቲ ሙያታትን ኣውቂ ቃላት ምዝራይን እዮም።",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "ሻለቃ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ናይ ኣሃምሳ"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "ተቐባሊ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ገጽታት"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "መምህር ምክሪ"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ጠበብቲ"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ተምሃራይቲ ሙያታት"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "ኣውቂ"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "ቃላት ምዝራይ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:48:00.016106798Z",
+  "model": "glm-5.3"
+}

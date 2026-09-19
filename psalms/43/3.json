@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "ብርሃንካን ንላይካን ስደድ፤ ንሳቶም ይምርሑኒ፣ ናብ ከረተ ቅዱስካን ናብ ማሕደራትካን ይኣቱኒ።",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ስደድ"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ብርሃንካ"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ንላይካን"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "ይምርሑኒ"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "ይኣቱኒ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ከረተ"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ቅዱስካ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ንኣብ"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "ማሕደራትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:48.080897753Z",
+  "model": "glm-5.3"
+}

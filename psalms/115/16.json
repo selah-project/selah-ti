@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 115,
+  "translation": "እቶም ሰማያት ሰማያት ናይ ያህዌህ እዮም፤ እታ ምድሪ ድማ ንውላደ ሰብ ሃባቶ።",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "እቶም ሰማያት"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ናይ ያህዌህ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "እታ ምድሪን"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃባቶ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላደ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:50.144322784Z",
+  "model": "glm-5.3"
+}

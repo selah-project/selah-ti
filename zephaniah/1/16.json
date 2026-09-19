@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "መዓልቲ ናይ መላጺን ቐሊል ዝናን እዩ፣ ነቶም ዝተሃንጹ ከተራትን ነቶም ከፊት ኣውታርን ኣንጻር።",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "መላጺ"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "ቐሊል ዝናን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣንጻር"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ከተራት"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "ዝተሃንጹ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ኣንጻርን"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "ኣውታር"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "ከፊት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:30:16.376958818Z",
+  "model": "glm-5.3"
+}

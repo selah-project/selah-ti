@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ከም ዝተረጎመልና ከምኡ ኮይኑ ነይሩ፤ ኣነ ⟨את⟩ ኣብ ቕርቢተይ መለሰኒ፣ ንእሱ ድማ ⟨את⟩ ተሰቐለ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ ነይሩ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "ዝተረጎመ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ልና"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ኣነ"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "መለሰኒ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "כני",
+      "gloss": "ቕርቢተይ"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንእሱ"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "ተሰቐለ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:02:12.988138806Z",
+  "model": "glm-5.3"
+}

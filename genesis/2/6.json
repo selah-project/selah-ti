@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ጽጉብ ካብ ምድሪ ወጺኡ፣ ⟨את⟩ ኹሉ ገጽ ምድሪ ድማ ሰቲኡ።",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "ጽጉብ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ወጺኡ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "ሰቲኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ ገጽ ምድሪ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:30:30.715466534Z",
+  "model": "glm-5.3"
+}

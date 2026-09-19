@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ምስ ሞተ ኣኻብ ድማ እቲ ንጉስ ሞኣብ ኣብ ንጉስ እስራኤል ደው በለ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኰነ"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "ምስ ሞት"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ኣኻብ"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "ደው በለ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "ኣብ ንጉስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T01:14:35.684715003Z",
+  "model": "glm-5.3"
+}

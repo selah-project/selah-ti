@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 70,
+  "translation": "እቶም «ሓያ ሓያ» ዝብሉ፡ ብዕንፈቶም ኣብ ድሕሪት ይንቀጥቕጡ።",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ይንቀጥቕጡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ምስ ሕማቕ ዝፍጸም ሰብ"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "ኣብ ዕንፈቶም"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ዝብሉ"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ሓያ"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ሓያ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:25.894957004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ውላድ ለዊ እዮም፦ ጌርሽም፣ ቅሃትን መራሪን።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ለዊ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ጌርሽም"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ቅሃት"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "መራሪን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:32:48.333474871Z",
+  "model": "glm-5.3"
+}

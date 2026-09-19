@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኣነ ድማ ሰምዕኩን ኣይርድኣኽን፤ በልኽን፦ ጎይታይ፣ እንታይ እዩ መወዳእታ እዚኦም?",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ሰምዕኩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "ርድኣኽን"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "በልኽን"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጎይታይ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "መወዳእታ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:06:53.648977402Z",
+  "model": "glm-5.3"
+}

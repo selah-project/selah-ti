@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ፓርዖ ድማ ምስ ረኣየ ዝተረፋዕካ ግዜ ምስ ኮይኑ፣ ልቡ ኣካባተኸ፤ ከም ዝበሎ ያህዌህ ኣይሰምዖምን።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ምስ ረኣየ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ምስ ኮይኑ"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "ዝተረፋዕካ ግዜ"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "ኣካባተኸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልቡ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ንኣቶም"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝበሎ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:16:25.035325739Z",
+  "model": "glm-5.3"
+}

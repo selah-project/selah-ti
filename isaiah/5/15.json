@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ሰብ ተሳቐየ፣ ሰብ ድማ ተወሕበ፤ ኣዒንቲ እቶም ዝተበርንቱ ድማ ተሳቐየት።",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "ተሳቐየ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "ተወሕበ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ኣዒንቲ"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "ዝተበርንቱ"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "ተሳቐየት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:45:25.774997273Z",
+  "model": "glm-5.3"
+}

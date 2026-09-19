@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 4:5",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ክልተ ጡትካ ከም ክልተ ወንዚር ቅርሰ፣ ቅርሲ ኣጋዛብ እናኾኑ፣ ኣብ መንጎ ሽንሽንታት እናጸበጡ ኣለው።",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "ጡትካ"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "ከም ክልተ"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "ወንዚር ቅርሰ"
+    },
+    {
+      "surface": "תאומי",
+      "gloss": "ቅርሲ"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "ኣጋዛብ"
+    },
+    {
+      "surface": "הרועים",
+      "gloss": "እናጸበጡ"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "ኣብ መንጎ ሽንሽንታት"
+    }
+  ],
+  "timestamp": "2026-09-19T09:06:49.669001813Z",
+  "model": "glm-5.3"
+}

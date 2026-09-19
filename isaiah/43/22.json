@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "ያዕቆብ ንያህዌህ ኣይተዛረብካን፡ እስራኤል ስለ ዝተዓጸይካ ኔርካ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ንያህዌህ"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ተዛረብካ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ተዓጸይካ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ኔርካ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T02:10:39.390447135Z",
+  "model": "glm-5.3"
+}

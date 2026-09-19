@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ንኽብለዚ ነገራት እዚኦም ምስ ዝሓሸት ቍጠቐታ እቲ ንጉሥ ኣኸሼወሮሸ ንዋሽቲ ⟨את⟩ ተዝካረ፣ ብዛዕባ እታ ዝገበረትን ⟨את⟩ ብዛዕባ እታ እተቐመጸት ኣብ ልዕሊኣን።",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "ንኽብለዚ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ነገራት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "ምስ ዝሓሸት"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ቍጠቐታ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉሥ"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "ኣኸሼወሮሸ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ተዝካረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዋሽቲ"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ንዋሽቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ዝገበረት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ ዝ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ዝገበረት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እታ እተቐመጸት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ ዝ"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "እተቐመጸት"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ኣብ ልዕሊኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:47:38.326473034Z",
+  "model": "glm-5.3"
+}

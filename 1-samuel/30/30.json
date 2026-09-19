@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ነቶም ኣብ ሕርማ ዝነብሩ፣ ነቶም ኣብ ቦር-ዓሻን ዝነብሩ፣ እውን ነቶም ኣብ ዓታኽ ዝነብሩ።",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "ነቶም ዝነብሩ"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "ኣብ ሕርማ"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "ነቶም ዝነብሩ"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "ኣብ ቦር"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ዓሻን"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "እውን ነቶም ዝነብሩ"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "ኣብ ዓታኽ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:16:17.243898440Z",
+  "model": "glm-5.3"
+}

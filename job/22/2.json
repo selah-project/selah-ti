@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ሰብ ንኤል ጠቓሚ እዩ ድዩ፧ እቲ ጥበበኛ ኣብ ልዕሊኡ ጠቓሚ ስለ ዝኾነ፧",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "ንኤል"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "ጠቓሚ እዩ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "ጠቓሚ"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ኣብ ልዕሊኡ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ጥበበኛ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:15:15.924969912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣብ ውሽጢ ብሕቡእታ ተቐምጠካ፤ ብብሕቡእታ ድማ ⟨את⟩ ያህዌህ ክርድኡ ኣይደልዩን፣ ናይ ያህዌህ ቃል እዩ።",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "ተቐምጠካ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ ውሽጢ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ብሕቡእታ"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "ብብሕቡእታ"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ኣይደልዩን"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ክርድኡ"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ናይ … ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:35:56.176592137Z",
+  "model": "glm-5.3"
+}

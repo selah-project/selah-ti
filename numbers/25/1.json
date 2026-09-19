@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 25:1",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "እስራኤል ኣብ ሻቲም ተቐምጡ፣ እቲ ህዝቢ ድማ ምስ ወንዶት ሞዓብ ናብ ውዑይ ጀመረ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተቐምጡ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בשטים",
+      "gloss": "ኣብ ሻቲም"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "ጀመረ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "ናብ ውዑይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ወንዶት"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:33:55.281283940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ኣስተውዕል እቲ ዝገበረ ያህዌህ ኤሎሂምካ ⟨את⟩ ንሚርያም፣ ኣብ ⟨the⟩ መንገዲ ምስ ዝወጹ ካብ ሚጽራይም።",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ኣስተውዕል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ዝገበረ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝገበረ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "ንሚርያም"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መንገዲ"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "ምስ ዝወጹ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ካብ ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:04:16.932961082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ብእዚኦም ከኣ ትከልሙ፤ ኩሉ እቲ ብኣካላቶም ሞት ዝንከስ ክሳብ እቲ ሰርሓር ከሊም እዩ።",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "ብእዚኦም"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "ትከልሙ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "እቲ ዝንከስ"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "ብኣካላቶም ሞት"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ከሊም እዩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "እቲ ሰርሓር"
+    }
+  ],
+  "timestamp": "2026-09-18T21:52:35.446669438Z",
+  "model": "glm-5.3"
+}

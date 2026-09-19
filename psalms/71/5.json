@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 71,
+  "translation": "ምኽንያቱ ንስኻ ተስፋይ ኢኻ ኣዶናይ ያህዌህ፣ ኣምላዊ እቲ ካብ ቅድመ-ወለድትናይ ሓሉፋይ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "ተስፋይ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "ሓሉፋይ"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ካብ ቅድመ-ወለድትናይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:30.309047661Z",
+  "model": "glm-5.3"
+}

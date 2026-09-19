@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 103,
+  "translation": "ያህዌህ ኣመስግኑ ኩሉ ሥራታትኡ ኣብ ኩሉ ቦታታት ምሕደሩ፤ ነፍሰይ፣ ያህዌህ ⟨את⟩ ኣመስግኒ።",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "ኣመስግኑ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ሥራታትኡ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "מקומות",
+      "gloss": "ቦታታት"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "ምሕደሩ"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "ኣመስግኒ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:03.035582979Z",
+  "model": "glm-5.3"
+}

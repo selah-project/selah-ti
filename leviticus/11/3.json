@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኩሉ እቲ እግሪ ዘፋርስን ፍልልቲ ጥፍኣ እግሪ ዘለዎን ጐረ ዝውሓስን ካብ እቲ እንስሳ — ⟨את⟩ን እዚ ትብልዑ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "ዘፋርስ"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "እግሪ"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "ፍልልቲ…ዘለዎ…ን"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "ፍልልቲ"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "ጥፍኣ እግሪ"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "ዝውሓስ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ጐረ"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "ካብ እቲ እንስሳ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እቲ እንስሳ እግሪ ዘፋርስን ጐረ ዝውሓስን"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ትብልዑ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:54:14.902675635Z",
+  "model": "glm-5.3"
+}

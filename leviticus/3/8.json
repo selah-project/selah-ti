@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኢዱ ኣብ ርእሲ ወፈያኡ ድማ ይጸንሖ፣ ⟨את⟩ ንእኡ ኣብ ቅድሚ ድኣ ቤት ስብሓት ከይዖ፣ ወልዲ ኣሃሻርን ⟨את⟩ ደሙ ኣብ ልዕሊ እቲ መስዋእቲ ብዙሕዱ የረግሕዎ።",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "የጸንሖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢዱ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ወፈያኡ"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "የወርዮ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንእኡ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድኣ ቤት"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ስብሓት"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "የረግሕዎ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወልዲ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሻርን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደሙ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ደሙ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "እቲ መስዋእቲ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ብዙሕዱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:47:34.996685240Z",
+  "model": "glm-5.3"
+}

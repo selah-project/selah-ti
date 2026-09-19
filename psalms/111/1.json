@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 111,
+  "translation": "ኣመስግኑ ንያህ። ኣብ ስዱ ኩላትን ኣብ ጉባኤን ብሙሉእ ልቢ ንያህዌህ ኣመስግን እየ።",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ኣመስግኑ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ኣመስግን እየ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብሙሉእ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "ኣብ ስዱ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ኩላት"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "ንጉባኤ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:25.308238483Z",
+  "model": "glm-5.3"
+}

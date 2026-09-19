@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እቲ ሳጣን ⟨את⟩ ያህዌህ ምሉእ በለ፦ «ቆላ ኣብ ክንዳ ቆላ፣ ኩሉ እቲ ናይ ሰብ ዘሎ ኣብ ክንዳ ነፍሱ ይህብ።»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ምሉእ"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "እቲ ሳጣን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ቆላ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ኣብ ክንዳ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ቆላ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዘሎ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ናይ ሰብ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይህብ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ኣብ ክንዳ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:03:18.790734146Z",
+  "model": "glm-5.3"
+}

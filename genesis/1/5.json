@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኤሎሂም ንብርሃን «መዓልቲ» በሎ፤ ንጸልማት ድማ «ለይቲ» በሎ። ፈኻ ኮነ፤ ቀዳም ኮነ — ሓደ መዓልቲ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ንብርሃን"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "ንጸልማት ድማ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ለይቲ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ፈኻ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ቀዳም"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:30:59.480494063Z",
+  "model": "glm-5.3"
+}

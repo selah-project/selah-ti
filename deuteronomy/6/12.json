@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ተጠንቐቕ ንዓኻ ከም ኸይትረስዑ ⟨את⟩ ያህዌህ እቲ ዝውጽእካ ካብ ምድሪ ሚጽራይም፣ ካብ ቤት ኣገልገልቲ።",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "ተጠንቐቕ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንዓኻ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ከም ኸይ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ትረስዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "ዝውጽእካ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ቤት"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ኣገልገልቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:35:08.936224335Z",
+  "model": "glm-5.3"
+}

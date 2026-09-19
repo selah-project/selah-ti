@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ንርእኻ መስለት ወይ ዝኾነ ቅርጺ ብዘይቲ ኣብ ሰማያት ልዕሊ ዘሎ፣ ወይ እታ ኣብ ምድሪ ታሕቲ ዘላ፣ ወይ እታ ኣብ ማይ ታሕቲ ምድሪ ዘላ — ክትገብር ኣይኮነን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንርእኻ"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "መስለት"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ወይ ዝኾነ"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "ቅርጺ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ብዘይቲ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ኣብ ሰማያት"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ልዕሊ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ወይ እታ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ታሕቲ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ወይ እታ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ኣብ ማይ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ታሕቲ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:24:57.215953266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "እዚኦም ከተራትን ⟨את⟩፣ ⟨ואת⟩ ኩሉ ቈላን፣ ⟨ואת⟩ ኩሉ ኣባላት እቶም ከተራትን ንቡቑ ምድሪን ኣውደቐ።",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "ኣውደቐ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ከተራት"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "እቶም ከተራት"
+    },
+    {
+      "surface": "האל",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ኩሉ ቈላ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ቈላ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ኩሉ ኣባላት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ኣባላት"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ናይ እቶም ከተራት"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "ንቡቑ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:42:12.389096710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ውላድ እስራኤል ድማ ኣፈሩ፣ ተበዝሑ፣ ብዙሓሉ፣ ብጣዕሚ ብጣዕሚ ተሓለዉ፣ ምድሪ ድማ ብነይሶም ⟨את⟩ ተማለአት።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "ኣፈሩ"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "ተበዝሑ"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "ብዙሓሉ"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "ተሓለዉ"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "ብጣዕሚ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ተማለአት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ነይሶም (ውላድ እስራኤል)"
+    }
+  ],
+  "timestamp": "2026-09-19T08:26:44.625250917Z",
+  "model": "glm-5.3"
+}

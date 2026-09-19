@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ምኽንያቱ ያህዌህ ፍትሒ ይፍትው፣ ⟨את⟩ ቅዱሳኑ ድማ ናብ ዘለኣለም ኣይይወድን፤ ንሳቶም ናብ ዘለኣለም ተኸላእቶም፣ ወይ ዘርኣ ኣጣባይቲ ድማ ተቐጺሩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ይፍትዉ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍትሒ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "ይወድን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅዱሳኑ"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ቅዱሳኑ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "ተኸላእቶም"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ወይ ዘርኣ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኣጣባይቲ"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "ተቐጺሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:55:52.294407791Z",
+  "model": "glm-5.3"
+}

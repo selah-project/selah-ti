@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "ዮሴፍ ድማ ነቶም ⟨את⟩ ካብ መንጎ ኣግርዑ ኣውጽኖም፣ ብገጹ ንምድሪ ድማ ሰገደ።",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ኣውጽኖም"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም (እቶም ውላድ ንዝወጽእሉ)"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "ኣግርዑ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ሰገደ"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "ብገጹ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ንምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:07:17.677926174Z",
+  "model": "glm-5.3"
+}

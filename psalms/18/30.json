@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ምኽንያቱ ብንስኻ ኣብ ሰራዊት እሮጅ፣ ብኤሎሃይ ነቲ ግድም እተልገፍ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ብንስኻ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "እሮጅ"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "ኣብ ሰራዊት"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "ብኤሎሃይ"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "እተልገፍ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ነቲ ግድም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:34.928223972Z",
+  "model": "glm-5.3"
+}

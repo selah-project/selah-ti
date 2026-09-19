@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 8:8",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኰይኖ ምስ ዝሕዙዋ ⟨את⟩ እቲ ከተማ፣ ⟨את⟩ እቲ ከተማ ብሓዊ ተወግዑ፤ ከም ቃል ያህዌህ ተገብሩ፤ ርእዩ፣ ⟨את⟩ ንስኻትኩም ነዚ ኣዘዝኩ።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ኰይኖ ይኸውን"
+    },
+    {
+      "surface": "כתפשכם",
+      "gloss": "ምስ ዝሕዙዋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ከተማ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እቲ ከተማ"
+    },
+    {
+      "surface": "תציתו",
+      "gloss": "ተወግዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ከተማ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እቲ ከተማ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ብሓዊ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ከም ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ተገብሩ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ርእዩ"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ነዚ ኣዘዝኩ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንስኻትኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:21:01.898695738Z",
+  "model": "glm-5.3"
+}

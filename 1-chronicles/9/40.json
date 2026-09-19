@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ወዲ ይሆናታን ድማ ምሪብ-ባዓል ነበረ፤ ምሪ-ባዓል ድማ ⟨את⟩ ሚኻ ሓበ።",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ወዲ፣"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ይሆናታን"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "ምሪብ-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ባዓል፣"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "ምሪ-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ባዓል፣"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ሓበ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚኻ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ሚኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:36:23.747220562Z",
+  "model": "glm-5.3"
+}

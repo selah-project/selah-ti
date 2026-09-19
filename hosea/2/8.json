@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ስለዚ ኣሎኹ፣ መገዲኻ ⟨את⟩ ብውንጭቕታት ክኽልክለካ እየ፣ ሓድሕዲኣ እውን ⟨את⟩ ክገብራ እየ፣ ኣብኡ ማለት መገያታእን ኣይትረኽብን።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ኣሎኹ"
+    },
+    {
+      "surface": "שך",
+      "gloss": "ክኽልክለካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መገዲኻ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "መገዲኻ"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "ብውንጭቕታት"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "ክገብራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓድሕዲኣ"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "ሓድሕዲኣ"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "መገያታእ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ክትረኽብ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:05:53.651658622Z",
+  "model": "glm-5.3"
+}

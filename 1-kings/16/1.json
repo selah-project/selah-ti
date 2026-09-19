@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ቃል ያህዌህ ናብ የሆኡ ወዲ ሕናኒ ብዛዕባ ባዕሻ ተዛረበ ኢሉ፦",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "የሆኡ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ሕናኒ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብዛዕባ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ባዕሻ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:44:50.334338022Z",
+  "model": "glm-5.3"
+}

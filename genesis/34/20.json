@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 34:20",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ሓሞርን ሽኬም ወዲኡን ናብ ኣንገት ከተሞም ኣተዩ፣ ነቶም ሰባት ከተሞም ድማ ከምዚ በሉ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ኣተዩ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ሓሞር"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "ሽኬምን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ኣንገት"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ከተሞም"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ተዛረቡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ከተሞም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ከምዚ በሉ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:57:31.836592911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ውላድ ያዕቆቭ ድማ ብቃል ያህዌህ ካብ ውርሻኦም ለዊይን ⟨את⟩ እዞም ከተማታትን ⟨ואת⟩ ወዲቓቶምን ሃቡ።",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ሃቡ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ለዊይን"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "ካብ ውርሻኦም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እዞም ከተማታትን"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ከተማታትን"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዞም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ወዲቓቶምን"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "ወዲቓቶምን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:30:48.783666819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ብስንብታት ኣፉ ይስቕሐኒ፣ ምኽንያቱ ፍቕርኻ ካብ ወይኒ ጽቡዕ እዩ።",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "ይስቕሐኒ"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "ብስንብታት"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ኣፉ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ጽቡዕ"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "ፍቕርኻ"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "ካብ ወይኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:27:05.092466185Z",
+  "model": "glm-5.3"
+}

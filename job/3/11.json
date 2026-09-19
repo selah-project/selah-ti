@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ስለምንታይ ኣብ ማሕፀን ኣይሞትኩን፧ ካብ ህድም ኣውጺኡኒ እሞ ኣይገበርኩን፧",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ስለምንታይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ኣብ ማሕፀን"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ሞትኩ"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ካብ ህድም"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "ኣውጺኡኒ"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "ኣይገበርኩን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:01:29.515943779Z",
+  "model": "glm-5.3"
+}

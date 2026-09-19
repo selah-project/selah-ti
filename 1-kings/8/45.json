@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣብ ሰማያት ትሰምዑ ⟨את⟩ ጸሎቶምን ⟨את⟩ ምልማሶምን፣ ድማ ጉዳዮም ትፈርድ ኢኻ።",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ትሰምዑ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ኣብ ሰማያት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጸሎቶም"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ጸሎቶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምልማሶም"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ምልማሶም"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ትፈርድ ኢኻ"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ጉዳዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:56:51.751815707Z",
+  "model": "glm-5.3"
+}

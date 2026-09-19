@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ያህዌህ ንእትሓት ናይ ኲናትን ንስዕረ ናይ ኣገዳሲን ሰቢሩ።",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ሰቢሩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "እትሓት"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ናይ ኲናት"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ስዕረ"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "ናይ ኣገዳሲ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:47:17.296744691Z",
+  "model": "glm-5.3"
+}

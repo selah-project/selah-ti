@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 88,
+  "translation": "ኸም ማይ ኩሉ መዓልቲ ኣኽቢበኒ እዮም፤ ሓባራዊ ኣብ ላዕለይ እናተኸበቡ ኣለዉ።",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "ኣኽቢበኒ እዮም"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ኸም ማይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "እናተኸበቡ ኣለዉ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ላዕለይ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ሓባራዊ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:23.402793725Z",
+  "model": "glm-5.3"
+}

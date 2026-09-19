@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ትእዛዛተይ ትሓልዉምን ⟨אתם⟩ ትገብርዎምን፤ ኣነ ያህዌህ እየ።",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ትሓልዉምን"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ትእዛዛተይ"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ትገብርዎምን"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዛተይ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:30:16.147614714Z",
+  "model": "glm-5.3"
+}

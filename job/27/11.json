@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ነቲ ኣብ ኢድ ኤል ዘሎ ነኣሕብረኩም፣ እቲ ምስ ሻዳይ ዘሎ ኣይክሓብን።",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "ነኣሕብረኩም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ኣቱም"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ሻዳይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "ክሓብ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:15:49.708890711Z",
+  "model": "glm-5.3"
+}

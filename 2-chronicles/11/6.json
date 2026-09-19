@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ሃንጸ ድማ ⟨את⟩ ቤት ለሕምን ⟨ואת⟩ ዓይታምን ⟨ואת⟩ ትቕዋዕን።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሃንጸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት ለሕም"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ለሕም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ዓይታም"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "ዓይታም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ትቕዋዕ"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "ትቕዋዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:58:54.838757422Z",
+  "model": "glm-5.3"
+}

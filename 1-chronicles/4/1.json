@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ውላድ ይሁዳ ፦ ፐረጽ፣ ሕጽሮን፣ ከርሚ፣ ሑርን ሽብኣልን እዮም።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ፐረጽ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ሕጽሮን"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "ከርሚ"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "ሑር"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "ሽብኣል"
+    }
+  ],
+  "timestamp": "2026-09-19T07:32:20.389418317Z",
+  "model": "glm-5.3"
+}

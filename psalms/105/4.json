@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ያህዌህን ኩሉ ዚኽእል ኃይሉን ደልዉ፣ ገጹ ኩሉ ግዜ ደልዉ።",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "ደልዉ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "ንኃይሉ ድማ"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ደልዉ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ገጹ ን"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ኩሉ ግዜ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:42.953269896Z",
+  "model": "glm-5.3"
+}

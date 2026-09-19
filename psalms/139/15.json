@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 139,
+  "translation": "ኣኽምተይ ካባኻ ኣይተሓብአትን፣ ኣብ ምስጢር ምስ ተፈጠርኩ፣ ኣብ ታሕቲታት ምድሪ ተሐፊረለይ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "ተሓብአት"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ኣኽምተይ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ካባኻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ተፈጠርኩ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ኣብ ምስጢር"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "ተሐፊረለይ"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "ኣብ ታሕቲታት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:32.393656279Z",
+  "model": "glm-5.3"
+}

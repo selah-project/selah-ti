@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ነቲ መንግሥቲ ካብ ስድራ ሻኡል ንምስጓእ፣ ⟨את⟩ ወንበር ዳዊድ ኣብ ላዕሊ እስራኤልን ኣብ ላዕሊ ይሁዳን ንምትኩስ፣ ካብ ዳን ክሳብ በኣር-ሸብዕ።",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "ንምስጓእ"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ነቲ መንግሥቲ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ስድራ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "ድማ ንምትኩስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወንበር ዳዊድ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ወንበር"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ድማ ኣብ ላዕሊ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "ካብ ዳን"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ድማ ክሳብ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "በኣር"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸብዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:21:33.436995615Z",
+  "model": "glm-5.3"
+}

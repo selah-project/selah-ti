@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 2:5",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣዶናይ ከም ኸዳይ ኮይኑ ነይሩ፤ እስራኤልን ዘሕልሎ፣ ኵሉ ቤት-ግንባታን ዘሕልሎ፣ መከላትኡ ኸዊኽ፤ ኣብ ሓብቲ ይሁዳ ድማ ሓዘንን ዋይታን ኣበዝሐ።",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "ኮይኑ ነይሩ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "כאויב",
+      "gloss": "ከም ኸዳይ"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ዘሕልሎ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ዘሕልሎ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኵሉ"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "ቤት-ግንባታን"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ኸዊኽ"
+    },
+    {
+      "surface": "מבצריו",
+      "gloss": "መከላትኡ"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "ኣበዝሐ"
+    },
+    {
+      "surface": "בבת",
+      "gloss": "ኣብ ሓብቲ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "תאניה",
+      "gloss": "ሓዘን"
+    },
+    {
+      "surface": "ואניה",
+      "gloss": "ዋይታ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:36:24.222968037Z",
+  "model": "glm-5.3"
+}

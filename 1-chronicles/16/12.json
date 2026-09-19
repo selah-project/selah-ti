@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 16:12",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ተኣምራቱ ዝገበሮም ኣስተውሑ፤ ተኣምራቱን ፍርዲ ኣፉን ኣውቁ።",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "ኣውቁ"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "ተኣምራቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝገበሮም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "ተኣምራቱን"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "ፍርዲን"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ኣፉን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:40:18.189718503Z",
+  "model": "glm-5.3"
+}

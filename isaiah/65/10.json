@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 65:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 65,
+  "translation": "ሻሮን ንማሕደር ረባዕቲ ኾና፣ ለዓሚ ዓኮር ንመዓዛ ከብቲ ኾና፣ ንሕደገ ህዝበይ እቶም ዝደለይዎኒ።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ኾና"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "ሻሮን"
+    },
+    {
+      "surface": "לנוה",
+      "gloss": "ንማሕደር"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ረባዕቲ"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ለዓሚን"
+    },
+    {
+      "surface": "עכור",
+      "gloss": "ዓኮር"
+    },
+    {
+      "surface": "לרבץ",
+      "gloss": "ንመዓዛ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ከብቲ"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "ንሕደገ ህዝበይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝ"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "ዝደለይዎኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:26:51.001000749Z",
+  "model": "glm-5.3"
+}

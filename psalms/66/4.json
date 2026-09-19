@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 66,
+  "translation": "ኩሉ ⟨እቲ⟩ ምድሪ ንኻ ይስገኡ፣ ንኻ ድማ ይዘምርዎ፤ ስምካ ይዘምርዎ። ⟨סלה⟩",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨እቲ⟩ ምድሪ"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "ይስገኡ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "ድማ ይዘምርዎ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ይዘምርዎ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምካ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "⟨סלה⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:59.380642914Z",
+  "model": "glm-5.3"
+}

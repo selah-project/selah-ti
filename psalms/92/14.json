@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 92,
+  "translation": "ኣብ ቤት ያህዌህ ዝተተኽሉ፣ ኣብ ኣደራት ኤሎሂምና ይፈራሑ።",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "ዝተተኽሉ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "ኣብ ኣደራት"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "ይፈራሑ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:24.008410561Z",
+  "model": "glm-5.3"
+}

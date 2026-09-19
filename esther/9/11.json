@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣብ እቲ መዓልቲ ንእቲ ቁጽሪ እቶም ተቐቲልቲ ኣብ ሹሻን እቲ ቤት-መንግስቲ ናብ ቅድሚ እቲ ንጉስ መጸ።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ እቲ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ንእቲ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ቁጽሪ"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "እቶም ተቐቲልቲ"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "ኣብ ሹሻን"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "እቲ ቤት-መንግስቲ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ናብ ቅድሚ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:50:03.046955058Z",
+  "model": "glm-5.3"
+}

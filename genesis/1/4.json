@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኤሎሂም ⟨את⟩ ብርሃን ከም ዝጽቡቕ ረኣየ፤ ኤሎሂም ድማ ኣብ መንጎ ብርሃንን ኣብ መንጎ ጸልማትን ፈለየ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብርሃን"
+    },
+    {
+      "surface": "האור",
+      "gloss": "እቲ ብርሃን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ዝጽቡቕ"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "ፈለየ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ኣብ መንጎ ከምኡውን"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ጸልማት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:30:59.480276838Z",
+  "model": "glm-5.3"
+}

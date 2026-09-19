@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ድማ ⟨את⟩ ጓላትኹም ይወስዶሉን ንምዝርዛራት፣ ንምውዒልን ንምጽባሕን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጓላትኹም"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "ጓላትኹም"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ይወስድ"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "ንምዝርዛራት"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "ንምውዒልን"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "ንምጽባሕን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:58:40.109645782Z",
+  "model": "glm-5.3"
+}

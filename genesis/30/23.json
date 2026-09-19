@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ንሳ ድማ መስመረት፣ ወዲ ድማ ወለደት፣ ኤሎሂም ሕማቐተይ ከፊሉኒ ኢሉ በለት።",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "መስመረት"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደት"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "በለት"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ከፊሉኒ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕማቐተይ"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ሕማቐተይ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:50:48.485808419Z",
+  "model": "glm-5.3"
+}

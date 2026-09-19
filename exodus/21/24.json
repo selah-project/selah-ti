@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "«ዓይኒ ኣብ ክንዲ ዓይኒ፣ ስኒ ኣብ ክንዲ ስኒ፣ ኢድ ኣብ ክንዲ ኢድ፣ እግሪ ኣብ ክንዲ እግሪ።»",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "ዓይኒ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ክንዲ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ዓይኒ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ስኒ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ክንዲ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ስኒ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ክንዲ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "እግሪ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ክንዲ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "እግሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:27:12.132949727Z",
+  "model": "glm-5.3"
+}

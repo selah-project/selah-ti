@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 12:23",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኣህዛብ የዓብይ፣ ዓጠቖም ድማ፤ ኣህዛብ የዘርኤ፣ ኣረኣዮም ድማ።",
+  "tokens": [
+    {
+      "surface": "משגיא",
+      "gloss": "የዓብይ"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "ויאבדם",
+      "gloss": "ዓጠቖም"
+    },
+    {
+      "surface": "שטח",
+      "gloss": "የዘርኤ"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ኣረኣዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T06:08:12.040945783Z",
+  "model": "glm-5.3"
+}

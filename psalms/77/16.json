@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 77,
+  "translation": "ብኢድኻ ህዝብኻ — ወዲ ያዕቆቭን ዮሴፍን — ደልደልካ፤ ስላህ።",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "ደልደልካ"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ህዝብኻ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:00.371759282Z",
+  "model": "glm-5.3"
+}

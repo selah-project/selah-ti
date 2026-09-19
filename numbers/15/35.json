@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 15:35",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ያህዌህ ድማ ናብ ሞሸ በለ፦ «እቲ ሰብ ብሞት ይቕተል፤ ኩሉ ቑፅሕት ⟨אתו⟩ ብዕንቅቓት ካብ ደገ ዓድዋት ምርግሞ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ብሞት"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይቕተል"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "רגום",
+      "gloss": "ምርግሞ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ብዕንቅቓት"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "ብዕንቅቓት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ቑፅሕት"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ካብ ደገ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ዓድዋት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:25:45.161744383Z",
+  "model": "glm-5.3"
+}

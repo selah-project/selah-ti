@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ቓል יהוה ኣብ ልዕሊ ⟨ቲ⟩ ማይቲ ⟨እዩ⟩፤ ኤል ⟨ቲ⟩ ክብሪ ኣወጣ፤ יהוה ኣብ ልዕሊ ብዙሕ ማይቲ ⟨እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ቲ ማይቲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ቲ ክብሪ"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ኣወጣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይቲ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:41.986348357Z",
+  "model": "glm-5.3"
+}

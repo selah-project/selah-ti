@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ወደይ፣ ኣብ መገዲ ⟨את⟩ ምሳኦም ኣይትከደን፣ እግሪኻ ካብ ጐደናኦም ስገር።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ወደይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ትከድን"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መገዲ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ምሳኦም",
+      "marks": "ምሳኦም"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "ስገር"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "እግሪኻ"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "ካብ ጐደናኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:46.205345441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኢዮብ ድማ ተንበሐለ፣ ⟨את⟩ ስምጡ በለ፣ ⟨את⟩ ርእሱ ቐረጸ፣ ኣብ ምድሪ ወደቐ፣ ኣምልኾ ድማ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተንበሐለ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኢዮብ"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ስምጡ በለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስምጡ"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "ስምጡ"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "ቐረጸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ርእሱ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ርእሱ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ወደቐ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ኣምልኾ ገበረ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:02:43.019682059Z",
+  "model": "glm-5.3"
+}

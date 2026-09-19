@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 29:5",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ሰብ ንመርቓይ ዝሰምዖ ኣብ እግሮም ሓበሬታ ይደርግ።",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "ዝሰምዖ እዩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "መርቓይ"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "ሓበሬታ"
+    },
+    {
+      "surface": "פורש",
+      "gloss": "ይደርግ እዩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "እግሮም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:57:43.693685268Z",
+  "model": "glm-5.3"
+}

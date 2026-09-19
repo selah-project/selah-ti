@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 60,
+  "translation": "ሞኣብ ማዕዲ ምሕጻይያ እዩ፤ ኣብ ልዕሊ ኤዶም ማስንያ ክውጽእ እየ፤ ኣብ ልዕለይ ፍሊስታይ፣ እስከ ተዓወት።",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "ማዕዲ"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "ምሕጻይያ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "ክውጽእ እየ"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "ማስንያ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕለይ"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "ፍሊስታይ"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "ተዓወት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:11.293048352Z",
+  "model": "glm-5.3"
+}

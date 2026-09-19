@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ሓደ ኬሩብ ኣብ ውዱቕ ካብዚ፣ ሓደ ኬሩብን ኣብ ውዱቕ ካብኣቲ፣ ካብ ቲ ሽፋኒ ⟨את⟩ ነቶም ኬሩባት ኣብ ክልተ ውዱቓቱ ገበሮም።",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "ኬሩብ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ኣብ ውዱቕ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ካብዚ"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "ኬሩብን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ኣብ ውዱቕ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ካብኣቲ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ቲ ሽፋኒ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ኬሩባት"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ነቶም ኬሩባት"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "ውዱቓቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:42:47.443034470Z",
+  "model": "glm-5.3"
+}

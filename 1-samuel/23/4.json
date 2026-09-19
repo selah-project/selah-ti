@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ዳዊድ ድማ ደጋጊም ብያህዌህ ንምሕታት ወሰኸ፤ ያህዌህ ድማ መለሶሉ ንዳዊድ በሎ፦ «ተንሳእ ናብ ቀዓላ ወርድ፤ ኣነ ንፍልሽቲም ⟨את⟩ ኣብ ኢድካ ክህብ እየ።»",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "ወሰኸ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደጋጊም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "ንምሕታት"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ብያህዌህ"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "መለሶሉ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ተንሳእ"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ወርድ"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ቀዓላ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ክህብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍልሽቲም"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልሽቲም"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ኣብ ኢድካ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:14:38.636572130Z",
+  "model": "glm-5.3"
+}

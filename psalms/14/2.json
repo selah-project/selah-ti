@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ያህዌህ ካብ ሰማያት ኣብ ደቂ ሰባት ኣንቀጹ፣ ዘስተብዓል፣ ⟨את⟩ ኤሎሂም ዝድልው እንተሎ ንምርኣይ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ካብ ሰማያት"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "ኣንቀጹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ደቂ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ንምርኣይ"
+    },
+    {
+      "surface": "היש",
+      "gloss": "እንተሎ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ዘስተብዓል"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ዝድልው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:52.639348376Z",
+  "model": "glm-5.3"
+}

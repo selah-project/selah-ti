@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 2:9",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እቶም ኣብ ሓሶት ዝተሓለዉ ብሓሶት ንዘይጠቅሙ ኣማልኽቲ ዝኽተሉ፣ ሔሴዶም ይውደብዎ።",
+  "tokens": [
+    {
+      "surface": "משמרים",
+      "gloss": "እቶም ዝኽተሉ፣"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "ንዘይጠቕሙ ኣማልኽቲ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ብሓሶት"
+    },
+    {
+      "surface": "חסדם",
+      "gloss": "ሔሴዶም"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "ይውደብዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:19:57.065176898Z",
+  "model": "glm-5.3"
+}

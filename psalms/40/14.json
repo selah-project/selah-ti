@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ያህዌህ ንኽትኣትወኒ ሓርን፤ ያህዌህ ንሕጋዚኡ ኣብዚ ተበጽሕ።",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "ሓርን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "ንኽትኣትወኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ንሕጋዚኡ"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ተበጽሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:53.744695281Z",
+  "model": "glm-5.3"
+}

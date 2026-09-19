@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 6:1",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኣብዚ እውን ዳርዮስ ንጉስ ትእዛዝ ኣውጽአ፣ ኣብ ቤት ኲነታት እቶም ኣብ ባቢሎን ዝተቐምጡ ግንዛታት ድማ ሓደጉ።",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "ኣብዚ እውን"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "ዳርዮስ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣውጽአ"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "ובקרו",
+      "gloss": "ሓደጉ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "ספריא",
+      "gloss": "ኲነታት"
+    },
+    {
+      "surface": "די",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "גנזיא",
+      "gloss": "ግንዛታት"
+    },
+    {
+      "surface": "מהחתין",
+      "gloss": "ዝተቐምጡ"
+    },
+    {
+      "surface": "תמה",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "ኣብ ባቢሎን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:10:40.742626378Z",
+  "model": "glm-5.3"
+}

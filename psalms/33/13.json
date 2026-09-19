@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ያህዌህ ካብ ሰማያት ተመልከተ፣ ⟨את⟩ ኩሉ ውላድ ሰብ ረኣየ።",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "ካብ ሰማያት"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ተመልከተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:09.293166352Z",
+  "model": "glm-5.3"
+}

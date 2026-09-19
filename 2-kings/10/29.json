@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 10:29",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "እኳ እውን ካብ ሓጢያት ያሮብዓም ወዲ ነባት፣ እቶም እስራኤል ⟨את⟩ ዝኣጸዮም፣ የሆሹዋዕ ኣይተዛረየን ካብ ድሕሪኦም፦ ካብ ኣጉላት ወርቂ እቶም ኣብ ቤት ኤልን እቶም ኣብ ዳንን።",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "እኳ እውን"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "ሓጢያት"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ያሮብዓም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ነባት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ዝኣጸዮም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ተዛረየ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "מאחריהם",
+      "gloss": "ካብ ድሕሪኦም"
+    },
+    {
+      "surface": "עגלי",
+      "gloss": "ኣጉላት"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ከምኡውን እቶም ኣብ"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "ዳን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:19:41.537294849Z",
+  "model": "glm-5.3"
+}

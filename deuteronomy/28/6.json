@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ተባረከት ንስኻ ምስ እተወዓልካ፣ እውን ተባረከት ንስኻ ምስ እትወጽእ።",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ተባረከት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "ምስ እተወዓልካ"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "እውን ተባረከት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "ምስ እትወጽእ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:07:39.021119918Z",
+  "model": "glm-5.3"
+}

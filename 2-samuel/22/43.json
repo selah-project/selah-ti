@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "2-samuel 22:43",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ከም ቅጭሪ ምድሪ ኣፍሪሰክዮም፤ ከም ጭህላይ ጎደናታት ኣሰቐርክዮም፣ ኣፋረስክዖም።",
+  "tokens": [
+    {
+      "surface": "ואשחקם",
+      "gloss": "ኣፍሪሰክዮም"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "ከም ቅጭሪ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "ከም ጭህላይ"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "ጎደናታት"
+    },
+    {
+      "surface": "אדקם",
+      "gloss": "ኣሰቐርክዮም"
+    },
+    {
+      "surface": "ארקעם",
+      "gloss": "ኣፋረስክዖም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:42:07.219588965Z",
+  "model": "glm-5.3"
+}

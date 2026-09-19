@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "እቲ ኩነታት ግን እነፈልሕ እናፈለሐ ኣብ ቆዳ ድሕሪ ንጽሕናኡ፤",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ግን እንተ"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "እነፈልሕ"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "እናፈለሐ"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ኩነታት"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ኣብ ቆዳ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "ንጽሕናኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:56:43.835308746Z",
+  "model": "glm-5.3"
+}

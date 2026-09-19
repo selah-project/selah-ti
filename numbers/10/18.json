@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 10:18",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "እቲ ኣላማ ናይ መኸራ ርኡቤን ብሰራዊቶም ተበገሰ፤ ኣብ ልዕሊ ሰራዊቱ ድማ ኤልይጽር ወዲ ሸደይኦር ⟨ነይሩ⟩።",
+  "tokens": [
+    {
+      "surface": "ונסע",
+      "gloss": "ተበገሰ"
+    },
+    {
+      "surface": "דגל",
+      "gloss": "ኣላማ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "መኸራ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ርኡቤን"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "ብሰራዊቶም"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "ሰራዊቱ"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "ኤልይጽር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "ሸደይኦር"
+    }
+  ],
+  "timestamp": "2026-09-18T22:19:56.074720387Z",
+  "model": "glm-5.3"
+}

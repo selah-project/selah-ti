@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "⟨את⟩ ወዲ ያዕናን ⟨את⟩ እቲ ተሕማስን ⟨את⟩ እቲ ሳሕፍን ⟨את⟩ እቲ ነጽን ንዓይነቱ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወዲ ያዕና"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ያዕና"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ተሕማስ"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "እቲ ተሕማስ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሳሕፍ"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "እቲ ሳሕፍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ነጽ"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "እቲ ነጽ"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ንዓይነቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:51:56.305217739Z",
+  "model": "glm-5.3"
+}

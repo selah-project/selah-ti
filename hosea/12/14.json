@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ብነብዪ ድማ ያህዌህ ⟨את⟩ ይስራኤል ካብ ሚጽራይም ኣወጸ፤ ብነብዪ ድማ ተኸላከለ።",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "ብነብዪ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ኣወጸ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ካብ ሚጽራይም"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "ብነብዪ"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "ተኸላከለ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:08:21.618196393Z",
+  "model": "glm-5.3"
+}

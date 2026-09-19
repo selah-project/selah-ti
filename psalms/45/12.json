@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "እቲ ንጉስ ድማ ጽብቕኪ ይሓዝ፣ ምኽንያቱ ንሱ ጎይታኪ እዩ፤ ስገዲኒ ልኡ።",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "ይሓዝ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "ጽብቕኪ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ጎይታኪ"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "ስገዲኒ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ልኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:44.433328346Z",
+  "model": "glm-5.3"
+}

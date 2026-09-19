@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 33:16",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "መበል ያህዌህ ⟨את⟩ ሠርሖ፣ ኣብ ልዕሊኡ መሥዋዕቲ ሰላምን ምስጋናን ቐትነ፤ ኤሎሂም ይስራኤል ⟨את⟩ ያህዌህ ንይሁዳ ንምግዓዝ ከኣ በለ።",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "ሠርሖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መበል"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መበል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "ቐትነ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊኡ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "መሥዋዕቲ"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "ምስጋናን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ንይሁዳ"
+    },
+    {
+      "surface": "לעבוד",
+      "gloss": "ንምግዓዝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T08:20:01.897723206Z",
+  "model": "glm-5.3"
+}

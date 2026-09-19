@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 58,
+  "translation": "ሰብ ድማ ይብል፦ ብሓቂ ንጽድቃዊ ወፊር ኣሎ፤ ብሓቂ ኣብ ምድሪ ፈላሺ ኤሎሂም ኣሎ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ይብል"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ብሓቂ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ወፊር"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ንጽድቃዊ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ብሓቂ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ፈላሺ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:02:10.864633156Z",
+  "model": "glm-5.3"
+}

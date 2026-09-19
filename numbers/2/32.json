@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 2:32",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እዚኦም እቶም ብውላድ ዒስራኤል፣ ብዓይላት ኣቦታቶም ዝተቐመጡ እዮም፤ ኩሉ እቶም ኣብ ኣደራት ብሰራዊቶም ዝተቐመጡ ሽሽዓ ሽሕ ሚእቲ፣ ሰለስተ ሽሕን፣ ሓሙሽተ ሚእቲን ሓሙሽተን እዮም።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ዝተቐመጡ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ብውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ዒስራኤል"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ብዓይላት"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ኣቦታቶም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ዝተቐመጡ"
+    },
+    {
+      "surface": "המחנת",
+      "gloss": "ኣብ ኣደራት"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "ብሰራዊቶም"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ሽሽዓ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚእቲ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሽሕን"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚእቲን"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ሓሙሽተን"
+    }
+  ],
+  "timestamp": "2026-09-19T08:31:09.128119770Z",
+  "model": "glm-5.3"
+}

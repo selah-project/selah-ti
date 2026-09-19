@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣብ ቶራ ያህዌህ ጥራይ እቲ ዝደልዮ እዩ፣ ኣብ ቶራኡ እውን ብቐትሪ ብለይቲ ይሃስዮ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ኣብ ዝኾነ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "ኣብ ቶራ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "ዝደልዮ"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "ኣብ ቶራኡ…ን"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ይሃስዮ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ብቐትሪ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ብለይቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:43:12.328989027Z",
+  "model": "glm-5.3"
+}

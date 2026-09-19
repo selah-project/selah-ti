@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 63,
+  "translation": "ከም ስብን ውርሃትን ከምኡ ነፍሰይ ተሰቲኣ እያ፤ ከባብታት ሓሸኻት ድማ ኣፈ ይዛረበካ እዩ።",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ስብ"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "ውርሃትን"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ተሰቲኣ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "ከባብታት"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "ሓሸኻት"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "ይዛረበካ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ኣፈ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:57.633586204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 26:3",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ነቲ ዘይብሉ ጥበብ ብከመይ ምኽርካ? ብዙሕ ብሩኽ ጥበብ ኣፍለጥካ።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ብከመይ"
+    },
+    {
+      "surface": "יעצת",
+      "gloss": "ምኽርካ"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "ነቲ ዘይብሉ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "ብሩኽ ጥበብ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "ኣፍለጥካ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:16:00.011454552Z",
+  "model": "glm-5.3"
+}

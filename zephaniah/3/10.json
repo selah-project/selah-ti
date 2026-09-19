@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zephaniah 3:10",
+  "book": "zephaniah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ካብ ማዕራቢ ቈላታት ኩሽ ዝበለው፣ ኣገልጋልተይ — ወዲተይ ዝተፈናተይ — ወፈያይ ክሳቢ ከይዘራ ክብጽሑኒ እዮም።",
+  "tokens": [
+    {
+      "surface": "מעבר",
+      "gloss": "ካብ ማዕራቢ ዝበለው"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "ቈላታት"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ኩሽ"
+    },
+    {
+      "surface": "עתרי",
+      "gloss": "ኣገልጋልተይ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ወዲተይ"
+    },
+    {
+      "surface": "פוצי",
+      "gloss": "ዝተፈናተይ"
+    },
+    {
+      "surface": "יובלון",
+      "gloss": "ክውሕሱኒ"
+    },
+    {
+      "surface": "מנחתי",
+      "gloss": "ወፈያይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:29:53.887307286Z",
+  "model": "glm-5.3"
+}

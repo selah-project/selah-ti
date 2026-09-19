@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ኣስርተ ውላድ ዝጸዓኑ መሳርሒታት ዮኣብ ኣኪቦም ኸኣ ⟨את⟩ ኣብሻሎም ገረፈዎ፣ ቐተልዎ ድማ።",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "ኣኪቦም"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ኣስርተ"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ዝጸዓኑ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "መሳርሒታት"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮኣብ"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ገረፈዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብሻሎም"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ኣብሻሎም"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ቐተልዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:37:50.212626378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "ኣብ ጥልቀት ጸልማት-ማይ ተሰሪሐኹ፣ መቐመጫ ድማ የብለይን፤ ኣብ ጥልቀታት ማይ ኣተኹ፣ ውዑያት ድማ ወሲደተኒ።",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "ተሰሪሐኹ"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "ኣብ ጥልቀት"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "ጸልማት-ማይ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ድማ የብለይን"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "መቐመጫ"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ኣተኹ"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "ኣብ ጥልቀታት"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "ድማ ውዑያት"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "ወሲደተኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:57.509368057Z",
+  "model": "glm-5.3"
+}

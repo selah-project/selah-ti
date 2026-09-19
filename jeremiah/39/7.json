@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ሓባር ድማ ⟨את⟩ ዓይኒ ጽድቅያሁ ዕበሮ፣ ብሓስንቢ ሓብሳት ኣሰሮ፡ ⟨את⟩ ናብ ባቢሎን ንምእታው ከውንኦ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓይኒ ጽድቅያሁ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኒ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ጽድቅያሁ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ዕበሮ"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "ኣሰሮ"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "ብሓስንቢ ሓብሳት"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "ንምእታው"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱ"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ባቢሎን"
+    }
+  ],
+  "timestamp": "2026-09-19T03:03:11.186979522Z",
+  "model": "glm-5.3"
+}

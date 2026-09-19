@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ቃል ሓቂ ካብ ኣፍይ ፍጹም ኣይትሓልበኒ፡ ምኽንያቱ ንፍስሓትካ ተስፋ ገበርኩ።",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "ኣይትሓልበኒ"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "ካብ ኣፍይ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ሓቂ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ፍጹም"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ፍጹም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "ንፍስሓትካ"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ተስፋ ገበርኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:59.718025017Z",
+  "model": "glm-5.3"
+}

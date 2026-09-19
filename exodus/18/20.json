@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ተዛረቦም ⟨את⟩ እቶም ስርዓታትን ⟨את⟩ ቶራን፣ ንኦም ድማ ⟨את⟩ እቲ መገዲ ክከዱሉን ⟨את⟩ እቲ ግብሪ ክገብርዎን ኣፍልጦም።",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "ተዛረቦም"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "ንኦም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ስርዓታት"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "እቶም ስርዓታት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቶራ"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "ድማ ኣፍልጦም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንኦም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ መገዲ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "እቲ መገዲ"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ይከዱ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ግብሪ"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "እቲ ግብሪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "ይገብርዎ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:25:47.026606809Z",
+  "model": "glm-5.3"
+}

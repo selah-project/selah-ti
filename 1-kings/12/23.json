@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 12:23",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "«ንረኽበዓም ወዲ ሽሎሞ ንጉስ ይሁዳን ንኩሉ ስድራ ይሁዳን ብንያምንን ንዝተረፈ ህዝቢን ኢልካ ንኽብል፦",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ኢልካ ንኽብል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ረኽበዓም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ובנימין",
+      "gloss": "ብንያምን"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ዝተረፈ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ንኽብል"
+    }
+  ],
+  "timestamp": "2026-09-19T00:59:47.262039308Z",
+  "model": "glm-5.3"
+}

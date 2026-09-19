@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 45:20",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "ከምኡ እውን ኣብ ሸውዓተ ንወርሒ ብኽብር ሰብ ዝሓደገን ዝተሓወሰን ክትገብሩ፣ ነቲ ⟨את⟩ ቤት ትንጽሑ።",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "ከምኡ እውን"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ክትገብሩ"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "ኣብ ሸውዓተ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ንወርሒ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ብኽብር ሰብ"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "ዝሓደገ"
+    },
+    {
+      "surface": "ומפתי",
+      "gloss": "ዝተሓወሰ"
+    },
+    {
+      "surface": "וכפרתם",
+      "gloss": "ትንጽሑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ነቲ ቤት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:03:11.362082429Z",
+  "model": "glm-5.3"
+}

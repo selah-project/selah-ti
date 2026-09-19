@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 84,
+  "translation": "ያህዌህ ኤሎሂም ጸባኦት፣ ንጸሎተይ ስምዓ፤ ኣዳምስ፣ ኤሎሂም ያዕቆብ። ሰላህ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ስምዓ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ንጸሎተይ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ኣዳምስ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:52.625524308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ንስኻውን ኣብ ኢድ ተሓታት ኣየኣትወን፣ እዚኦም ድማ እግረይ ኣብ ማለበሮ ኣተለኻ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ንስኻውን ኣይ…ን"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "ኣተወኒ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ኣብ ኢድ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ተሓታት"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "ኣተለኻ"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "ኣብ ማለበሮ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "እግረይ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:00:12.427169765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ምውልደትኻ ከኣ ኣብ መዓልቲ ⟨אתך⟩ ብዘረኻ ቀጭበትኻ ኣይተቐረጸን፣ ብማይ ንምስቲ ኣይተሓጸበትን፣ በዚሒ ኣይተበዘሐትን፣ ኣብ ማኅሰርን ኣይተሸፈነትን።",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "ምውልደትኻ ከኣ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "ብዘረኻ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "ንስኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ተቐረጸ"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "ቀጭበትኻ"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ብማይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "ተሓጸበት"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "ንምስቲ"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "በዚሕን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "ተበዘሐት"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "ማኅሰርን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "ተሸፈነት"
+    }
+  ],
+  "timestamp": "2026-09-19T03:30:10.359238348Z",
+  "model": "glm-5.3"
+}

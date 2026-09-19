@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "እንተ ኽርክር ኣብ መንጎ ሰባት ዝኾነ፣ ንሳቶም ናብ እቲ ፍርዲ ቐረቡን ፈረድዎን፣ ነቲ ጽድቃዊ ⟨את⟩ ጽድቒ ኣውጁዎን፣ ነቲ ኣጥፍኣይ ⟨את⟩ ክፉእ ደው ኣብሉዎን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ኽርክር"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "ቐረቡን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "እቲ ፍርዲ"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "ፈረድዎን"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "ጽድቒ ኣውጁዎን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ጽድቃዊ"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "እቲ ጽድቃዊ"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "ክፉእ ደው ኣብሉዎን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ኣጥፍኣይ"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "እቲ ኣጥፍኣይ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:37:18.374302796Z",
+  "model": "glm-5.3"
+}

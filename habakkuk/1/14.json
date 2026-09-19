@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 1:14",
+  "book": "habakkuk",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ድማ ሰብ ከም ዓሣታት ባሕሪ፣ ከም እንስሳ እትንስስ ብዘይ ዝግዝኣ ኣብ ላዕላ ገበርካ።",
+  "tokens": [
+    {
+      "surface": "ותעשה",
+      "gloss": "ገበርካ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "כדגי",
+      "gloss": "ከም ዓሣታት"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "כרמש",
+      "gloss": "ከም እንስሳ እትንስስ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይኮነን"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ዝግዝእ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብ ላዕላ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:26:08.039738810Z",
+  "model": "glm-5.3"
+}

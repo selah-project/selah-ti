@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ኣብ መከራኦም ናብ ያህዌህ በዓቑ፣ ካብ መከራታቶም ድማ ደናቖም።",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "በዓቑ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ኣብ መከራኦም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "ካብ መከራታቶም"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "ደናቖም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:08.974247317Z",
+  "model": "glm-5.3"
+}

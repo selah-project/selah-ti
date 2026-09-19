@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 47,
+  "translation": "ሽማግለታት ህዝብታት ምስ ህዝቢ ናይ ኣቭራሃም ኤሎሂም ተኣኻከሩ፤ ምኽንያቱ ጋሻታት ምድሪ ንኤሎሂም እየን፤ ብጣዕሚ ተዓርጸ።",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "ሽማግለታት"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ህዝብታት"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "ተኣኻከሩ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ናይ ኤሎሂም"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ንኤሎሂም"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ጋሻታት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "ተዓርጸ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:07.017609111Z",
+  "model": "glm-5.3"
+}

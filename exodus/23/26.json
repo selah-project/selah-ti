@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ዝሰትየን ዓብረቲን ኣብ ምድሪኻ ኣይትከውንን፣ ⟨את⟩ ቁጽሪ መዓልታትኻ እምላእ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ትኸውን"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "ዝሰትየ"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "ዓብረቲ"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ኣብ ምድሪኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቁጽሪ መዓልታትኻ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ቁጽሪ"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "መዓልታትኻ"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "እምላእ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:29:51.619620024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "«ከምኡ ኣይኮነን፤ ንሕጂ ንተባዕታት ኾንኩም ኪዱ፣ እሞ ⟨את⟩ ያህዌህ ኣገልግሉ፣ ምኽንያቱ ⟨את⟩ ንስኻቶም ኢኹም እተዝሓ቙»፤ በዚ እናተዓረየ ካብ ⟨את⟩ ገጽ ፓርዖ ተበገርዎም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ኪዱ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ንሕጂ"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "ንተባዕታት"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ኣገልግሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ንስኻቶም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ንስኻቶም"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "እተዝሓ቙"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "ተበገርዎም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ንሶም"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ካብ ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:18:45.280106478Z",
+  "model": "glm-5.3"
+}

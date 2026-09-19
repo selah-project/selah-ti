@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 17:5",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ዝሓቕነ ንድኻ ንዝፈጠሮ ይሓቕኖ፤ ኣብ ጥፍኣት ዝደሰተ ድማ ኣይረሕቕን።",
+  "tokens": [
+    {
+      "surface": "לעג",
+      "gloss": "ዝሓቕነ"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "ንድኻ"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ይሓቕኖ"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "ንዝፈጠሮ"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "ዝደሰተ"
+    },
+    {
+      "surface": "לאיד",
+      "gloss": "ኣብ ጥፍኣት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ረሕቕን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:50:52.071655423Z",
+  "model": "glm-5.3"
+}

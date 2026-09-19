@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ብቆርቡ ብቆርቡ ነፍሲ ወከፍ ሰብ ከም ብሉጡ እቲ ዝበልዖ ⟨את⟩ እቲ ሰብሩዎ፤ ጸሓይ ምስ ተቐለለት ድማ ወዲቑ።",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "ሰብሩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ማን"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ብቆርቡ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ብቆርቡ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ወከፍ ሰብ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ከም ብሉጡ"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "እቲ ዝበልዖ"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ምስ ተቐለለት"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ጸሓይ"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "ወዲቑ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:23:53.629074648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ከምኡውን እቲ ቤት ⟨את⟩ ድንጋያቱን ⟨את⟩ ኣዃንኡን ⟨את⟩ ኩሉ ሕልሚ እቲ ቤት ውዕቁር፤ ናብ ወጻኢ ከተማ፣ ናብ ኣርማ ቦታ ከውጽእ።",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "ውዕቁር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ቤት"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "እቲ ቤት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድንጋያቱ"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "ድንጋያቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣዃንኡ"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "ኣዃንኡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ሕልሚ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ሕልሚ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "እቲ ቤት"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "ከውጽእ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ወጻኢ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ኣርማ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:58:24.048860010Z",
+  "model": "glm-5.3"
+}

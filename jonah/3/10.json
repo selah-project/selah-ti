@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኤሎሂም ድማ ⟨את⟩ ተግባራቶም ረኣየ — ካብ እቲ ንጹቕ መገዲቶም ምስ ተመልሱ፣ ኤሎሂም ብቲ ንኣቶም ክገብር ዝተዛረቦ እቲ ንጹቕ ተቕረበ፣ ድማ ኣይገበሮን።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተግባራቶም"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ተግባራቶም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ተመልሱ"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "ካብ መገዲቶም"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "እቲ ንጹቕ"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ተቕረበ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "እቲ ንጹቕ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝተዛረቦ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ክገብር"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንኣቶም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:19:55.020957871Z",
+  "model": "glm-5.3"
+}

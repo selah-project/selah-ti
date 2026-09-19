@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "እቲ ኣብ ሓደ ካብ ኣገልጋልካ ⟨אתו⟩ እትተረኽብዎ ንሱ ይሞት፡ ንሕና'ውን ናብ ጎይታና ንኾኑ ኣገልጋሊ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "እቲ እትተረኽብዎ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "እትተረኽብዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ኣገልጋልካ"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "ካብ ኣገልጋልካ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ይሞት"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "'ውን"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "ንኾን"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ናብ ጎይታና"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "ኣገልጋሊ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:03:09.520274668Z",
+  "model": "glm-5.3"
+}

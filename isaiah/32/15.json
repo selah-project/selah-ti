@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ክሳብ መንፈስ ካብ ላዕሊ ክበዝሕበና፡ እቲ በረኻ ናብ ከርማል ክቐየር እዩ፡ እቲ ከርማም ድማ ከም ጥራይ ክቕመጥ እዩ።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "ክበዝሕበና"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ኣብራይና"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ካብ ላዕሊ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ክኸውን እዩ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "በረኻ"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "ናብ ከርማል"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "እቲ ከርማም ድማ"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "ከም ጥራይ"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ክቕመጥ እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:00:17.386387025Z",
+  "model": "glm-5.3"
+}

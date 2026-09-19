@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ያቅጣን ድማ ⟨את⟩ ኣልሞዳድን ⟨את⟩ ሸለፍን ⟨את⟩ ሕጸርማወትን ⟨את⟩ የራሕን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "ያቅጣን ድማ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣልሞዳድ"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "ኣልሞዳድ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሸለፍ"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "ሸለፍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሕጸርማወት"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "ሕጸርማወት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የራሕ"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "የራሕ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:25.713760225Z",
+  "model": "glm-5.3"
+}

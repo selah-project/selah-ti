@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ብኣረኣእያ ተዓር፣ ንኩሉ ⟨את⟩ ውጽኢት ዘርኢኻ እታ ካብ ማሕደር ዝወጽእት ዓመት መዓልቲ።",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ብኣረኣእያ"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "ተዓር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ውጽኢት"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ዘርኢኻ"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "ዝወጽእት"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ካብ ማሕደር"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "መዓልቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:35:35.876178520Z",
+  "model": "glm-5.3"
+}

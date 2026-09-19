@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ካብ ድምጺ እቲ ኣዕሪቕን እቲ ዝሽልልን፣ ስለ እቲ ተቓላሲን እቲ ኣቢሉ ተኸሲሱን።",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ካብ ድምጺ"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "እቲ ኣዕሪቕ"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "ንእቲ ዝሽልል"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ተቓላሲ"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "ኣቢሉ ተኸሲሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:11.318041966Z",
+  "model": "glm-5.3"
+}

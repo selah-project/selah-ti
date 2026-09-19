@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ብኡ ድማ ⟨את⟩ መኽደናት ናይ ኣፍ ድንኳን ስቓል፣ ⟨את⟩ መሠዊኽ ናሕሲ፣ ⟨את⟩ ማንከሪ ናሕሲ ናይኡ፣ ⟨את⟩ ኩሉ ኣታዊታት መሠዊኽ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ብኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መኽደናት"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "መኽደናት"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣፍ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ስቓል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መሠዊኽ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊኽ"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ናሕሲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ማንከሪ"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "ማንከሪ"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ናሕሲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ናይኡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ኣታዊታት"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊኽ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:41:53.791882762Z",
+  "model": "glm-5.3"
+}

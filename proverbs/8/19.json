@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 8:19",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣዊያይ ካብ ወርቂ ዝተጣበዓ ይበልጽ እዩ፤ ተራፋዕተይ ድማ ካብ ተመሪጽ ብርኒ ይበልጽ እዩ።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ይበልጽ እዩ"
+    },
+    {
+      "surface": "פריי",
+      "gloss": "ኣዊያይ"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "ወርቂ ዝተጣበዓ"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "ጽሩይ ወርቂን"
+    },
+    {
+      "surface": "ותבואתי",
+      "gloss": "ተራፋዕተይ ድማ"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "ብርኒ"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "ተመሪጽ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:45:09.081019409Z",
+  "model": "glm-5.3"
+}

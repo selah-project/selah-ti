@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 31:9",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ደቂ እስራኤል ⟨את⟩ ሴታት ሚድያንን ⟨את⟩ ንእሽቶኦምን ሓረሙ፤ ⟨את⟩ ኩሉ እንስሳቶምን ⟨את⟩ ኩሉ ከብቶምን ⟨את⟩ ኩሉ ሀብቶምን ድማ ኣወረዉ።",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ሓረሙ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ደቂ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሴታት ሚድያን"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "ሴታት"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ሚድያን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ንእሽቶኦም"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "ንእሽቶኦም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እንስሳቶም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "እንስሳቶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ከብቶም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מקנהם",
+      "gloss": "ከብቶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ሀብቶም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ሀብቶም"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "ኣወረዉ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:40:07.750637761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ውላድ ይሁዳ ምስ የሩሻላይም ተዓራረቡ፣ ሓረይዋ፣ ኣብ ኣፍ ሰይፊ ሰቒልዋ፣ ነቲ ከተማ ድማ በዓሲ ሰደዋ።",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "ተዓራረቡ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ምስ የሩሻላይም"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ሓረይዋ"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "የሩሻላይም"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "ሰቒልዋ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ኣብ ኣፍ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፊ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ከተማ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ሰደዋ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "በዓሲ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:33:52.155424924Z",
+  "model": "glm-5.3"
+}

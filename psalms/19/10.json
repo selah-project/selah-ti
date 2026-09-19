@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ፍርሃት ያህዌህ ንጹርት እያ፣ ናብ ዘለኣለም ተቐሚጣ፤ ፍርዲ ያህዌህ ሓቂ እዮም፣ ኵሎም ኣብ ሓደ ብጽድቒ ተጸድᑧም።",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ፍርሃት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "ንጹርት"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "ተቐሚጣ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ፍርዲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ሓቂ"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ተጸድᑧም"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ኣብ ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:04.732836432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ሕናንያ ነብዪ ድማ ⟨את⟩ ሓርማ ካብ ኣንገት ይርምያህ ነብዪ ወሲዱ ሰበሮ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "ሕናንያ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነብዪ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓርማ"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "ሓርማ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "ኣንገት"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "ይርምያህ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነብዪ"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "ሰበሮ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:52:37.760504216Z",
+  "model": "glm-5.3"
+}

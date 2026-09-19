@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 156,
+  "ref": "psalms 119:156",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ምሕረትኻ ብዙሓት እየን ያህዌህ፣ ብፍርዲኻ ኣሕውኒ።",
+  "tokens": [
+    {
+      "surface": "רחמיך",
+      "gloss": "ምሕረትኻ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כמשפטיך",
+      "gloss": "ብፍርዲኻ"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "ኣሕውኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:24.161371713Z",
+  "model": "glm-5.3"
+}

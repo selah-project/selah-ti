@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ናሕር ድማ ድሕሪ ምውላዱ ⟨את⟩ ተራሕ ዓሰርተ ዘጠም ዓመትን ሚእተ ዓመትን ነይሩ፣ ወዲታትን ጓላትን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ናሕር"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ምውላዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተራሕ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ተራሕ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ዘጠም"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ሚእተ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ወዲታት"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ጓላት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:37:10.257305792Z",
+  "model": "glm-5.3"
+}

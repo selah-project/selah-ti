@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ጸላእተይ ንዓይ ጕድኣት እዮም ዝብሉ፣ «መዓስ ኪሞትን ስሙ ኪጠፍእን፧»",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "ጸላእተይ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ይብሉ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ጕድኣት"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "መዓስ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ኪሞት"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ኪጠፍእን"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:13.537043243Z",
+  "model": "glm-5.3"
+}

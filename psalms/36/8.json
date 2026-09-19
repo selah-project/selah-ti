@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ሔሴድካ ኤሎሂም ከመይ ውዱዕ እዩ! ውላድ ሰብን ኣብ ጥላሕ ክንፊኻ ይሳብኡ እዮም።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ከመይ"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ውዱዕ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሔሴድካ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ውላድ…ን"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ኣብ ጥላሕ"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ክንፊኻ"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "ይሳብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:12.030197544Z",
+  "model": "glm-5.3"
+}

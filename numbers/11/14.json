@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኣነ ብዛዕበይ ⟨את⟩ ኩሉ እቲ ህዝቢ እዚ ክሸክል ኣይክእልን፤ ስለ ካበይ ከቢድ ኩቡ እዩ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ክእል"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ብዛዕበይ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ክሸክል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ከቢድ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ኩቡ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:24:00.028566898Z",
+  "model": "glm-5.3"
+}

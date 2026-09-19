@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ተቆጸር ⟨את⟩ ውላድ ሌዊ ብቤት ኣቦታቶም ብስድራቶም፤ ኩሉ ተባዕታይ ካብ ወርሒ ኮይኑ ንላዕሊ ተቆጸሮም።",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "ተቆጸር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ ሌዊ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ሌዊ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ብቤት"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ኣቦታቶም"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ብስድራቶም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ተባዕታይ"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "ካብ ወርሒ ኮይኑ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ወርሒ"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ንላዕሊ"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "ተቆጸሮም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:13:20.399356045Z",
+  "model": "glm-5.3"
+}

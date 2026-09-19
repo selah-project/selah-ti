@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ምኽንያቱ ኣሳርትኻ ኣብ ውሽጠይ ወረዱ፣ ኢድኻ ድማ ኣብ ልዕለይ ወረዳ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "ኣሳርትኻ"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "ወረዱ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ኣብ ውሽጠይ"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "ድማ ወረዳ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕለይ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:32.547987121Z",
+  "model": "glm-5.3"
+}

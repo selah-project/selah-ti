@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኻህን ድማ ይረኣየ፣ ኣሮ እቲ ስንጭሮ ኣብ ቆላዶ ተሰፊሑ ኣሎ፣ ኻህን ድማ ኣይቕድሕን ይብሎ — ጸረዓት እዩ።",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ይረኣየ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ኻህን"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣሮ"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "ተሰፊሑ ኣሎ"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "እቲ ስንጭሮ"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ኣብ ቆላዶ"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "ኣይቕድሕን ይብሎ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ኻህን"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ጸረዓት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:56:03.313035548Z",
+  "model": "glm-5.3"
+}

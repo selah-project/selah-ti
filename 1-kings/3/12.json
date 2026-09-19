@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 3:12",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እንሆ ብቓላትካ ገበርኩ፤ እንሆ ንስኻ ጥበብን ርድኣን ዝብል ልቢ ሃብኩ፤ ከም ኣንተ ኣብ ቅድምካ የለን ነይሩን፣ ኣብ ድሕሪኻ ድማ ከም ኣንተ ኣይተሓሕዝን።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ገበርኩ"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "ብቓላትካ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ሃብኩ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "ርድኣን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ከም ኣንተ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ኣብ ቅድምካ"
+    },
+    {
+      "surface": "ואחריך",
+      "gloss": "ኣብ ድሕሪኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ኣይተሓሕዝን"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ከም ኣንተ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:47:21.787307969Z",
+  "model": "glm-5.3"
+}

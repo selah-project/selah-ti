@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 24:22",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ከምኡውን ተዘክር ማይ እቲ ኣብ ምድሪ ሚጽራይም ባርያ ነይርካ፤ ስለዚ ኣነ ነዚ ⟨את⟩ እዚ ቃል ክትገብር ይኣዝዘካ እየ።",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "ከምኡውን ተዘክር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ባርያ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ነይርካ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ይኣዝዘካ እየ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ክትገብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እዚ ቃል"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "እዚ ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:03:29.891090796Z",
+  "model": "glm-5.3"
+}

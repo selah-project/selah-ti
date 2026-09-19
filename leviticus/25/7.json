@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ንእክትኻን ንእቲ ኣብ ምድሪኻ ዝነብር እንስሳን ብዝምሓሉ ኩሉ ዕድል ንምግቢ ክኸውን እዩ።",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "ንእክትኻ"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "ንእቲ እንስሳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ኣብ ምድሪኻ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ክኸውን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ዕድላኡ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ንምግቢ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:06:29.607788738Z",
+  "model": "glm-5.3"
+}

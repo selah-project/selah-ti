@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ዝኽሪ ጋዳላይ ናይ ኣፍራይም ⟨את⟩ ማዓሰያሁ ወዲ እቲ ንጉስ፣ ⟨את⟩ ዓዝርቃም ሃልያጢ እቲ ቤት፣ ⟨את⟩ ኤልቃና ካልኣይ ናብ እቲ ንጉስ ቐተለ።",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "ቐተለ"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "ዝኽሪ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ጋዳላይ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ናይ ኣፍራይም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማዓሰያሁ"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "ማዓሰያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓዝርቃም"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "ዓዝርቃም"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ሃልያጢ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "እቲ ቤት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኤልቃና"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ኤልቃና"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ካልኣይ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ናብ እቲ ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:15:40.032358168Z",
+  "model": "glm-5.3"
+}

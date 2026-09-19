@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ብብርድቲ ኣዕይነተይ ደኣለት፤ ብኩሉ ጠቃላተይ ድማ ሽመጠት።",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "ደኣለት"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "ብብርድቲ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ኣዕይነተይ"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "ሽመጠት"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብኩሉ"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ጠቃላተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:12.811147123Z",
+  "model": "glm-5.3"
+}

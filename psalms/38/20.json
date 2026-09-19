@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ተባዕታትን ህያዋትን ኣሻጊሮም፤ ዝጥሕሉኒ ድማ ብቓል ሓቂ ብዙሓት ኮይኖም ኣለዉ።",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "ዝጥሕሉኒ ድማ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ህያዋትን"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "ኣሻጊሮም"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ብዙሓት ኮይኖም ኣለዉ"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ዝቕንዑኒ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ብቓል ሓቂ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:04.534881223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 2:16",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ከምኡውን ኣብ ልዕሊ ኩሉ መርከባት ታርሺሽ፣ ከምኡውን ኣብ ልዕሊ ኩሉ ተዓለሻታት ኣዕይንቲ።",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ከምኡውን ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "መርከባት"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ታርሺሽ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ከምኡውን ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "שכיות",
+      "gloss": "ኣዕይንቲ"
+    },
+    {
+      "surface": "החמדה",
+      "gloss": "ተዓለሻታት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:38:45.429040560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 27:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ሮብቃ ድማ ይጽሓቅ ንወዲኡ ዓሳው ኣብ ዝዛረቦ እናሰምዐት ዓሳው ናብ ⟨እቲ⟩ በዓዲ ከደ እኳ ድማ ወፍጭ ንኽብድእ ወዲኣታት ከደ።",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "ሮብቃ ድማ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "እናሰምዐት ዘላ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ኣብ ዝዛረቦ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይጽሓቅ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዓሳው"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዓሳው"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ናብ ⟨እቲ⟩ በዓዲ"
+    },
+    {
+      "surface": "לצוד",
+      "gloss": "ንኽወፍጭ"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "ወፍጭ ወዲኣታት"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ንኽብድእ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:47:23.063160521Z",
+  "model": "glm-5.3"
+}

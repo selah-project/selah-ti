@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኖኅ ድማ ሰብ እርሻ ጀመረ፣ ወይራ ድማ ተከለ።",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ጀመረ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖኅ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "እርሻ"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "ተከለ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ወይራ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:33:42.449402815Z",
+  "model": "glm-5.3"
+}

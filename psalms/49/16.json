@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "እሞ ኤሎሂም ነፍሰይ ካብ ኢድ ሽኦል ይድሕን፤ ምኽንያቱ ይቕበለኒ ⟨እዩ⟩። ስላ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ይድሕን"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሽኦል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "ይቕበለኒ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስላ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:00:14.272899907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "እቲ ህዝቢ ድማ ንደረቕ ንኽትክልሉ ጐምዓ ንኽሓዙ ብመላእ ምድሪ ሚጽራይም ተበታተነ።",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "ተበታተነ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብመላእ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "ንኽሓዙ"
+    },
+    {
+      "surface": "קש",
+      "gloss": "ጐምዓ"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "ንኽትክልሉ ደረቕ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:12:27.437091240Z",
+  "model": "glm-5.3"
+}

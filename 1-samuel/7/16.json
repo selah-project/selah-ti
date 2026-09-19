@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ከውን ብዓመት ካብ ዓመት ብዙርባው ቤት ኤልን ግልገልን ምጽጳን ይዘርብ፣ ⟨את⟩ እስራኤል ድማ ⟨את⟩ ኩሉ እዚኦም ቦታታት ፈረደ።",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "ይዘርብ"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ብዓመት"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "ብዙርባው"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "ግልገልን"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "ምጽጳን"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ፈረደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እዚኦም ቦታታት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "ቦታታት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:40:16.549012144Z",
+  "model": "glm-5.3"
+}

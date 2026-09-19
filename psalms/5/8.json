@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣነ ግና ብብዝሒ ሔሴድካ ናብ ቤትካ ክኣትወ እየ፤ ብፍርሃትካ ድማ ናብ ቅዱስ ማሕደርካ እናሰገድኩ እየ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ግና"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ብብዝሒ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሔሴድካ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ክኣትወ እየ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ቤትካ"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "እናሰገድኩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ቅዱስ…ካ"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "ብፍርሃትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:00:05.803742393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 56,
+  "translation": "ኣብቲ መዓልቲ እተፈርሕኩ፣ ኣነ ኣብ ንስኻ እኣመን።",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "እተፈርሕኩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ኣብ ንስኻ"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "እኣመን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:08.131557223Z",
+  "model": "glm-5.3"
+}

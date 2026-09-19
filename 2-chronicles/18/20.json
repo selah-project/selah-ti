@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 18:20",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "እቲ መንፈስ ድማ ወጺኡ ቅድሚ ያህዌህ ቆም፤ «ኣነ እኣተቓልሎ» በለ። ያህዌህ ድማ ነቲ በሎ፦ «ብእንታይ፧»",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጺኡ"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "እቲ መንፈስ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ቆም"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "እኣተቓልሎ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ናብኡ"
+    },
+    {
+      "surface": "במה",
+      "gloss": "ብእንታይ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:05:52.805424239Z",
+  "model": "glm-5.3"
+}

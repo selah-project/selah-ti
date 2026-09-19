@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኩሉ ጸላእተይ ይሕፉሩን ብጣዕሚ ይደንጉፍን፣ ይመልሱ፣ ኣብ ሓደ ረቢዕ ይሕፉሩ።",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ይሕፉሩ"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "ይደንጉፍን"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ጸላእተይ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ይመልሱ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ይሕፉሩ"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "ኣብ ሓደ ረቢዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:40:45.030458491Z",
+  "model": "glm-5.3"
+}

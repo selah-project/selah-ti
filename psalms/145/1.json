@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 145,
+  "translation": "ትሕላፍ ናይ ዳዊድ። ኤሎሃይ እቲ ንጉስ ኣረምዖኻ እየ፣ ስምኻውን ናብ ዘለኣለምን ክሳብ ዘለኣለምን እባርክ።",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "ትሕላፍ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ኣረምዖኻ እየ"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "ኤሎሃይ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "ውን እባርክ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምኻ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለምን"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ ዘለኣለምን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:59.909903273Z",
+  "model": "glm-5.3"
+}

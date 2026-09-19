@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 28:25",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ድማ ብቅድሚ ሻኡልን ብቅድሚ ኣገልጋዪቱን ኣቕረበቶም፣ ምስ በልዑ ተነሽጡ ኣብቲ ለይቲ እቲ ከዱ።",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "ኣቕረበቶም"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ብቅድሚ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ብቅድሚ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ኣገልጋዪቱ"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "በልዑ"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "ተነሽጡ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ከዱ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ኣብቲ ለይቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:15:35.220127225Z",
+  "model": "glm-5.3"
+}

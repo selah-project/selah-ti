@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 111,
+  "translation": "ንዝኽእሉ ኣብ መግቢ ሃበ፤ ኪዳኑ ናብ ዘለኣለም የዘንብ።",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "መግቢ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ንዝኽእሉ"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "የዘንብ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ኪዳኑ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:10.205179317Z",
+  "model": "glm-5.3"
+}

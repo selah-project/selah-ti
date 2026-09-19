@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 102,
+  "translation": "ምኽንያቱ ኣፍራስ ከም እኽሊ በልዐኹ፣ ምስለይ ድማ ብእብኣት ተሓባበርኹ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "ኣፍራስ"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "ከም እኽሊ"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "በልዐኹ"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "ምስለይ ድማ"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ብእብኣት"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "ተሓባበርኹ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:23.049130621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 115,
+  "translation": "ኣእዳው ኣሎዎም፣ ኣይተንክፉን፤ ኣንጭዋ ኣሎዎም፣ ኣይኼዱን፤ ብጭሕላኦም ኣይሓብሩን።",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "ኣእዳው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "ተንክፉ"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ኣንጭዋ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ኼዱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "ሓብሩ"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "ብጭሕላኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:13.070900182Z",
+  "model": "glm-5.3"
+}

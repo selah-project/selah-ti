@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 63,
+  "translation": "ነፍሲ ንኣኻ ተሰሪዓ እያ፤ የማን ኢድኻ ብዓና ተደገለት እዩ።",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "ተሰሪዓ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ንኣኻ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ብዓና"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "ተደገለት"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "የማን ኢድኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:24.596688145Z",
+  "model": "glm-5.3"
+}

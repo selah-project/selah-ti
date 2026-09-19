@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 4:20",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ጥፍኣት ኣብ ልዕሊ ጥፍኣት ተጸወዐ፤ ምኽንያቱ ኩሉ ምድሪ ተዓቂባ እያ፤ ብድንጋይ ድሮኣተይ ተዓቕየ እየን፣ ኣብ ንእሽቲ እዋን ብራንዲተይ።",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ጥፍኣት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ጥፍኣት"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "ተጸወዐ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "ተዓቂባ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ብድንጋይ"
+    },
+    {
+      "surface": "שדדו",
+      "gloss": "ተዓቕየ"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "ድሮኣተይ"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "ኣብ ንእሽቲ እዋን"
+    },
+    {
+      "surface": "יריעתי",
+      "gloss": "ብራንዲተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:32:17.879116565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ዓቢ ክብሪ ኣብ መድሓኒትካ እዩ፤ ጽቡቕ ቅጥሪን ውዑይነትን ኣብ ላዕሊኡ ተኣማሚን እዩ።",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "ኣብ መድሓኒትካ"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "ጽቡቕ ቅጥሪ"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ውዑይነት"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "ተኣማሚን እዩ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ላዕሊኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:19.934170516Z",
+  "model": "glm-5.3"
+}

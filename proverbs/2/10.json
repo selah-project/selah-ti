@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ምኽንያቱ ንጥለት ኣብ ልብካ ትኣቱ፣ እውን ካብ ነፍስካ ኽኣ ውልቀት ትደልያ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ትኣቱ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ንጥለት"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "ኣብ ልብካ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "እውን ውልቀት"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "ካብ ነፍስካ"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "ትደልያ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:58.124422968Z",
+  "model": "glm-5.3"
+}

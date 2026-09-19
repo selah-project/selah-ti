@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 97,
+  "translation": "ጽዮን ሰምዐትን ተዓወተትን፣ ኣሕትቲ ይሁዳ ድማ ብፍርዲታትኻ ያህዌህ ተዓወታ።",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "ሰምዐት"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "ተዓወተት"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "ተዓወታ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ኣሕትቲ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ብ-"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ፍርዲታትኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:20.564428260Z",
+  "model": "glm-5.3"
+}

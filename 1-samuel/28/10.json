@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 28:10",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ሻኡል ድማ ንኣኺ ብያህዌህ በዓለ እናበለ፦ ንያህዌህ እቲ ህያው እዩ፤ ኣብ እዚ ነገር እዚ ዓበይቲ ኣይትረኽብን እዩ።",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "በዓለ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ንኣኺ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ብያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ህያው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "יקרך",
+      "gloss": "እትረኽብያ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ዓበይቲ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ኣብ ነገር"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:16:41.112863949Z",
+  "model": "glm-5.3"
+}

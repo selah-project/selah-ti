@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እቲ ሰብ ድማ በለ፦ «እታ ሰበይቲ ኣብ ጎንደይ እትትሃበኒ ኣታይ እያ — ካብቲ ⟨the⟩ ኦም ሃቐተኒ፤ ኣነ ድማ በልዐኩ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "እታ ሰበይቲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እት"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ሃበኒ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ኣብ ጎንደይ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ኣታይ እያ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ሃቐተኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ነይ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ነቲ ኦም"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "በልዐኩ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:29:42.996100641Z",
+  "model": "glm-5.3"
+}

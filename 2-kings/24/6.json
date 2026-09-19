@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 24:6",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "የሆይቃም ምስ ኣቦታቱ ተኣኽበ፣ የሆይቃን ወዱ ድማ ኣብ ቦታኡ ነገሠ።",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ተኣኽበ"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "የሆይቃም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ኣቦታቱ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "የሆይቃን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዱ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ኣብ ቦታኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:40:38.464057676Z",
+  "model": "glm-5.3"
+}

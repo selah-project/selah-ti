@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ቃሉ ለኣኾ፣ ሓካሞም፣ ካብ ምሕደሮም ድማ ኣውጽኦም።",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ለኣኾ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ቃሉ"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "ሓካሞም"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ኣውጽኦም"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "ካብ ምሕደሮም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:05.912502006Z",
+  "model": "glm-5.3"
+}

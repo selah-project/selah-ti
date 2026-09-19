@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 103,
+  "translation": "ያህዌህ ጽድቂታትን ፍርዲታትን ንኩሉ ተሳቐይቲ ይገብር።",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ይገብር"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ጽድቂታት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ፍርዲታትን"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "ተሳቐይቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:19.916816820Z",
+  "model": "glm-5.3"
+}

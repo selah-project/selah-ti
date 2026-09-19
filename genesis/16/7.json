@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "መልኣኽ ያህዌህ ድማ ኣብ ምንጪ ማይ ኣብ ምድረ በረኻ፣ ኣብ እቲ ምንጪ ኣብ መገዲ ሽኦር፣ ተረኺባ።",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "ተረኺባ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "መልኣኽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ምንጪ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድረ በረኻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "העין",
+      "gloss": "እቲ ምንጪ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መገዲ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ሽኦር"
+    }
+  ],
+  "timestamp": "2026-09-18T20:40:47.922141996Z",
+  "model": "glm-5.3"
+}

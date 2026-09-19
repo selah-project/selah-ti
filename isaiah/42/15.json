@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ኣውድፍ እየ ክርሶትን ከረባትን፣ ኵሉ ሽግርን ድማ ኣድሕርፍዎ፤ ቈላታት ናብ ደሴታት ክኸውን ኣቐምጠሉን ኣድሕርን እየ።",
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "ኣውድፍ እየ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ክርሶት"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "ከረባትን"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኵሉ"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "ሽግርን"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "ኣድሕርፍዎ"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "ኣቐምጠሉን"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ቈላታት"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "ናብ ደሴታት"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "ኣድሕርን"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:10:42.053550492Z",
+  "model": "glm-5.3"
+}

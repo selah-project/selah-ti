@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 74,
+  "translation": "መዓልቲ ናይካ እዩ፣ ከምኡውን ለይቲ ናይካ እያ፤ ኣትኻ ብርሃንን ጸሓይን ኣዳለውካ።",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ናይካ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ናይካ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ለይቲ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኣትኻ"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "ኣዳለውካ"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "ጸሓይን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:34.608362510Z",
+  "model": "glm-5.3"
+}

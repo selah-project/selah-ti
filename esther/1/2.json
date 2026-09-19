@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣብቶም መዓልታት፣ እቲ ንጉሥ ኣኻሽወሮሽ ኣብ ዙፋን ንግስነቱ ምስ ተቐመጠ — እቲ ኣብ ሽሽን ⟨እታ ጸንቢቕ⟩ ዘሎ።",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "ኣብቶም መዓልታት"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "ምስ ተቐመጠ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉሥ"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "ኣኻሽወሮሽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ዙፋን"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ንግስነቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዘሎ"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "ኣብ ሽሽን"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "ጸንቢቕ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:48:30.139822069Z",
+  "model": "glm-5.3"
+}

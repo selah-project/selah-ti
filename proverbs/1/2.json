@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ጥበብን ትምህርትን ንምፍልጠት፣ ቃላት ምርዳእ ንምሕላው፤",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "ንምፍልጠት"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "ትምህርትን"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "ንምሕላው"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ምርዳእ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:37.671892033Z",
+  "model": "glm-5.3"
+}

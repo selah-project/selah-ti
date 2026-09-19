@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ዳዊድ ድማ ⟨את⟩ ሞዓብ ሰቐረ፤ ሞዓብ ድማ ኣገልገልቲ ዳዊድ ኮይኖም ውህበት ይወሃቡ ነበሩ።",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ሰቐረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞዓብ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ኮይኖም"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ኣገልገልቲ"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ንዳዊድ"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ዝወሃቡ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ውህበት"
+    }
+  ],
+  "timestamp": "2026-09-19T09:11:06.586698263Z",
+  "model": "glm-5.3"
+}

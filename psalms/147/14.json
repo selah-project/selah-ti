@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 147,
+  "translation": "እቲ ሰላም ኣብ ድንበይትኻ ዝገብር፣ ብስብሒ እኽሊ የምልእካ።",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "እቲ ዝገብር"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "ድንበይትኻ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ስብሒ"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "የምልእካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:21.217654533Z",
+  "model": "glm-5.3"
+}

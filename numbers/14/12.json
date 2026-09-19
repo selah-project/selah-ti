@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ብወፈያ ኣበይቦም፣ ኣባሪየም ድማ፣ ነኣስርካ ⟨את⟩ ኣቢሉ ካብኣቶም ዓብይን ሓያልን ዝኾነ ሕዝቢ እገብረካ።",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "ኣበይቦም"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ብወፈያ"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "ኣባሪየም ድማ"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "እገብረካ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ነኣስርካ ⟨את⟩",
+      "marks": "ሕዝቢ"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓብይ"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "ሓያልን"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኣቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:22:55.077419509Z",
+  "model": "glm-5.3"
+}

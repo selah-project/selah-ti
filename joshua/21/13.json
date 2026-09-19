@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ንውላድ ኣሃርን እቲ ካህን ⟨את⟩ ከተማ መደበቂ ንዝቐተለ ⟨את⟩ ኽብሮንን ⟨את⟩ እርማድኣን ⟨את⟩ ሊብናን ⟨את⟩ እርማድኣን ሃቡ።",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃርን"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ካህን"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ሃቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተማ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "መደበቂ"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ንዝቐተለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኽብሮን"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ኽብሮን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እርማድኣ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "እርማድኣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሊብና"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ሊብና"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እርማድኣ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "እርማድኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:30:42.260737867Z",
+  "model": "glm-5.3"
+}

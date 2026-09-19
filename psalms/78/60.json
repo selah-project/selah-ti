@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ማሕደር ሺሎ ጥፍኣ፣ ኣብ ሰብ ዝተቐመጠሉ ውዕልቲ።",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "ጥፍኣ"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "ሺሎ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ውዕልቲ"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ዝተቐመጠሉ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ኣብ ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:26.278937552Z",
+  "model": "glm-5.3"
+}

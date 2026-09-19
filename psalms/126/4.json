@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 126,
+  "translation": "ያህዌህ ሆሻ፣ ⟨את⟩ ምምላስና ከም ተሓባባር ብገበራ ንምለሶ።",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "ንምለሶ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምምላስና"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "ምምላስና"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "ከም ተሓባባር"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "ብገበራ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:23.333271488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ነዚኦም ኣብ ማሕደር ኣፍሓቕ ቤትካን ኣብ ኣእታትካን ክትጻሕፎም ኢኻ።",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "ክትጻሕፎም ኢኻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "ማሕደር ኣፍሓቕ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ቤትካ"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "ኣብ ኣእታትካ እውን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:53:28.263127957Z",
+  "model": "glm-5.3"
+}

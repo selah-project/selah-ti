@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ልቢ ፓርዖ ከኣ ኰይኑ ኰነነ፣ ወዲ እስራኤል ከኣ ከም ዝበሎ ያህዌህ ብኢድ ሞሸ ⟨את⟩ ኣይሰደደን።",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ኰነነ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ሰደደን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወዲ እስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም ዝበሎ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:16:03.267049459Z",
+  "model": "glm-5.3"
+}

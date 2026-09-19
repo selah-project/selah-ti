@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 4:21",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ወሲዱ ኮይና ነቲ ወዲ ኣብ መንገዱ እቲ ሰብ ኤሎሂም ኣትርያቶ ፣ ኣብ ስድራ ⟨ዓቂባ⟩ ኮይና ተወጽኣ።",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "ወሲዱ ኮይና"
+    },
+    {
+      "surface": "ותשכבהו",
+      "gloss": "ነቲ ወዲ ኣትርያቶ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "መንገዱ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "ኣዕቂባ ኮይና"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ኣብ ስድራ"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "ተወጽኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:43:59.524513582Z",
+  "model": "glm-5.3"
+}

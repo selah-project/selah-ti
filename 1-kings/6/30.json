@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ከምኡውን ⟨את⟩ መሬት እቲ ቤት በዓሓ ወርቂ ኣብ ውሽጢን ንደገን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መሬት እቲ ቤት"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "መሬት"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "እቲ ቤት"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "በዓሓ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "ኣብ ውሽጢ"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "ንደገ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:51:24.367521677Z",
+  "model": "glm-5.3"
+}

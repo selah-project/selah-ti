@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣተየ ድማ፣ ነቲ ጎይታኡ ከምዚ ኢሉ ኣፍለጠ፦ «ከምዚኦምን ከምዚኦምን ተዛረበት እታ ጓል እታ ካብ ምድሪ ይስራኤል ዝኾነት»።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ኣተየ ድማ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ኣፍለጠ"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "ነቲ ጎይታኡ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ከምዚ ኢሉ"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "ከምዚኦምን"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "ከምዚኦምን"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "ተዛረበት"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "እታ ጓል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T01:18:30.028552459Z",
+  "model": "glm-5.3"
+}

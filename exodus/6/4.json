@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ከምኡውን ኪዳንይ ምስ ኣቆምጦ፣ ነቶም ⟨את⟩ ምድሪ ከነዓን፣ ⟨את⟩ ምድሪ ውሽጦም እቶም ኣብኣ እተባዕየሉ ክኃቦም።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "ኣቆምጦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኪዳንይ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳንይ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ምስ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ክኃቦም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ ከነዓን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዓን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ ውሽጦም"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "ውሽጦም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "እተባዕየሉ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:14:16.209676010Z",
+  "model": "glm-5.3"
+}

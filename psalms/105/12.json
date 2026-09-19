@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ሰባት ብውሱን ምስ ኰኑ፣ ንእሽቶ ዝወደኡን ኣብኣ መጓዓዝቲ ምስ ኰኑ።",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "ምስ ኰኑ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ብውሱን"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ንእሽቶ"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "መጓዓዝቲ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:12.195873981Z",
+  "model": "glm-5.3"
+}

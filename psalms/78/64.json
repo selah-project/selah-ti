@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ካህናቱ ብሰይፊ ወደቑ፣ ሃብተቤታቱ ድማ ኣይበኸየን።",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "ካህናቱ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ብሰይፊ"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ወደቑ"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "ሃብተቤታቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "በኸየ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:48.046999885Z",
+  "model": "glm-5.3"
+}

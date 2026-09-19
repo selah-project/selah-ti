@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ንሱ ድማ ሰባት ናብኡ ኣካበቶ፣ እቶም ብዳዊድ እናተቐተሉ ⟨את⟩ እቶም ኣሉታይ ጋንታ ኮነ፤ ናብ ደማስቆ ከዱ፣ ኣብኣ ተቐመጡ፣ ኣብ ደማስቆ ድማ ነገሱ።",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "ኣካበቶ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ናብኡ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ኣሉታይ"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "ጋንታ"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "እናተቐተሉ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ከዱ"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ደማስቆ"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ተቐመጡ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኣ"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ነገሱ"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "ኣብ ደማስቆ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:59:41.407425657Z",
+  "model": "glm-5.3"
+}

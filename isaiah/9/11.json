@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣራም ካብ ቅድሚ፣ ፍልስጤምታት ካብ ኣኽሪ፣ ⟨את⟩ እስራኤል ብሙሉእ ኣፍ ድማ በላዕዎ። ብኩሉ እዚ ቍጣኡ ኣይተመለሰን፣ ኢዱ ድማ ንጹሕ ተወርዲያ ኣላ።",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ካብ ቅድሚ"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ፍልስጤምታት"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "ካብ ኣኽሪ"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "በላዕዎ ድማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብሙሉእ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ኣፍ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብኩሉ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ተመለሰን"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ቍጣኡ"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ተወርዲያ ኣላ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:48:08.183354886Z",
+  "model": "glm-5.3"
+}

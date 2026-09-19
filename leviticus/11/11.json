@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "«ስንኣትን ክኾኑ እዮም ንዓኻትኩም፤ ካብ ስጋኦም ክትብሉ ኣይክእሉን፣ ⟨את⟩ ኣካል ናይ ሞቶም ከኣ ተስንእዉ።»",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "ስንኣትን"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ክኾኑ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንዓኻትኩም"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "ካብ ስጋኦም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ብሉ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣካል ናይ ሞቶም"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "ኣካል ናይ ሞቶም"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "ተስንእዉ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:52:18.316350247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ስለ ንሳኻ ኩሉ መዓልቲ ተቐተልና፤ ከም ጠበር ንውራዲ ተቆጠርና።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ ንሳኻ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ስለ ንስኻ"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "ተቐተልና"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "ተቆጠርና"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ከም ጠበር"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "ንውራዲ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:27.737696616Z",
+  "model": "glm-5.3"
+}

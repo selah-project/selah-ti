@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ያህዌህ ⟨את⟩ ምስ ይሁዳ ነይሩ፤ ⟨את⟩ ነቲ ከርቢ ወረሳ፣ ነቶም ኣብ ለቢስ ዝነብሩ ግን ንምንጻይ ኣይከእሎምን ነይሩ፣ ስለ ዝነበሮም ብረታዊ ዓጋት።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ምስ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "ወረሳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከርቢ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ከርቢ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "ንምንጻይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝነብሩ ኣብ ለቢስ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ዝነብሩ"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "ለቢስ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ዓጋት"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ብረት"
+    },
+    {
+      "surface": "להם",
+      "gloss": "እዮም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:34:15.624224178Z",
+  "model": "glm-5.3"
+}

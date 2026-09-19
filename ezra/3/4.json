@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "በዓል ሱኮት ⟨את⟩ ከም ተጻሒፉ ገበሩ፣ ወፈያ ናይ መዓልቲ ኣብ የለዓዓ ብቑጽር፣ ከም ስርዓት፣ ዕላል ናይ መዓልቲ ኣብ መዓልቱ ወሰኽዎም።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በዓል"
+    },
+    {
+      "surface": "חג",
+      "gloss": "በዓል"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "ሱኮት"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "ከም ተጻሒፉ"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ናይ መዓልቲ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ የለዓዓ"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ብቑጽር"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ከም ስርዓት"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዕላል"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ናይ መዓልቲ"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "ኣብ መዓልቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:08:11.436931802Z",
+  "model": "glm-5.3"
+}

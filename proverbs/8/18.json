@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ሃብቲን ክብሪን ⟨את⟩ ምስ ኣነ ኣለውን፤ ብሉጽ ዘለኣለማዊ ንብርን ጽድቂን።",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ሃብቲ"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ክብሪን"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ምስ ኣነ",
+      "marks": "ምስ ኣነ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ብሉጽ ንብር"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "ዘለኣለማዊ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ጽድቂን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:45:09.080716413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 5:1",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "እዚ ሰምዑ ኣኻትኩም ካህናት፣ ኣሰምዑ ስድራ እስራኤል፣ ኣውኑ ስድራ እቲ ንጉስ፣ ብሓቂ ነይሩ ፍርዲ፣ ስለ ማዕጾ ኣብ ምጽጳ ነይርኩም፣ መርማረ ዝተሓወሸ ኣብ ልዕሊ ታቦር።",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ሰምዑ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "ኣሰምዑ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ስዓራ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ስዓራ…ን"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "ኣውኑ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ብሓቂ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ፍርዲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ማዕጾ"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ነይርኩም"
+    },
+    {
+      "surface": "למצפה",
+      "gloss": "ኣብ ምጽጳ"
+    },
+    {
+      "surface": "ורשת",
+      "gloss": "መርማረ…ን"
+    },
+    {
+      "surface": "פרושה",
+      "gloss": "ዝተሓወሸ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "ታቦር"
+    }
+  ],
+  "timestamp": "2026-09-19T04:07:59.986607723Z",
+  "model": "glm-5.3"
+}

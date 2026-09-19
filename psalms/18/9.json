@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ትንኽሊ ኣብ ኣፉኡ ወጻዓ ተወልዑ፣ ሓዊ ድማ ካብ ኣፉ ዝበልዕ እዩ፤ ረጋዳት ካብኡ ተነድያ።",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "ተወልዑ"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ትንኽሊ"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ኣብ ኣፉኡ"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ከምኡውን ሓዊ"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "ካብ ኣፉ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ዝበልዕ እዩ"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "ረጋዳት"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "ተነድያ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:03.814839840Z",
+  "model": "glm-5.3"
+}

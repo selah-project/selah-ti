@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ንሱ ድማ ደግማይ ⟨את⟩ ኣብነር ቓል ክመልሶ ኣይኰነን፣ ስለ ምፍራሑ ⟨ኢዩ⟩ ንኡ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ድማ ኣይኰነን"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "ኣይክእልን"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደግማይ"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "ክመልሶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብነር"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ኣብነር"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "ስለ ምፍራሑ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T00:21:33.437240847Z",
+  "model": "glm-5.3"
+}

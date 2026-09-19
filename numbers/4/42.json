@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ከምኡውን እተቐጸሩ ካብ ስድራታት ውላድ ምራሪ፣ ብስድረታቶም፣ ብዓይላት ኣቦታቶም።",
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "ከምኡውን እተቐጸሩ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ስድራታት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ምራሪ"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ብስዓድረታቶም"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ብዓይላት"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ኣቦታቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:13:43.460021211Z",
+  "model": "glm-5.3"
+}

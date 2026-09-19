@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "እቲ ህዝቢ ኣመነ፤ ያህዌህ ⟨את⟩ ውላድ እስራኤል ምስ ረኣየ፣ ድሕሪ ምስ ሰምዑ እውን ስቓይኦም ⟨את⟩ ምስ ረኣየ፣ ኣንቀልበሉ፣ ሰገዱን ኣንቀልበሉን።",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "ኣመነ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ምስ ሰምዑ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ እስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "እውን ምስ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስቓይኦም"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "ስቓይኦም"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "ኣንቀልበሉ"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ሰገዱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:13:39.684010264Z",
+  "model": "glm-5.3"
+}

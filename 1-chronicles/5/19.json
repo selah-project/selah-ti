@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 5:19",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ምስ ሓገርያውያን ወይ ምስ ይቱርን ናፊሽን ኖዳብን ቃልሲ ገበሩ።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ቃልሲ ገበሩ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ቃልሲ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "ההגריאים",
+      "gloss": "ሓገርያውያን"
+    },
+    {
+      "surface": "ויטור",
+      "gloss": "ወይ ይቱር"
+    },
+    {
+      "surface": "ונפיש",
+      "gloss": "ናፊሽ"
+    },
+    {
+      "surface": "ונודב",
+      "gloss": "ኖዳብ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:33:01.751581940Z",
+  "model": "glm-5.3"
+}

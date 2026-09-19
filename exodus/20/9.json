@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ሽድስተ መዓልታት ትጽሕብን ኩሉ ኣሠራርካ ትገብርን።",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ሽድስተ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ትጽሕብ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "እናተኸውን ትገብር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "ኣሠራርካ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:25:27.340804610Z",
+  "model": "glm-5.3"
+}

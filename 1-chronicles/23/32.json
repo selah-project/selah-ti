@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ድማ ተኺሮም ⟨את⟩ ጥንቃቐ ድንቆል ኣኼባን ⟨ואת⟩ ጥንቃቐ ቅዱስን፣ ንጥንቃቐ ውላድ ኣሃሮን ሓዎም፣ ንኣገልግሎት ቤት ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "ተኺሮም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጥንቃቐ ድንቆል ኣኼባ"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ጥንቃቐ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንቆል"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ኣኼባ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጥንቃቐ ቅዱስ"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ጥንቃቐ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "ንጥንቃቐ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ሓዎም"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "ንኣገልግሎት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:49:53.477815151Z",
+  "model": "glm-5.3"
+}

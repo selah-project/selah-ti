@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ድማ ⟨את⟩ ታቦት ያህዌህ ኣብ እታ ዓጃ መሓይሾም፤ ⟨ואת⟩ ታ ታሕቲ፣ ⟨ואת⟩ ታቶም ተሓንቲ ወርቒ፣ ⟨ואת⟩ ታቶም ቅርጺ ኣፍልቶም።",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "መሓይሾም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦት ያህዌህ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "እታ ዓጃ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ታ ታሕቲ"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "ታ ታሕቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ተሓንቲ ወርቒ"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "ተሓንቲ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ወርቒ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቅርጺ ኣፍልቶም"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "ቅርጺ"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "ኣፍልቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:00:17.674016813Z",
+  "model": "glm-5.3"
+}

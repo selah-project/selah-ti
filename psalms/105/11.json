@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "«ንስኻ ⟨את⟩ ምድሪ ከነዓን፣ ናይ ውርሻኹም ሕብሊ እወሃበካ» እናበለ።",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "እወሃበካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ ከነዓን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዓን"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ሕብሊ"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "ውርሻኹም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:12.195586701Z",
+  "model": "glm-5.3"
+}

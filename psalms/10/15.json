@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "እጓር ናይ እቲ ክፉእን ኣጥፋኢን ስቓትዮ፤ ነቲ ክፉእ እኳ ኣይትረኽቦን።",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ስቓትዮ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "እጓር"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ንኣጥፋኢ"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "ትደልይ"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "ነቲ ክፉእ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ትረኽብ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:56.644145597Z",
+  "model": "glm-5.3"
+}

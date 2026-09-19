@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኵሉ ሰብ ይስራኤል ኣብ ወርሒ ኣይታኒም፣ ኣብ እቲ በዓል — ንሱ እቲ ሸውዓተይ ወርሒ — ናብ እቲ ንጉስ ሽሎሞ ተኣኻኺቦም።",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "ተኣኻኺቦም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኵሉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "ኣብ ወርሒ"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "ኣይታኒም"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "ኣብ እቲ በዓል"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "እቲ ወርሒ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ሸውዓተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:54:36.596285373Z",
+  "model": "glm-5.3"
+}

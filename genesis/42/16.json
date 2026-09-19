@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ሓደ ካብኹም ሰዱ፣ ነቲ ሓውኹም ⟨את⟩ ኪማጽእ፤ ንስኻትኩም ተኣሱ፣ ቃላትኩም ሓቂ ⟨את⟩ ምስኹም ⟨ደሊ⟩ ንድሕሪት ክትፍተን፤ እንተ ዘይኮነ ድማ — ፓርዖ ንቐትሊ — ሰላሊት ኢኹም።",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "ሰዱ"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ካብኹም"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ኪማጽእ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ሓውኹም"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ሓውኹም"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ንስኻትኩም"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "ተኣሱ"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "ክትፍተን"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "ቃላትኩም"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "ሓቂ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ምስኹም"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ድማ እንተ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይኮነ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ንቐትሊ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ ከምኡ"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ሰላሊት"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ኢኹም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:03:33.807269835Z",
+  "model": "glm-5.3"
+}

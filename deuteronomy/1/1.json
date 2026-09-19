@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 1:1",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "እዚኦም እቶም ቃላት እዮም እቶም ሞሸ ንኹሎም እስራኤል ኣብ ንግዳዊ ዓዲ ዮርዳኖስ ዝተዛረብዎም፣ ኣብ ምድረ በዳ፣ ኣብ ዓረባ፣ ኣብ ቅድሚ ጽውኢ፣ ኣብ መንጎ ፓራንን ኣብ መንጎ ቶፌልን ላባንን ሓጸሮትን ዲ-ዛሃብን።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝተዛረብዎም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሎም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ኣብ ንግዳዊ ዓዲ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድረ በዳ"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "ኣብ ዓረባ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ጽውኢ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "ፓራን"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ኣብ መንጎ…ን"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "ቶፌል"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "ላባን"
+    },
+    {
+      "surface": "וחצרת",
+      "gloss": "ሓጸሮትን"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "ዲ-"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ዛሃብ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:46:57.693022094Z",
+  "model": "glm-5.3"
+}

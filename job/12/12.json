@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 12:12",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ብዝበሉ ጥበብ ኣላ፣ ብኩሉ ብዝደመዐ መዓልታት ድማ ምርዒ ኣላ።",
+  "tokens": [
+    {
+      "surface": "בישישים",
+      "gloss": "ብዝበሉ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "ብኩሉ ብዝደመዐ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ምርዒ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:07:10.164803007Z",
+  "model": "glm-5.3"
+}

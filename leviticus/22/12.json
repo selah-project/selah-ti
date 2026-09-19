@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ወዲቲ ካህን ነቲ ዘበልሓይ ሰብ እንተ ተመርቕላ፣ ንሳ ካብቲ ቅዱስ ወፈያ ኣይትብልዕን።",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "ወዲቲ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "እንተ ኮይና"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ንሰብ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ዘበልሓይ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሳ"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "ካብቲ ወፈያ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ትብልዕ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:24.762663258Z",
+  "model": "glm-5.3"
+}

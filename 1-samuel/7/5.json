@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ሽሙኤል ድማ በሎ፦ «⟨את⟩ ኩሉ እስራኤል ናብ ምጽጳ ተኣኽብዱ፣ ኣነ ድማ ንዓኻትኩም ናብ ያህዌህ እተማልእልኹ እየ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሽሙኤል"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "ተኣኽብዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እስራኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "ናብ ምጽጳ"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "እተማልእልኹ"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "ንዓኻትኩም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:00:38.422731032Z",
+  "model": "glm-5.3"
+}

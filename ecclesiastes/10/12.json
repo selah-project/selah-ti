@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ቓላት ኣፉ ስለሓታዊ ጸጋ እየን፤ ከምኡውን ኣእምሮ-ጎድልቲ ኣንበሮቲ ይስሕቦ።",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ቓላት"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ኣፍ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ስለሓታዊ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ጸጋ"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "ከምኡውን ኣንበሮቲ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ኣእምሮ-ጎድልቲ"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "ይስሕቦ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:41:58.307553668Z",
+  "model": "glm-5.3"
+}

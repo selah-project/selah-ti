@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ንያህዌህ ⟨את⟩ ኣበርክት፤ ነቲ ምኽርኩኒ፤ ንጹር ብለይቲ ኩላቲ ይምህሩኒ።",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "ኣበርክት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "ምኽርኩኒ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ንጹር"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "ብለይቲ"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "ይምህሩኒ"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ኩላቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:59.407825092Z",
+  "model": "glm-5.3"
+}

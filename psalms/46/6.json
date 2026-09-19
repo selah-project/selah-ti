@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 46,
+  "translation": "ኤሎሂም ኣብ መንጎኣ ኣይትንዘልን፤ ኤሎሂም ኣብ ምሉእ ቀዳም ድማ ይሕግራ።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ኣብ መንጎኣ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ትንዘል"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "ይሕግራ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "ኣብ ምሉእ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ቀዳም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:00:20.096768231Z",
+  "model": "glm-5.3"
+}

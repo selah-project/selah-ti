@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ብኪኖር ምስጋና ሃቡ ንያህዌህ፤ ብነበል ዓሰርተ ገመራት ዘምሩ ንሱ።",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "ምስጋና ሃቡ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ብኪኖር"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ብነበል"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ዓሰርተ ገመራት"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ዘምሩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:51.653336100Z",
+  "model": "glm-5.3"
+}

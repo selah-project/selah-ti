@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 86,
+  "translation": "ኩሉ ኣህዛብ እቶም ዝፈጠርካዮም ክመጹን ኣብ ቅድሚኻ ኣዶናይ ክስገዙን ንስምካ ክኣብሩ እዮም።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ዝፈጠርካዮም"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "ክመጹ"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ክስገዙን"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ኣብ ቅድሚኻ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "ክኣብሩን"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ንስምካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:27.351842555Z",
+  "model": "glm-5.3"
+}

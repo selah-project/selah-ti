@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ስለዚ ትእዛዋትኻ ካብ ወርቂ ንላዕሊ፣ ኣወንታ ካብ ጽሩይ ወርቂ ንላዕሊ ነወደ።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ነወደ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ትእዛዋትኻ"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "ካብ ወርቂ ንላዕሊ"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "ከምኡውን ካብ ጽሩይ ወርቂ ንላዕሊ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:59.147529130Z",
+  "model": "glm-5.3"
+}

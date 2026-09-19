@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 87,
+  "translation": "ብዝዮን ድማ «ሓደ ሰብን ካልእ ሰብን ኣብኣ ተወሊዑ እዩ» ከም ዝተባህለ እዩ፤ ንሱ ድማ ዔልዩን ባዕሉ ይረግጻ እዩ።",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "ብዝዮን"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ከም ዝተባህለ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሓደ ሰብ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ካልእ ሰብን"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ተወሊዑ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኣ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ ድማ"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ይረግጻ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ዔልዩን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:32.839439463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ውርደት ብበረኻ ኤሎሂም ኣውረዳ፤ ብዘይ ነፍሲ ዝነካእካ ንሃብታኻ ኣቢልኻ ኣረጋግጻዓ።",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "ውርደት"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "ብበረኻ"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "ኣውረዳ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ሃብታኻ"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "ብዘይ ነፍሲ ዝነካእካ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኣቢልኻ"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "ኣረጋግጻዓ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:17.388819913Z",
+  "model": "glm-5.3"
+}

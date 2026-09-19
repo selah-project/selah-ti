@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 35:10",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ኣገልግሎት ተዳለወት፣ ካህናት ኣብ ቦታኦም ተቐመጡ፣ ላዊታት ድማ ኣብ ክፍልታቶም ከም ትእዛዝ እቲ ንጉስ።",
+  "tokens": [
+    {
+      "surface": "ותכון",
+      "gloss": "ተዳለወት"
+    },
+    {
+      "surface": "העבודה",
+      "gloss": "ኣገልግሎት"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ተቐመጡ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "ቦታኦም"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ላዊታት ድማ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "ክፍልታቶም"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "ከም ትእዛዝ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:20:58.882703483Z",
+  "model": "glm-5.3"
+}

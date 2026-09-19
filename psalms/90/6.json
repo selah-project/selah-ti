@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 90,
+  "translation": "ኣብ ቍርሕ ይዕቅብ ድማ ይቐይር፤ ኣብ ፈሰስ ይቁረጽ ድማ ይኸብዕ።",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "ኣብ ቍርሕ"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "ይዕቅብ"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "ድማ ይቐይር"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "ኣብ ፈሰስ"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "ይቁረጽ"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ድማ ይኸብዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:43.675140996Z",
+  "model": "glm-5.3"
+}

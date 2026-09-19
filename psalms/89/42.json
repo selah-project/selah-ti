@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ኩሎም ኣብ መገዲ ዝሻግሩ ዘረፍዎ፣ ንእቶም ኣብ መንጎኡ ዝነብሩ ድማ ውርደት ኮይኑ ውዒሉ።",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "ዘረፍዎ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ዝሻግሩ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መገዲ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ኮይኑ ውዒሉ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ውርደት"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "ንእቶም ኣብ መንጎኡ ዝነብሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:11.017777547Z",
+  "model": "glm-5.3"
+}

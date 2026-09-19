@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 3:2",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣብ ካልኣይ ወርሒ፣ ኣብ ካልኣይ ⟨መዓልቲ⟩፣ ኣብ ኣርባዕተይ ዓመት ንግዚኡ ንምህናጽ እናተጀመረ እዩ።",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "እናተጀመረ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ንምህናጽ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ኣብ ወርሒ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ካልኣይ"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "ኣብ ካልኣይ"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "ኣብ ዓመት"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ኣርባዕተይ"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "ንግዚኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:55:39.552792406Z",
+  "model": "glm-5.3"
+}

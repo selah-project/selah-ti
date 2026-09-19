@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 4:8",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ክኸውን እዩ፤ ነንስኻ እንተ ኣይኣመኑን፣ ነቲ ቃል እታ ቐዳማይቲ ምልኳት እንተ ኣይሰምዑን፣ ነቲ ቃል እታ ድሕረዋት ምልኳት ግን ክኣምኑ እዮም።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ክኸውን እዩ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "ኣይኣመኑን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ነንስኻ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንተ ኣይ…ን"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ኣይሰምዑን"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "ነቲ ቃል"
+    },
+    {
+      "surface": "האת",
+      "gloss": "ምልኳት"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ቐዳማይቲ"
+    },
+    {
+      "surface": "והאמינו",
+      "gloss": "ክኣምኑ"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "ነቲ ቃል"
+    },
+    {
+      "surface": "האת",
+      "gloss": "ምልኳት"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "ድሕረዋት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:13:53.508426147Z",
+  "model": "glm-5.3"
+}

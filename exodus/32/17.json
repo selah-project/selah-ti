@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "የሆሹዋዕ ኣብ ምዓዋት ⟨את⟩ ቓል እቲ ህዝቢ ሰምዐ፤ ንሞሸ ድማ «ቓል ውግእ ኣብ ⟨את⟩ እቲ ሰፈር ኣሎ» በሎ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቓል"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ኣብ ምዓዋት"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ውግእ"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ኣብ እቲ ሰፈር"
+    }
+  ],
+  "timestamp": "2026-09-18T21:40:24.916078524Z",
+  "model": "glm-5.3"
+}

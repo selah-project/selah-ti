@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 103,
+  "translation": "ናይ ዳዊድ። ነፍሲይ ባሪኪ ⟨את⟩ ያህዌህ፣ ከምኡውን ኩሉ ውሽጣዊ ኣካለይ ባሪኪ ⟨את⟩ ቅዱስ ስሙ።",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "ባሪኪ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ከምኡውን ኩሉ"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "ውሽጣዊ ኣካለይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅዱስ ስሙ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:36.307106205Z",
+  "model": "glm-5.3"
+}

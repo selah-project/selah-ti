@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ናብኻ እጸውዕ እሞ ኣይተምልሰንኒን፤ ተቐሚጠ እሞ ትረኣየኒ።",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "እጸውዕ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኻ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…-ን"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ተምሊሰኒ"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "ተቐሚጠ"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "ትረኣየ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ነይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:19:42.970994993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ነቲ ሰብ ድማ ⟨את⟩ ኣዳም ኣብሪዑ፤ ካብ ምብራቕ ናይ ገነት ዕድን ⟨את⟩ ኩሩቤልታትን ⟨את⟩ ሓዊ ሰይፍ እቲ ዝተመልሰ ንመንገድ ናይ ዛፍ ህይወት ንኽሕልው ኣቐመጠ።",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "ኣብሪዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣዳም"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ኣዳም"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "ኣቐመጠ"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ካብ ምብራቕ"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "ናይ ገነት"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ዕድን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሩቤልታት"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ኩሩቤልታት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሓዊ ሰይፍ"
+    },
+    {
+      "surface": "להט",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "እቲ ዝተመልሰ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ንኽሕልው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንገድ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ዛፍ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ህይወት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:32:26.103769021Z",
+  "model": "glm-5.3"
+}

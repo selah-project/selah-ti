@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ኰይኑ ከምዚ መንግስቲ ምስ ተሓንጸረቶ ንእሱ፣ ነቶም ⟨את⟩ ኣገልገልቱ ዝቐተሉ ⟨את⟩ እቲ ንጉስ ኣቦኡ ቀተሎም።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኰይን ከምዚ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ተሓንጸረቶ"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "መንግስቲ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ንእሱ"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ቀተሎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣገልገልቱ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ኣገልገልቱ"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ዝቐተሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ንጉስ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:14:12.390822059Z",
+  "model": "glm-5.3"
+}

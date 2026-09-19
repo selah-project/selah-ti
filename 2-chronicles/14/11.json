@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ያህዌህ ድማ ⟨את⟩ ኩሽያት ቅድሚ ኣሳን ቅድሚ ይሁዳን ሓመቖም፤ ኩሽያት ድማ ሰሓቑ።",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "ሓመቖም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሽያት"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "ኩሽያት"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ኣሳ"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ንቅድሚ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ሰሓቑ"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "ኩሽያት"
+    }
+  ],
+  "timestamp": "2026-09-19T08:05:29.798765086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "እዚ ኣገዳምኦም ⟨እዩ⟩ ስዕባ ንእሾም፤ ድሕሪኦም ድማ ብኣፎም ዝበልዎ ይፍቱኡ እዮም። ስላ።",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ኣገዳምኦም"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "ስዕባ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ንእሾም"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "ድሕሪኦም"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ብኣፎም"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "ይፍቱኡ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስላ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:00:14.272382970Z",
+  "model": "glm-5.3"
+}

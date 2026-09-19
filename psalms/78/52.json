@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ህዝቢኡ ከም ጠጂ ኣውጽኖ፣ ኣብ በረኻ ድማ ከም ጎተት መርሖም።",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "ኣውጽኖ"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ከም ጠጂ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ህዝቢኡ"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "መርሖምን"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "ከም ጎተት"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ በረኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:48.860914264Z",
+  "model": "glm-5.3"
+}

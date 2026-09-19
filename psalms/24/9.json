@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ኣልዓልቱ በርታት ርእስታትኩም፣ ከምኡውን ኣልዓልቱ ኣፍተምታት ዘለኣለም፣ ንጉስ ናይ ክብሪ ክኣትው እዩ።",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ኣልዓልቱ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "በርታት"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "ርእስታትኩም"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "ከምኡውን ኣልዓልቱ"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "ኣፍተምታት"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ክኣትዉ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ናይ ክብሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:04.347067263Z",
+  "model": "glm-5.3"
+}

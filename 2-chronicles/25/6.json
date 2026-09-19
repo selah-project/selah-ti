@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ካብ ይስራኤል ምእታ ሺሕ ጠንካራ ሓይሊ ብምእታ ኪኻር ሰርግ ብኣዋጅ ወሲደ።",
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "ብኣዋጅ ወሲደ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ካብ ይስራኤል"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ምእታ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺሕ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ጠንካራ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ሓይሊ"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "ብምእታ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ኪኻር"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ሰርግ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:13:08.863931364Z",
+  "model": "glm-5.3"
+}

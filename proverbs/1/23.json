@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ነብርዎ ናብ ትጉህተይ፤ ረኣዩ፣ መንፈሰይ ክፈስልኩም እየ፣ ቓላተይ ከርእይኩም እየ ⟨אתכם⟩።",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "ነብርዎ"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "ናብ ትጉህተይ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ረኣዩ"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "ክፈስልኩም እየ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንንስኻትኩም"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "መንፈሰይ"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "ከርእይኩም እየ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቓላተይ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ንንስኻትኩም (ምስ ንስኻትኩም)"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:50.588046507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ብሓቂ፣ ንስኻቶም እትኾኑ እቲ ህዝቢ እምበር፣ ምስ ንስኻቶም እትእሽን ጥበብ ትሙት።",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "ብሓቂ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እምበር"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ንስኻቶም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "ምስ ንስኻቶም"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ትሙት"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:08:46.930499470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ድዩ ኤል ፍርዲ ይቕልትሳ፧ ወይ ሻዳይ ጽድቂ ይቕልትሳ፧",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "ድዩ ኤል"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ይቕልትስ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርዲ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ሻዳይ"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ይቕልትስ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:05:27.389710537Z",
+  "model": "glm-5.3"
+}

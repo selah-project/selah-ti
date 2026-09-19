@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ኣነ ግን ነብልዓም ክሰምዖ ኣይደልኩን፣ ⟨את⟩ ንስኻትኩም ድማ በረኸ፣ ካብ ኢዱ ድማ ኣድሕንኩኹም።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ግን ኣይ…ን"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "ኣይደልኩን"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ክሰምዖ"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "ነብልዓም"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "በረኸ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "በረኸ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ንስኻትኩም",
+      "marks": "ኣድሕንኩኹም"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "ኣድሕንኩኹም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ንስኻትኩም",
+      "marks": "ኣድሕንኩኹም"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "ካብ ኢዱ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:33:37.050081032Z",
+  "model": "glm-5.3"
+}

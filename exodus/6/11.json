@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "«ኣተዓር፣ ንፓርዖ ንጉስ ሚጽራይም ተዛረብ፣ ነቲ ⟨את⟩ ውላድ ይስራኤል ካብ ምድሩ ይሰደዶም።»",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "ኣተዓር"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ይሰደዶም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ ይስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ካብ ምድሩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:12:36.821125641Z",
+  "model": "glm-5.3"
+}

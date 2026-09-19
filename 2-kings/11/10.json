@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ነቲ ካህን ድማ ንኣካዳሚታት ምዕራፍ ⟨את⟩ እቲ ሮማሕን ⟨ואת⟩ እቶም ጋንታታትን ናይ ዳዊድ ንጉስ፣ እቶም ኣብ ቤት ያህዌህ ዝነበሩ፣ ሃቦም።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሃቦም"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "ንኣካዳሚታት"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "ምዕራፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሮማሕ"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "ሮማሕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ጋንታታት"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "ጋንታታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ናይ ንጉስ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:26:35.094422326Z",
+  "model": "glm-5.3"
+}

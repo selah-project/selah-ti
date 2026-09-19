@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 8:6",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ከም ኣኽታም ኣብ ልብኻ፣ ከም ኣኽታም ኣብ ኣጽራኻ ግበረኒ፤ ምኽንያቱ ፍቕሪ ከም ሞት ኩራት እያ፣ ቅንኣት ድማ ከም ሽኦል ሓዊራ እያ፤ ስንጥቃታኣ ስንጥቃት ሓዊ ስጉም ሓዊ ያህ እዩ።",
+  "tokens": [
+    {
+      "surface": "שימני",
+      "gloss": "ግበረኒ"
+    },
+    {
+      "surface": "כחותם",
+      "gloss": "ከም ኣኽታም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ልብኻ"
+    },
+    {
+      "surface": "כחותם",
+      "gloss": "ከም ኣኽታም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "ኣጽራኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ኩራት"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "ከም ሞት"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ፍቕሪ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ሓዊራ"
+    },
+    {
+      "surface": "כשאול",
+      "gloss": "ከም ሽኦል"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ቅንኣት"
+    },
+    {
+      "surface": "רשפיה",
+      "gloss": "ስንጥቃታኣ"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "ስንጥቃት"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "שלהבת",
+      "gloss": "ስጉም ሓዊ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:33:42.708544392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ምኽንያቱ ንስኻቶም እኹም ⟨את⟩ ኣብ ምድሪ ሚጽራይም ዝነብርናዮ ከምኡውን ⟨את⟩ ኣብ ማእከላይ እቶም ኣህዛብ እቶም ተሓሊፍኩም ዝሓለፍናዮ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ንስኻቶም"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "እኹም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "אשר"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ…"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "ዝነብርናዮ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "אשר"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ…"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "ዝሓለፍናዮ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ኣብ ማእከላይ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "እቶም ኣህዛብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝ…"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "ተሓሊፍኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:08:35.722556938Z",
+  "model": "glm-5.3"
+}

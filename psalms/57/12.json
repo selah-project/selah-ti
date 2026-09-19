@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 57,
+  "translation": "ኤሎሂም፣ ንላዕሊ ሰማያት ተዓርጺ፤ ክብሪኻ ድማ ንላዕሊ ኩሉ ምድሪ ይኹን።",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "ተዓርጺ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ንላዕሊ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ንላዕሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ክብሪኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:20.960573753Z",
+  "model": "glm-5.3"
+}

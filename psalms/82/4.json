@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 82,
+  "translation": "ነቲ ድኹምን ጥቁእን ኣውጽኡ፣ ካብ ኢድ ሓራራማን ኣድሕኑ።",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "ኣውጽኡ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ድኹም"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ጥቁእን"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ሓራራማን"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "ኣድሕኑ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:22.918797991Z",
+  "model": "glm-5.3"
+}

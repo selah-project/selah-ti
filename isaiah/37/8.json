@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ራብ-ሻቀ ድማ ተመለሰ፣ ⟨את⟩ ንጉሥ ኣሽሑር ምስ ሊብና እናተጻለበ ኸኣ ረኺቡ፤ ካብ ላቂስ ከም ዝተኣሲዩ ስለ ዝሰምዐ እዩ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ራብ"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "ሻቀ"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "ረኺቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንጉሥ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣሽሑር"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "እናተጻለበ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ሊብና"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ዝሰምዐ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "ዝተኣሲዩ"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "ካብ ላቂስ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:07:31.641472452Z",
+  "model": "glm-5.3"
+}

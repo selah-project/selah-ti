@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 7:11",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ፓርዖ ድማ ነቶም ስሙዓትን ማእሰይቲን ተዓዘዞም፤ እዚኦም ድማ ተራእዪ ሚጽራይም ብተኣማንቶም ከምኡ ገበሩ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ተዓዘዞም"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "ነቶም ስሙዓት"
+    },
+    {
+      "surface": "ולמכשפים",
+      "gloss": "ማእሰይቲን"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "ተራእዪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "בלהטיהם",
+      "gloss": "ብተኣማንቶም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:13:17.491022026Z",
+  "model": "glm-5.3"
+}

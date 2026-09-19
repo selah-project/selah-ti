@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 1:12",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ምድሪ ድማ ሳሕ፣ ዘርኢ ዘራዕኢ ዕሽባ ብዓይነቱን ዘርኢኡ ኣብ ውሽጢኡ ዘላቒ ፍረ ብዓይነቱን ዛፍ ኣውጸአት፤ ኤሎሂም ድማ እቲ ጽቡእ ምዃኑ ረኣየ።",
+  "tokens": [
+    {
+      "surface": "ותוצא",
+      "gloss": "ኣውጸአት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ሳሕ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ዕሽባ"
+    },
+    {
+      "surface": "מזריע",
+      "gloss": "ዘራዕኢ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘርኢ"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ብዓይነቱ"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ዛፍን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዘፍራ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ፍረ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ዘርኢኡ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብ ውሽጢኡ"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ብዓይነቱ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡእ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:29:55.933183420Z",
+  "model": "glm-5.3"
+}

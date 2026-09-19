@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ነቶቶም ⟨את⟩ ሓላዊ ኣሃሮንን ⟨ואת⟩ ሓላዊ ኵሉ ስብሕ ኣብ ቅድሚ ድኣቲ ምቕጻል ይተሓዙ፣ ነቲ ⟨את⟩ ኣገልግሎት ማሕደር ንኽገብርዎ።",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "ይተሓዙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓላዊ ኣሃሮን"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "ሓላዊ ኣሃሮን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ሓላዊ ኵሉ ስብሕ"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ሓላዊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኵሉ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ስብሕ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድኣቲ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ምቕጻል"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ንኽገብርዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣገልግሎት ማሕደር"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ኣገልግሎት"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ማሕደር"
+    }
+  ],
+  "timestamp": "2026-09-18T22:13:51.174064963Z",
+  "model": "glm-5.3"
+}

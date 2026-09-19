@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "ኤሎሂም ኣዶናይ ፍለይ፣ ንኩሉ ዘይተሓገዘኒ ኣብ ጽድቂ ተኸታለይ፤ ካብ ሰብ ብተክዚ ወይ ብዘይጽድቂ ኣውጽአኒ።",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "ፍለይ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "ተኸታለይ"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ኩሉ ዘይተሓገዘኒ"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ኣብ ጽድቂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይ"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ተሓገዚ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ካብ ሰብ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ብተክዚ"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "ወይ ብዘይጽድቂ"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "ኣውጽአኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:48.080255720Z",
+  "model": "glm-5.3"
+}

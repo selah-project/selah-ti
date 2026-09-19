@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 130,
+  "translation": "ኣዶናይ፣ ንድምጺ ናይነ ስምዓ፤ ኣእዝይኻ ንድምጲ ልምናይይ ንቑዕቲ ይኹና።",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ስምዓ"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ንድምጺ ናይነ"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ይኹና"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "ኣእዝይኻ"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "ንቑዕቲ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ንድምጲ"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ልምናይይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:04.863653467Z",
+  "model": "glm-5.3"
+}

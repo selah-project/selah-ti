@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ሮበን፣ ስምዖን፣ ሌዊን ይሁዳን።",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "ሮበን"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ስምዖን"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ሌዊ"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ይሁዳን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:11:00.242410506Z",
+  "model": "glm-5.3"
+}

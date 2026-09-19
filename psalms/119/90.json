@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ናብ ውልቀትን ውልቀትን ብትክክልነትኻ ⟨እያ⟩፤ ነቲ ምድሪ ኣረጋገጻዶ፣ ንሳ ድማ ኣተቓልዓላ።",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "ናብ ውልቀት"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ውልቀትን"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ብትክክልነትኻ"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "ኣረጋገጻዶ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ኣተቓልዓላ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:57.774032078Z",
+  "model": "glm-5.3"
+}

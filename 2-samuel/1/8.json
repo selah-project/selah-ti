@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ንዓይ ተዛረቦ፦ «መን ንስኻ?» ኣነ ድማ ንሱ በልኩ፦ «ዓማለቃዊ እየ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በልኩ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "ዓማለቃዊ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:20:57.968407005Z",
+  "model": "glm-5.3"
+}

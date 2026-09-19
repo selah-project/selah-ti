@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 10:11",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ያህዌህ ድማ ንውላደ እስራኤል በሎ፦ ⟨ድዩ⟩ ካብ ሚጽራይም፣ ካብ ኣሞራይ፣ ካብ ውላደ ዓሞንን ካብ ፍልስጤማውያንን ⟨ድዩ ኣይደልኹኩምን?⟩",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ድዩ…ን"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ካብ ሚጽራይም"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ካብ …ን"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ኣሞራይ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ካብ …ን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ዓሞን"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ካብ …ን"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤማውያን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:41:08.989530359Z",
+  "model": "glm-5.3"
+}

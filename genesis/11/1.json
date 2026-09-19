@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ድሕሪ እዚ ኩሉ ⟨እቲ⟩ ምድሪ ሓደ ቛል ዀይና፣ ቃላት እውን ሓዋድ ነይሮም።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ድሕሪ እዚ ዀይና"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ቛል"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ቃላት እውን"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "ሓዋድ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:37:50.065971854Z",
+  "model": "glm-5.3"
+}

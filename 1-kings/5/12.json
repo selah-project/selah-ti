@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ብዝዙር ሰለስተ ሽሓ መርገማት ተዛረበ፤ መዝሙራቱ ድማ ሽሓ ንላዕሊ ሓሙሽተ ⟨ነበራ⟩።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሽሓ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "መርገማት"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ ድማ"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "መዝሙራቱ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ሽሓ ንላዕሊ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:50:08.411034670Z",
+  "model": "glm-5.3"
+}

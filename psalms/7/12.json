@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኤሎሂም ጻድቕ ፈራዲ ⟨እዩ⟩፣ ከምኡውን ኤል ኣብ ዅሉ መዓልቲ በደል ዘለዎ ⟨እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "ዝፈርድ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቕ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ከምኡውን ኤል"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "በደል ዘለዎ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ዅሉ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:24.844393611Z",
+  "model": "glm-5.3"
+}

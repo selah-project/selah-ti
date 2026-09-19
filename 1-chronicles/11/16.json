@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ዳዊድ ድማ ኣብቲ እዋን ኣብ እቲ ምሕጺን ነይሩ፤ ሰፈር ፍልስጤማውያን ድማ ኣብቲ እዋን ኣብ ቤት-ላሕም ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "ዳዊድ ድማ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ኣብቲ እዋን"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "ኣብ እቲ ምሕጺን"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "ሰፈር ድማ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤማውያን"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ኣብቲ እዋን"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-ላሕም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:36:42.702874893Z",
+  "model": "glm-5.3"
+}

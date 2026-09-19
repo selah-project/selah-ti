@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ዳዊድ ድማ ምስ ተመለሰ ካብ ምትኻሱ ⟨את⟩ ኣራም ኣብ ለዓሚ ማሕቲ ስም ገበረ፤ ሸሞንተ ዓሰርተ ሺሕ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "ምስ ተመለሰ"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "ካብ ምትኻሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣራም"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "ኣብ ለዓሚ"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "ማሕቲ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ሸሞንተ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:41:12.919634390Z",
+  "model": "glm-5.3"
+}

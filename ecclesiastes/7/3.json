@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ብሽታ ካብ ስንታይ ደሊሱ እዩ፤ ምስኣ ብሕማቕ ገጽ እቲ ልብ ይጽቡእ።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ደሊስ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ብሽታ"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "ካብ ስንታይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምስኣ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ብሕማቕ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ይጽቡእ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:42:54.052144776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ኤሎሂም ድማ ⟨את⟩ እቲ ወዲ ምስ ነይሩ፣ ዓበየ ድማ ኣብ ምድረ-በዳ ነይሩ፣ ቀላይታ ዝዓበየ ኮይኑ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ወዲ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "እቲ ወዲ"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "ዓበየ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድረ-በዳ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ዝዓበየ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ቀላይታ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:43:57.667527727Z",
+  "model": "glm-5.3"
+}

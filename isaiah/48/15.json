@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 48:15",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "ኣነ፣ ኣነ ቐደምኩ፤ ውን ቐርብክዎ፤ ኣእቲኹዎ፣ ነቲ መገዱ ድማ ኣሸጎ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ቐደምኩ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ውን"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "ቐርብክዎ"
+    },
+    {
+      "surface": "הביאתיו",
+      "gloss": "ኣእቲኹዎ"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "ኣሸጎ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ነቲ መገዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:12:30.951866050Z",
+  "model": "glm-5.3"
+}

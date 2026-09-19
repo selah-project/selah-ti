@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣዶናይ ቓል ኣብ ያዕቆቭ ለኣኾ፣ ኣብ ይሽራኤል ድማ ወረደ።",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ለኣኾ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ኣብ ያዕቆቭ"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ወረደ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ኣብ ይሽራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T01:50:33.922825693Z",
+  "model": "glm-5.3"
+}

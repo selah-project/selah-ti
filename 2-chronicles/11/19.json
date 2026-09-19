@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ንሱ ድማ ወለዲትሉ ወላዲ — ⟨את⟩ የዑሽ፣ ⟨ואת⟩ ሽማርያን፣ ⟨ואת⟩ ዛሓምን።",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ወለዲትሉ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ሉ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ወላዲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የዑሽ"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "የዑሽ፣"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ድማ",
+      "marks": "ሽማርያ"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "ሽማርያን፣"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ድማ",
+      "marks": "ዛሓም"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "ዛሓምን"
+    }
+  ],
+  "timestamp": "2026-09-19T08:01:14.099142348Z",
+  "model": "glm-5.3"
+}

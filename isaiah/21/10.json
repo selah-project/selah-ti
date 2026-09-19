@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ኣሕዚራይን ወዲ ውድቀተይን እዩ — እቲ ካብ ያህዌህ ጸባኦት፣ ካብ ኤሎሂም እስራኤል ⟨מאת⟩ ዝሰምዐኾ ነንብበኩም።",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "ኣሕዚራይ"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "ውድቀተይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ዝሰምዐኾ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ ጸባኦት፣ ኤሎሂም እስራኤል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ነንብበኩም"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ነንብበኩም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:51:53.655325016Z",
+  "model": "glm-5.3"
+}

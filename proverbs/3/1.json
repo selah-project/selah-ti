@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ወዲ፡ ቶራይ ኣይትረስዓን፣ ትእዛዛተይ ድማ ልብኻ ይሓዝ።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ቶራይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ትረስዓን"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ትእዛዛተይ ድማ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ይሓዝ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ልብኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:42:31.175462611Z",
+  "model": "glm-5.3"
+}

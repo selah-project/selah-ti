@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ነቶም ኣኽሊል ሸሃም ⟨את⟩ ኣብ ወርቃዊ ቅርጺ ማዕጸን ተቐርፊዖም፣ ከም ማዕጸን ማሕደር ተቐረጻ ኣቢሎም፣ ብስማት ውላድ እስራኤል ገበሩ።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣኽሊል"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ኣኽሊል"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "ሸሃም"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "ማዕጸን"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "ቅርጺ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቃዊ"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "ተቐረጻ"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "ኣቢሎም"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ስማት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T21:45:08.023412341Z",
+  "model": "glm-5.3"
+}

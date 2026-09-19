@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ደገፈኒ፣ እሞ እደንቐል፣ ኣብ ሕጌትካ ድማ ኩሉ ግዜ እርኣይ እየ።",
+  "tokens": [
+    {
+      "surface": "סעדני",
+      "gloss": "ደገፈኒ"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "እሞ እደንቐል"
+    },
+    {
+      "surface": "ואשעה",
+      "gloss": "እርኣይ እየ"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "ኣብ ሕጌትካ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ኩሉ ግዜ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:57.319649607Z",
+  "model": "glm-5.3"
+}

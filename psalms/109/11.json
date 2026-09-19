@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "ንዘሉ ኩሉ ኣንቀሳቑሳ ደቂ-ብድ ይትሓዝ፤ ረቂቓት ከኣ ጸኒዑ ዝገበሮ ይብልዑ።",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "ይትሓዝ"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "ደቂ-ብድ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዘሉ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ናቱ"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "ይብልዑ"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ረቂቓት"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "ጸኒዑ ዝገበሮ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:01.739207074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "እዚኦም ብስረዕቲ፣ እዚኦም ብኣጋልሲት ይኣምኑ፤ ንሕና ግና ኣብ ስም ያህዌህ ኤሎሂምና ነዘክር።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "ብስረዕቲ"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "እዚኦም…ን"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "ብኣጋልሲት"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ንሕና ግና"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ኣብ ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "ነዘክር"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:18.606733216Z",
+  "model": "glm-5.3"
+}

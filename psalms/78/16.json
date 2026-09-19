@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ካብ እኳር ውሽጣዊ ማይ ኣውጽአ፤ ማይ ከም ባሕራት ኣውረዶ።",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ኣውጽአ"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "ውሽጣዊ ማይ"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "ካብ እኳር"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "ኣውረዶ"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "ከም ባሕራት"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:50.089576216Z",
+  "model": "glm-5.3"
+}

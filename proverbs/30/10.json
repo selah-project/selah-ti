@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ኣገልገልቲ ናብ ጎይታኡ ኣይትሓስርዎ፣ ከሎኽኡ ይርግምካ ከኣ ተጠይፍ ክትከውን።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "ትሓስር"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ኣገልገልቲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "ጎይታኡ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ከሎኽኡ"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "ይርግምካ"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "ተጠይፍ ክትከውን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:58:43.065512722Z",
+  "model": "glm-5.3"
+}

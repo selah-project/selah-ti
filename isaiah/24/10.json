@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ከተማ ናይ ባዕዳ ተሰቒራ፤ ኹሉ ቤት ካብ ምእታይ ተዓጽዩ።",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "ተሰቒራ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ናይ ባዕዳ"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ተዓጽዩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ካብ ምእታይ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:56:27.441846211Z",
+  "model": "glm-5.3"
+}

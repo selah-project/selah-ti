@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እንተ በጊዕ እዩ ወፈያኡ ኸቕርብ ነይሩ፣ ⟨את⟩ ወፈያኡ ኣብ ቅድሚ ያህዌህ የቕርቦ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "በጊዕ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "ኸቕርብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወፈያኡ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ወፈያኡ"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "የቕርቦ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንእኡ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:47:34.996533393Z",
+  "model": "glm-5.3"
+}

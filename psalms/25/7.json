@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ሓጢያት ወጻን ዕድመይን ብድላይን ኣይትዘኽርን፤ ብሔሴድኻ ንዓይ ዘኽረኒ ንስኻ፣ ስለ በጃኻ ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "ሓጢያት"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "ወጻን ዕድመይ"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "ብድላይን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ትዘኽር"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "ብሔሴድኻ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ዘኽረኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "በጃኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:54.827614155Z",
+  "model": "glm-5.3"
+}

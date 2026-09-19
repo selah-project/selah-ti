@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 143,
+  "translation": "ኣሰምዐኒ ብትሕሊት ሔሴድኻ፤ ኣብኻ እናተኣማንኩ እየ፤ ኣፍለጠኒ እቲ እኸድሶ መገዲ፤ ናብኻ ነፍሰይ ኣበዝዕኩ ምኽንያቱ።",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "ኣሰምዐኒ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ብትሕሊት"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሔሴድኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣብኻ"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "እናተኣማንኩ"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "ኣፍለጠኒ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መገዲ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "እኸድሶ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኻ"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ኣበዝዕኩ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:56.806166350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ምኽንያቱ ሔሴድካ ቅድሚ ዓይኒ ⟨ኣሎ⟩፣ ኣብ ሓቂኻ ድማ እናተዋደንኩ እየ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሔሴድካ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኒ"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "ከኣ እናተዋደንኩ"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "ኣብ ሓቂኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:54.169975756Z",
+  "model": "glm-5.3"
+}

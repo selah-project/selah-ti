@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 133,
+  "translation": "ከም ጽባሕ ኣብ ታሕቲ ከርሞን ዝወርድ፣ ኣብ ተራራታት ጽዮን፣ እሞ ⟨እቲ⟩ ዝሓበረ እዚ ሕይወት ክሳብ ዘለኣለም ኣብ እኡ ያህዌህ ⟨את⟩ በረኸት ኣዘዝ።",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "ከም ጽባሕ"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ከርሞን"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "ዝወርድ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ታሕቲ"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "ተራራታት"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብ እኡ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ኣዘዝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በረኸት"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "በረኸት"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ሕይወት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T09:02:35.588853112Z",
+  "model": "glm-5.3"
+}

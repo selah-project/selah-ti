@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 10:21",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "⟨את⟩ ወገን ብንያም ብስድራታቱ ኣቐረቦ፣ ስድራ ማትሪ ድማ ተወሰደት፣ ሻኡል ወዲ ቅያሽ ድማ ተወሲዱ፤ ሓዙዎ ድማ ኣይተረኽበን።",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ኣቐረቦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወገን ብንያም"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ወገን"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ብንያም"
+    },
+    {
+      "surface": "למשפחתו",
+      "gloss": "ብስድራታቱ"
+    },
+    {
+      "surface": "ותלכד",
+      "gloss": "ተወሰደት"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ስዓራ"
+    },
+    {
+      "surface": "המטרי",
+      "gloss": "ማትሪ"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ተወሲዱ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "ቅያሽ"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "ሓዙዎ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ድማ ኣይ"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ተረኽበን"
+    }
+  ],
+  "timestamp": "2026-09-19T00:01:32.688642269Z",
+  "model": "glm-5.3"
+}

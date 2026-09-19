@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 116,
+  "translation": "ነይሮለይ ቃላት ንያህዌህ እኸፍሎ፣ ኣብ ቅድሚ ኩሉ ሕዝቢኡ ሕጂ።",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "ነይሮለይ ቃላት"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "እኸፍሎ"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቢኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:57.910852903Z",
+  "model": "glm-5.3"
+}

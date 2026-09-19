@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "esther 2:18",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ንጉስ ድማ ንኩሉ ዓበይቱን ኣገልገልቱን ጉባኤ ዓቢ ⟨את⟩ ጉባኤ እስተር ገበረ፤ ንኣውራጃታት ምሕላል ገበረ፣ ከም ኢድ ንጉስ ድማ ስጦታታት ሃበ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ዓበይቱ"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "ኣገልገልቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጉባኤ"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "እስተር"
+    },
+    {
+      "surface": "והנחה",
+      "gloss": "ምሕላል"
+    },
+    {
+      "surface": "למדינות",
+      "gloss": "ንኣውራጃታት"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "ስጦታታት"
+    },
+    {
+      "surface": "כיד",
+      "gloss": "ከም ኢድ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:09:30.419061779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣገልጋሉ ድማ ኣእተውዎ ናብ የሩሻላይም፤ ኣብ መቕበሩ ምስ ኣቦታቱ ኣብ ከተማ ዳዊድ ድማ ቀበርዎ።",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "ኣእተውዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ኣገልጋሉ"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "ናብ የሩሻላይም"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ቀበርዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱ"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "ኣብ መቕበሩ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ኣቦታቱ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ኣብ ከተማ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:22:40.871527868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 145,
+  "translation": "ቅርቢ እዩ ያህዌህ ንኩሉ ዝጸውዖ፣ ንኩሉ ብኣርቑት ዝጸውዖ።",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ቅርቢ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "ዝጸውዖ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "ዝጸውዖ"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ብኣርቑት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:53.734852150Z",
+  "model": "glm-5.3"
+}

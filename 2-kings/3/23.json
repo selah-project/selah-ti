@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "«ደም እዚ እዩ፤ እቶም ነገስቲ ብሓባር ተወደቑ፣ ሓደ ኣብ ⟨את⟩ ኣሕዋሩ በደለ፤ ሕጂ ድማ ንምውሃብ ሞኣብ!» በሉ።",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ኣብ መጥፍኢ"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "ተወደቑ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ነገስቲ"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "በደለ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሓደ ሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሕዋሩ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ኣሕዋሩ"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ ድማ"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "ንምውሃብ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:15:44.771178403Z",
+  "model": "glm-5.3"
+}

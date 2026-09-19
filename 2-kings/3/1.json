@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 3:1",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "የሆራም ወዲ ኣሕኣብ ኣብ ሰማርያ ኣብ እስራኤል ኣብ ዓሰርተ ሸሞንተ ዓመት የሆሳፍጥ ንጉስ ይሁዳ ነገሰ፣ ነገር ግን ዓሰርተ ክልተ ዓመት ነገሰ።",
+  "tokens": [
+    {
+      "surface": "ויהורם",
+      "gloss": "የሆራም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ኣሕኣብ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነገሰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ኣብ ሰማርያ"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "ኣብ ዓመት"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ሸሞንተ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "የሆሳፍጥ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሰ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:11:51.074299825Z",
+  "model": "glm-5.3"
+}

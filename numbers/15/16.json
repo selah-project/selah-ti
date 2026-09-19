@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ቶራ ⟨መምርሒ⟩ ሓደን ሓደ ፍርዲን ⟨እዩ⟩ ንንስኻትኩምን ንእቲ መሻርቢ ዝሻርብ ምስ ⟨את⟩ ኣብኩምን።",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ፍርዲ ውን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ኪኸውን"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንንስኻትኩም"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ንእቲ መሻርቢ ውን"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "እቲ ዝሻርብ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ምስ",
+      "marks": "ኣብኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:26:34.788746861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ኣሃሮን ድማ ⟨את⟩ እቲ ኣባገራ ናይ ኽታት ናይቲ ንእሱ ዝኾነ ይቕርብ፤ ነቲ ዝኾነ ንዓኡን ነቲ ቤቱን ይኻፍን።",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ይቕርብ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣባገራ"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ኣባገራ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ናይ ኽታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ናይቲ ዝኾነ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሱ"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ይኻፍን"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ንዓኡ"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:59:29.274196759Z",
+  "model": "glm-5.3"
+}

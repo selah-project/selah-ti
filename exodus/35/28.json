@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ከምኡውን ⟨ואת⟩ ቅመማትን ⟨ואת⟩ ዘተኣተወትን — ንምስቓሕ፣ ንዘተኣተወት ምብራኽን ንእጣን ቅመማትን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቅመማት"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "ቅመማት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዘተኣተወት"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ዘተኣተወት"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ንምስቓሕ"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "ንዘተኣተወት"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ምብራኽ"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "ንእጣን"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ቅመማት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:41:29.959612949Z",
+  "model": "glm-5.3"
+}

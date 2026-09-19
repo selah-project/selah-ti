@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ስለዚ ካብ ጠንቁትና ኣድንና፣ ተጣዒዕቲና ድማ ኣፍርይካዮም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "ኣድንና"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "ካብ ጠን቉ትና"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "ተጣዒዕቲና"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "ኣፍርይካዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:34.308959199Z",
+  "model": "glm-5.3"
+}

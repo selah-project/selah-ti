@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ብቍጠባ ያህዌህ ኣብ ኣቦታትኩም በዓቐደሎም፤ በዝወደ ቍጠባ።",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "በዓቐደሎም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ኣቦታትኩም"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ቍጠባ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:32:43.536454831Z",
+  "model": "glm-5.3"
+}

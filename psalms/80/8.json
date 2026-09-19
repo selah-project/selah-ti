@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 80,
+  "translation": "ኤሎሂም ጸባኦት፣ ምለስና፣ ገጽካ ድማ ኣብርህ፣ ንድንን ድማ።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "ምለስና"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "ኣብርህ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽካ"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "ንድንን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:28.092239982Z",
+  "model": "glm-5.3"
+}

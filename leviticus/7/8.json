@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "እቲ ኻህን ዝቕርቦ ⟨את⟩ ወፈያ ዕላል ናይ ሰብ፣ ቆዳ እታ ዕላል ዝቕረባ ንእቲ ኻህን ክኸውን እዩ።",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "እቲ ኻህን"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "ዝቕርቦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወፈያ ዕላል ናይ ሰብ"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ወፈያ ዕላል"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ናይ ሰብ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ቆዳ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "እታ ዕላል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "ዝቕረባ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ንእቲ ኻህን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሱ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክኸውን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:49:09.634903754Z",
+  "model": "glm-5.3"
+}

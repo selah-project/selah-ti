@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ልቦም ከም ወፂ ወፂን ኮይኑ እንተጸለማ፤ ኣነ ግን ኣብ ቶራኻ እተዓደልዩ።",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "ወፂ ወፂን ኮይኑ"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "ከም ወፂ"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ልቦም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ቶራኻ"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "እተዓደልዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:12.963331526Z",
+  "model": "glm-5.3"
+}

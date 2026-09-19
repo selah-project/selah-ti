@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 103,
+  "translation": "ምኽንያቱ ንፋሲ ከም ዝሓልፎ ይሓልፎ ድማ፣ ኣይኳን የለን፤ ቦታኡ እውን ደጊሙ ኣይርድኦን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ንፋሲ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ይሓልፎ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ከም ዝሓልፎ ይሓልፎ"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ኣይኳን የለን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "ደጊሙ ኣይርድኦን"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደጊሙ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ቦታኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:42.893801422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 6:8",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "መን'ዩ ዝሃበኒ? ልሙድነይ ክትኹል፣ ንተስፋይ ድማ ኤሎሃ ይሃብ።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይሃብ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ትኹል"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ልሙድነይ"
+    },
+    {
+      "surface": "ותקותי",
+      "gloss": "ተስፋይን"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይሃብ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ኤሎሃ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:04:16.401780829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezekiel 16:42",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ቍጠቖይ ኣብ ዛዕባኪ ኣርጋዕኩ፣ ስዒበይ ካብኪ ድማ ተመሊሳ፣ ኣነ ድማ ኣረጊምኩ፣ ደጊምኩ ድማ ኣይቖጸርኩን።",
+  "tokens": [
+    {
+      "surface": "והנחתי",
+      "gloss": "ኣርጋዕኩ"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "ቍጠቖይ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣብ ዛዕባኪ"
+    },
+    {
+      "surface": "וסרה",
+      "gloss": "ተመሊሳ"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "ስዒበይ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ካብኪ"
+    },
+    {
+      "surface": "ושקטתי",
+      "gloss": "ኣረጊምኩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אכעס",
+      "gloss": "ቖጸርኩ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደጊምኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:31:35.090896974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "«ተነስ፣ ናብ ነኒወ እታ ዓቢቲ ከተማ ከድ፣ ንኣታ ድማ ⟨את⟩ እቲ ትእዛዝ እቲ ኣነ ዝብለካ ኣውጽእ።»",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "ተነስ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ከድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ነኒወ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እታ ከተማ"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ዓቢቲ"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ኣውጽእ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ንኣታ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ትእዛዝ"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "እቲ ትእዛዝ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝብል"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ንስኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:59:27.577048356Z",
+  "model": "glm-5.3"
+}

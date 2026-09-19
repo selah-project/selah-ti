@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ኣብ ልዕሊ ኢዱ ተዳላይ እኽሊ ቅድሚ ያህዌህ ኣተሓሕዞ፣ ከም እቲ ያህዌህ ⟨את⟩ ሞሸ ዝኣዘዞ።",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "ኣተሓሕዞ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊ ኢዱ"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "ተዳላይ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ዝኣዘዞ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:45:50.419452693Z",
+  "model": "glm-5.3"
+}

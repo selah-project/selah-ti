@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ንሱ ክከፍት ክትክፈት ንኡ ⟨את⟩ ኢድካ፣ ተድለ ክትወርዶ ብዝጎደሎ ዅሉ ዝነጊስዎ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ክከፍት"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ክትክፈት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢድካ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድካ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "ተድለ"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "ክትወርዶ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ብዝጎደሎ"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "ዝጎደሎ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ዝነጊስዎ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:57:24.941369764Z",
+  "model": "glm-5.3"
+}

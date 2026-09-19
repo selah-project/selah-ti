@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ካብ ውሽጣ ኣውጽኤኩም እየ፣ ⟨אתכם⟩ ኣብ ኢድ ኣቆባት ሃብኩም እየ፣ ኣብ ማዕበላትኹም ድማ እየ ፈሪድሲ ፍትሓት።",
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "ኣውጽኤኩም እየ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ንኹም"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "ካብ ውሽጣ"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ሃብኩም እየ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ንኹም"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ኣብ ኢድ"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ኣቆባት"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "እየ ፈሪድሲ"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ኣብ ማዕበላትኹም"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ፍትሓት"
+    }
+  ],
+  "timestamp": "2026-09-19T03:26:19.173403783Z",
+  "model": "glm-5.3"
+}

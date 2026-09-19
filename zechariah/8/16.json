@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 8:16",
+  "book": "zechariah",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እዚኦም እተን ክትገብሩ ኢኹም ቃላት እዚኦም እዮም፤ ሓደ ሰብ ⟨את⟩ መሓውሩ ሓቂ ተዛረቡ፣ ሓቂን ሰላማዊ ቕጻለን ኣብ ኣፍራጋትኹም ፈርድዎ።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እተን"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ክትገብሩ ኢኹም"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ተዛረቡ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ሓቂ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሓደ ሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሓውሩ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "መሓውሩ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ሓቂ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ቕጻለን"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላማዊ"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "ፈርድዎ"
+    },
+    {
+      "surface": "בשעריכם",
+      "gloss": "ኣብ ኣፍራጋትኹም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:36:35.929257726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 4:10",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣብ ርእይቶታት ርእሰይ ኣብ ኣልባቢይ ነይረ እናረኣየ፣ እንሆ ሓደ ጠባቢ ቅዱስ ካብ ሰማያት ወሪዱ መጸ።",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "እናረኣየ"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "ነይረ"
+    },
+    {
+      "surface": "בחזוי",
+      "gloss": "ኣብ ርእይቶታት"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ርእሰይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ኣልባቢይ"
+    },
+    {
+      "surface": "ואלו",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ጠባቢ"
+    },
+    {
+      "surface": "וקדיש",
+      "gloss": "ቅዱስ ድማ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ወሪዱ መጸ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:54:23.397930457Z",
+  "model": "glm-5.3"
+}

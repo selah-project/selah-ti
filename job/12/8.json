@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 12:8",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ወይ ምስ ምድሪ ተዛረብ፣ ነታ ድማ ትምሃረካ፤ ሓሰብቲ ባሕሪ ድማ ንስኻ ክንግረኻ እየን።",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "ተዛረብ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ምስ ምድሪ"
+    },
+    {
+      "surface": "ותרך",
+      "gloss": "ትምሃረካ"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "ክንግረኻ እየን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "דגי",
+      "gloss": "ሓሰብቲ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:08:19.807811192Z",
+  "model": "glm-5.3"
+}

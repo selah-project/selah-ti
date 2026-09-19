@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ነቲ ህይወት ነተን ⟨את⟩ እቲ ህይወት ጸቐጸርኩ፣ ምኽንያቱ እቲ ስራሕ እቲ ትሕቲ ጸለማት ዝተገበረ ንዓይ ኣጽኒዑ እዩ፣ ምኽንያቱ ኩሉ ባዶነትን ምስራሕ ንፋስን እዩ።",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "ጸቐጸርኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ህይወት"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "እቲ ህይወት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ኣጽኒዑ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "እቲ ስራሕ"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "ዝተገበረ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ጸለማት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ባዶነት"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ምስራሕ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ንፋስ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:40:46.907656832Z",
+  "model": "glm-5.3"
+}

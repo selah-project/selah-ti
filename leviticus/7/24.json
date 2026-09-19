@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ስብሒ እታ ባዕላ ዝሞተትን ስብሒ እታ ዝተበርኸተትን ንዝኾነ ግብሪ ክውዕል ይኽእል እዩ፤ ኣብ ምብላዕ ግን ፈጺሙ ኣይትብልዑዎን።",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "ስብሒ"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ዝሞተት"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "ስብሒ"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "ዝተበርኸተት"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ክውዕል ይኽእል"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንዝኾነ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ግብሪ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ምብላዕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "ትብልዑዎ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:48:34.954189721Z",
+  "model": "glm-5.3"
+}

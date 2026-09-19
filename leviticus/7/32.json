@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ድማ ⟨את⟩ ክራቢ የማን ንነብዪኹም ከም ተረፋ ማሕረት ካብ ወፈያት ሰላምኩም ክትህቡ ኢኹም።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ክራቢ የማን"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ክራቢ"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "የማን"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ክትህቡ ኢኹም"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "ከም ተረፋ ማሕረት"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ንነብዪኹም"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "ካብ ወፈያት"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "ሰላምኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:49:08.685512581Z",
+  "model": "glm-5.3"
+}

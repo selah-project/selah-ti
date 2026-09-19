@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ብሁራዊ ይፍራ፣ ካብ ኣበይታ ይርሕብ፤ እቲ ዕሽሉ ግን ስርዓት የብሉን፣ ድማ ያመን።",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "ብሁራዊ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ይፍራ"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "ይርሕብ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ካብ ኣበይታ"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "እቲ ዕሽሉ"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "ስርዓት የብሉን"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "ያመን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:48:13.659611928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ኹሉ እቲ ሕዝቢ ዓምዲ ⟨את⟩ እቲ ደመና ኣብ ኣፍደገ እቲ ማሕደር ከም ዝተቐሚጡ ረኣየ፣ ኩሉ እቲ ሕዝቢ ተኣሚጡ ነፍሲ ሰብ ኣብ ኣፍደገ ዓድኡ ሰገደ።",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓምዲ እቲ ደመና"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "ዓምዲ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "እቲ ደመና"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ዝተቐሚጡ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣብ ኣፍደገ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "እቲ ማሕደር"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ተኣሚጡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "ሰገደ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ሰብ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣብ ኣፍደገ"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ዓድኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:40:35.335563138Z",
+  "model": "glm-5.3"
+}

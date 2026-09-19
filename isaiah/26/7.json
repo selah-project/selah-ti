@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "መገዲ ናይ ጽድቃዊ ቅኑዕነት እዩ፤ ንስኻ ብዛዕባ መገዲ ጽድቃዊ ትሰልዮ።",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "መገዲ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ናይ ጽድቃዊ"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ቅኑዕነት"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ንስኻ ቅኑዕ"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "ብዛዕባ መገዲ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጽድቃዊ"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "ትሰልዮ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:56:19.076269101Z",
+  "model": "glm-5.3"
+}

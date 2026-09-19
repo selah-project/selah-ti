@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ኣሕሊባማሃ ድማ ያዕይሽን ⟨את⟩ ያዕላምን ⟨את⟩ ቆራሕን ወሊዳ፤ እዚኦም ኣብ ምድሪ ከነዓን እና ተወሊዱ ንኡ ዝተወለዱ ውላድ ዓሳው እዮም።",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "ኣሕሊባማሃ ድማ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ወሊዳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያዕይሽን"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "ያዕይሽን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ያዕላምን"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "ያዕላምን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቆራሕን"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ቆራሕን"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዓሳው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እና ተወሊዱ ንኡ ዝተወለዱ"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "እና ተወሊዱ ንኡ ዝተወለዱ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዓን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:57:04.618190458Z",
+  "model": "glm-5.3"
+}

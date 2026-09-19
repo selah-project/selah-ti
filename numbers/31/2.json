@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ንውላደ እስራኤል ብእክቲ ሚድያን ⟨את⟩ ተፈርዮም ገበርዎ፤ ድሕሪኡ ናብ ህዝቢኻ ተቐኣጠ።",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "ተፈርዮም ገበርዎ፤"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "እንታይቲ ፈርያት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ብእኽቲ ሚድያን"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "እቶም ሚድያናውያን"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ድሕሪኡ"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "ተቐኣጠ።"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "ህዝቢኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:40:13.921267818Z",
+  "model": "glm-5.3"
+}

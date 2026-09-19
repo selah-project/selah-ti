@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "እቲ ሰብ ሞሸ ድማ ካብ ኩሉ ሰብ ኣብ ገጽ ምድሪ ዝነብር ኣዝዮ ትሑት ነይሩ።",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ትሑት"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ኣዝዮ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:23:16.784469256Z",
+  "model": "glm-5.3"
+}

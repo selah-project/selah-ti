@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 15:14",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ሰምዑሉ ኣህዛብ፣ ተሰንቐዩ፤ እቶም ኣብ ፈሊስታ ዝነብሩ ምጽናን ደረቦም።",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ሰምዑሉ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "ተሰንቐዩ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ምጽናን"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ደረቦም"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ዝነብሩ"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "ፈሊስታ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:20:21.358457855Z",
+  "model": "glm-5.3"
+}

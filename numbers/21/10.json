@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 21:10",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ውላድ ይስራኤል ድማ ተኣሳሱሎም፣ ኣብ ኦቦት ድማ ሰፈሩ።",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ተኣሳሱሎም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ሰፈሩ"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "ኣብ ኦቦት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:29:00.286848399Z",
+  "model": "glm-5.3"
+}

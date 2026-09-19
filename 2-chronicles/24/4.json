@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 24:4",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ድሕሪ እዚ ድማ ምስ ልቢ ዮኣሽ ⟨את⟩ ቤት ያህዌህ ንምሕዳስ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ዮኣሽ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ንምሕዳስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት ያህዌህ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:09:51.315027960Z",
+  "model": "glm-5.3"
+}

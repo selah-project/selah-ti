@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "እስራኤል ንእሽቶ እኰነ ወደደዮ፣ ካብ ሚጽራይም ድማ ንወደይ ቐረብኩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ንእሽቶ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "ወደደዮ"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "ካብ ሚጽራይም"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ቐረብኩ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንወደይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:09:46.609580836Z",
+  "model": "glm-5.3"
+}

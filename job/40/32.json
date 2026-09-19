@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ኣኳኻ ኣብ ላዕሊኡ ኣቐምጥ፤ ነቲ ውግእ ኣስተውሐስ — ደጊምካ ኣይትውስኽ።",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "ኣቐምጥ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ላዕሊኡ"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "ኣኳኻ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ኣስተውሐስ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ውግእ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "ትውስኽ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:25:13.149935682Z",
+  "model": "glm-5.3"
+}

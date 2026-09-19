@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 136,
+  "translation": "ኣብ ምዝውሪትና ዝነስተና፤ ምኽንያቱ ናብ ዘለኣለም ሔሴዱ እዩ።",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "ኣብ ምዝውሪትና"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ዝነስተና"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:56.931367225Z",
+  "model": "glm-5.3"
+}

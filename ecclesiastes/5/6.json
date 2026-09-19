@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ብዙሕ ሕልሚታትን ሓባርታትን ብዙሕ ቃላትን ስለ ዘለዉ፣ ነቲ ⟨את⟩ ኤሎሂም ተሪር።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ ዘለዉ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ኣብ ብዙሕ"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "ሕልሚታት"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "ሓባርታትን"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ቃላትን"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂም"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ተሪር"
+    }
+  ],
+  "timestamp": "2026-09-19T06:43:25.611777426Z",
+  "model": "glm-5.3"
+}

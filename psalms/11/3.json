@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ምኽንያቱ መሰረታት ክሕንጹ እንተ ዀኖም፡ እቲ ጻድቕ እንታይ ገበረ፧",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "መሰረታት"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "ክሕንጹ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "እቲ ጻድቕ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ገበረ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:58.860000007Z",
+  "model": "glm-5.3"
+}

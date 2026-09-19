@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣነ ድማ ሓረዮም፣ ኣካባታቶም ኣሓሊንን፣ ንሳቶም ግን ብዛዕበይ ንኽንድት ይሓስቡ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "ሓረዮም"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "ኣሓሊንን"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "ኣካባታቶም"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ይሓስቡ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ንኽንድት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:08:57.847235719Z",
+  "model": "glm-5.3"
+}

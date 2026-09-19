@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 23:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ኣብ ድሕሪ ብዙሓት ንምግባር ኣይትከውንን ክፉእ፤ ኣብ ምዃዕቲ ዓይኒ ኣብ ክንዲ ምዝዋር ኣብ ድሕሪ ብዙሓት ንምዝዋር ደሊን ኣይትምለስን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ትከውን"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ኣብ ድሕሪ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "לרעת",
+      "gloss": "ንምግባር ክፉእ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ከምኡውን ኣይ…ን"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ትምለስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ክንዲ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ምዃዕቲ ዓይኒ"
+    },
+    {
+      "surface": "לנטת",
+      "gloss": "ንምዝዋር"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ኣብ ድሕሪ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "להטת",
+      "gloss": "ንምዝዋር ደሊን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:28:35.083236201Z",
+  "model": "glm-5.3"
+}

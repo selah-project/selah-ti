@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 77,
+  "translation": "ኣነ ድማ ኢለ በሃይ፦ እዚ ሕመሜይ እዩ፤ ዓመታት ናይ የማን ዔልዮን።",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ድማ ኢለ በሃይ"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "ሕመሜይ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እዚ እዩ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ናይ የማን"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ዔልዮን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:50.323460682Z",
+  "model": "glm-5.3"
+}

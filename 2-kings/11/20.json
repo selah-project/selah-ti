@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኩሉ ሕዝቢ ምድሪ ተዓወተ፣ እቲ ከተርስቲ ድማ ዓረቐት፤ ⟨את⟩ ዓትልያሁ ድማ ብሰይፊ ኣብ ቤት እቲ ንጉስ ቐተሉዋ።",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "ተዓወተ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "እቲ ከተርስቲ"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "ዓረቐት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓትልያሁ"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "ዓትልያሁ"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ቐተሉዋ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ብሰይፊ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "እቲ ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:27:38.771299091Z",
+  "model": "glm-5.3"
+}

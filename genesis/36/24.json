@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 36:24",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "እዚኦም ውላድ ጽብዓን፦ ኣይኣን ዓናን፤ ንሱ ድማ ዓና እዩ — ነቶም ያምታት ኣብ ምድረ-በረሃ ኣብ ዝሰብሕ ኣባጊራ ጽብዓን ኣቦኡ እተራእየ።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "ጽብዓን"
+    },
+    {
+      "surface": "ואיה",
+      "gloss": "ኣይኣ"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "ዓናን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ዓና"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "እተራእየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያምታት"
+    },
+    {
+      "surface": "הימם",
+      "gloss": "ያምታት"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድረ-በረሃ"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "ኣብ ዝሰብሕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣባጊራ"
+    },
+    {
+      "surface": "החמרים",
+      "gloss": "ኣባጊራ"
+    },
+    {
+      "surface": "לצבעון",
+      "gloss": "ጽብዓን"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:56:40.128217727Z",
+  "model": "glm-5.3"
+}

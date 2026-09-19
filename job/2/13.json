@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 2:13",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሸውዓተ መዓልታትን ሸውዓተ ለይትታትን ኣብ ምድሪ ⟨את⟩ ምስ እቲ ሰብ ተቐመጡ፣ ንሱ ድማ ቃል ዝዛረብ የለን፣ ምኽንያቱ እቲ ሕማቕ ብጣዕሚ ዓቢ ምዃኑ ረኣዩ እዮም።",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ተቐመጡ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ምስ ንሱ (ኢዮብ)"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ሸውዓተን"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "ለይትታት"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ድማ የለን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝዛረብ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ረኣዩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "הכאב",
+      "gloss": "እቲ ሕማቕ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:00:11.916594461Z",
+  "model": "glm-5.3"
+}

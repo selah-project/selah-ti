@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "«ኣዒንቲ፣ ንስኺ ገና ኣብቲ ምስ እቲ ንጉስ ተዛራባት ኣለኪ፣ ኣነ ድማ ድሕሪኪ ክኣትየ፣ ⟨את⟩ ቃላትኪ ድማ እጨምር።»",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ኣዒንቲ"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "ገና"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "ተዛራባት"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብቲ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ክኣትየ"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ድሕሪኪ"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "እጨምር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላትኪ"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ቃላትኪ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:45:07.407162774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "ሰብ ናብ ስራሑ ይወጽእ፣ ንጕልላቱ ድማ ክሳብ ምሸት።",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "ይወጽእ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "ናብ ስራሑ"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "ንጕልላቱ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ምሸት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:32.506205816Z",
+  "model": "glm-5.3"
+}

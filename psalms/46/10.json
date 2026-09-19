@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 46,
+  "translation": "ክሳብ ዓንዲ ⟨እታ⟩ ምድሪ ውግኣት የቋርጽ፤ ቐስቢ ይሰብር፣ ሞራሕን ይቁረጽን፣ መካልባት ኣብ እሳት የቕልጥ።",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "የቋርጽ"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "ውግኣት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ዓንዲ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ቐስቢ"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ይሰብር"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "ይቁረጽን"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ሞራሕ"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "መካልባት"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "የቕልጥ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ኣብ እሳት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:32.463963813Z",
+  "model": "glm-5.3"
+}

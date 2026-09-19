@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ከም ጥሬ መግቢ ነይርና ብሃብካና፣ ኣብ መንጎ ኣህዛብ ድማ በቲሕካና።",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "ብሃብካና"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ከም ጥሬ"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "መግቢ"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "ኣብ መንጎ ኣህዛብ"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "በቲሕካና"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:12.236020518Z",
+  "model": "glm-5.3"
+}

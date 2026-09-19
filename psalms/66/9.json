@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 66,
+  "translation": "ነፍሲና ኣብ ህይወት ዝዓተተ እዩ፤ እግርናን ንምዝዋርን ኣይሃበን።",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "ዝዓተተ"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ነፍሲና"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "ኣብ ህይወት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "ንምዝዋር"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "እግርና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:03.029923335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ምኽንዳይ ቀሊላት ይቕትሎም፣ ውሽጢ ኣውያት ድማ ይጠፍኦም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንዳይ"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "ምምላስ"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "ቀሊላት"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "ይቕትሎም"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "ውሽጢ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ኣውያት"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "ይጠፍኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:41:07.751000665Z",
+  "model": "glm-5.3"
+}

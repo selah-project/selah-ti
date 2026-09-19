@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 52,
+  "translation": "ኣነ ድማ ከም ዘይቲ ለምለም ኣብ ቤት ኤሎሂም እየ፤ ኣብ ሔሴድ ኤሎሂም ንዘለኣለም ንዘለዓለምን ተኣመንኩ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "ከም ዘይቲ"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ለምለም"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ተኣመንኩ"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "ኣብ ሔሴድ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ንዘለኣለም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ንዘለዓለምን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:06.648138208Z",
+  "model": "glm-5.3"
+}

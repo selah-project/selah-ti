@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ያህዌህ፣ ክጾርእ ኣይግበአን፣ እሞ ኣብ ዝዛረብካ ስለ ዝነበርኩ፤ ኣብራጊዓን ክጾሩ፣ ናብ ሽኦል ክስተዩ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ክጾርእ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ…ስለ"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ኣብ ዝዛረብካ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ክጾሩ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኣብራጊዓን"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "ክስተዩ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ናብ ሽኦል"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:40.603891081Z",
+  "model": "glm-5.3"
+}

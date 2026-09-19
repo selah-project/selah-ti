@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ሞሸ ድማ ሰምዐ፣ ኣብ ኣእይንቱ ድማ ብጽቡእ ኮይኑ በጽሐ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "ብጽቡእ ኮይኑ በጽሐ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ኣብ ኣእይንቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:54:49.306758373Z",
+  "model": "glm-5.3"
+}

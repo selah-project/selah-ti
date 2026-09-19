@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ነቲ ወልዒ ⟨את⟩ ናብ ወጻኢ ማሕደር ውጽኡ፣ ከም እተቐድሐ ነቲ ቀዳማይ ወልዒ ⟨את⟩ ከምኡ ድማ ቐድሖ፤ ወፈያ ሓጥያት ናይ እቲ ቅብሪ እዩ።",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "ውጽኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ወልዒ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ወልዒ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ወጻኢ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "ቐድሖ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ከም"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ቐድሐ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ወልዒ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ወልዒ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ቀዳማይ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ወፈያ ሓጥያት"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ቅብሪ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:49:30.934191468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኣይትመልስን ናብ ምድሪ ሚጽራይም፤ ኣሹር እዩ ንጉሶም፤ ምኽንያቱ ክመልሳ ኣየብልዩን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "እትመልስን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "ኣሹር ድማ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "ንጉሶም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ኣየብልዩን"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ክመልሳ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:10:45.121141265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "የሁ ⟨את⟩ ኩሉ ሕዝቢ ኣካፊሉ «ኣሕኣብ ትንኽቲ ⟨את⟩ ባዕል ኣገልገሎ፣ የሁ ግን ብዙሕ ኪገልግሎ እዩ» በሎም።",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "ኣካፊሉ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "የሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ሕዝቢ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎም"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ኣሕኣብ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ኣገልገሎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ባዕል"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ባዕል"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ትንኽቲ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "የሁ"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "ኪገልግሎ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:20:16.198750344Z",
+  "model": "glm-5.3"
+}

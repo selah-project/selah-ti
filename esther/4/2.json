@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ክሳብ ቅድመ ኣፍሪቕ እቲ ንጉስ ከደ፣ እሞ ብለባስቲ ሽኮ ናብ ኣፍሪቕ እቲ ንጉስ ክኣቶ የይኸልኣንን ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድመ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ኣፍሪቕ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ ምኽንያቱ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የይኸልኣንን"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ክኣቶ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ኣፍሪቕ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "ብለባስቲ"
+    },
+    {
+      "surface": "שק",
+      "gloss": "ሽኮ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:48:22.317749928Z",
+  "model": "glm-5.3"
+}

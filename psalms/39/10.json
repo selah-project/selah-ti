@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ተዓጸእኩ፤ ኣፍተይ ኣይኽፈትን፣ ምኽንያቱ ንስኻ ገበርካዮ።",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "ተዓጸእኩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ክፈት"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ኣፍተይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ገበርካዮ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:49.610727392Z",
+  "model": "glm-5.3"
+}

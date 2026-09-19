@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ከምኡውን ላሕሚ ⟨את⟩ ሰብ ወይ ⟨את⟩ ሰበይቲ ከም ዝሞተ፣ ⟨እታ⟩ ላሕሚ ብድምጺ ትቐተል፣ ብሑጹ ኣይተበሊዑን ⟨את⟩ ከሳራኣ፣ እቲ ባለቤት ናይታ ላሕሚ ድማ ዝንጹሕ እዩ።",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "የነግሐ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ላሕሚ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰብ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰበይቲ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ከም ዝሞተ"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "ብድምጺ"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "ትቐተል"
+    },
+    {
+      "surface": "השור",
+      "gloss": "እታ ላሕሚ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበልዕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከሳራኣ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ከሳራኣ"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ባለቤት ድማ"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ናይታ ላሕሚ"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ዝንጹሕ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:28:09.087148249Z",
+  "model": "glm-5.3"
+}

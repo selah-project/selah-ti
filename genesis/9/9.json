@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣነ ድማ ኣሎኹ፣ ኪዳንይ ⟨את⟩ ምስ ኣኹምን ⟨את⟩ ምስ ዘርእኹም ኣብ ድሕሪኹም ኣቐምጥ ኣሎኹ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ኣሎኹ"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "ኣቐምጥ ኣሎኹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኪዳንይ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳንይ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ምስ ኣኹም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዘርእኹም"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "ዘርእኹም"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "ኣብ ድሕሪኹም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:35:11.479318937Z",
+  "model": "glm-5.3"
+}

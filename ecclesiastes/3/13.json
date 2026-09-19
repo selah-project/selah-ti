@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ከምኡውን ነፍሲ ወከፍ ሰብ ክብልዕ፣ ክሰትይ፣ ብኹሉ ዕደሙ ጽቡቕ ክረኣይ — እዚ ሃብቲ ኤሎሂም እዩ።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "ክብልዕ"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ክሰትይ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ክረኣይ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡቕ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብኹሉ"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ዕደሙ"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "ሃብቲ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:39:49.422075872Z",
+  "model": "glm-5.3"
+}

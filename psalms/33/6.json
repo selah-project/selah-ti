@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ብቃል ያህዌህ ሰማያት ተፈጠራ፤ ብትንፋስ ኣፉን ኩሎም ጸባኣቶም ተገብራ።",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "ብቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "ተፈጠራ"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "ብትንፋስ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ኣፉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ጸባኣቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:19.627273305Z",
+  "model": "glm-5.3"
+}

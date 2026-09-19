@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ነቲ ካልኣይ ድማ ኣልዒዘር እዩ፣ ምኽንያቱ «ኤሎሂም ኣቦይ ሓገዠኒ፣ ካብ ሰይፊ ፓርዖን ናጸነኒ» በለ።",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ስምን"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ካልኣይ"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "אליעזר"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦይ"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "ሓገዠኒ"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "ናጸነኒ"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ካብ ሰይፊ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "פרעה"
+    }
+  ],
+  "timestamp": "2026-09-18T21:25:36.688528163Z",
+  "model": "glm-5.3"
+}

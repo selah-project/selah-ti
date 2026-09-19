@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ተንሳእ ያህዌህ፤ ሰብኣዊ ኣይጽንዕን፤ ኣህዛብ ኣብ ቅድሚ ገጽካ ክፍደሉ።",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ተንሳእ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "ክጽንዕ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሰብኣዊ"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "ክፍደሉ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽካ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:32.771515225Z",
+  "model": "glm-5.3"
+}

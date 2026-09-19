@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "እቲ ሕዝቢ ሞሸ ጸለመዮ፤ «ማይ ሃቡና ንሰትየሉ» በሉ። ሞሸ ድማ ነቶም ከምዚ በሎም፦ «ስለምንታይ ትጸልሙኒ፧ ስለምንታይ ያህዌህ ⟨את⟩ ትፈትኑዮ፧»",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "ጸለመዮ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ሃቡና"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንዓና"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "ንሰትየሉ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ስለምንታይ"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "ትጸልሙኒ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ምሳይ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ስለምንታይ"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "ትፈትኑዮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:24:45.492043634Z",
+  "model": "glm-5.3"
+}

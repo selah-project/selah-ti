@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሑር ድማ ኣውሪን ⟨את⟩ ወለደ፤ ኣውሪ ድማ ብጽልኤልን ⟨את⟩ ወለደ።",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "ሑር ድማ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣውሪ"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ኣውሪ"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "ኣውሪ ድማ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብጽልኤል"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "ብጽልኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T07:29:52.946949212Z",
+  "model": "glm-5.3"
+}

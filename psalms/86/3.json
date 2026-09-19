@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 86,
+  "translation": "ኣዶናይ ምሕረነይ፣ ምኽንያቱ ኩሉ መዓልቲ ንኣኻ እጸውዕ።",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ምሕረነይ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ንኣኻ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "እጸውዕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "መዓልቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:48.896384486Z",
+  "model": "glm-5.3"
+}

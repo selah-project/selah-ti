@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 10:9",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ወይኒን መሰክራዊ ኣይትሰቱን፣ ንስኻን ውላድካን ⟨את⟩ ምስኻ፣ ኣብ ምእታይኹም ናብ ⟨እቲ⟩ ድንቆብ ስብሰባ — ከምኡ ኣይትሞትን፤ ንውላድኹም ሕጊ ዘለኣለም ⟨እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "יין",
+      "gloss": "ወይኒ"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "መሰክራዊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "ትሰቱ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ውላድካ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ምስኻ"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "ኣብ ምእታይኹም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንቆብ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ስብሰባ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ከምኡ ኣይ"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "ኣይትሞትን"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ሕጊ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ንውላድኹም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:53:31.250957552Z",
+  "model": "glm-5.3"
+}

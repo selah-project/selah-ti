@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 3:15",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ውላደ ያሸያሁ ድማ፦ እቲ ቀዳማይ ወዲ ዮሕናን፣ ካልኣይ ያሁያቊም፣ ሳልሳይ ጽድቕያሁ፣ ራብዓይ ሻሎም።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ያሸያሁ"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "እቲ ቀዳማይ ወዲ"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "ዮሕናን"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ካልኣይ"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "ያሁያቊም"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ሳልሳይ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ጽድቕያሁ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ራብዓይ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሻሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:30:56.187676779Z",
+  "model": "glm-5.3"
+}

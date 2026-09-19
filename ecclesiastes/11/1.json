@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ንሕሙዕትካ ኣብ ገጽ ⟨እቶም⟩ ማይ ልኣኽ፤ እንተኾይኑ ብብዙሕ መዓልታት ትረኽቦ እዩ።",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ልኣክ"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ንሕሙዕትካ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተኾይኑ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ብብዙሕ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "ትረኽቦ እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:43:54.820581221Z",
+  "model": "glm-5.3"
+}

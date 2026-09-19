@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "ኣነ ግን ደቂቕን ሕማቕን እየ፤ ናይ ያህዌህ ረዲእታ ኣይ ከም ዝሓውሶኒ እያ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ግን እየ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ደቂቕ"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "ሕማቕን"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "ረዲእታ ናይ ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "ከም ዝሓውሶኒ እያ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:15.180635351Z",
+  "model": "glm-5.3"
+}

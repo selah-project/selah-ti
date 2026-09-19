@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ያህዌህ ድማ ኣብ ልዕሊ የሆራም ⟨את⟩ መንፈስ ፍልስጤማውያንን ዓረባውያንን እቶም ኣብ መንጎ ኩሻውያን ዘለዉ ኣነቐሖ።",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "ኣነቐሖ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "የሆራም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንፈስ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "ፍልስጤማውያን"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "ዓረባውያን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "መንጎ"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "ኩሻውያን"
+    }
+  ],
+  "timestamp": "2026-09-19T08:10:16.937399135Z",
+  "model": "glm-5.3"
+}

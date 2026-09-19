@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣቢጋይል ድማ ዓምሳን ወለደት፤ ኣቦ ⟨את⟩ ዓምሳ ድማ ይተር እቲ ይስማዕኤላይ እዩ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "ኣቢጋይል ድማ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ወለደት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓምሳ"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "ዓምሳ"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "ዓምሳ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ይተር"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "እቲ ይስማዕኤላይ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:29:52.945949492Z",
+  "model": "glm-5.3"
+}

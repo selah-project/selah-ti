@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ንያህዌህ ንምግብግብያ እዋን እዩ፤ ቶራኻ ኣበይርዎ።",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "እዋን እዩ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ንምግብግብያ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "ኣበይርዎ"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ቶራኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:59.147275306Z",
+  "model": "glm-5.3"
+}

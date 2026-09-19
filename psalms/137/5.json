@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 137,
+  "translation": "የሩሻላይም እንተ ረሲየኸለሃ፣ ኢደይ የመንዲ ተረሲያ እያ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "ረሲየኸለሃ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ተረሲያ"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "ኢደይ የመንዲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:38:12.792206188Z",
+  "model": "glm-5.3"
+}

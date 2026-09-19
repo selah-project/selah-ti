@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እቲ ሕዝቢ ግና ናብ እቲ ዝሰቒሎ ኣይተመለሰን፣ ያህዌህ ጸባኦትን ⟨את⟩ ኣይደለዩን።",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "እቲ ሕዝቢ ግና"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ተመለሰን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "እቲ ዝሰቒሎ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ ጸባኦት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ደለዩን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:48:08.183511832Z",
+  "model": "glm-5.3"
+}

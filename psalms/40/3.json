@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ካብ ጉድን ጉህታ፣ ካብ ጭብጥ ጭቃ ዓሪጸኒ፣ እግረይ ኣብ ዘንቀጽ ኣቐሚጡኒ፣ እርባታተይ ድማ ኣረጋገጸ።",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "ዓሪጸኒ"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "ጉድን"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ጉህታ"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "ጭብጥ"
+    },
+    {
+      "surface": "היון",
+      "gloss": "ጭቃ"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ኣቐሚጡኒ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "ዘንቀጽ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "እግረይ"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "ኣረጋገጸ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "እርባታተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:38.453170799Z",
+  "model": "glm-5.3"
+}

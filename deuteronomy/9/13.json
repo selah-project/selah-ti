@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ያህዌህ ድማ ንዓይ ኢሉ በለ፦ «እዚ ህዝቢ እዚ ⟨את⟩ ረኣኹዎ፣ ኣሮ ከቢድ ኣእማን ህዝቢ ⟨እዩ⟩።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ረኣኹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እዚ ህዝቢ እዚ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣሮ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ከቢድ"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ኣእማን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨እዩ⟩"
+    }
+  ],
+  "timestamp": "2026-09-18T22:53:22.333010583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኣብ መጀመርታ ናይ ምቕማቦም ኣብኡ ያህዌህ ኣይፈርህዎን፤ ያህዌህ ድማ ብመንጎም ⟨את⟩ እተን ኣናት ለኣኾ፤ ንሳቶም ኣብኦም ቀተልቲ ኮይኖም ነይሮም።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "ኣብ መጀመርታ"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "ምቕማቦም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ኣይፈርህዎን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ለኣኾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ብመንጎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እተን ኣናት"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "እተን ኣናት"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ኮይኖም"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "ቀተልቲ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ኣብኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:34:24.681522737Z",
+  "model": "glm-5.3"
+}

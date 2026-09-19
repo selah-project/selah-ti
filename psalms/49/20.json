@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "ናብ ትውልዲ ኣቦታቱ ይኣቱ፤ ኽሳብ ዘለኣለም ብርሃን ኣይረእዩን።",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "ይኣቱ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ትውልዲ"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "ኣቦታቱ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ኽሳብ"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ዘለኣለም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ይረእዩ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:39.361523720Z",
+  "model": "glm-5.3"
+}

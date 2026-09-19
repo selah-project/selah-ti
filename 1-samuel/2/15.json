@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 2:15",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እውን ቅድሚ ክቖርዮም ⟨את⟩ ዘንጸልጾ ወዲ ካህን ክመጽእ ነበረ፣ ነቲ ሰብ እቲ ዋህሮ ድማ ኢሉ፦ «ንካህን ንሓሙም በሽላ ሃብ፤ ስለዚ ካባኻ ዝተሓለወ በሽላ ኣይወሲድን፣ ህያው ጥራይ እዩ ዝወሲድ።»",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "ክቖርዮም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዘንጸልጾ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ዘንጸልጾ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ክመጽእ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ኢሉ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ነቲ ሰብ"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "እቲ ዋህሮ"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ሃብ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "በሽላ"
+    },
+    {
+      "surface": "לצלות",
+      "gloss": "ንሓሙም"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ንካህን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይወሲድን"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ይወሲድ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ካባኻ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "በሽላ"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "ዝተሓለወ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ህያው"
+    }
+  ],
+  "timestamp": "2026-09-18T23:58:00.354338903Z",
+  "model": "glm-5.3"
+}

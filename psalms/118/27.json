@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 118:27",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 118,
+  "translation": "ኤል ያህዌህ እዩ፣ ብርሃን ኣበለና፤ ነቲ በዓል ብገመዳት ክሳብ ቀርንጾት እቲ መስዊን ኣስሩ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "ኣበለና"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንና"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "ኣስሩ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "በዓል"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "ብገመዳት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "ቀርንጾት"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "እቲ መስዊን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:32.539383971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ወይ ኩርዕቲ ምድሪ ምስልኢ ማዕበል፣ እታ ካብ ለሓቃት ኩሽ ኣብ ልዕሊ ዝርከብ።",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ወይ ኩርዕቲ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "ምስልኢ ማዕበል"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ክንፊ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "ካብ ለሓቃት"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ኩሽ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:55:03.886050175Z",
+  "model": "glm-5.3"
+}

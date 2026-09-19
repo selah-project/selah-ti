@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ኣሕዙሩ ድማ ቐንዩሉ፤ ኣቡኡ ግና ⟨את⟩ ነቲ ቃል ተዓቕቦ ደየ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "ቐንዩሉ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ኣሕዙሩ"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "ኣቡኡ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ተዓቕቦ ደየ ነይሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ቃል"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ነቲ ቃል"
+    }
+  ],
+  "timestamp": "2026-09-18T20:56:23.762607424Z",
+  "model": "glm-5.3"
+}

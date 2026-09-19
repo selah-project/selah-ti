@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 1:15",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ምስ እትዓርፉ ኣኽሊፍትኩም ክሓብእ ዓይኒ ካብኩም፤ እኳ ከምቲ ትብዙሕዎ ጸሎት ኣይኮነን ሰምዐን፤ ኢድኩም ደም ተመልኣዮ።",
+  "tokens": [
+    {
+      "surface": "ובפרשכם",
+      "gloss": "ምስ እትዓርፉ"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "ኣኽሊፍትኩም"
+    },
+    {
+      "surface": "אעלים",
+      "gloss": "ክሓብእ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኒ"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ካብኩም"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እኳ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "תרבו",
+      "gloss": "ትብዙሕዎ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ጸሎት"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዐን"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "ኢድኩም"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ተመልኣዮ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:39:56.463573770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 141,
+  "translation": "እቶም ክፉኣት ኣብ ማሕደሮቶም ሮድኦም ውዕሉ፣ ኣነ ግና ክሳብ እተሓልፈ እየ።",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "ውዕሉ"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "ኣብ ማሕደሮቶም"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "እቶም ክፉኣት"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ሮድኦም"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "እተሓልፈ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:38.817999063Z",
+  "model": "glm-5.3"
+}

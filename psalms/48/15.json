@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "ምኽንያቱ እዚ ኤሎሂም ኤሎሂምና እዩ፣ ናይ ዘለኣለም ክሳብ ዘለኣለም፤ ንሱ ኣብ ሞት ድማ ይመርሕና እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ናይ ዘለኣለም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ ዘለኣለም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "ይመርሕና"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:42.035947130Z",
+  "model": "glm-5.3"
+}

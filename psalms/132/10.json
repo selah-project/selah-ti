@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 132,
+  "translation": "ንዳዊድ ኣገልጋሊኻ ስለ፡ ኣይትምለስ ገጽ ማሺያሕኻ።",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልጋሊኻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ተምለስ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "ማሺያሕኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:13.667575258Z",
+  "model": "glm-5.3"
+}

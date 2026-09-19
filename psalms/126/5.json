@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 126,
+  "translation": "እቶም ብሓብራ ዝዘሩ፣ ብዘፍን ክሃርሱ እዮም።",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "እቶም ዝዘሩ"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "ብሓብራ"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ብዘፍን"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "ክሃርሱ እዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:11.863299376Z",
+  "model": "glm-5.3"
+}

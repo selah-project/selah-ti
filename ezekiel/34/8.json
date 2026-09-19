@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 34:8",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ኣነ ሕያው እየ እትብል ኣዶናይ ያህዌህ፤ እምበር እቲ ጠጅይ ንምውራድ ስለ ዝኾነ፣ እቲ ጠጅይ ንኹሉ እንስሳ ዓዲ ንምግቢ ኮይኑ፣ ኣርዑት ስለ ዘይነበረ፣ ኣርዑተይ ⟨את⟩ ጠጅይ ኣይደለዩን፣ እቶም ኣርዑት ድማ ዓጀጋቶም ዝእተዉ እዮም፤ ⟨את⟩ ጠጅይ ድማ ኣይሓብዩን።",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "እትብል"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እምበር"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ስለ ዝኾነ"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "ጠጅይ"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "ንምውራድ"
+    },
+    {
+      "surface": "ותהיינה",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "ጠጅይ"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "ንምግቢ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "חית",
+      "gloss": "እንስሳ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ዓዲ"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ስለ ዘይነበረ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ኣርዑት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ደለዩ"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "ኣርዑተይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጠጅይ"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "ጠጅይ"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "ሓቡዩ"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "እቶም ኣርዑት"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ዓጀጋቶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጠጅይ"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "ጠጅይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "ሓቡዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:48:06.286395123Z",
+  "model": "glm-5.3"
+}

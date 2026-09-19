@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ያህዌህ ድማ ካብ እቲ ህቦብላ ኣይዩብን መልሲ ሂቡ «ከምዚ በለ»፦",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መልሲ ሂቡ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣይዩብ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኣይዩብ"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "እቲ ህቦብላ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "«ከምዚ በለ»"
+    }
+  ],
+  "timestamp": "2026-09-19T06:24:14.464292315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ካህኑ ድማ ⟨את⟩ እቲ ህያው ስጲጲ ምስ ረኣየ ንጹእ ኢሉ ኣተምነዎ — እቲ ህያው ስጲጲ ንጹእ ⟨እዩ⟩፤ ጸርዓት ⟨እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ምስ ረኣየ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ህያው ስጲጲ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ስጲጲ"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ህያው"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "ንጹእ ኢሉ ኣተምነዎ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ስጲጲ"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ህያው"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ንጹእ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ጸርዓት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:55:51.510732065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 46,
+  "translation": "ሓርፉ፣ ኣነ ኤሎሂም እየ እፈሩ፤ ኣብ ህዝብታት ከፍኣለኹ፣ ኣብ ⟨እታ⟩ ምድሪ ከፍኣለኹ።",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "ሓርፉ"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "እፈሩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ንበይኡ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ከፍኣለኹ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ኣብ ህዝብታት"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ከፍኣለኹ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:32.464233003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 5:2",
+  "book": "amos",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ወደቐት፣ ክትዕምብ ድሕሪኡ ኣይትውሳኽን፤ ድንግል እስራኤል ተረፊኣ ኣብ ምድራ ኣብኡ፣ ዝተሓልዋ የለን።",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "ወደቐት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "ክትውሳኽ ድሕሪኡ"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ክትዕምብ"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "ድንግል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "נטשה",
+      "gloss": "ተረፊኣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "אדמתה",
+      "gloss": "ምድራ ኣብኣ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "מקימה",
+      "gloss": "ዝተሓልዋ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:18:37.326860776Z",
+  "model": "glm-5.3"
+}

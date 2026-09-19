@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ውን ኣመስግነ እየ ⟨את⟩ እቶም ሙታን እቶም ድሮ ዝሞቱ፣ ካብ እቶም ህያዋት እቶም ንሳቶም ክሳብ ሕጂ ህያዋት እዮም።",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "ውን ኣመስግነ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ሙታን"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "እቶም ሙታን"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "ድሮ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ዝሞቱ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "እቶም ህያዋት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ህያዋት"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "ክሳብ ሕጂ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:41:18.379873191Z",
+  "model": "glm-5.3"
+}

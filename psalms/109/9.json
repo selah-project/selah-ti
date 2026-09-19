@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "ውላዱ ኣቦኦም ዝሰደቱ ኮይኖም እዮም፣ ሰበይቱ ከኣ ኣርማላት ትኹን።",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ኮይኖም እዮም"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "ኣቦኦም ዝሰደቱ"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ሰበይቱ ከኣ"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "ኣርማላት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:01.738303534Z",
+  "model": "glm-5.3"
+}

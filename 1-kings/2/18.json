@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ባት-ሸባ ድማ በዓባይተት፦ «ብጣዕሚ ጽቡእ እዩ፤ ንስኻ ንኣኺለኻ ናብ እቲ ንጉስ እነዛረበልኻ።»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "በዓባይተት፦"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ባት-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸባ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡእ እዩ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "እነዛረብ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ንኣኺለኻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:48:19.034324475Z",
+  "model": "glm-5.3"
+}

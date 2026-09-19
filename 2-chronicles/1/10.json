@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ሕጂ ጥበብን ፍልጠትን ሃበኒ፣ ኣብ ቅድሚ እዚ ሕዝቢ እዚ ክወጽእ ክኣቱ፣ እሞ መን ክፈርድ ይኽእል ⟨את⟩ ሕዝቢኻ እዚ እቲ ዓቢ?",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "ፍልጠትን"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ሃብ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "ክወጽእ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "ክኣቱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ክፈርድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቢኻ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ሕዝቢኻ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "እቲ ዓቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:53:38.446729906Z",
+  "model": "glm-5.3"
+}

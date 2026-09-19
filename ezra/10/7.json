@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 10:7",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣብ ይሁዳን የሩሻላይምን፣ ንዅሉ ውላድ ሓደጋ፣ ናብ የሩሻላይም ንኽተኣኩ፣ ቃል ኣረኣእያ ኣብለዉ።",
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "ኣረኣእያ ኣብለዉ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ኣብ ይሁዳ"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ንየሩሻላይምን"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንዅሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ሓደጋ"
+    },
+    {
+      "surface": "להקבץ",
+      "gloss": "ንኽተኣኩ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ናብ የሩሻላይም"
+    }
+  ],
+  "timestamp": "2026-09-19T09:08:06.642639019Z",
+  "model": "glm-5.3"
+}

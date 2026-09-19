@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ነይሩሉ ሰበይቲ መሳፍንቲ ሸውዓተ ሽሕ፣ ከምኡውን ፍቓላት ሰለስተ ሽሕ፤ ሰበይቱ ድማ ⟨את⟩ ልቡ ኣዓዘያ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ሉ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "መሳፍንቲ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "ፍቓላት"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "ኣዓዘያ"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ሰበይቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልቡ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:01:42.263672059Z",
+  "model": "glm-5.3"
+}

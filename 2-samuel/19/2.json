@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ንዮኣብ ድማ ተነገረ፦ ረኣያ፣ እቲ ንጉስ እናበኸየ ብኣብስሎም ኣዛዘመ።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ተነገረ"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "ንዮኣብ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ረኣያ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "እናበኸየ"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "ኣዛዘመ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "ኣብስሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:37:39.962680170Z",
+  "model": "glm-5.3"
+}

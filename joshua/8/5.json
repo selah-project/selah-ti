@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 8:5",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣነ ድማን ⟨את⟩ ኩሉ እቲ ሰብ እቶም ምሲ ዘለዉን ናብ እቲ ከተማ ንቐርብ፤ ንሕና ከኣ ከምቲ ኣብ ቀዳማይ ግዜ ኮይኖም ንሰበይቲ ክወጹልና ኣብ ቅድሚኦም ንሽሕ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ምሲ",
+      "marks": "ምሲ ኣነ"
+    },
+    {
+      "surface": "נקרב",
+      "gloss": "ንቐርብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እቲ ከተማ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ኰይኖ ይኸውን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ክወጹልና"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "ንሰበይቲና"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "ኣብ ቀዳማይ ግዜ"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "ንሽሕ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ኣብ ቅድሚኦም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:21:01.898076475Z",
+  "model": "glm-5.3"
+}

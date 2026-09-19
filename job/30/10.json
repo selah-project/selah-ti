@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ጠለቑኒ፣ ካብይ ርሒቑ፣ ከምኡውን ብገጽይ ስንቕሒ ኣይገረዹን።",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "ጠለቑኒ"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "ርሒቑ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ካብይ"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ከምኡውን ብገጽይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "ገረዹን"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ስንቕሒ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:18:55.323386486Z",
+  "model": "glm-5.3"
+}

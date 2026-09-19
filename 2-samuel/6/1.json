@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ዳዊድ ድማ ደግሞ ⟨את⟩ ኹሉ ተመሪጹ ኣብ እስራኤል፣ ሰለስተ ዓሰርተ ሺህ፣ ኣክበረ።",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ደግሞ ኣክበረ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ ተመሪጹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "ተመሪጹ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ኣብ እስራኤል"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሰለስተ ዓሰርተ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:27:48.565505923Z",
+  "model": "glm-5.3"
+}

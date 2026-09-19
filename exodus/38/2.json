@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 38:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ከምኡውን ኣብ ኣርባዕተ ርእሰ-ሩባኡ ቀርንቱ ገበረሉ፤ ቀርንቱ ካብኡ ኮይኖም ነይሮም፣ ከምኡውን ⟨את⟩ ከምዚ ብናስ ኣኽቢሩ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ቀርንቱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "ርእሰ-ሩባኡ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነይሮም"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ቀርንቱ"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ኣኽቢሩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንእቲ መስዋዕት"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ብናስ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:43:57.430135832Z",
+  "model": "glm-5.3"
+}

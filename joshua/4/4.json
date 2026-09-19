@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 4:4",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "የሆሹዋዕ ድማ ነቶም ክልተ ዓሰርተ ሰባት ካብ ውላድ እስራኤል ዝዳለዎ ተዛረበ፣ ሓደ ሰብ ሓደ ሰብ ካብ ዓሌት።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "-ዓሰርተ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ዝዳለዎ"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ካብ ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "ካብ ዓሌት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:16:36.124519343Z",
+  "model": "glm-5.3"
+}

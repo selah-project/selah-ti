@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እቲ መንግስቲ ነቲ ሰበይቲ ሕተተ፣ ንሳ ድማ ተዛረበቶ፤ እቲ መንግስቲ ድማ ሓደ ሳሪስ ሃባ እናበለ፦ «ምለሶ ⟨את⟩ ኩሉ ዝኾነ ንኣን ⟨את⟩ ኩሉ ተባዕታት እቲ ቐጽሮ፣ ካብ እቲ መዓልቲ ዝሓለወት ⟨את⟩ እቲ ምድሪ፣ ክሳብ ሕጂ»።",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ሕተተ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ መንግስቲ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ነቲ ሰበይቲ"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "ተዛረበት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ንኣ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ መንግስቲ"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "ሳሪስ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "ምለሶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ዝኾነ ንኣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ናይኣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ተባዕታት እቲ ቐጽሮ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ተባዕታት"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ናይ እቲ ቐጽሮ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ካብ እቲ መዓልቲ"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "ዝሓለወት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ምድሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እቲ ምድሪ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ሕጂ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:24:45.516593268Z",
+  "model": "glm-5.3"
+}

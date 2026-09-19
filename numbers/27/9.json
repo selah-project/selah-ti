@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ከምኡውን ጓል እንተ የለቶን፣ ነቲ ⟨את⟩ ውርሻኡ ናብ ሓዎቡ ተውከሉን።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ከምኡውን እንተ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ጓል"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ተውከሉን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውርሻኡ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ውርሻኡ"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ናብ ሓዎቡ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:37:12.441968114Z",
+  "model": "glm-5.3"
+}

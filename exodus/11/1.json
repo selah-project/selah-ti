@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ያህዌህ ድማ ንሞሸ ተዛረበ፦ «ብድሌ ሓደ ቕታሕ ንፓርዖንን ንሚጽራይምን ክብድእ እየ፤ ድሕሪ እዚ ካብዚ ክሰድደኩም እዩ፤ ምስ ዝሰድደኩም ኩሉ ኣብ ሓደ ግዜ ካብዚ ይንዕቐኩም እዩ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረቡ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ብድሌ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ቕታሕ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ክብድእ እየ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ን…ን"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ክሰድደኩም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንዓኻትኩም"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ካብዚ"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "ምስ ዝሰድደኩም"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "ናይ ብዓል ውዕቐት"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "ይንዕቐኩም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንዓኻትኩም"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ካብዚ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:19:05.202642953Z",
+  "model": "glm-5.3"
+}

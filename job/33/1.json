@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 33:1",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ኣብዚ ግን ኣይዮብ፣ በጃኻ ናብ ቃላተይ ስሚዐ፣ ነቶም ኩሎም ቃላተይ ድማ እስሚዕ።",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ኣብዚ ግን"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ስሚዐ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "በጃኻ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኣይዮብ"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "ቃላተይ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ነቶም ኩሎም"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላተይ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "እስሚዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:20:13.243739945Z",
+  "model": "glm-5.3"
+}

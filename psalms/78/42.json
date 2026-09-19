@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ንኢዱኡ ኣይዝኾርዎን፣ ነቲ መዓልቲ ካብ ተጣባቒ እንተ ዝዓድሎም እውን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ዝኾርዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንኢዱኡ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱኡ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንተ ዝ"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "ዝዓድሎም"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ተጣባቒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:25.801292260Z",
+  "model": "glm-5.3"
+}

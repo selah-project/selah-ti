@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "መርገም ፈተወ፣ ነታ ድማ ናብኡ በጺሓ፤ ኣብ በረኻ ኣይደለን፣ ካቡ ድማ ርሒቐ።",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "ፈተወ"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "መርገም"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "በጺሓ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ደለይ"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "በረኻ"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "ርሒቐ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:02.707943270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ኣነ ንኣኻ ቓላት እመልስኻ ኣሎኹ፣ ⟨את⟩ መማረትካን ምስኻን ኣብ ሓባር።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "እመልስኻ ኣሎኹ"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "ቓላት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መማረትካን (your companions)"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "መማረትካን"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስኻ ኣብ ሓባር"
+    }
+  ],
+  "timestamp": "2026-09-19T06:21:46.991705370Z",
+  "model": "glm-5.3"
+}

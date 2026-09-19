@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ንሱ ድማ «ኣታ ጸውዓ» በለ። ንሱ ድማ ነቶኣ ጸወዓ፣ ንሳ ድማ ኣብ ኣፍደቕ ኮይና ቆመት።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ጸውዓ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ኣታ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ጸወዓ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ነቶኣ"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ቆመት"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "ኣብ ኣፍደቕ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:15:38.048609826Z",
+  "model": "glm-5.3"
+}

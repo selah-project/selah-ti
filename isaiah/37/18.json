@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ብውኑ ያህዌህ፣ ነገሰት ኣስሡር ⟨את⟩ ኩሉ ምድራትን ⟨ואת⟩ ምድሮምን ኣፀሓሩ።",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "ብውኑ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "ኣፀሓሩ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ነገሰት"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣስሡር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ምድራት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ምድራት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ምድሮም"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ምድሮም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:06:49.685145342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ተቓሑ ኣተዋልዲ ⟨ደሴት⟩፤ መሸጣ ጽድዮን፣ እተታ ባሕሪ ዝተሓለፋ ሞለዋ።",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "ተቓሑ"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ኣተዋልዲ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ደሴት"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "መሸጣ"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ጽድዮን"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ዝተሓለፋ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "ሞለዋ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:58:33.917859343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ተብሒካ ድማ ⟨את⟩ መሠዊያ ውዱሕን ⟨את⟩ ኩሉ መሳርሒታቱን፣ ቐድስካ ድማ ⟨את⟩ እቲ መሠዊያ፣ እቲ መሠዊያ ድማ ቅዱስ ቅዱሳት ኮይኑ ይጸንሕ።",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ተብሒካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሠዊያ ውዱሕ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊያ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ውዱሕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ መሳርሒታቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "መሳርሒታቱ"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ቐድስካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ መሠዊያ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "እቲ መሠዊያ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "እቲ መሠዊያ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:46:17.553618808Z",
+  "model": "glm-5.3"
+}

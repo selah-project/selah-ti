@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ስለዚ ኣብ ኣህዛብ ኣመስግንካ ኣቱ ያህዌህ፣ ንስምካ ድማ እዘምር።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚ"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ኣመስግንካ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ኣብ ኣህዛብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "ንስምካን"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "እዘምር"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:30.312942449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 2:5",
+  "book": "malachi",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኪዳናይ ምስ ⟨את⟩ ንሱ ሕይወትን ሰላምን ነይራ፤ ትሕደር ሃበንቶ፤ ንሱ ድማ ስሓበኒ፣ ብስምዒ ድማ ተሓበነ ንሱ።",
+  "tokens": [
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳናይ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነይራ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ምስ",
+      "marks": "ንሱ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ሕይወት"
+    },
+    {
+      "surface": "והשלום",
+      "gloss": "ሰላምን"
+    },
+    {
+      "surface": "ואתנם",
+      "gloss": "ሃበንቶ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "מורא",
+      "gloss": "ትሕደር"
+    },
+    {
+      "surface": "וייראני",
+      "gloss": "ስሓበኒ"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ብስምዒ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ስምዒ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ተሓበነ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:39:48.686077193Z",
+  "model": "glm-5.3"
+}

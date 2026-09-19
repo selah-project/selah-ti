@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 22:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ብዙሓት ከብታት ዘርኣይኒ፣ ሓያላት ከብታት ናይ ባሻን ድማ ኣኽበውኒ።",
+  "tokens": [
+    {
+      "surface": "סבבוני",
+      "gloss": "ዘርኣይኒ"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ከብታት"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "ሓያላት"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ባሻን"
+    },
+    {
+      "surface": "כתרוני",
+      "gloss": "ኣኽበውኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:36.092570143Z",
+  "model": "glm-5.3"
+}

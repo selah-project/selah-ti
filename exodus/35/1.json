@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ሞሸ ⟨את⟩ ኩሉ ጉባዕት ውላድ እስራኤል ኣካኻበለ፣ ነሪሎም ድማ እዚኦም እቶም ቃላት እዮም እቶም ያህዌህ ክግበሩ ⟨אתם⟩ ኣዘዞም።",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "ኣካኻበለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ጉባዕት ውላድ እስራኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ጉባዕት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ነሪሎም"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ኣዘዝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ክግበሩ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "እቶም ቃላት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:40:48.772003147Z",
+  "model": "glm-5.3"
+}

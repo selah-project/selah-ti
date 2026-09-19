@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "ብዝዝልኩ ተወጠጠኹ፤ ጉርሳይ ድማ ተደረቐ፤ ኣይንታይ ንኤሎሃይ እናተጸንቐበት ኣብኡ ተወደኣ።",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "ተወጠጠኹ"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "ብዝዝልኩ"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "ተደረቐ"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "ጉርሳይ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ተወደኣ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ኣይንታይ"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "እናተጸንቐበት"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ንኤሎሃይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:57.509612661Z",
+  "model": "glm-5.3"
+}

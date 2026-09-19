@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 66,
+  "translation": "ንኤሎሂም ብሉ፦ «ከመይ ከም ዝኾነ ኣስፈሪ ተግባርካ! ብዝሒ ሓይልካ ተቓወምትኻ ንኻ ይሓሽኹ።»",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ብሉ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ንኤሎሂም"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ከመይ ከም ዝኾነ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ኣስፈሪ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ተግባርካ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ብዝሒ"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ሓይልካ"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ይሓሽኹ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ተቓወምትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:59.380413886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 74,
+  "translation": "ኣልዕብ እቶም ፍቐደኻ ናብቶም ዘለኣለማውያት ጥፍኣታት፤ ኩሉ እቲ ኣብ መቕደስ ኣጣዒቕ ዝገበሮ ዓማዊልኻ።",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "ኣልዕብ ፍቐደኻ"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "ፍቐደኻ"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "ናብቶም ጥፍኣታት"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ዘለኣለማውያት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ እቲ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ኣጣዒቕ ዝገበሮ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ዓማዊልኻ"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ኣብ መቕደስ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:40.652064602Z",
+  "model": "glm-5.3"
+}

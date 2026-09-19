@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኣነ ነቶም ዝቐደስኩዎም በጂነ ነፊርኩ፣ ከምኡውን ነቶም ኣዋጋተይ ኣሃዩዎም፣ ነቶም ኣብ ክብረተይ ዝደስዉ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "በጂነ ነፊርኩ"
+    },
+    {
+      "surface": "למקדשי",
+      "gloss": "ነቶም ዝቐደስኩዎም"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ኣሃዩዎም"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ነቶም ኣዋጋተይ"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "ንኹንያይ"
+    },
+    {
+      "surface": "עליזי",
+      "gloss": "ነቶም ዝደስዉ"
+    },
+    {
+      "surface": "גאותי",
+      "gloss": "ኣብ ክብረተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:50:10.321959746Z",
+  "model": "glm-5.3"
+}

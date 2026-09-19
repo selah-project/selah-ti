@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ኣነ በይኑ ምስ ⟨אתכם⟩ ብዘይተመውዓለ ኢድን ብሓያል ክንዲን ብቁሕትን ብቍጣን ብዓቢ ኽክርን ክትጻወት እየ።",
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "ክትጻወት እየ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ በይኑ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ምስ ንስኻትኩም"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ዘይተመውዓለ"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "ብክንዲ"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ሓያል"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "ብቁሕት"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "ብቍጣ"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "ብኽክር"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:52:30.152869257Z",
+  "model": "glm-5.3"
+}

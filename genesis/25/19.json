@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "እዚኦምን ትውልዲ ይጽሓቅ ወዲ ኣቭራሃም እዮም፤ ኣቭራሃም ⟨את⟩ ይጽሓቅ ወለደ።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እዚኦምን"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ትውልዲ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይጽሓቅ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይጽሓቅ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይጽሓቅ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:49:15.992455868Z",
+  "model": "glm-5.3"
+}

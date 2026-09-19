@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 12:15",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኤፍራይም ብሓሙምቲ ኸድንዎ፤ ደሙ ኣብ ርእሱ ይተው፤ ዕንፈቱ ድማ ኣዶናይ ንእሱ ክመልስ እዩ።",
+  "tokens": [
+    {
+      "surface": "הכעיס",
+      "gloss": "ኸድንዎ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "תמרורים",
+      "gloss": "ብሓሙምቲ"
+    },
+    {
+      "surface": "ודמיו",
+      "gloss": "ደሙ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ርእሱ"
+    },
+    {
+      "surface": "יטוש",
+      "gloss": "ይተው"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "ዕንፈቱ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ክመልስ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሱ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ኣዶናይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:08:21.618441137Z",
+  "model": "glm-5.3"
+}

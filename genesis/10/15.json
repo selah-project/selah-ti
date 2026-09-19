@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ከምኡውን ከነዓን ⟨את⟩ ጽዮን ቀዳማይ ወዲኡ ወለደ፣ ⟨את⟩ ሕትን።",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "ከምኡውን ከነዓን"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጽዮን"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ቀዳማይ ወዲኡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሕት"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ሕትን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:28.488391426Z",
+  "model": "glm-5.3"
+}

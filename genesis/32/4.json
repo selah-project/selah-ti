@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ያዕቆብ መልኣኽቲ ቅድሚኡ ናብ ዕሳው ናይ ሓውኡ፣ ናብ ምድሪ ሴዒር፣ ዓዲ ኤዶም ሰደደ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "መልኣኽቲ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ቅድሚኡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዕሳው"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ናይ ሓውኡ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ናብ ምድሪ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ሴዒር"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ዓዲ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:54:54.311524627Z",
+  "model": "glm-5.3"
+}

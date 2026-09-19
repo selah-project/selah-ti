@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ኣፍሰስቲ ማይ ተራእዩ፣ መሰረታት ዓለም ተገለጹ፣ ብውግሐትካ ያህዌህ፣ ብትንፋስ መንፈስ ኣፍንጫኻ።",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ተራእዩ"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "ኣፍሰስቲ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "ተገለጹ"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "መሰረታት"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ዓለም"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "ብውግሐትካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "ብትንፋስ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ኣፍንጫኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:35.298718192Z",
+  "model": "glm-5.3"
+}

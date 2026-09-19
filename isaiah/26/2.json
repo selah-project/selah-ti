@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ኣፍታት ኽፈቱ፣ ህዝቢ ጻድቕ ኣምንቲ ዚዓቢ ይኣቱ።",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "ኽፈቱ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ኣፍታት"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ይኣቱ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቕ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ዚዓቢ"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "ኣምንቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:57:08.718046290Z",
+  "model": "glm-5.3"
+}

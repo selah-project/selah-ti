@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zephaniah 2:11",
+  "book": "zephaniah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ዝፍርህ ያህዌህ ኣብ ልዕሎም እዩ፣ ምኽንያቱ ⟨את⟩ ኩሉ ኣማልኽቲ ምድሪ የርዝኖም፤ ከምኡውን ሰብ ሰብ ካብ ቦታኡ ንኡ ይስገዱሉ፣ ኩሉ ደሴታት እቶም ሕዝብታት።",
+  "tokens": [
+    {
+      "surface": "נורא",
+      "gloss": "ዝፍርህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ኣብ ልዕሎም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "የርዝኖም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ኣማልኽቲ ምድሪ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኣማልኽቲ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ይስገዱ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ ሰብ"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "ካብ ቦታኡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "איי",
+      "gloss": "ደሴታት"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "እቶም ሕዝብታት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:29:42.885010410Z",
+  "model": "glm-5.3"
+}

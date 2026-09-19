@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 90,
+  "translation": "ምኽንያቱ ብቁጥዓኻ ተወዲእና፣ ብሓማት ቁጥዓኻ ድማ ተረብሕና።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "ተወዲእና"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ብቁጥዓኻ"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "ብሓማት ቁጥዓኻ ድማ"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "ተረብሕና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:43.675338314Z",
+  "model": "glm-5.3"
+}

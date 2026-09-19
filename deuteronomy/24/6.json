@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ማእሰያ ወይ ላዕለዋይ ኣይውሕሱን፣ ነፍሲ እያ እቲ ዝውሕስ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "ይውሕስ"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "ማእሰያ"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ወይ ላዕለዋይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እያ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ዝውሕስ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:05:04.545840666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 14:8",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ዮናታን ድማ በለ፦ «ኣብዚ ንሕና ነቶም ሰባት ንሓልፍ፣ ነራኦም ንረኣዮም።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ ድማ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ዮናታን"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ኣብዚ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ንሓልፍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ונגלינו",
+      "gloss": "ንረኣዮም"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ነራኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:04:27.121438647Z",
+  "model": "glm-5.3"
+}

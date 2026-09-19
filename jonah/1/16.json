@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "እቶም ሰባት ድማ ⟨את⟩ ያህዌህ ብዓቢ ስጉምቲ ሰምዑ፤ ንያህዌህ ወፈያ ጨብሩ፣ እንቋቕሖት'ውን በዓሉ።",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "ሰምዑ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "እቶም ሰባት"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ስጉምቲ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ጨብሩ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "በዓሉ"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "እንቋቕሖት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:22:11.611421581Z",
+  "model": "glm-5.3"
+}

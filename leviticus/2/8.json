@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ነቲ ካብዞም ዝተገብረ ⟨את⟩ መባ ናብ ያህዌህ ተወኺኻ፣ ናብ እቲ ካህን ኣቐርባ፣ ናብ እቲ መሠወሪ ድማ ኣቐረባ።",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "ተወኺኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መባ"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "መባ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ዝተገብረ"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ካብዞም"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ናብ ያህዌህ"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "ኣቐርባ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "ኣቐረባ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠወሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:46:24.155774825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ምስ ዝደሊ ያህዌህ ነቲ መገዳት ሰብ፣ እቲ ተቓላሲኡ እውን ⟨את⟩ ምስኡ ያህዌህ የሰላምኖ እዩ።",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "ምስ ዝደሊ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "መገዳት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "ተቓላሲኡ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "የሰላምኖ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ምስኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:49:58.766348846Z",
+  "model": "glm-5.3"
+}

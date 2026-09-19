@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ድማ ማዕደላት ካብ እኽሊ ሻትቲም ገበረ፤ ⟨את⟩ ነቶም ድማ ብወርቂ ኣኽሊሉ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "ማዕደላት"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ካብ እኽሊ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ሻትቲም"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ኣኽሊሉ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም (ነቶም ማዕደላት)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:42:57.866043405Z",
+  "model": "glm-5.3"
+}

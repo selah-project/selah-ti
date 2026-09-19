@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ያህዌህ፣ ብቁርሓትካ ኣይትግርመኒ፣ ብቑጥዕኻን ኣይተምሃደኒን።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ብቁርሓትካ"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "ትግርመኒ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣይ-ን"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "ብቑጥዕኻ"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "ተምሃደኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:59.098335068Z",
+  "model": "glm-5.3"
+}

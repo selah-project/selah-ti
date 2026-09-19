@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 10:3",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ካብ ውላድ ጎይታኩም እቲ ዝበለጸን እቲ ቐንዲን ርኢኹም፣ ኣብ ወንበር ኣቦኡ ኣቕሚትኩም፣ ነቲ ቤት ጎይታኩም ድማ ተቓለሱ።",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "ርኢኹም"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "እቲ ዝበለጸ"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "እቲ ቐንዲን"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ካብ ውላድ"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "ጎይታኩም"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ኣቕሚትኩም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ወንበር"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    },
+    {
+      "surface": "והלחמו",
+      "gloss": "ተቓለሱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "ጎይታኩም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:20:26.058790458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ምስዓ ⟨את⟩ ተቐምጥ፣ ኣይትፈልጥን፤ እቲ ⟨את⟩ ነፍሲ ዝደልዮ ⟨את⟩ ነፍስካ ድማ ይደልያ፤ ምኽንያቱ ኣብ ምሕላውና ኢኻ።",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "ተቐምጥ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ምስዓ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይትፈልጥን"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ኣይትፈልጥን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ዝደልዮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሲ ዓዲ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲ ዓዲ"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ይደልያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍስካ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ነፍስካ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ምሕላውና"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኢኻ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ኣብ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:12:27.626886115Z",
+  "model": "glm-5.3"
+}

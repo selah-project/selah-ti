@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 57:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 57,
+  "translation": "ንስኻትኩም ድማ ኣብዚ ቅሩብ ኩሉ፣ ውላድ እቲ ኣስማተኛት፣ ዘርኢ ኣመንዲሕን ውሽመት ዝፈትወን።",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ንስኻትኩም ድማ"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ቅሩብ ኩሉ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ኣብዚ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "ኣስማተኛት"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘርኢ"
+    },
+    {
+      "surface": "מנאף",
+      "gloss": "ኣመንዲሕ"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "ውሽመት ዝፈትወን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:20:15.994895222Z",
+  "model": "glm-5.3"
+}

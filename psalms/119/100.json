@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ካብ ሽማግለታት ዝያዕ ረድእኩ፣ ምኽንያቱ ትእዛዳትኻ ሓለዉ።",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "ካብ ሽማግለታት"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ረድእኩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ትእዛዳትኻ"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ሓለዉ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:35.904136757Z",
+  "model": "glm-5.3"
+}

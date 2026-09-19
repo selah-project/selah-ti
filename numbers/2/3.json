@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 2:3",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እቶም ኣብ ምብራቕ ኮይኖም ዝዓርፉ ናይ ⟨በዓቢ⟩ ማሕፈር ይሁዳ ብሰራዊቶም እዮም፤ ኣሉላ ናይ ውላድ ይሁዳ ድማ ናሕሽን ወዲ ዓሚናዳብ እዩ።",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "ዝዓርፉ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ኣብ ምብራቕ"
+    },
+    {
+      "surface": "דגל",
+      "gloss": "በዓቢ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ማሕፈር"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "ብሰራዊቶም"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ኣሉላ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ናይ ውላድ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "ናሕሽን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ዓሚናዳብ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:11:55.849157455Z",
+  "model": "glm-5.3"
+}

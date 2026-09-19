@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ስጉም ኣበለ፡ «ኣገልጋልኻ እንታይ እዩ፡ ከም እቶም ከም ዓቢ እንተ ተዓዘዝካ፡ ነቲ ሞተሉ ከልብ ከም ኣነ ተዓዘዝካ፧» በለ።",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "ስጉም ኣበለ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልጋልኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም እቶም"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "ተዓዘዝካ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "ከልብ"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ሞተሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "ከም ኣነ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:26:33.114331809Z",
+  "model": "glm-5.3"
+}

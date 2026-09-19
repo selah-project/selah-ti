@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ምኽንያቱ ⟨את⟩ ኡጉ ኣኽቢሩን ⟨את⟩ ቕንጺ ክንዲኡን ኮረባ ናይቲ ዝጽሕጾ ዘሎዮ ኸም መዓልቲ ሚድያን ተሰብረ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኡጉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኡጉ"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "ኣኽቢሩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቕንጪ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ቕንጪ"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ክንዲኡ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ኮረባ"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "ናይቲ ዝጽሕጾ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ዘሎዮ"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "ተሰብረ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ከም መዓልቲ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ሚድያን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:46:40.801973344Z",
+  "model": "glm-5.3"
+}

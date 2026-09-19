@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ንሱ ድማ ክገብር እዩ፣ እቲ ኩነታት ግን ኣይገብርን፤ እቲ ኻህን ድማ ⟨את⟩ እቲ ኩነታት ሰባተ መዓልታት ካልኣይ ግዜ ይዕጾዮ።",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "ክገብር እዩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩነታት"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ኩነታት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "ገብርን"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ይዕጾዮ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ኻህን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩነታት"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ኩነታት"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሰባተ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ካልኣይ ግዜ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:56:43.834887430Z",
+  "model": "glm-5.3"
+}

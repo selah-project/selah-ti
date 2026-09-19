@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 90,
+  "translation": "ምኽንያቱ ሽሕ ዓመታት ኣብ ቐይሕትኻ ከም ቐንዲ እንትዋልሕ ዝሓልፍ፣ ተዛሪብን ኣብ ለይቲን እዮም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ኣብ ቐይሕትኻ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ከም ቐንዲ"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "እንትዋልሕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ዝሓልፍ"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "ተዛሪብን"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ኣብ ለይቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:33.315738613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 17:30",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ካብኡ ናብ ቅድሚ ካልእ ተመልሰ ከምዚ ቓል ተዛረበ፣ እቶም ሰባት ድማ ከምቲ ቀዳማይ ቓል መልሲ ሃብዎ።",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ተመልሰ"
+    },
+    {
+      "surface": "מאצלו",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ካልእ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ከም ቓል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ዚ"
+    },
+    {
+      "surface": "וישבהו",
+      "gloss": "መልሲ ሃብዎ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቶም ሰባት"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ከም ቓል"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ቀዳማይ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:09:07.477300824Z",
+  "model": "glm-5.3"
+}

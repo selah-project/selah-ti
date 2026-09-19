@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 137,
+  "translation": "ከመይ ንዜምል ንሕና ⟨את⟩ ዜማ ያህዌህ ኣብ ምድሪ ረዚና?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ከመይ"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "ንዜምል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዜማ ያህዌህ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ዜማ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ረዚና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:51.451856194Z",
+  "model": "glm-5.3"
+}

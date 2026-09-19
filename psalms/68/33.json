@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "መንግስታት ምድሪ፦ ንኤሎሂም ዝሙሩ፤ ንኣዶናይ ዘምሩ፤ ሰላህ።",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "መንግስታት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ዝሙሩ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ንኤሎሂም"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ዘምሩ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:11.654790209Z",
+  "model": "glm-5.3"
+}

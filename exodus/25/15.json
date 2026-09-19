@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ኣብ ቲሙታት እቲ ታቦት እቶም ባድታት ክንበሉ እዮም፣ ካብኡ ኣይገልሱን።",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "ኣብ ቲሙታት"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "እቲ ታቦት"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ክንበሉ እዮም"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "እቶም ባድታት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "ገልሱ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:31:26.890925655Z",
+  "model": "glm-5.3"
+}

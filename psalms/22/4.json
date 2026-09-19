@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ንስኻ ግን ቅዱስ ኢኻ፣ <ኣብ> መስገናት እስራኤል ዝቐመጥ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ግን"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ዝቐመጥ"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "መስገናት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:11.335181458Z",
+  "model": "glm-5.3"
+}

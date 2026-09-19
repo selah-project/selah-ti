@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ዝኾነ ኣብ ባዕላት መዓልታቶምን ኣብ ስጉምትን ዓመታቶም ኣሰናበቶም።",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ዝኾነ ኣሰናበቶም"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "ኣብ ባዕላት"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "መዓልታቶምን"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "ዓመታቶም"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "ኣብ ስጉምትን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:39.616177589Z",
+  "model": "glm-5.3"
+}

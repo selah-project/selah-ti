@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ነጉሡ ድማ ነቶም «ተቐንጥል፡ ኣብዚ ተቓምህ» በሎ። ንሱ ድማ ተቐንጠለ ተቓመ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ነጉሡ"
+    },
+    {
+      "surface": "סב",
+      "gloss": "ተቐንጥል"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "ተቓምህ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ኣብዚ"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ተቐንጠለ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ተቓመ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:37:37.956978753Z",
+  "model": "glm-5.3"
+}

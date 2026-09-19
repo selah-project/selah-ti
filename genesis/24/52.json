@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ኾነ ድማ ምስ ሰምዐ ውዲ ኣቭራሃም ⟨את⟩ ቃላቶም፣ ናብ ያህዌህ ናብ ምድሪ ሰገዱ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኾነ ድማ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ውዲ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላቶም"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "ቃላቶም"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ሰገዱ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ናብ ምድሪ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ናብ ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:46:39.863508552Z",
+  "model": "glm-5.3"
+}

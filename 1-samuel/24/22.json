@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ድሕራዚ ድማ ብያህዌህ ስደበኒ፦ ወዲ ስርዓተ-ወለዲ ካብ ዝተሓለወ ⟨את⟩ ወለዲ ካብ ድሕሩ ክትቐጥፍ ከም ከምኡውን ⟨את⟩ ስማይ ካብ ስድራ ኣቦይ ከተጥፍእ ኢልካ ኣይትስደበኒን።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ድሕራዚ ድማ"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "ስደበኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ብያህዌህ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ኢልካ"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "ክትቐጥፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወለዲ"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "ወለዲ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ካብ ድሕሩ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "ከተጥፍእ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስማይ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ስማይ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ስድራ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦይ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:11:43.303183734Z",
+  "model": "glm-5.3"
+}

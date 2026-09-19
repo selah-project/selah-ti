@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ቃል ነቲ ንጉስ ግን ንዮኣብን ንሻራት ሰራዊትን በዛ፤ ዮኣብን ሻራት ሰራዊትን ድማ ቅድሚ ነቲ ንጉስ ብዝበጽሑ ⟨את⟩ እቲ ህዝቢ ድማ ⟨את⟩ እስራኤል ንምቍጽር ወጹ።",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "በዛ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ነቲ ንጉስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮኣብ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ንን"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ሻራት"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ወጹ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮኣብ"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ሻራትን"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ሰራዊትን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ነቲ ንጉስ"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "ንምቍጽር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T00:44:25.620905697Z",
+  "model": "glm-5.3"
+}

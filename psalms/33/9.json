@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ምኽንያቱ ንሱ በሎ፣ ኮነን፤ ንሱ ኣዘዞ፣ ደገፈን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮነን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ኣዘዞ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ደገፈን"
+    }
+  ],
+  "timestamp": "2026-09-19T08:59:54.900941373Z",
+  "model": "glm-5.3"
+}

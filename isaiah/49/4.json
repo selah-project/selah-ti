@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "ኣነ ድማ በልኩ፦ ንባዕሉ ዐጸይኩ፣ ብጸልማትን ስንፍናን ሓይለ ኣኽየን፤ ግን ብሓቂ ፍርደ ምስ ⟨את⟩ ያህዌህ እዩ፣ ጉልባኤ ድማ ምስ ⟨את⟩ ኤሎሂም።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "በልኩ"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ንባዕሉ"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "ዐጸይኩ"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "ብጸልማትን ስንፍናን"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "ብጸልማትን ስንፍናን"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ሓይለ"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ኣኽየን"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "ግን ብሓቂ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ፍርደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "ጉልባኤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:15:09.810854740Z",
+  "model": "glm-5.3"
+}

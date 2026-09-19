@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 6:24",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ካብ ክፉእ ሰበይቲን ካብ ማስቲራ ቋንቋ ኣጀንትን ንኸሕልወካ።",
+  "tokens": [
+    {
+      "surface": "לשמרך",
+      "gloss": "ንኸሕልወካ"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "ካብ ሰበይቲ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "מחלקת",
+      "gloss": "ካብ ማስቲራ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ቋንቋ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "ኣጀንት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:43:36.144259711Z",
+  "model": "glm-5.3"
+}

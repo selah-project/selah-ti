@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ወሲዱ ⟨את⟩ ኩሉ ኣወሪትን ⟨את⟩ ኩሉ ወፈያን ኣብ ሰብን ኣብ እንስሳትን።",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ኣወሪት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "ኣወሪት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ወፈያ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ኣብ ሰብ"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ኣብ እንስሳትን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:40:07.751029394Z",
+  "model": "glm-5.3"
+}

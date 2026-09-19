@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ምኽንያቱ ንስኻ ኣውጺእካኒ ካብ ማሕጸረ ትውልዲ፤ ኣረጋግጻኒ ኣብ ጭማታት ኣደይ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "ኣውጺእካኒ"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ካብ ማሕጸረ ትውልዲ"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "ኣረጋግጻኒ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ጭማታት"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ኣደይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:57.509061620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ያህዌህ ብጽድቄ ደግፈለይ፤ ብንጹርነት ኢደይ ከኣ መለሰለይ።",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "ደግፈለይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "ብጽድቄ"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ብንጹርነት"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ኢደይ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "መለሰ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:48.769890990Z",
+  "model": "glm-5.3"
+}

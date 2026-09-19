@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 7:11",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኤፍራይም ድማ ከም ተታሓተት ወፍዮ ብዘይ ልቢ ኮይኑ፤ ሚጽራይም ተዛረቡ፣ ኣሽር ድማ ከዱ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "ከም ወፍዮ"
+    },
+    {
+      "surface": "פותה",
+      "gloss": "ተታሓተት"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ብዘይ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ተዛረቡ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣሽር"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ከዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:08:34.477454553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ሳሙኤል ድማ ⟨את⟩ ኩሉ ቃላት ያህዌህ ነቲ ህዝቢ ካብኡ ⟨את⟩ ንጉስ ዝሓቱ በሎም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎም"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ቃላት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "ዝሓቱ"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ካብኡ ⟨את⟩",
+      "marks": "ንጉስ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:59:03.138498709Z",
+  "model": "glm-5.3"
+}

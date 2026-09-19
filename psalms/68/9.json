@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ምድሪ ተሪዓሸት፣ እኳ ሰማያት ካብ ፊት ኤሎሂም ተሪፈን፤ እዚ ሲናይ ንሱ ካብ ፊት ኤሎሂም፣ ኤሎሂም ናይ ይስራኤል፣ ተሪዓሸ።",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "ተሪዓሸት"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እኳ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "ተሪፈን"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ካብ ፊት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ሲናይ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ካብ ፊት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም ናይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:17.388346001Z",
+  "model": "glm-5.3"
+}

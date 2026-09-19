@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 1:22",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣብቲ እዋን እዛ ገና ምስ እቲ ንጉስ እናተዛረበት ኣላ፣ ናታን ነቢዪ ድማ መጸ።",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ኣብቲ እዋን"
+    },
+    {
+      "surface": "עודנה",
+      "gloss": "ገና"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "እናተዛረበት"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ናታን"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነቢዪ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጸ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:44:48.333869501Z",
+  "model": "glm-5.3"
+}

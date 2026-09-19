@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኤሎሂም ድማ ⟨את⟩ ውላደ ይስራኤል ረኣየ፣ ኤሎሂም ድማ ተረድአ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላደ ይስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ተረድአ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:08:37.627706330Z",
+  "model": "glm-5.3"
+}

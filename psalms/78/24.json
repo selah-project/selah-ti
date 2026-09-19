@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ማን ኣዝሞም ንምብላዕ፣ እኽሊ ሰማያት ድማ ሃቦም።",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "ኣዝሞም"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ኣብ ልዕሎም"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ንምብላዕ"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃቦም"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ነቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:54.292257030Z",
+  "model": "glm-5.3"
+}

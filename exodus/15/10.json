@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ብመንፈስካ ተንፈርኩ፣ ባሕርይ ድማ ሓጀሮም፤ ከም እተጻወተ እፍሩሕ ባሕር ተሰሪቆም ደቑ።",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "ተንፈርኩ"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "ብመንፈስካ"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "ሓጀሮም"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕርይ"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "ደቑ"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "ከም እተጻወተ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "እፍሩሕ ባሕር"
+    }
+  ],
+  "timestamp": "2026-09-18T21:19:19.333246560Z",
+  "model": "glm-5.3"
+}

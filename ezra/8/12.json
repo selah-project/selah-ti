@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 8:12",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ድማ ካብ ውላድ ዓዝጋድ — ዮኽናን ወዲ ሓቅጣን፣ ምስ እቲ ሚእቲን ዓሰርተን ተባዕታውት።",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "ድማ ካብ ውላድ"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "ዓዝጋድ"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "ዮኽናን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ሓቅጣን"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ምስ እቲ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ሚእቲ"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "ተባዕታውት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:11:37.798020634Z",
+  "model": "glm-5.3"
+}

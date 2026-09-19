@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 11:34",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ድማ ⟨את⟩ ስም እቲ ቦታ እታ በለ ቅብሮት-ሓተዕዪ ⟨ቃብሮቹ ሓውሳ⟩፣ ምኽንያቱ ኣብኡ ⟨את⟩ እቲ ህዝቢ ዝነውሩ ቐበሩ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ድማ ተጠርዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "እቲ ቦታ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "קברות",
+      "gloss": "ቅብሮት"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "ሓተዕዪ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "ቐበሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "המתאוים",
+      "gloss": "ዝነውሩ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:22:23.517442358Z",
+  "model": "glm-5.3"
+}

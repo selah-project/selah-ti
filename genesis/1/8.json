@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኤሎሂም ነቲ ራቕዓ ሰማያት በሎ፤ ምዕራይ ኮነ፣ ቀዳም ኮነ — ካልኣይ መዓልቲ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "ነቲ ራቕዓ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ምዕራይ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ቀዳም"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ካልኣይ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:30:43.100668036Z",
+  "model": "glm-5.3"
+}

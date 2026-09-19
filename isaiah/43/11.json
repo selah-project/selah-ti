@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "ኣነ፣ በዓይ ኣነ ያህዌህ እየ፤ ብዘይኣነ ኣድኢ የለን።",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "በዓይ ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ድማ የለን"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ብዘይኣነ"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ኣድኢ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:08:54.648411229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 112,
+  "translation": "ዘርኡ ኣብ ምድሪ ዓቢ ኮይኑ ይኸውን፣ ወዲ ተላዕልቲ ድማ ይባረኽ።",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይኸውን"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ዘርኡ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ተላዕልቲ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ይባረኽ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:17.487331556Z",
+  "model": "glm-5.3"
+}

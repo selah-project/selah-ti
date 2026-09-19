@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ንያህዌህ «ኣዶናይ ንስኻ ኢኻ፤ ጽቡቐይ ብዘይ ንስኻ ⟨የለን⟩» በልኩ።",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "በልኩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ ኢኻ"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "ጽቡቐይ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ብዘይ ንስኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:04.555761248Z",
+  "model": "glm-5.3"
+}

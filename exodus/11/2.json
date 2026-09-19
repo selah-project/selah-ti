@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "«ኣብ እዝኒ ህዝቢ በጃኻ ተዛረብ፣ እቲ ሰብ ካብ ⟨את⟩ መሓዋሪሑ፣ እታ ሰበይቲ ካብ ⟨את⟩ መሓዋሪታ ብኣደል ቕጠል ብጠርሚስን ብወርቂን ክሓቱ እዮም።»",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረብ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "በጃኻ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ኣብ እዝኒ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "ይሓቱ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ካብ መሓዮሪሑ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "መሓዋሪሑ"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "ሰበዊትን"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ካብ መሓዋሪታ"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "መሓዋሪታ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "መሳቐዪ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብጠርሚስ"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "መሳቐዪን"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ብወርቂ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:19:05.202929746Z",
+  "model": "glm-5.3"
+}

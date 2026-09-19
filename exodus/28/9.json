@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ክልተ እኽሊ ሽሃም ⟨את⟩ ተውሰኻ፣ ኣስማት ውላድ እስራኤል ኣብ ላዕሎም ተቐምጻ።",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ተውሰኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክልተ እኽሊ ሽሃም"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "ሽሃም"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "ተቐምጻ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ኣብ ላዕሎም"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ኣስማት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T21:32:55.892873643Z",
+  "model": "glm-5.3"
+}

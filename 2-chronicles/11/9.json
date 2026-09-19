@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ከምኡውን ⟨את⟩ ኣዶራይምን ⟨את⟩ ላኪሽን ⟨את⟩ ዕዘቅህን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣዶራይም"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "ኣዶራይም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ላኪሽ"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "ላኪሽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዕዘቅህ"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "ዕዘቅህ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:59:19.311409004Z",
+  "model": "glm-5.3"
+}

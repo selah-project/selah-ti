@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ካብ ቤት መቕደስካ ንየሩሻላይም፣ ነገስቲ ቅዠምቲ ንንስኻ ይውክልሉ።",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "ካብ ቤት መቕደስካ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንንስኻ"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "ይውክልሉ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ነገስቲ"
+    },
+    {
+      "surface": "שי",
+      "gloss": "ቅዠምቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:40.301607267Z",
+  "model": "glm-5.3"
+}

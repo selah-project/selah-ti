@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣካዝ ድማ፦ «ኣይሕተን እየ፣ ያህዌህን ⟨את⟩ ኣይኣተናን እየ።» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ኣካዝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "ሕተ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "ኣተና"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:43:57.948884041Z",
+  "model": "glm-5.3"
+}

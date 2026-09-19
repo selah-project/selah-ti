@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ሰብ ድማ ወዲ ናይ ሓረንታ ካብኡ ኮይኑ እንተ ወጺኡ፣ ነቲ ⟨את⟩ ምሉእ ሥጋኡ ብማይ ይሓጸብ፣ ክሳብ እቲ ምሸት ድማ ከም ኣይኩነን ይነብር።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ኮይኑ ክወጽእ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "ናይ ሓረንታ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ይሓጸብ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ብማይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምሉእ ሥጋኡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ምሉእ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ሥጋኡ"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ከም ኣይኩነን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "እቲ ምሸት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:00:57.329711363Z",
+  "model": "glm-5.3"
+}

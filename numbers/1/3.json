@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ካብ ወዲ ዒሻርተ ዓመትን ንላዕሊ፣ ኩሉ ኣብ እስራኤል ናብ ሰራዊት ዝወጽእ፣ ንእጾም ⟨אתם⟩ ብሰራዊቶም ትቁጽርዎም — ንስኻን ኣሃሮንን።",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "ካብ ወዲ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዒሻርተ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ንላዕሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ዝወጽእ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ኣብ እስራኤል"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "ትቁጽርዎም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ንእጾም"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "ብሰራዊቶም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ኣሃሮንን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:12:09.467993106Z",
+  "model": "glm-5.3"
+}

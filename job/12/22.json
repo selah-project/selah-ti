@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 12:22",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ጥልቓት ካብ ጸልማት የገልጽ፣ ጽልማት ሞት ናብ ብርሃን ድማ ኣውጽኡ።",
+  "tokens": [
+    {
+      "surface": "מגלה",
+      "gloss": "የገልጽ"
+    },
+    {
+      "surface": "עמקות",
+      "gloss": "ጥልቓት"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጸልማት"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ኣውጽኡ"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ናብ ብርሃን"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "ጽልማት ሞት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:08:12.040668629Z",
+  "model": "glm-5.3"
+}

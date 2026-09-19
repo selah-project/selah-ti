@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 58,
+  "translation": "ንመሪሕ እቲ ዘማልእ፣ ⟨ኣይትሓድጎን⟩፣ ናይ ዳዊድ፣ ⟨ሚኽታም⟩።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንመሪሕ እቲ ዘማልእ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ትሓድጎን"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ሚኽታም"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:12.959025847Z",
+  "model": "glm-5.3"
+}

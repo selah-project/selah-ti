@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ካብ ዳርጋ ሰማያት ውጻኢኡ እዩ፣ ዞራኡ ክሳብ ዳርገኦም እዩ፤ ካብ ሙቐቱ ዝተሓብነ የለን።",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "ካብ ዳርጋ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "ውጻኢኡ"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "ዞራኡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "ዳርገኦም"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ድማ የለን"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "ዝተሓብነ"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "ካብ ሙቐቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:37.187724280Z",
+  "model": "glm-5.3"
+}

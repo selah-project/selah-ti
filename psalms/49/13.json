@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "ሰብ ኣብ ክብሪ ኣይጸንሕን፤ ከም እተን እንሳታት ዝጠፍኣት ተመሳለ እዮም።",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "ኣብ ክብሪ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ኣይጸንሕን"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "ተመሳለ"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "ከም እንሳታት"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "ዝጠፍኣት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:00:14.272042815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 103,
+  "translation": "ንእቶም ኪዳኑ ዝኽልኾትን ትእዛዛቱ ንምዝካርን ንምውፅኡ እዮም።",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "ንዝኽልኾት"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ኪዳኑ"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "ንዝዝካርን"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "ትእዛዳቱ"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "ንምውፅኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:42.004867941Z",
+  "model": "glm-5.3"
+}

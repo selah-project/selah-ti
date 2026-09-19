@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ግዜ ንምውደብ፡ ግዜን ንምጥፍኣትን፡ ግዜ ንምሕላው፡ ግዜን ንምድሓንን።",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ግዜ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ንምውደብ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ግዜን"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "ንምጥፍኣት"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ግዜ"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "ንምሕላው"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ግዜን"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "ንምድሓን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:38:52.715412935Z",
+  "model": "glm-5.3"
+}

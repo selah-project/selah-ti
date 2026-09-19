@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ንሕና ካብ ኣኽሊል ወርቂን ብርን ዝዓበየ ቶራ ንብሓደ ኣፍካ ኣብ ኩሉ እንተገበርኩ ኣይተማልኣን።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ዝዓበየ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ንብሓደ ኣፍካ"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "ካብ ኣኽሊል"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂን"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ብርን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:12.963799710Z",
+  "model": "glm-5.3"
+}

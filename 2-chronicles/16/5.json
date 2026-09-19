@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "በዕሸዓ ምስ ሰምዐ ካብ ምህናጽ ተወ፣ ⟨את⟩ እታ ሓረማ ኣይተቐጸላን፣ ⟨את⟩ እቲ ስራሑ ድማ ኣቐረጾ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ምስ ሰምዐ"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ኣብ ሰምዑ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "በዕሸዓ"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "ተወ"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ካብ ምህናጽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓረማ"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "ሓረማ"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ኣቐረጾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስራሑ"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "እቲ ስራሁ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:06:18.725206662Z",
+  "model": "glm-5.3"
+}

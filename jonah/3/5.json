@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ሰባት ኒነወ ኣብ ኤሎሂም ኣመኑ፣ ጾም ጐይሉ እዮም፣ ሰኮት ድማ ኣልበሱ፣ ካብ ዓቢታቶም ክሳብ ንእሽቲኦም።",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "ኣመኑ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰባት ናይ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ኒነወ"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ኣብ ኤሎሂም"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ጐይሉ"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ጾም"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "ኣልበሱ"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "ሰኮት"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "ካብ ዓቢታቶም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "ንእሽቲኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:23:25.340023728Z",
+  "model": "glm-5.3"
+}

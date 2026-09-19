@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 111,
+  "translation": "ናብ ዘለኣለምን ናብ ልኡልን ዝተደገፉ እዮም፤ ብብጽሕቲን ብቅኑዕነትን ዝተገብሩ እዮም።",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "ዝተደገፉ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ናብ ዘለኣለምን"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ልኡልን"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "ዝተገብሩ"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ብብጽሕቲን"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ብቅኑዕነትን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:10.205963838Z",
+  "model": "glm-5.3"
+}

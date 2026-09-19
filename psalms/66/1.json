@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 66,
+  "translation": "ናብ መምሓሊ ዘማልኢቲ፤ ዜማ፣ መዝሙር። ኩሉ ⟨እቲ⟩ ምድሪ ንኤሎሂም ኣውጡ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ናብ መምሓሊ ዘማልኢቲ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ዜማ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ኣውጡ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ንኤሎሂም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨እቲ⟩ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:59.379889754Z",
+  "model": "glm-5.3"
+}

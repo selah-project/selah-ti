@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ንገጾም ⟨את⟩ ኣብ ቅድሚ ሹም ሞኣብ ኣትዮም፤ ዳዊድ ኣብቲ መሸፈኒ እንተ ነይሩ ኩሉ መዓልታት ምሳኡ ተቐመጡ።",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ኣትዮም\/ኣስረኽቦም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገጾም"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጾም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ሹም"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ተቐመጡ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምሳኡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "היות",
+      "gloss": "እንተ ነይሩ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "ኣብ መሸፈኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:15:04.717384585Z",
+  "model": "glm-5.3"
+}

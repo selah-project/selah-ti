@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 140,
+  "translation": "ቋንቋኦም ከም ኣጋንን ተበሉጹ፤ መርዚ ኣዳእት ትሕቲ ከንፈታቶም ኣሎ። ሰላህ።",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "ተበሉጹ"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ቋንቋኦም"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ኣጋንን"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "መርዚ"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "ኣዳእት"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ከንፈታቶም"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:37.896878851Z",
+  "model": "glm-5.3"
+}

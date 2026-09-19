@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ብጣዕሚ ድማ ኣብ ልበይ ክፉእ በለኒ፣ ነቲ ቤት ጣብያ ቱምታት ⟨את⟩ ኩሉ ድማ ካብቲ ቤት-ኣንስሽቲ ናብ ወጻኢ ጀስበየ።",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ክፉእ በለኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ኣብ ልበይ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "ጀስበየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ቱምታት ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ቱምታት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "ጣብያ"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "ናብ ወጻኢ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "ቤት-ኣንስሽቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:25:25.772028373Z",
+  "model": "glm-5.3"
+}

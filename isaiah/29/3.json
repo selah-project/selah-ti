@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ብኲሩ ኣቢለ ኣይኺ ኣሰርበ፤ ብምዕባሪ ኣይኺ ኣጽበነ፤ በዓቢተታት ምዕቋብ ኣይኺ ኣቐንጺ።",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "ኣሰርበ"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "ብኲሩ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ኣይኺ"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "ኣጽበነ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ኣይኺ"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "ምዕባሪ"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "ኣቐንጺ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ኣይኺ"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "በዓቢተታት ምዕቋብ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:01:36.672352997Z",
+  "model": "glm-5.3"
+}

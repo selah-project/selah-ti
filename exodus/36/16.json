@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ነቲ ⟨את⟩ ሓሙሽተ መጋረፊታት ብውልቂ ኣኽዲዱ፣ ነቲ ⟨את⟩ ሽዱሻተ መጋረፊታት ድማ ብውልቂ ኣኽዲዱ።",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "ኣኽዲዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓሙሽተ መጋረፊታት"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "መጋረፊታት"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ብውልቂ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሽዱሻተ መጋረፊታት"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ሽዱሻተ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "መጋረፊታት"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ብውልቂ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:43:24.946815496Z",
+  "model": "glm-5.3"
+}

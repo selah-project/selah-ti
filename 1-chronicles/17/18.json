@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ንዓድዊድ ንክብሪ ⟨את⟩ ኣገልጋሊኻ እንታይ ክውስኽ ከኣ ይኽእል፧ ንስኻ ድማ ⟨את⟩ ኣገልጋሊኻ ኣፈለጥካ።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ክውስኽ ይኽእል"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዓድዊድ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኻ"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "ንክብሪ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣገልጋሊኻ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልጋሊኻ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ድማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣገልጋሊኻ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልጋሊኻ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ኣፈለጥካ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:44:35.778965840Z",
+  "model": "glm-5.3"
+}

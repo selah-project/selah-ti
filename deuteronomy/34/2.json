@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ብዛዕባ ናብቲ ⟨את⟩ ኩሉ ናፍታሊን ⟨את⟩ ምድሪ ኤፍራይምን ምናሴን፣ ብዛዕባ ናብቲ ⟨את⟩ ኩሉ ምድሪ ይሁዳ ክሳብ እቲ ዃላዊ ባሕሪ ኣርኣዮ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ናፍታሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ናፍታሊ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ ኤፍራይም"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ምናሴ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ምድሪ ይሁዳ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "ዃላዊ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:13:18.315925970Z",
+  "model": "glm-5.3"
+}

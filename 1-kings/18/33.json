@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ነብዪ ⟨את⟩ እኽሊ ኣዳለወ፣ ⟨את⟩ እቲ በጋዕ ተኸስኮ ኣብ ልዕሊ እቲ እኽሊ ድማ ጀመረዮ።",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "ኣዳለወ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እኽሊ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "ተኸስኮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ በጋዕ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "እቲ በጋዕ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ጀመረዮ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "እቲ እኽሊ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:07:24.552301057Z",
+  "model": "glm-5.3"
+}

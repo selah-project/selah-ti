@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ብሓደ ኪኪራ ንጹር ወርቂ ⟨את⟩ ኣየን ብገበረ፣ ከምኡውን ⟨את⟩ ኩሉ መሳርሒታ።",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "ኪኪራ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ንጹር"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ብገበረ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ኣየን",
+      "marks": "እታ መብራዊ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ መሳርሒታ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "መሳርሒታ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:41:58.044908601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 5:9",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ንዓም ድማ ብፈረሱን ብመካይቱን መጸ፣ ኣብ ቅድሚ ኣፍጣን ናይ ቤት ኤልያስ ተቐመጠ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "ንዓም"
+    },
+    {
+      "surface": "בסוסו",
+      "gloss": "ብፈረሱ"
+    },
+    {
+      "surface": "וברכבו",
+      "gloss": "ብመካይቱን"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣፍጣን"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "לאלישע",
+      "gloss": "ናይ ኤልያስ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:18:33.913788884Z",
+  "model": "glm-5.3"
+}

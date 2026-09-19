@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 11:6",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኣብዚ ከተማ እዚታ ተቓተልትኩም ኣበዝዕኩም፣ መስመራታ ድማ ተቓተልቲ ሓሊፍኩም።",
+  "tokens": [
+    {
+      "surface": "הרביתם",
+      "gloss": "ኣበዝዕኩም"
+    },
+    {
+      "surface": "חלליכם",
+      "gloss": "ተቓተልትኩም"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ኣብ ከተማ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚታ"
+    },
+    {
+      "surface": "ומלאתם",
+      "gloss": "ሓሊፍኩም"
+    },
+    {
+      "surface": "חוצתיה",
+      "gloss": "መስመራታ"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ተቓተልቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:26:10.038822467Z",
+  "model": "glm-5.3"
+}

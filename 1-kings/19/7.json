@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "መልኣኽ ያህዌህ ካልኣይ ግዜ ተመሊሱ ንእሽቱ ተሓንኮሶ «ተንሳእ ብልዕ፣ ምኽንያቱ እቲ መስመር ብዙሕ እዩ ንኻ» በሎ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተመሊሱ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "መልኣኽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ካልኣይ ግዜ"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "ተሓንኮሶ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ንእሽቱ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ተንሳእ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ብልዕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "እቲ መስመር"
+    }
+  ],
+  "timestamp": "2026-09-19T01:07:00.256005441Z",
+  "model": "glm-5.3"
+}

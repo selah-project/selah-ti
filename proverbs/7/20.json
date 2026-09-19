@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 7:20",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ንሕበር ብር ኣብ ኢዱ ወሲዱ፣ ንመዓልቲ ምልኣቲ ጨረቃ ናብ ቤቱ ክመጽእ እዩ።",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "ንሕበር"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ኣብ ኢዱ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ንመዓልቲ"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "ምልኣቲ ጨረቃ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ክመጽእ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ናብ ቤቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:45:09.542440360Z",
+  "model": "glm-5.3"
+}

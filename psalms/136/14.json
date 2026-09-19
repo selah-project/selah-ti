@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 136:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 136,
+  "translation": "እስራኤል ድማ ኣብ ማእከሉ ኣሓለፎ፣ እስመ ናብ ዘለኣለም ሔሴዱ እዩ።",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "ኣሓለፎ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "ኣብ ማእከሉ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እስመ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:40.803523569Z",
+  "model": "glm-5.3"
+}

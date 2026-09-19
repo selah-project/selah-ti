@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ውዱቁ ነቶም ንክፉእ ብርኽቲ ንብርኽቲ ድማ ክፉእ ዝብሉ ፣ ጸልማት ንብርሃን ብርሃን ድማ ንጸልማት ዝገብሩ ፣ ማርያም ንጣፋጽ ጣፋጽ ድማ ንማርያም ዝገብሩ እዮም።",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ውዱቁ"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ዝብሉ"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ንክፉእ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ብርኽቲ"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "ንብርኽቲ ድማ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ዝገብሩ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጸልማት"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ንብርሃን"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ብርሃን ድማ"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "ንጸልማት"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ዝገብሩ"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ማርያም"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "ንጣፋጽ"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "ጣፋጽ ድማ"
+    },
+    {
+      "surface": "למר",
+      "gloss": "ንማርያም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:45:33.544607757Z",
+  "model": "glm-5.3"
+}

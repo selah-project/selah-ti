@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ያዕቆቭ ድማ ካብ ብኣር-ሸብዓ ተበገሰ፣ ናብ ሓራን ከደ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ተበገሰ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "ካብ ብኣር"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸብዓ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "ናብ ሓራን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:50:37.255099043Z",
+  "model": "glm-5.3"
+}

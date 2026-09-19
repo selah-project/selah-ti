@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ብድንግል ፍርሃት ኣይትፍርህን፣ ውድቀት ኬንቲ እንተ ኮይና ተወዲኣ እውን ኣይትፍርህን።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ትፍርህ"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ካብ ፍርሃት"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ብድንግል"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "ንካብ ውድቀት"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኬንቲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ተወዲኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:43:08.697393856Z",
+  "model": "glm-5.3"
+}

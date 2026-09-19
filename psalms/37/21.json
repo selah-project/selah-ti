@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "እቲ ክፉእ ይበድያ ኣይከፍልን፣ እቲ ጻድቕ ድማ ይሓርንን ይሃብን።",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "ይበድያ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "እቲ ክፉእ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ይከፍል"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "እቲ ጻድቕ"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ይሓርን"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "ይሃብ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:55:27.121333043Z",
+  "model": "glm-5.3"
+}

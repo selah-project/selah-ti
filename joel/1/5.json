@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joel 1:5",
+  "book": "joel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ንቐሱ፣ ኣይ ስካራት፣ ኣብኩሩ፤ ኩሎም ወይኒ ዝሰተዩ ኣብ እንግሮ ተዓውቱ፣ ምስቲ ሓድሽ ወይኒ፤ ምኽንያቱ ካብ ኣፉኹም ተቐሪጹ እዩ።",
+  "tokens": [
+    {
+      "surface": "הקיצו",
+      "gloss": "ንቐሱ"
+    },
+    {
+      "surface": "שכורים",
+      "gloss": "ኣይ ስካራት"
+    },
+    {
+      "surface": "ובכו",
+      "gloss": "ኣብኩሩ"
+    },
+    {
+      "surface": "והיללו",
+      "gloss": "ተዓውቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ዝሰተዩ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ወይኒ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ እንግሮ"
+    },
+    {
+      "surface": "עסיס",
+      "gloss": "ሓድሽ ወይኒ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "ተቐሪጹ እዩ"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "ካብ ኣፉኹም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:11:38.184083666Z",
+  "model": "glm-5.3"
+}

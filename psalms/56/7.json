@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 56,
+  "translation": "ይቐብሩ፣ ይሓቡ፤ ንሳቶም እግረይ ይተዓይሹ፣ ነፍሰይ ከም ዝጸበይዋ እዮም።",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "ይቐብሩ"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "ይሓቡ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "እግረይ"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ይተዓይሹ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "ዝጸበይዋ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:18.411123743Z",
+  "model": "glm-5.3"
+}

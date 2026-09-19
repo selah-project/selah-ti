@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ብስምካ ኩሉ እቲ መዓልቲ ይደስዩ፣ ብጽድቅኻን ድማ ይውሰኑ።",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "ብስምካ"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "ይደስዩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "እቲ መዓልቲ"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "ብጽድቅኻን"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ይውሰኑ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:32.215157885Z",
+  "model": "glm-5.3"
+}

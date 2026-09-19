@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ሓሶት ዝዛረቡ ትጥፍኦም፤ ሰብ ደምን ብምድሓንን ያህዌህ ይጸሓጸሖም።",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "ትጥፍኦም"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ዝዛረቡ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ብምድሓንን"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "ይጸሓጸሖም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:00:05.803379678Z",
+  "model": "glm-5.3"
+}

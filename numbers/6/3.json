@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ካብ ወይኒን ካብ መስኪርን ክተኣርይ፤ ጸምኢ ወይኒን ጸምኢ መስኪርን ኣይሰትየን፤ ኩሉ ጸንሑቲ ኣዝሞት ኣይሰትየን፤ ኣዝሞት ቆርበሉምን ደረቑን ኣይበልዕን።",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "ካብ ወይኒ"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ካብ መስኪር"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "ክተኣርይ"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ጸምኢ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ወይኒ"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "ጸምኢ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "መስኪር"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ሰተየን"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "ጸንሑቲ"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "ኣዝሞት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ሰተየን"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "ኣዝሞት"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "ቆርበሉም"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "ደረቑ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "በልዕን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:17:29.848126235Z",
+  "model": "glm-5.3"
+}

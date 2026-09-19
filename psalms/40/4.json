@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ድማ ኣብ ኣፈይ ሓድሽ መዝሙር፣ ምስገጣ ንኤሎሂምና ኣቲኑለይ፤ ብዙሓት ኬርኡዎ ይሕጎሱ፣ ኣብ ያህዌህ ድማ ከምሕዱ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ኣቲኑለይ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ኣብ ኣፈይ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ሓድሽ"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ምስገጣ"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ንኤሎሂምና"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ኬርኡ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ይሕጎሱ"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "ከምሕዱ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ኣብ ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:38.453497264Z",
+  "model": "glm-5.3"
+}

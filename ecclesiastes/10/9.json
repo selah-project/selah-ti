@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ድንጋያት ዝወስዕ ብኣንበሮም ይቕሰን፤ እኽሊ ዝበኪዕ ብኣንበሮም ይሓጐን።",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "ዝወስዕ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ድንጋያት"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "ይቕሰን"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ብኣንበሮም"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "ዝበኪዕ"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "ይሓጐን"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ብኣንበሮም"
+    }
+  ],
+  "timestamp": "2026-09-19T06:41:58.306597814Z",
+  "model": "glm-5.3"
+}

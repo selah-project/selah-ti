@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ኣብዚ እዋን ድማ እንታይ ኣጽብዩ ኣዶናይ፧ ተስፋይ ኣብ ንስኻ ⟨እያ⟩።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ኣብዚ እዋን ድማ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ኣጽብዩ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "ተስፋይ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ኣብ ንስኻ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እያ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:38.589591026Z",
+  "model": "glm-5.3"
+}

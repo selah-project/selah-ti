@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "የሆሹዋዕን ኩሉ እስራኤልን ተታሒቦ ኣብ ቅድሞም ተሳዕሪኖም ብመንገዲ እቲ ምድረ በዳ ኮይኖም ሰለሱ።",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "ተሳዕሪኖም"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ ውን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ኣብ ቅድሞም"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ሰለሱ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ብመንገዲ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "እቲ ምድረ በዳ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:20:05.061938220Z",
+  "model": "glm-5.3"
+}

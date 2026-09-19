@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ምኽንያቱ ንቓላት ኤል ኣመጹ፣ ውይዩም ንምክር ዔልዮን ኣሕተቑ፤",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "ኣመጹ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ንቓላት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "ውይዩም ንምክር"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ዔልዮን"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ኣሕተቑ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:01.838018513Z",
+  "model": "glm-5.3"
+}

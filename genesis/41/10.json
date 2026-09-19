@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ፓርዖ ኣብ ኣገልገልቱ ተቓጸለ፣ ⟨אתי⟩ ነና ኣትወና ኣብ ቤት ሻር እቶም ቀላዒታት፣ ⟨אתי⟩ ኣነን ⟨ואת⟩ ሻር እቶም ዓፋርቲን።",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ተቓጸለ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ኣብ ኣገልገልቱ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ኣትወና"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ኣነን ሻር እቶም ዓፋርቲን"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "ኣብ ቤት ሻር እቶም ቀላዒታት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ሻር"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "እቶም ቀላዒታት"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ኣነ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ን",
+      "marks": "ሻር እቶም ዓፋርቲ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ሻር"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "እቶም ዓፋርቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:01:51.745999079Z",
+  "model": "glm-5.3"
+}

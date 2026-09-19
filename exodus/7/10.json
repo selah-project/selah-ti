@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 7:10",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ሞሸን ኣሃሮንን ናብ ፓርዖ ከዱ፣ ከም ዝኣዘዞ ያህዌህ ከምኡ ገበሩ፤ ኣሃሮን ⟨את⟩ ሓሙላሁ ቅድሚ ፓርዖን ቅድሚ ኣገልገልቱን ተወርዮ፣ ሓያል ኰነ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ከዱ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞḉሽ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ኣሃሮንን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም ዝኣዘዞ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ዝኣዘዞ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ተወርዮ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓሙላሁ"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "ሓሙላሁ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ንቅድሚን"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ኣገልገልቱ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኰነ"
+    },
+    {
+      "surface": "לתנין",
+      "gloss": "ሓያል"
+    }
+  ],
+  "timestamp": "2026-09-18T21:13:17.490874579Z",
+  "model": "glm-5.3"
+}

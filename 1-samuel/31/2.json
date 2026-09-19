@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ፍሊሽታይ ድማ ⟨את⟩ ሻኡልን ⟨את⟩ ውላዱቱን ተዓጽዎም፣ ፍሊሽታይ ⟨את⟩ ዮናታንን ⟨את⟩ ኣቢናዳብን ⟨את⟩ ማልኪሹዋዕን ቐተሎም፣ እዚኦም ውላዲ ሻኡል እዮም።",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "ተዓጽዎም"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍሊሽታይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሻኡል"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ውላዱቱ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱቱ"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ቐተሎም"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍሊሽታይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮናታን"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ዮናታን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቢናዳብ"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "ኣቢናዳብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ማልኪሹዋዕ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ማልኪ"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "ሹዋዕ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላዲ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    }
+  ],
+  "timestamp": "2026-09-19T00:21:56.887265323Z",
+  "model": "glm-5.3"
+}

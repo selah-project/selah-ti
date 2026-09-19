@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 31:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ንሱ ውን ጥበበኛ እዩ፣ ክፉት ድማ የምጽእ፤ ቃላቱን ⟨את⟩ ኣይቐሪቦምን፤ ኣብ ቤት ክፉታትን ኣብ ሓገዝ ተጋደልቲ ኣውንንታን ኪቕጽሕ እዩ።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ውን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ጥበበኛ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "የምጽእ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላቱ"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ቃላቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ኣይቐሪቦምን"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ኪቕጽሕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ክፉታት"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ኣብን"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ሓገዝ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ተጋደልቲ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ኣውንንታ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:02:38.124147379Z",
+  "model": "glm-5.3"
+}

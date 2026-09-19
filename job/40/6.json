@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ያህዌህ ድማ ካብ ሽቃብ ኣይዮብን ⟨את⟩ መልሱ ዝኾነ በለ።",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መልሱ ዝኾነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣይዮብን"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኣይዮብን"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "ሽቃብ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:22:57.825342105Z",
+  "model": "glm-5.3"
+}

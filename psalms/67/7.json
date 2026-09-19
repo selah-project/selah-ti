@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 67,
+  "translation": "ምድሪ ፍረኣ ሃበት፣ ኤሎሂም ኤሎሂምና ንናትና ይባርኽና።",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ሃበት"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ፍረኣ"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "ይባርኽና"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:20.378227561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 17:15",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኣብ ኢዱ ይሆሕናን እቲ ሻር ነበረ፣ ምስኡ ድማ ክልተ ሚእቲ ወይ ሸሞንተ ዓሰርታት ሽሕቲ ነበሩ።",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "ይሆሕናን"
+    },
+    {
+      "surface": "השר",
+      "gloss": "እቲ ሻር"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ምስኡ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ክልተ ሚእቲ"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "ወይ ሸሞንተ ዓሰርታት"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሽሕቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:11:32.816800441Z",
+  "model": "glm-5.3"
+}

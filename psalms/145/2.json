@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 145,
+  "translation": "ኣብ ዝኾነ መዓልቲ እባርክካ፣ ስምኻውን ናብ ዘለኣለምን ክሳብ ዘለኣለምን እማስይቶ።",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ዝኾነ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "እባርክካ"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "ውን እማስይቶ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምኻ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለምን"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ ዘለኣለምን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:59.910417835Z",
+  "model": "glm-5.3"
+}

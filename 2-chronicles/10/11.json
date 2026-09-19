@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "«ኣብዚ እዋን ኣቦይ ከቢድ ዘበ ኣብ ልዕሊኩም ጸዓረ፣ ኣነ ድማ ኣብ ልዕሊ ዘበኩም ኽውስኽ እየ፤ ኣቦይ ⟨את⟩ ኩም ብሽወታት ዓዘዮ፣ ኣነ ድማ ብዕቁራባት እየ»።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ኣብዚ እዋን"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦይ"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "ጸዓረ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ኣብ ልዕሊኩም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ዘበ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ከቢድ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ኽውስኽ እየ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "ዘበኩም"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦይ"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "ዓዘዮ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ኩም"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "ብሽወታት"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "ብዕቁራባት"
+    }
+  ],
+  "timestamp": "2026-09-19T09:12:33.942294275Z",
+  "model": "glm-5.3"
+}

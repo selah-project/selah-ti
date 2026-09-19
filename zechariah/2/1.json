@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "⟨את⟩ ኣዒንተይ ነሲኣ ረኣይኩ፣ ከምኡውን ኣርባዕተ ቀርንቲ ርኢኹ።",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ነሲኣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣዒንተይ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ኣዒንተይ"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ረኣይኩ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "ቀርንቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:35:10.307077506Z",
+  "model": "glm-5.3"
+}

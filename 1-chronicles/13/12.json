@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ዳዊድ ድማ ኣብኡ መዓልቲ ⟨את⟩ ኤሎሂም ፈራ፣ ኢሉ፦ «⟨את⟩ ታባ ኤሎሂም ከመይ ናባይ ኣእቱ፧»",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "ፈራ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂም"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብኡ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ"
+    },
+    {
+      "surface": "היך",
+      "gloss": "ከመይ"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ኣእቱ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ናባይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታባ ኤሎሂም"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታባ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:41:24.419123172Z",
+  "model": "glm-5.3"
+}

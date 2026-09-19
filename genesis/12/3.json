@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "«ዝበርኽዩኻ ከኣ ኣበርኽየዮም እየ፣ ዝሓቕኻ ድማ ከርዕዮ እየ፤ ኩሉ ስድራታት ምድሪ ድማ ኣብ ኣኻ ይበረኽያ።»",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "ኣበርኽየዮም እየ"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "ዝበርኽዩኻ"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "ዝሓቕኻ"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "ከርዕዮ እየ"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "ይበረኽያ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣብ ኣኻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ስድራታት"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:37:45.476405329Z",
+  "model": "glm-5.3"
+}

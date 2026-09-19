@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ይሁዳ ድማ ወጸ፤ ያህዌህ ድማ ⟨את⟩ ነቲ ከነዓንዊን ነቲ ፐሪዚይን ኣብ ኢዶም ሃቖም፤ ኣብ በዘቅ ድማ ዓሰርተ ሺህ ሰባት ቐተልዎም።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሃቖም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ከነዓንዊ"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ከነዓንዊ"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ነቲ ፐሪዚይ"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ኣብ ኢዶም"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ቐተልዎም"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "ኣብ በዘቅ"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰባት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:34:05.120350985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ድማ ⟨את⟩ ዖቫልን ⟨את⟩ ኣቢማኤልን ⟨את⟩ ሸባን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዖቫል"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "ዖቫል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቢማኤል"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "ኣቢማኤል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሸባ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ሸባ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:25.714043944Z",
+  "model": "glm-5.3"
+}

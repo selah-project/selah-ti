@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ከምኡውን ናብ ራኸል ኣተየ፣ ከምኡውን ⟨את⟩ ራኸል ካብ ለኣሃ ንላዕሊ ፈተወ፣ ምስኡ ድማ ካልእቲ ሸውዓተ ዓመታት ኣገልገለ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ኣተየ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ራኸል"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "ፈተወ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራኸል"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ራኸል"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ካብ ለኣሃ ንላዕሊ"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "ኣገልገለ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስኡ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "ካልእቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:51:50.146154495Z",
+  "model": "glm-5.3"
+}

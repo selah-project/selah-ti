@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ማዓኻ ድማ፣ እታ ፍልገሽ ናይ ካልብ፣ ⟨את⟩ ሸበርን ⟨ואת⟩ ቲርሕናን ወለደት።",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "ፍልገሽ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ካልብ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ማዓኻ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለደት"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ሸበር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ቲርሕና"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "ቲርሕና"
+    }
+  ],
+  "timestamp": "2026-09-19T07:29:20.710118004Z",
+  "model": "glm-5.3"
+}

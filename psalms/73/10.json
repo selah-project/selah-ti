@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 73,
+  "translation": "ስለዚ ህዝቢኡ ኣብዚ ይምለስ፣ ምልእቲ ኩባያ ማይን ድማ ንኣቶም ይቱሕብ እዩ።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ይምለስ እዩ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ህዝቢኡ"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ኣብዚ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ማይን"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ምልእቲ"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "ይቱሕብ እዩ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ንኣቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:13.427041077Z",
+  "model": "glm-5.3"
+}

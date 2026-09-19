@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 39:3",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ድማ ንዕድጊኻ ካብ ኢድ ግርጌኻ፣ ንቐርብኻን ካብ ኢድ የማንኻን ኣወርደን እየ።",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "ኣወርደን"
+    },
+    {
+      "surface": "קשתך",
+      "gloss": "ዕድጊኻ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "שמאולך",
+      "gloss": "ግርጌኻ"
+    },
+    {
+      "surface": "וחציך",
+      "gloss": "ቐርብኻን"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "የማንኻ"
+    },
+    {
+      "surface": "אפיל",
+      "gloss": "ኣወርደ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:58:44.197724511Z",
+  "model": "glm-5.3"
+}

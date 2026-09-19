@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 13:13",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ንውላዳቱ ድማ ተዛረበ፦ «ንኣነ እቲ ኣኮር ስለዑኒ»። እቶም እቲ ኣኮር ሰለዑሉ፤ ንሱ ድማ ኣላይኡ ተቐመጠ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዳቱ"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "ስለዑኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "እቲ ኣኮር"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "ሰለዑሉ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "እቲ ኣኮር"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣላይኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:59:48.016404114Z",
+  "model": "glm-5.3"
+}

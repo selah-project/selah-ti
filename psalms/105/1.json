@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ስለ ያህዌህ ኣመስግኑ፣ ብስሙ ጸውዑ፣ ኣብ መንጎ ኣሕዛብ ተግባራቱ ኣፍሉ።",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "ኣመስግኑ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ስለ ያህዌህ"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ጸውዑ"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "ብስሙ"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "ኣፍሉ"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "ኣብ መንጎ ኣሕዛብ"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ተግባራቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:42.952338836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 7:5",
+  "book": "micah",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣብ መንደሊ ኣይትኣምኑን፣ ኣብ ቐርባ ኣይተባዕቱን፤ ካብኣ ኣብ ሕይቅኻ ተንቲቲያ ነታትን ኣፋፍታትን ኣፍኻ ተጠነቑ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "ትኣምኑን"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ኣብ መንደሊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ተባዕቱን"
+    },
+    {
+      "surface": "באלוף",
+      "gloss": "ኣብ ቐርባ"
+    },
+    {
+      "surface": "משכבת",
+      "gloss": "ተንቲቲያ"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "ሕይቅኻ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ተጠነቑ"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "ኣፋፍታት"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ኣፍኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:26:20.069517454Z",
+  "model": "glm-5.3"
+}

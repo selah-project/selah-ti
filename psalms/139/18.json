@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 139:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 139,
+  "translation": "ክቐፈሮም እነ ካብ ሑሉም ይበዝሑ፤ ተንቀሳቐስኩ እሞ ገና ምስ ንስኻ እየ።",
+  "tokens": [
+    {
+      "surface": "אספרם",
+      "gloss": "ክቐፈሮም እነ"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "ካብ ሑሉም"
+    },
+    {
+      "surface": "ירבון",
+      "gloss": "ይበዝሑ"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "ተንቀሳቐስኩ"
+    },
+    {
+      "surface": "ועודי",
+      "gloss": "ገና ኣነ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስ ንስኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:48.653918390Z",
+  "model": "glm-5.3"
+}

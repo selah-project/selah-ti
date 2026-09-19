@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ምስ ቐመጣቶም እቶም ቐመጣ፣ ምስ ሮማቶም ድማ ⟨את⟩ እቶም ምሳቶም ሮሙ፣ ምኽንያቱ መንፈስ እቲ ህያው ኣብ ውሽጦም እዩ።",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "ምስ ቐመጣቶም"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ቐመጣ"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "ምስ ሮማቶም"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ሮሙ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ምሳቶም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "እቲ ህያው"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ኣብ ውሽጦም"
+    }
+  ],
+  "timestamp": "2026-09-19T03:26:36.245190260Z",
+  "model": "glm-5.3"
+}

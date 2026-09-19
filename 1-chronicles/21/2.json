@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 21:2",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ዳዊድ ድማ ንዮዋብን ንኣካውላት እቲ ህዝቢ በለ፦ «ብሉ፣ ⟨את⟩ ይስራኤል ቆጽሩ፣ ካብ በኣር ሸብዓ ክሳብ ዳን፣ ነና ኣእቱኒ፣ ክኣ ⟨את⟩ ቁጽሮም ክፈልጥ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮዋብ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ኣካውላት"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ብሉ"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ቆጽሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "ካብ በኣር"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸብዓ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ዳን"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "ኣእቱኒ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ነና"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "ክፈልጥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቁጽሮም"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "ቁጽሮም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:45:36.381242827Z",
+  "model": "glm-5.3"
+}

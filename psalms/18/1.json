@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ንዝኣዘዞ። ንኣገልጋሊ ያህዌህ፣ ንዳዊድ፣ እቶም ⟨את⟩ ቓላት ናይዚ መዝሙር ናብ ያህዌህ ዝተዛረበ፣ ኣብ መዓልቲ ያህዌህ ካብ ኢድ ኩሉ ጨቃጭኑን ካብ ኢድ ሻኡልን ⟨את⟩ኦ ዝድሓኖ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንዝኣዘዞ"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ንኣገልጋሊ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ንዳዊድ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝተዛረበ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ናብ ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቓላት"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቓላት"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ናይ መዝሙር"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ናይዚ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ዝድሓኖ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ኦ",
+      "marks": "ዳዊድ"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ጨቃጭኑ"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ከምኡውን ካብ ኢድ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:02.460605507Z",
+  "model": "glm-5.3"
+}

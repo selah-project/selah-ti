@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ያህዌህ ኃይለይን መከላኤተይን እዩ፤ ልበይ ኣብኡ ተዓጸበ፣ ተሓወሽኩ፤ ልበይ በዓወቐ፣ ብዝማረይ ድማ ኣመስግኖ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ኃይለይ"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "መከላኤተይ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ተዓጸበ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "ተሓወሽኩ"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "በዓወቐ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "ብዝማረይ"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "ኣመስግኖ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:10.502920249Z",
+  "model": "glm-5.3"
+}

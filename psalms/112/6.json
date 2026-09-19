@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 112,
+  "translation": "እሞ ናብ ዘለኣለም ኣይንቐጥን፤ ቅኑዕ ንስኻር ዘለኣለም ይኸውን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ንቐጥ"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "ንስኻር"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይኸውን"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ቅኑዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:42.750834219Z",
+  "model": "glm-5.3"
+}

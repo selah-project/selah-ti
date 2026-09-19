@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 7:5",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "እንተ ኣሻሽይኩም ኣሻሽይኩም ⟨את⟩ መንገድኩምን ⟨את⟩ ואת ተግባራትኩምን፣ እንተ እናፈጸምኩም ፍርዲ ኣብ መንጎ ሰብን ኣብ መንጎ ዓሚዱን፤",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "ኣሻሽይ"
+    },
+    {
+      "surface": "תיטיבו",
+      "gloss": "ኣሻሽይኩም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንገድኩም"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "መንገድኩም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ተግባራትኩም"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "ተግባራትኩም"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "እናፈጸም"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "እናፈጸምኩም"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርዲ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ዓሚዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:50:30.306316252Z",
+  "model": "glm-5.3"
+}

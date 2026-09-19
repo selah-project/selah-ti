@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣቦትና ሓሰቡ፣ ኣይኮኑን፤ ንሕና ድማ ኃጢኣቶም ተሸክምና።",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "ኣቦትና"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ሓሰቡ"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "የለዉን"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "ኃጢኣቶም"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "ተሸክምና"
+    }
+  ],
+  "timestamp": "2026-09-19T06:38:34.950076588Z",
+  "model": "glm-5.3"
+}

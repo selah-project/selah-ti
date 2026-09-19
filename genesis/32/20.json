@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ነቲ ⟨את⟩ ካልኣይ እውን፣ ነቲ ⟨את⟩ ሳልሳይ እውን፣ ኩሉ ⟨את⟩ እቶም ዓምደርቲ እተኸተሉን ኣዘዞ ኢሉ፦ «ነዚ ቓል እዚ ምስ ዓሳው ⟨אתו⟩ ምስ ኸተረኽብዎ ክትዛረብዎ ኢኹም»።",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ኣዘዞ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ካልኣይ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ካልኣይ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሳልሳይ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ሳልሳይ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "እተኸተሉ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "ዓምደርቲ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ነዚ ቓል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "ትዛረብዎ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዓሳው"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "ምስ ኸተረኽብዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ዓሳው"
+    }
+  ],
+  "timestamp": "2026-09-18T20:55:28.909129158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ሞሸ ድማ ሰምዐ፣ ኣብ ገጹ ድማ ወደቐ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ወደቐ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ገጹ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:27:35.705861386Z",
+  "model": "glm-5.3"
+}

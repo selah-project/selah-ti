@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ሞሸ ንምውላይ ⟨את⟩ ያዕዘር ለኣኺ፤ ዓድታታ ድማ ሓዙ፣ እቲ ኣብኡ ዘሎ ⟨את⟩ ኣሞራይ ኣሓወሶ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ለኣኺ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "ንምውላይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያዕዘር"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "ያዕዘር"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ሓዙ"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "ዓድታታ"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "ኣሓወሶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ኣሞራይ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ኣሞራይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:30:48.726084879Z",
+  "model": "glm-5.3"
+}

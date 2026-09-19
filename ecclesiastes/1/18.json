@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣብ ብዙሕ ጥበብ ብዙሕ ቁጭት ኣሎ፤ ነቲ ዝውስኽ ዕውቀት ድማ ምኽኻል ይውስኽ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ኣብ ብዙሕ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ይብዝሕ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ቁጭት"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "ዝውስኽን"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ዕውቀት"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ይውስኽ"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "ምኽኻል"
+    }
+  ],
+  "timestamp": "2026-09-19T06:38:32.734679900Z",
+  "model": "glm-5.3"
+}

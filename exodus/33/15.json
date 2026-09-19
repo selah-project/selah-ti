@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ንሱ ድማ «ገጻትኻ እንተ ኣይኸዱን፣ ንኹና ካብዚ ኣይተወዓናን» በሎ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጻትኻ"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ኺድኦም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "ተወዓና"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ካብዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:26:59.826636474Z",
+  "model": "glm-5.3"
+}

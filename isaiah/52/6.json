@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 52,
+  "translation": "ስለዚ ህዝቢ ስሚ ክፈልጥ እዩ፤ ስለዚ ኣብ እቲ መዓልቲ ክፈልጥ እዩ ምኽንያቱ ኣነ ንሱ እየ ዝተዛረበ፣ ኣሎኹ።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ክፈልጥ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ስሚ"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ዝተዛረበ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ኣሎኹ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:19:04.207770615Z",
+  "model": "glm-5.3"
+}

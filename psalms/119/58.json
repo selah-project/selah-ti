@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "psalms 119:58",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ብኹሉ ልበይ ብቐረባ ሓተትኩ ገጻኻ፤ ከም ቃልኻ ሓበከለይ።",
+  "tokens": [
+    {
+      "surface": "חליתי",
+      "gloss": "ሓተትኩ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጻኻ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብኹሉ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ሓበከለይ"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "ከም ቃልኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:13.021650311Z",
+  "model": "glm-5.3"
+}

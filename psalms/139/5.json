@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 139,
+  "translation": "ድሕሪ ከምኡውን ቅድሚ ዓቐንካ ኣነ፣ ኣብ ልዕለይ ድማ ኢድካ ጸልዐኻ።",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "ከምኡውን ቅድሚ"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "ዓቐንካ ኣነ"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "ጸልዐኻ ድማ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕለይ"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "ኢድካ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:19.792451483Z",
+  "model": "glm-5.3"
+}

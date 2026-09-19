@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 87,
+  "translation": "ዝተክብሩ ኣበይቲ ኣብ ውሽጣን ተዛረባ፤ ከተማ ናይ ኤሎሂም። ስብሕ።",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "ዝተክብሩ ኣበይቲ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ተዛረባ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣብ ውሽጣን"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ናይ ኤሎሂም"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስብሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:16.086474580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ቃል ያህዌህ ድማ ንንሱ በጺሖ እናበለ ኮይኑ፦",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንንሱ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:02:32.192253517Z",
+  "model": "glm-5.3"
+}

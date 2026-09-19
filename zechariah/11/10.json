@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 11:10",
+  "book": "zechariah",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ወሲደፍ ⟨את⟩ እስረይ ⟨את⟩ ማዕድመ ብዝተባርኮ፡ ንኪዳንይ ምስ ⟨את⟩ ኩሉ ኣህዛብ ዝበዝሓ ⟨את⟩ ክተርፍዮ ምባርኮ።",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "ወሲደፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስረይ"
+    },
+    {
+      "surface": "מקלי",
+      "gloss": "እስረይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማዕድመ"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "ማዕድመ"
+    },
+    {
+      "surface": "ואגדע",
+      "gloss": "ብዝተባርኮ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ክተርፍዮ"
+    },
+    {
+      "surface": "להפיר",
+      "gloss": "ንኪዳንይ ክተርፍዮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንኪዳንይ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ንኪዳንይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝበዝሓ"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ዝበዝሓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ኣህዛብ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:37:39.021633975Z",
+  "model": "glm-5.3"
+}

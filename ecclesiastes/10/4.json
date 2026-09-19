@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ትንፋስ እቲ ማለዳ ኣብ ልዕልካ እንተ ተወጺኣ፣ ቦታኻ ኣይትነፍግን፤ ምስምዕ ከኣ ዓበይቲ በደላት ይሰቓርዎ እዩ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ትንፋስ"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "እቲ ማለዳ"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "ተወጺኣ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ኣብ ልዕልካ"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "ቦታኻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ኣይትነፍግን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከኣ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ምስምዕ"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "ይሰቓርዎ"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "በደላት"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "ዓበይቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:45:59.280625659Z",
+  "model": "glm-5.3"
+}

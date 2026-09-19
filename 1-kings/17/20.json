@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 17:20",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ናብ ያህዌህ ጸወዐ ድማ በለ፦ «ያህዌህ ኤሎሂምኩ፧ እታ ኣነ ምኣ ዝኣባህጸ ኣብ እታ መትሕቲ እውን ጸላእካ፧ ወዲኣ ⟨את⟩ ንምቕታት?»",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ጸወዐ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂምኩ"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "האלמנה",
+      "gloss": "እታ መትሕቲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "ዝኣባህጸ"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ምኣ"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "ጸላእካ"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ንምቕታት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወዲኣ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ወዲኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:05:50.478022365Z",
+  "model": "glm-5.3"
+}

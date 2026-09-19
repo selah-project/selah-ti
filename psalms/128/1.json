@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 128,
+  "translation": "መዝሙር ናይ ምዝገባ። ብጣዕሚ ዕጉብ እዩ ኩሉ ያህዌህ ዝፈሪ፣ ኣብ መገዳቱ ዝነጊስ።",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ናይ ምዝገባ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ዕጉብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ዝፈሪ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ዝነጊስ"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "ኣብ መገዳቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:35.443465822Z",
+  "model": "glm-5.3"
+}

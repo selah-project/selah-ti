@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 33:45",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ካብ ዒይም ተኣኽቶም ከዱ፣ ኣብ ድባን ጋድ ድማ ሰፈሩ።",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ተኣኽቶም ከዱ"
+    },
+    {
+      "surface": "מעיים",
+      "gloss": "ካብ ዒይም"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ሰፈሩ"
+    },
+    {
+      "surface": "בדיבן",
+      "gloss": "ኣብ ድባን"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:42:06.044985045Z",
+  "model": "glm-5.3"
+}

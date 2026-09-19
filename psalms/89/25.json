@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "እምነተይን ሔሴደይን ምስ እቲ ክኸውን፣ ብስሚ እታ ኸኣ ቀንዲ እቲ ክቕመጥ እዩ።",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "እምነተይን"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "ሔሴደይን"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስ እቲ"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "ብስሚ"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ክቕመጥ እዩ"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "ቀንዲ እቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:21.027111084Z",
+  "model": "glm-5.3"
+}

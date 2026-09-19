@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ሻኡል ⟨את⟩ ሰራዊት ፍልስጤም ምስ ረኣየ ተፈርሐ፣ ልቡ እውን ብዙሕ ኸበደ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰራዊት ፍልስጤም"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ሰራዊት ሰፈር"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤም"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ተፈርሐ"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "ኸበደ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:19:08.464411613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ኣብ ልዕሊ መርሃብ ቆልዑ እስራኤል ኢዱ ኣይሰደደን፤ ⟨את⟩ ኤሎሂም ድማ ረኣዩ፣ በልዑን ሰተዩን።",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "መርሃብ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ቆልዑ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "ረኣዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂም"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "በልዑን"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ሰተዩን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:28:39.362212898Z",
+  "model": "glm-5.3"
+}

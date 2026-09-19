@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ያህዌህ ድማ ንዮና ⟨את⟩ ንኺኽልኸሞ ዓቢ ኣሳ ሓዘዎ፤ ዮና ድማ ኣብ ከላይ እቲ ኣሳ ብሽምኒ መዓልታትን ብሽምኒ ለይታትን ነይሩ።",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "ሓዘዎ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דג",
+      "gloss": "ኣሳ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "ንኺኽልኸሞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮና"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ዮና"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ዮና"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "ኣብ ከላይ"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "እቲ ኣሳ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ብሽምኒ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታትን"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ብሽምኒ"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "ለይታትን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:21:20.973440384Z",
+  "model": "glm-5.3"
+}

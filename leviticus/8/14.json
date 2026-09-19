@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ድማ ⟨את⟩ ኣቦቢ ናይ ሓጢኣት ወፈያ ኣቐረበ፣ ኣሃሮንን ውላዱን ኢዶም ኣብ ርእሲ እቲ ኣቦቢ ናይ ሓጢኣት ወፈያ ደገፉ።",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "ኣቐረበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቦቢ"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ኣቦቢ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ናይ ሓጢኣት ወፈያ"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "ደገፉ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ውላዱን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢዶም"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ኢዶም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ርእሲ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ኣቦቢ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ናይ ሓጢኣት ወፈያ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:53:45.104194070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "«⟨את⟩ ሓደግካ ኣይኮነን — ብዙርያኡ፣ ብስድራቡን ብቤቱን፣ ብዅሉ እቲ ዘለዎን? ንተግባር ኢዱ ባረኽካዮ እሞ እቲ እሽቶኡ ኣብ ምድሪ ዘረበ።»",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ኣይኮነን ድዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓደግካ"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "ሓደግካ"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ብዙርያኡ"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ዅሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዘለዎ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ብዙርያኡ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ተግባር"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "ባረኽካዮ"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "እቲ እሽቶኡ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ዘረበ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:02:31.236975139Z",
+  "model": "glm-5.3"
+}

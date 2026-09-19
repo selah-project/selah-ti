@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣብዚ ቦታ፣ ኣብቲ ንኣቦታትኩም ዝሃብኩዎ ምድሪ፣ ካብ ዘለኣለም ክሳብ ዘለኣለም ⟨את⟩ ንዓኻትኩም ክኣብርኩም።",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "ክኣብርኩም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብዚ ቦታ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ኣብ ቦታ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እት"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ዝሃብኩ"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "ንኣቦታትኩም"
+    },
+    {
+      "surface": "למן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:49:20.359440973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 75,
+  "translation": "ኣነ ድማ ናብ ዘለኣለም ክነግር እየ፣ ንኤሎሂም ያዕቆቭ ክዛምር እየ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ክነግር እየ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ክዛምር እየ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ንኤሎሂም"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:55.694273031Z",
+  "model": "glm-5.3"
+}

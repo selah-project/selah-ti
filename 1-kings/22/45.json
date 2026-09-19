@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 22:45",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "የሆሹዋዕ ምስ ንጉሲ እስራኤል ሰላም ገበረ።",
+  "tokens": [
+    {
+      "surface": "וישלם",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሲ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T01:12:45.362359126Z",
+  "model": "glm-5.3"
+}

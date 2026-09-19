@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እታ ምድሪ ቅድሚ ኤሎሂም ተበደየት፣ እታ ምድሪ ድማ ብቓልዒ ተመልአት።",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "ተበደየት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እታ ምድሪ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ተመልአት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እታ ምድሪ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ቓልዒ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:34:19.646283417Z",
+  "model": "glm-5.3"
+}

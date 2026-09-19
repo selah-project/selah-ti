@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 12:12",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኤሎን ዘቡላይ ሞተ፣ ኣብ ኣይሎን ኣብ ምድሪ ዘቡላን ተቐበረ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "ኤሎን"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "ዘቡላይ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ተቐበረ"
+    },
+    {
+      "surface": "באילון",
+      "gloss": "ኣብ ኣይሎን"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ዘቡላን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:46:06.758023546Z",
+  "model": "glm-5.3"
+}

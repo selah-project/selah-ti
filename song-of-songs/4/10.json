@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 4:10",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ሓብተይ ሓዳሽቲ፣ ፍቕሪኪ ብዙሕ ጽቡቕ እያ፣ ፍቕሪኪ ካብ ጠላይ ብላዕሊ እያ፣ ንጹኽ ዘትኪ ኸኣ ካብ ኹሉ ባሕራት ብላዕሊ እዩ።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "ጽቡቕ"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "ፍቕሪኪ"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ሓብተይ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ሓዳሽቲ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "ብላዕሊ"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "ፍቕሪኪ"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "ካብ ጠላይ"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "ንጹኽ"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "ዘትኪ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኹሉ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ባሕራት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:27:04.398543508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 55,
+  "translation": "እናበልኩ ድማ፦ መን ከም ኩርናዕ ክንፊ ንኽሃበኒ፧ ክብላሕ እየ፣ ኣብ ሰላም እርእሳ።",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "እናበልኩ ድማ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ንኽሃበኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    },
+    {
+      "surface": "אבר",
+      "gloss": "ክንፊ"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "ከም ኩርናዕ"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "ክብላሕ እየ"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "ኣብ ሰላም እርእሳ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:37.101159649Z",
+  "model": "glm-5.3"
+}

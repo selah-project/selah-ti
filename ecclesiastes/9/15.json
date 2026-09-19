@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣብኣ ሓደ ድኻ ጥበበኛ ተረኺቡ፤ ንሱ ድማ ብጥበቡ ⟨את⟩ ነታ ከተማ ኣድሕነ፤ ዝኾነ ሰብ ግን ነቲ ድኻ ከምኡ ዝኾነ ⟨את⟩ ኣይዘከሮን።",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ተረኺቡ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኣ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "ድኻ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ጥበበኛ"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "ኣድሕነ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነታ ከተማ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ነታ ከተማ"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "ብጥበቡ"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ዘከረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ድኻ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ነቲ ሰብ"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "ድኻ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ከምኡ ዝኾነ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:42:42.003744568Z",
+  "model": "glm-5.3"
+}

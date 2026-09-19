@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 34:18",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ከምኡውን ካብ ኩሉ ውላዲ ሹም ሓደ፣ ሹም ሓደ ተውስዱ ነቲ ⟨את⟩ ምድሪ ንምውራድ።",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "ሹምን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ሹም"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "ካብ ውላዲ"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ተውስዱ"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "ንምውራድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:43:01.684755896Z",
+  "model": "glm-5.3"
+}

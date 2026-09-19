@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ዳዊድ ⟨את⟩ እቲ ቅናት እዚ ኣዘኖ፣ ኣብ ልዕሊ ሻኡልን ከምኡውን ኣብ ልዕሊ የሆናታን ወዲኡን።",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "ኣዘኖ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ቅናት እዚ"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "እቲ ቅናት"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ከምኡውን ኣብ ልዕሊ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "የሆናታን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:21:43.273538913Z",
+  "model": "glm-5.3"
+}

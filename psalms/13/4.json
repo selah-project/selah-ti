@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ርኣየኒ፣ መልሰለይ ያህዌህ ኤሎሂምና፤ ብርሃን ሃበኒ ኣይንታይ፣ ከይተደልዩ ቐበለ-ሞት።",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "ርኣየኒ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "መልሰለይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "ብርሃን ሃበኒ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ኣይንታይ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ከይ"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "ተደልዩ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ቐበለ-ሞት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:04.110021091Z",
+  "model": "glm-5.3"
+}

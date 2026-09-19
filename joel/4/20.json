@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 4:20",
+  "book": "joel",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ይሁዳ ድማ ናብ ዘለኣለም ትቐመጥ፣ የሩሻላይም ካብ ትልሚ ናብ ትልሚ ድማ።",
+  "tokens": [
+    {
+      "surface": "ויהודה",
+      "gloss": "ይሁዳ ድማ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ትቐመጥ"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ካብ ትልሚ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ናብ ትልሚ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:13:23.664810512Z",
+  "model": "glm-5.3"
+}

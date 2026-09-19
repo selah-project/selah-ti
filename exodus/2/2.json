@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እታ ሰበይቲ ወሊዱ፣ ወዲ ውልደት፤ እቲ ዝጽቡቕ ምዃኑ ምስ ረኣየቶ ኸኣ ብሰለስተ ወርሒ ሓቢኣቶ።",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ወሊዱ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "እታ ሰበይቲ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወልዓ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "ረኣየቶ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ንእሾ",
+      "marks": "ንእሾ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምስኣ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡቕ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "ሓቢኣቶ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ብሰለስተ"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "ወርሒ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:11:34.607619434Z",
+  "model": "glm-5.3"
+}

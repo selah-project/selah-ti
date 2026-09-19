@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣኖሽ ድማ ዘጠሳ ዓመታት ነይሩ፡ ⟨את⟩ ቅይናን ወሊዱ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ኣኖሽ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ዘጠሳ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወሊዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅይናን"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "ቅይናን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:29:39.451647336Z",
+  "model": "glm-5.3"
+}

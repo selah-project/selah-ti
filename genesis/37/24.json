@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ወሲዶኻሉ ድማ ነቲ ⟨אתו⟩ ናብ በዒር ደርቡ፤ እቲ በዒር ድማ ባዕሉ ዝነበረ ባዶ፣ ማይ ከኣ የለን ኣብኡ።",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "ወሲዶኻሉ"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "ደርቡ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ነቲ ዮሴፍ"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "ናብ በዒር"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "እቲ በዒር ድማ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ባዶ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:00:11.625604779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ንስኻ ንኣይ መሸለሊ እካ፣ ካብ ጸበብ ትሓልወኒ፣ ምስ ዝማዕ ምድሓን ትከብበኒ። ⟨סלה⟩",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "መሸለሊ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣይ"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ጸበብ"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "ትሓልወኒ"
+    },
+    {
+      "surface": "רני",
+      "gloss": "ዝማዕ"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ምድሓን"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "ትከብበኒ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "סלה"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:44.006874224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ነፍሰይ ካብ ሰይፍ ናቕሓ፣ ብርድተይ ካብ ኢድ በዓድ ናቕሓ።",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "ናቕሓ"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ካብ ሰይፍ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "በዓድ"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "ብርድተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:22.180655075Z",
+  "model": "glm-5.3"
+}

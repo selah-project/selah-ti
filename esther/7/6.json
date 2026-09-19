@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኤስተር ድማ «እቲ ጸላኢን ተቓውሙን እዚ ክፉእ ሃማን እዩ» በለት፤ ሃማን ድማ ቅድሚ እቲ ንጉስን እቲ ልክትን ተፈሪሁ።",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "በለት"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ኤስተር"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ጸላኢ"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "ተቓውሙን"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሃማን"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ሃማን ድማ"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "ተፈሪሁ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "እታ ልክቲን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:52:35.460082931Z",
+  "model": "glm-5.3"
+}

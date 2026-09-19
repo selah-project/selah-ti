@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 29:23",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "⟨את⟩ እቶም ፍርቓት ናይ ብድኢ ኣብ ቅድሚ እቲ ንጉስን እቲ ጉባኤን ኣቐረቡ፣ ንሳቶም ድማ ኢዶም ኣብ ልዕሊኦም ኣቐመጡ።",
+  "tokens": [
+    {
+      "surface": "ויגישו",
+      "gloss": "ኣቐረቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ፍርቓት ናይ ብድኢ"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "ፍርቓት"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ናይ ብድኢ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "והקהל",
+      "gloss": "እቲ ጉባኤ"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "ኣቐመጡ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ኢዶም"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ኣብ ልዕሊኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:17:28.890043492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ነፍሲ ተኸላኽለኒ፤ ኣድሕነኒ፤ ኣይርእየን ኣይብልዕን፣ ስለ ዝተሓገዝኩ ኣብ ኣኻ።",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "ተኸላኽለኒ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ኣድሕነኒ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ኣይብልዕን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ ዝ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ተሓገዝኩ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣብ ኣኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:19.800615451Z",
+  "model": "glm-5.3"
+}

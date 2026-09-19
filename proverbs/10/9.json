@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣብ ቅኑዕነት ዝከዳድ ብትኽእላዊ ይኸድ፤ መገዱ ዝጠቕድቕ ድማ ይፍለጥ።",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ዝከዳድ"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "ኣብ ቅኑዕነት"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ይኸድ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ብትኽእላዊ"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "ድማ ዝጠቕድቕ"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "መገዱ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ይፍለጥ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:46:08.775791838Z",
+  "model": "glm-5.3"
+}

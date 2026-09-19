@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 62,
+  "translation": "ሓደ ግዜ ኤሎሂም ተዛረበ፣ ክልተ ግዜ እዚ ሰማዕኩ — ኩሉ ሓይሊ ለኤሎሂም እዩ።",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "ሓደ ግዜ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ክልተ ግዜ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ሰማዕኩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ሓይሊ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ለኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:17.631313248Z",
+  "model": "glm-5.3"
+}

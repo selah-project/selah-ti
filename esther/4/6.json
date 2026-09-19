@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ሃታኽ ድማ ናብ ሞርዶካይ ናብ እቲ ጎደና እቲ ከተማ እቲ ኣብ ቅድሚ ኣፍደገ እቲ ንጉስ ዝርከብ ወጸ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "התך",
+      "gloss": "ሃታኽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ሞርዶካይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "ጎደና"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እቲ ከተማ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ኣፍደገ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:48:29.201511031Z",
+  "model": "glm-5.3"
+}

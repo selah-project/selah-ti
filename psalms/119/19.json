@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኣብ ምድሪ መሻርኢ እየ፤ ትእዛዛትኻ ብዘይኩነ ኣይተሓብኖምኒ።",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "መሻርኢ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እየ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ-"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ኣይተሓብኖ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ብዘይኩነ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ትእዛዛትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:21.077353075Z",
+  "model": "glm-5.3"
+}

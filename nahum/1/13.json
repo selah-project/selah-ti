@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nahum 1:13",
+  "book": "nahum",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ስለዚ ሕጂ ንኣምሳሉ ካብ ልብኻ እብር፣ ንስኻ ድማ ካብ ማእሰርታትኻ እንዳቐጠቕጠ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ስለዚ ሕጂ"
+    },
+    {
+      "surface": "אשבר",
+      "gloss": "እብር"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "ንኣምሳሉ"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "ካብ ልብኻ"
+    },
+    {
+      "surface": "ומוסרתיך",
+      "gloss": "ካብ ማእሰርታትኻ"
+    },
+    {
+      "surface": "אנתק",
+      "gloss": "እንዳቐጠቕጠ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:24:11.026641790Z",
+  "model": "glm-5.3"
+}

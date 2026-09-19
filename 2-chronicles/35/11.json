@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 35:11",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "እቲ ፋሲካ ሰቓሕዎ፣ ካህናት ድማ ካብ ኢዶም ሪጭዎ፣ ላዊታት እውን ለጊሞም ህብሪ።",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "ሰቓሕዎ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "እቲ ፋሲካ"
+    },
+    {
+      "surface": "ויזרקו",
+      "gloss": "ሪጭዎ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት ድማ"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ካብ ኢዶም"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ላዊታት"
+    },
+    {
+      "surface": "מפשיטים",
+      "gloss": "ለጊሞም ህብሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:20:58.882921964Z",
+  "model": "glm-5.3"
+}

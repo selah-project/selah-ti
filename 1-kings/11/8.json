@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ከምኡ ኮይኑ ንኩለን ናይ ወጻውታት ሰበይቱ እተን ንኣማልክተን ዝሰግሓን ዝቕርባን እየን ገበረ።",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "ከምኡ ኮይኑ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩለን"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ሰበይቱ"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "ናይ ወጻውታት"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "ዝሰግሓ"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "ዝቕርባን"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "ንኣማልክተን"
+    }
+  ],
+  "timestamp": "2026-09-19T00:58:42.498722114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ሎሚ ንክብሪን ንትልቍነትን ኣስዕብ፣ ውዒልን ብርሃንን ድማ ኣልብስ።",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "ኣስዕብ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ሎሚ"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ትልቍነት"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "ውዒል"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "ኣልብስ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:23:48.138885879Z",
+  "model": "glm-5.3"
+}

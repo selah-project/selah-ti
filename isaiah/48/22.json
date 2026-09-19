@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "«ሰላም የለን» ንልክዳት ያህዌህ በለ።",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "ንልክዳት"
+    }
+  ],
+  "timestamp": "2026-09-19T02:14:06.353752810Z",
+  "model": "glm-5.3"
+}

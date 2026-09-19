@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ሞሸ ድማ ነቲ ድምጺ ኣማቡ ሰምዐ፣ ኩሉ ዝበሎ ድማ ገበረ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ነቲ ድምጺ"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "ኣማቡ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በሎ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:25:35.703816801Z",
+  "model": "glm-5.3"
+}

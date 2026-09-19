@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ከምኡውን ⟨את⟩ ዓሻንን ምስ ሜዳታታን፣ ⟨את⟩ ቤት-ሸማሽን ምስ ሜዳታታን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓሻን"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ዓሻን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሜዳታታ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ሜዳታታ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት-ሸማሽ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ሸማሽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሜዳታታ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ሜዳታታ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:33:39.057881900Z",
+  "model": "glm-5.3"
+}

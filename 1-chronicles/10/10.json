@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "መሳርሒቱን ⟨את⟩ ኣብ ቤት ኣማልክቶም ኣቐምጡ፤ ኣንጋጻኡ እውን ⟨את⟩ ኣብ ቤት ዳጎን ተኽለዎ።",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ኣቐምጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሳርሒቱን"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "መሳርሒቱን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ኣማልክቶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣንጋጻኡ"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "ኣንጋጻኡ"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "ተኽለዎ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ዳጎን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:37:09.215993567Z",
+  "model": "glm-5.3"
+}

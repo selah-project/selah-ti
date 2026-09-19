@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 74,
+  "translation": "ተቓላስትኻ ኣብ ማእከል ኣኼባኻ እዮም ዝኣምብሩ፤ ምልክታቶም ከም ምልክታት ሓዙ።",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "ዝኣምብሩ"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "ተቓላስትኻ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ኣብ ማእከል"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "ኣኼባኻ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ሓዙ"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "ምልክታቶም"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "ከም ምልክታት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:40.652269463Z",
+  "model": "glm-5.3"
+}

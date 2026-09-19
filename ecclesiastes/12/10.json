@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ቆሄለት ቃላት ደስታ ንምርካብ መለለ፤ ዝተጻሕፈ ድማ ቅኑዕ፣ ቃላት ሓቂ እዩ።",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "መለለ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ቆሄለት"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ንምርካብ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ደስታ"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "ዝተጻሕፈ ድማ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ቅኑዕ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ሓቂ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:45:19.724790666Z",
+  "model": "glm-5.3"
+}

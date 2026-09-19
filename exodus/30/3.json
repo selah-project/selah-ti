@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ወርቂ ጽዱቕ ⟨אתו⟩ ትሰርዖ፤ ⟨את⟩ ላዕለይ ገጹን ⟨ואת⟩ ግዳማቱን ብዙርያኡን ⟨ואת⟩ ቐርበታቱን፤ ኮረወላ ወርቂ ድማ ብዙርያኡ ትገብርሉ።",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "ትሰርዖ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ወርቂ ጽዱቕ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ጽዱቕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ላዕለይ ገጹ"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "ላዕለይ ገጹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ግዳማቱ"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "ግዳማቱ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ብዙርያኡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቐርበታቱ"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ቐርበታቱ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ትገብርሉ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ኮረወላ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ብዙርያኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:35:36.243775138Z",
+  "model": "glm-5.3"
+}

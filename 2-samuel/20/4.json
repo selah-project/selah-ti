@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "እቲ ንጉስ ድማ ናብ ዓማሳ በሎ፦ ንሕና ⟨את⟩ ቆልዑ የሁዳ ኣፍልብለይ፣ ሰለስተ መዓልታት፤ ንስኻ ድማ ኣብዚ ቈልዓ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "ዓማሳ"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "ኣፍልብለይ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቆልዑ የሁዳ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ቆልዑ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "የሁዳ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ድማ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ኣብዚ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ቈልዓ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:38:53.995728089Z",
+  "model": "glm-5.3"
+}

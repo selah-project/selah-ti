@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ነይሩ ብር ናይ ተቐመጡ ኣብ ⟨the⟩ ጉባኤ ሚእቲ ኪኪራን ሽሕን ሸውዓተ ሚእትን ሸባን ሓሙሽተን ሽቕላት፣ ብቅዱስ ሽቕል ⟨the⟩ መቕደስ።",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ናይ ተቐመጡ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ኣብ ⟨the⟩ ጉባኤ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ሚእቲ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ኪኪራ"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ወይ ሽሕ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚእት"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ወይ ሓሙሽተ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ሸባ"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ሽቕላት"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ብቅዱስ ሽቕል"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "መቕደስ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:44:32.654160516Z",
+  "model": "glm-5.3"
+}

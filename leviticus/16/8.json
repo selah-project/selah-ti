@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ኣሃሮን ድማ ነቶም ክልተ ተቓልሲታት ጎሮላት የቐምጥ፤ ሓደ ጎሮል ንያህዌህ፣ ሓደ ጎሮል ንዓዛዜል።",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "የቐምጥ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "ተቓልሲታት"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "ጎሮላት"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "ጎሮል"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "ሓደ ጎሮል"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "ንዓዛዜል"
+    }
+  ],
+  "timestamp": "2026-09-18T21:59:29.274515960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 46,
+  "translation": "ማይኡ ይሕሉሉን ይቕነንሕን፡ ኮቦታት ድማ ብርብሩ ይርዝኑ። ስላህ።",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "ይሕሉሉ"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "ይቕነንሕ"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ማይኡ"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "ይርዝኑ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ኮቦታት"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "ብርብሩ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:26.947933201Z",
+  "model": "glm-5.3"
+}

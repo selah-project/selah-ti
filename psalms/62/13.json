@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 62,
+  "translation": "ኣዶናይ፣ ሔሴድ ንንስኛ ⟨እዩ⟩፤ ምኽንያቱ ንስኻ ነፍሲ ወከፍ ሰብ ብግብሩ ትኽፈል።",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "ንንስኛ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ትኽፈል"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ነፍሲ ወከፍ ሰብ"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "ብግብሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:24.979428633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "እቲ ሳጥን ድማ ⟨את⟩ ያህዌህ መልሱ በለ፦ «ኣይዮብ ብዘይ ምኽንያት ንኤሎሂም ይፍርሆ ድዩ?»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መልሱ"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "እቲ ሳጥን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "ብዘይ ምኽንያት"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ይፍርሆ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኣይዮብ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T06:02:31.236454009Z",
+  "model": "glm-5.3"
+}

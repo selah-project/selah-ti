@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ጣፍጣም እዩ ብርሃን፣ ንዓይኒ እውን ጽቡእ እዩ ⟨את⟩ ፀሓይ ምርኣይ።",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "ጣፍጣም"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ጽቡእ"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "ንዓይኒ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ምርኣይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፀሓይ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሓይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:44:51.363599247Z",
+  "model": "glm-5.3"
+}

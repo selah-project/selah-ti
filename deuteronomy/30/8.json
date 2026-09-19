@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ንስኻ ድማ ትምለስካ፣ ንድምጺ ያህዌህ ትሰምዕን፣ ⟨את⟩ ኲሉ ትእዛዛቱ እቶም ሎሚ ዝእዝዘካ ዝኾና ትገብርን።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ትምለስካ"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "ትሰምዕ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ንድምጺ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኲሉ ትእዛዛቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኲሉ"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ትእዛዛቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ዝእዝዘካ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:09:33.720401044Z",
+  "model": "glm-5.3"
+}

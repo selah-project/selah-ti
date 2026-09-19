@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 33:11",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ያህዌህ ሆ፣ ሓይሉ ባርኽ፣ ተግባር ኢዱን ተዓልወ፤ ውሕገት ንቑጽቱ ትስቓብ፣ ጠሊምዎን ከይቐንጹን።",
+  "tokens": [
+    {
+      "surface": "ברך",
+      "gloss": "ባርኽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ሓይሉ"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ተግባር…ን"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "ተዓልወ"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ትስቓብ"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "ውሕገት"
+    },
+    {
+      "surface": "קמיו",
+      "gloss": "ንቑጽቱ"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "ጠሊምዎን"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "ከይቐንጹን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:11:22.192219834Z",
+  "model": "glm-5.3"
+}

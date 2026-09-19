@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 67,
+  "translation": "ሕዝብታት ኤሎሂም ይዝምሩኻ፤ ሕዝብታት ኩሎም ይዝምሩኻ።",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ይዝምሩኻ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝብታት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ይዝምሩኻ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝብታት"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ኩሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:12.795181333Z",
+  "model": "glm-5.3"
+}

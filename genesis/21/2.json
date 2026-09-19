@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ሳራ ድማ ንኣቭራሃም ወዲ ሓረሰታ ኣብ ዝዓበየሉ ዕድመ ኣብ ኤሎሂም ዝተዛረቦ ⟨אתו⟩ ቈጸለት፣ ወሊዳ።",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ቈጸለት"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወሊዳ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ሳራ"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ንኣቭራሃም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "ሓረሰታ ኣብ ዝዓበየሉ"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "ዕድመ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝተዛረቦ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:43:32.572818707Z",
+  "model": "glm-5.3"
+}

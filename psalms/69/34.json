@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "ምኽንያቱ ያህዌህ ንድሃታት ይሰምዕ እዩ፤ ⟨את⟩ ኣስረይቱን ኣይወድቆምን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ይሰምዕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ድሃታት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣስረይቱ"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "ኣስረይቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ይወድቅ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:38.221678367Z",
+  "model": "glm-5.3"
+}

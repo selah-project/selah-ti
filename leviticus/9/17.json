@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ነቲ መቕረያ ⟨את⟩ ኣቕረበ፣ ካባኣ ኣእዳዉ ሞላዖ፣ ድማ ኣብ ልዕሊ መስውዕ ኣቐደሶ፣ ካብ ውዕሊ ቀዳም ወጻኢ።",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ኣቕረበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ መቕረያ"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ነቲ መቕረያ"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ሞላዖ"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "ኣእዳዉ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ካባኣ"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ኣቐደሶ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መስውዕ"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "ወጻኢ"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ውዕሊ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ቀዳም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:53:40.693613405Z",
+  "model": "glm-5.3"
+}

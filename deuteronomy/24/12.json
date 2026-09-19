@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "እቲ ሰብ ድኹም እንተ ዀነ፣ ብዋሰኡ ኣይተንንን።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እንተ ዀነ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ድኹም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ኣይተንንን"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "ብዋሰኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:04:16.933500022Z",
+  "model": "glm-5.3"
+}

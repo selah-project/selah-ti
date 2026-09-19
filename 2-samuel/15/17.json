@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 15:17",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "እቲ ንጉስ ኮይኑ ወጸ፣ ኩሉ ህዝቢ ከምኡውን ብእግሩ ተበጊሱ ወጸ፤ ኣብ ⟨እቲ ርሕቀት ቤት⟩ እናተቐመጡ ኮኑ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ ከምኡውን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ብእግሩ"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ተቐመጡ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "המרחק",
+      "gloss": "እቲ ርሕቀት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:33:41.132013204Z",
+  "model": "glm-5.3"
+}

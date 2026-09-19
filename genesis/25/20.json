@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 25:20",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ይጽሓቅ ወዲ ኣርባዕተ ዓመት ኮይኑ ነይሩ፣ ኣብ ዝወስድ ግዜ እታ ወዲ ቤቱኤል እቲ ኣራማይ ካብ ፓዳን ኣራም፣ ሓብቲ ላቫን እቲ ኣራማይ ዝኾና ⟨את⟩ ሮቤቃ ናብኣ ናይ ሰበይቲ ወሲዱ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ ነይሩ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይጽሓቅ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "בקחתו",
+      "gloss": "ኣብ ዝወስድ ግዜ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሮቤቃ"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ሮቤቃ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "እታ ወዲ"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "ቤቱኤል"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "እቲ ኣራማይ"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "ካብ ፓዳን"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ሓብቲ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ላቫን"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "እቲ ኣራማይ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ናብኣ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ናይ ሰበይቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:49:15.992712067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ነቲ ሰብ ኤሎሂም ድማ በሎ፦ «ምስና ⟨את⟩ ናብ ቤት ተመለስ፣ ድማ ስም ብልዕ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ነቲ ሰብ ኤሎሂም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ተመለስ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ምስና"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ናብ ቤት"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ብልዕ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ስም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:59:48.016953950Z",
+  "model": "glm-5.3"
+}

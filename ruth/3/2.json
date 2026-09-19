@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 3:2",
+  "book": "ruth",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣብዚ ድማ እዚ፣ ብዓዝ ዘመድና ኣይ ኮነን፣ ንስኻ ምስ ⟨את⟩ ወናንተኡ ዝነበርካ? ኣሎ፣ ንሱ ሎሚ ምሸት ⟨את⟩ ውድቀት እቲ ገበሮታ ይስንሕ እዩ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ኣብዚ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ብዓዝ"
+    },
+    {
+      "surface": "מדעתנו",
+      "gloss": "ዘመድና"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ዝነበርካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወናንተኡ"
+    },
+    {
+      "surface": "נערותיו",
+      "gloss": "ወናንተኡ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "ይስንሕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውድቀት"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "ውድቀት"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "እቲ ገበሮታ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ሎሚ ምሸት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:33:30.209773425Z",
+  "model": "glm-5.3"
+}

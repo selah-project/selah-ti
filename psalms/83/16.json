@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 83,
+  "translation": "ከምዚ ብሓባርታኻ ኣሳድዎም፣ ብውዑርኻ ድማ ኣሰርሕዎም።",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "ኣሳድዎም"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "ብሓባርታኻ"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "ብውዑርኻ"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "ኣሰርሕዎም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:57.410421156Z",
+  "model": "glm-5.3"
+}

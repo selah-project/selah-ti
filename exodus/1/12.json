@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ከም ዝጸልእዎ ⟨את⟩ ንሱ ከምኡ ይበዝሕ፣ ከምኡውን ይስፋሕ ነይሩ፤ ብዛዕባ ውላድ ያዕቆቭ ድማ ተሓሙቑ።",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "ከም ዝ"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ዝጸልእዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ይበዝሕ"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "ይስፋሕ"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "ተሓሙቑ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ብዛዕባ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ያዕቆቭ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:10:01.761132574Z",
+  "model": "glm-5.3"
+}

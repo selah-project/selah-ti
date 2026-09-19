@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ምኽንያቱ ኣብ ልዕሊ ዝቐመጡ ኣዋርዶም፣ ከተማ ላዕለወት ኣውርዳታ፣ ኣውርዳታ ክትርከብ ናብ ምድሪ፣ ኣብ ክብርቲ የብቓታ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "השח",
+      "gloss": "ኣዋርዶም"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ዝቐመጡ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ልዕሊ"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "ላዕለወት"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "ኣውርዳታ"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "ኣውርዳታ ክትርከብ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "የብቓታ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ክብርቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:56:19.075903732Z",
+  "model": "glm-5.3"
+}

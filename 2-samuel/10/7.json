@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ዳዊድ ምስ ሰምዐ፣ ⟨את⟩ ዮኣብን ⟨ואת⟩ ኹሉ እቲ ሰራዊት እቶም ጽንዋታት ሰደደ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ምስ ሰምዐ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮኣብ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮኣብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ እቲ ሰራዊት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "እቲ ሰራዊት"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "እቶም ጽንዋታት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:27:13.226217784Z",
+  "model": "glm-5.3"
+}

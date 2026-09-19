@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 2:13",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣድረት ኤልያሁ እታ ካብ ላዕሊኡ እትወርድ ⟨את⟩ ኣልዓል ኣኺቡ ተመለሰ ድማ ኣብ ማዕዶ ያርደን ተቐመጠ።",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "ኣልዓል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣድረት"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "ኣድረት"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያሁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "ወረደት"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ካብ ላዕሊኡ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ማዕዶ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ያርደን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:14:13.023924577Z",
+  "model": "glm-5.3"
+}

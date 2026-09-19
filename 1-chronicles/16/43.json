@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ኩሉ ህዝቢ ድማ ሓደ ሓደ ናብ ቤቱ ኸደ፤ ዳዊድ ድማ ⟨את⟩ ቤቱ ንምባርኽ ተመለሰ።",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ኸዱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሓደ ሓደ"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ናብ ቤቱ"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "ንምባርኽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:43:58.517048718Z",
+  "model": "glm-5.3"
+}

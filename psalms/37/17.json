@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ምኽንያቱ ክንደታት ኣጥፍያት ይሽበራ፣ ያህዌህ ድማ ጻድቓት ይዕቅብ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "ክንደታት"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኣጥፍያት"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "ይሽበራ"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "ይዕቅብ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ጻድቓት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:55:37.153955575Z",
+  "model": "glm-5.3"
+}

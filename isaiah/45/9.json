@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 45:9",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "ወይ ንእሽቲ ምስ ⟨את⟩ መቐጸሩ እትቓለስ፣ ሽንካር ⟨את⟩ ሽንካራት ምድሪ ዝተቓለስ። ሓመርቲ ንዝቐጸራ ክትብል ትኽእል፧ «እንታይ ተገብር?» ወይ ድማ ሕርሚኻ፦ «ኢድታት የብሉን»?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "እትቃለስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መቐጸሩ"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "መቐጸሩ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ሽንካር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሽንካራት ምድሪ"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "ሽንካራት"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "היאמר",
+      "gloss": "ትብል"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ሓመርቲ"
+    },
+    {
+      "surface": "ליצרו",
+      "gloss": "ንዝቐጸራ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ተገብር"
+    },
+    {
+      "surface": "ופעלך",
+      "gloss": "ወይ ሕርሚኻ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የብሉን"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ኢድታት"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-19T02:12:38.059794028Z",
+  "model": "glm-5.3"
+}

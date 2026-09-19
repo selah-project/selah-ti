@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 103,
+  "translation": "ንኹሉ ጥፍኣትካ ዝሕረ፣ ንኹሉ ሕማቕታትካ ዝሓውሽ።",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "ዝሕረ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "ጥፍኣትካ"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "ዝሓውሽ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "ሕማቕታትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:36.307749216Z",
+  "model": "glm-5.3"
+}

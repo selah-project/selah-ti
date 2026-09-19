@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 61,
+  "translation": "ምኽንያቱ ንኣነ ጥቕሚ ኮይነ ነይርካ፣ ካብ ፈታው ብዑይ ናይ ክብሪ ግንብ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ነይርካ"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "ጥቕሚ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "ግንብ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ናይ ክብሪ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ካብ ፈታው ብዑይ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ፈታው"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:47.367283978Z",
+  "model": "glm-5.3"
+}

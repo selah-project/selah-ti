@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ክፉእ ንብጻይ ይተከብኮ፣ ንምቅታዑ ድማ ይደሊ።",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "ይተከብኮ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ንብጻይ"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "ይደሊ ድማ"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ንምቅታዑ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:55:16.029433403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 6:5",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ስለዚ ብነብዪታት ቀረጽክዎም፣ ብቓላቲ ኣፍይ ቐተልክዎም፤ እቶም ፍትሒታትኻ ድማ ከም ብርሃን ውጹእ እዩ።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "חצבתי",
+      "gloss": "ቀረጽክዎም"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "ብነብዪታት"
+    },
+    {
+      "surface": "הרגתים",
+      "gloss": "ቐተልክዎም"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "ብቓላቲ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ኣፍይ"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "እቶም ፍትሒታትኻ ድማ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ከም ብርሃን"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ውጹእ እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:05:29.601248865Z",
+  "model": "glm-5.3"
+}

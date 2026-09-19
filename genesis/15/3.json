@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ኣቭራሃም ድማ ድሕሪኡ በለ፦ እንሆ ንኣነ ዘርኢ ኣይሃብካኒን፣ ኣሮ ወዲ ቤተይ ⟨את⟩ይ ይውርሰኒ እዩ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "הן",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ሃብካ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘርኢ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣሮ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ቤተይ"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "ይውርሰኒ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ይ (ኣነ)"
+    }
+  ],
+  "timestamp": "2026-09-18T20:39:27.635356188Z",
+  "model": "glm-5.3"
+}

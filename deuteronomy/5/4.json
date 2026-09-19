@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ገጽ ኣብ ቅድሚ ገጽ ያህዌህ ምስኩም ተዛረበ ኣብ እቲ ከረብ ካብ ማእከል እቲ ሓዊ።",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "ኣብ ቅድሚ ገጽ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ምስኩም"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ኣብ እቲ ከረብ"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ካብ ማእከል"
+    },
+    {
+      "surface": "האש",
+      "gloss": "እቲ ሓዊ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:48:31.874226986Z",
+  "model": "glm-5.3"
+}

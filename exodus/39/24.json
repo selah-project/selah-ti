@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 39:24",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ኣብ ልዕሊ ጫፋት እቲ ልብሲ ድማ ሩማናት ብሰማያዊን ብኣርገማንን ብቀይሕ ቆምጣን ዝተሰፈ ገበሩ።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "ጫፋት"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "ልብሲ"
+    },
+    {
+      "surface": "רמוני",
+      "gloss": "ሩማናት"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ሰማያዊ"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ኣርገማን"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ቆምጣ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ቀይሕ"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ዝተሰፈ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:45:38.093598306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 81,
+  "translation": "ኣብ ሓድሽ ወርሒ ሾፋር ኣውጹ፤ ኣብ ሙላይ ድማ፣ ኣብ መዓልቲ በዓልና።",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "ኣውጹ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ኣብ ሓድሽ ወርሒ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ሾፋር"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "ኣብ ሙላይ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "በዓልና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:10.110888181Z",
+  "model": "glm-5.3"
+}

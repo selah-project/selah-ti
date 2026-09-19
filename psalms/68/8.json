@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ኤሎሂም፣ ካብ ዝወጸኻ ኣብ ቅድሚ ህዝብኻ፣ ካብ ዝሓለፍካ ኣብ ምድረ-በዳ — ስላህ።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "ካብ ዝወጸኻ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ህዝብኻ"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "ካብ ዝሓለፍካ"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "ኣብ ምድረ-በዳ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:18.960964323Z",
+  "model": "glm-5.3"
+}

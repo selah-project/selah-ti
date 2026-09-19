@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ኩሉ መዓልቲ ያህዌህ ሔሴዱ ይኣዘዝ፣ እብ ለይቲውን ዜማ ምስ ኣነ እያ፣ ጸሎት ናብ ኤል ናይ ሕይወተይ።",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ኩሉ መዓልቲ"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "ይኣዘዝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "እብ ለይቲውን"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "ዜማ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ምስ ኣነ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ጸሎት"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ናብ ኤል"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ናይ ሕይወተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:36.024516685Z",
+  "model": "glm-5.3"
+}

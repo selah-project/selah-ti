@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "እቲ ንጉስ ድማ ኣዕረየ፣ «ያህዌህ ይነብር፣ እቲ ⟨את⟩ ነፍሰይ ካብ ዅሉ መከራ ዝሓወገ።»",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "ኣዕረየ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ይነብር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ዝሓወገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሰይ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ዅሉ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "መከራ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:46:09.063960389Z",
+  "model": "glm-5.3"
+}

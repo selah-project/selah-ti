@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 2:6",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሕጂ ድማ ያህዌህ ምስኩም ሔሴድን ሓቂን ይገብር፤ ኣነ እውን ነቲ በጃ እዚ ምስኩም ⟨אתכם⟩ እገብር፣ እቲ ነገር እዚ እተገብርኩም ምኽንያት።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ ድማ"
+    },
+    {
+      "surface": "יעש",
+      "gloss": "ይገብር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ምስኩም"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ሓቂን"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ኣነ እውን"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ እውን"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "እገብር"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ምስኩም",
+      "marks": "ብዝሑ ቁጽሪ — ⟨אתכם⟩"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ነቲ በጃ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እተገብርኩም ምኽንያት"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ገበርኩም"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ነገር"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:22:12.685902691Z",
+  "model": "glm-5.3"
+}

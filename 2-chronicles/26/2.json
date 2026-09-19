@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ንሱ ⟨את⟩ ኤሎት ሃንዶ፣ እቲ ንጉስ ምስ ኣቦታቱ ካብ ዝተኛአ ድሕሪኡ ነታ ንይሁዳ መለሳዋ።",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሃንዶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎት"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "ኤሎት"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "መለሳ"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ንይሁዳ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ካብ ምቕታል"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ኣቦታቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:12:00.395153836Z",
+  "model": "glm-5.3"
+}

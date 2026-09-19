@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ከም ልብኻ ይሃበካ፣ ኩሉ ምክርኻን ድማ ይምልእ።",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ይሃበካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "ከም ልብኻ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ…ን"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "ምክርኻ"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ይምልእ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:18.605855310Z",
+  "model": "glm-5.3"
+}

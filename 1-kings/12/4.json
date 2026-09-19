@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "«ኣቦኻ ነቲ ⟨את⟩ ቐንዲና ከቢድ ገበረ፤ ንስኻ ድማ ሕጂ ካብ ኣገልግሎት ኣቦኻ ከቢድን ካብ ቐንዲኡ ከቢድን እቲ ዝሃበና ኣብ ልዕልናን ቐሊሉ፣ ነንጥፍካ እንኾን።»",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "ኣቦኻ"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ከቢድ ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቐንዲና"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "ቐንዲና"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ድማ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "ቐሊሉ"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "ካብ ኣገልግሎት"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ኣቦኻ"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ከቢድ"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "ንቐንዲኡ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ከቢድ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ኣብ ልዕልና"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "ነንጥፍካ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:01:34.975932406Z",
+  "model": "glm-5.3"
+}

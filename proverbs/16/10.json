@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ኣስማት ኣብ ከረን ንጉስ ኣሎ፤ ኣብ ፍርዲ ኣፉ ኣይሓቱን።",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "ኣስማት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ከረን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ኣብ ፍርዲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "ይሓቱ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ኣፉ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:49:18.736268779Z",
+  "model": "glm-5.3"
+}

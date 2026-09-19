@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 65:20",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 65,
+  "translation": "ኣብኡ ድማ ደግና ጽንኩር መዓልታት ኣይከውንን፣ ዝዓበየ ድማ መዓልታቱ ⟨את⟩ ዘይተዓጽዎን፤ ምኽንያቱ ንእሽተይ ውላዲ ሽሕ ዓመት ክሞት እዩ፣ እቲ ኣበጋሕ ድማ ውላዲ ሽሕ ዓመት ይጸልእ እዩ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይን"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክከውንን"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደግና"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ጽንኩር"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "ዝዓበየን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ዘይተዓጽዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መዓልታቱ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "መዓልታቱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ንእሽተይ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ውላዲ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ክሞት እዩ"
+    },
+    {
+      "surface": "והחוטא",
+      "gloss": "እቲ ኣበጋሕን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ውላዲ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ይጸልእ እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:27:54.817770345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 22:3",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ብጽድቂኻ ንሻዳይ ሓጐስ እዩ ድዩ፧ መገድታትኻ እንተ መሓዝካ ወይ ትርፊ እዩ ድዩ፧",
+  "tokens": [
+    {
+      "surface": "החפץ",
+      "gloss": "ሓጐስ እዩ ድዩ"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "ንሻዳይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "ብጽድቂኻ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ትርፊ እዩ ድዩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תתם",
+      "gloss": "መሓዝካ"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "መገድታትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:15:15.925288624Z",
+  "model": "glm-5.3"
+}

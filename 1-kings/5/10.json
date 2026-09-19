@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ጥበብ ሽሎሞ ድማ ካብ ጥበብ ኩሉ ውላድ ቕዳምን ካብ ኩሉ ጥበብ ሚጽራይምን ንላዕሊ በዛ።",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "በዛ ከኣ"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "ካብ ጥበብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ቕዳም"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ካብ ኩሉ ከኣ"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:50:08.410744595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እቲ ሓብዓን እቲ ኩስምትን ግን ኣይተታሕተለን፤ ዝድኅሩ ስለ ዝኾና እየን።",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "እቲ ሓብዓን"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "እቲ ኩስምትን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይተታሕተለን፤"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "ተታሕተለን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "ዝድኅሩ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እየን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:16:41.442537245Z",
+  "model": "glm-5.3"
+}

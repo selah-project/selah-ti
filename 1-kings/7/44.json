@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ከምኡውን ⟨את⟩ ሓደ ባሕሪ፣ ከምኡውን ⟨את⟩ ዓሰርተ ክልተ ኣበጋታት ትሕቲ እቲ ባሕሪ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ከምኡውን ⟨את⟩",
+      "marks": "ሓደ ባሕሪ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ከምኡውን ⟨את⟩",
+      "marks": "ዓሰርተ ክልተ ኣበጋታት"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ኣበጋታት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "እቲ ባሕሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:50:56.110223987Z",
+  "model": "glm-5.3"
+}

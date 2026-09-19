@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 16:20",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ያህዌህ ድማ ምስ ሞሸን ምስ ኣሃሮንን ተዛረበ ብምባል፦",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ምስ ኣሃሮንን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮንን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብምባል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:27:13.967175942Z",
+  "model": "glm-5.3"
+}

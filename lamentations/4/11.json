@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ያህዌህ ⟨את⟩ ቍጣኡ ወዲቑ ደው በለ፤ ስጉምቲ ቍጣኡ ኣፈሰሰ፤ ኣብ ጽዮን ሓዊ ኣንጻዕዎ፤ ንመሰረታታ ተበልዐቶ።",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "ወዲቑ ደው በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቍጣኡ"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "ቍጣኡ"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "ኣፈሰሰ"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "ስጉምቲ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ቍጣኡ"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "ኣንጻዕ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ኣብ ጽዮን"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ተበልዐቶ"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "ንመሰረታታ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:36:09.757279149Z",
+  "model": "glm-5.3"
+}

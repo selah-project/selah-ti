@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 94,
+  "translation": "እቲ ኣህዛብ ዚያስር ⟨ኣይቐጽፍ ድዩ⟩? እቲ ሰብ እውቀት ዚምሃር ⟨ኣይፈልጥን ድዩ⟩?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "ዚያስር"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ድዩ"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ኣይቐጽፍ"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "ዚምሃር"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "እውቀት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:57.241033772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣይ፣ መዓልታት ይመጻሉ፣ እጅርኻን ⟨את⟩ እጅር ስድራ ኣቦኻን ከቐርጽ፣ ኣብ ስድራኻ ዓቁል ከይነግስ።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ይመጹ"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "ከቐርጽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጅርኻ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "እጅርኻ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እጅር"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "እጅር"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ኣቦኻ"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "ከይነግስ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ዓቁል"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ኣብ ስድራኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:57:57.729120577Z",
+  "model": "glm-5.3"
+}

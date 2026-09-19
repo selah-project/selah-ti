@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 5:8",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ሻፍር ኣብ ግብዓ ቅንጨር፣ ቀርንጽላ ኣብ ራማ ኣውጽኡ፤ ኣብ ቤት-ኣወን ጩኸት ግበሩ፤ ኣብ ድሕሪትካ ብንያምን!",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "ቅንጨር"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ሻፍር"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "ኣብ ግብዓ"
+    },
+    {
+      "surface": "חצצרה",
+      "gloss": "ቀርንጽላ"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "ኣብ ራማ"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ኣውጽኡ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "און",
+      "gloss": "ኣወን"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ኣብ ድሕሪትካ"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "ብንያም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:06:44.860003783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ምኽንያቱ ኣዳኖም ከይዲ እዩ፤ ⟨את⟩ ኵርናኖም ⟨את⟩ ምስ ንስኻ ይኽድን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "ኣዳኖም"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ከይዲ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ይኽድን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኵርናኖም"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "ኵርናኖም"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ምስ ንስኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:55:12.613066131Z",
+  "model": "glm-5.3"
+}

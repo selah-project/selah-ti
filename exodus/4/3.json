@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "«ኣእቶ ናብ ምድሪ» በሎ፤ ንሱ ድማ ኣእቱዎ ናብ ምድሪ፣ ናብ ሕያዊ ኮይኑ፣ ሞሸ ካብ ቅድሚኡ ሰሓበ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "ኣእቶ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ናብ ምድሪ"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "ኣእቱዎ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ናብ ምድሪ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "ናብ ሕያዊ"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ሰሓበ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ካብ ቅድሚኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:13:52.116784719Z",
+  "model": "glm-5.3"
+}

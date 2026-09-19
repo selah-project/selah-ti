@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 54,
+  "translation": "ኣሎ፣ ይሰብሰቡ እዮም ግና ⟨את⟩ ኣነ ኣይኮነን፤ መን ምስ ⟨את⟩ ንስኺ ተሰብሲቡ? ንንስኺ ክወድቕ እዩ።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "גור",
+      "gloss": "ዝሰብሰብ"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ይሰብሰቡ"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "ግና…ኣይኮነን"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩",
+      "marks": "ኣነ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ዝተሰብሰበ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ምስ ንስኺ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ንንስኺ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ይወድቕ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:16:56.700882248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ድማ ኣብ ባሕሪ ሱፍ ገሰጸ፤ እታ ድማ ደረበት፤ ንሳቶም ድማ ከም ⟨ኣብ⟩ ምድረ በዳ ኣብ ጥልቃታት ኣብኺቦም።",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "ገሰጸ"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ኣብ ባሕሪ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ሱፍ"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "ደረበት"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "ኣብኺቦም"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "ኣብ ጥልቃታት"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "ከም ምድረ በዳ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:26.489091291Z",
+  "model": "glm-5.3"
+}

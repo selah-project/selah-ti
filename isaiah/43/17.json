@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 43:17",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "እቲ ማሕረሽቲን ፈረሃትን፣ ሓይሊን ጽንዕን ሓባር ዝወጽእ፣ ተሳገፉ፣ ኣይተቐመጡን፤ ከም ተላጊቢ ተጠፊኦም ኣጠፉ።",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "ዝወጽእ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ማሕረሽቲ"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "ፈረሃትን"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ሓይሊ"
+    },
+    {
+      "surface": "ועזוז",
+      "gloss": "ጽንዕን"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ሓባር"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "ተሳገፉ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "ክተቐመጡ"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "ተጠፊኦም"
+    },
+    {
+      "surface": "כפשתה",
+      "gloss": "ከም ተላጊቢ"
+    },
+    {
+      "surface": "כבו",
+      "gloss": "ኣጠፉ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:10:48.191415453Z",
+  "model": "glm-5.3"
+}

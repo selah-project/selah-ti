@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ኣብዚ እዋንዲ ንስኻ «ከደ፣ ነቲ ጎይታኻ በለ፦ እንሆ ኤልያሁ ኣሎ» ትብል።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ኣብዚ እዋንዲ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ትብል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "ነቲ ጎይታኻ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያሁ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:06:19.623734364Z",
+  "model": "glm-5.3"
+}

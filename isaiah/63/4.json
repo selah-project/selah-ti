@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 63,
+  "translation": "ምኽንያቱ መዓልቲ ቕጻለ ኣብ ልበይ እዩ፣ ዓመት ተዓልዮተይ ድማ በጺሑ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ቕጻለ"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "ኣብ ልበይ"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "ተዓልዮተይ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "በጺሑ እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:21:24.176403371Z",
+  "model": "glm-5.3"
+}

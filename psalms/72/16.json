@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 72,
+  "translation": "በልሒ ኣብ ምድሪ ኣብ ርእሲ ኦሮማት ብብዝሒ ይህሉ፣ ፍረኡ ከም ለባኖን ይንደድ፣ ካብ ከተማ ድማ ከም ሳሕቲ ምድሪ ይፈሪ።",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ይህሉ"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "ብብዝሒ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "በልሒ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ኣብ ርእሲ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ኦሪማት ኦሮማት"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "ይንደድ"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "ከም ለባኖን"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ፍረኡ"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "ይፈሪ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ካብ ከተማ"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "ከም ሳሕቲ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:27.710443426Z",
+  "model": "glm-5.3"
+}

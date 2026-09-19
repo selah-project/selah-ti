@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 145,
+  "translation": "ያህዌህ ነፍሲ ወከፍ ዝወድቕ የዳኽኾም፣ ነፍሲ ወከፍ ዝተጐደለ ድማ የማልዓል።",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "የዳኽኾም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "ዝወድቑት"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "የማልዓል"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "ዝተጐደሉት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:30.959436680Z",
+  "model": "glm-5.3"
+}

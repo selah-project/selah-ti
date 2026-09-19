@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 7:21",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ስለ ቃልኻን ብልብኻን ⟨את⟩ ኩሉ እዚ ዓቢ ምርኻብ ገበርካ፣ ንኣገልጋሊኻ ⟨את⟩ ንምርዳእ።",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ቃልኻ"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "ብልብኻን"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ገበርካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እዚ ዓቢ ምርኻብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ዓቢ ምርኻብ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "ንምርዳእ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣገልጋሊኻ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልጋሊኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:26:32.242929164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ነቶም ውላድ እስራኤል ተዛረብ፣ ነንሳቶም ከኣ እንደሚእል፦ ሓደ ካብኹም ሰብ ናብ ያህዌህ ወፈያ እንተ ዝቐርብ፣ ካብ እቲ እንስሳ — ካብ እቲ ከብቲን ካብ ጣዕሳን — ⟨את⟩ ወፈያኹም ተቐርቡ።",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ተዛረብዎም"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ነንሳቶም"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ይቐርብ"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ካብኹም"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ናብ ያህዌህ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "እቲ እንስሳ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "እቲ ከብቲ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ንከኣ ካብ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "እቲ ጣዕሳ"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "ተቐርቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወፈያኹም"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "ወፈያኹም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:47:49.614503356Z",
+  "model": "glm-5.3"
+}

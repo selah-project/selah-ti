@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 51,
+  "translation": "ንኻ፣ ንኻ ጥራይ በደይን፣ ኣብ ዓይንታትኻ ድማ ነቲ ኣጽዒር ገበርኩ፣ ብቃልካ ንኽትጽድቅ፣ ኣብ ፍርድኻ ድማ ንኽትንከር።",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ንኻ ጥራይ"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "በደይን"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "ነቲ ኣጽዒር"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ኣብ ዓይንታትኻ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ገበርኩ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ንኽትጽድቅ"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "ትጽድቅ"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "ብቃልካ"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "ትንከር"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "ኣብ ፍርድኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:26.071452140Z",
+  "model": "glm-5.3"
+}

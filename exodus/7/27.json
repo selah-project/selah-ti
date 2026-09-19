@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ንስኻ እንተ ዝኣሰንካ ዘይትለኣኾም ኣሎ ኣነ ኩሉ ወሰኻ ብጾርጾር ኣቢለ ኣጽፍእ ⟨את⟩ ኩሉ ወሰኻ እየ።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ዝኣሰንካ ዘይትለኣኾም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ንምልኣኽ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "ኣጽፍእ እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ወሰኻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "ወሰኻ"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "ብጾርጾር"
+    }
+  ],
+  "timestamp": "2026-09-18T21:17:29.425506111Z",
+  "model": "glm-5.3"
+}

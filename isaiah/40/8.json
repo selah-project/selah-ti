@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "«ደሙር ይስከር፣ ኩሉሉማት ድማ ትኸውን፣ ቃል ኤሎሂምና ግን ናብ ዘለኣለም ይቕመጥ።»",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "ይስከር፣"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ደሙር"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ትኸውን፣"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "ኩሉሉማት"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ቃል ግን"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ይቕመጥ።"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:08:17.402313016Z",
+  "model": "glm-5.3"
+}

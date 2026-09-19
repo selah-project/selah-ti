@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 4:14",
+  "book": "micah",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ሕጂ ተኣራፊ ጓል ውግእ፣ ኣባር ኣብ ልዕሊና ገበሩ፤ በቲ ሓጹር ኣብ ⟨את⟩ ኣንፈት ይበዝሑ ደንጊፍ እስራኤል።",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "תתגדדי",
+      "gloss": "ተኣራፊ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ጓል"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "ውግእ"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ኣባር"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ኣብ ልዕሊና"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "በቲ ሓጹር"
+    },
+    {
+      "surface": "יכו",
+      "gloss": "ይበዝሑ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הלחי",
+      "gloss": "ኣንፈት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደንጊፍ እስራኤል"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ደንጊፍ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T04:20:46.266025450Z",
+  "model": "glm-5.3"
+}

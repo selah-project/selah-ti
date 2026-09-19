@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 7:2",
+  "book": "micah",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "እቲ ቅዱስ ካብ ምድሪ ጠፊኡ፤ ቅንዲ ኸኣ ኣብ ሰባት የለን። ኩሎም ንደም ይተባብኣሉ፤ ሓደ ሰብ ⟨את⟩ ኣሕዉኡ ብጎደና ይዓብእ።",
+  "tokens": [
+    {
+      "surface": "אבד",
+      "gloss": "ጠፊኡ"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ቅንዲ ድማ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ኣብ ሰባት"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "לדמים",
+      "gloss": "ንደም"
+    },
+    {
+      "surface": "יארבו",
+      "gloss": "ይተባብኣሉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሓደ ሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሕዉኡ"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "ኣሕዉኡ"
+    },
+    {
+      "surface": "יצודו",
+      "gloss": "ይዓብእ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ጎደና"
+    }
+  ],
+  "timestamp": "2026-09-19T04:26:45.670127546Z",
+  "model": "glm-5.3"
+}

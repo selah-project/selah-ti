@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 72,
+  "translation": "ንሱ ድማ ይነብር፣ ካብ ወርቂ ሳባ ይውሃቦ፣ ኣብ ውዒዱ ኩሉ ግዜ እናጸለየን ኩሉ መዓልቲ ድማ ይባርኸን እዩ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ይነብር"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ይውሃቦ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "ካብ ወርቂ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ሳባ"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "እናጸለየን"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ኣብ ውዒዱ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ኩሉ ግዜ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "ይባረኸን እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:27.710070653Z",
+  "model": "glm-5.3"
+}

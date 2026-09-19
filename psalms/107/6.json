@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ኣብ መከራኦም ናብ ያህዌህ ተዓጸዉ፣ ካብ መከራታቶም ድማ ኣድሕኖም።",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "ተዓጸዉ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ኣብ መከራኦም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "ካብ መከራታቶም"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "ኣድሕኖም"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:47.343228924Z",
+  "model": "glm-5.3"
+}

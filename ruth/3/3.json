@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ድሕሪኡ ሳቕዒ፣ ተቕብኢ፣ ኣብሳትኻ ድማ ልቢስኢ፣ ናብ እቲ ውድቀት ኣውርዲ፤ እቲ ሰብ ግን ክሳብ ዝወድእን ዝሰትይን ኣይትፍለጦን።",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "ሳቕዒ"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "ተቕብኢ"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ልቢስኢ"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "ኣብሳትኻ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ኣብ ልዕሊኻ"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "ኣውርዲ"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "እቲ ውድቀት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "ትፍለጦ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ንእቲ ሰብ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ዝወድእ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ክወድእ"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "ክሰትይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:33:30.210214786Z",
+  "model": "glm-5.3"
+}

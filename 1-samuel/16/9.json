@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ይጽሓይ ሻማ ኣሻጊሩ «እዚውን እዚ ያህዌህ ኣይመረጾን» በለ።",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "ኣሻጊረ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ይጽሓይ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ሻማ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እዚውን"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "መረጸ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:07:06.690021105Z",
+  "model": "glm-5.3"
+}

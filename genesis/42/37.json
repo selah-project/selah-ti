@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 42:37",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ራኡቤን ድማ ንኣቡኡ ተዛረበ እናበለ፦ ⟨את⟩ ክልተ ውላደይ ተቐትሎ፣ ኣነ እንተ ዘይምለሶ ንኣኻ፤ ⟨את⟩ ኣብ ኢደይ ሃበኒ፣ ኣነ ድማ እምለሶ ንኣኻ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ራኡቤን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክልተ ውላደይ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደይ"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "ተቐትሎ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይ"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "ምለሶ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ንኣኻ"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ሃበኒ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንወዲ (ብንስጽኣን)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ኢደይ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "እምለሶ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ንኣኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:02:42.825380382Z",
+  "model": "glm-5.3"
+}

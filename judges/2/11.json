@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 2:11",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ውላድ ይስራኤል ከኣ ⟨את⟩ እቲ ንጥፍኢ ኣብ ኣዕይንቲ ያህዌህ ገበሩ፣ ከምኡውን ⟨את⟩ እቶም ባዓላት ኣገልገሉ።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ንጥፍኢ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "እቲ ንጥፍኢ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ ኣዕይንቲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ኣገልገሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ባዓላት"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "እቶም ባዓላት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:34:38.916232592Z",
+  "model": "glm-5.3"
+}

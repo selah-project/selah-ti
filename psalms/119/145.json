@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ብኩሉ ልቢ ቐሪዕኩ፤ ያህዌህ መልሰልኒ፤ ትእዛዛትካ ክኸሓድ እየ።",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "ቐሪዕኩ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብኩሉ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "መልሰልኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ትእዛዛትካ"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "ክኸሓድ እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:17.925013674Z",
+  "model": "glm-5.3"
+}

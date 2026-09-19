@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣፍቂቐይ ተዛረበን ምስ በለኒ፦ «ተንሳእይ፣ በዓይተይ፣ ጽቡቕተይ፣ ንስኺ ተበጽሒ ኪቲ ምስና።»",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ኣፍቂቐይ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ምስ በለ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "ተንሳእይ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኺ"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "በዓይተይ"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "ጽቡቕተይ"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "ተበጽሒ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ኪቲ ምስና"
+    }
+  ],
+  "timestamp": "2026-09-19T06:26:22.669887907Z",
+  "model": "glm-5.3"
+}

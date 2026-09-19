@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 66,
+  "translation": "ድምጺ ኣስተባባዕታ ካብ ከተማ፣ ድምጺ ካብ ቤተ-መቕደስ፣ ድምጺ ያህዌህ ንጸላእቱ ደጊም ዝኸፍእሎ እዩ።",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ድምጽ"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ኣስተባባዕታ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ካብ ከተማ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጽ"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "ካብ ቤተ-መቕደስ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "ዝኸፍእሎ"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "ደጊም"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "ንጸላእቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:24:49.825223364Z",
+  "model": "glm-5.3"
+}

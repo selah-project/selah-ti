@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 132,
+  "translation": "ካህናትካ ብጽድቂ ይልበሱ፣ ቅዱሳንካ ድማ ይሓልሹ።",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "ካህናትካ"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "ይልበሱ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "ቅዱሳንካ ድማ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ይሓልሹ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:13.667172171Z",
+  "model": "glm-5.3"
+}

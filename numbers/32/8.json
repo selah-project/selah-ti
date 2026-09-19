@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "«ከምዚ ገበሩ ኣቦታትኩም፣ ኣብ ዘንግረይ ⟨את⟩ ንሳቶም ካብ ቃደሸ-በርነዓ ንምርኣይ ⟨את⟩ እቲ ምድሪ።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "ኣቦታትኩም"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "ኣብ ዘንግረይ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳቶም (ኣቦታትኩም)"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "ቃደሸ"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "በርነዓ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ንምርኣይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:39:48.540763878Z",
+  "model": "glm-5.3"
+}

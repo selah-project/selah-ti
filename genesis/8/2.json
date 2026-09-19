@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እተታት ጥምምን መስኮታት ሰማያትን ተታሕቡ፣ ዝናብ ድማ ካብ ሰማያት ተወግኣ።",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "ተታሕቡ"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "እተታት"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "ጥምም"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "መስኮታት"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "ተወግኣ"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ዝናብ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:35:31.043863482Z",
+  "model": "glm-5.3"
+}

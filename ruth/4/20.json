@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ዓሚናዳብ ኣቡኡ ናኹሽን እዩ፣ ናኹሽን ድማ ኣቡኡ ሳልማ እዩ።",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "ዓሚናዳብ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ኣቡኡ … እዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ናኹሽን"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "ናኹሽን"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "ናኹሽን ድማ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ኣቡኡ … እዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሳልማ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሳልማ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:32:09.705950146Z",
+  "model": "glm-5.3"
+}

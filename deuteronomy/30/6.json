@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ያህዌህ ኤሎሂምኪትካ ⟨את⟩ ልቢኻን ⟨את⟩ ልቢ ዘርኢኻን ይልከብ፣ ብኹሉ ልቢኻን ብኹሉ ነፍሲኻን ያህዌህ ኤሎሂምኪትካ ንምፍትዉ፣ ንቕጽበት ሕይወትኻ።",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "ይልከብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምኪትካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልቢኻ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ልቢኻ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ልቢ ዘርኢኻ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ዘርኢኻ"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "ንምፍትዉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ ኤሎሂምኪትካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምኪትካ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብኹሉ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ልቢኻ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ብኹሉን"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ነፍሲኻ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ንቕጽበት"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ሕይወትኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:09:33.720090993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 10:2",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ልቦም ተከፋፈለ፤ ሕጂ ብድሕ ክሳቖም እዩ፤ ንሱ ነቶም መሠዊሕቶም ይሰብር፣ ነቶም ዓምዳቶም ይደምስስ።",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "ተከፋፈለ"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ልቦም"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ብድሕ ክሳቖም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "יערף",
+      "gloss": "ይሰብር"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "መሠዊሕቶም"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "ይደምስስ"
+    },
+    {
+      "surface": "מצבותם",
+      "gloss": "ዓምዳቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:11:11.513446303Z",
+  "model": "glm-5.3"
+}

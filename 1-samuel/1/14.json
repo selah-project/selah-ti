@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ዓሊ ድማ ነታ በለቶ፦ «ክሳብ መዓል ትሳክሪ? ⟨את⟩ መስኒኻ ካብ ዲናኻ ኣሓርዮ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለቶ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ነታ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ዓሊ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "መዓል"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "ትሳክሪ"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "ኣሓርዮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መስኒኻ"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "መስኒኻ"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "ካብ ዲናኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:55:51.470994922Z",
+  "model": "glm-5.3"
+}

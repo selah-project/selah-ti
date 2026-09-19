@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ዮናታን ኣውጸኡ ⟨את⟩ እቲ ኣብ ልዑሉ ዝነበረ ሉባ ነቲ ዳዊድ ሃቦ፣ ልብሲኡን ክሳብ ሰይፉን ክሳብ ቀሳሑን ክሳብ ማንገዱን።",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "ኣውጸአ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ዮናታን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሉባ"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "ሉባ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዑሉ"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "ሃቦ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ነቲ ዳዊድ"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "ልብሲኡን"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ሰይፉ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "ቀሳሑ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "ማንገዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:40:26.729115981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 52:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 52,
+  "translation": "ኣረኡ እቲ ሰብ ኤሎሂም ሓላዊ ኣይገበረን፣ ኣብ ብዙሕ ብለጽኡ እናተኣመነ ኣብ ክፉኡ እናተበደከ እዩ።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ኣረኡ"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ኣይገበረን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מעוזו",
+      "gloss": "ሓላዊ"
+    },
+    {
+      "surface": "ויבטח",
+      "gloss": "እናተኣመነ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ኣብ ብዙሕ"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "ብለጽኡ"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "እናተበደከ"
+    },
+    {
+      "surface": "בהותו",
+      "gloss": "ኣብ ክፉኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:06.647703061Z",
+  "model": "glm-5.3"
+}

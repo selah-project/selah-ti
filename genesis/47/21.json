@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 47,
+  "translation": "ነቲ ህዝቢ ድማ ⟨את⟩ ናብ ከተማታት ኣሰርዖ፣ ካብ ዓንዲ ድሕረ በዓይ ናይ ሚጽራይም ክሳብ ዓንዱ በዓይ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ህዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ነቲ ህዝቢ"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "ኣሰርዖ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ናብ ከተማታት"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "ናብ ከተማታት"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ካብ ዓንዲ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ድሕረ በዓይ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ናይ ሚጽራይም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "ዓንዱ በዓይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:08:28.228938872Z",
+  "model": "glm-5.3"
+}

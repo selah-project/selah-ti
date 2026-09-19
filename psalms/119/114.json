@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "መሸገላይን ብሪካይን ንስኻ ኢኻ፣ ንቓልካ ድማ ተስፋ ገበርኩ።",
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "መሸገላይ"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "ብሪካይን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "ንቓልካ"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ተስፋ ገበርኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:44.407965588Z",
+  "model": "glm-5.3"
+}

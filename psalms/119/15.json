@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኣብ ትእዛዛትኻ እንሓስብ፣ ንመስመራትኻ ድማ እረኣይ።",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "ኣብ ትእዛዛትኻ"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "እንሓስብ"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "ድማ እረኣይ"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "ንመስመራትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:05.545552028Z",
+  "model": "glm-5.3"
+}

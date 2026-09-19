@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 63,
+  "translation": "እቲ ንጉስ ድማ ኣብ ኤሎሂም ደስ ይብል፤ ኩሉ ብኤሎሂም ዝምውዓል ይመስገን፤ ስለዚ ኣፍ ተዛረብቲ ሓሶት ክተዓጽዩ እዩ።",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "እቲ ንጉስ ድማ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ደስ ይብል"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ኣብ ኤሎሂም"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "ይመስገን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "ዝምውዓል"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ብኤሎሂም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "ክተዓጽዩ እዩ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ኣፍ"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "ተዛረብቲ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሓሶት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:24.597771820Z",
+  "model": "glm-5.3"
+}

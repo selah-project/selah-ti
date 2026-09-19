@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 133,
+  "translation": "ከም እቲ ጽቡቕ ዘይጥብዑ ኣብ ርእሲ ዝወርድ፣ ዝወርድ ኣብ እቲ ሓሙም፣ ሓሙም ኣህሮን፣ እቲ ኣብ ኣፍ ኣልባሳቱ ዝወርድ።",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "ከም ዘይጥብዑ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "እቲ ጽቡቕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ዝወረድ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "ኣብ እቲ ሓሙም"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ሓሙም"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣህሮን"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "እቲ ዝወርድ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ኣፍ"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "ኣልባሳቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:26.379419694Z",
+  "model": "glm-5.3"
+}

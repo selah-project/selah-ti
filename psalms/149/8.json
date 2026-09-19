@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 149,
+  "translation": "ነገሥታቶም ብውሕዙት ንምስርር፣ ኣርሳምቶም ድማ ብሓብሳት ብረት።",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "ንምስርር"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "ነገሥታቶም"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "ብውሕዙት"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "ኣርሳምቶምን"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "ብሓብሳት"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ብረት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:58.650112818Z",
+  "model": "glm-5.3"
+}

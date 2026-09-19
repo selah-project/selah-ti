@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ጽድቂካ ናብ ዘለኣለም ጽድቂ እያ፣ ቶራኻ እውን ሓቂ እያ።",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "ጽድቂካ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ቶራኻ እውን"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ሓቂ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:48.532469997Z",
+  "model": "glm-5.3"
+}

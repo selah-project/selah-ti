@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ውጸኣ ያህዌህ፣ ነፍሰይ ኣውጽኣ፤ ንሔሴድካ ስለ ዝኾነ ኣድሕነኒ።",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "ውጸኣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "ኣውጽኣ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ኣድሕነኒ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ስለ ዝኾነ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ንሔሴድካ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:12.810090547Z",
+  "model": "glm-5.3"
+}

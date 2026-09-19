@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 32:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ጻድቓት ብያህዌህ እተዓወቱ፣ ተደስኡ፤ ቅኑዕ ልቢ ዘለዎም ኩሉ ኣወርዱ።",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "እተዓወቱ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ብያህዌህ"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "ተደስኡ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ጻድቓት"
+    },
+    {
+      "surface": "והרנינו",
+      "gloss": "ኣወርዱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ቅኑዕ ልቢ ዘለዎም"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:03.494316002Z",
+  "model": "glm-5.3"
+}

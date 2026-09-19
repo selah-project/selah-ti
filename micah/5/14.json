@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "እንተ ኮይነ ብቁጥዕን ብዕድልን ንኣህዛብ ⟨את⟩ ምዕጻው ክገብር እየ — እቶም ዘይሰምዑ።",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "ክገብር እየ"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ብቁጥዕ"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "ብዕድል"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ምዕጻው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣህዛብ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ንኣህዛብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ሰምዑ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:20:08.421283949Z",
+  "model": "glm-5.3"
+}

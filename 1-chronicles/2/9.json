@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ውላድ ሕጽሮን እቶም ዝተወለዱሉ፦ ⟨את⟩ ይረሕምኤልን ⟨ואת⟩ ራምን ⟨ואת⟩ ኽሉባይን እዮም።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ሕጽሮን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ዝተወለዱ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይረሕምኤል"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "ይረሕምኤል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ራም"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ራም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ኽሉባይ"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "ኽሉባይ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:28:42.659762613Z",
+  "model": "glm-5.3"
+}

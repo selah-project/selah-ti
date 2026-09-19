@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ዳዊድ ድማ ኣብ ኣገልጋሊ ሓዳድዓዜር ዝነይሮም ⟨את⟩ ወርቂ ጋንታታት ወሰደ፣ ናብ የሩሻላይም ኣእተዮም።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወርቂ ጋንታታት"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "ጋንታታት"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነይሮም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልጋሊ"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ሓዳድዓዘር"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "ኣእተዮም"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:25:33.964382707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ናይ ጽራይ ጕድኣት ኣብ ሰብ እንተ ኮይና፣ ንሱ ናብ ⟨እቲ⟩ ካህን ይኣተው።",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "ጕድኣት"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ጽራይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ኮይና"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ኣብ ሰብ"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "ይኣተው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    }
+  ],
+  "timestamp": "2026-09-19T08:31:01.597961767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ጥራይ ነቲ ስድራ ሌዊ ⟨את⟩ ኣይትቕፈርን፣ ⟨את⟩ ርእሳቶምን ኣይትወስድን፣ ኣብ መንጎ ውላድ እስራኤል።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስድራ ሌዊ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ሌዊ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ትቕፈር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ርእሳቶም"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "ርእሳቶም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ትወስድ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:11:13.420923814Z",
+  "model": "glm-5.3"
+}

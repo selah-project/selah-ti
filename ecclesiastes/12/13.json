@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "መወዳእታ ነገር ኩሉ ተሰምዐ፤ ⟨את⟩ ኤሎሂም ሥዕርን ⟨את⟩ ትእዛዛቱን ሓልዎ፤ ምኽንያቱ እዚ ኩሉ ናይ ሰብ እዩ።",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "መወዳእታ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ተሰምዐ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂም"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ሥዕር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ን",
+      "marks": "ትእዛዛቱ"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ትእዛዛቱ"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ሓልዎ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ናይ ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:44:29.139350071Z",
+  "model": "glm-5.3"
+}

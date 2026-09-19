@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 15:1",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ኣብ ሸሞንተ ዓሰርተ ዓመት ናይ ንጉሥ ያሮብዓም ወዲ ነባት፣ ኣቢያም ኣብ ይሁዳ ነገሰ።",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "ኣብ ዓመት"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ሸሞንተ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ናይ ንጉሥ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ያሮብዓም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ነባት"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነገሰ"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "ኣቢያም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:05:19.439787874Z",
+  "model": "glm-5.3"
+}

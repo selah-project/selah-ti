@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣድሓኒ እቶም ዓባይ ተሰባሪት፣ እቶም ዝተሰናከሉ ድማ ኃይሊ ኣዕረዮም።",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "ኣድሓኒ"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "እቶም ዓባይ"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "ተሰባሪት"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "እቶም ዝተሰናከሉ"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "ኣዕረዮም"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ኃይሊ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:56:21.108195249Z",
+  "model": "glm-5.3"
+}

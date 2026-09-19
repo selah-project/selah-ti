@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 73,
+  "translation": "እዚ ንክፈልጥ ምስ ሓሰብኩ ድማ፣ ጽንኩር ግዜ ኣብ ኣይነይ እያ ኾነት።",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "ሓሰብኩ"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ንክፈልጥ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ጽንኩር ግዜ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እያ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ ኣይነይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:16.773543335Z",
+  "model": "glm-5.3"
+}

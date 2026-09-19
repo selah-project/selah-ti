@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ኩሉ መዓልቲ ዋርሳይ ኣብ ቅድሜይ ኣላ፣ ሓፍረቲ ገጸይ ድማ ሸፈነኒ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "ዋርሳይ"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "ኣብ ቅድሜይ"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "ሓፍረቲ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጸይ"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "ሸፈነኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:22.177513985Z",
+  "model": "glm-5.3"
+}

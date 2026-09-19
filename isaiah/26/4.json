@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ብያህዌህ ክሳብ ዘለኣለም ተኣማኑ፤ ምኽንያቱ ብያህ ያህዌህ ኮኽ ዘለኣለማት እዩ።",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "ተኣማኑ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ብያህዌህ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ዘለኣለም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "ብያህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ኮኽ"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ዘለኣለማት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:57:08.718379810Z",
+  "model": "glm-5.3"
+}

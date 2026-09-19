@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ልቢ ኣንሳዓ ብቲኣ ይኣምን፣ በለሽታ ድማ ኣይጎድልን።",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "ይኣምን"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ብቲኣ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ኣንሳዓ"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "በለሽታ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ይጎድል"
+    }
+  ],
+  "timestamp": "2026-09-19T06:00:45.642693989Z",
+  "model": "glm-5.3"
+}

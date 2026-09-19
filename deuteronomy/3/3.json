@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ያህዌህ ኤሎሂምና ድማ እውን ⟨את⟩ ዑግ ንጉስ ሓባሻንን ⟨ואת⟩ ኩሉ ህዝቡን ኣብ ኢድና ሃበና፤ ኸይተረፈሉ ቀትላዊ ክኳለናዮ እውን ኣይተረፈን።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሃበና"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "ኣብ ኢድና"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዑግ ንጉስ ሓባሻን"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ዑግ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ሓባሻን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ህዝቡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ህዝቡ"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "ክኳለናዮ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ኸይ"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ተረፈ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሱ"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "ቀትላዊ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:47:39.594224396Z",
+  "model": "glm-5.3"
+}

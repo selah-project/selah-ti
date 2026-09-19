@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "ስለ ደሃን ጎረምሳን እየ፣ ልበይ ድማ ኣብ ብርኪ ተታሒቱ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ደሃ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ጎረምሳ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ተታሒቱ"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ኣብ ብርኪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:47.304999391Z",
+  "model": "glm-5.3"
+}

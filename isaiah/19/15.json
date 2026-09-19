@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ንሚጽራይም ድማ ግብሪ የብሉን፣ ርእሲን ጭንቅላትን፣ እንጋገን ሽንቋሕን ዝገብር።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ድማ … የብሉን"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክህሉ"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "ንሚጽራይም"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ግብሪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝገብር"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ዝገብር"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "ጭንቅላት"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "እንጋገ"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "ሽንቋሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:53:39.923691424Z",
+  "model": "glm-5.3"
+}

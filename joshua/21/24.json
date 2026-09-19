@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "⟨את⟩ ኣይያሎንን ምስ ስፍራኣን፣ ⟨את⟩ ጋት-ሪሞንን ምስ ስፍራኣን፤ ኣርባዕተ ከተማታት እየን።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣይያሎን"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "ኣይያሎን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስፍራኣ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ምስ ስፍራኣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጋት-ሪሞን"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ጋት"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ሪሞን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስፍራኣ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ምስ ስፍራኣ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ከተማታት"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ኣርባዕተ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:36:57.134922652Z",
+  "model": "glm-5.3"
+}

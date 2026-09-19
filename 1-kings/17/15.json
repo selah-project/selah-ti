@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኣባልቲ ድማ ከደት፣ ብቓል ኤልያሁ ከም ዝበለ ገበረት፣ ንሳን ንሱን ንስድራኣን ድማ ኣውያት መዓልታት በልዑ።",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "ከደት"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "ገበረት"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ብቓል"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያሁ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "በልዑ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ንሳን"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "ንስድራኣን"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ኣውያት መዓልታት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:03:55.621911061Z",
+  "model": "glm-5.3"
+}

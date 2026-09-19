@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "«ካባይ ውሰኸሉ፣ እናደስእ ቅድለይ ቅድሚ ምውዕላይ፣ ከምዚ ኣይኮንኩን።»",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "ውሰኸሉ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ካባይ"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "እናደስእ"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ምውዕላይ"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "ኣይኮንኩን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:55:58.569045798Z",
+  "model": "glm-5.3"
+}

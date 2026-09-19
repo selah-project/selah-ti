@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 66,
+  "translation": "ዑሉ፣ ተዛርቡ፣ ኩሎም እቶም ዝኽትእሉዎ ኤሎሂም፣ ነፍሰይ ንሳ ዝገበራ ክነግረኩም እየ።",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ዑሉ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ተዛርቡ"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "ክነግረኩም እየ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "እቶም ዝኽትእሉዎ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበራ"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ነፍሰይ ንሳ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:47.646638479Z",
+  "model": "glm-5.3"
+}

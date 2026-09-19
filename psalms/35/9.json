@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ነፍሲየ ብያህዌህ ትሕጎስ፣ ኣብ መድሓኒቱ ትደስይ።",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "ነፍሲየ"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "ትሕጎስ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ብያህዌህ"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "ትደስይ"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "ኣብ መድሓኒቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:21.180770626Z",
+  "model": "glm-5.3"
+}

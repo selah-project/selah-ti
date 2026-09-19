@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "⟨את⟩ እቲ ዳዓን ⟨את⟩ እቲ ኣያን ንዓይነቱ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ዳዓ"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "እቲ ዳዓ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ኣያ"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "እቲ ኣያ"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ንዓይነቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:51:56.304992064Z",
+  "model": "glm-5.3"
+}

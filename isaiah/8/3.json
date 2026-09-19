@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 8:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ነነ ናብኡ ተቐረብን፤ ንሳ ድማ ወሲዳን ወዲ ወለደት። ያህዌህ ድማ ንዓይ በሎ፦ «ስሙ ማሄር-ሻላል-ሕሽ-ባዝ ብዓናት።»",
+  "tokens": [
+    {
+      "surface": "ואקרב",
+      "gloss": "ተቐረብን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "እታ ነብዪት"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ወሲዳን"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደትን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ብዓናት"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ማሄር"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ሻላል"
+    },
+    {
+      "surface": "חש",
+      "gloss": "ሕሽ"
+    },
+    {
+      "surface": "בז",
+      "gloss": "ባዝ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:44:23.447228862Z",
+  "model": "glm-5.3"
+}

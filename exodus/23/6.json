@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ኣብ ኽርክሩ ናይ ድኹምካ ፍትሕ ኣይትወድሕን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "ትወድሕ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍትሕ"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "ድኹምካ"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "ኣብ ኽርክሩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:27:57.776973339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "⟨את⟩ እቲ ሓደ ቐብሲ ኣብ ቀዳም ተገብርዎ፣ ⟨את⟩ ካልኣይ ቐብሲ ድማ ኣብ መንጎ እቶም ኸረሕምቲ ተገብርዎ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሓደ ቐብሲ"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "እቲ ቐብሲ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ተገብርዎ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ኣብ ቀዳም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ካልኣይ ቐብሲ"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "እቲ ቐብሲ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ካልኣይ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ተገብርዎ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "እቶም ኸረሕምቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:38:14.277338239Z",
+  "model": "glm-5.3"
+}

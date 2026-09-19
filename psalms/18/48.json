@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "እቲ ኤል ዝህበኒ መቕጻዕቲ እዩ፤ ህዝብታት ድማ ትሕቲ ኣነ ይግዓዙ እዮም።",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "እቲ ኤል"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "ዝህበኒ"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "መቕጻዕቲ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ይግዓዞም"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ህዝብታት"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "ትሕቲ ኣነ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:24.781708470Z",
+  "model": "glm-5.3"
+}

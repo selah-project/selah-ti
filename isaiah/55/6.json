@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 55:6",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 55,
+  "translation": "ያህዌህ ኣብ ዝርከብሉ ሰለሱ፤ ኣብ ዝቐርብሉ ድማ ጸውዑዎ።",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "ሰለሱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בהמצאו",
+      "gloss": "ኣብ ዝርከብሉ"
+    },
+    {
+      "surface": "קראהו",
+      "gloss": "ጸውዑዎ"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "ኣብ ዝኾኑ"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ቐርብ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:17:45.980640460Z",
+  "model": "glm-5.3"
+}

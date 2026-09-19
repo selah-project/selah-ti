@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "እዚኦም ንእቲ ህዝቢ ንምባርካ ኣብ ተራ ግርዚም ኪቆሙ እዮም፣ ⟨את⟩ ኣብ ምስጋእኩም እቲ ዮርዳኖስ፦ ስምዖንን ሌዋይን ይሁዳን ይሳካርን ዮሴፍን ብንያምን።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ኪቆሙ"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "ንምባርካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራ"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "ግርዚም"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "ኣብ ምስጋእኩም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ዮርዳኖስ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "እቲ ዮርዳኖስ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ስምዖን"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "ሌዋይ"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "ይሳካር"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ብንያም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:04:34.713358152Z",
+  "model": "glm-5.3"
+}

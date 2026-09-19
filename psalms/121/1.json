@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 121,
+  "translation": "መዝሙር ናይ ምውሳእቲ። ናብ እቶም ተራራታት ዓይነይ ኣሪሰ፤ ሓዊስተን ካበይ'ዩ ዝመጽእ፧",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "ናይ ምውሳእቲ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ኣሪሰ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይነይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "እቶም ተራራታት"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ካበይ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ዝመጽእ"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ሓዊስተን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:30.850926609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ድማ እቲ ጎረጎር ⟨את⟩ ቅድሚ ያህዌህ ቐጸልካ፣ ኣብ ኣፍደገ ድኽሪ ስብሓት።",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "ቐጸልካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ጎረጎር"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "እቲ ጎረጎር"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣፍደገ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድኽሪ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ስብሓት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:34:45.934075207Z",
+  "model": "glm-5.3"
+}

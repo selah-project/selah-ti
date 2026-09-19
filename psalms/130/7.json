@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 130,
+  "translation": "እስራኤል ንያህዌህ ተስፋ ግበር፣ ምኽንያቱ ሔሴድ ምስ ያህዌህ ኣሎ፣ ምስ ንሱ ድማ ብዙሕ መድሓን ኣሎ።",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "ተስፋ ግበር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስ ንሱ"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "መድሓን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:07.645703011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ድማ ከምቲ ንሲሆን ንጉስ ሕሽቦን እንተ ገበርናዮ ⟨את⟩ ንኦም ኣጠፍእናዮም፤ ኣብ ኩሉ ከተቲ ተዓጥቕና ሰባት፣ ሰበይቲን ንእሽቶን።",
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "ኣጠፍእና"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ንኦም",
+      "marks": "ንኦም — ኣብ ኩሉ ከተቲ ዝነበሩ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "እንተ ገበርናዮ"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "ንሲሆን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ሕሽቦን"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "ኣጠፍኢትና"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተቲ"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "ንእሽቶ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:46:11.615664747Z",
+  "model": "glm-5.3"
+}

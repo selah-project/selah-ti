@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ወዲ እቲ ⟨את⟩ እቲ ኣጋራቒ፤ ናብ ጎን ጎደና ኣብ ደቡብ፣ መጋርጃታት እቲ ኣጋራቒ ካብ ዝተሰቐለ ሽሽ፣ ምስመ ኣመት።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ኣጋራቒ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "እቲ ኣጋራቒ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ናብ ጎን"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ጎደና"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ናብ ደቡብ"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "መጋርጃታት"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ናይ እቲ ኣጋራቒ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ሽሽ"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ዝተሰቐለ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ምስመ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ኣመት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:42:31.477221869Z",
+  "model": "glm-5.3"
+}

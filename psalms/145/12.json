@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 145,
+  "translation": "ንውላደ ሰብኣይ ቓልበታቱን ውዒል ተዓጢቑ ናይ መንግስቱን ንምርዳእ።",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "ንምርዳእ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላደ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰብኣይ"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "ቓልበታቱ"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ክብሪ-ውን"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "ተዓጢቑ"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "መንግስቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:01.758470775Z",
+  "model": "glm-5.3"
+}

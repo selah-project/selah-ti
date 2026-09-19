@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "⟨את⟩ ሻባታተይ ትሓልዉ፣ ማሕደረይ ትሕበሩ፤ ኣነ ያህዌህ እየ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሻባታተይ"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "ሻባታተይ"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ትሓልዉ"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ማሕደረይ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ትሕበሩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:08:31.220358671Z",
+  "model": "glm-5.3"
+}

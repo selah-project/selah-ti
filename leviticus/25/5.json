@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "⟨את⟩ እቲ ኣውዳሪ ቐትሪኻ ኣይትሓርብን፣ ⟨את⟩ ዘመድ ወይኒኻ ድማ ኣይትበዝሕን — ዓመት ሻባት ንምድሪ ትከውን እያ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ኣውዳሪ"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "ኣውዳሪ"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "ቐትሪኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "ትሓርብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዘመድ ወይኒኻ"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "ዘመድ ወይኒ"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "ናይ ኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "ትበዝሕ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ሻባት"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ትከውን"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ንምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:06:29.607228006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 144,
+  "translation": "ያህዌህ ሆ፣ ሰብ እንታይ እዩ ከም ዝፈልጦ፧ ወዲ ሰብ እንታይ ድማ ከም ዝቆጽሮ፧",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "ከም ዝፈልጦ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሰብ እሞታይ"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "ከም ዝቆጽሮ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:20.518552585Z",
+  "model": "glm-5.3"
+}

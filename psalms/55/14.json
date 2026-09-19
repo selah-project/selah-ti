@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 55,
+  "translation": "ንስኻ ግና ሰብ ከም ዕማምተይ፣ ሓብተይ ዝኾንካን ተዋዕበይን እንተይ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ግና"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "ከም ዕማምተይ"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "ሓብተይ"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "ተዋዕበይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:02:09.034568557Z",
+  "model": "glm-5.3"
+}

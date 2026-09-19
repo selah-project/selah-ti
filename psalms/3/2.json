@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ያህዌህ፣ ከመይ ብዙሓት ኮይኖም ጸራተይ! ብዙሓት ኣብ ልዕለይ ተንሲኦም ኣለዉ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ከመይ"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ብዙሓት ኮይኖም"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ጸራተይ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "ተንሲኦም ኣለዉ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕለይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:38.365777687Z",
+  "model": "glm-5.3"
+}

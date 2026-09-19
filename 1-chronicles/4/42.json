@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 4:42",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ካብኦም ካብ ውላድ ስምዖን ናብ ተራ ስዒር ከዱ — ሓሙሽተ ሚእቲ ሰባት፤ ኣብ ርእሶም ድማ ፕላጥያሕን ንዓርያሕን ርፋያሕን ዓዚኤልን፣ ውላድ ይስዕይ፣ ነይሮም።",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "ካብኦም"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ስምዖን"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ከዱ"
+    },
+    {
+      "surface": "להר",
+      "gloss": "ናብ ተራ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ስዒር"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚእቲ"
+    },
+    {
+      "surface": "ופלטיה",
+      "gloss": "ፕላጥያሕ"
+    },
+    {
+      "surface": "ונעריה",
+      "gloss": "ንዓርያሕ"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "ርፋያሕ"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ዓዚኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ይስዕይ"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "ኣብ ርእሶም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:31:42.953914596Z",
+  "model": "glm-5.3"
+}

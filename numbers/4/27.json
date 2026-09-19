@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 4:27",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ብቃል ኣሃሮንን ውላዱን ኩሉ ኣገልግሎት ውላድ ቲ ጌርሶናይ ንኩሉ ተሸንፎምን ንኩሉ ኣገልግሎቶምን ኪኸውን እዩ፤ ንስኻትኩም ድማ ብምሕደር ነቶም ⟨את⟩ ቲ ኩሉ ተሸንፎም ተኪልኩሙዎም።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ውላዱን"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ኪኸውን እዩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ኣገልግሎት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "ቲ ጌርሶናይ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "משאם",
+      "gloss": "ተሸንፎም"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ንኩሉ ን"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "ኣገልግሎቶም"
+    },
+    {
+      "surface": "ופקדתם",
+      "gloss": "ተኺልኩሙዎም"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "במשמרת",
+      "gloss": "ብምሕደር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቲ ኩሉ ተሸንፎም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "משאם",
+      "gloss": "ተሸንፎም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:14:55.431490310Z",
+  "model": "glm-5.3"
+}

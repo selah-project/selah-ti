@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 7:5",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "እቲ ንጉስ ኣሓሽወሮሽ ድማ ነቲ ልክቲ ኤስተር እናበለ፦ «መን እዩ እዚ፣ ኣበይ እዩ እቲ ልቡ ከምዚ ንኽገብር ዝሓመመቶ?» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "ኣሓሽወሮሽ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "ነቲ ልክቲ ኤስተር"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ልክቲ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "ድማ ኣበይ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ሓመመቶ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ንኽገብር"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:52:35.459688576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "«ወዲ፣ ሓጢኣት እንተ ኣታሕዮካ፣ ኣይትሕለውን።»",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "ኣታሕዮካ"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ሓጢኣት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ትሕለውን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:33.051863693Z",
+  "model": "glm-5.3"
+}

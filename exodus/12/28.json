@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ውላድ እስራኤል ድማ ከዱ ኸደው፤ ያህዌህ ⟨את⟩ ሞሸን ⟨ואת⟩ ኣሃሮንን ከም ዝኣዘዞም፣ ከምኡ እናበሉ ገበሩ።",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ከዱ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም ዝኣዘዞም"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ዝኣዘዞ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሸን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ኣሃሮንን"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ገበሩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:21:10.900293101Z",
+  "model": "glm-5.3"
+}

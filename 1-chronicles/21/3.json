@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 21:3",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ዮዋብ ድማ በለ፦ ያህዌህ ኣብ ህዝቡ ከሞ ዝኾኑ መቶ ግዜ ይውስኽ። ጎይታይ ንጉስ፣ ኩሎም ንጎይታይ ኣገልጋሊ ኣይኮኑን? እንታይ ምኽንያት ጎይታይ ነዚ ይደልዮ? እንታይ ምኽንያት ንይስራኤል ውዑድ ክኸውን?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮዋብ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ይውስኽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ህዝቡ"
+    },
+    {
+      "surface": "כהם",
+      "gloss": "ከሞ ዝኾኑ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ግዜ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ኣይኮኑን"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጎይታይ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ንጎይታይ"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "ኣገልጋሊ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "እንታይ ምኽንያት"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ይደልዮ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ነዚ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጎይታይ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "እንታይ ምኽንያት"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክኸውን"
+    },
+    {
+      "surface": "לאשמה",
+      "gloss": "ውዑድ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ንይስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T07:45:36.381689778Z",
+  "model": "glm-5.3"
+}

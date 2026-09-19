@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ያህዌህ ቍንባጠ ኩሉ ቅዱሳን እሞ ⟨את⟩ ያህዌህ ፍቕርኩም፣ ያህዌህ ኣማናውያን ይከልእ፣ ኣብ ዝዓበየ ግን ንዝገብር ምውዕልዕላ ይከፍል።",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "ፍቕርኩምዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ቅዱሳኑ"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ኣማናውያን"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "ይከልእ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "ይከፍልን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ዝዓበየ ግን"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ዝዓበየ ግን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገብር"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "ምውዕልዕላ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:01.742274990Z",
+  "model": "glm-5.3"
+}

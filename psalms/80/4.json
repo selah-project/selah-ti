@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 80,
+  "translation": "ኤሎሂም፣ ነፍስና ኣምለስ፣ ገጽካ ኣበርታዕ፣ ንድሕን።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "ነፍስና ኣምለስ"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "ኣበርታዕ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽካ"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "ንድሕን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:41.665886243Z",
+  "model": "glm-5.3"
+}

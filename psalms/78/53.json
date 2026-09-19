@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ብሓድሽ ኣሕዋቱ ኣሕዋቶም፣ ከምኡውን ኣይበረዙን፣ ከምኡውን ሓባር ⟨את⟩ ኣባጅዑ ኣብ ክንዲ ኣሕዋቶም ተሸፈነ።",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ኣሕዋቱ ኣሕዋቶም"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ብሓድሽ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ከምኡውን ኣይ-…-ን"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ኣይበረዙን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣባጅዑ"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ኣባጅዑ"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ተሸፈነ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ሓባር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:49.502399384Z",
+  "model": "glm-5.3"
+}

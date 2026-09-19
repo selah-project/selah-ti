@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 20:25",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ተወልዐ ካብ ስጉሩ ወጸ፤ ብርሃናዊ ካብ ምራቕኡ ንኣሱ ይኸድ፤ ጽብርታት ኣብ ልዕሊኡ ይኸዱ።",
+  "tokens": [
+    {
+      "surface": "שלף",
+      "gloss": "ተወልዐ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "מגוה",
+      "gloss": "ካብ ስጉሩ"
+    },
+    {
+      "surface": "וברק",
+      "gloss": "ብርሃናዊ"
+    },
+    {
+      "surface": "ממררתו",
+      "gloss": "ካብ ምራቕኡ"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ይኸድ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊኡ"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "ጽብርታት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:14:55.721550963Z",
+  "model": "glm-5.3"
+}

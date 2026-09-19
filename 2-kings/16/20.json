@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ኣሕዝ ምስ ኣቦታቱ ተዓረፈ፣ ምስ ኣቦታቱ ኣብ ከተማ ዳዊድ ተቐብዐ፣ ድሕሪኡ ሕዝቅያሁ ወዲ ኣብ ቦታኡ ነገሰ።",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ተዓረፈ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ኣሕዝ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ኣቦታቱ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ተቐብዐ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ኣቦታቱ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ኣብ ከተማ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሰ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ሕዝቅያሁ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ኣብ ቦታኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:31:17.892626579Z",
+  "model": "glm-5.3"
+}

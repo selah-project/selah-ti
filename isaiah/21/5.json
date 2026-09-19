@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ነቲ ጠረጴዛ ኣዳልዉ፣ ሓልዉ ኣብ ⟨እቲ⟩ ቦታ ሓልዋት፣ በልዑ፣ ሰቱ፦ ተንሳእዩ መራሕቲ፣ ነቲ ጋንታ ቀብኡ።",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "ኣዳልዉ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ነቲ ጠረጴዛ"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "ሓልዉ"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "ቦታ ሓልዋት"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "በልዑ"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ሰቱ"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "ተንሳእዩ"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "መራሕቲ"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "ቀብኡ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ጋንታ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:53:57.537891355Z",
+  "model": "glm-5.3"
+}

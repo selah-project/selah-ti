@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 39:3",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ጎይታኡ ድማ ረኣየ ከም ዝያህዌህ ምስ ⟨אתו⟩ ⟨እዩ⟩፤ ኩሉ ድማ ዝገብሮ ያህዌህ ኣብ ኢዱ የዓውቶ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ጎይታኡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም ዝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ዮሴፍ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨እዩ⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገብር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "የዓውቶ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ኣብ ኢዱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:01:53.368696941Z",
+  "model": "glm-5.3"
+}

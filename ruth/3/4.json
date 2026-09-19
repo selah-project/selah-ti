@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 3:4",
+  "book": "ruth",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኾነ እሞ ምስ ዘረደ፣ ⟨את⟩ እቲ ዝተኛ ቦታ ክትፈልጥዎ ተዓዊትኪ፤ ክትኣቱኪ ድማ እግርኡ ተገልጺ፣ ተኛኢኪ፤ ንሱ ድማ ንኣኻ ⟨את⟩ ዝትገብርዎ ይነግረኪ እዩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኾነ"
+    },
+    {
+      "surface": "בשכבו",
+      "gloss": "ምስ ዘረደ"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ትፈልጥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ቦታ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "እቲ ቦታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ዝተኛ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ትኣቱ"
+    },
+    {
+      "surface": "וגלית",
+      "gloss": "ትገልጽ"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "እግርኡ"
+    },
+    {
+      "surface": "ושכבתי",
+      "gloss": "ትተኛ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ይነግር"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኣኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝትገብር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝትገብር"
+    },
+    {
+      "surface": "תעשין",
+      "gloss": "ትገብር"
+    }
+  ],
+  "timestamp": "2026-09-19T06:33:30.210680175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "እቲ ልዑል ጽንበራ ኣግንብትኻ ድማ የስዕርዋ የውርድዋ፣ ናብ ምድሪ ክሳብ ኣፍጋ ይበጽሓ።",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "ጽንበራ"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "ልዑል"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "ኣግንብትኻ"
+    },
+    {
+      "surface": "השח",
+      "gloss": "የስዕር"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "የውርድ"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "ይበጽሕ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ናብ ምድሪ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ኣፍጋ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:56:55.870246145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ሞርዶካይ ድማ ነቱ ዝገጠሞ ⟨את⟩ ኩሉ ነገረሉ፣ ድማ ⟨את⟩ መጠን እቲ ገንዘብ እቲ ሃማን ነቲ ኣይሁድ ንኽጥፍኡ ኣብ ኣትማታት እቲ ንጉስ ንኽወግዝ ዝበሎ ነገረሉ።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ነገረ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ነቱ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ሞርዶካይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "ዝገጠሞ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መጠን እቲ ገንዘብ"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "መጠን"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "እቲ ገንዘብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ዝበሎ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሃማን"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "ንኽወግዝ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "ኣትማታት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "ነቲ ኣይሁድ"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "ንኽጥፍኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:48:29.201833933Z",
+  "model": "glm-5.3"
+}

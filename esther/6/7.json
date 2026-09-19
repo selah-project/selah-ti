@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ሃማን ድማ ነቲ ንጉስ በለ፦ ንሰብ እቲ ንጉስ ዝደለዮ ንኽብርኡ —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሃማን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ዝደለዮ"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "ንኽብርኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:47:35.756880417Z",
+  "model": "glm-5.3"
+}

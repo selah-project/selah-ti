@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ሓራሽ ሰዓባይ እንተ ዘይቶም ይከውል፤ ጻድቓን ድማ ከም ኩርዑ ይእመን።",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "ይከውል"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ዘይቶም"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ሰዓባይ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ሓራሽ"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "ጻድቓን"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "ከም ኩርዑ"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "ይእመን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:59:50.486746642Z",
+  "model": "glm-5.3"
+}

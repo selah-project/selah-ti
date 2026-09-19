@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣትን ንስኻ ወዲ ሰብ፣ ውሰደካ ሓደ ስንጭሮ፣ ኣቐምጣዶ ቅድሚ ገጽኻ፣ ኣብ ልዕሊኡ ተሓንቕጣ ከተማ — ⟨את⟩ የሩሻላይም።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ኣትን ንስኻ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ውሰደካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኣኻ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ስንጭሮ"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ኣቐምጣ"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ስንጭሮ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ቅድሚ ገጽኻ"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "ተሓንቕጣ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ኣብ ልዕሊኡ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሩሻላይም"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    }
+  ],
+  "timestamp": "2026-09-19T03:24:42.134740803Z",
+  "model": "glm-5.3"
+}

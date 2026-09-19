@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ያህዌህ ኤሎሂም፣ እዚ ዝገበርኩን እዚ እንተ ዘይኮነ፣ ኣብ ኢደይ ኣረኣእያ እንተ ዝሃልዎ ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ዝገበርኩ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "እንተ ዝሃልዎ"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ኣረኣእያ"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "ኣብ ኢደይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:52.617287133Z",
+  "model": "glm-5.3"
+}

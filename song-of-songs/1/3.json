@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ንስምሕ ዘትኻ ጽቡዕ እዩ፤ ስምኻ ከም ዝተራከበ ዘት እዩ፤ ስለዚ እተወለዱ ወጻይቲ ይፈትዋኻ እየን።",
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "ንስምሕ"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "ዘትኻ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ጽቡዕ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘት"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "ዝተራከበ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምኻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚ"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "እተወለዱ ወጻይቲ"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "ይፈትዋኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:27:05.093127141Z",
+  "model": "glm-5.3"
+}

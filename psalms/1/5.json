@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ስለዚ ርኹሳት ኣብ ፍርዲ ኣይተቐመጡን፣ ሓጢያትን ኣብ ጉባኤ ጽድቓትን ኣይተቐመጡን።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "ኣይተቐመጡን"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ርኹሳት"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ኣብ ፍርዲ"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ሓጢያትን"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "ኣብ ጉባኤ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ጽድቓት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:40:45.071624373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ናብ ሽማሮን ምስ ኣተየ ን⟨את⟩ ኩሉ ኣብ ሽማሮን ዝተረፈ ናይ ኣሕኣብ በዚሕ ክጠፍእ ድማ ጀገምኖም፣ ብቃል ያህዌህ እቲ ናብ ኤልያሁ ዝተዛረቦ ከም ዝኾነ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ምስ ኣተየ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ናብ ሽማሮን"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ጀገምኖም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ዝተረፈ"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "ናይ ኣሕኣብ"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ኣብ ሽማሮን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "በዚሕ"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "ክጠፍእ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ብቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝተዛረቦ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያሁ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:20:16.198457197Z",
+  "model": "glm-5.3"
+}

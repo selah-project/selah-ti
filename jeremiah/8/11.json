@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ከምኡ ድማ ንሕማቕ ዓገብ ዓገብ ⟨את⟩ ብቐሊሉ ሓንሳቡ ብምባል፦ «ሰላም፣ ሰላም»፣ ሰላም ከም ዘለን ሰላም የለን።",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "ሓንሳቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕማቕ ዓገብ ዓገብ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ሕማቕ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ዓገብ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ዓገብ ዓገብ \/ ሕዝቢ ዓገብ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "ብቐሊሉ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብምባል"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ከም ዘለን … የለን"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:35:18.703976538Z",
+  "model": "glm-5.3"
+}

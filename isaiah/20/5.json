@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ካብ ኩሽ ተስፋኦምን ካብ ሚጽራይም ኩብሮምን ተረድኡን ተሓጐሱን።",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "ተረድኡን"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "ተሓጐሱን"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "ካብ ኩሽ"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "ተስፋኦም"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "ኩብሮም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:51:55.516315661Z",
+  "model": "glm-5.3"
+}

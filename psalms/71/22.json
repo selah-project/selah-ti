@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 71,
+  "translation": "ኣነ እውን ኣምልኼኻ እየ ብመሳርሒ ናበል፣ ስምምነትካ፣ ኤሎሂም፤ ብኪኖር ከኣ ነዘፍን እየ ንኻ፣ ቅዱስ ይስራኤል።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ኣምልኼኻ እየ"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "ብመሳርሒ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ናበል"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ስምምነትካ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ነዘፍን እየ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ብኪኖር"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:41.338658423Z",
+  "model": "glm-5.3"
+}

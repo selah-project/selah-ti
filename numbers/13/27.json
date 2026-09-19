@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 13:27",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ሓበርዎ እናበሉ፦ ናብ እቲ ምድሪ እታ ለኣኽታና ኢልና፣ ከምኡውን እታ ዝውሕዝ ወተርን ማሕን እያ፣ እዚ ድማ ፍራ እዩ።",
+  "tokens": [
+    {
+      "surface": "ויספרו",
+      "gloss": "ሓበርዎ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "እናበሉ"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "ኢልና"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እቲ ምድሪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "שלחתנו",
+      "gloss": "ለኣኽታና"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ዝውሕዝ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ወተር"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ማሕ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እያ"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "እዚ ድማ"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ፍራ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:22:19.188331663Z",
+  "model": "glm-5.3"
+}

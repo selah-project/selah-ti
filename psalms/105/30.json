@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ምድሮም ብዋሽላታት ኰረበት፣ ኣብ ክፍልታት ነገስታቶም።",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "ኰረበት"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ምድሮም"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "ዋሽላታት"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "ኣብ ክፍልታት"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "ነገስታቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:29.817692323Z",
+  "model": "glm-5.3"
+}

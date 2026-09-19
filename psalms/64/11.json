@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 64,
+  "translation": "ጻድቕ ብያህዌህ ይሕጎስ፣ ኣብኡ ድማ ይጥቕደል፤ ኩሉ ቅኑው ልቢ ድማ ይመስገኑ።",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ይሕጎስ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቕ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ብያህዌህ"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "ድማ ይጥቕደል"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "ድማ ይመስገኑ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ቅኑው"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:50.013511376Z",
+  "model": "glm-5.3"
+}

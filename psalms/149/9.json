@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 149,
+  "translation": "ኣብ ልዕሎም እቲ ዝተጻሓፈ ፍዲሒ ንምግብኣት፤ እዚ ክብሪ እዩ ንኩሉ ቅዱሳኑ። ሓሉዩ ያህ።",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ንምግብኣት"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ኣብ ልዕሎም"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍዲሒ"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "ዝተጻሓፈ"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ቅዱሳኑ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ሓሉዩ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:38:27.380538927Z",
+  "model": "glm-5.3"
+}

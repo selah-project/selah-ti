@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ሰራዊት ኣብ ላዕለይ እንተ ተኣኺቡ ልበይ ኣይኸፍርሕን፤ ኲናት ኣብ ላዕለይ እንተ ተበጽሓ፣ ኣብዚ ኣነ እኣምን እየ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "ተኣኺቡ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ላዕለይ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ኸፍርሕን"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ተበጽሓ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ላዕለይ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ኲናት"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "ኣብዚ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "እኣምን"
+    }
+  ],
+  "timestamp": "2026-09-19T09:00:59.593501183Z",
+  "model": "glm-5.3"
+}

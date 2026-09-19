@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 58,
+  "translation": "ከም ሽንቁርቕ እናተሓለሰ ይኸይድ፤ ከም እቲ ዝወደቀ ውላድ ኣደ፣ ጸሓይ ኣይረኣዩን።",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "ሽንቁርቕ"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "እናተሓለሰ"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ይኸይድ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "እቲ ዝወደቀ ውላድ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ኣደ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ረኣዩ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ጸሓይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:02:10.863696229Z",
+  "model": "glm-5.3"
+}

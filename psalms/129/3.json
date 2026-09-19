@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 129,
+  "translation": "ኣብ ጀርባይ ሓረስቲ ሓረሱ፣ እቶም ሒርቕቶም ኣረዘሞም።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "ጀርባይ"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "ሓረሱ"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ሓረስቲ"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "ኣረዘሞም"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "እቶም ሒርቕቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:57.046581253Z",
+  "model": "glm-5.3"
+}

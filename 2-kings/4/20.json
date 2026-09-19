@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ወሲድዮ ድማ ናብ ኣደኡ ኣእተዮ፤ እቲ ወዲ ኣብ ብርክታ ኣደኡ ኽሳብ ሰዓት መዓልቲ ተቐመጠ፣ ድሕሪኡ ድማ ሞተ።",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "ወሲድዮ"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "ኣእተዮ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ኣደኡ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "ብርክታ ኣደኡ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ኽሳብ"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "ሰዓት መዓልቲ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:15:55.638002413Z",
+  "model": "glm-5.3"
+}

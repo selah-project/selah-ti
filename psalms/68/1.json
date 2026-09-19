@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ንመምህር ዜማ፣ ንዳዊድ፣ መዝሙር፣ ዜማ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንመምህር ዜማ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ንዳዊድ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ዜማ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:06.647706047Z",
+  "model": "glm-5.3"
+}

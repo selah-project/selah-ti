@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሲሕን ድማ ንንሕና ንምግጋብ ኣብ ያህስ ንምውጋድ በዛዕባ ንሱን ኩሉ ሕዝቢኡን ወጸ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "ሲሕን"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "ንንሕና ንምግጋብ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ከምኡውን ኩሉ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቢኡ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ንምውጋድ"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "ያህስ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:45:34.741697391Z",
+  "model": "glm-5.3"
+}

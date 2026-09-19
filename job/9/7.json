@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እቲ ናብ ፀሓይ ዝብል እሞ ኣይውጽእን፡ ንከዋኽብቲ ድማ ይዕጾም።",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "እቲ ዝብል"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "ናብ ፀሓይ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እሞ ኣይ...ን"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "ውጽእ"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ድማ ን..."
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "ከዋኽብቲ"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "ይዕጾም"
+    }
+  ],
+  "timestamp": "2026-09-19T06:06:37.674079822Z",
+  "model": "glm-5.3"
+}

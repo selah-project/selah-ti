@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ንሱ ድማ በለ፦ «ምስ ንስኻ ⟨את⟩ ክምልስን ምስ ንስኻ ⟨את⟩ ክኣቱን ኣይክእልን፤ ስም ኣይበልዕን፣ ማይ ድማ ምስ ንስኻ ⟨את⟩ ኣብዚ ቦታ እዚ ኣይሰትየን።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይክእልን"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ክእል"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ክምልስን"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ምስ ንስኻ"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "ክኣቱን"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ምስ ንስኻ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይበልዕን"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ኣበልዕ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይሰትየን"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "ኣሰትየ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ምስ ንስኻ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ᛉማይ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ኣብዚ ቦታ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:59:48.017122142Z",
+  "model": "glm-5.3"
+}

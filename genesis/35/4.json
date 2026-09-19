@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 35:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ነቶም ⟨את⟩ ኹሉ ኣማልክቲ ብዝገባ ኣብ ኢዶም ዘለዉን ⟨ואת⟩ ነቶም ቀረጻታት ኣብ እዝባታቶም ዘለዉን ንያዕቆቭ ሃቡ፤ ያዕቆቭ ድማ ⟨את⟩ ኣብ ትሕቲ እቲ ዛግ እቲ ምስ ሽኬም ዝነበረ ሒቦም።",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ሃቡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ ኣማልክቲ ብዝገባ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኣማልክቲ"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "ናይ ብዝገባ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ኣብ ኢዶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቀረጻታት"
+    },
+    {
+      "surface": "הנזמים",
+      "gloss": "ቀረጻታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "ኣብ እዝባታቶም"
+    },
+    {
+      "surface": "ויטמן",
+      "gloss": "ሒቦም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ያዕቆቭ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ትሕቲ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እቲ ዛግ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ሽኬም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:58:21.635704867Z",
+  "model": "glm-5.3"
+}

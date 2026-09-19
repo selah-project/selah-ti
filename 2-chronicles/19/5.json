@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 19:5",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኣብ ምድሪ፣ ኣብ ኩሉ ከረብቲ ከተማታት ይሁዳ፣ ከተማ ብከተማ ፈራዲታት ኣቕሚሑ።",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ኣቕሚሑ"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ፈራዲታት"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ከተማታት ናይ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "ከረብቲ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ንከተማ"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ከተማ ብከተማ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:09:05.953085192Z",
+  "model": "glm-5.3"
+}

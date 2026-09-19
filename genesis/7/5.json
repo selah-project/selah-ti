@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኖኅ ድማ ከም ኩሉ እታ ያህዌህ ዝኣዘዞ ተኺሉ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖኅ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ከም ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ዝኣዘዞ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:34:24.518274962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "እንተ ኣይምለስን ማሕፍቱ የቕርጾ፣ ቀሳሕቱ ድማ ዘድህቦ ኣዳልዎ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ዝምለስን"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ማሕፍቱ"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "የቕርጾ"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "ቀሳሕቱ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ዘድህቦ"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "ኣዳልዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:09.670927980Z",
+  "model": "glm-5.3"
+}

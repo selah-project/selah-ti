@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ከምዚ በለ ያህዌህ፦ ⟨את⟩ ኪዳናይ ንመዓልቲን ⟨את⟩ ኪዳናይ ንለይቲን ተባርሩ እንተ ኾይኩም፣ ነቲ መዓልቲን ለይቲን ኣብ እዋኖም ከይጸንሑ።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "ተባርሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኪዳናይ ንመዓልቲ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳናይ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ንመዓልቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኪዳናይ ንለይቲ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳናይ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ንለይቲ"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "ከይጸንሑ"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ኾኑ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ለይቲ"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "ኣብ እዋኖም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:58:46.311651071Z",
+  "model": "glm-5.3"
+}

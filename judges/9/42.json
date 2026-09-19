@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "judges 9:42",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣብ መገዲ መዓልቲ ድማ ኩነት ነይራ፤ እቲ ህዝቢ ናብ በረኻ በጊሱ ነይሩ፣ ንኣቢሜለኽ ድማ ነገሩዎ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይራ"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ኣብ መገዲ መዓልቲ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "በጊሱ ነይሩ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ናብ በረኻ"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "ነገሩዎ"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "ንኣቢሜለኽ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:43:32.450830589Z",
+  "model": "glm-5.3"
+}

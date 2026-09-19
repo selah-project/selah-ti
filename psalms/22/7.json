@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኣነ ግና ብጻሕ እየ፣ ሰብ ኣይኮነን፤ ስድቢ ሰባት ተባርኺን ሕብረ ብሔር ዝጥሕቐ እየ።",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ኣነ ግና"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ብጻሕ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ስድቢ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "ዝጥሕቐ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕብረ ብሔር"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:46.208102715Z",
+  "model": "glm-5.3"
+}

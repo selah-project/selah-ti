@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ወይነይ ናይለይ ቅድሜይ ኣላ፤ እቲ ሽሕ ንኻ እዩ ሽሎሞ፣ ክልተ ሚኢታት ድማ ንዘርእያ ⟨את⟩ ፍረኡ።",
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "ወይነይ"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "ናይለይ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሜይ"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "እቲ ሽሕ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ክልተ ሚኢታትን"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "ንዘርእያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍረኡ"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ፍረኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:30:45.912330942Z",
+  "model": "glm-5.3"
+}

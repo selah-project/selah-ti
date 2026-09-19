@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ልቦም ከይተረጋገጸን ምስኡ ነይሩ፣ ኣብ ኪዳኑ ድማ ኣይተኣማኑን።",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "ልቦም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ተረጋገጸ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስኡ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "ተኣማኑ"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "ኣብ ኪዳኑ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:37.566314788Z",
+  "model": "glm-5.3"
+}

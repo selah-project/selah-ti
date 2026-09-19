@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ግን ⟨את⟩ን እዚ ኣትትብልዑ፤ ካብ ዝውሓስቲ እቲ ጐረን ካብ ዝፋርስቲ እቲ እግሪን — ⟨את⟩ እቲ ገመል፤ ምኽንያቱ ጐረ ዚውሓስ እዩ፣ ነቲ እግሪ ድማ ዘፋርስ ኣይኮነን፤ ንጹሕ ዘይኮነ እዩ ንኹም።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ግን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እዚ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣት"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ትብልዑ"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "ካብ ዝውሓስቲ"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "እቲ ጐረ"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "ካብ ዝፋርስቲ…ን"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "እቲ እግሪ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ገመል"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "እቲ ገመል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "ዚውሓስ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ጐረ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ነቲ እግሪ ድማ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "ዘፋርስ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ንጹሕ ዘይኮነ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኹም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:54:14.902838169Z",
+  "model": "glm-5.3"
+}

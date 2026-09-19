@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 86,
+  "translation": "ነፍሰይ ሕሊወለይ፣ ምኽንያቱ ቅዱስ እየ፤ ኤሎሃይ ኣኻ ንዝኣምነካ ኣገልጋይካ ኣድሕኑ።",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "ሕሊወለይ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እየ"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "ኣድሕኑ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልጋይካ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኣኻ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሃይ"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "ዝኣምነ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ንኣኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:48.896144632Z",
+  "model": "glm-5.3"
+}

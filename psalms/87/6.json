@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 87,
+  "translation": "ያህዌህ ድማ ኣብ ኣቆጻጸር ህዝቢታት እቲ ኣብኡ ዝተወሊዐ ይቁጽር እዩ። ሰላህ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ይቁጽር"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "ኣብ ኣቆጻጸር"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ህዝቢታት"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ዝተወሊዐ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:32.839877473Z",
+  "model": "glm-5.3"
+}

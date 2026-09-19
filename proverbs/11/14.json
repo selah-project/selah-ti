@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 11:14",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ብዘይ ምኽርቲ ህዝቢ ይወድቕ፣ ሓዋሽቲ ግን ኣብ ብዙሕ መኻኸርቲ ኣሎ።",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "ብዘይ"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "ምኽርቲ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ይወድቕ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "ሓዋሽቲ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ኣብ ብዙሕ"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "መኻኸርቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:47:11.409540045Z",
+  "model": "glm-5.3"
+}

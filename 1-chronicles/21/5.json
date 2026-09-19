@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 21:5",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ዮኣብ ድማ ⟨את⟩ ቁጽሪ ምቁጻር ሕዝቢ ንዳዊድ ኣተለ፤ ኵሉ እስራኤል ድማ ሽሕ ሽሓትን ሽሕ ሚእቲን ተባዕታት ሰይፊ ዘውጽኡ ኮይኑ፣ ይሁዳ ድማ ኣርባዕተ ሚእቲን ሸብዓተ ሽሕን ተባዕታት ሰይፊ ዘውጽኡ ኮይኑ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ኣተለ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮኣብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቁጽሪ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ቁጽሪ"
+    },
+    {
+      "surface": "מפקד",
+      "gloss": "ምቁጻር"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኵሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሽሓት"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ሚእቲ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ተባዕታት"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "ዘውጽእ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፊ"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚእቲ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ሸብዓተ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ተባዕታት"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "ዘውጽእ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፊ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:45:17.167047980Z",
+  "model": "glm-5.3"
+}

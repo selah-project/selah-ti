@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ግዜ ንምድሓን ዕበይል፡ ግዜን ንምክብረት ዕበይልን፡ ግዜ ንምዕባቕ፡ ግዜን ካብ ምዕባቕ ንምርሕብን።",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ግዜ"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "ንምድሓን"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ዕበይል"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ግዜን"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "ንምክብረት"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ዕበይል"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ግዜ"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "ንምዕባቕ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ግዜን"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "ንምርሕብ"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "ካብ ምዕባቕ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:38:52.715010129Z",
+  "model": "glm-5.3"
+}

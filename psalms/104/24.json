@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "ያህዌህ፣ እታኣ ብዙሓት እየን ስራሕታትካ። ኩለን ብጥበብ ገበርካዮም፤ ምድሪ ብፍጡራትኻ ተሞላት እያ።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "እታኣ"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ብዙሓት እየን"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ስራሕታትካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ኩለን"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ብጥበብ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ገበርካዮም"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ተሞላት እያ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "ብፍጡራትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:32.506424228Z",
+  "model": "glm-5.3"
+}

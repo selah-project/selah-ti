@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ነፍሲ ሰብ ⟨את⟩ መሓዙ ይሓንዝ፤ ንሓቡኡ ድማ እናበለ «ጽንዕ ኩን!» ይብል።",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሓዙ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "መሓዙ"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "ይሓንዝ"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "ንሓቡኡ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ይብል"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ጽንዕ ኩን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:10:04.179366720Z",
+  "model": "glm-5.3"
+}

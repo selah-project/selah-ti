@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 26:11",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ያህዌህ ኢድኻ ተሓኒጻ ኣይረኣዩን፤ ቊጥዓ ህዝቢ እናረኣዩ ይኽፈሩ፣ እሳት ጸላእትኻ ድማ ይብላዮም።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ተሓኒጻ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድኻ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יחזיון",
+      "gloss": "ኣይረኣዩን"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "እናረኣዩ"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ይኽፈሩ"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ቊጥዓ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "ጸላእትኻ"
+    },
+    {
+      "surface": "תאכלם",
+      "gloss": "ይብላዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:56:48.056750213Z",
+  "model": "glm-5.3"
+}

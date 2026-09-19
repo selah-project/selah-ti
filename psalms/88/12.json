@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 88,
+  "translation": "ኣብ መቕበር ሔሴድካ ይዝረብ ዶ፧ ኣምናትካ ኣብ ኣብዱን ዶ፧",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "ይዝረብ"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "ኣብ መቕበር"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሔሴድካ"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ኣምናትካ"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "ኣብ ኣብዱን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:49.108165189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ላባን ድማ፦ «ንስኻ ⟨את⟩ ንሳ ክሃበካ ካብ ካልእ ሰብ ⟨את⟩ ንሳ ክሃባ ሰናይ እዩ፤ ምስ ኣነ ኣብይ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ላባን"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ሰናይ እዩ"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "ክሃበካ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ክሃባ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ንሰብ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ካልእ"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "ኣብይ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ምስ ኣነ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:50:08.574654048Z",
+  "model": "glm-5.3"
+}

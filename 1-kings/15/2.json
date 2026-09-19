@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ሰለስተ ዓመታት ኣብ የሩሻላይም ነገሰ፤ ስም ኣደኡ ማዐኻ፣ ጓል ኣብሸሎም፣ እያ።",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነገሰ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ኣብ የሩሻላይም"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ንስም"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ኣደኡ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ማዐኻ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ጓል"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "ኣብሸሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:05:19.439995320Z",
+  "model": "glm-5.3"
+}

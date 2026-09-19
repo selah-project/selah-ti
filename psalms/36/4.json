@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ቃላት ኣፉ እንታይን ኣበይትን እዮም፤ እንታይ እንተ ዀነ ብሉጽ ኮይኖም ወጻእ።",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ኣፉ"
+    },
+    {
+      "surface": "און",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ኣበይቲ"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ወጻእ"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "ንኽርድእ"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "ንኽብልጽ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:08.267301533Z",
+  "model": "glm-5.3"
+}

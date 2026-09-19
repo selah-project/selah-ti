@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ንያህዌህ ኤሎሂምካ ⟨את⟩ ብኩሉ ልብኻ፣ ብኩሉ ነፍሲኻ፣ ብኩሉ ሓይሊኻ ክትፈትዎ ኣሎኻ።",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "ክትፈትዎ ኣሎኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብኩሉ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ልብኻ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ብኩሉ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ነፍሲኻ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ብኩሉ"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "ሓይሊኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:47:58.803935209Z",
+  "model": "glm-5.3"
+}

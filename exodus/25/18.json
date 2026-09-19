@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ድማ ክልተ ኩሩቤላት ብወርቂ ትገብር፤ ስራ ምርቒ ⟨ብሙርቕ ዝተበገረ⟩ ትገብረሎም፤ ካብ ክልተ ዓንቀሮታት እቲ መሸፈኒ ይኹኑ።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "ኩሩቤላት"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "ስራ ምርቒ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ትገብረሎም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ንእሶም",
+      "marks": "ኩሩቤላት"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ካብ ክልተ"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ዓንቀሮታት"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "እቲ መሸፈኒ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:32:15.960446157Z",
+  "model": "glm-5.3"
+}

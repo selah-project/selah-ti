@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 12:9",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ከምኡውን ብዝያዳ ቆሄለት ጥበበኛ ነይሩ፤ ⟨את⟩ ህዝቢ ድማ ገና ፍልጠት ተማሕደዮ፣ ሰምዐ፣ ሓረደ፣ መትሓሳታት ብዙሕ ሓጹሮ።",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "ከምኡውን ብዝያዳ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ቆሄለት"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ጥበበኛ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ገና ድማ"
+    },
+    {
+      "surface": "למד",
+      "gloss": "ተማሕደዮ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ፍልጠት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ህዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "ሓረደ"
+    },
+    {
+      "surface": "תקן",
+      "gloss": "ሓጹሮ"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "መትሓሳታት"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:45:19.724387160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 19:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ካብ ረፊዲም ኸዱ፣ ናብ ምድረ-በዳ ሲናይ መጹ፣ ኣብ እቲ ምድረ-በዳ ሰፈሩ፤ እስራኤል ድማ ኣብኡ ኣብ ቅድሚ እቲ ኦራ ሰፈረ።",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ኸዱ"
+    },
+    {
+      "surface": "מרפידים",
+      "gloss": "ካብ ረፊዲም"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "መጹ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ምድረ-በዳ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ሲናይ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ሰፈሩ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ እቲ ምድረ-በዳ"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "ሰፈረ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "እቲ ኦራ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:24:47.144787811Z",
+  "model": "glm-5.3"
+}

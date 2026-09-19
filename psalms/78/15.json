@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ዓስተይታት ኣብ ምድረ-በዳ በቕዐ፤ ከም ብዙሕ ትሕቲ ማይ እውን ኣሳተዮም።",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "በቕዐ"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "ዓስተይታት"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድረ-በዳ"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ኣሳተዮም"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "ከም ትሕቲ ማይ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:50.089344114Z",
+  "model": "glm-5.3"
+}

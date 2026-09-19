@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ቃል ያህዌህ ⟨ኮይኑ⟩ ናብ ዮና ወዲ ኣሚታይ «ከምዚ ንምባል» በሎ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨ኮይኑ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ዮና"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "ኣሚታይ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ንምባል"
+    }
+  ],
+  "timestamp": "2026-09-19T04:22:29.523816497Z",
+  "model": "glm-5.3"
+}

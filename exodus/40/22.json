@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ንእቲ ማዕድን ⟨את⟩ ኣብ ድንኳን ኣኼባ ብጎኒ እቲ ማሕደር ናብ ከባቢ ሰሜን ኣብ ውጻኢ እቲ መስተዋት ኣቕሚጡ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ኣቕሚጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ማዕድን"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "እቲ ማዕድን"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ኣብ ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ኣኼባ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ጎኒ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "እቲ ማሕደር"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ናብ ሰሜን"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ኣብ ውጻኢ"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "ናብ እቲ መስተዋት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:45:50.419313417Z",
+  "model": "glm-5.3"
+}

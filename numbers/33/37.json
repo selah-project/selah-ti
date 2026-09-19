@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 33:37",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ካብ ቃዴስ ተነሱ፣ ኣብ ሖር እቲ ከሰዓት ኣብ ድንበር ምድሪ ኤዶም ሰፈሩ።",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ተነሱ"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "ካብ ቃዴስ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ሰፈሩ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ኣብ ሖር"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "እቲ ከሰዓት"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "ኣብ ድንበር"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:42:41.203067241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ከም እት ኣዘዘ ያህዌህ ⟨את⟩ ሞሸን፣ ንሱ ድማ ኣብ ምድረ በዳ ሲናይ በዓዶም።",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ከም እት"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ኣዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሸን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸን"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "በዓዶም"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድረ በዳ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ሲናይ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:10:45.584661678Z",
+  "model": "glm-5.3"
+}

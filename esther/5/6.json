@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 5:6",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣብ ምግቢ ወይኒ እቲ ንጉስ ንእስተር ከምዚ በለ፦ «እንታይ እያ ሓበያትኪ? ክተኽፈለኪ ይከኣል፤ እንታይ ድማ እያ ለምናትኪ? ክሳብ ንጹር መንግስቲ ክትፍጸም እያ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "ንእስተር"
+    },
+    {
+      "surface": "במשתה",
+      "gloss": "ኣብ ምግቢ"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ወይኒ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "שאלתך",
+      "gloss": "ሓበያትኪ"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "ክተኽፈለኪ ይከኣል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "እንታይ ድማ"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "ለምናትኪ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ንጹር"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "መንግስቲ"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "ክትፍጸም እያ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:47:44.254624600Z",
+  "model": "glm-5.3"
+}

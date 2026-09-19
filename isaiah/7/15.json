@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ክንፍሻን ሓሙምታን ክበልዕ፣ ነቲ ኣሃዛ ክተሓውጸሉን ነቲ በርካታ ክምርጽዕሉን ⟨ክፈልጥ⟩።",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "ክንፍሻን"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ሓሙምታን"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ክበልዕ"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "ክፈልጥ"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "ክተሓውጸ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ነቲ ኣሃዛ"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "ክምርጽዕ"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ነቲ በርካታ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:46:40.780073031Z",
+  "model": "glm-5.3"
+}

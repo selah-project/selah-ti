@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ኣብ ኢዶም ክፉእ ምምሃር ኣሎ፣ ከምኡውን ኣየኦም ብጉርሻ ተመሊኣ እያ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝ"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "ኣብ ኢዶም"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ክፉእ ምምሃር"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ከምኡውን ኣየኦም"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ተመሊኣ"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ጉርሻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:37.934939979Z",
+  "model": "glm-5.3"
+}

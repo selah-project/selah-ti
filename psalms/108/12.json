@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 108,
+  "translation": "ኣይኮነን ዶ ኤሎሂም በዓይ ውጺእናና ኣይኮንናን፧ ኤሎሂም ድማ ምስ ሰራዊትና ኣይወጽእን እዩ።",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ኣይኮነን ዶ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "በዓይ ውጺእናና"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ኣይወጽእን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "ምስ ሰራዊትና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:59.233462798Z",
+  "model": "glm-5.3"
+}

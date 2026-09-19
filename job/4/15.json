@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 4:15",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "መንፈስ ድማ ኣብ ቅድመ ገጻይ ሓሊፉ፣ በረጊት ስጉምቲ ኣብ ስጉምቲ ሥጋይ ኮነ።",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "መንፈስ ድማ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ቅድመ ገጻይ"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "ሓሊፉ"
+    },
+    {
+      "surface": "תסמר",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "በረጊት ስጉምቲ ኣብ ስጉምቲ"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ሥጋይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:01:24.474008932Z",
+  "model": "glm-5.3"
+}

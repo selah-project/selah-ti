@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 135:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 135,
+  "translation": "ስዓር ለዊ፣ ያህዌህ ባርኽዎ፤ ዜገዱ ያህዌህ፣ ያህዌህ ባርኽዎ።",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ስዓር"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ለዊ"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ባርኽዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ዜገዱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ባርኽዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:14.735402902Z",
+  "model": "glm-5.3"
+}

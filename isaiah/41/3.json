@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ይሓብኦም፣ ብሰላም ይሓልፍ፤ ብእግሩ ዝኣተወ መገዲ የብሉን።",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "ይሓብኦም"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "ይሓልፍ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ብሰላም"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "መገዲ"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ብእግሩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ይኣቱን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:11:01.417636412Z",
+  "model": "glm-5.3"
+}

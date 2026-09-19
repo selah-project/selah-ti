@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ሰብን እቲ ⟨את⟩ ሰበይቲን ⟨את⟩ ኣደኣን እንተ ወሲዱ፣ ውርደት እዩ፤ ብንጋድ ንኡኡን ⟨את⟩ ነኣንቱን ኪቐትልዎም እዮም፤ ውርደት ኣብ መንጎኩም ኣይኾንን።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ሰብን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "እንተ ወሲዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰበይቲ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣደኣ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ኣደኣ"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ውርደት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ብንጋድ"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "ኪቐትልዎም እዮም"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ንኡኡ"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "⟨את⟩ ነኣንቱን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይኾንን"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ኣብ መንጎኩም"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ውርደት"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ኣብ መንጎኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:04:48.124436265Z",
+  "model": "glm-5.3"
+}

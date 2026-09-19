@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ነቲ ⟨את⟩ ዓምዲ በዓል ሰበሩ፣ ነቲ ⟨את⟩ ቤት በዓል ሰበሩ፣ ናብ ⟨መርገሚ ቤት⟩ ክሳብ ሎሚ ገበርዎ።",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "ሰበሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓምዲ"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "ዓምዲ"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "በዓል"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "ሰበሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "በዓል"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "ገበርዎ"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "መርገሚ ቤት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:20:19.926566275Z",
+  "model": "glm-5.3"
+}

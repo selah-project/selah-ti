@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ነኣሕሮንን ⟨את⟩ ነውላዱን ⟨את⟩ ናብ ኣፍደገ ድኽሪ ስብሻ ትቐርቦም፣ ብማይ ከኣ ⟨את⟩ ተሓጸቦም።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሕሮን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሕሮን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ውላዱ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "ትቐርቦም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣፍደገ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድኽሪ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ስብሻ"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ተሓጸቦም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሕሮንን ውላዱን"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ብማይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:37:01.950646452Z",
+  "model": "glm-5.3"
+}

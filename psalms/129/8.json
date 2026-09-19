@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 129,
+  "translation": "እቶም ዘራፍኡ ድማ ኣይበሉን፦ «በረኻ ያህዌህ ምስ ኩም፣ ብስም ያህዌህ በርኽትና ንኹም።»",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ኣይበሉን"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "እቶም ዘራፍኡ"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "በረኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ምስ ኩም"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "በርኽትና"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንኹም"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ብስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:42.546917954Z",
+  "model": "glm-5.3"
+}

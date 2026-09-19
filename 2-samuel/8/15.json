@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 8:15",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ዳዊድ ኣብ ልዕሊ ኹሉ እስራኤል ነገሰ፤ ዳዊድ ድማ ንኹሉ ህዝቢ ፍዳን ጽድቅን ይፍጽም ነይሩ።",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሰ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ይፍጽም"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍዳ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ጽድቅን"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ህዝቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:41:02.853354430Z",
+  "model": "glm-5.3"
+}

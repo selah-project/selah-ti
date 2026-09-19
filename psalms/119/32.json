@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኣብ መንገዲ ትእዛዛትኻ እሰግሕ፤ ልበይ ምትስፍሕእ እምነተ።",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "መንገዲ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ትእዛዛትኻ"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "እሰግሕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እምነተ"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "ምትስፍሕእ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:31.024158323Z",
+  "model": "glm-5.3"
+}

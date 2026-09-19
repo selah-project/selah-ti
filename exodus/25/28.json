@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ነቲ ⟨את⟩ መሻገርቲ ካብ ዕንቅርቲ ሽቲም ትገብር፣ ብወርቂ ከኣ ትሓብኖም፤ ብዞም ከኣ ነቲ ⟨את⟩ ማዕዶ ኪውዓል እዩ።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ መሻገርቲ"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ነቲ መሻገርቲ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ዕንቅርቲ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ሽቲም"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ትሓብኖም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ወርቂ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ኪውዓል እዩ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ብዞም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ማዕዶ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ነቲ ማዕዶ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:31:22.487687577Z",
+  "model": "glm-5.3"
+}

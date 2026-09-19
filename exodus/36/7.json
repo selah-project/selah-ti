@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ነቲ ዕቃ ኩሉ ንኽግበር ⟨את⟩ እቲ ኣሕዋስ ሓያሎ ነይሩ፣ ዝበዝሕ ድማ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "ነቲ ዕቃ ኣሕዋስ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "דים",
+      "gloss": "ሓያሎ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ኣሕዋስ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ንኽግበር"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሕዋስ"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "ዝበዝሕ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:43:54.467711050Z",
+  "model": "glm-5.3"
+}

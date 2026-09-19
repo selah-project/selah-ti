@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 10:24",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ያህዌህ ተውሕደኒ፣ ጥራይ ብፍትሕ፣ ብቁሕትኻ ኣይትጥፍእኒ፣ ከይትሕደሰኒ።",
+  "tokens": [
+    {
+      "surface": "יסרני",
+      "gloss": "ተውሕደኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ብፍትሕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይትጥፍእኒ"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ብቁሕትኻ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ከይ"
+    },
+    {
+      "surface": "תמעטני",
+      "gloss": "ከይትሕደሰኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:34:54.200044178Z",
+  "model": "glm-5.3"
+}

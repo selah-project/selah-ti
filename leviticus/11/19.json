@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ከምኡውን ⟨את⟩ ሔሲዳን ⟨את⟩ ኣናፓ ብዓይነታን ⟨את⟩ ዱኪፋትን ⟨את⟩ ዓጠለፍን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሔሲዳ"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "ሔሲዳ"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "ኣናፓ"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ብዓይነታ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዱኪፋት"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "ዱኪፋት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓጠለፍ"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "ዓጠለፍ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:53:49.788015380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 33:15",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ኣብ ሕልሚ፣ ኣብ ርእይቲ ለይቲ፣ ኣብ ዝወርድ ተርደምታ ኣብ ልዕሊ ሰባት፣ ኣብ ወጋባት ኣብ ልዕሊ ምላሽ፣",
+  "tokens": [
+    {
+      "surface": "בחלום",
+      "gloss": "ኣብ ሕልሚ"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "ርእይቲ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ለይቲ"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "ኣብ ዝወርድ"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "ተርደምታ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "בתנומות",
+      "gloss": "ኣብ ወጋባት"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "ምላሽ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:19:58.468126081Z",
+  "model": "glm-5.3"
+}

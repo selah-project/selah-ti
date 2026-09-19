@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ናብ ንስኻ ሰቒሮም ናጺሮም፤ ኣብ ንስኻ ተኣማኑ፣ ኣይተሓሕዩን።",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "ናብ ንስኻ"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "ሰቒሮም"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "ናጺሮም"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣብ ንስኻ"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ተኣማኑ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "ተሓሕዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:46.207805027Z",
+  "model": "glm-5.3"
+}

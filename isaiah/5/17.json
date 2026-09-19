@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 5:17",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "በጊታት ከም ኣገባብኦም እናዛለሉ ፣ እቶም ሕማቓት ኣብ ዝኣኑ እተሓደሱ ቦታታት ድማ ኣጋይሻት ክብላዑ እዮም።",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "እናዛለሉ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "በጊታት"
+    },
+    {
+      "surface": "כדברם",
+      "gloss": "ከም ኣገባብኦም"
+    },
+    {
+      "surface": "וחרבות",
+      "gloss": "እተሓደሱ ቦታታት"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "ሕማቓት"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "ኣጋይሻት"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ክብላዑ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:45:33.543952313Z",
+  "model": "glm-5.3"
+}

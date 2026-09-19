@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ብሰብ ዓመጽ ኣይትሓልይ፣ ኣብ ሓደ ካብ መገድታቱ ድማ ኣይተረጽመን።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ትሓልይ"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ኣብ ሰብ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ዓመጽ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣውን ኣይ"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "ተረጽመ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ሓደ ካብ"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "መገድታቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:43:12.771719530Z",
+  "model": "glm-5.3"
+}

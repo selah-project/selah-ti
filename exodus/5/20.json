@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣብ ዝወጹ ካብ ⟨את⟩ ፓርዖ ድማ ኮይኖም ተቐሚጦም ኣብ መጻኢሎም ዝነበሩ ኣራኸብዎም ሞሸን ⟨את⟩ ኣሃሮንን።",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "ኣራኸብዎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሃሮን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "ኮይኖም ተቐሚጦም"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "ኣብ መጻኢሎም"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "ኣብ ዝወጹ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ካብ ⟨את⟩",
+      "marks": "ፓርዖ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:14:06.560090935Z",
+  "model": "glm-5.3"
+}

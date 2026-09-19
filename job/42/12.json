@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ያህዌህ ድማ ⟨את⟩ መወዳእታ ኢዮብ ካብ መጀመርታኡ በዝዮም ባረኾ፤ ኣርባዕተ ዓሰርተ ሽሕ ፍትሒ፣ ሽድሕቲ ሽሓት ጀምላታት፣ ሽሕ ጓሶ በጋዕቲን ሽሕ ኣጋዛትን ኮነ ሉ።",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ባረኾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መወዳእታ ኢዮብ"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "መወዳእታ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኢዮብ"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "ካብ መጀመርታኡ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ሉ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ፍትሒ"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "ሽድሕቲ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሽሓት"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "ጀምላታት"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "ጓሶ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "በጋዕቲ"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "ኣጋዛት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:28:16.413282891Z",
+  "model": "glm-5.3"
+}

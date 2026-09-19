@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "እቲ ልኡኽ ድማ መጸ ንኣታቱ ሓበሮ እናበለ፦ «ርእሲ ውላድ እቲ ንጉስ ኣእተዉ።» ንሱ ድማ በለ፦ «ነቶም ⟨את⟩ ክልተ ተረፎታት ኣብ ኣፍደገ እቲ ከተማ ክሳብ እቲ ወጋሕ ኣቕምጡዎም።»",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "እቲ ልኡኽ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ሓበሮ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኣታቱ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ኣእተዉ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "ኣቕምጡዎም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "ተረፎታት"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣብ ኣፍደገ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "እቲ ከተማ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "እቲ ወጋሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:23:28.632301855Z",
+  "model": "glm-5.3"
+}

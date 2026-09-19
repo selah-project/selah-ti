@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "⟨את⟩ እቲ ማሰልቲ፣ ⟨את⟩ ኩሉ ኣቕሓቱን ⟨את⟩ እኽሊ ኣብ ቅድሚኡን።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ማሰልቲ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "እቲ ማሰልቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ኣቕሓቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ኣቕሓቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እኽሊ ኣብ ቅድሚኡ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ኣብ ቅድሚኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:45:14.220967977Z",
+  "model": "glm-5.3"
+}

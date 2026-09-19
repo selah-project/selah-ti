@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "እቲ ሕዝቢ ካብ ረዚዑ ተቐመጠ፤ ሞሸ ድማ ናብ እቲ ጸልማት፣ እቲ ኤሎሂም ኣብኡ ዝነበረሉ፣ ተቐረበ።",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ካብ ረዚዑ"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "ሞሸ ድማ"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "ተቐረበ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "እቲ ጸልማት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም ዝነበረሉ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:24:03.945172911Z",
+  "model": "glm-5.3"
+}

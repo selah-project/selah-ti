@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ስደብቲ ብጥፕኦም ከም መንገዶም ብሓጢያቶም ድማ ተዓተሩ።",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "ስደብቲ"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ከም መንገዶም"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "ጥፕኦም"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "ብሓጢያቶም"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "ተዓተሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:05.911578840Z",
+  "model": "glm-5.3"
+}

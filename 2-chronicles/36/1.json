@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ዓቕሊ ምድሪ ወሲዱ ⟨את⟩ የሆኣሓዝ ወዲ ያዓሺሃ፣ ኣብ ክንዲ ኣቡኡ ኣብ የሩሻላይም ኣንግሰዎ።",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ዓቕሊ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሆኣሓዝ"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "የሆኣሓዝ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ያዓሺሃ"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "ኣንግሰዎ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ክንዲ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ኣብ የሩሻላይም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:22:41.781897655Z",
+  "model": "glm-5.3"
+}

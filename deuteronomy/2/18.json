@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ንስኻ ሎሚ ⟨את⟩ ድንበቭ ሞኣብ ⟨את⟩ ዓር ትሻግር ኣሎኻ።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ትሻግር"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድንበቭ ሞኣብ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ድንበቭ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓር"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ዓር"
+    }
+  ],
+  "timestamp": "2026-09-18T22:45:11.454919976Z",
+  "model": "glm-5.3"
+}

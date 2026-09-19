@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "እቲ ሓደ ኣጋዊ ⟨את⟩ ብትሕሊት ትገብር፣ ድማ እቲ ካልኣይ ኣጋዊ ⟨את⟩ ኣብ መንግ እተን ፈዚሕታት ትገብር።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሓደ ኣጋዊ"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "እቲ ኣጋዊ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ብትሕሊት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ካልኣይ ኣጋዊ"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "እቲ ኣጋዊ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ካልኣይ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንግ"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "እተን ፈዚሕታት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:35:38.775835403Z",
+  "model": "glm-5.3"
+}

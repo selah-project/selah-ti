@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 20:8",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኣብኣ ነበሩ፣ ኣብኣ ድማ ንስምካ መቕደስ ሓንጸሩኻ፣ ኢሎም፦",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ነበሩ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኣ"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "ሓንጸሩኻ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንዓኻ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኣ"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "መቕደስ"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ንስምካ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሎም፦"
+    }
+  ],
+  "timestamp": "2026-09-19T08:08:54.543639761Z",
+  "model": "glm-5.3"
+}

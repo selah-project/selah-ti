@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 64,
+  "translation": "ኲነታት ይመርምሩ፤ «ምርመራ ፈጸምና» ይብሉ፤ ከላ ሰብ ውሽጢ ምስልኡን ልቢ ድማ ጥሪ እዩ።",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "ይመርምሩ"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ኲነታት"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "ፈጸምና"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "ምርመራ"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "ምርመራ ምርመራ"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "ውሽጢ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ጥሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:41.537467257Z",
+  "model": "glm-5.3"
+}

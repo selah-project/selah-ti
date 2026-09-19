@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ቓል ብልዕልይ ተበዝሕዎ ኣሎ ኢሎም፣ እቲ ዝተኛ ድማ ደጊሙ ኣይተቐምጥን እዩ።",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ብልዕልይ"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "ተበዝሕዎ ኣሎ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ከምኡውን እቲ ዝ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ዝተኛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ደጊሙ"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "ኣይተቐምጥን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:11.540779564Z",
+  "model": "glm-5.3"
+}

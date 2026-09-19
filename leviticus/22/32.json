@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "⟨את⟩ ስሚ ቅዱስነተይ ኣይትንኽኡን፤ ኣብ መንጎ ውላድ ይስራኤል እውን እትቕደስ እየ፤ እትቕድሰኩም ኣነ ያህዌህ እየ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "ትንኽኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሚ ቅዱስነተይ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስሚ"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ቅዱስነተይ"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "እትቕደስ እየ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "እትቕድሰኩም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:30:16.148032120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ድሕሩ እዚ ኩሉ ውላድ ያዕቆቭ ተቐረቡ፤ ንሳቶም ድማ ንኹሉ እቲ ያህዌህ ምስ ኣብ ከረብ ሲናይ עמו ዝዛረቦ ዚኽእል ኹሉ ኣዘዞም።",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "ድሕሩ እዚ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "ተቐረቡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "ኣዘዞም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝዛረቦ ኹሉ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝዛረቦ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ ምስ ኣብ ከረብ ሲናይ",
+      "marks": "ምስ ያህዌህ ምስ ሞሸ בהר סיני"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ኣብ ከረብ ሲናይ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ሲናይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:40:05.046075958Z",
+  "model": "glm-5.3"
+}

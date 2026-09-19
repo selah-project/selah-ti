@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ነቲ ቶራን ትእዛዝን ንምግባርን ነቲ ያህዌህ፣ ኤሎሂም ኣቦታቶም፣ ⟨את⟩ ንምውጋእ ንይሁዳ ኣዘዘ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ኣዘዘ"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ንይሁዳ"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "ንምውጋእ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "ኣቦታቶም"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ንምግባር"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "ትእዛዝ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:04:21.225447828Z",
+  "model": "glm-5.3"
+}

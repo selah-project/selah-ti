@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 96,
+  "translation": "ክብሪን ተሓትን ኣብ ቅድምኡ ኣሎ፤ ሓይሊን ውዑድን ኣብ ቅዱስ ቤቱ ኣሎ።",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ተሓትን"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ኣብ ቅድምኡ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ሓይሊ"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "ውዑድን"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "ኣብ ቅዱስ ቤቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:11.785210824Z",
+  "model": "glm-5.3"
+}

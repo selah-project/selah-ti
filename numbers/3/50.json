@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ካብ ⟨את⟩ በኮር ውላድ እስራኤል ⟨את⟩ ብር ተቐበለ — ሽሕ ሰለስተ ምእታትን ስልሳ ሓሙሽተን ብስቕል ቅዱስ።",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "ካብ ⟨את⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "በኮር"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ተቐበለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብር"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ስልሳ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ምእታት"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ብስቕል"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ቅዱስ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:12:29.953734787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "እቲ ዝተርገሸ ኣብ ኣይኒኡ ዝተራገ፸፣ ንቶም ዜፍርዉ ያህዌህ ድማ ⟨את⟩ ክብሪ የውህቦም፤ ንሓብረ ክጎድሎ ኣይቐይርን —",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "ዝተርገሸ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ኣብ ኣይኒኡ"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "ዝተራገ፸"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዜፍርዉ ያህዌህ"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ዜፍርዉ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "ይክብሮም"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ይምህይ"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ንሓብረ ክጎድሎ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "ይቐይር"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:23.011720351Z",
+  "model": "glm-5.3"
+}

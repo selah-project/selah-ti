@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ከምኡውን ክልተኦም ቆርቆስ ነይሮም — እቲ ሰብን ሸሓርቱን — ኣይሕፉሩን።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ነይሮም"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ክልተኦም"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "ቆርቆስ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ሸሓርቱን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "ይሕፉሩ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:29:26.659103439Z",
+  "model": "glm-5.3"
+}

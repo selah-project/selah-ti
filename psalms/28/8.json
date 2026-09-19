@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ያህዌህ ኃይል ንኣቶም ⟨እዩ⟩፣ ንናይ ማሺያሕ ድማ ጽንበር መድሃኒት ⟨ንሱ እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ኃይል"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ንኣቶም"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "ጽንበር"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "መድሃኒት"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ናይ ማሺያኽኡ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:10.503153188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ናቦት ድማ ንኣሃብ በሎ፦ «ንዓኒ ካብ ያህዌህ ርሒቑ፡ ነቲ ናይ ኣቦተይ ሃብቲ ⟨את⟩ ንዓኻ ክሃበካ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "ናቦት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ኣሃብ"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "ርሒቑ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓኒ"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ካብ ያህዌህ"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ክሃበካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ናይ ኣቦተይ ሃብቲ"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ሃብቲ"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "ናይ ኣቦተይ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንዓኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:09:52.408975046Z",
+  "model": "glm-5.3"
+}

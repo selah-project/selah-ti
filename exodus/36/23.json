@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ነቲ ጽግራታት ናይ ማሕደር ድማ ጀሚሩ ገበረ፤ ወተሻተ ጽግራታት ንጎበልታ ደቡብ ወገን ደቡብ ኣብ እንትበል።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ጀሚሩ ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ጽግራታት"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ጽግራታት"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ናይ ማሕደር"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ወተሻተ"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "ጽግራታት"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ንጎበልታ…ወገን"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ደቡብ"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ደቡብ ኣብ እንትበል"
+    }
+  ],
+  "timestamp": "2026-09-18T21:42:03.301049757Z",
+  "model": "glm-5.3"
+}

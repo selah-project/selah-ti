@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "የሆሹዋዕ ድማ «ነቲ ገዛ ኣፉን ⟨את⟩ ክፈቱ፣ ነቶም ክምስተ ነገስቲ እዚኦም ካብቲ ገዛ ⟨את⟩ ናብና ኣውጡ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ክፈቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣፉ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ኣፉ"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "ገዛ"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "ኣውጡ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ናብና"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክምስተ ነገስቲ"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "ክምስተ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ነገስቲ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "ገዛ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:23:11.363027681Z",
+  "model": "glm-5.3"
+}

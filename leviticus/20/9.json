@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ምኽንያቱ ነፍሲ ወከፍ ሰብ ⟨את⟩ ኣቦኡን ⟨את⟩ ኣደኡን እንተ ሓገረ፣ ሞት ይቕተል፤ ኣቦኡን ኣደኡን ሓገረ፣ ደሙ ኣብ ርእሱ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ወከፍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ሓገረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቦኡ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣደኡ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ኣደኡ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይቕተል"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ኣደኡን"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "ሓገረ"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "ደሙ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብ ርእሱ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:58.499732237Z",
+  "model": "glm-5.3"
+}

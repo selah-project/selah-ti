@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኩሉ ቦታ እቲ ኣኽሊል እግርኩም ክጥምቖ ኣብኡ፣ ነኩምኩም ሃቤዎ፣ ከም እተዛረብኩ ሞሸ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "ክጥምቖ ኺሓልፎ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ኣኽሊል"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "እግርኩም"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ነኩምኩም"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "ሃበኩምዎ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "እተዛረብኩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:18:21.851913735Z",
+  "model": "glm-5.3"
+}

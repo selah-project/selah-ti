@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ብጸጋ እቲ ሰብ፣ ያህዌህ ነቲ ብድኢ ኣይቁጽርሉን፣ ኣብ መንፈሱ ውሽጣዊ ኸይትርከብ።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ብጸጋ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ይቁጽር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ለን"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ብድኢ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ውሽጣዊ ኸይትርከብ"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "ኣብ መንፈሱ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ውሽጣዊ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:23.462821039Z",
+  "model": "glm-5.3"
+}

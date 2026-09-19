@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ዳዊድ ድማ ⟨את⟩ እቲ ሕዝቢ እቲ ⟨את⟩ ምስኡ ዝነበረ ቆጸረ፡ ኣብ ልዕሊኦም ኣለቓት ሺሓትን ኣለቓት ምእታትን ተኺሉ።",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "ቆጸረ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ምስኡ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ተኺሉ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ኣብ ልዕሊኦም"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ኣለቓት"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሺሓት"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ኣለቓትን"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ምእታትን"
+    }
+  ],
+  "timestamp": "2026-09-19T00:36:38.207833270Z",
+  "model": "glm-5.3"
+}

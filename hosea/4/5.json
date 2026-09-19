@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣብ ቀትሪ ክትሓጽብ ኢኻ፣ ነብዪ እውን ኣብ ለይቲ ምስ ኣኻ ክሓጽብ እዩ፣ ኣደኻውን ኣጠፊኣ እየ።",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "ክትሓጽብ ኢኻ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ኣብ ቀትሪ"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "ክሓጽብ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ነብዪ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስ ኣኻ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ኣብ ለይቲ"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "ኣጠፊኣ እየ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ኣደኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:06:39.930350855Z",
+  "model": "glm-5.3"
+}

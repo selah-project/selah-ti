@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 74,
+  "translation": "ኣትኻ ምንጪን ቈላን ኣብሪኽካ፣ ኣትኻ ኩሉ ግዜ ዝፈስስ ኣብዓታት ኣደረርካዮም።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ኣትኻ"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "ኣብሪኽካ"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "ምንጪ"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "ቈላን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኣትኻ"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "ኣደረርካዮም"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ኣብዓታት"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ኩሉ ግዜ ዝፈስስ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:34.608146613Z",
+  "model": "glm-5.3"
+}

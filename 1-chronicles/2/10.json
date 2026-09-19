@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ራም ድማ ⟨את⟩ ዓሚንዳብ ሓረገ፤ ዓሚንዳብ ድማ ⟨את⟩ ናኽሶን፣ ኣመራላይ ናይ ውላድ ይሁዳ፣ ሓረገ።",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "ራም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ሓረገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓሚንዳብ"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ዓሚንዳብ"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "ዓሚንዳብ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ሓረገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ናኽሶን"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "ናኽሶን"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ኣመራላይ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ናይ ውላድ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:28:42.660252170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኹሉ እቲ ዝሰርሕ ኩነታት ኣውዒፍ እቲ ኣብ ኣርባዕተ እናኸደ — ሕውነት እዩ ነይኩም።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "እቲ ዝሰርሕ"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ኩነታት ኣውዒፍ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "እቲ ዝኸይድ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ሕውነት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ነይኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:53:49.788159614Z",
+  "model": "glm-5.3"
+}

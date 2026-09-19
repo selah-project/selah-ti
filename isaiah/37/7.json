@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 37:7",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "እሉ እየ፦ ብኡ መንፈስ ኣእትወ፣ ሓበሬታ ድማ ክሰምዕ ኮይኑ ናብ ምድሪ ንሱ ክምለስ እዩ፤ ኣነ ድማ ኣብ ምድሪ ንሱ ብሰይፊ ክውዕቦ እየ።",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "እሉ"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "ኣእትወ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ብኡ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ክሰምዕ"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "ሓበሬታ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ክምለስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ምድሪ ንሱ"
+    },
+    {
+      "surface": "והפלתיו",
+      "gloss": "ክውዕቦ እየ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ብሰይፊ"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "ኣብ ምድሪ ንሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:07:31.641319697Z",
+  "model": "glm-5.3"
+}

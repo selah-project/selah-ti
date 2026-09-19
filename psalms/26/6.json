@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ኣብ ንጹህነት ክልተ ኢደይ ኣበጥብዕ እየ፣ ያህዌህ፣ ⟨את⟩ መሠወኺኻ እናዞርኩ እየ።",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "ኣበጥብዕ"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "ኣብ ንጹህነት"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ክልተ ኢደይ"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "እናዞርኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሠወኺኻ"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "መሠወኺኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:49.288180819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "እቶም ኩሆታይት ነቲ ቅዱስ ኣቢሎም ተኣሳስሎም ከዱ፤ እቶም ካልኦት ድማ ክበጽሑ እሞ ⟨את⟩ እቲ ማሕደር ኣቐሚ጖ም ነበሩ።",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "ተኣሳስሎም ከዱ"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "ኩሆታይት"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ኣቢሎም"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "ነቲ ቅዱስ"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "ኣቐሚ጖ም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ማሕደር"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "እቲ ማሕደር"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክበጽሑ እሞ"
+    },
+    {
+      "surface": "באם",
+      "gloss": "ምስ በጽሑ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:19:20.409041583Z",
+  "model": "glm-5.3"
+}

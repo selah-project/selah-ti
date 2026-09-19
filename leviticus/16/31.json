@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ሻባት ምዕራፍ እያ ንኹም፣ ⟨את⟩ ነፍስክም ድማ ተዓግቱ — ሕጊ ዘለኣለም።",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "ሻባት"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ምዕራፍ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እያ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኹም"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "ድማ ተዓግቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍስክም"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ነፍስክም"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:00:45.311917844Z",
+  "model": "glm-5.3"
+}

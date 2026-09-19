@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 96,
+  "translation": "ክብሪኡ ኣብ ልዕሊ ኣህዛብ ሕብሩ፣ ተኣምራቱ ኣብ ልዕሊ ኩሉ ህዝቢታት።",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "ሕብሩ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ኣብ ኣህዛብ"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ክብሪኡ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ህዝቢታት"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ተኣምራቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:40.888155815Z",
+  "model": "glm-5.3"
+}

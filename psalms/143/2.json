@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 143,
+  "translation": "ከምኡውን ብፍርዒ ⟨את⟩ ኣገልጋዚኻ ኣይትኣቱን፤ ምኽንያቱ ኣብ ቅድሚኻ ዝኾነ ሕያው ኣይይጽድቕን።",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ከምኡውን ኣይ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ትኣቱ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ብፍርዒ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣገልጋዚኻ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልጋዚኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "ይጽድቕ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ኣብ ቅድሚኻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ሕያው"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:23.643496615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ኩሉ መዓልታት ሓድሮኣ ትዕረ እያ — ⟨את⟩ እታ ኣብ ሻባታትኩም ኣብ ምቕማትኩም ኣብ ላዕላ ኣይትዕረን ነይራ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "ሓድሮኣ"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "ትዕረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ኣይትዕረን ነይራ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይትዕረን"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "ተዓረ"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "ኣብ ሻባታትኩም"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "ኣብ ምቕማትኩም"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ኣብ ላዕላ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:09:38.066462668Z",
+  "model": "glm-5.3"
+}

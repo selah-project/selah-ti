@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "እቲ ኣመንዲግ ብምዕርገ ገጹ ኤሎሂም ኣይደልዩን፤ ኩሉ ምንታይኡ ⟨ኤሎሂም የለን⟩ እዩ።",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "ኣመንዲግ"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "ብምዕርገ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ገጹ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "ይደልዩ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "ምንታይኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:06.756811698Z",
+  "model": "glm-5.3"
+}

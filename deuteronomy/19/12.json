@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ዓበይቲ ከተማኡ ድማ ይለእዋን፣ ካብኡ ⟨אתו⟩ ይወስድዎን፣ ⟨אתו⟩ ኣብ ኢድ ጋእሊ እቲ ደም ይሃብዎን፣ ንሱ ድማ ይሞትን።",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "ይለእዋን"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ዓበይቲ"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ከተማኡ"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "ይወስድዎን"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ንኡ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ይሃብዎን"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ኣብ ኢድ ጋእሊ እቲ ደም"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ኣብ ኢድ"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ጋእሊ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "እቲ ደም"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ይሞትን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:00:52.498099826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 9:26",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እቲ ንጉስ ሽሎሞ ድማ ኣብ ዓጽዮን-ጌበር፣ ኣብ ምድሪ ኣዶም፣ ኣብ ዳርጊ ባሕሪ ሱፍ ኣብ ትሕቲ ⟨את⟩ ኤሎት ዝኾነት ኣኻያት ገበረ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣኻያት"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "בעציון",
+      "gloss": "ብዓጽዮን"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ጌበር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎት"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "ኤሎት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ዳርጊ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ሱፍ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኣዶም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:56:39.616985360Z",
+  "model": "glm-5.3"
+}

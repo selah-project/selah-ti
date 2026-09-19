@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ወይን ሓሳይ እዩ፣ ጠጅ ድማ ማሕታል እዩ፤ ነፍሲ ወከፍ እተጠፍአ እምበኣርዚ ግን ኣይጥዕምን።",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "ሓሳይ"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ወይን"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ማሕታል"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ጠጅ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ነፍሲ ወከፍ"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "እተጠፍነ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "እምበኣርዚ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "ይጥዕም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:53:11.092588356Z",
+  "model": "glm-5.3"
+}

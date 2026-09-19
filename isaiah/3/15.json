@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 3:15",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እንታይ እዩ ነቲ ሕዝበይ ምስ ተሓጺርኩም፣ ገጻት ናይቶም ድኹማት ድማ ምስ መርሒኹም፧ ኣዶናይ ያህዌህ ጸባኦት በለ።",
+  "tokens": [
+    {
+      "surface": "מלכם",
+      "gloss": "እንታይ እዩ ንስኻትኩም"
+    },
+    {
+      "surface": "תדכאו",
+      "gloss": "ምስ ተሓጺርኩም"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ነቲ ሕዝበይ"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ገጻት"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ናይቶም ድኹማት"
+    },
+    {
+      "surface": "תטחנו",
+      "gloss": "ምስ መርሒኹም"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:44:00.265511114Z",
+  "model": "glm-5.3"
+}

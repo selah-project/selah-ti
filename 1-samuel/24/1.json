@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ዳዊድ ካብኡ ወጺኡ ኣብ መርዕብታት ዓይኒ ጌዲ ተቐመጠ።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ወጺኡ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "ኣብ መርዕብታት"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ዓይኒ"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ጌዲ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:40:36.212238110Z",
+  "model": "glm-5.3"
+}

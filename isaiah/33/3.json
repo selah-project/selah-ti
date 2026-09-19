@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ካብ ድምጺ ቐንዲምቲ ኣሕዛብ ተሰዓሩ፣ ካብ ልዕልናኻ ኣህዛብ ተበታተኑ።",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ካብ ድሢ"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ቐንዲምቲ"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ተሰዓሩ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ኣሕዛብ"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "ካብ ልዕልናኻ"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "ተበታተኑ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ኣህዛብ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:02:43.231552336Z",
+  "model": "glm-5.3"
+}

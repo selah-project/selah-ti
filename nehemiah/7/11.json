@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 7:11",
+  "book": "nehemiah",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ወለዲ ፓኽት ሞኣብ፣ ካብ ወለዲ የሹዋዕን ዮኣብን፣ ክልተ ሽሕታትን ሸሞነት ምዕታትን ሸሞነትን ዓሰርተን።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ወለዲ"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "ፓኽት"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ካብ ወለዲ"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "የሹዋዕ"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "ዮኣብን"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ክልተ ሽሕታትን"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ሸሞነት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ምዕታትን"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ሸሞነትን"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:18:22.437579111Z",
+  "model": "glm-5.3"
+}

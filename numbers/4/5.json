@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣሃሮንን ውላዱን ምስ እቲ መሸገር ኣብ ዝነስሕሉ ክኣቱ፣ ነቲ ሽፋን ናይቲ መሸፈኒ ⟨את⟩ ይወርድዎ፣ ብኡ ድማ ንታብያት ናይ ምስክርቲ ⟨את⟩ ይሽፍኖ።",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ክኣቱ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ውላዱን"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "ኣብ ዝነስሕሉ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "እቲ መሸገር"
+    },
+    {
+      "surface": "והורידו",
+      "gloss": "ይወርድዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ሽፋን"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "ሽፋን"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ናይቲ መሸፈኒ"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "ይሽፍኖ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ብኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንታብያት"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "ታብያት"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ናይ ምስክርቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:14:27.381210868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እዚኦም ድማ ስማት ውላድ ጌርሽም እዮም፦ ልብኒን ሽምዒን።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እዚኦም ድማ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ስማት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ጌርሽም"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ልብኒን"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "ሽምዒን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:32:48.333845549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 143,
+  "translation": "ስቓሃብኻ ንምግባር ኣምሃረኒ፤ ምኽንያቱ ንስኻ ኤሎሃይ ኢኻ፤ መንፈስካ ብጽሒ ኮይና ኣብ መላላይ ምድሪ ትመርሐኒ።",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "ኣምሃረኒ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ንምግባር"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "ስቓሃብኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "ኤሎሃይ"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "መንፈስካ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ብጽሒ ኮይና"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ትመርሐኒ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "መላላይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:21.792448867Z",
+  "model": "glm-5.3"
+}

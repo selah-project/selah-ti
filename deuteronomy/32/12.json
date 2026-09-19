@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ያህዌህ ብብሕታይ መሪሕዎ እዩ፤ ማዕርጊ ኤል ምሳኡ የለን።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "ብብሕታይ"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "መሪሕዎ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምሳኡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ማዕርጊ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:11:55.740414217Z",
+  "model": "glm-5.3"
+}

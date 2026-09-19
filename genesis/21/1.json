@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ያህዌህ ድማ ⟨את⟩ ሳራ ከም ዝበሎ ረኣያ፣ ያህዌህ ንሳትን ከም ዝተዛረበ ገበረላ።",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ ድማ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ረኣያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሳራ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ሳራ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም ዝበሎ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረላ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "ንሳትን"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝተዛረቐ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:43:32.572605604Z",
+  "model": "glm-5.3"
+}

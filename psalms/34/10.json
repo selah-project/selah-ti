@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ደልዩ ⟨את⟩ ያህዌህ ቅዱሳቱ፣ ምኽንያቱ ንዝፈርህዎ ጎድሊ የለን።",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "ደልዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "ቅዱሳቱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "ጎድሊ"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ንዝፈርህዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:25.927884085Z",
+  "model": "glm-5.3"
+}

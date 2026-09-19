@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 19:1",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ያህዌህ ድማ ንሞሸ ተዛረበ እናበለ፦",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ፦"
+    }
+  ],
+  "timestamp": "2026-09-18T22:01:25.271710211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ሰብ ካብ ሰበይቲ ዝተወለደ መዓልታት ቐጺሩ እዩ፣ ድማ ብስንፍና ዝተመልአ እዩ።",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "ዝተወለደ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "ቐጺሩ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ዝተመልአ"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "ስንፍና"
+    }
+  ],
+  "timestamp": "2026-09-19T09:05:37.781470549Z",
+  "model": "glm-5.3"
+}

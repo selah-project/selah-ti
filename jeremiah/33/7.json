@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ነዚ ስደት ይሁዳ ⟨את⟩ ተመሊሱ ነይሩ፣ ዐዲ ነዚ ስደት እስራኤልን ⟨את⟩፣ ከም ቀዳማይነቶም ከኣ ኣቐዲሜ ነይርኩ።",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "ተመሊሱ ነይሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስደት"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ስደት"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስደት እስራኤል"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ስደት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "ኣቐዲሜ ነይርኩ"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "ከም ቀዳማይነቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:57:49.917542760Z",
+  "model": "glm-5.3"
+}

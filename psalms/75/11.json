@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 75,
+  "translation": "ኩሉ ቀርኒ ክፉታት እበግድእ እየ፣ ቀርኒ ጻድቓን ድማ ክልዕለን እየን።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ ድማ"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "ቀርኒ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉታት"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "እበግድእ እየ"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "ክልዕለን እየን"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "ቀርኒ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቓን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:55.694495843Z",
+  "model": "glm-5.3"
+}

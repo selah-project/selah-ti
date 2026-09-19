@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "psalms 78:69",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ከም ቁመታት ዝኾነ መቕደሱ ሠራ፣ ከምቲ ንዘለኣለም ዝተመሰረታ ምድሪ።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሠራ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "ቁመታት"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "መቕደሱ"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "ከም ምድሪ"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "መሰርታ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ንዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:15.114807841Z",
+  "model": "glm-5.3"
+}

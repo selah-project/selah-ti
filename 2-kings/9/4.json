@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ነቢራ ውላዲ ነብዪ ድማ ናብ ራሞት ጊልዓድ ከደ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ነቢራ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ውላዲ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነብዪ"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "ራሞት"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ጊልዓድ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:20:11.062746815Z",
+  "model": "glm-5.3"
+}

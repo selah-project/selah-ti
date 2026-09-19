@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 7:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ሞሸ ወዲ ሸውዓተ ዓመት ነይሩ፣ ኣሃሮን ድማ ወዲ ሰለስተን ሸውዓተን ዓመት፣ ምስ ዝዛረቡን ንፓርዖ።",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "ሞሸ ድማ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ሸውዓተን"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "בדברם",
+      "gloss": "ምስ ዝዛረቡን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:12:17.100776871Z",
+  "model": "glm-5.3"
+}

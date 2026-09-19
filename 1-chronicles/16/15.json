@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 16:15",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ንኪዳኑ ናብ ዘለኣለም ዘንሱ፣ ነቲ ናብ ሽሕ ትውልዲ ዝኣዘዞ ቓል።",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "ዘንሱ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ንኪዳኑ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ዝኣዘዞ"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ናብ ሽሕ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ትውልዲ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:42:23.962537260Z",
+  "model": "glm-5.3"
+}

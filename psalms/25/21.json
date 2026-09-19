@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ምንኩልነትን ቅኑዕነትን ክጠብቑኒ፣ ስለዚ ኣባኻ ተስፋ ገበርኩ።",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "ምንኩልነት"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ቅኑዕነትን"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "ክጠብቑኒ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "ኣባኻ ተስፋ ገበርኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:56.500286564Z",
+  "model": "glm-5.3"
+}

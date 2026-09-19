@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 37:23",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ንሰባተ መብራታ ⟨את⟩ ብገበረ፣ ብሮሕታታን ኣፍሓስታታን ንጹር ወርቂ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ብገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰባተ መብራታ"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "መብራታ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ሰባተ"
+    },
+    {
+      "surface": "ומלקחיה",
+      "gloss": "ብሮሕታታ"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "ኣፍሓስታታ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ንጹር"
+    }
+  ],
+  "timestamp": "2026-09-18T21:41:58.044798941Z",
+  "model": "glm-5.3"
+}

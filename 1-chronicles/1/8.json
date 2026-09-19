@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ውላድ ኻም፦ ኩሽ፣ ሚጽራይም፣ ፑት እንትከነዓንን።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ኻም"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ኩሽ፣"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "ሚጽራይም፣"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "ፑት"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "እንትከነዓንን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:27:31.777971942Z",
+  "model": "glm-5.3"
+}

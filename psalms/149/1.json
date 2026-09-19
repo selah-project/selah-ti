@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 149,
+  "translation": "ንያህ ስብሑ፤ ንያህዌህ ዓዲሽ መዝሙር ዝምርሑ፤ ስብሑታት ኣብ ቍጽሪ ቅዱሳት።",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ስብሑ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ዝምርሑ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ዓዲሽ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ስብሑታት"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ኣብ ቍጽሪ"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "ቅዱሳት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:11.088191566Z",
+  "model": "glm-5.3"
+}

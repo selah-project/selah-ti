@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ያህዌህ ምስ ሞሸን ምስ ኣሃሮንን ተዛረበ ኢሉ፦",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ከምኡ'ውን ናብ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:57:39.183537383Z",
+  "model": "glm-5.3"
+}

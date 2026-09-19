@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "ምንጭታት ኣብ ገደላት ዝሰድሕ፣ ኣብ መንጎ እተን ከረን ይኸይዳ።",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "ዝሰድሕ"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "ምንጭታት"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "ኣብ ገደላት"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "እተን ከረን"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "ይኸይዳ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:27.952559330Z",
+  "model": "glm-5.3"
+}

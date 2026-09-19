@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ዓዳ ድማ ንዓሳው ⟨את⟩ ኤሊፋዝ ወሊዱ፣ ባስማት ድማ ⟨את⟩ ርዑኤል ወሊዳ።",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ወሊዱ"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ዓዳ"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "ንዓሳው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሊፋዝ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ኤሊፋዝ"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "ባስማት ድማ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ወሊዳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ርዑኤል"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ርዑኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T20:56:48.198543123Z",
+  "model": "glm-5.3"
+}

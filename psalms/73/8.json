@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 73,
+  "translation": "ይስሓቡ፤ ንውግእ ብክኣል ይዛረቡ፤ ካብ ላዕሊ ድማ ይዛረቡ።",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "ይስሓቡ"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ይዛረቡ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ብክኣል"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ውግእ"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ካብ ላዕሊ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ይዛረቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:24.938915982Z",
+  "model": "glm-5.3"
+}

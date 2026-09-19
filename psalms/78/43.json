@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ብሚጽራይም ተኣማንታቱ እንተ ዝገበረ፣ ተጠንቀቓቱ ድማ ኣብ ዓዲ ጾዓን።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "እንተ ዝ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ብሚጽራይም"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "ተኣማንታቱ"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "ተጠንቀቓቱ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ኣብ ዓዲ"
+    },
+    {
+      "surface": "צען",
+      "gloss": "ጾዓን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:25.801799Z",
+  "model": "glm-5.3"
+}

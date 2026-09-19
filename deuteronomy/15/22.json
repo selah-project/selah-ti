@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 15:22",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ኣብ ኣፍራጋትካ ክትበልዎ፤ እቲ ረኺብ ከምኡውን እቲ ጽዱቕ ኣብ ሓደ ልምዲ ከም ዘበገን ከምኡውን ከም ኣይል ክብሉ።",
+  "tokens": [
+    {
+      "surface": "בשעריך",
+      "gloss": "ኣብ ኣፍራጋትካ"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ክትበልዎ"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "እቲ ረኺብ"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "ከምኡውን እቲ ጽዱቕ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ኣብ ሓደ ልምዲ"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "ከም ዘበገን"
+    },
+    {
+      "surface": "וכאיל",
+      "gloss": "ከምኡውን ከም ኣይል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:55:32.773228051Z",
+  "model": "glm-5.3"
+}

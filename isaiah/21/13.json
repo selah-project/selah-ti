@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 21:13",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ክብሪ ንዓርብ፦ ኣብ ጫካት ኣብ ዓርብ ኩላትኩም ተረፍታት፣ ኣብ መገዲታት ደዳናይቲ።",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ንዓርብ"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "ኣብ ጫካት"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ኣብ ዓርብ"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "ተረፍታት"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "መገዲታት"
+    },
+    {
+      "surface": "דדנים",
+      "gloss": "ደዳናይቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:52:26.135779732Z",
+  "model": "glm-5.3"
+}

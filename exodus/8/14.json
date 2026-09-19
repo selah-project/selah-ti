@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እቶም ሓራሚት ድማ ብተስታኦም ከምዚ ገበሩ ንምውፅእ ⟨את⟩ ቕንዩ፣ ኣይከእሉን፤ ቕንዩ ኸኣ ኣብ ሰብን ኣብ እንስሳን ኮነ።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "ሓራሚት"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "ብተስታኦም"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ንምውፅእ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቕንዩ"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "ቕንዩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ከእሉን"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "ቕንዩ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ኣብ ሰብ"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ኣብ እንስሳ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:18:42.516431674Z",
+  "model": "glm-5.3"
+}

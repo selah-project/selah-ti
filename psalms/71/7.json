@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 71,
+  "translation": "ንብዙሓት ከም ግሩም ምልክቲ ኮይና፣ ንስኻ ግን ሓለዋትን ኩልናትን ኢኻ።",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "ከም ግሩም ምልክቲ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ኮይና"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "ንብዙሓት"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ግን"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ሓለዋትን"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ኩልናትን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:30.309849923Z",
+  "model": "glm-5.3"
+}

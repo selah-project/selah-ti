@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "የሆሹዋዕ ወዲ ኑን፣ ኣገልጋሊ ያህዌህ፣ ሞተ፤ ወዲ ሽሞሕ ዓመትን ዓሰርተን እዩ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "ኑን"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ኣገልጋሊ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ሽሞሕ"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:32:58.279082223Z",
+  "model": "glm-5.3"
+}

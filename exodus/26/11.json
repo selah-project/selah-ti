@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ሃምሳ ማሕመዛት ናስ ትገብር፣ እቶም ማሕመዛት ⟨את⟩ ኣብቲ ቅልቀታት ትኣቱ፣ እቲ ዓዲና ⟨את⟩ ትሰርሕ፣ ሓደ ክኸውን እዩ።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "ማሕመዛት"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ናስ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ሃምሳ"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "ትኣቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ማሕመዛት"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "እቶም ማሕመዛት"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "ኣብቲ ቅልቀታት"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "ትሰርሕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ዓዲና"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "እቲ ዓዲና"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ክኸውን እዩ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:31:52.906707553Z",
+  "model": "glm-5.3"
+}

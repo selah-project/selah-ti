@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ዝተቐጸሎም ንኩነታት ስምዖን ዘጠነን ሸሞንተን ሺሕን ሰለስተ መቶን እዮም።",
+  "tokens": [
+    {
+      "surface": "פקודיהם",
+      "gloss": "ዝተቐጸሎም"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ንኩነታት"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ስምዖን"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ዘጠነ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ሸሞንተ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺሕ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:11:01.770131039Z",
+  "model": "glm-5.3"
+}

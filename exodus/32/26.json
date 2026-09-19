@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 32:26",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ሞሸ ድማ ኣብ ኣፍደገ እቲ መርከብ ተቐመጠ፣ «መን ንያህዌህ እዩ? ናባይ ይመልስ!» በለ፤ ኩሉ ውላድ ሌዊ ድማ ናባኡ ተኣከቡ።",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ኣብ ኣፍደገ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "እቲ መርከብ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ናባይ"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ተኣከቡ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ናባኡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ሌዊ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:40:36.300455805Z",
+  "model": "glm-5.3"
+}

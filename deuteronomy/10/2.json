@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣነ ድማ ኣብቶም ጽላታት ⟨את⟩ እቶም ቃላት እቶም ኣብቶም ቀዳማይ ጽላታት ዝነበሩ እቶም ዝሰበርካዮም እነጽሕፍ፣ ንስኻ ድማ ኣብ ታቦት ክትሓብኦም።",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "እነጽሕፍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ማዕረ"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "ጽላታት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ቃላት"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "እቶም ቃላት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ዝነበሩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ማዕረ"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "ጽላታት"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ቀዳማይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝ"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ዝሰበርካዮም"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ክትሓብኦም"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "ኣብ ታቦት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:53:33.815824432Z",
+  "model": "glm-5.3"
+}

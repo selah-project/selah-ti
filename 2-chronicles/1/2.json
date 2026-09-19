@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 1:2",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ሽሎሞ ድማ ንዅሉ እስራኤል ተዛረበ — ንሰራቲ እቶም ሺሕታትን ምዕታትን፣ ንዳኒታትን፣ ንዅሉ ነጋዲ ኩሉ እስራኤል፣ ርእሲ ኣቦታትን።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንዅሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "ንሰራቲ"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "እቶም ሺሕታት"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "ከምኡውን ምዕታት"
+    },
+    {
+      "surface": "ולשפטים",
+      "gloss": "ከምኡውን ንዳኒታት"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ከምኡውን ንዅሉ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ነጋዲ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንዅሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ኣቦታት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:53:25.816173653Z",
+  "model": "glm-5.3"
+}

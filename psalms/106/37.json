@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ድማ ⟨את⟩ ወደታቶምን ⟨ואת⟩ ጓልታቶምን ንሻዳይም መስዋኽቲ በዓሉ።",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "መስዋኽቲ በዓሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወደታቶም"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ወደታቶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ጓልታቶም"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ጓልታቶም"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "ንሻዳይም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:07.398050857Z",
+  "model": "glm-5.3"
+}

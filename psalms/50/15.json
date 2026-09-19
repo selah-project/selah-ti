@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ኣብ መዓልቲ ጸገም ጸውዓኒ፣ ኣድሕነካ፣ ኣኽብረኒ ድማ ኢኻ።",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "ጸውዓኒ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ጸገም"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "ኣድሕነካ"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "ኣኽብረኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:00:30.124163179Z",
+  "model": "glm-5.3"
+}

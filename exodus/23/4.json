@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "እንተ ተራኸብካ ከይቲ ናይ መንእለፊኻ በጋዕ ወይ ባርያ ሓዲጉ፣ ንእሱ ናብኡ ክትመልሶ ኣለካ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "ተራኸብካ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "በጋዕ"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "ናይ መንእለፊኻ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "ባርያ ናይኡ"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "ሓዲጉ"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ክትመልሶ"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "ትመልሶ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ናብኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:28:35.083526276Z",
+  "model": "glm-5.3"
+}

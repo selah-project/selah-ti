@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ኣብ ዕለታት እቶም ፍልስጤማውያን ⟨את⟩ እስራኤል ዕስራ ዓመታት ዓጀደ።",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ዓጀደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ኣብ ዕለታት"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "እቶም ፍልስጤማውያን"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዕስራ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:49:01.285012688Z",
+  "model": "glm-5.3"
+}

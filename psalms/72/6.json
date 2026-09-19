@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 72,
+  "translation": "ከም ዝናር ኣብ ላዕሊ ተሰሪዑ ሣር ይወርድ፣ ከም ውርጭቲ ምድሪ ዝጥሕና።",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "ይወርድ"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "ከም ዝናር"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "גז",
+      "gloss": "ተሰሪዑ ሣር"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "ከም ውርጭቲ"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "ዝጥሕና"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:38.438712812Z",
+  "model": "glm-5.3"
+}

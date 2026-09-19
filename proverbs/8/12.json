@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 8:12",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣነ ጥበብ ምስ ብልሃት እስኪት፣ ዕልመት ኪነታት ከኣ እረኽባ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "እስኪት"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "ብልሃት"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ዕልመት"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "ኪነታት"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "እረኽባ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:44:08.705636026Z",
+  "model": "glm-5.3"
+}

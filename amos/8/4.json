@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 8:4",
+  "book": "amos",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እዚ ስምዑ፣ ንድኻ ዝነጥፉ፣ ነቶም ድኹርቲ ምድሪ ንምውጋእ እዮም።",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ስምዑ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "השאפים",
+      "gloss": "ዝነጥፉ"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ድኻ"
+    },
+    {
+      "surface": "ולשבית",
+      "gloss": "ንምውጋእ"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "ድኹርቲ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:16:47.556341373Z",
+  "model": "glm-5.3"
+}

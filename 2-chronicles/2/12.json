@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 2:12",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሕጂ ድማ ሰብ ጥበብታም ምርዳእ ዚፈልጥ ናብ ሓውራም ኣቦኻ ለኣኽኩ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ለኣኽኩ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ጥበብታም"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ዚፈልጥ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ምርዳእ"
+    },
+    {
+      "surface": "לחורם",
+      "gloss": "ናብ ሓውራም"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:55:53.939560008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ንሱስ ሰላም ምስ ኻ ኣይገብርን እንተ ኮነት ግን፣ ምስ ኻ ውድቀት ምስ ገበረት፣ ትከታኣታ እያ።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እንተ ግን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይገብርን"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስ ኻ"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "ምስ ገበረት"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስ ኻ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ውድቀት"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ትከታኣታ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ኣብዛ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:59:46.511973854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 5:11",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኤፍራይም ተዓቐ፣ ኣብ ፍዳ ተረጒጸ፤ ምኽንያቱ ናብ ድሕሪ ትእዛዝ ክከድ ሓሲቡ እዩ።",
+  "tokens": [
+    {
+      "surface": "עשוק",
+      "gloss": "ተዓቐ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "ተረጒጸ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ኣብ ፍዳ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "ሓሲቡ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ናብ ድሕሪ"
+    },
+    {
+      "surface": "צו",
+      "gloss": "ትእዛዝ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:05:40.120190442Z",
+  "model": "glm-5.3"
+}

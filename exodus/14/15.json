@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ያህዌህ ድማ ንሞሸ በሎ፦ ስለ እንታይ ተዛረበኒ፧ ነቲ ውላድ እስራኤል ተዛረብ፣ ንሳቶም ድማ ክብገሑ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ስለ እንታይ"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ናባይ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "ክብገሑ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:21:34.421698092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 27:5",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ኣብኡ ንያህዌህ ኤሎሂምካ መሠዊኽ ትሃንጽእ፣ መሠዊኽ ናይ ድኻም፤ ብረት ኣይትቐርኦምን።",
+  "tokens": [
+    {
+      "surface": "ובנית",
+      "gloss": "ትሃንጽእ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊኽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊኽ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ናይ ድኻም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "ኣይትቐርኦምን"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ኣብ ልዕሊኦም"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ብረት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:05:27.814922498Z",
+  "model": "glm-5.3"
+}

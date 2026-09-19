@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 15:7",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ንዅሉ እቲ ኣብ ስጋ እቲ ዝፈስስ ዝተታኽእ ሰብ ንልቡሳቱ ይሕጾምን ብማይ ድማ ተቐጥቕጡን ክሳብ ምሸት ኣይቕድሕን።",
+  "tokens": [
+    {
+      "surface": "והנגע",
+      "gloss": "እቲ ዝተታኽእ"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "ኣብ ስጋ"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "እቲ ዝፈስስ"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ይሕጾም"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ንልቡሳቱ"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ተቐጥቕጡ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ብማይ"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ኣይቕድሕን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ምሸት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:59:28.032250449Z",
+  "model": "glm-5.3"
+}

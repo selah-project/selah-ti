@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "እዚውን ⟨እዩ⟩ እቲ ወፈያ እትወስዱዎ ካብ ⟨את⟩ ንሳቶም፦ ወርቂን ብርን ናሕስን።",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "እዚውን"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "እቲ ወፈያ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እትወስዱዎ"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ትወስዱ"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "ካብ ⟨את⟩ ንሳቶም",
+      "marks": "ንሳቶም"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ብርን"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ናሕስን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:32:01.234664859Z",
+  "model": "glm-5.3"
+}

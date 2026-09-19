@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 8:13",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ብርይዕን ሽምዕን ድማ — እዚኦም ርእሲ ኣቦታት ንወለድቲ ኣይያሎን እዮም፤ እዚኦም ወለድቲ ጋት ⟨את⟩ ኣሸሕዎም።",
+  "tokens": [
+    {
+      "surface": "וברעה",
+      "gloss": "ብርይዕን"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ሽምዕን"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ኣቦታት"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "ንወለድቲ"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "ኣይያሎን"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "הבריחו",
+      "gloss": "ኣሸሕዎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወለድቲ ጋት"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ወለድቲ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ጋት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:35:32.293567998Z",
+  "model": "glm-5.3"
+}

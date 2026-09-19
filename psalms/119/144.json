@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 144,
+  "ref": "psalms 119:144",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ጽድቅቲ እተኞትካ ናብ ዘለኣለም እየን፤ ኣስረዲነኒ ከም እነብር።",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቅቲ"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "እተኞትካ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "ኣስረዲነኒ"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "እነብር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:48.532958646Z",
+  "model": "glm-5.3"
+}

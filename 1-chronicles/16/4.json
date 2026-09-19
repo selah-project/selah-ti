@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 16:4",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ኣብ ቅድሚ ኣርታን ያህዌህ ካብ ሌዋውያን ኣገልጋልቲ ሃበ፣ ንያህዌህ ኤሎሂም እስራኤል ንምዝኽካር፣ ንምውዳስን ንምዝምርን።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ኣርታን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "እቶም ሌዋውያን"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "ኣገልጋልቲ"
+    },
+    {
+      "surface": "ולהזכיר",
+      "gloss": "ንምዝኽካር"
+    },
+    {
+      "surface": "ולהודות",
+      "gloss": "ንምውዳስ"
+    },
+    {
+      "surface": "ולהלל",
+      "gloss": "ንምዝምር"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T07:42:30.681088291Z",
+  "model": "glm-5.3"
+}

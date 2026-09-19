@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 102,
+  "translation": "ንስኻ ግን ንስኻ'ዩ፣ ዓመታትካ ከኣ ኣይዛዘምን።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ግን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንስኻ'ዩ"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "ዓመታትካ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "ይዛዘምን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:21.346766411Z",
+  "model": "glm-5.3"
+}

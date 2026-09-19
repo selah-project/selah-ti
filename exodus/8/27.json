@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 8:27",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ያህዌህ ድማ ከም ቃል ሞሸ ገበረ፣ ዑቕባት ካብ ፓርዖ፣ ካብ ኣገልጋሉን ካብ ህዝቡን ኣሓወኾም፤ ሓደ እውን ኣይተረፈን።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ ድማ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ከም ቃል"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ኣሓወኾም ድማ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ዑቕባት"
+    },
+    {
+      "surface": "מפרעה",
+      "gloss": "ካብ ፓርዖ"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "ካብ ኣገልጋሉ"
+    },
+    {
+      "surface": "ומעמו",
+      "gloss": "ካብ ህዝቡን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "ኣይተረፈ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:17:30.992214498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 66,
+  "translation": "ክብሪ ናይ ስሙ ዘምርዎ፤ ክብሪ ንምስጓሕኡ ኣቐምጡ።",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ዘምርዎ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ናይ ስሙ"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "ኣቐምጡ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ንምስጓሕኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:59.380188769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ድኻኣትይን ሕማቕነትይን ርኣየ፤ ንኹሉ ኃጢኣታትይ ይቕረበለይ።",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ርኣየ"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ድኻኣትይ"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "ሕማቕነትይ"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "ይቕረ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "ኃጢኣታትይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:19.800033905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 135,
+  "translation": "እንተእዝኖም ኣለዎም፣ ኣይሰምዑን፤ እኳ ኣብ ኣፋቶም ትንፋስ የለን።",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "እንተእዝኖም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ኣለዎም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "ሰምዑ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እኳ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨ዘሎ⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ትንፋስ"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ኣብ ኣፋቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:14.734443345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣራም ኣብ ፊቲ እስራኤል ምስ ተሳዕሩ ረኣየ ድማ ኣብ ሓደ ተኣኻኸሩ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ ድማ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ን"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "ተሳዕሩ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ፊቲ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ተኣኻኸሩ ድማ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ኣብ ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:28:36.473948357Z",
+  "model": "glm-5.3"
+}

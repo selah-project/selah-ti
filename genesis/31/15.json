@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ንንሱ ከም ኣጀንቲ ኣይተቐመጥናን እዩ? ስለ ዝኣነና እዩ፤ ነቲ ገንዘብና ⟨את⟩ በሊዑ እውን ኣይኮነን።",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ኣይ...ን"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "ኣጀንቲ"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "ተቐመጥና"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንንሱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ ዝ"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "ኣነና"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "በለዓ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "በሊዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገንዘብና"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "ገንዘብና"
+    }
+  ],
+  "timestamp": "2026-09-18T20:55:08.862967254Z",
+  "model": "glm-5.3"
+}

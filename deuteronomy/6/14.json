@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኣይኸዱን ኣብ ድሕሪ ካልኦት ኣማልክቲ፣ ካብ ኣማልክቲ እቶም ህዝቢታት እቶም ዝሓብኡኩም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "ኣትንከሱ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ኣብ ድሕሪ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኣማልክቲ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ካልኦት"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "ካብ ኣማልክቲ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "እቶም ህዝቢታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝ"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "ዝሓብኡኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:48:21.211018879Z",
+  "model": "glm-5.3"
+}

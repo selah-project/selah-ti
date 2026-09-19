@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ሓሤት ኣብ ልበይ ሃቢኻ፣ ካብ እዋን እቲ እኽልኦምን ጠርሙሶምን ኣብ ዝበዝሕሉ ዝያዳ።",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "ሃቢኻ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ሓሤት"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "ኣብ ልበይ"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "ካብ እዋን"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "እኽልኦም"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "ጠርሙሶምን"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ኣብ ዝበዝሕሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:48.281045721Z",
+  "model": "glm-5.3"
+}

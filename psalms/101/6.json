@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 101,
+  "translation": "ኣይንተይ ኣብ እቶም ኣምኒቲ ምድሪ እያ፣ ምስ እተይ ኬብልዑ፤ ኣብ መገዲ ጽድቂ ዝኽደም ንሱ ኬገልገለኒ እዩ።",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ኣይንተይ"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "ኣምኒቲ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ኬብልዑ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ምስ እተይ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ዝኽደም"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መገዲ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "ኬገልገለኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:22:37.127499192Z",
+  "model": "glm-5.3"
+}

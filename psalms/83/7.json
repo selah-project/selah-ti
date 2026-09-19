@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 83,
+  "translation": "ድኳላት ኤዶምን ይስማኤላውያንን፣ ሞኣብን ሓገራውያንን።",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "ድኳላት"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶምን"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "ይስማኤላውያንን"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብን"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "ሓገራውያንን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:20.667703712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ኣብ ቅዱስ ስሙ ተመሃሩ፣ ልቢ ዝደለዩ ያህዌህ ደስ ይብሎም።",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "ተመሃሩ ተባርኩ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ኣብ ስም"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስ ናይ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ደስ ይብሉ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ ናይ"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ዝደለዩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:42.953032626Z",
+  "model": "glm-5.3"
+}

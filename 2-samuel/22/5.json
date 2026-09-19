@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 22:5",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ምኽንያቱ ማዕበላት ሞት በጹኑኒ፤ ሩቓታት በልያል ድማ ረብሓኒ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אפפני",
+      "gloss": "በጹኑኒ"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "ማዕበላት"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "ሩቓታት"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "በልያል"
+    },
+    {
+      "surface": "יבעתני",
+      "gloss": "ረብሓኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:39:38.930349503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 86,
+  "translation": "ነፍሲ ኣገልጋይካ ኣፈርሕ፣ ምኽንያቱ ንኣኻ ኣዶናይ ነፍሰይ እወጥእ።",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "ኣፈርሕ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልጋይካ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ንኣኻ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "እወጥእ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:48.896628391Z",
+  "model": "glm-5.3"
+}

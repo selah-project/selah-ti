@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 6:2",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኢድ ምድያን ንይስራኤል ኣዝዓራፈቶ፤ ስለ ምድያን ደቂ ይስራኤል ንዓቕቦም ⟨את⟩ እቶም ኣብ ኩራታት ዘለዉ ማሕፈርቲን ⟨את⟩ በራሕቲን ⟨את⟩ ጽንበራትን ገበሩ።",
+  "tokens": [
+    {
+      "surface": "ותעז",
+      "gloss": "ኣዝዓራፈቶ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ምድያን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ምድያን"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንዓቕቦም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ደቂ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ማሕፈርቲ"
+    },
+    {
+      "surface": "המנהרות",
+      "gloss": "ማሕፈርቲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዘለዉ"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "ኣብ ኩራታት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "በራሕቲ"
+    },
+    {
+      "surface": "המערות",
+      "gloss": "በራሕቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጽንበራት"
+    },
+    {
+      "surface": "המצדות",
+      "gloss": "ጽንበራት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:39:53.078541797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 48:13",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "ሞኣብ ካብ ከሞሽ ክኣፈር እዩ፣ ከምቲ ቤት እስራኤል ካብ ቤት ኤል ኣፍርቲ እሞ — እቲ ኣረጋግጻቶም ዝነበረ።",
+  "tokens": [
+    {
+      "surface": "ובש",
+      "gloss": "ክኣፈር"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    },
+    {
+      "surface": "מכמוש",
+      "gloss": "ከሞሽ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "ኣፍርቲ እሞ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ቤት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "מבטחם",
+      "gloss": "ኣረጋግጻቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:55:46.600330438Z",
+  "model": "glm-5.3"
+}

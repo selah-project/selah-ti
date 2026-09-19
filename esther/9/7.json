@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ንፓርሻንዳታ ⟨את⟩ ንዳልፎን ⟨את⟩ ንኣስፓታ ከኣ ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ፓርሻንዳታ"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "ንፓርሻንዳታ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዳልፎን"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "ንዳልፎን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣስፓታ"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "ንኣስፓታ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:48:55.427429800Z",
+  "model": "glm-5.3"
+}

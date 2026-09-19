@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ጽድቂ ኣብ ብዙሕ ጉባኤ በስርኩ፤ ኣሎ፣ ከንፍተይ ኣይገብእን ኣጸዓንኩ፤ ያህዌህ፣ ንስኻ እትፈልጥ ኢኻ።",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "በስርኩ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ኣብ ጉባኤ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ከንፍተይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "ገብእን ኣጸዓንኩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "እትፈልጥ ኢኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:47.470306300Z",
+  "model": "glm-5.3"
+}

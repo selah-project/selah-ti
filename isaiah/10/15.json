@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 10:15",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "እቲ ሓምሻ ኣብ እቲ ዝቖረቦ ይመሃር ድዮ፣ እቲ ሰውራ ኣብ እቲ ዝሓውዮ ይዓብይ ድዮ? ከም እቲ ዕንፊ ነቲ ⟨את⟩ ዝቕንዑ ኮይኑ ከም ዝዘውር፣ ከም እቲ ቐጽላ ነቲ ዘይኮነ ዕጽሒ ከም ዝቕንዕ።",
+  "tokens": [
+    {
+      "surface": "היתפאר",
+      "gloss": "ይመሃር ድዮ"
+    },
+    {
+      "surface": "הגרזן",
+      "gloss": "እቲ ሓምሻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "החצב",
+      "gloss": "እቲ ዝቖረቦ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ብኡ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ድዮ"
+    },
+    {
+      "surface": "יתגדל",
+      "gloss": "ይዓብይ"
+    },
+    {
+      "surface": "המשור",
+      "gloss": "እቲ ሰውራ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "מניפו",
+      "gloss": "እቲ ዝሓውዮ"
+    },
+    {
+      "surface": "כהניף",
+      "gloss": "ከም ዝዘውር"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "እቲ ዕንፊ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ዝቕንዑ"
+    },
+    {
+      "surface": "מרימיו",
+      "gloss": "ነቲ ዝቕንዑ"
+    },
+    {
+      "surface": "כהרים",
+      "gloss": "ከም ዝቕንዕ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "እቲ ቐጽላ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይኮነ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ዕጽሒ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:47:34.480610421Z",
+  "model": "glm-5.3"
+}

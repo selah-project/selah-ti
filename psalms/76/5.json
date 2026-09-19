@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 76,
+  "translation": "ንስኻ ብብርሃን ተወጺዕካ፣ ካብ ኩዕሳት ቅበዓ ድማ ብዙሕ ተበልጻኻ ኣለኻ።",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "ብብርሃን ተወጺዕካ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ብዙሕ ተበልጻኻ"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "ካብ ኩዕሳት"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ቅበዓ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:24.679798469Z",
+  "model": "glm-5.3"
+}

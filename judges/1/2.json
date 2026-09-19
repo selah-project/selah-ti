@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ያህዌህ ድማ በለ፦ ይሁዳ ይወጽእ፤ ረኣይ፣ እታ ⟨את⟩ ምድሪ ኣብ ኢዱ ሃብኩ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ይወጽእ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ረኣይ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ሃብኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ምድሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ኣብ ኢዱ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:34:05.119958864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 148,
+  "ref": "psalms 119:148",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "እዙዓተይ ክፋላት ለይቲ ቐድሙ፤ ብቃልካ ንምሃሳብ እየን።",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "ቐድሙ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "እዙዓተይ"
+    },
+    {
+      "surface": "אשמרות",
+      "gloss": "ክፋላት ለይቲ"
+    },
+    {
+      "surface": "לשיח",
+      "gloss": "ንምሃሳብ"
+    },
+    {
+      "surface": "באמרתך",
+      "gloss": "ብቃልካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:17.925712073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ከምኡውን ስንዲ ትወስድ ነራ፣ ካላታ ⟨את⟩ ክልተ ዓሰርተ ክልተ ሕጋጊ ትጥብስ፤ ንሓደ ሕጋጊ ክልተ ኣሰርንቲ ክኸውን እዩ።",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ትወስድ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ስንዲ"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "ትጥብስ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ክልተ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "ሕጋጊ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ኣሰርንቲ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክኸውን"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "ንሓደ ሕጋጊ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:05:48.090974866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 24:16",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ኣብ ጸልማት ቤታት ይበርሽ፣ ኣብ መዓልቲ ድማ ንኣቶም ይተቐርቡ፣ ብስታዊ ኣይፈልጡን።",
+  "tokens": [
+    {
+      "surface": "חתר",
+      "gloss": "ይበርሽ"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ኣብ ጸልማት"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ቤታት"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "חתמו",
+      "gloss": "ይተቐርቡ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ንኣቶም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ይፈልጡ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብስታዊ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:17:05.050904626Z",
+  "model": "glm-5.3"
+}

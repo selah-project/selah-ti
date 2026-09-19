@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ያህዌህ ድማ ንእቲ ሓባይ እናበለ፦ «እንሆ ንሱ ኣብ ኢድካ ኣሎ፤ ⟨את⟩ ነፍሱ ጥራይ ተኸባኽብ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "እቲ ሓባይ"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "እንሆ ንሱ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ኣብ ኢድካ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሱ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ተኸባኽብ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:02:51.385645637Z",
+  "model": "glm-5.3"
+}

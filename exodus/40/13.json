@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ንኣሃራን ኣልባሳት ናይ ቅዱስ ትለብሶ፣ ⟨את⟩ ትቐብኖ ድማ፣ ⟨את⟩ ትቐድሶ፣ ንኣነ ካህን ኮይኑ ድማ ይገልገል።",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "ትለብሶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሃራን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃራን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣልባሳት"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ኣልባሳት"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ናይ ቅዱስ"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ትቐብኖ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሃራን"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ትቐድሶ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሃራን"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "ካህን ኮይኑ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:46:14.634666027Z",
+  "model": "glm-5.3"
+}

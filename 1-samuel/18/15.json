@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ሻኡል ድማ ዳዊድ ብጣዕሚ ጥቕምቲ ከም ዝኾነ ረኣየ፤ ካብ ውሽጡ ድማ ደለቐ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ጥቕምቲ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "ደለቐ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ካብ ውሽጡ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:09:00.432300858Z",
+  "model": "glm-5.3"
+}

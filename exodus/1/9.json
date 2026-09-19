@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ንሱ ድማ ናብ ሕዝቢኡ ተዛረበ፦ እንሆ ሕዝቢ ውላድ ያዕቆቭ ብዙሕን ካብና ዓቕምታምን እዩ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቢኡ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "ዓቕምታምን"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብና"
+    }
+  ],
+  "timestamp": "2026-09-18T21:10:01.760453871Z",
+  "model": "glm-5.3"
+}

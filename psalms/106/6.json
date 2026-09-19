@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ኣበይና ምስ ኣቦትና፣ በደል ኸውንና፣ ክፉእ ኸውንና።",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "ኣበይና"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ኣቦትና"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "በደል ኸውንና"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "ክፉእ ኸውንና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:57.108968539Z",
+  "model": "glm-5.3"
+}

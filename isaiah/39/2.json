@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 39:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ሕዝቕያሁ ብደስታ ተቓቐሖም፤ ⟨את⟩ ቤት ንኽብርታት ኣርኣዮም — ⟨את⟩ ብር፣ ⟨את⟩ ወርቂ፣ ⟨את⟩ ሽቱ፣ ⟨את⟩ በርክቲ ዘተ፣ ⟨את⟩ ኩሉ ቤት መሳቐቱ፣ ⟨את⟩ ኩሉ ኣብ ቤት መዝገቡ ዝተረከበ። ኣብ ቤቱን ኣብ ምሉእ መንግስኡን ሕዝቕያሁ ዝኸልአሎም ዘይተረከበ ነገር የለን።",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "ተቓቐሖም"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ብደስታ ስለኦም"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ሕዝቕያሁ"
+    },
+    {
+      "surface": "ויראם",
+      "gloss": "ኣርኣዮም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት ንኽብርታት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "ንኽብርታት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብር"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወርቂ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሽቱ"
+    },
+    {
+      "surface": "הבשמים",
+      "gloss": "ሽቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "በርክቲ ዘተ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ዘተ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "በርክቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ቤት መሳቐቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "መሳቐቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ዝተረከበ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ዝተረከበ"
+    },
+    {
+      "surface": "באצרתיו",
+      "gloss": "ኣብ ቤት መዝገቡ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "ዝኸልአሎም"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ሕዝቕያሁ"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ኣብ ቤቱ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ኣብ ምሉእ"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "መንግስኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:08:08.223830292Z",
+  "model": "glm-5.3"
+}

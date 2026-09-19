@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 56,
+  "translation": "ንመቆጻጸሪ፣ ኣብዚ ኩሉ-ቃላት ዝተሓጸበት ርብሒ ሩቓት፣ ናይ ዳዊድ ሚኽታም፣ ምስ ዓወብዎ ፍልስጢም ⟨אתו⟩ ኣብ ጋት።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንመቆጻጸሪ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብዚ"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "ርብሒ"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ኩሉ-ቃላት ዝተሓጸበት"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "ሩቓት"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ሚኽታም"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "ምስ ዓወብዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ፍልስጢም"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጢም"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "ኣብ ጋት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:08.130627071Z",
+  "model": "glm-5.3"
+}

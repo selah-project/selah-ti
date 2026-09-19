@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 93,
+  "translation": "ያህዌህ ነገሠ፤ ምሉእ ስብሓት ለበሰ፤ ያህዌህ ኃይሊ ለበሶ ተታበዘ፤ ዓለም እውን ተረጊመት፣ ፈጺሞ ኣይትዘልውን።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ምሉእ ስብሓት"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "ለበሰ"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "ለበሶ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ኃይሊ"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "ተታበዘ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ተረጊመት"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ዓለም"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ፈጺሞ"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ኣይትዘልውን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:34.127856810Z",
+  "model": "glm-5.3"
+}

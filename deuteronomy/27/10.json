@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ንድምጺ ያህዌህ ኤሎሂምካ ትሰምዕን፣ ብዛዕባኡውን ⟨את⟩ ትእዛዛቱን ⟨ואת⟩ ሕግታቱን እታ ሎሚ ኣዘዝካዮም ትገብርን።",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ትሰምዕን"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ንድምጺ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ትገብርን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዛቱ"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "ትእዛዛቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ሕግታቱ"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ሕግታቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ኣዘዝካዮም"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:04:34.712907988Z",
+  "model": "glm-5.3"
+}

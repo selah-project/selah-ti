@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 102,
+  "translation": "ሕዝብታት ሓባር ምስ ዝተኣከቡ፣ መንግስታትን ንምግብር ⟨את⟩ ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "ምስ ዝተኣከቡ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝብታት"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ሓባር"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "መንግስታትን"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ንምግብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:54.416191881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 77,
+  "translation": "ድምጔ ናብ ኤሎሂም እተቐጽሐ፤ ድምጔ ናብ ኤሎሂም፣ ንኣነ ሰምዐኒ።",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ድምጔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "እተቐጽሐ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ድምጔ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "ሰምዐኒ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንኣነ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:35.428962854Z",
+  "model": "glm-5.3"
+}

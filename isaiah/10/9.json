@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ከም ካርከሚሽ ኮይና ካልኖ ኣይኮነትን? ከም ኣርፓድ ኮይና ሕማት ኣይኮነትን? ከም ዳማስቆ ኮይና ሾሜሮን ኣይኮነትን?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ኣይኮነትን"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "ከም ካርከሚሽ"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "ካልኖ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ድዩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነትን"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "ከም ኣርፓድ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ሕማት"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ድዩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነትን"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "ከም ዳማስቆ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ሾሜሮን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:47:44.398222179Z",
+  "model": "glm-5.3"
+}

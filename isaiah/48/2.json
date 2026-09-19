@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 48:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "ምኽንያቱ ካብ ከተማ ቅዱስቲ ተባሃዩ፡ ንኤሎሂም እስራኤል ድማ ተደገፉ፡ ያህዌህ ጸባኦት ⟨እዩ⟩ ስሙ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ካብ ከተማ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ቅዱስቲ"
+    },
+    {
+      "surface": "נקראו",
+      "gloss": "ተባሃዩ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "נסמכו",
+      "gloss": "ተደገፉ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:12:59.558800204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ሽኬም ወዲ ሕሞር እቲ ሕዊ፣ ሹም እቲ ምድሪ፣ ዲና ረኣየ፣ ⟨את⟩ ኣዊ ወሰደ፣ ⟨את⟩ ኣዊ ኣዳረዋ፣ ⟨את⟩ ኣዊ ኣሕፈረዋ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ዲና"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ሽኬም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ሕሞር"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "እቲ ሕዊ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ሹም"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እቲ ምድሪ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ኣዊ"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "ኣዳረዋ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ኣዊ"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "ኣሕፈረዋ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:25:57.060009765Z",
+  "model": "glm-5.3"
+}

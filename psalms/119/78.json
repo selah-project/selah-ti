@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኣሕቃቶም ይሕፉሩ፣ ምኽንያቻኦም ብውልቂ ተበደሕዉኒ፤ ኣነ ድማ ኣብ ትእዛዛትካ እንጋብር እየ።",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ይሕፉሩ"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ኣሕቃቶም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቻኦም"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ብውልቂ"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "ተበደሕዉኒ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "እንጋብር እየ"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "ኣብ ትእዛዛትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:51.202861636Z",
+  "model": "glm-5.3"
+}

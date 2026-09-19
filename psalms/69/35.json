@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "ሰማያትን ምድርን ይውድሕዎ፤ ባሕራትን ኩሉ ዝንቀሳቐስ ኣብኦም ነገርን።",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "ይውድሕዎ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ባሕራት"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ…ን"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ዝንቀሳቐስ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ኣብኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:38.222036402Z",
+  "model": "glm-5.3"
+}

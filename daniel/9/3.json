@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣነ ድማ ⟨את⟩ ገጽይ ናብ ኣዶናይ ኤሎሂም ኣእቲኹ፣ ጸሎትን ኣኽባርን ብምባል፣ ብጾምን ብሰንሰንትን ብኣፍርስን ንምልሳእ ነበይ።",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ኣእቲኹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገጽይ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ንምልሳእ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ጸሎት"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "ኣኽባር"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "ብጾም"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "ሰንሰንት"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "ኣፍርስ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:59:57.847385781Z",
+  "model": "glm-5.3"
+}

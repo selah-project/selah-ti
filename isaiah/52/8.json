@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 52,
+  "translation": "ቃል ዘበቡትኪ! ቃል ኣሪሞም፣ ኣብ ሓደ ይዛንኡ፤ ምኽንያቱ ዐይኒ ኣብ ዐይኒ ክረኣዩ፣ ኣብ ምምላስ ያህዌህ ጽሮን።",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "ዘበቡትኪ"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ኣሪሞም"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ኣብ ሓደ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ይዛንኡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ዐይኒ"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ኣብ ዐይኒ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ክረኣዩ"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "ኣብ ምምላስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽሮን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:19:04.208111119Z",
+  "model": "glm-5.3"
+}

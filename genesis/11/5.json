@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ያህዌህ ንኽርእየሉ ነቲ ከተማን ⟨את⟩ ነቲ ግንብን ⟨ואת⟩ ውላደ ሰብ እተይ ዝሃንዱዎ ወረደ።",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ወረደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "ንኽርእየሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ከተማ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ነቲ ከተማ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ግንብ"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "ነቲ ግንብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እተይ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ዝሃንዱዎ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "እቲ ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:37:39.056117949Z",
+  "model": "glm-5.3"
+}

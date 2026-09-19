@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እቲ ንጉስ ድማ፦ «እቲ ሕያው ቆላድ ንክልተ ተኽፈሉ፣ ⟨את⟩ እቲ ፍርቂ ንሓንቲ ሃቡ፣ ⟨את⟩ እቲ ፍርቂ ድማ ንካልኣይቲ ሃቡ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "ተኽፈሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሕያው ቆላድ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ቆላድ"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "ንክልተ"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "ሃቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ፍርቂ"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "ፍርቂ"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ንሓንቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ፍርቂ"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "ፍርቂ"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ንካልኣይቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:49:08.583529172Z",
+  "model": "glm-5.3"
+}

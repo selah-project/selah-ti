@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 24:3",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ያህውያዳዕ ድማ ንዮኣሽ ክልተ ሰበይቲ ኣመልገለሉ፤ ወዲታትን ጓልታትን ድማ ወለደ።",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ኣመልገለ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሱ"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "ያህውያዳዕ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ወዲታት"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ጓልታትን"
+    }
+  ],
+  "timestamp": "2026-09-19T08:09:51.314768199Z",
+  "model": "glm-5.3"
+}

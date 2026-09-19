@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 103,
+  "translation": "ንሞሸ መገዳእታቱ ኣፍሊጡ፣ ንውላድ እስራኤል ድማ ተግባራቱ ኣፍሊጡ።",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "ኣፍሊጡ"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "መገዳእታቱ"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ንሞሸ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ተግባራቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:19.917010086Z",
+  "model": "glm-5.3"
+}

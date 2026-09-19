@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ሞሸ ድማ ንላዊያት ኣንቀሳቓሲ ታቦት ኪዳን ያህዌህ ⟨את⟩ ተዛረቦም ከምዚ በለ፦",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ተዛረቦም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ላዊያት"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ላዊያት"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ኣንቀሳቓሲ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ከምዚ በለ፦"
+    }
+  ],
+  "timestamp": "2026-09-18T23:13:08.223309967Z",
+  "model": "glm-5.3"
+}

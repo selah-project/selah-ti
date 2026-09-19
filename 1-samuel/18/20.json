@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ሚካል ወንሺ ሻኡል ድማ ⟨את⟩ ዳዊድ ፈቲናቶ፤ ንሻኡል ድማ ነገርዎ፡ እቲ ቃል ኸኣ ኣብ ዓይኒኡ ቐንየሉ።",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "ፈቲናቶ"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "ሚካል"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ወንሺ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊድ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "ነገርዎ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ንሻኡል"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ቐንየሉ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ቃል"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ኣብ ዓይኒኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:11:10.836190400Z",
+  "model": "glm-5.3"
+}

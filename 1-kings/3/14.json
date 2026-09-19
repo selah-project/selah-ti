@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እንተ ትኸዶ እሞ ኣብ መገድተይ፣ ንምምላእ ሕግተይን ትእዛዛተይን ከም ዝከደ ዳዊድ ኣቦኻ፣ በዝሓልኩ እየ ⟨את⟩ መዓልታትካ።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ትኸዶ"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ኣብ መገድተይ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ንምምላእ"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "ሕግተይ"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ትእዛዛተይን"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ዝከደ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ኣቦኻ"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "በዝሓልኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መዓልታትካ"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "መዓልታትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:47:49.029544335Z",
+  "model": "glm-5.3"
+}

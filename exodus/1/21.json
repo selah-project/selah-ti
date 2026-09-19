@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኰነ ስለ ዘኽብሩ እተኣን ማያምትቲ ⟨את⟩ ኤሎሂም፣ ንእተን ቤታት ገበረለን።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኰነ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ዘኽብሩ"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "እተኣን ማያምትቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂም"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረለን"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንእተን"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ቤታት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:09:00.816688017Z",
+  "model": "glm-5.3"
+}

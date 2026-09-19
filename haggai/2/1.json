@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "haggai 2:1",
+  "book": "haggai",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣብ ሸውዓተይ ወርሒ፣ ኣብ ዓሰርተ ሓደ ካብ ወርሒ፣ ቃል ያህዌህ ብኢድ ሓጌ ነቢይ ብዝብል መጸ፦",
+  "tokens": [
+    {
+      "surface": "בשביעי",
+      "gloss": "ኣብ ሸውዓተይ"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "ኣብ ዓሰርተ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ካብ ወርሒ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "ሓጌ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነቢይ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:33:26.415026395Z",
+  "model": "glm-5.3"
+}

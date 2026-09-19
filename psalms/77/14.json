@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 77,
+  "translation": "ኤሎሂም፣ ብቅዱስ መገዲኻ፤ ከም ኤሎሂም ዝዓቢ ኤል መን እዩ?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ብቅዱስ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "መገዲኻ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "ከም ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:00.371199179Z",
+  "model": "glm-5.3"
+}

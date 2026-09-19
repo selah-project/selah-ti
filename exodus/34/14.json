@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 34:14",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ስለዚ ንካልእ ኤል ኣይትሰገድን፣ ምኽንያቱ ያህዌህ ቁንኮ ስሚዩ እዩ፣ ኤል ቁንኮ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ትሰገድ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ንኤል"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ካልእ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ቁንኮ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሚዩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ቁንኮ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:39:11.819848028Z",
+  "model": "glm-5.3"
+}

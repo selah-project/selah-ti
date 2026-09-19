@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ንጽራሓት ናይ ማሕደር ድማ ትገብር፤ ዓሰርተ ክልተ ጽራሕ ንኽፍለ-ወገን ደቡብ ናብ ደቡብ።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ትገብር ድማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጽራሓት"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ጽራሓት"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ናይ ማሕደር"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዓሰርተ ክልተ"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "ጽራሕ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ንኽፍለ-ወገን"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ደቡብ"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ናብ ደቡብ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:33:05.520654257Z",
+  "model": "glm-5.3"
+}

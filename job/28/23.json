@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ኤሎሂም ንመንገዳታ ሓቢሩ፣ ንሱ ድማ ⟨את⟩ ቦታኣ ይፈልጥ እዩ።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "ሓቢሩ"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "ንመንገዳታ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ ድማ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ይፈልጥ እዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቦታኣ"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "ቦታኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:06:03.822703668Z",
+  "model": "glm-5.3"
+}

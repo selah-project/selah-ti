@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ሞሸ ካብ እቲ መርኣዪ ⟨את⟩ ነቲ ሕዝቢ ንምጽናዕ ኤሎሂም ኣውጽኡ፤ ንሳቶም ድማ ኣብ ታሕቲ እቲ ከርቢ ተቐመጡ።",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ኣውጽኡ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ሕዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ነቲ ሕዝቢ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ንምጽናዕ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "እቲ መርኣዪ"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "ተቐመጡ"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "ኣብ ታሕቲ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "እቲ ከርቢ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:24:00.412359866Z",
+  "model": "glm-5.3"
+}

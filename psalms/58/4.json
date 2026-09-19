@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 58,
+  "translation": "ሓላፍቲ ካብ ማሕጸረት ተበደዩ፤ ካብ ከይዲ እናዛረቡ ብዛዕባ ተዓወቱ።",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "ተበደዩ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ሓላፍቲ"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ካብ ማሕጸረት"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "ተዓወቱ"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ካብ ከይዲ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "እናዛረቡ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ብዛዕባ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:02:42.133791441Z",
+  "model": "glm-5.3"
+}

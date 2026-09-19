@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ኣብ ቤትኻ እፍኣን እፍኣን፣ ዓብያን ንእሽተትን፣ ክህሉኻ የብሉን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክህሉካ የብሉን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ኣብ ቤትኻ"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "እፍኣን"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "እፍኣን"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ዓብያ"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "ንእሽተትን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:04:01.974631058Z",
+  "model": "glm-5.3"
+}

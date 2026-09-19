@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ኤሎሂምና ክመጽእ እዩ፣ ኣይትሓሽጥን፤ ሓዊ ኣብ ቅድሚኡ ይብላዕ እዩ፣ ኣብ ዙሪያኡ ድማ ኽዳን ብዙሕ ይንደሕ እዩ።",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "ይመጽእ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ከምኡውን ኣይ"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ትሓሽጥ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ኣብ ቅድሚኡ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ይብላዕ"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "ኣብ ዙሪያኡ"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "ይንደሕ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:01:10.002101349Z",
+  "model": "glm-5.3"
+}

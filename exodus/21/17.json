@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ነቲ ኣቦኡ ወይ ኣደኡ ዝሓርመ ብሞት ይቕጽፍ።",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "ዝሓርመ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ኣደኡን"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይቕጽፍ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:29:32.710052590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ሞሸ ⟨את⟩ ምስኦም እናተዛረብ ምስ ወደቐ፣ ኣብ ገጹ መሸፈኒ ኣእተወ።",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ምስ ወደቐ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞḈ — ሞሸ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "እናተዛረብ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ምስኦም"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ኣእተወ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ገጹ"
+    },
+    {
+      "surface": "מסוה",
+      "gloss": "መሸፈኒ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:39:52.990261802Z",
+  "model": "glm-5.3"
+}

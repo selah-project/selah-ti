@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እዚኦም ድማ ኣብ የሩሻላይም ተወለዱ ነቲ ሽምዓ፣ ሽቫብ፣ ናታንን ሽሎሞን — ኣርባዕተ ካብ ባት-ሹዓ፣ ጓል ዓሚኤል።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "ተወለዱ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "ኣብ የሩሻላይም"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "ሽምዓ"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "ሽቫብ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ናታንን"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "ሽሎሞንን"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "ባት-ሹዓ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ጓል"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "ዓሚኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T07:30:47.940643719Z",
+  "model": "glm-5.3"
+}

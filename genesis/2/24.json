@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ስለዚ መላ ⟨את⟩ ኣቡኡን ⟨את⟩ ኣደኡን ይተው ኮይኑ ምስ ስተኡ ይጥማቕ፣ ንሳቶም ድማ ሓደ ስጋ ይኸውኑ።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "ይተው"
+    },
+    {
+      "surface": "איש",
+      "gloss": "መላ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቡኡ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣደኡ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ኣደኡ"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "ይጥማቕ"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "ምስ ስተኡ"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ይኸውኑ"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "ሓደ ስጋ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:31:00.299683666Z",
+  "model": "glm-5.3"
+}

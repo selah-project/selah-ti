@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "ብንፋስ ምብራቕ ኣንብርያት ትርሽይሽ ትሰብር ኢኻ።",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "ብንፋስ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ምብራቕ"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "ትሰብር ኢኻ"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ኣንብርያት"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ትርሽይሽ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:18.738342691Z",
+  "model": "glm-5.3"
+}

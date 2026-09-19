@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "«ንኣቭራሃም፣ ንይጽሓቅን ንያዕቆቭን ብኤል ሻዳይ ተረኣየ፤ ብስምይ ያህዌህ ግን ኣይፈልጦምን።»",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "ተረኣየ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን-"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን-"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይጽሓቅ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ን-"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "באל",
+      "gloss": "ብኤል"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ሻዳይ"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "ብስምይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "ኣይፈልጦምን"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንኣብያቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:14:16.209446004Z",
+  "model": "glm-5.3"
+}

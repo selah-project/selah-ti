@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ሓደኣ ካብተን ወፍቲት ⟨את⟩ ኣብ ሓደ መስቀያ ሸክላ ኣብ ላዕሊ ህያው ማይ ሰደዓ።",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ሰደዓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ሓደ ወፍቲ"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "ነቲ ወፍቲ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ነቲ ሓደኣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "መስቀያ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ሸክላ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ህያው"
+    }
+  ],
+  "timestamp": "2026-09-18T21:55:30.461917996Z",
+  "model": "glm-5.3"
+}

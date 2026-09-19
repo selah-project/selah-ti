@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ንጉሥ ሽሎሞ ድማ ኣብ ልዕሊ ኹሉ እስራኤል ንጉሥ ኮይኑ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T00:46:51.607360468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 136,
+  "translation": "ንሚጽራይም ኣብ ውላዳቶም ብዝሰቐረ፤ እስከ ዘለኣለም ሔሴዱ እዩ።",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "ብዝሰቐረ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "ኣብ ውላዳቶም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "እስከ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:40.017384706Z",
+  "model": "glm-5.3"
+}

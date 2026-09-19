@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "መልሲ ሃበኒ ያህዌህ፣ ምኽንያቱ እቲ ሔሴድካ ጽቡን እዩ፤ ነቲ ብዙሕ ምሕረትካ ገጽካ ናብ ኣነ ባዕልቲ።",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "መልሲ ሃበኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡን"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሔሴድካ"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "ነቲ ብዙሕ"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ምሕረትካ"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ባዕልቲ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ናብ ኣነ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:50.167726188Z",
+  "model": "glm-5.3"
+}

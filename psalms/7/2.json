@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ያህዌህ ኤሎሂም፣ ኣብ ንስኻ ተሓለውኩ፤ ካብ ኩሎም መን ዝሰድደኒ ኣድሕነኒ፣ ነፍሰይ ድማ ኣውጽኣኒ ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣብ ንስኻ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ተሓለውኩ"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ኣድሕነኒ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሎም"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "መን ዝሰድደኒ"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ኣውጽኣኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:52.616869378Z",
+  "model": "glm-5.3"
+}

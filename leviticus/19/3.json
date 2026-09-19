@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ሰብ ሰብ ኣዱ ኣቦኡ ይቕረ ፣ ሻባታተይን ⟨את⟩ ተጠቕሙ፣ ኣነ ያህዌህ ኤሎሂምኩም እየ።",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ሰብ ሰብ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ኣዱ"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "ኣቦኡ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ተቕርዎ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሻባታተይ"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "ሻባታተይ"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ተጠቕሙ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:01:25.272165054Z",
+  "model": "glm-5.3"
+}

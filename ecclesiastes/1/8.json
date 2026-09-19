@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኩሉ ቃላት ድክመት ኣሎዎም፤ ሰብ ንኽዛረብ ኣይኽእልን፤ ዓይኒ ምስ ምርኣይ ኣይትሕወስን፣ እዝዊ ድማ ካብ ምስማዕ ኣይትምልእን።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "ድክመት ኣሎዎም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ክእሉ እዩ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ንኽዛረብ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ትሕወስ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ዓይኒ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ምስ ምርኣይ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ድማ ኣይ…ን"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ትምልእ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "እዝዊ"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ካብ ምስማዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:40:05.825893488Z",
+  "model": "glm-5.3"
+}

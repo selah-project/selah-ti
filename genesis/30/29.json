@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ንሱ ድማ በሎ፦ «ንስኻ ትፈልጥ ነይርካ ከም ዝገበርኩልካ፣ ውን ⟨את⟩ ከም ዝነበረ እቲ እንስሳትካ ⟨את⟩ ምስ ኣነ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ትፈልጥ ነይርካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከም ዝገበርኩልካ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "ዝገበርኩልካ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ እንስሳትካ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ዝነበረ"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "እንስሳትካ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ምስ ኣነ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:25:17.769562303Z",
+  "model": "glm-5.3"
+}

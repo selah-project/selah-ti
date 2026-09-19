@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 6:5",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኣገልጋሊ እቲ ንጉስ ድማ ነቲ እንሆ ሃማን ኣብ ጎረቤት ተቐሚጡ ኢሎም፤ እቲ ንጉስ ድማ ክኣቱ በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ተዛረቡ"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ኣገልጋሊ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሃማን"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ተቐሚጡ"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "ኣብ ጎረቤት"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ክኣቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:47:35.756161273Z",
+  "model": "glm-5.3"
+}

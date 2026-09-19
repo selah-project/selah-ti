@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 29:8",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ዘበሉተት ሰባት ከተማ ይቐጽሉ፡ እቶም ጥበበኛታት ግን ቁጽዕ ይመልሱ።",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "ዘበሉተት"
+    },
+    {
+      "surface": "יפיחו",
+      "gloss": "ይቐጽሉ እዮም"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "וחכמים",
+      "gloss": "እቶም ጥበበኛታት ግን"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "ይመልሱ እዮም"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ቁጽዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:57:43.694722991Z",
+  "model": "glm-5.3"
+}

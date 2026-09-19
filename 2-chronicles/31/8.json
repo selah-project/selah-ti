@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ይሕዝቅያሁን እቶም ኣዛዚታትን ምስ መጹ ⟨את⟩ ነቲ ሓብሳት ረኣዩ፣ ድማ ⟨את⟩ ያህዌህን ⟨את⟩ ህዝቢ እስራኤልን ባረኹ።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ምስ መጹ"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ይሕዝቅያሁ"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "ኣዛዚታትን"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ረኣዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ሓብሳት"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "ነቲ ሓብሳት"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "ባረኹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ን",
+      "marks": "ህዝቢ እስራኤል"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T08:18:05.838214772Z",
+  "model": "glm-5.3"
+}

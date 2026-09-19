@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣሃሮን ከኣ ነቶም መብራሕኣ ናብ ቅጽሪ ገጽ ማነራ ኣሕዲሱ፣ ከም እት ኣዘዘ ያህዌህ ⟨את⟩ ሞሸ ከምኡ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ቅጽሪ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "ማነራ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ኣሕዲሱ"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "መብራሕኣ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም እት"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ኣዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:20:50.337793280Z",
+  "model": "glm-5.3"
+}

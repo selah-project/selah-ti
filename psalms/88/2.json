@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 88,
+  "translation": "ያህዌህ፣ ኤሎሂም ናይ ምድሓኒ፡ ኣብ መዓልቲን ኣብ ለይቲን ኣብ ቅድሚኻ ቐሊልኩ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም ናይ"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ምድሓኒ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "ቐሊልኩ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ኣብ ለይቲ"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "ኣብ ቅድሚኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:25.156632817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ያህዌህ መዓልታት ምሉናት ይፈልጥ እዩ፣ ወራሺኦም ድማ ንዘለኣለም ይኸውን እዩ።",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "ይፈልጥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "ምሉናት"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "ወራሺኦም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ንዘለኣለም"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ይኸውን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:55:37.154365298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 94,
+  "translation": "ብጽሓት እቲ ሰብ እቲ ንስኻ ያህ ትያስሮ፣ ካብ ቶራኻ ድማ ትምሃሮ።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ብጽሓት"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "ትያስሮ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "ካብ ቶራኻ"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "ትምሃሮ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:57.241584584Z",
+  "model": "glm-5.3"
+}

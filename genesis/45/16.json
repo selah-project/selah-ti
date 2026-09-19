@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 45:16",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "እቲ ቃል ኣብ ቤት ፓርዖ ተሰምዐ፡ እናበለ፡ ኣስተውዕሊ ዮሴፍ መጹ፤ ኣብ ዓይኒ ፓርዖን ኣብ ዓይኒ ኣገልገልቱን ጽቡን ኮይኑ ተረኺቡ።",
+  "tokens": [
+    {
+      "surface": "והקל",
+      "gloss": "እቲ ቃል"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ተሰምዐ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "መጹ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ኣስተውዕሊ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "ጽቡን ኮይኑ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ ዓይኒ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ኣብ ዓይኒ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ኣገልገልቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:07:01.864924826Z",
+  "model": "glm-5.3"
+}

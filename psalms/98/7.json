@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 98,
+  "translation": "ባሕሪን ምላእኡን ይዘረብ፤ ዓለምን ኣብኣ ዘይነብሩን።",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "ይዘረብ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ምላእኡ…ን"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ዓለም"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ዘይነብሩ…ን"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:54.871510437Z",
+  "model": "glm-5.3"
+}

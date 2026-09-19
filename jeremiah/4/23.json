@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ረኣኹ ⟨את⟩ ⟨ቲ⟩ ምድሪ ኣስተውዕል ባዕዲን ባዕድነትን እያ፤ ናብ ⟨ቲ⟩ ሰማያት ረኣኹ ኣብዛ፣ ብርሃኖም ድማ የለን።",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ረኣኹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣስተውዕል"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ባዕዲ"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "ባዕድነት"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ኣብዛ የለን"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "ብርሃኖም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:30:39.520536256Z",
+  "model": "glm-5.3"
+}

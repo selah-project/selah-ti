@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ከም ምትንካፍ ኣብ ኣጽንኢተይ ተቓዋርተይ ኣፍረዩኒ፣ ኩሉ መዓልቲ ኣብ ምባሎም ናብነይ፦ «ኣበይ ኣሎ ኤሎሂምካ?»",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "ከም ምትንካፍ"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "ኣብ ኣጽንኢተይ"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "ኣፍረዩኒ"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ተቓዋርተይ"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "ኣብ ምባሎም"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ናብነይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ኣበይ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:36.025171989Z",
+  "model": "glm-5.3"
+}

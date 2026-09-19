@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 17:3",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ነቶም ዝበዓልኩዎም፦ «ነዚ ምድሪ እዚታ ⟨את⟩ ንህዝቢኩም ክሃብ እየ»።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ዝበዓልኩዎም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ነኦም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ከምዚ ብሂሉ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ክሃብ እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ እዚታ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚታ"
+    },
+    {
+      "surface": "לעמכם",
+      "gloss": "ንህዝቢኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:29:07.408319293Z",
+  "model": "glm-5.3"
+}

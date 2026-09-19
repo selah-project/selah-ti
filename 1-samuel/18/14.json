@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 18:14",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ዳዊድ ድማ ኣብ ኩሉ መገዱ ጥቕምቲ ነይሩ፤ ያህዌህ ድማ ምስ እኳ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "መገዱ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ጥቕምቲ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስ እኳ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:09:00.432144400Z",
+  "model": "glm-5.3"
+}

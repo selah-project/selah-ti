@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ክልተ ለማዕኩ ብዓኻ ⟨את⟩፤ ኣይትካእለኒን ቅድሚ ምውታይ።",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ለማዕኩ"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ ብዓኻ",
+      "marks": "ክልተ ኣብ ታሕቲ ዝተዛረቦ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ትካእል"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ንለይ"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ምውታይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:59:12.496115129Z",
+  "model": "glm-5.3"
+}

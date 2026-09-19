@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ያህዌህ ድማ ንሞሸ ተዛረበ፦ «ናብ ፓርዖ እተው፤ ኣነ እንሆ ⟨את⟩ ልቡን ⟨ואת⟩ ልቢ ኣገልገልቱን ኣበዝዕኹ፣ እዚኦም ምልክታተይ ኣብ መንጎኦም ንክተርኢ እየ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "እተው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "ኣበዝዕኹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልቡ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ልቢ ኣገልገልቱ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ኣገልገልቱ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ንክ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ክተርኢ"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "ምልክታተይ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ኣብ መንጎኦም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:18:39.665249797Z",
+  "model": "glm-5.3"
+}

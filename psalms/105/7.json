@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ንሱ ያህዌህ ኤሎሂምና እዩ፤ ብዅሉ ምድሪ ቅዋማቱ ኣለዉ።",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብዅሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ቅዋማቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:13.923867193Z",
+  "model": "glm-5.3"
+}

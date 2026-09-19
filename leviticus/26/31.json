@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ከተርቲኩም ⟨את⟩ ሓፈሻ እገብረን፣ ቅዱሳት ቦታታትኩም ⟨את⟩ እጸልዮም፣ ስቓብኹም ድማ ሽቱ ኣይዕረምን።",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "እገብረን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተርቲኩም"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "ከተርቲኩም"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ሓፈሻ"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "እጸልዮም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅዱሳት ቦታታትኩም"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "ቅዱሳት ቦታታትኩም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "ኣይዕረምን"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "ሽቱ"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "ስቓብኹም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:10:21.670647314Z",
+  "model": "glm-5.3"
+}

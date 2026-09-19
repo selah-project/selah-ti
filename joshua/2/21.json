@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 2:21",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ንሳ ድማ «ከም ቓላትኩም ከምኡ እዩ» በለት፣ ሰደቶም ድማ ኰኑ ኸዱ፣ ንሳ ድማ ⟨את⟩ ቐይሕቲ ገመድ ኣብ መስኮት ሓሰረት።",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "በለት"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "ከም ቓላትኩም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "ሰደቶም"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ኰኑ ኸዱ"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "ሓሰረት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቐይሕቲ ገመድ"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "ገመድ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ቐይሕቲ"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "ኣብ መስኮት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:16:11.859866363Z",
+  "model": "glm-5.3"
+}

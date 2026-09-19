@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ያህዌህ ድማ ናብ ሞḉ በለ፦ «ናብቲ ህዝቢ ብሰሉ፤ ሎሚን ተኸታውን ነቶም ቅድስ ኣብሎም፣ ንብርድኦም ድማ ይሕጸቡ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ብሰሉ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "ቅድስ ኣብሎም"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "ተኸታው"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "ይሕጸቡ"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "ንብርድኦም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:24:12.608908886Z",
+  "model": "glm-5.3"
+}

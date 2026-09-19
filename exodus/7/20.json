@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 7:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ሞሸን ኣሃሮንን ድማ ከም ዝኣዘዞ ያህዌህ ገበሩ፤ በዓቲ ኣልዒሉ ⟨את⟩ ነቲ ኣብ ወንቒ ዘሎ ማይ ኣብ ቅድሚ ዓይኒ ፓርዖን ኣብ ቅድሚ ዓይኒ ኣገልገልቱን በደረ፤ ነቲ ኣብ ወንቒ ዘሎ ማይ ኩሉ ድማ ናብ ደም ተቐየረ።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም ዝኣዘዞ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ያህዌህ ኣዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "ኣልዒለ"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "ብበዓቲ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "በደረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማይ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዘሎ"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "ኣብ ወንቒ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ኣብ ቅድሚ ዓይኒ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ולעיני",
+      "gloss": "ኣብ ቅድሚ ዓይኒ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ኣገልገልቱ"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "ተቐየረ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዘሎ"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "ኣብ ወንቒ"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "ናብ ደም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:15:28.258936443Z",
+  "model": "glm-5.3"
+}

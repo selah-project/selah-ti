@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 3:9",
+  "book": "ruth",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኮ በሎ፦ «መን ⟨את⟩ ኣኻ?» ኮ ብለቶ፦ «ኣነ ሩት እየ፣ ኣገልገልትኻ እየ፤ ነቲ ክንፈኻ ኣብ ልዕሊ ኣገልገልትኻ ኣውርዪ፣ ምኽንያቱ ኣኻ ወዲ-ዓሚን ኢኻ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ኮ በሎ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣኻ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ኮ ብለቶ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "רות",
+      "gloss": "ሩት"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ኣገልገልትኻ"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "ኣውርዪ"
+    },
+    {
+      "surface": "כנפך",
+      "gloss": "ክንፈኻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ኣገልገልትኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ወዲ-ዓሚን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኣኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:31:53.677365296Z",
+  "model": "glm-5.3"
+}

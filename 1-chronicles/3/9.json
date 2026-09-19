@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኩሎም እዞም ውላድ ዳዊድ እዮም፣ ካብ ውላድ እቶም ፍልገሳት ወጻኢ፣ ከምኡውን ታማር ሓብቲኦም።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "ካብ … ወጻኢ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "እቶም ፍልገሳት"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "ከምኡውን ታማር"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "ሓብቲኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:30:57.416856701Z",
+  "model": "glm-5.3"
+}

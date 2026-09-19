@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ውን ረኣኹ እየ ⟨את⟩ ኩሉ ጕባኤ ድማ ⟨את⟩ ኩሉ ብቕዓት ናይ ስራሕ፣ ከምቲ ንሳ ቐንቲ ሰብ ኣብ ልዕሊ ኸባብኡ እያ፤ ከምኡውን እዚ ሃብኣል እዩ፣ ድማ ኣጣፊሕቲ ንፋስ እዩ።",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "ውን ረኣኹ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ጕባኤ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ጕባኤ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ድማ ⟨את⟩",
+      "marks": "ኩሉ ብቕዓት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "ብቕዓት"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ናይ ስራሕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ንሳ"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ቐንቲ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "ኣብ ልዕሊ ኸባብኡ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ሃብኣል"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ድማ ኣጣፊሕቲ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ንፋስ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:41:18.380562510Z",
+  "model": "glm-5.3"
+}

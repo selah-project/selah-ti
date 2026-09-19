@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ምድሮም ድማ ብኣማልክታት ተመሊኣ፣ ነቲ ስራሕ ኢዶም ሰጒዱ፣ ነቲ ዝፈጠሩ ጣቕልታቶም ሰጒዱ።",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "ተመሊኣ"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ምድሮም"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "ኣማልክታት"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "ነቲ ስራሕ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ኢዶም"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "ሰጒዱ"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "ነቲ ዝፈጠሩ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዝፈጠሩ"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "ጣቕልታቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:40:06.936511638Z",
+  "model": "glm-5.3"
+}

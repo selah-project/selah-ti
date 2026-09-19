@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 77,
+  "translation": "ኣብ ባሕሪ መገዲካ፣ መስመራትካ እውን ኣብ ማይ ብዙሕ፤ ኣኽራፋትካ እውን ኣይተፈልጠዩን።",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "ኣብ ባሕሪ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "መገዲካ"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "መስመራትካ እውን"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ኣብ ማይ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "ኣኽራፋትካ እውን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "ተፈልጠዩን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:22.205542814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ደጊማ ኣንጺዓ ወዲ ወለደት፤ ንሳ ድማ ⟨את⟩ ስሙ ኦናን በለቶ።",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ኣንጺዓ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደጊማ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደት"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "በለቶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "ኦናን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:59:30.760814832Z",
+  "model": "glm-5.3"
+}

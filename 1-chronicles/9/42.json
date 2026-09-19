@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣካዝ ድማ ኣቦ ያዕራ እዩ፤ ያዕራ ድማ ኣቦ ዓለሜት፣ ዓዝማቨትን ዝምሪን እዩ፤ ዝምሪ ድማ ኣቦ ሞጻ እዩ።",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "ኣካዝ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያዕራ"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "ያዕራ"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "ያዕራ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓለሜት"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "ዓለሜት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓዝማቨት"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "ዓዝማቨት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዝምሪ"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "ዝምሪ"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "ዝምሪ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞጻ"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "ሞጻ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:37:13.992330562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ነቲ መጽሓፍ መግዛእታ ድማ ተቐበይኩ — ⟨את⟩ እቲ ብትእዛዝን ብትእዛዛትን ዝተታሓደ ተታሒ፣ ከምኡውን ⟨את⟩ እቲ ዝተኸፈተ።",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "ተቐበይኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መጽሓፍ መግዛእታ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "መጽሓፍ"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "መግዛእታ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ዝተታሓደ"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "ዝተታሓደ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ብትእዛዝ"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "ብትእዛዛት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ዝተኸፈተ"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "ዝተኸፈተ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:58:14.572634624Z",
+  "model": "glm-5.3"
+}

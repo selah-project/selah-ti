@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ከምኡውን ኩሉ መባ ካህን ብሙሉእ ⟨እያ⟩ ክትቕጽር፤ ኣይትበልዕን።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ከምኡውን ኩሉ"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "መባ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ብሙሉእ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨እያ⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ትበልዕን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:49:27.990148223Z",
+  "model": "glm-5.3"
+}

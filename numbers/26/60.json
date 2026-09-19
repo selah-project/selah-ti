@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ንኣሃሮን ድማ ⟨את⟩ ናዳብን ⟨ואת⟩ ኣቢሁዕን ⟨את⟩ ኤልዓዛርን ⟨ואת⟩ ኢታማርን ተወለዱ።",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ተወለዱ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ንኣሃሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ናዳብ"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ናዳብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቢሁዕ"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "ኣቢሁዕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤልዓዛር"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኢታማር"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "ኢታማር"
+    }
+  ],
+  "timestamp": "2026-09-19T08:32:50.664765698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ያህዌህ ኣብ ኢዱ ኣይሕደጎን፣ ኣብ መዓርዱ ከምኡውን ኣይክሶን።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "ኣይሕደጎን"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ኣብ ኢዱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ከምኡውን ኣይ…ን"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "ኣይክሶን"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "ኣብ መዓርዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:55:45.781654786Z",
+  "model": "glm-5.3"
+}

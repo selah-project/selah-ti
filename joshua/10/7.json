@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 10:7",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "የሆሹዋዕ ድማ ንሱውን ምስ ኩሉ ህዝቢ ኲነት ምሱውን ምስ ኩሉ ተጋዳላይ ብሓይሊ ካብ ግልጋል ወጸ።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ግልጋል"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱውን"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ምስ ኩሉ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ኲነት"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምሱውን"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ምስ ኩሉ"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ተጋዳላይ"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ብሓይሊ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:22:25.071263176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ጣዕስ ዘይብሉ ነገር ብዘይ ጽዕሪ ክብልዕ ይኽእል ድዩ? ወይ ኣብ ረጊብ ሕልሚ ጣዕስ ኣሎ ድዩ?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "ክብልዕ"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "ጣዕስ ዘይብሉ"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "ብዘይ"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "ጽዕሪ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "ጣዕስ"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "ረጊብ"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "ሕልሚ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:04:16.401349872Z",
+  "model": "glm-5.3"
+}

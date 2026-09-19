@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 135,
+  "translation": "ኩሉ ዝደለዮ ያህዌህ ኣብ ሰማያትን ኣብ ምድርን ኣብ ባሕርታትን ኣብ ኩሉ ጥልሒታትን ገበረ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ደለይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ኣብ ሰማያት"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ኣብ ምድርን"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ኣብ ባሕርታት"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኣብ ኩሉን"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ጥልሒታት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:42.665601722Z",
+  "model": "glm-5.3"
+}

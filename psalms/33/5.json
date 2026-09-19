@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ጽድቂን ፍትሕን ዝፈትው እዩ፤ እታ ምድሪ ብሔሴድ ያህዌህ ተመልዓላ ኣላ።",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ዝፈትው"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ፍትሕን"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ተመልዓላ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እታ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:19.626956479Z",
+  "model": "glm-5.3"
+}

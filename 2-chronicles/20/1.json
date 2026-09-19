@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 20:1",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኣብ ድሕሪ እዚ ድማ ውላድ ሞኣብን ውላድ ዓሞንን ምሳኦም ካብ እቶም ዓሞናውያን ንየሆሹዋዕ ንምሕቃቅ መጹ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ ድማ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ኣብ ድሕሪ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "መጹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ውላድን"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ዓሞን"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "ምሳኦም"
+    },
+    {
+      "surface": "מהעמונים",
+      "gloss": "ካብ እቶም ዓሞናውያን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ንምሕቃቅ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:09:03.127143069Z",
+  "model": "glm-5.3"
+}

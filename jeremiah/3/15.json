@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ከምኡውን ርዑባት ከም ልበይ ሃበኩም፣ ንኹምኩም ድማ ⟨את⟩ ብዕውዲን ብምርዳን ይሰምሩኩም።",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ሃበኩም"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኹም"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ርዑባት"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "ከም ልበይ"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "ይሰምሩ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንኹም"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ዕውዲ"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "ምርዳ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:33:36.999391569Z",
+  "model": "glm-5.3"
+}

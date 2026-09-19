@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "ከም ስምኻ፣ ኤሎሂም፣ ከምኡ ምስጋናኻ ክሳብ ዳርጊ ምድሪ በጺሑ ኣሎ፤ ጽድቂ የማንኻ መሊኣ እያ።",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "ከም ስምኻ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ምስጋናኻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "ዳርጊ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "መሊኣ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "የማንኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:50.861006897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 3:2",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኢዱ ኣብ ርእሲ ወፈያኡ ደጊም፣ ኣብ ኣፍደገ ድኽሪ ስብሓ ቐትሖ፣ ውላድ ኣሃሮን ካህናት ድማ ⟨את⟩ ደም ኣብ ⟨the⟩ መስዊእ ብዙሕግዚ ረጪሞ።",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ደጊም"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ርእሲ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ወፈያኡ"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "ቐትሖ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣብ ኣፍደገ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድኽሪ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ስብሓ"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ረጪሞ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደም"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መስዊእ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ብዙሕግዚ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:47:31.466734206Z",
+  "model": "glm-5.3"
+}

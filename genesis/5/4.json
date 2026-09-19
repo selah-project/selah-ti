@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ቀንቲ መዓልታት ኣዳም ድሕሪ ምውላዱ ⟨את⟩ ሼት ሸሞንተ ሽሕ ዓመታት ነይሮም፤ ውላድን ጓልቶትን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ነይሮም"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ኣዳም"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ምውላዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሼት"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ሼት"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ሸሞንተ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ጓልቶትን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:32:37.292260235Z",
+  "model": "glm-5.3"
+}

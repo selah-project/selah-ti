@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 88,
+  "translation": "ኣብ ባድያ ⟨ታሕቲ ዝበላ⟩ ኣብ ጸልማት ኣብ ጥልሒታት መዓርገኒ።",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "መዓረገኒ"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "ኣብ ባድያ"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "ታሕቲ ዝበላ"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "ኣብ ጸልማት"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "ኣብ ጥልሒታት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:35.234565150Z",
+  "model": "glm-5.3"
+}

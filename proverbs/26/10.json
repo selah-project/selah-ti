@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ብዙሕ ⟨እቲ⟩ ዝውቕዕ ⟨את⟩ ኩሉ፣ ድማ ዝዋፈየ ነፍሲ ስዑልን ዝዋፈየ ተሻጋራትን እዩ።",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "ዝውቕዕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ድማ ዝዋፈየ ነፍሲ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ስዑል"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ከምኡ'ውን ዝዋፈየ ነፍሲ"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ተሻጋራት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:56:30.681541155Z",
+  "model": "glm-5.3"
+}

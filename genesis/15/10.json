@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 15:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ንኡሱ ድማ ነዚ ኹሉ ⟨את⟩ ወሲዱ፣ ነቶም ⟨אתם⟩ ኣብ ማእከሎም በታሮም፣ ነፍሲ ወከፍ ክፍል ንቅርቢ መማረኡ ኣቢሉ፤ ነቲ ወፍ ግን ⟨את⟩ ኣይበታረን።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ (ነዚ ኹሉ)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "ויבתר",
+      "gloss": "በታሮም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ነቶም (እቶም እንስሳት)"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ ማእከሎም"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ኣቢሉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ወከፍ ክፍል"
+    },
+    {
+      "surface": "בתרו",
+      "gloss": "ክፍሉ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ንቅርቢ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "መማረኡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ወፍ"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "ነቲ ወፍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "בתר",
+      "gloss": "ኣይበታረን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:40:00.844158433Z",
+  "model": "glm-5.3"
+}

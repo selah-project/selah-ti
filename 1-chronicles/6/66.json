@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "1-chronicles 6:66",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ከምኡውን ⟨את⟩ ኸስቦንን ⟨את⟩ ኣብዓትኣን፣ ⟨את⟩ ያዓዘርን ⟨את⟩ ኣብዓትኣን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ከምኡውን ⟨את⟩",
+      "marks": "ኸስቦን"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ኸስቦን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብዓትኣ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ኣብዓትኣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ያዓዘር"
+    },
+    {
+      "surface": "יעזיר",
+      "gloss": "ያዓዘር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብዓትኣ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ኣብዓትኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:33:12.825072578Z",
+  "model": "glm-5.3"
+}

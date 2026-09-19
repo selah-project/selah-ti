@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ካብ ኩሉ ክፉእ መስመር ኣእጋርያ ተዓጊጠ፣ ንቃልካ ንኽድሕን እየ።",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "መስመር"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "ተዓጊጠ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ኣእጋርያ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ንኽድሕን"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "እየ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ቃልካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:13.835992195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ኣብ በዓይ ኃጢኣት ያረብዓም ዝደረኸዮ ድማ ዝኣሓደዮ ⟨את⟩ እስራኤል ስለ ዝኾነ ⟨את⟩ እስራኤል የህቦ እዩ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "የህቦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "ኃጢኣት"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ያረብዓም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ዝደረኸዮ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ከምኡውን ዝ"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ዝኣሓደዮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T01:03:27.524384616Z",
+  "model": "glm-5.3"
+}

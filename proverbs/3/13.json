@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "«ዝተባረከ እዩ እቲ ሰብ ጥበብ እትረኽቦ፣ ከምኡውን እቲ ሰብ እትሓቶ ተረድእና።»",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ዝተባረከ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "እትረኽቦ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ከምኡውን እቲ ሰብ"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "እትሓቶ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ተረድእና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:42:09.448217418Z",
+  "model": "glm-5.3"
+}

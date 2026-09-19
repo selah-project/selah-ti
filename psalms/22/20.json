@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ንስኻ ግና ያህዌህ፣ ቅሩብ ምእንቲ ኣይትርሕቕ፤ ሓይለይ፣ ናብ ሓገዘተይ ብቕልቡ ና።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ግና"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ኣይትርሕቕ"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "ሓይለይ"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ናብ ሓገዘተይ"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ብቕልቡ ና"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:14.082360821Z",
+  "model": "glm-5.3"
+}

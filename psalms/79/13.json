@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 79,
+  "translation": "ንሕና ድማ ህዝብኻን እታ ኣጋማርቲ ናይ ማሕደርኻን ንዘለኣለም ነመስክረልካ ነይ፣ ንውላድ ውላድ ድማ ትዝመርታኻ ንዝርዝር።",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ህዝብኻ"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ኣጋማርቲ"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "ማሕደርኻ"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "ነመስክረልካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ንዘለኣለም"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "ንዝርዝር"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ትዝመርታኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:48.977061882Z",
+  "model": "glm-5.3"
+}

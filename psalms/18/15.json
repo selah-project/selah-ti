@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "በረኻቱ ሰደዱ ድማ ደቐቦም፣ ብዙሓት ብርቂቕታትን ኣሰብኮም።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደዱ"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "በረኻቱ"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "ደቐቦም"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "ብርቂቕታት"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "ኣሰብኮም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:35.298366163Z",
+  "model": "glm-5.3"
+}

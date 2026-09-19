@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ንዔሊ ኪበልዎ ኮይኑ ሓወሸ፤ «ኣለኹ፣ ስለ ዝበለኒ» በለ። ንሱ ድማ «ኣይበልኩን፤ ተወሃበርካ እሞ ደኣበር» በለ። ንሱ ድማ ኸደ እሞ ተኣወረ።",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "ሓወሸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ዔሊ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ኣለኹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ ዝ"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "በልካኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ነይርካ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "በልኩ"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ተወሃበርካ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ደኣበር"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ኸደ"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "ተኣወረ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:58:23.692373769Z",
+  "model": "glm-5.3"
+}

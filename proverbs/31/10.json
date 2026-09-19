@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ኣንስቲ ሓያልቲ መን ይረክባ? ኣቕማ ካብ ሙራኽ ንላዕሊ እያ።",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "ኣንስቲ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ሓያልቲ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ይረክባ"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "ንላዕሊ"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "ሙራኽ"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "ኣቕማ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:00:45.642467125Z",
+  "model": "glm-5.3"
+}

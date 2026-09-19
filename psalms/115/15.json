@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 115,
+  "translation": "ንስኻትኩም ተባርኽቲ ኢኹም፣ ካብቲ ሰማያትን ምድርን ሓዊሽትኦም ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "ተባርኽቲ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ንስኻትኩም"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ካብ ያህዌህ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ሓዊሽትኦም"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ምድርን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:50.144109402Z",
+  "model": "glm-5.3"
+}

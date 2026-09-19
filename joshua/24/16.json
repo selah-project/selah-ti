@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "እቲ ህዝቢ ድማ መልሱ በለ፦ ኣይኹንን ንሕና ካብ ያህዌህ ⟨את⟩ ንቕረብ፣ ካልኦት ኣማልኽቲ ነገልግል!",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መልሱ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "ኣይኹንን"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "ንቕረብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ነገልግል"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኣማልኽቲ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ካልኦት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:34:34.020769567Z",
+  "model": "glm-5.3"
+}

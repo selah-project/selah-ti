@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "እሞ ሕጂ ኪትከድ ኸደካ፣ ምኽንያቱ ናብ ቤት ኣቦኻ ተሓደስካ፤ ስለምንታይ ⟨את⟩ ኣማልኽተይ ሰረቕካ?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "እሞ ሕጂ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ኪትከድ"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "ኸደካ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "ተሓደስ"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "ተሓደስካ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ናብ ቤት"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ኣቦኻ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ስለምንታይ"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "ሰረቕካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣማልክተይ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኣማልክተይ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:53:39.358680020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "እዚኦም እዮም ስማት ውላድ እስራኤል ናብ ሚጽራይም ዝኣተዉ፤ ⟨את⟩ ያዕቆቭ ሰብ ወዲን ስድራቡን በይኖም ኣተዉ።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ስማት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "ዝኣተዉ"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ናብ ሚጽራይም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያዕቆቭ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ ወዲ"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "ስድራቡን"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ኣተዉ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:11:00.242170861Z",
+  "model": "glm-5.3"
+}

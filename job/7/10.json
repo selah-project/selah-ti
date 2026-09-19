@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ናብ ቤቱ ደጊሙ ኣይይምለስን፤ ቦታኡ ድማ ደገም ኣይፈልጦን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ይምለስ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደጊም"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ናብ ቤቱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ንም…ኣይ"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "ይፈልጦ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደገም"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "ቦታኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:04:33.098797561Z",
+  "model": "glm-5.3"
+}

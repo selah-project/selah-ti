@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣብ እቲ ዕዋር ክጸውዑኒ እመሉ፣ ኣነ ግን ኣይመልሶምን፤ ንውልቂ ክሰውሩኒ እመሉ፣ ግን ኣይረኽብዎን።",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ኣብ እቲ ዕዋር"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "ክጸውዑኒ እመሉ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ግን ኣይ"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ኣይመልሶምን"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "ንውልቂ ክሰውሩኒ እመሉ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ግን ኣይ"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "ኣይረኽብዎን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:51.318445732Z",
+  "model": "glm-5.3"
+}

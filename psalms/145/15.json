@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 145,
+  "translation": "ኣይቲ ኩሉ ናብኻ ይጽበዩ፣ ንስኻ ድማ ኣብ ግዜኡ ነኦም ⟨את⟩ መግቢኦም ትህቦም።",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ኣይቲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኻ"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ይጽበዩ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ድማ"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "ትህቦም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ነኦም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መግቢኦም"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "መግቢኦም"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "ኣብ ግዜኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:30.959760421Z",
+  "model": "glm-5.3"
+}

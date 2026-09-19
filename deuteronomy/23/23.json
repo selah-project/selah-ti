@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ኣብ እትከልእካ ግን ኪዳን ከም ኢትሓልው ድማ ናብኻ ኃጢኣት ኣይከውንን።",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ኣብ እትከልእካ ግን"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "እትከልእካ"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "ኪዳን ከም ኢትሓልው"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክኸውን"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ናብኻ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ኃጢኣት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:04:26.486544415Z",
+  "model": "glm-5.3"
+}

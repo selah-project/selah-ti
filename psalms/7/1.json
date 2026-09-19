@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ሽግዓዮን ናይ ዳዊድ፣ እቲ ንያህዌህ ኣብ ቓላት ናይ ኩሽ ወዲ ያሚኒ ዝበሎ ዝተዛረበ ።",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "ሽግዓዮን"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ዝተዛረበ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቓላት"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ኩሽ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "ያሚኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:52.616568896Z",
+  "model": "glm-5.3"
+}

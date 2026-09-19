@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "«ና፣ ⟨את⟩ ኣቦና ወይን ንስከዮ፣ ምሳኡ ንተኣኽብ፣ ካብ ኣቦና ድማ ዘርኢ ንሕይው።»",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "ና"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "ንስከዮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቦና"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ኣቦና"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ወይን"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "ንተኣኽብ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምሳኡ"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "ንሕይው"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "ካብ ኣቦና"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘርኢ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:42:13.166828347Z",
+  "model": "glm-5.3"
+}

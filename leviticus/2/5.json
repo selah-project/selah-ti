@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "መባኻ ኣብ ማካቢት ዝተጣሕበ ወፈያ እንተ ኮይኑ፣ ስንዝባት ብዘይሚ ተሓሊወ ዘይሓመጽቲ ክኸውን እዩ።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "መባ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "ማካቢት"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "ወፈያኻ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ስንዝባት"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "ተሓሊወ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ብዘይሚ"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "ዘይሓመጽቲ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ክኸውን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:46:24.155226945Z",
+  "model": "glm-5.3"
+}

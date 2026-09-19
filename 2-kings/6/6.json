@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ሰብ ኤሎሂም ድማ «ኣበይ ወደቐ?» በሎ፤ ንሱ ድማ ⟨את⟩ እቲ ቦታ ኣርኣዮ። እኽሊ ቐረጾ፣ ኣብኡ ድማ ጀመርዎ፤ ብርሂ ድማ ኣሸዓቶ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ኣበይ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ወደቐ"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "ኣርኣዮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ቦታ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "እቲ ቦታ"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "ቐረጾ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ጀመረ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ኣሸዓቶ"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ብርሂ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:16:08.380049755Z",
+  "model": "glm-5.3"
+}

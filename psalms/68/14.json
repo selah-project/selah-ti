@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 68:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ኣብ መንጎ ጥላታት እንተ ተቐመጣትኩም፣ ኩነታት ወጽራ ብቐይሕ ተሸፈነት፣ ክንፋታ ድማ ብወርቂ ቀለም ዝኾነ ተሸፈነት።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תשכבון",
+      "gloss": "ተቐመጣትኩም"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ጥላታት"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ኩነታት"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ወጽራ"
+    },
+    {
+      "surface": "נחפה",
+      "gloss": "ተሸፈነት"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ብቐይሕ"
+    },
+    {
+      "surface": "ואברותיה",
+      "gloss": "ክንፋታ ድማ"
+    },
+    {
+      "surface": "בירקרק",
+      "gloss": "ብቀለም ዝኾነ"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "ወርቂ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:12.967108490Z",
+  "model": "glm-5.3"
+}

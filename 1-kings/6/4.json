@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ነቲ ቤት ድማ መስኮታት ሰፊራት፣ ⟨ዝተዓጽዉ⟩ ገበረሉ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ነቲ ቤት"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "መስኮታት"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "ሰፊራት"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "ዝተዓጽዉ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:49:57.239825764Z",
+  "model": "glm-5.3"
+}

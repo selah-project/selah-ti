@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ኣቭራሃም ድማ ንሱ በሎ፦ «ተቐንየሉ፤ ክትኸውን እምበር ⟨את⟩ ነቲ ወደይ ነታ ኣይትመልሶን።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "ተቐንየሉ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ክትኸውን እምበር"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ኣይትመልሶን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ወደይ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወደይ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ነታ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:45:56.296329962Z",
+  "model": "glm-5.3"
+}

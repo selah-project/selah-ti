@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኣብ ምቕጽርቲ እንተ ተረኺቡ እቲ ሰርቂ፣ ተታሒቡ ከም ዝሞት ድማ፣ ደም የብሉን።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "ኣብ ምቕጽርቲ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ተረኺቡ"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "እቲ ሰርቂ"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ተታሒቡ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ደም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:29:18.639128586Z",
+  "model": "glm-5.3"
+}

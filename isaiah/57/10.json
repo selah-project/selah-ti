@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 57,
+  "translation": "ብብዝሒ መገዲኪ ድኻምኪ፣ ንስኻ ግን ኣይበልኪን ⟨ተስፋ ቆረጸ⟩፤ ህይወት ኢድኪ ረኺብኪ፣ ስለዚ ኣይሓመዕኪን።",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "ብብዝሒ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "መገዲኪ"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ድኻምኪ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "በልኪ"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "ተስፋ ቆረጸ"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ህይወት"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድኪ"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "ረኺብኪ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "ሓመዕኪ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:20:10.087023533Z",
+  "model": "glm-5.3"
+}

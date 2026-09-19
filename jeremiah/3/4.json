@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ዓይ? ካብ ሕጂ «ኣቦይ፣ ናይ ጸንሲ ዓበይተ ንስኻ ኢኻ» ኢልካ ኣይተባርኻን?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ዓይ? ኣይኮነን"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ካብ ሕጂ"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ኣይተባርኻን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦይ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ናይ ጸንሲ ዓበይተ"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ናይ መንእለይ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ ኢኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:29:25.279738016Z",
+  "model": "glm-5.3"
+}

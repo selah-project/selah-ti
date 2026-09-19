@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ያህዌህ ድማ ነቲ ተበደሑኻ ደይ ብጣዕሚ ክትበዝሕ ደይ ጽቡቕ እዩ በሎ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "ጽቡቕ እዩ"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ተበደሑኻ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:21:13.448123231Z",
+  "model": "glm-5.3"
+}

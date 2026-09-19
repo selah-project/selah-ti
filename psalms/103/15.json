@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 103,
+  "translation": "ሰብ መዓልታቱ ከም ሸገርቲ እዮም፤ ከም ኩሉ ከዋኽብቲ ዓዲ ከምኡ የበርቕ።",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ከም ሸገርቲ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "መዓልታቱ"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "ከም ኩሉ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ከዋኽብቲ ዓዲ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "የበርቕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:42.893439546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ሓብቲ ታሕፐኔስ ድማ ንሱ ⟨את⟩ ገኑባት ወዱ ወሊዱቶ፤ ታሕፐኔስ ድማ ኣብ ውሽጢ ቤት ፓርዖ ጸኒሑቶ፤ ገኑባት ኣብ ቤት ፓርዖ ኣብ መንጎ ውላደ ፓርዖ ኰይኑ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ወሊዱቶ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ሓብቲ"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "ታሕፐኔስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገኑባት"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "ገኑባት"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዱ"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "ጸኒሑቶ"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "ታሕፐኔስ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ ውሽጢ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኰይኑ"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "ገኑባት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:00:16.705752787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 107:41",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ድማ ዘጎደለ ካብ መከራ ደገፈ፣ ከም በጋን ስድራታት ኣተሓሕዘ።",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "ደገፈ"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ዘጎደለ"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "ካብ መከራ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ኣተሓሕዘ"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ከም በጋን"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ስድራታት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:58.881709872Z",
+  "model": "glm-5.3"
+}

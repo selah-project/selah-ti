@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኣነ እየ፦ እስከ ኪዳንይ ⟨את⟩ ምስኻ እዩ፤ ንስኻ ናብ ኣቦ ብዙሕነት ኣህዛብ ትከውን።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳንይ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ምስኻ"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ትከውን"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ብዙሕነት"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ኣህዛብ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:42:25.105007254Z",
+  "model": "glm-5.3"
+}

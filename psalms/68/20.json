@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ብሩኽ ኣዶናይ፣ መዓልቲ መዓልቲ ይጫንና፤ እቲ ኤል ድሕንነትና እዩ። ስላ።",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ብሩኽ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "ይጫንና"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንና"
+    },
+    {
+      "surface": "האל",
+      "gloss": "እቲ ኤል"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "ድሕንነትና"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስላ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:54.649511351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ናብ እቲ ንጉስ ተወዓልቲ፣ ነቲ ንጉስ ድማ ከም ዝርከብ እዚ ቃል እዚ ተዛረቦ፤ ዮዋብ ድማ ⟨את⟩ ቃላት ኣብ ኣፍኣ ኣቐመጦ።",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "ተወዓልቲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ተዛረቦ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ነቲ ንጉስ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ከም ዝርከብ እዚ ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ኣቐመጦ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮዋብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላት"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "ኣብ ኣፍኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:31:34.347565171Z",
+  "model": "glm-5.3"
+}

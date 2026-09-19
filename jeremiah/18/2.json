@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ተንበር፣ ናብ ቤት እቲ ገበናዊ ውረድ፣ ኣብኡ ድማ ⟨את⟩ ቃላተይ ኣስሚዐካ እየ።",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "ተንበር"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "ውረድ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "እቲ ገበናዊ"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ኣብኡ ድማ"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "ኣስሚዐካ እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላተይ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:51:13.999135414Z",
+  "model": "glm-5.3"
+}

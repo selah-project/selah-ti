@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኣነ ግና ብሔሴድኻ ኣመንኩ፣ ልበይ ብመድሓኒትኻ ይደስእ፣ ንያህዌህ ኣዘምር፣ ምስ ዝበጀኒ በቲ ሔሴዱ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ግና"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "ብሔሴድኻ"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ኣመንኩ"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "ይደስእ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "ብመድሓኒትኻ"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ኣዘምር"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምስ ዝገበረኒ"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "ዝበጀኒ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ንኣነ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:27.318798965Z",
+  "model": "glm-5.3"
+}

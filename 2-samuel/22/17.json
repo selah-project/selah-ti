@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 22:17",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ካብ ላዕሊ ሰደደ፣ ወሲደኒ፤ ካብ ብዙሓት ማይ ወጸኒ።",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ካብ ላዕሊ"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "ወሲደኒ"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "ወጸኒ"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "ካብ ማይ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:42:09.850489270Z",
+  "model": "glm-5.3"
+}

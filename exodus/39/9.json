@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ምእራፍ ነይሩ፤ ክልተ-ዕጽፊ ገበሩ ⟨את⟩ ጡባዒዝ፤ ሓዊራ-ኢድ ነይራ ንዑቕኡ፣ ሓዊራ-ኢድ ነይራ ንስፉሑ፣ ክልተ-ዕጽፊ።",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "ምእራፍ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "ክልተ-ዕጽፊ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጡባዒዝ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ጡባዒዝ"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "ሓዊራ-ኢድ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ንዑቕኡ"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ሓዊራ-ኢድ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ንስፉሑ"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "ክልተ-ዕጽፊ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:43:03.030525111Z",
+  "model": "glm-5.3"
+}

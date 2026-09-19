@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ሽሎሞ ⟨את⟩ ያህዌህ ደልዩ ነይሩ፣ ኣብ ሕግታት ዳዊድ ኣቡኡ ንክኸይድ፤ ግና ኣብ ከፊኣት እዩ ይስዓብን ይበድሕን።",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "ደልዩ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ንክኸይድ"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "ኣብ ሕግታት"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ግና"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ኣብ ከፊኣት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ይስዓብ"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "ይበድሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:48:53.304615407Z",
+  "model": "glm-5.3"
+}

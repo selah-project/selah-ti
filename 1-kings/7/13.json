@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ንጉስ ሽሎሞ ሰደደ፤ ካብ ጾር ንሕይራም ⟨את⟩ ወሲዱ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕይራም"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ሕይራም"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ካብ ጾር"
+    }
+  ],
+  "timestamp": "2026-09-19T00:52:47.487976395Z",
+  "model": "glm-5.3"
+}

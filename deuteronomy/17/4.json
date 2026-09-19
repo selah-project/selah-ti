@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 17:4",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ንኻ ተወርዱ እንተ ዀነ፣ ሰምዕካ፣ ብጽቡኡ ተመርምርካ፤ ኣብርእይ፣ ሓቂ ተረጋጊጹ፣ እቲ ነገር እታ ስጉምቲ እዚታ ኣብ እስራኤል ተገቢራ።",
+  "tokens": [
+    {
+      "surface": "והגד",
+      "gloss": "ተወርዱ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "ሰምዕካ"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "ተመርምርካ"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "ብጽቡኡ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣብርእይ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ሓቂ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ተረጋጊጹ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ነገር"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "ተገቢራ"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "እታ ስጉምቲ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚታ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ኣብ እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T23:02:27.278949085Z",
+  "model": "glm-5.3"
+}

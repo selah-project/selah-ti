@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ሽሙኤል ድማ ⟨את⟩ ቀላጂ እቲ ዘት ወሲዱ ኣብ ርእሱ ኣፍሱሑ፣ ስሓቦ እውን፣ ከምኡ ድማ በሎ፦ «እወ፣ ያህዌህ ንስኻ ኣብ ኣርዳቱ ንምኻድ ቐብአካ እዩ።»",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሽሙኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቀላጂ"
+    },
+    {
+      "surface": "פך",
+      "gloss": "ቀላጂ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "እቲ ዘት"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ኣፍሱሑ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ርእሱ"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "ስሓቦ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "እወ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "ቐብአካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ኣርዳቱ"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "ንምኻድ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:03:40.217329563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-chronicles 6:50",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ብጎርል ካብ ነገድ ውላድ ይሁዳ፣ ካብ ነገድ ውላድ ስምዓን፣ ከምኡውን ካብ ነገድ ውላድ ብንያም እዞም ከተማታት ብስምታት ዝተባሃሉ ሃቦም።",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ሃቦም"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "ብጎርል"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "ካብ ነገድ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "ኣብ ከኣ ካብ ነገድ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ስምዓን"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "ኣብ ከኣ ካብ ነገድ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ብንያም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተማታት"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ከተማታት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዞም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ዝተባሃሉ"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "ብስምታት"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "ብስምታት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:34:32.578769629Z",
+  "model": "glm-5.3"
+}

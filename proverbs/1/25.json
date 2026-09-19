@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ንኹሉ ኣማኺርተይ ተንኪፍኩም፣ ንቅጽለ-ብርሃነይ ድማ ኣይተባደልኩምን።",
+  "tokens": [
+    {
+      "surface": "ותפרעו",
+      "gloss": "ተንኪፍኩም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "ኣማኺርተይ"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "ንቅጽለ-ብርሃነይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "ተባደልኩምን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:51.317664983Z",
+  "model": "glm-5.3"
+}

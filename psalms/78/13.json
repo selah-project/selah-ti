@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ባሕሪ በቕዐ፣ ንሳቶም ኣሻጊርዎም፤ ማይ ድማ ከም ኮነን ኣቕሚጡ ኣቐሚጡ።",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "በቕዐ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "ኣሻጊርዎም"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "ኣቕሚጡ ኣቐሚጡ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "נד",
+      "gloss": "ኮነን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:50.088857490Z",
+  "model": "glm-5.3"
+}

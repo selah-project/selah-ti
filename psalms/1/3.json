@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ከም ዛግ ኣብ ኸረባት ማይ እተቐንጾ ክኸውን እዩ፣ እቲ ፍረኡ ኣብ ግዜኡ ዝህብ፣ ገጹ እውን ዘይኸልእስ፣ ንዝገብሮ ኩሉ ድማ የሃንድዎ እዩ።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ክኸውን እዩ"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "ከም ዛግ"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "እተቐንጾ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "ኸረባት"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ፍረኡ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ዝህብ"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "ኣብ ግዜኡ"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "ገጹ…ን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "ዝኸልእስ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ…ን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ዝገብር"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "የሃንድዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:43:12.329254795Z",
+  "model": "glm-5.3"
+}

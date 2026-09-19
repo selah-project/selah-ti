@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 50:8",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ቅረበ ዝቕንጸለኒ፤ መን ⟨את⟩ ምሳይ ይኹርርኒ፧ ንኣብልሉ ኣብ ሓደ ቦታ፤ ናይ ፍትሒይ ጎይተይ መን እዩ፧ ንቕረበለይ።",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ቅረበ"
+    },
+    {
+      "surface": "מצדיקי",
+      "gloss": "ዝቕንጸለኒ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ይኹርር"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ምሳይ",
+      "marks": "ምሳይ (ምስ ኣነ)"
+    },
+    {
+      "surface": "נעמדה",
+      "gloss": "ንኣብልሉ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ኣብ ሓደ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ጎይተይ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ናይ ፍትሒይ"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "ይቕረብ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ናባይ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:19:54.631583286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "እሞ ⟨את⟩ ትእዛዛተይ ተገብሩ፣ ⟨את⟩ ብዓተይ ድማ ተሓልዉን ተገብርዎን፤ ኣብ ⟨ቲ⟩ ምድሪ ብሰላም ተቐምጡ።",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "ተገብሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዛተይ"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ትእዛዛተይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ብዓተይ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ብዓተይ"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ተሓልዉ"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ተገብርዎ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ኣዕሮም"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "ተቐምጡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ብሰላም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:07:24.685110664Z",
+  "model": "glm-5.3"
+}

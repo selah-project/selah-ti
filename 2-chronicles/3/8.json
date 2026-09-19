@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 3:8",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ነቤት ቅዱስ እቶም ቅዱሳት ⟨את⟩ ገበረ፤ ነብ ስፍሓ እታ ቤት ኣብ ቅድሚ ብምንባር ንርእሲ ዕስራ ኣማታት፣ ነብ ስፍሓ ድማ ዕስራ ኣማታት ነይሩ፤ ብጽቡእ ወርቂ ድማ ንሽድሽ ሚኢተ ክንሲታት ሸፈና።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቤት ቅዱስ እቶም ቅዱሳት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "እቶም ቅዱሳት"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ንርእሲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብምንባር"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ስፍሓ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "እታ ቤት"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ኣማታት"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዕስራ"
+    },
+    {
+      "surface": "ורחבו",
+      "gloss": "ነብ ስፍሓ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ኣማታት"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዕስራ"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "ሸፈና"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡእ"
+    },
+    {
+      "surface": "לככרים",
+      "gloss": "ንክንሲታት"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ሽድሽ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚኢተ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:56:39.897576793Z",
+  "model": "glm-5.3"
+}

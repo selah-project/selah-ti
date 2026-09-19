@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ያህዌህ ድማ ኣብ ምድሪ ⟨את⟩ ሰብ ምስ ገበረ ተሓደሰ፣ ነቲ ሓባር እውን ኣብ ልቡ ዘይኮነን ኣብ ልቡ ዝሓመመ እዩ። ⟨እዩ⟩",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ተሓደሰ፣…ዝሓመመ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምስ…ምዃኑ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰብ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "ዝሓመመ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:34:00.889167886Z",
+  "model": "glm-5.3"
+}

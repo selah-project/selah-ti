@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "⟨את⟩ መሰዊዕ ወፈያን፣ ⟨את⟩ መርሕሲ ናስ ዝኾኖ፣ ⟨את⟩ ብዓታቱን ⟨את⟩ ኩሉ መሳርሒቱን፣ ⟨את⟩ ቐዳሕን ⟨את⟩ መትከሊታኡን።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሰዊዕ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሰዊዕ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መርሕሲ"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "መርሕሲ"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ናስ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ኾኖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብዓታቱ"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ብዓታቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ መሳርሒቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "መሳርሒቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቐዳሕ"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ቐዳሕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መትከሊታኡ"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "መትከሊታኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:40:12.752886264Z",
+  "model": "glm-5.3"
+}

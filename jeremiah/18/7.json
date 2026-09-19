@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 18:7",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ኣብ ሓቲ ሳዕ ንሓደ ሃገርን ንሓደ መንግስትን እናዛረብኩ ንምሕረብ፣ ንምንዋልን ንምጥፍኣትን፤",
+  "tokens": [
+    {
+      "surface": "רגע",
+      "gloss": "ኣብ ሓቲ ሳዕ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "እናዛረብኩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብዛዕባ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ሃገር"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ብዛዕባ…ውን"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "መንግስቲ"
+    },
+    {
+      "surface": "לנתוש",
+      "gloss": "ንምሕረብ"
+    },
+    {
+      "surface": "ולנתוץ",
+      "gloss": "ንምንዋል"
+    },
+    {
+      "surface": "ולהאביד",
+      "gloss": "ንምጥፍኣት"
+    }
+  ],
+  "timestamp": "2026-09-19T02:45:23.555604976Z",
+  "model": "glm-5.3"
+}

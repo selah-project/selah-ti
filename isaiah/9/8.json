@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 9:8",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኩሉ ህዝቢ ድማ ኪፈልጡ — እፍራይምን ኣቤልታ ሶምሮንን — ኣብ ምዝንባልን ኣብ ዓቢ ልቢን ኢሎም ኮይኖም ዝበሉ፦",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ኪፈልጡ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "እፍራይም"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "ኣቤልታ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ሶምሮን"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "ኣብ ምዝንባል"
+    },
+    {
+      "surface": "ובגדל",
+      "gloss": "ኣብ ዓቢ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ዝበሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:50:33.922949182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 3:14",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ያህዌህ ኤሎሂም ንእቲ ሓያል ከምዚ በሎ፦ «ስለ እዚ ዝገበርካዮ፣ ካብ ኩሉ እቲ ከብቲን ካብ ኩሉ ከብቲ ገጻ ንታሕቲ ተረጊምካ ኣሎኻ፤ ብሆድኻ ትከውን፣ ኣፍሳስ ትበልዕ ኩሉ መዓልታት ህይወትካ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "እቲ ሓያል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ዝገበርካዮ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "ተረጊምካ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "እቲ ከብቲ"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ንሳኦም ካብ ኩሉ"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ከብቲ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ገጻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "גחנך",
+      "gloss": "ሆድኻ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ትከውን"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ኣፍሳስን"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ትበልዕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ህይወትካ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:32:27.948780538Z",
+  "model": "glm-5.3"
+}

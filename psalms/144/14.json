@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 144,
+  "translation": "ኣብራትና ዝቐንዑ፣ ኣብ መስርሕትና ምብራጽ የለን፣ ውጻኢ ድማ የለን፣ ጉህያ ድማ የለን።",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "ኣብራትና"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "ዝቐንዑ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ምብራጽ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ድማ የለን"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "ውጻኢ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ድማ የለን"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "ጉህያ"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "ኣብ መስርሕትና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:38:59.599979246Z",
+  "model": "glm-5.3"
+}

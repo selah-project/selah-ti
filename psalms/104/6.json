@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "እቲ ጥሪም ከም ኣልባስ ሸፈንካዮ፤ ማይ ኣብ ላዕሊ ኦሮማት ነይሮም።",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "ጥሪም"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "ከም ኣልባስ"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "ሸፈንካዮ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ኦሮማት"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ነይሮም"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:15.015364780Z",
+  "model": "glm-5.3"
+}

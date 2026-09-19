@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ነቲ ዝሓቕረኒ ቃል ክመልሶ እየ፡ ምኽንያቱ ብቃልካ ኣበዐኹ።",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ክመልሶ እየ"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "ነቲ ዝሓቕረኒ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ኣበዐኹ"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "ብቃልካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:59.717796268Z",
+  "model": "glm-5.3"
+}

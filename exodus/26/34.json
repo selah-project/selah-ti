@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ኣብ ቅዱስ ኣብ ቅዱሳት ኣብ ልዕሊ ታቦት ናይ ምስክርታ ⟨את⟩ መእተዊ ትጽውዖ።",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ትጽውዖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መእተዊ"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "እቲ መእተዊ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ናይ ምስክርታ"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ኣብ ቅዱስ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ኣብ ቅዱሳት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:32:24.928143207Z",
+  "model": "glm-5.3"
+}

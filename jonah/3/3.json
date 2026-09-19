@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 3:3",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ዮናሃ ተኣሲቡ ከም ቃል ያህዌህ ናብ ነነወ ከደ፤ ነነወ ድማ ብኤሎሂም ዓቢ ከተቛ ነይራ፣ ምዙር ሰለስተ መዓልታት።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተኣሲቡ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ዮናሃ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ነነወ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ከም ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "ነነወ ድማ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነይራ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተቛ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ብኤሎሂም"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "ምዙር"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    }
+  ],
+  "timestamp": "2026-09-19T08:57:56.123536552Z",
+  "model": "glm-5.3"
+}

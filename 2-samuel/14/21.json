@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "እቲ ንጉሥ ንዮኣብ ተዛረበ፦ «እንሆ ወይ ኣብዚ እዚ ቃል እዚ ገበርኩ፤ ኻብዚ ድማ ከደ፣ ⟨את⟩ እቲ ወጻዓ ኣብሽሎም መለስ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉሥ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮኣብ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ገበርኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ቃል"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "השב",
+      "gloss": "መለስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ወጻዓ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ወጻዓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብሽሎም"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ኣብሽሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:32:34.342579570Z",
+  "model": "glm-5.3"
+}

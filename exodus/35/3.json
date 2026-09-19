@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ኣብ መዓልቲ ሻባት ኣብ ኩሉ መንበርኹም ሓዊ ኣይተክሉን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "ተክሉ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "መንበርኹም"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ሻባት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:40:48.772537477Z",
+  "model": "glm-5.3"
+}

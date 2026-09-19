@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ሸምዐል ድማ ⟨את⟩ እቲ ያህዌህ ዝዛረቦ ገበረ፤ ቤትላሕም ድማ ኣተወ። ዝኾነ ኣረጋቕቕቲ ⟨እታ⟩ ከተማ ንክራኸብዎ ተኣከቡ፣ ድማ «ብሰላም እትኣቱ ድዩ?» በሉ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሸምዐል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ያህዌህ ዝዛረቦ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝዛረቦ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዛረቦ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ኣተወ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ላሕም"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "ተኣከቡ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ኣረጋቕቕቲ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እታ ከተማ"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ንክራኸብዎ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "እትኣቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:08:19.709229977Z",
+  "model": "glm-5.3"
+}

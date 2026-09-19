@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 47,
+  "translation": "ኤሎሂም ኣብ ልዕሊ ኣሕዙብ ነገሰ፤ ኤሎሂም ኣብ ልዕሊ ቅዱስ ወንበር ናይኡ ተቐመጠ።",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ነገሰ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ኣሕዙብ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ወንበር"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስ ናይኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:07.017135898Z",
+  "model": "glm-5.3"
+}

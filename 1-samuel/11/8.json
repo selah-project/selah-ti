@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኣብ በዜቅ ድማ ቆጸሮም፤ ውላድ እስራኤል ሰለስተ ሚእቲ ሺህ ኮይኖም፣ ተባዕታይ ይሁዳ ድማ ሰላሳ ሺህ ነይሮም።",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "ቆጸሮም"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "ኣብ በዜቅ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ነይሮም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚእቲ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ተባዕታይ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሰላሳ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:03:59.352300460Z",
+  "model": "glm-5.3"
+}

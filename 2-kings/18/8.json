@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ንሱ ⟨את⟩ ፍልስጤም ክሳብ ዓዛን ብዓታን ደቂቖም፣ ካብ መቓብርቲ ጠባኢታት ክሳብ ተሃድሽቲ ከተማ።",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ደቂቖም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍልስጤም"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ዓዛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ብዓታ"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "ብዓታ"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "ካብ መቓብር"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "ጠባኢታት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ተሃድሽቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:29:41.823371447Z",
+  "model": "glm-5.3"
+}

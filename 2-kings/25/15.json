@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ከምኡውን ⟨את⟩ መብራሒታትን ⟨את⟩ መርጫታትን፣ እቶም ወርቂ ወርቂ ዝኾኑን ብርሒ ብርሒ ዝኾኑን፣ ሹም ተጣራርቲ ወሲኡ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መብራሒታት"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "መብራሒታት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መርጫታት"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "መርጫታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ከምኡውን ዝ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብርሒ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብርሒ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ወሲኡ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ሹም"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ተጣራርቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:41:09.779984633Z",
+  "model": "glm-5.3"
+}

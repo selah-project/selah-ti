@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ምኽንያቱ ብኣፍኦም ቅኑዕ ቃል የለን፤ ህንፃቶም ጥፍኣት እዩ፤ ጣቕምኦም ኣፍሒት መቓብር እዩ፤ ልሳንኦም ድማ ያምርዎ እዮም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "ብኣፍኦም"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "ቅኑዕ ቃል"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "ህንፃቶም"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ጥፍኣት"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "መቓብር"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "ኣፍሒት"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "ጣቕምኦም"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ልሳንኦም"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "ያምርዎ እዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:14.435821045Z",
+  "model": "glm-5.3"
+}

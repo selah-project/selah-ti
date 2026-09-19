@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ዮስፍ ⟨את⟩ ኣሕዋቱ ሓበኸ፣ ንሳቶም ግን ኣይሓበኻይን።",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "ሓበኸ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮስፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሕዋቱ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ኣሕዋቱ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "ሓበኻይን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:03:52.484295959Z",
+  "model": "glm-5.3"
+}

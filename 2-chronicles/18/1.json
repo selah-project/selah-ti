@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 18:1",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "የሆሹዋዕ ድማ ሃብትን ክብሪን ብብዙሕ ነይርዎ፣ ምስ ኣሐኣብ ድማ ብኣጋብር ተሰሓደ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይር"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "ንየሆሹዋዕ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ሃብት"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ክብሪን"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ብብዙሕ"
+    },
+    {
+      "surface": "ויתחתן",
+      "gloss": "ብኣጋብር ተሰሓደ"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "ምስ ኣሐኣብ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:06:47.076441265Z",
+  "model": "glm-5.3"
+}

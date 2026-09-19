@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ያህ ኣመስግኑ፤ ንያህዌህ ኣመስግኑ፣ ምኽንያቱ ጽቡእ እዩ፣ ምኽንያቱ ሔሴዱ ናብ ዘለኣለም እዩ።",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ኣመስግኑ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ኣመስግኑ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡእ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:33.996780765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 54:12",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 54,
+  "translation": "እተን ጉድጓድታትኪ ኩንኩን ክገብረልኪ እየ፣ እተን ኣፍደገታትኪ ዕበጣት እቅዳሕ፣ ኩሉ ድምበርኪ እውን ዕበጣት ሓጐስ።",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ክገብረልኪ"
+    },
+    {
+      "surface": "כדכד",
+      "gloss": "ኩንኩን"
+    },
+    {
+      "surface": "שמשתיך",
+      "gloss": "ጉድጓድታትኪ"
+    },
+    {
+      "surface": "ושעריך",
+      "gloss": "ኣፍደገታትኪ"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "ዕበጣት"
+    },
+    {
+      "surface": "אקדח",
+      "gloss": "እቅዳሕ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "ድምበርኪ"
+    },
+    {
+      "surface": "לאבני",
+      "gloss": "ዕበጣት"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ሓጐስ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:18:09.692806899Z",
+  "model": "glm-5.3"
+}

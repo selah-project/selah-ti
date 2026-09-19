@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 149,
+  "translation": "ቅዱሳት ብክብሪ ደልዮም፣ ኣብ ⟨ብዓባይ ዝተኾሩ⟩ መስገርታቶም ድማ ይዛርቡ።",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "ደልዮም"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "ብክብሪ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ይዛርቡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "መስገርታቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:58.649506826Z",
+  "model": "glm-5.3"
+}

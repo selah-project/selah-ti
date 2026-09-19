@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ስለ ዝጸምዐን፣ ብዝግሰምኩ ኩሉ መዓልቲ ኣኽላለይ ኣክሊተን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "ዝጸምዐን"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "ኣክሊተን"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ኣኽላለይ"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "ብዝግሰምኩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "መዓልቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:23.463038123Z",
+  "model": "glm-5.3"
+}

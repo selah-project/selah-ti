@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እሞ ድንጋይ ካብ ግድግዳ ክጅህርር እዩ፣ ድንቅር ካብ ኣጋይሽ ድማ ክመልስ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ድንጋይ"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "ካብ ግድግዳ"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "ክጅህርር"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "ድንቅር ድማ"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "ካብ ኣጋይሽ"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "ክመልስ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:25:23.264017535Z",
+  "model": "glm-5.3"
+}

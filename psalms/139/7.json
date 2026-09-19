@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 139,
+  "translation": "ናበይ እኸድኣ ካብ መንፈስካ፧ ከምኡውን ናበይ ካብ ገጽካ እሸይጥ፧",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "ናበይ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "እኸድኣ"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "ካብ መንፈስካ"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "ከምኡውን ናበይ"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ካብ ገጽካ"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "እሸይጥ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:01.307031552Z",
+  "model": "glm-5.3"
+}

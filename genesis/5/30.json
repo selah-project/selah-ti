@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 5:30",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ለሚኽ ድማ ⟨את⟩ ኖኅ ምስ ወለዶ ኣምስተ ዓመትን ዘጠናን ኣርባዕተን ሓሙሽተ ሚእቲ ዓመትን ነይሩ፣ ደቃትን ጓልቲትን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "למך",
+      "gloss": "ለሚኽ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ምስ ወለዶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኖኅ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖኅ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ኣምስተ"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "ዘጠናን"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ሓሙሽተን"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ሚእቲ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ደቃት"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ጓልቲትን"
+    }
+  ],
+  "timestamp": "2026-09-19T08:24:53.131037577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "የብቲ ያህዌህ ናብ ዘለዓለም፤ ኣሜን፣ ከምኡውን ኣሜን።",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "የብቲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለዓለም"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ኣሜን"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ከምኡውን ኣሜን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:04.188001077Z",
+  "model": "glm-5.3"
+}

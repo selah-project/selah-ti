@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 5:5",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣነ ኣብ እቲ እዋን ኣብ መንጎ ያህዌህን ንስኻትኩምን ተቐምጤ፣ ነቲ ቓል ያህዌህ ⟨את⟩ ንምዝርዝር ንእትዮኩም ነይሩ፤ ምኽንያቱ ካብ ገጽ እታ ሓዊ እናበደርኩም ነቲ ከባቢ ኣይወጣኩምን፤ እናበለ።",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ተቐምጤ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "ንስኻትኩምን"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ኣብ እቲ እዋን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "ንምዝርዝር"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንእትዮኩም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቓል"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "እናበደርኩም"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ካብ ገጽ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "እታ ሓዊ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "ኣይወጣኩምን"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ነቲ ከባቢ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:48:24.747317486Z",
+  "model": "glm-5.3"
+}

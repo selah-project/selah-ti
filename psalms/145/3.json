@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 145,
+  "translation": "ያህዌህ ዓቢ እዩ፣ ብዙሕ እውን ዝዝምር እዩ፤ ንዓብዩ ድማ ምትዕዳድ የብሉን።",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ውን ዝዝምር"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "ውን ንዓብዩ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የብሉን"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "ምትዕዳድ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:59.910804927Z",
+  "model": "glm-5.3"
+}

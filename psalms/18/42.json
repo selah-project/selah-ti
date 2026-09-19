@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "በዝሑሉ፣ ኣቓውሲ ግን የለን፤ ንያህዌህ ⟨በዝሑሉ⟩፣ ንሱ ድማ ኣይመለሶምን።",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "በዝሑሉ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ግን የለን"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ኣቓውሲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "መለሶም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:00.990398806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ያህዌህ ኤሎሂም ኣቦታትኩም ኣብ ልዕሊኩም ከም ዝኾናኹም ሽሕ ግዜ ይውስኽልኩም፣ ⟨את⟩ ኹም ከም ዝዛረበልኩም ይባርኽኩም።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "ኣቦታትኩም"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ይውስኽ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ኣብ ልዕሊኩም"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "ከም ዝኾናኹም"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ግዜ"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ይባርኽ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ኹም"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝዛረበ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ልኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:44:27.465411339Z",
+  "model": "glm-5.3"
+}

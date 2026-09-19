@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 2:30",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ንጉስ ሕሽቦን ሲሕን ግን ነቶም ብኣኡ ምእታው ኣይፈቐደን፤ ምኽንያቱ ያህዌህ ኤሎሂምካ ⟨את⟩ መንፈሱ ኣኽኪሉ፣ ⟨את⟩ ልቡ ድማ ኣጸናኒዑ፣ ከም ታሕቲ እዚ መዓልቲ እዚ ኣብ ኢድካ ንኽህቦ እዩ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ንግን ኣይኮነን"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ኣይፈቐደ"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "ሲሕን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ሕሽቦን"
+    },
+    {
+      "surface": "העברנו",
+      "gloss": "ምእታይ ኣሻጊርና"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ብኣኡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ኣኽኪሉ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንፈሱ"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "መንፈሱ"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "ከምኡውን ኣጸናኒዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልቡ"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ንኽኸውን"
+    },
+    {
+      "surface": "תתו",
+      "gloss": "ንኽህቦ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ኣብ ኢድካ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ከም እዚ መዓልቲ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:45:34.741393836Z",
+  "model": "glm-5.3"
+}

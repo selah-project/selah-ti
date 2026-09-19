@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኣብ ፍርዲ፣ ኣብ መስፈሪ፣ ኣብ ምዝዋርን ኣብ መስፍሪ ማይን ዘይጽድቂ ኣይትገብሩን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ-…ን"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ትገብሩ"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ዘይጽድቂ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ኣብ ፍርዲ"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "ኣብ መስፈሪ"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "ኣብ ምዝዋር"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "ንኣብ መስፍሪ ማይ እውን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:02.069884415Z",
+  "model": "glm-5.3"
+}

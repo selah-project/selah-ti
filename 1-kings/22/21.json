@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 22:21",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "እቲ መንፈስ ወጸ፣ ኣብ ቅድሚ ያህዌህ ተቐመጠ፣ «ኣነ ክኣትቶ እየ» በለ። ያህዌህ ድማ ንኡስ «ብከመይ?» በሎ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "እቲ መንፈስ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "ክኣትቶ እየ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንኡስ"
+    },
+    {
+      "surface": "במה",
+      "gloss": "ብከመይ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:13:00.042823969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ወይ ስለሚንታይ ⟨את⟩ ጉባኤ ያህዌህ ናብ እዚ ምድረ ፍዋሕ እዚ ኣእቲኹም፧ ንሕናን እንስሳትናን ኣብኡ ክንሞት?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "ስለሚንታይ"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "ኣእቲኹም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጉባኤ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ምድረ ፍዋሕ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ክንሞት"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "እንስሳትናን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:31:21.700026773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 33:12",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ምስ ኣጥረ ልቡ ድማ ኣብ ቅድሚ ያህዌህ ኤሎሂም ናቱ ⟨את⟩ ገጽ ለመነ፣ ቅድሚ ኤሎሂም ኣቦታቱ ድማ ብዙሕ ተወድሐ።",
+  "tokens": [
+    {
+      "surface": "וכהצר",
+      "gloss": "ምስ ኣጥረ ልቡ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ለመነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገጽ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ኤሎሂም ናቱ"
+    },
+    {
+      "surface": "ויכנע",
+      "gloss": "ተወድሐ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ኣቦታቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:17:25.356471659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "እቶም ኣመንዲቓት ሻፍ ኸፍቱ፣ ቀስትታቶም ድማ ዘርኣዩ፣ ንዑቑርን ንድኻን ንምእዋጅ፣ ንተኣማንቲ መገዲ ንምቕታል።",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "ሻፍ"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ኸፍቱ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኣመንዲቓት"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "ዘርኣዩ"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "ቀስትታቶም"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "ንምእዋጅ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ዑቑር"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ድኻ"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "ንምቕታል"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ተኣማንቲ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መገዲ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:47.842860445Z",
+  "model": "glm-5.3"
+}

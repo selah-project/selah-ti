@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "እቲ በረኻ ናይ ያህዌህ ⟨እዩ⟩ ሃብታም የብለን፣ ሓሊኽ ኣይውስኽን ምሳኡ።",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "በረኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨እዩ⟩"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "ሃብታም የብለን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ይውስኽ"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ሓሊኽ"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ምሳኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:46:24.078608753Z",
+  "model": "glm-5.3"
+}

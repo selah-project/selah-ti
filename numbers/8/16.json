@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 8:16",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ምኽንያቱ ካብ መንጎ ውላደ እስራኤል ዝተዋህቡ ዝተዋህቡ ኮይኖም ናባይ ⟨እዮም⟩፣ ኣብ ክንዲ ኩሉ ዝፈትሕ ማህጸር፣ ኣብ ክንዲ በኳር ኩሉ ካብ ውላደ እስራኤል ወሲደን ⟨אתם⟩ ናባይ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "נתנים",
+      "gloss": "ዝተዋህቡ"
+    },
+    {
+      "surface": "נתנים",
+      "gloss": "ዝተዋህቡ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨እዮም⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ናባይ"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ካብ መንጎ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ክንዲ"
+    },
+    {
+      "surface": "פטרת",
+      "gloss": "ዝፈትሕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ማህጸር"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "በኳር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ካብ ውላደ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "ወሲደን"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ነንሶም"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ናባይ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:20:50.125440719Z",
+  "model": "glm-5.3"
+}

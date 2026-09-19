@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ቆዳና ከም ቱኖር ተቐዝዐት፣ ስለ ዝሓገዘ ጥሜት።",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "ቆዳና"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "ከም ቱኖር"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "ተቐዝዐት"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "ዝሓገዘ"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ጥሜት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:38:14.973849382Z",
+  "model": "glm-5.3"
+}

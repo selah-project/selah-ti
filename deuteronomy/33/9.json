@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ነቲ ንኣቡኡን ንኣደኡን «ኣይረኣየን» ዝበለ፣ ⟨את⟩ ሓውቱን ኣይፈለጦምን፣ ⟨את⟩ ውላዱን ኣይፈለጦምን፤ ቃልኻ ኸም ዝሓዘዎን ኪዳንኻን ኸም ዝኽሊዶም እዮም።",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "ነቲ ዝበለ"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "ንኣቡኡ"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ንኣደኡን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሓውቱ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ሓውቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ኣፈለ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ውላዱ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ፈለጠ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ሓዙ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ቃልኻ"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "ኪዳንኻን"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ኽሊዱ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:11:22.191782032Z",
+  "model": "glm-5.3"
+}

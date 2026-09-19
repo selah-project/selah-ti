@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 19:24",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኣብ እቲ መዓልቲ እስራኤል ሳልሳይ ንሚጽራይምን ንኣሽሱርን ኪንበር እዩ — በረኻ ኣብ መንጎ ⟨the⟩ ምድሪ።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ እቲ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ኪንበር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "שלישיה",
+      "gloss": "ሳልሳይ"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "ንሚጽራይም"
+    },
+    {
+      "surface": "ולאשור",
+      "gloss": "ንኣሽሱርን"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "በረኻ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:53:07.235245953Z",
+  "model": "glm-5.3"
+}

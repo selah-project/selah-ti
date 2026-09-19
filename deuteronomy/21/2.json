@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ሽመጻትካን ተረባተርትካን ኣብ ውጻኢ ኮይኖም፣ ነቶም ከተማታት እቶም ስለሓት እቲ ዝተቐተለ ዘለዉ ይመዝኑ።",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ኣብ ውጻኢ ኮይኖም"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "ሽመጻትካ"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "ተረባተርትካ"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "ይመዝኑ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ከተማታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "ስለሓት"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "እቲ ዝተቐተለ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:02:18.755661708Z",
+  "model": "glm-5.3"
+}

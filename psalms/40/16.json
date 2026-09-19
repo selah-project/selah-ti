@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ብስምዒት ውሕትኦም እቶም «ኃኻ፣ ኃኻ» ንዓይ ዝብሉ ይጽምኑ።",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "ይጽምኑ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብዛዕባ"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ብስምዒት"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "ውሕትኦም"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "እቶም ዝብሉ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "האח",
+      "gloss": "«ኃኻ"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ኃኻ»"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:53.745231426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኩሉ ምድሪ ኣብ ቅድሚኻ የለን ኣይኮነን? ተፈልየ ኣሃ፣ ካባይ፤ ንስኻ ጸጋም እንተ ከደኻ — ኣነ የማን እኸይ፤ የማን እንተ ከደኻ — ኣነ ጸጋም እኸይ።",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ኣብ ቅድሚኻ"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "ተፈልየ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ኣሃ"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ካባይ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "ጸጋም"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "የማን"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "የማን"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "ጸጋም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:37:37.754120568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ያህዌህ ኣድን፤ እቲ ንጉስ ኣብ መዓልቲ እትጸውዑና ይመልሰልና።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "ኣድን"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "ይመልሰልና"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "እትጸውዑና"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:24.689931169Z",
+  "model": "glm-5.3"
+}

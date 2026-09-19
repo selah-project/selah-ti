@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣተሳቒት ቅድሚ ኣይናኹ ኣይተቐምጡን፤ ኩሉ ተጋዳላዪ ኣውን ተቐቢያለኹ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "ኣይተቐምጡን"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "ኣተሳቒት"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ኣይናኹ"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "ተቐቢያለኹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ተጋዳላዪ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ኣውን"
+    }
+  ],
+  "timestamp": "2026-09-19T09:00:21.033500358Z",
+  "model": "glm-5.3"
+}

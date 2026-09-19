@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 27:9",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ከምኡ ንማሕደር ጸባቢ ትሕቲ ⟨את⟩ ጸባቢ ንትገብር፦ ኣብ ጎኒ ደቡብ ናብ ደቡብ ማዕረ ተማልዒ ዓቐንታት ጽሑቃይ ተታሒቑ እኽሊ ሽሕ ኩቢት ርዝኣ ነቲ ሓደ ጎኒ።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጸባቢ"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "ጸባቢ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ናይ ማሕደር"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ነቲ ጎኒ"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ደቡብ"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ናብ ደቡብ"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "ዓቐንታት"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "ንጸባቢ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ጽሑቃይ"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ተታሒቑ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ኩቢት"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ርዝኣ"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "ነቲ ጎኒ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:31:08.480903626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 23:8",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ከምኡ ድማ ምስኦም ⟨את⟩ ብምባል፦ «ኣብ ልብኹም ⟨את⟩ ነፍሲኹም እንተ ዀይና ነፍሴ ካብ ቅደመይ ንቐብራ፣ ስምዑኒ፣ ንዓይ ድማ ምስ ዕፍሮን ወዲ ጽሓር ተዛረቡ።»",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ምስኦም ⟨את⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብምባል"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ዀይና"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሲኹም"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "ነፍሲኹም"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "ንቐብራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሴ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ነፍሴ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ካብ ቅደመይ"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "ስምዑኒ"
+    },
+    {
+      "surface": "ופגעו",
+      "gloss": "ተዛረቡ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "בעפרון",
+      "gloss": "ምስ ዕፍሮን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "ጽሓር"
+    }
+  ],
+  "timestamp": "2026-09-18T20:45:04.013071126Z",
+  "model": "glm-5.3"
+}

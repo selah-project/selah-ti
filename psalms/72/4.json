@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 72,
+  "translation": "ድኻታት ሕዝቢ ይፈርድ፣ ውላድ ኣድኻማት ድማ የድሕን፣ ተገፊት ድማ የርብርብ።",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "ይፈርድ"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ድኻታት"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "የድሕን"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ኣድኻማት"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "የርብርብ"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "ተገፊት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:26.294666282Z",
+  "model": "glm-5.3"
+}

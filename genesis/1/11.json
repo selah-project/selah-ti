@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 1:11",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኤሎሂም ድማ፦ «ምድሪ ሳሕ፣ ዘርኢ ዘራዕኢ ዕሽባን ብዓይነቱ ዘርኢ ዘላቒ ኣኽላ፣ ፍረ ዘፍራ ዛፍን፣ ዘርኢኡ ኣብ ውሽጢኡ ኣብ ምድሪ ኣውጽእ» በለ፤ ከምኡ ኾነ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "תדשא",
+      "gloss": "ኣውጽእ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ሳሕ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ዕሽባ"
+    },
+    {
+      "surface": "מזריע",
+      "gloss": "ዘራዕኢ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘርኢ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ዛፍ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ፍረ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዘፍራ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ፍረ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ብዓይነቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ዘርኢኡ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብ ውሽጢኡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኾነ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:29:55.933038068Z",
+  "model": "glm-5.3"
+}

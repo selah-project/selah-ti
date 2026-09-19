@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ርእሲ ⟨את⟩ ኩሉ ኣኼባ ውላድ እስራኤል ብዓመዶም፣ ብቤት ኣቦም፣ ብቑጽሪ ስሞም ነስኡ — ኩሉ ተባዕታይ ብርእሳቶም።",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ነስኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ርእሲ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ኣኼባ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ብዓመዶም"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ብቤት"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ኣቦም"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ብቑጽሪ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ስሞም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ተባዕታይ"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "ብርእሳቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:12:09.467787825Z",
+  "model": "glm-5.3"
+}

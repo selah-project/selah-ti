@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ያህዌህ፣ ነፍሰይ ካብ ሽኦል ኣወጢእካታ፣ ካብ ዝወርዱ ናብ ብረቢ ህይወት ሃብካኒ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "ኣወጢእካ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሽኦል"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "ህይወት ሃብካኒ"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "ካብ ዝወርዱ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ብረቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:43.458833995Z",
+  "model": "glm-5.3"
+}

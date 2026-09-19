@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ከምኡ እውን ተመሊሰ ኣብዚኦም መዓልታት ⟨את⟩ የሩሻላይምን ⟨את⟩ ቤት ይሁዳን ክሓሙቖም ዝሓሰብኩ፤ ኣይ ትፈርሑ።",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "ተመሊሰ"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "ዝሓሰብኩ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ኣብዚኦም መዓልታት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "ክሓሙቖም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሩሻላይም"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት ይሁዳ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ትፈርሑ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:36:35.928843603Z",
+  "model": "glm-5.3"
+}

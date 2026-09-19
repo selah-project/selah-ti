@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ስለዚ ኣርዑት፣ ⟨את⟩ ቃል ያህዌህ ስምዑ።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ኣርዑት"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ስምዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃል"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:48:06.286128587Z",
+  "model": "glm-5.3"
+}

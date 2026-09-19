@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "መንገዲ ምሕናኑ መረጸ፤ ትእዛዛትኻ ኣቐዲሜ ገበርኩ።",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "መንገዲ"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ምሕናኑ"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "መረጸ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ትእዛዛትኻ"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "ኣቐዲሜ ገበርኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:31.023693841Z",
+  "model": "glm-5.3"
+}

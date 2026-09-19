@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 123:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 123,
+  "translation": "ርአ፣ ከም ኢያት ኣገልገልቲ ናብ ኢድ ጎይቶም፣ ከም ኢያት ኣገልገልቲ ሰበይቲ ናብ ኢድ ጎይታኣ፣ ከምኡ እውን ኢያትና ናብ ያህዌህ ኤሎሂምና፣ ክሳብ ዝሓርነና።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ርነ"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "ከም ኢያት"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ኣገልገልቲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "אדוניהם",
+      "gloss": "ጎይቶም"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "ከም ኢያት"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "ኣገልገልቲ ሰበይቲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "ጎይታኣ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "ኢያትና"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "שיחננו",
+      "gloss": "ዝሓርነና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:54.038051841Z",
+  "model": "glm-5.3"
+}

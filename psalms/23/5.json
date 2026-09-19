@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ኣብ ቅድሚ ጠሊኡ ሰሌዳ ኣብ ቅድመይ ኣዳለውኻ፤ ብዘት ቐብአኻ ርእሰይ፤ ጽዋይ ምልእቲ እያ።",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "ኣዳለውኻ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድመይ"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "ሰሌዳ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "ጠሊኡ"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "ቐብአኻ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ብዘት"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ርእሰይ"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "ጽዋይ"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "ምልእቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:14.029137747Z",
+  "model": "glm-5.3"
+}

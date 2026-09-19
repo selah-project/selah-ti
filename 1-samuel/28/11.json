@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "እታ ሰበይቲ ድማ በለቶ፦ ⟨את⟩ መን ከም ኣወጽአ ንኻ? ንሱ ድማ በለ፦ ⟨את⟩ ሽሞኤል ኣወጽኣሉኒ።",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "በለቶ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "እታ ሰበይቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መን"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ኣወጽአ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሽሞኤል"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሽሞኤል"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "ኣወጽኣሉኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንእስና"
+    }
+  ],
+  "timestamp": "2026-09-19T00:16:41.112997007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ንሱ ድማ ኢድ ያህዌህ ነቶም ነይራ፣ ካብ ውሽጢ እቲ ሰፈር ንክሳብ ምጥፍኣቶም ክሳብ ምውዕቋዎም።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ንሱ ድማ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነይራ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "ንክሳብ ምጥፍኣቶም"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ካብ ውሽጢ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "እቲ ሰፈር"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ምውዕቋዎም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:44:52.854644980Z",
+  "model": "glm-5.3"
+}

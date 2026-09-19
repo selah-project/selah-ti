@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "ኣነ ድማ ንኣታቶም ውሽጢ ኮይነ፣ ምስ ረኣዩኒ ርእሶም ይዘንቡ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ኮይነ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ውሽጢ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንኣታቶም"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "ምስ ረኣዩኒ"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "ይዘንቡ"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "ርእሶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:02.194664557Z",
+  "model": "glm-5.3"
+}

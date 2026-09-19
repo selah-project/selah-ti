@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ሓሶት ጠለኹን ተጕዊዕኩዎን፤ ቶራኻ ድማ ፈተውኽኩ።",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ጠለኹ"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "ተጕዊዕኩዎ"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ቶራኻ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ፈተውኽኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:01.029415619Z",
+  "model": "glm-5.3"
+}

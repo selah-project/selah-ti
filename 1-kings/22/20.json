@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ያህዌህ ድማ «ንኣሐብ ⟨את⟩ መን እዩ ዝታታኖ፣ ንኽወጢሉ ኣብ ራሞት ጊልዓድ ንኽወርድ፧» በለ፤ ሓደ «ከምዚ» በለ፣ ካልኢት «ከምዚ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ ድማ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "ዝታታኖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሐብ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ኣሐብ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ንኽወጢሉ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ንኽወርድ"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "ኣብ ራሞት"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ጊልዓድ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ ድማ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "«ከምዚ»"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ካልኢት"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "«ከምዚ»"
+    }
+  ],
+  "timestamp": "2026-09-19T01:14:05.815236568Z",
+  "model": "glm-5.3"
+}

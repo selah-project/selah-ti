@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 22:6",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኤላም ድማ ጥዕና ብሓባርቲ ኣብ ስሓቢት ሰባት በዓልቲ ፈረስ ኣኺሉ፣ ቅር ድማ ነቲ ማሕመን ገሊጹ።",
+  "tokens": [
+    {
+      "surface": "ועילם",
+      "gloss": "ኤላም ድማ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ኣኺለ"
+    },
+    {
+      "surface": "אשפה",
+      "gloss": "ጥዕና"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "ብሓባርቲ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "በዓልቲ ፈረስ"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "ቅር ድማ"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "ገሊጹ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ማሕመን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:54:23.955831843Z",
+  "model": "glm-5.3"
+}

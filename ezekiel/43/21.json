@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "ድማ ⟨את⟩ ነቲ በዓቲ ሓጢያት ተወሲድካ፣ ኣብ ተታሕቲ ኤቲ ቤት፣ ካብ ወጻኢ ናይ መቕደስ፣ ትትሓትኦ።",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ተወሲድካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ በዓቲ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ነቲ በዓቲ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ሓጢያት"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "ትትሓትኦ"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "ኣብ ተታሕቲ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ኤቲ ቤት"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ካብ ወጻኢ"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "ናይ መቕደስ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:00:01.982400265Z",
+  "model": "glm-5.3"
+}

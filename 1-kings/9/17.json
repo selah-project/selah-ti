@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ሽሎሞ ድማ ⟨את⟩ ጋዘርን ⟨את⟩ ታሕተይታ ቤት ሕሮንን ሃንጸ።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሃንጸ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጋዘር"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ጋዘር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት ሕሮን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "ሕሮን"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "ታሕተይታ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:41:08.111110730Z",
+  "model": "glm-5.3"
+}

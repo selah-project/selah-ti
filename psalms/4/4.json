@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ነርዕዮም ያህዌህ ነቲ ቅዱስ ንዓኻ ተወለዶ፤ ያህዌህ ንዓይ ክሰምዐኒ ኣሎ።",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "ነርዕዮም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "ተወለዶ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንዓኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ክሰምዐኒ ኣሎ"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "ምስ ደወዕኩ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ናብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:42:31.628438876Z",
+  "model": "glm-5.3"
+}

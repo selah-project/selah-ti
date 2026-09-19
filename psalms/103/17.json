@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 103,
+  "translation": "ሔሴድ ያህዌህ ካብ ዓለም ክሳብ ዓለም ኣብ እቶም ዜፈርሕዎ እዩ፣ ጽድቅኡ ድማ ንውላድ ውላድ እዩ።",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "ሔሴድን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ካብ ዓለም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዓለም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "እቶም ዜፈርሕዎ"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ጽድቅኡን"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ውላድ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:42.004511652Z",
+  "model": "glm-5.3"
+}

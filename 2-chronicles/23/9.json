@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 23:9",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "እቲ ካህን ይሆይዳዕ ነቶም ኣለፍቲ ምእታት ⟨את⟩ እቶም ሞራታትን ⟨את⟩ እቶም ጋንታትን ⟨את⟩ እቶም ንእሽቲ ጋንታትን ናይ ንጉስ ዳዊድ እቶም ኣብ ቤት ኤሎሂም ዝነበሩ ሃበ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "ይሆይዳዕ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ካህን"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "ነቶም ኣለፍቲ"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "ምእታት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ሞራታት"
+    },
+    {
+      "surface": "החניתים",
+      "gloss": "ሞራታት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ጋንታት"
+    },
+    {
+      "surface": "המגנות",
+      "gloss": "ጋንታት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ንእሽቲ ጋንታት"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "ንእሽቲ ጋንታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝነበሩ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ናይ ንጉስ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:10:53.462075868Z",
+  "model": "glm-5.3"
+}

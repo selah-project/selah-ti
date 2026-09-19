@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 62,
+  "translation": "ካብ ልዕልናኡ ጥራይ ተማኺሮም ንኸውዕርዎ ይዓምሉ፣ ብዘርኣ ይደልዩ፣ ብኣፉ ይባርኻሉ፣ ኣብ ልቦም ግን ይርግምዎ። ሰላህ",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "ካብ ልዕልናኡ"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "ተማኺሮም"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "ንኸውዕርዎ"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "ይደልዩ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ዘርኣ"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ብኣፉ"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "ይባርኻሉ"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "ኣብ ልቦም ግን"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "ይርግምዎ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:05.606419161Z",
+  "model": "glm-5.3"
+}

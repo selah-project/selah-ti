@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 5:13",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ግን ኣብ ዓመት ሓደ ናይ ኩርሽ ንጉስ ባቢሎን፣ ኩርሽ ንጉስ ትእዛዝ ንቤት ኤሎሃ እዚ ንኽበናዕ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ברם",
+      "gloss": "ግን"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "ኣብ ዓመት"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "ናይ ኩርሽ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባቢሎን"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "ኩርሽ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "ኤሎሃ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "לבנא",
+      "gloss": "ንኽበናዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:08:59.192926623Z",
+  "model": "glm-5.3"
+}

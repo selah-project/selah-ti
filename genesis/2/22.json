@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ያህዌህ ኤሎሂም ⟨את⟩ እታ ስንክሊ እታ ካብ ኣዳም ዝወሰዳ ናብ ሰበይቲ ሃንጸያ፣ ነታ ድማ ናብ ኣዳም ኣእተያ።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሃንጸያ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ስንክሊ"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "እታ ስንክሊ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ ዝወሰዳ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ዝወሰዳ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ኣዳም"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ናብ ሰበይቲ"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "ኣእተያ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ኣዳም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:31:00.299275060Z",
+  "model": "glm-5.3"
+}

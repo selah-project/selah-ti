@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ኣምሳለ-እሉ ምስኡ ኣካፍሎ፣ እታ ካልኣይቲ ኣምሳለ-እሉ ምስኣ ኣካፍሎ።",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "ኣካፍሎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣምሳለ-እሉ ወስደታት"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "አምሳለ-እሉ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ወስደታት"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ምስኡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ምስኣ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "እታ ካልኣይቲ"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "አምሳለ-እሉ"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ኣካፍሎ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ምስኡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ምስኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:42:02.565612191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ንስኻቶም ⟨את⟩ ምሕደር ቅዱስን ⟨את⟩ ምሕደር መስዋእቲን ተዓቢቡኩም፣ ኣብ ልዕሊ ውላድ እስራኤል ክንደይ ቍጥዐ ኣይከውንን።",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ተዓቢቡኩም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምሕደር"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ምሕደር"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምሕደር"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ምሕደር"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መስዋእቲ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይከውን"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ክንደይ"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ቍጥዐ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:28:51.661085831Z",
+  "model": "glm-5.3"
+}

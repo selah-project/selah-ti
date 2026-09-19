@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ሓድ ጽንኩ ናይ ጽንኻት ንውፈያ ሓጢያብ።",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ጽንኩ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ጽንኻት"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓድ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ንውፈያ ሓጢያብ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:19:00.099252049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ሽድስተ መዓልታት ያህዌህ ⟨את⟩ ሰማያትን ⟨את⟩ ምድሪን ⟨את⟩ ባሕሪን ⟨את⟩ ኩሉ ዝሓዘ ነገር ገበረ፤ ሳባይ መዓልቲ ድማ ረዓየ፤ ስለዚ ያህዌህ ⟨את⟩ መዓልቲ ሻባት ባረኸያ እውን ቀደሰያ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ሽድስተ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰማያት"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ባሕሪ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ዝሓዘ ነገር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝሓዘ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ነገር ኣብ ኣንበታቱ"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "ረዓየ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ሳባይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ባረኸ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መዓልቲ ሻባት"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ሻባት"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "ቀደሰያ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:25:27.341348510Z",
+  "model": "glm-5.3"
+}

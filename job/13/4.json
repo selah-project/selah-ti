@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 13:4",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "«ንስኻቶም ግን ኣባዂቲ ውዲቕ ኢኻቶም፣ ኩሎኩም ሓኪምቲ ባዶ ኢኻቶም።»",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ግን"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ንስኻቶም"
+    },
+    {
+      "surface": "טפלי",
+      "gloss": "ኣባዂቲ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ውዲቕ"
+    },
+    {
+      "surface": "רפאי",
+      "gloss": "ሓኪምቲ"
+    },
+    {
+      "surface": "אלל",
+      "gloss": "ባዶ"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "ኩሎኩም"
+    }
+  ],
+  "timestamp": "2026-09-19T06:08:57.606319775Z",
+  "model": "glm-5.3"
+}

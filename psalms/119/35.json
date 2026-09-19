@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኣብ መስመር ትእዛዛትካ ኣማርኽተኒ፣ ምኽንያቱ ኣብኡ ተደስእኩ።",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "ኣማርኽተኒ"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "ኣብ መስመር"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ትእዛዛትካ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ተደስእኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:23.469926402Z",
+  "model": "glm-5.3"
+}

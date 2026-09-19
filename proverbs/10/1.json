@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "መግባብታት ናይ ሽሎሞ። ወዲ ብሩሕ ኣቦ የዓቢ፤ እቲ ወዲ ከሳር ግን ጭንቀት ኣደኡ እዩ።",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "መግባብታት"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ናይ ሽሎሞ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ብሩሕ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "የዓቢ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "እንተይ ወዲ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ከሳር"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "ጭንቀት"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ኣደኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:45:51.523122507Z",
+  "model": "glm-5.3"
+}

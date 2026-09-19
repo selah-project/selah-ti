@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 52,
+  "translation": "እንታይ ተመካእራ ኣብ ክፉእ፣ አብቲ ጠንካራ? ሔሴድ ⟨ኤል⟩ ኩሉ መዓልቲ ⟨ይጸንሕ እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ተመካእራ"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ኣብ ክፉእ"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "አብቲ ጠንካራ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "መዓልቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:02:47.764384721Z",
+  "model": "glm-5.3"
+}

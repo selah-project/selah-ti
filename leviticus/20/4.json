@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኣብ ህዝቢ ⟨ቲ⟩ ምድሪ ዓይኖም ⟨את⟩ ካብ እቲ ሰብ እቲ እንተ ሓቢሩ፣ ኣብ ዝሃብ ካብ ዘርኡ ናብ ሞሌኽ፣ ንኸይቕተሎ ⟨את⟩ እንተ ዝተወጠኑ፦",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "ምሕባር"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "ይሓብሩ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓይኖም"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ዓይኖም"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "ኣብ ዝሃብ"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "ካብ ዘርኡ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ናብ ሞሌኽ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ንኸይ"
+    },
+    {
+      "surface": "המית",
+      "gloss": "ይቕተሎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንእቲ ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:04:46.806999638Z",
+  "model": "glm-5.3"
+}

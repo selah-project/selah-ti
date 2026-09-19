@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "ግንቦም ተሰኣን፤ ኣብ ድግሳቶም ድማ ዘይትነብር ይኹን።",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "ይኹን"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "ግንቦም"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "ተሰኣን"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "ኣብ ድግሳቶም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ይኹን"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ዘይትነብር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:09.680576490Z",
+  "model": "glm-5.3"
+}

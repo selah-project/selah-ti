@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "«ቅዱሳንይ ናባይ ኣክልቡሉ፣ እቶም ኣብ ላዕሊ ወፈያ ኪዳንይ ዝቐረጹ!»",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "ኣክልቡሉ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ናባይ"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "ቅዱሳንይ"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ዝቐረጹ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳንይ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ወፈያ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:06.918713062Z",
+  "model": "glm-5.3"
+}

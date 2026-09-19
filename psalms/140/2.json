@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 140,
+  "translation": "ያህዌህ ኣውጽአኒ ካብ ሰብ ክፉእ፤ ካብ ሰብ ሓይልታት ትሓልወኒ።",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "ኣውጽአኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ካብ ሰብ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ካብ ሰብ"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "ሓይልታት"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "ትሓልወኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:37.896359958Z",
+  "model": "glm-5.3"
+}

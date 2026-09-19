@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ኣረንጊዳ ተጸንሳት፣ ኣውራቂ ምውላድ ኢኹም፤ ትንፋስኩም ሓዊ ⟨እዩ⟩ — ኪብልዐኩም እዩ።",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "ተጸንሳት"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "ኣረንጊዳ"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "ምውላድ ኢኹም"
+    },
+    {
+      "surface": "קש",
+      "gloss": "ኣውራቂ"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "ትንፋስኩም"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "ኪብልዐኩም እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:59:37.365393384Z",
+  "model": "glm-5.3"
+}

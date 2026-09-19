@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 36:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ሞሸ ድማ ነበጽላኤልን ነኣህልያብን ነኩሉ ብሓበን ልቢ ሰብ — ያህዌህ ጥበብ ኣብ ልቡ ዝሃቦ — ኩሉ ልቡ ነቲ ግብሪ ንኽቐርብ ዝነስሖ ዓወቖ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ዓወቖ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነ"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "በጽላኤል"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אהליאב",
+      "gloss": "ኣህልያብ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ብሓበን"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ኣብ ልቡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ዝነስሖ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "לקרבה",
+      "gloss": "ንኽቐርብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነ"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ነቲ ግብሪ"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ንኽገብር"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ግብሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:44:26.695412071Z",
+  "model": "glm-5.3"
+}

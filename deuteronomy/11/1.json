@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "⟨את⟩ ያህዌህ ኤሎሂምካ ትፈትዉ፣ ኣብ ኩሉ መዓልታት ምልክቱን ሕጊታቱን ፍርዲታቱን ትእዛዛቱን ከኣ ትክተም።",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "ትፈትዉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ትክተም"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "ምልክቱ"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ሕጊታቱ"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "ፍርዲታቱ"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ትእዛዛቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "መዓልታት"
+    }
+  ],
+  "timestamp": "2026-09-19T08:35:32.757649652Z",
+  "model": "glm-5.3"
+}

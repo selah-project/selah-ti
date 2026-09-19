@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 13:16",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ሻኡልን ዮናታን ወዱንን ምሳኦም ዝርከብ እቲ ህዝቢን ኣብ ጌባዕ ብንያምም ውዒሎም፤ ፍልስጤማውያን ድማ ኣብ ሚኽማስ ሰፈሩ።",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "ዮናታን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዱ"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ዝርከብ"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ምሳኦም"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "ውዒሎም"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "ኣብ ጌባዕ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ብንያምም"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ፍልስጤማውያን"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "ሰፈሩ"
+    },
+    {
+      "surface": "במכמש",
+      "gloss": "ኣብ ሚኽማስ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:02:44.094889909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 2:24",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ጐምባዝ ምድረ በዳ ተማሃራይ ኮይና፣ ኣብ ምትሕታታ ነፍሳ ንንፋስ ትስሕብ፤ ንግዜኣ መን የምለሳ፧ ኩሎም ዝደልዋቶም ኣይሰንእዉን፣ ኣብ ወርሓኣ ድማ ደርቡዋቶም።",
+  "tokens": [
+    {
+      "surface": "פרה",
+      "gloss": "ጐምባዝ ምድረ በዳ"
+    },
+    {
+      "surface": "למד",
+      "gloss": "ተማሃራይ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ምድረ በዳ"
+    },
+    {
+      "surface": "באות",
+      "gloss": "ኣብ ምትሕታታ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሳ"
+    },
+    {
+      "surface": "שאפה",
+      "gloss": "ትስሕብ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ንንፋስ"
+    },
+    {
+      "surface": "תאנתה",
+      "gloss": "ንግዜኣ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "የምለሳ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "מבקשיה",
+      "gloss": "ዝደልዋቶም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ...ን"
+    },
+    {
+      "surface": "ייעפו",
+      "gloss": "ኣይሰንእዉን"
+    },
+    {
+      "surface": "בחדשה",
+      "gloss": "ኣብ ወርሓኣ"
+    },
+    {
+      "surface": "ימצאונה",
+      "gloss": "ደርቡዋቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:27:13.865749017Z",
+  "model": "glm-5.3"
+}

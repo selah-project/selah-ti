@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ውኁይ ብዙሕ ቅልውላው ህዝቢ ድማ ምስ ⟨אתם⟩ ተበገሰ፤ ርብዒትን ከብትን፡ ብቕይሊ ኣጋይሽ ዝበዝሕ ብጣዕሚ።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ቅልውላው"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ተበገሰ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ምስ ⟨אתם⟩",
+      "marks": "ምስ ንሳቶም"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ርብዒት"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ከብት"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ብቕይሊ ኣጋይሽ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ዝበዝሕ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:20:01.346426521Z",
+  "model": "glm-5.3"
+}

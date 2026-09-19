@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ዝተረገመ እዩ እቲ ንዓቡን ንኣደኡን ዝዕቕቕ፤ ኹሉ ህዝቢ ድማ ክብሉ እዮም፦ ኣሜን።",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ዝተረገመ"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "ዝዕቕቕ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ንዓቡ"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ንኣደኡን"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ክብሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ኣሜን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:05:58.138467802Z",
+  "model": "glm-5.3"
+}

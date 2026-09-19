@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ያህዌህ ተባርኹ፣ ስለ ሰምዐ ቃል ልምዲተይ።",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ተባርኹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ልምዲተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:10.502678299Z",
+  "model": "glm-5.3"
+}

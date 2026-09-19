@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ምኽንያቱ ንስኻ ኣብ ምስጢር ገበርካ፤ ኣነ ድማ ⟨את⟩ ነቲ ነገር እዚ ኣብ ቐደም ኩሉ እስራኤልን ኣብ ቐደም እቲ ፀሓይን ክገብር እየ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ገበርካ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ኣብ ምስጢር"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ክገብር እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ነገር"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ነቲ ነገር"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ኣብ ቐደም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "ኣብ ቐደም ድማ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "እቲ ፀሓይ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:30:41.649228708Z",
+  "model": "glm-5.3"
+}

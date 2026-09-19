@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 15:18",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ሰበይቲ እቲ ሰብ ⟨את⟩ኣ ምስ ዝተኛ ውራዲ ዘርኢ — ⟨ክልቲኦም⟩ ብማይ ይላጹሙ፣ እሞ ክሳብ ብዓልቲ ኣይንጹዑን እዮም።",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ዝተኛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ኣ"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "ውራዲ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘርኢ"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "ይላጹሙ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ብማይ"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "ኣይንጹዑን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ብዓልቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:00:40.639039927Z",
+  "model": "glm-5.3"
+}

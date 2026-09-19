@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 139,
+  "translation": "ኩርዑ ናይ ድሕቆ ምስሓር እንተ ወሲድኩ፣ ኣብ ውሽጣዊ ጫፍ ባሕሪ እንተ በዓልኩ፣",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "እንተ ወሲድኩ"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ኩርዑ"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ናይ ድሕቆ ምስሓር"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "እንተ በዓልኩ"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "ኣብ ውሽጣዊ ጫፍ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:41.070581258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 6:16",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እዚኦም ድማ እቶም ዳዊድ ኣብ ቤት ያህዌህ ኣብ ልዕሊ ኢድታት ዜማ ምስ ዝዓረፈት እቲ ታቦት ኣቕሚዖም።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም…ዝ"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "ኣቕሚዖም"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ኢድታት"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ዜማ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ממנוח",
+      "gloss": "ምስ ዝዓረፈት"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "እቲ ታቦት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:33:41.454692636Z",
+  "model": "glm-5.3"
+}

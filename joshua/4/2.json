@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ንስኻትኩም ካብ እቲ ህዝቢ ክልተ ዓሰርተ ሰባት ውሰዱ፣ ሓደ ሰብ ሓደ ሰብ ካብ ዓሌት።",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "ውሰዱ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንስኻትኩም"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ዓሰርተ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "ካብ ዓሌት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:16:36.123998983Z",
+  "model": "glm-5.3"
+}

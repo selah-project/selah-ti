@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 19:21",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ንኡሱ ድማ ተዛረቦ፦ «ረኣይ፣ ነዚ ነገር እውን ኣንተታኻ ኰይነ ኣልዒለ፣ እታ ዝዛረብካያ ⟨את⟩ ከተማ ከይተቐውጣ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረቦ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንኡሱ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ረኣይ"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ኰይነ ኣልዒለ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ኣንተታኻ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ነዚ ነገር"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ከይ"
+    },
+    {
+      "surface": "הפכי",
+      "gloss": "ተቐውጸኣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ከተማ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እታ ከተማ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ዛረብካያ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:41:26.314432123Z",
+  "model": "glm-5.3"
+}

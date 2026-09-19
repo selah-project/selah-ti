@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣውይ ንኻ ምድሪ፣ ምስ እተዝ ንጉሥኻ ቆልዑ ዝኾነ፣ መሳፍንትኻ ድማ ብትሕሊት ይበልዑ!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "ኣውይ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "ንጉሥኻ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ቆልዑ"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "መሳፍንትኻ ድማ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ብትሕሊት"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ይበልዑ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:08:11.947907239Z",
+  "model": "glm-5.3"
+}

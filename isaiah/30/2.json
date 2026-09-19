@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 30:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "እቶም ዝነጊሶም ንምውራድ ሚጽራይም ወይ ኣፍና ኣይሓቱን፤ ንምሕዋስ ኣብ ማዕከኒ ፓርዖ ወይ ንምጥማቕ ኣብ ጽልማት ሚጽራይም።",
+  "tokens": [
+    {
+      "surface": "ההולכים",
+      "gloss": "እቶም ዝነጊሶም"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ንምውራድ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ወይ ኣፍና"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይሓቱን"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "ኣይሓቱን"
+    },
+    {
+      "surface": "לעוז",
+      "gloss": "ንምሕዋስ"
+    },
+    {
+      "surface": "במעוז",
+      "gloss": "ኣብ ማዕከኒ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ולחסות",
+      "gloss": "ወይ ንምጥማቕ"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ኣብ ጽልማት"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:02:08.242625632Z",
+  "model": "glm-5.3"
+}

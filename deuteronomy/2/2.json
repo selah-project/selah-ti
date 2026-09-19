@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ያህዌህ ድማ ንዓይ ብምባል ተዛረበኒ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብምባል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:45:33.467251626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ንሱ ድማ በለ፣ ንነፋሲ ሽንቑርቲ ኣብ ውሽጣ ኣቕሚዑ፣ ማዕበላቱ ድማ ንላዕሊ ኣሕወሳ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ኣቕሚዑ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ነፋሲ"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "ሽንቑርቲ"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "ኣሕወሳ"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "ማዕበላቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:21.788712118Z",
+  "model": "glm-5.3"
+}

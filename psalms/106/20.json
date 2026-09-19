@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ነቲ ⟨את⟩ ክብርኦም ብቅርጺ ሓሽማ እኽሊ ዘብልዕ ተቐየሩ።",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "ተቐየሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክብርኦም"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ነቲ ክብርኦም"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "ብቅርጺ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ሓሽማ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ዘብልዕ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "እኽሊ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:23.218678969Z",
+  "model": "glm-5.3"
+}

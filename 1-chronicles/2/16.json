@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 2:16",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣሓቶም ድማ ጽሩያን ኣቢጋይልን ነበራ፤ ውላድ ጽሩያ ድማ ኣቢሽይን ዮኣብን ዓሳሔልን — ሰለስተ እዮም።",
+  "tokens": [
+    {
+      "surface": "ואחיתיהם",
+      "gloss": "ኣሓቶም"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ጽሩያ"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "ኣቢጋይል"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ጽሩያ"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "ኣቢሽይ"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "ዮኣብ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ዓሳሔል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ዓሳሔል"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሰለስተ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:29:03.751876127Z",
+  "model": "glm-5.3"
+}

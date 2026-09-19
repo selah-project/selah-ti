@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ንዝመርሕ፣ ብኣይለት ሽሓር፣ መዝሙር ናይ ዳዊድ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንዝመርሕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ-"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "ኣይለት"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ሽሓር"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:11.334371722Z",
+  "model": "glm-5.3"
+}

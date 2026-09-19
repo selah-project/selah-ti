@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣብ ምድሪ ያህዌህ ኣይነብሩን፤ ኤፍራይም ድማ ናብ ሚጽራይም ክምለስ እዩ፣ ኣብ ኣስር ድማ ርኩስ ይብሉ እዮም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ኣይነብሩን"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ክምለስ እዩ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "ኣብ ኣስር"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ርኩስ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ይብሉ እዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:10:23.467464732Z",
+  "model": "glm-5.3"
+}

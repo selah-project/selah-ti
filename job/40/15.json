@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 40:15",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ርአ ሕጂ በሄሞት፣ እቲ ምስ ኣኻ ዝገበርኩዎ፤ ሳሕሊ ከም ከብቲ ይበልዖ።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ርአ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "በሄሞት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ዝገበርኩዎ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስ ኣኻ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ሳሕሊ"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "ከም ከብቲ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበልዖ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:24:22.094731611Z",
+  "model": "glm-5.3"
+}

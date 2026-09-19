@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኣብ ቅድሚ ነገስቲ ንምስክርነትኻ እናዛረብኩ እየ፣ ድማ ኣይሕፉርን እየ።",
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "እናዛረብኩ እየ"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "ንምስክርነትኻ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ነገስቲ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "እሕፉር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:41.216030177Z",
+  "model": "glm-5.3"
+}

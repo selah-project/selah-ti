@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ስለዚ ቅዱሳት ኩኑ፣ ብዛዕባ ስድራኡ ንገብር፣ ስለዚ ሓደ ኤሎሂም እዩ።",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "ቅዱሳት ኩኑ"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ኩኑ፣ ብዛዕባ ስድራኡ ንገብር፣ ብዛዕባ ስድራኡ ንገብር፣"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂም ናይ ስድራኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:34.573868121Z",
+  "model": "glm-5.3"
+}

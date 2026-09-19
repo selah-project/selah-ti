@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ንውላደ እስራኤል እናበሉ ብዛሩ፦ «እዚ እቲ እንስሳ እዩ እትትብልዑ፣ ካብ ኩሉ እቲ እንስሳ እቲ ኣብ ምድሪ ዘሎ።»",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "ብዛሩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበሉ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "እቲ እንስሳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ትብልዑ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "እቲ እንስሳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እቲ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:54:14.902464139Z",
+  "model": "glm-5.3"
+}

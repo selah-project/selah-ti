@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 9:20",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኩሉ እቲ ሕዝቢ ካብ ኣሞራይ፣ ኬታይ፣ ፐረዛይ፣ ኬዋይን የቡሳይን ዝተረፈ፣ ንሳቶም ካብ ውላድ እስራኤል ኣይኮኑን።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "እቲ ዝተረፈ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ኣሞራይ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ኬታይ"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "ፐረዛይ"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ኬዋይ"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "የቡሳይን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮኑን"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ካብ ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:43:21.700805409Z",
+  "model": "glm-5.3"
+}

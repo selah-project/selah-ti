@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 84,
+  "translation": "ኣብ ለውሒ ሃባካ ዝሓልፉ ምንጪ ይገብሩዎ፤ በረኻታት ድማ ናይ መጀመርታ ዝናብ ይሸፍኖ።",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "ዝሓልፉ"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ኣብ ለውሒ"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "ሃባካ"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "ምንጪ"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "ይገብሩዎ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "በረኻታት"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "ይሸፍኖ"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ናይ መጀመርታ ዝናብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:01.948185849Z",
+  "model": "glm-5.3"
+}

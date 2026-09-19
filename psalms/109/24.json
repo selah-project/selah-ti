@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "ኣግራብያተይ ካብ ጾም ወደቑ፣ ስጋይ ድማ ካብ ስቡሕ ጎደሉ።",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "ኣግራብያተይ"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ወደቑ"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "ካብ ጾም"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "ስጋይ"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "ጎደሉ"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ካብ ስቡሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:47.305407437Z",
+  "model": "glm-5.3"
+}

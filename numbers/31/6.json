@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 31:6",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ሞሸ ድማ ንዓመት ስድራ ሽሕ ⟨את⟩ ንሳቶም ናብ ጦርነት ሰደዎም፣ ⟨את⟩ ንሳቶምን ⟨את⟩ ፊንሕስ ወዲ ኤልዓዛር ካህን ናብ ጦርነት፣ ቅዱሳት መሳርሒታትን ቀርፊታት ናይ ጩኸትን ኣብ ኢዱ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደወ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳቶም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ንዓመት ስድራ"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "ናብ ጦርነት"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳቶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ፊንሕስ"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ፊንሕስ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "ናብ ጦርነት"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "መሳርሒታትን"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "וחצצרות",
+      "gloss": "ቀርፊታትን"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "ናይ ጩኸት"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ኣብ ኢዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:33:23.022597826Z",
+  "model": "glm-5.3"
+}

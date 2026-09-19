@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "እቲ ዚቓጥሎም ድማ ⟨את⟩ ንሳቶም ብማይ ⟨את⟩ ልብሰቱ የሕጸብ፣ እውን ⟨את⟩ ስጋኡ ብማይ ይሓጽብ፣ ድሕሪ እዚ ድማ ናብ እቲ ሰፈር ይኣትው።",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "እቲ ዚቓጥሎም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳቶም"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "የሕጸብ"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ልብሰቱ"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ይሓጽብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስጋኡ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ስጋኡ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ብማይ"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ይኣትው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "እቲ ሰፈር"
+    }
+  ],
+  "timestamp": "2026-09-19T08:30:36.652001623Z",
+  "model": "glm-5.3"
+}

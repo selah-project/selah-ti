@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ውላድ ያፍት፦ ጎመር፣ ማጎግ፣ ማዳይ፣ ያዋን፣ ቱባል፣ መሸኽን ቲራስን።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ያፍት"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ጎመር"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "ማጎግን"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "ማዳይን"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "ያዋንን"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "ቱባልን"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "መሸኽን"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "ቲራስን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:35:44.600319951Z",
+  "model": "glm-5.3"
+}

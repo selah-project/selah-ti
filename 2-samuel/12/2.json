@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ነቲ በለጽ ግን ኣጋታትን ከብታትን ዝበዝሕ ብጣዕሚ ነይርዎ።",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "ነቲ በለጽ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይርዎ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ኣጋታት"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ከብታትን"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ዝበዝሕ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:31:53.598644263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ርእዩ፣ ብጽድቂ ንጉስ ይነግሥ፣ ኣመሓያርቲ ድማ ብሕጊ ይኽውን።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ርእዩ"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "ብጽድቂ"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ይነግሥ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "ኣመሓያርቲ ድማ"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ብሕጊ"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "ይኽውን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:00:32.612724110Z",
+  "model": "glm-5.3"
+}

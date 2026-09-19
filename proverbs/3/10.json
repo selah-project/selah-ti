@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣትክልቲኻ ብዝበዛ ይምላእ፣ ሓድሽ ወይኒ ድማ ቈላታትኻ ይፍለሱ።",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "ይምላእ"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "ኣትክልቲኻ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ብዝበዛ"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "ሓድሽ ወይኒ"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "ቈላታትኻ"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "ይፍለሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:42:07.301343341Z",
+  "model": "glm-5.3"
+}

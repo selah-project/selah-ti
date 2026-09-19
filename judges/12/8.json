@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ነታ እብጽኣን ካብ ቤትላሕም ድሕሪኡ ⟨את⟩ እስራኤል ዳነ።",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ዳነ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ድሕሪኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "እብጽኣን"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ቤት"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ላሕም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:47:21.109661382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣብቲ ቦታ እቲ ⟨את⟩ ዕላማ ዝደምርዎ እቲ፣ ⟨את⟩ ኣሽም ከምኡ ይደምርዎ፤ ⟨את⟩ ደመኡ ድማ ኣብ መሠዊዕ ብዙርያ ይርኪብ።",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "ኣብቲ ቦታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ዝደምርዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዕላማ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ዕላማ"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ይደምርዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሽም"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ኣሽም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ደመኡ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ደመኡ"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "ይርኪብ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊዕ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ብዙርያ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:50:12.204512134Z",
+  "model": "glm-5.3"
+}

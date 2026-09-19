@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ኣፍራሕ ይበላ እዩ፤ ሓልቦ ልቢ ኸደምኾ፣ ⟨את⟩ ነፍሱ ኣይድንን፣ «ኣብ የማናይ ኢደይ ሓሶት የለን ድዩ?» ክብል ኣይኮነን።",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "ይበላ"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "ኣፍራሕ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "ሓልቦ"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "ኸደምኾ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "ይድንን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሱ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ድማ ኣይ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ክብል"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ድዩ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "ኣብ የማናይ ኢደይ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:15:42.040765431Z",
+  "model": "glm-5.3"
+}

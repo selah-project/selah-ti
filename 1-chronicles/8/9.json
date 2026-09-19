@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ካብ ሕዱሸ ኣንስቱ ድማ ⟨את⟩ ዮባቭን ⟨את⟩ ጽብያን ⟨את⟩ መሻን ⟨את⟩ ማልኻምን ወልደ።",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ወልደ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ሕዱሸ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ኣንስቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮባቭ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "ዮባቭ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጽብያ"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "ጽብያ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መሻ"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "መሻ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ማልኻም"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "ማልኻም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:33:34.054342566Z",
+  "model": "glm-5.3"
+}

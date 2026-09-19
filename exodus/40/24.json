@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ንእቲ መብራሕ ⟨את⟩ ኣብ ድንኳን ኣኼባ ኣብ ቅጽሪ እቲ ማዕድን ብጎኒ እቲ ማሕደር ናብ ደቡብ ኣቕሚጡ።",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ኣቕሚጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ መብራሕ"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "እቲ መብራሕ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ኣብ ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ኣኼባ"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "ኣብ ቅጽሪ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "እቲ ማዕድን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ጎኒ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "እቲ ማሕደር"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ናብ ደቡብ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:45:50.419688357Z",
+  "model": "glm-5.3"
+}

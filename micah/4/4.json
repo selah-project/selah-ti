@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ነፍሲ ወከፍ ሰብ ኣብ ታሕቲ ወፍጭኡን ኣብ ታሕቲ በለስኡን ይነብር፣ ዝሓሽን የብሉን፤ እምበር ኣፍ ያህዌህ ጸባኦት በለ።",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ይነብሩ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ወከፍ ሰብ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ታሕቲ"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "ወፍጭኡ"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ኣብ ታሕቲ"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "በለስኡ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የብሉን"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "ዝሓሽን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እምበር"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ኣፍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "በለ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:24:28.156183597Z",
+  "model": "glm-5.3"
+}

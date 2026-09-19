@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ከምኡውን ⟨את⟩ መማዕበልን ⟨את⟩ ቍሳቍሡን ⟨את⟩ እታ ንጹር መብራሕቲን ⟨את⟩ ኹሉ ቍሳቃኣን ⟨את⟩ መሠወሪ ሽጦርን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መማዕበል"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "መማዕበል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቍሳቍሡ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ቍሳቍሡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መብራሕቲ"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "መብራሕቲ"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "ንጹር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ ቍሳቃኣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ቍሳቃኣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መሠወሪ ሽጦር"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠወሪ"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ሽጦር"
+    }
+  ],
+  "timestamp": "2026-09-18T21:36:06.058252941Z",
+  "model": "glm-5.3"
+}

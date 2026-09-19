@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 139,
+  "translation": "ኣባገድን ምውራድን ሰባብያኒ፤ ብኩሉ ኣገዳሲ ደቂ እንተኾይን ተለፊጠካዮ።",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "ኣባገድን"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "ምውራድን"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "ሰባብያኒ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ብኩሉ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ኣገዳሲ ደቂ"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "ተለፊጠካዮ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:32.442976742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "እቶም ናይ ጽኣን ሹማቐቶም ብዛዕበር ቀረቡ፣ እቶም ናይ ኖፍ ሹማቐቶም ተሳሕቡ፤ እቶም ምስክር ስድራታተኣ ንሚጽራይም ⟨את⟩ ኣታሕዮ።",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "ብዛዕበር ቀረቡ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ሹማቐት"
+    },
+    {
+      "surface": "צען",
+      "gloss": "ጽኣን"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ተሳሕቡ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ሹማቐት"
+    },
+    {
+      "surface": "נף",
+      "gloss": "ኖፍ"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "ኣታሕዮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚጽራይም"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "ምስክር ስድራ"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "ናይ ስድራታተኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:53:39.923214439Z",
+  "model": "glm-5.3"
+}

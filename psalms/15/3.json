@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ብቐልጢ ኣይሰደርን፣ ነቲ ረዳእኡ ኣይገበሮ ኣይኮነን፣ ስደባይ ኣብ ልዕሊ ቅርቡ ኣይተቓልዐን —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ይሰደር"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "ቐልጢ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ይገብር"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ንረዳእኡ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ኣየገብሮን"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "ስደባይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ይተቓልዕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ቅርቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:23.011167722Z",
+  "model": "glm-5.3"
+}

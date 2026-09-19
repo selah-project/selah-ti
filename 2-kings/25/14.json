@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 25:14",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ከምኡውን ⟨את⟩ ሳሕንን ⟨את⟩ ማዕዶትን ⟨את⟩ መቅርጫትን ⟨את⟩ ስኒታትን ⟨את⟩ ኩሉ መሳቐት ነሓስ እቶም ብኡ ዝተገልገሉ ኣብኡ፣ ወሲኹ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሳሕን"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "ሳሕን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ማዕዶት"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "ማዕዶት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መቅርጫት"
+    },
+    {
+      "surface": "המזמרות",
+      "gloss": "መቅርጫት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስኒታት"
+    },
+    {
+      "surface": "הכפות",
+      "gloss": "ስኒታት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "መሳቐት"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ናይ ነሓስ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "ዝተገልገሉ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ብኡ"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ወሲኹ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:41:09.779799189Z",
+  "model": "glm-5.3"
+}

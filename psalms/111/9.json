@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 111,
+  "translation": "ኣድአት ናብ ህዝቡ ሰደዃ፣ ኪዳኑን ናብ ዘለኣለም ኣዘዘ፤ ቅዱስን ዝረብሕን ስሙ እዩ።",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "ኣድአት"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ሰደዃ"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ናብ ህዝቡ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ኣዘዘ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ኪዳኑን"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስን"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ዝረብሕን"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:35.861190205Z",
+  "model": "glm-5.3"
+}

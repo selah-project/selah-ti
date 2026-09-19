@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ንሱ ድማ ናብ መንግስቲ እቲ ንጉስ ናይ ደቡብ ብምምጻእ ናብ ምድሩ ይምለስ።",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ብምምጻእ"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "ናብ መንግስቲ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ናይ ደቡብ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ይምለስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "ምድሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:03:52.607128032Z",
+  "model": "glm-5.3"
+}

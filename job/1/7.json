@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ያህዌህ ንሰይጣን፦ «ካበይ ተመጺእካ?» በሎ። ሰይጣን ድማ ⟨את⟩ ያህዌህ መልሶ፦ «ካብ ምውላይ ምድሪን ኣብ ምዝዋርዋን ካባኣ ተመጺአ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ሰይጣን"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ካበይ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ተመጺእካ"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "መልሶ"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ሰይጣን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ኢሉ"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "ካብ ምውላይ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "ኣብ ምዝዋርዋ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣባኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:03:02.277803821Z",
+  "model": "glm-5.3"
+}

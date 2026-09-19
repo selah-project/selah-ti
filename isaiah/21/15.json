@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ምኽንያቱ ካብ ፊት ሰይፍታት ሸልሙ፤ ካብ ፊት ሰይፍ ዝተወጸአት፣ ካብ ፊት ቀስት ዝተዘርጋ፣ ከምኡውን ካብ ፊት ክብደት ጦርነት።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ካብ ፊት"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ሰይፍታት"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ሸልሙ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ካብ ፊት"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "ዝተወጸአት"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ከምኡውን ካብ ፊት"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ቀስት"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "ዝተዘርጋ"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ከምኡውን ካብ ፊት"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ክብደት"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ጦርነት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:52:26.136177790Z",
+  "model": "glm-5.3"
+}

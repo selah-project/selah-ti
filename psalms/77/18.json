@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 77,
+  "translation": "ደቀቓት ማይ ኣፍሱሱ፣ ሰማያት ድምጺ ሃቑ፤ ቐስታትካ እውን ተመላለያ።",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "ኣፍሱሱ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "ደቀቓት"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጺ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ሃቑ"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "ቐስታትካ"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ተመላለያ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:22.205012327Z",
+  "model": "glm-5.3"
+}

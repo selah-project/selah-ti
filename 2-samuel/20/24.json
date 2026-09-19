@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 20:24",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኣዶራም ድማ ኣብ ልዕሊ እቲ ግብሪ ነበረ፤ ይሆሹፋጥ ወዲ ኣሕሉድ ድማ እቲ መዘኻኸሪ ነበረ።",
+  "tokens": [
+    {
+      "surface": "ואדרם",
+      "gloss": "ኣዶራም ድማ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "המס",
+      "gloss": "እቲ ግብሪ"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "ይሆሹፋጥ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "ኣሕሉድ"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "እቲ መዘኻኸሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:37:37.224965992Z",
+  "model": "glm-5.3"
+}

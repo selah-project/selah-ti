@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ሓደ ሰብ እንተ ሓዚዱ ⟨את⟩ ባርያኡ ወይ ⟨את⟩ ጓል ባርያኡ ብመዓት፣ ኣብ ታሕቲ ኢዱ እንተ ሞተ ድማ ክቕጽፍ ይቕጸፍ።",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "እንተ ሓዚዱ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሓደ ሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ባርያኡ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ባርያኡ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጓል ባርያኡ"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "ጓል ባርያኡ"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ብመዓት"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "እንተ ሞተ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ታሕቲ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ክቕጽፍ"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "ይቕጸፍ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:29:32.710721726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኤሎሂም ድማ ነቲ ሕዝቢ ⟨את⟩ ብዙርያ ብመገዲ ምድረ-በዳ ናብ ባሕሪ ሱፍ ኣንፈሎም፤ ውላድ ይስራኤል ድማ ብቐጥባት ኮይኖም ካብ ምድሪ ሚጽራይም ወጹ።",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ብዙርያ ኣንፈሎም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ሕዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ነቲ ሕዝቢ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ብመገዲ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ምድረ-በዳ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ሱፍ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ብቐጥባት ኮይኖም"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ወጹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:22:05.349435391Z",
+  "model": "glm-5.3"
+}

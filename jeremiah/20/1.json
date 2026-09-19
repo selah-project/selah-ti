@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 20:1",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ፓስኽሕውር ወዲ ኢማር ካህን፣ ኣብ ቤት ያህዌህ ልዑካይ ኣለጋዕሚ እተባህለ ኮይኑ፣ ይርምያሁ ⟨את⟩ ነቢያዊ ኮይኑ እዚኦም ቃላት ⟨את⟩ ምትካእ ሰምዐ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "ፓስኽሕውር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ኢማር"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "פקיד",
+      "gloss": "ተታካኢ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ኣለጋዕሚ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይርምያሁ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ይርምያሁ"
+    },
+    {
+      "surface": "נבא",
+      "gloss": "ነቢያዊ ምትካእ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ቃላት"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:47:19.576612717Z",
+  "model": "glm-5.3"
+}

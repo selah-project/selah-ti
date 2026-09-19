@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "ኣነ፣ ኣነ ንሱ እዩ፤ ንተሓትታትካ ንስለ ገዛእ ርእሱ የሕርም እዩ፣ ንኃጢኣትካ ድማ ኣይዝክረን።",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "የሕርም"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "ንተሓትታትካ"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "ንስለ ገዛእ ርእሱ"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "ንኃጢኣትካ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ዝክር"
+    }
+  ],
+  "timestamp": "2026-09-19T08:50:50.877175475Z",
+  "model": "glm-5.3"
+}

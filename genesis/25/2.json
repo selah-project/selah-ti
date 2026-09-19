@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ንሱ ድማ ሓበያቶ ዝምራንን ⟨את⟩ ያቅሸንን ⟨את⟩ ሜዳንን ⟨את⟩ ሚድያንን ⟨את⟩ ይስባቅን ⟨את⟩ ሹኣሕን ኣልያ።",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ሓበያቶ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝምራን"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "ዝምራን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ያቅሸን"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "ያቅሸን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሜዳን"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "ሜዳን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሚድያን"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ሚድያን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ይስባቅ"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "ይስባቅ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሹኣሕ"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "ሹኣሕ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:48:23.663505198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ናብ ኽርክር ብቕጽበት ኣይውጸእን፣ ንዕቁብ ሽእሉ ኣብ መወዳእታ እንታይ ኪገብር ኣይትፈልጥን፣ ሓዋኻ ምስ ኣሕሊኻ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ኣይውጸእን"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ናብ ኽርክር"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ብቕጽበት"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ንዕቁብ ሽእሉ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ኪገብር"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "ኣብ መወዳእታ"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "ምስ ኣሕሊኻ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ንኻ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ሓዋኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:56:17.728145870Z",
+  "model": "glm-5.3"
+}

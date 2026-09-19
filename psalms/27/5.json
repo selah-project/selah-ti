@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ምስኡ እዩ ብድኣቱ ኣብ መዓልቲ ንዑቕ ይሓብኣኒ፣ ብሕብእቲ ማሕደሩ ድማ ይሓብኣኒ፣ ኣብ ወጥሪ ድማ ይዕምረኒ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምስኡ"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "ይሓብኣኒ"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "ብድኣቱ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ንዑቕ"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "ይሓብኣኒ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ብሕብእቲ"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ማሕደሩ"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ኣብ ወጥሪ"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "ይዕምረኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:55.367498674Z",
+  "model": "glm-5.3"
+}

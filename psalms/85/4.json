@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 85,
+  "translation": "ኣካቢኻ ኩሉ ቍጣኻ፣ ተመሊስካ ካብ ተቓጽሎ ኣፍኻ።",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "ኣካቢኻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "ቍጣኻ"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "ተመሊስካ"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "ተቓጽሎ"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ኣፍካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:55.547403432Z",
+  "model": "glm-5.3"
+}

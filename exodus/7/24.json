@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኩሉ ምስጽራይም ድማ ብዙርባይ ዓባይ ንማይ ክሰቱ ቈፉሩ፤ ካብ ማይ ዓባይ ክሰቱ ስለ ዘይከእሉ እዩ።",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "ቈፉሩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምስጽራይም"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "ብዙርባይ"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ዓባይ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ክሰቱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ ዘይ…ኮይኖም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ዝከእሉ"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "ክሰቱ"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "ካብ ማይ"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ዓባይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:12:49.774382512Z",
+  "model": "glm-5.3"
+}

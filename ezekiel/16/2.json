@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ወዲ ሰብ፣ ⟨את⟩ የሩሻላይም ⟨את⟩ ጽድቀታታ ኣፍልጣየ።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "ኣፍልጣየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሩሻላይም"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጽድကታታ"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "ጽድቀታታ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:30:10.358307356Z",
+  "model": "glm-5.3"
+}

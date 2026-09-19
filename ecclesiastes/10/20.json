@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 10:20",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣብ ሓሳብካ እውን ንንጉስ ኣይትርግም፣ ኣብ ክፋላት መንካዕካዑኻ እውን ንበለጸ ሰብ ኣይትርግም፣ እሞ ዑፉ ሰማያት ነቲ ቃል ⟨את⟩ የብጽሕ፣ ኣባል ኣጽራሕቲ እውን ነቲ ቃል ይነግር።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "במדעך",
+      "gloss": "ኣብ ሓሳብካ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንንጉስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "ትርግም"
+    },
+    {
+      "surface": "ובחדרי",
+      "gloss": "ኣብ ክፋላት"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "መንካዕካዑኻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "ትርግም"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ንበለጸ ሰብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ዑፉ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "יוליך",
+      "gloss": "የብጽሕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ቃል"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ኣባል"
+    },
+    {
+      "surface": "הכנפים",
+      "gloss": "ኣጽራሕቲ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ይነግር"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    }
+  ],
+  "timestamp": "2026-09-19T06:42:56.863590945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "እቲ ኣብ የሩሻላይምን ብንያምይን ዝተረከበ ⟨את⟩ ኹሉ ኣቕሚዖም፤ ኣብያተ የሩሻላይም ድማ ከም ኪዳን ኤሎሂም፣ ኤሎሂም ኣቦታቶም፣ ገበሩ።",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ኣቕሚዖም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ ዝተረከበ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ዝተረከበ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ኣብ የሩሻላይም"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ብንያምይን"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ኣብያተ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "ከም ኪዳን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "ኣቦታቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:22:47.633898981Z",
+  "model": "glm-5.3"
+}

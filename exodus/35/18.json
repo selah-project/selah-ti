@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "⟨את⟩ ተላታት እቲ ማሕደርን ⟨את⟩ ተላታት እቲ ብቢትን ⟨את⟩ ገመላቶምን።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተላታት"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "ተላታት"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ናይ እቲ ማሕደር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩…ን",
+      "marks": "ተላታት"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "ተላታት"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ናይ እቲ ብቢት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩…ን",
+      "marks": "ገመላቶም"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "ገመላቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:39:23.615785189Z",
+  "model": "glm-5.3"
+}

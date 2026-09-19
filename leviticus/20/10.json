@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኦም ሰብ ⟨את⟩ ሰበይቲ ኣባይኣ ዝውላድ፣ ንሱ ዝውላድ ⟨את⟩ ሰበይቲ ሓዎኡ፣ ኣብ ወላዲን ኣብ ወላዲትን ሞት ይቕተሉ።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ኦም ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "ዝውላድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰበይቲ ኣባይኣ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ኣባይኣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "ዝውላድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰበይቲ ሓዎኡ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ሓዎኡ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይቕተሉ"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "ወላዲ"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "ወላዲትን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:58.499959240Z",
+  "model": "glm-5.3"
+}

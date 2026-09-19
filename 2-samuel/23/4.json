@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ከም ብርሃን ንጉርማም የሸመርሕ ጸሓይ ኮይኑ፣ ንጉርማም ድማ ብዘይ ደመናታት፣ ብብርሃና ሓሊፉ ካብ ዝናብ ሳር ካብ ምድሪ የበብዕ።",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "ከም ብርሃን"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ንጉርማም"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "የሸመርሕ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ጸሓይ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ንጉርማም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ብዘይ"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "ደመናታት"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "ብብርሃና"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "ካብ ዝናብ"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ሳር"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:43:07.159166377Z",
+  "model": "glm-5.3"
+}

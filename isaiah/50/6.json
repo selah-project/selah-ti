@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ንዝወርዱ ጀርበይ ሃብኩ፤ ንዝጽዕፉ ድማ ኣፍራጊ ሃብኩ፤ ገጸይ ካብ ውሽጢን ሓሙሽተን ኣይሓበእኩን።",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "ጀርበይ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ሃብኩ"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "ንዝወርዱ"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "ኣፍራጊ"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "ንዝጽዕፉ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጸይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "ሓበእኩ"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "ውሽጢ"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "ሓሙሽተ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:19:54.631268904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 67,
+  "translation": "ኤሎሂም ይቕረየናን ይባርኸናን፤ ገጽኡ ⟨את⟩ና ይብርህ፤ ስላህ።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "ይቕረየና"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "ይባርኸናን"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "ይብርህ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ገጽኡ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ና",
+      "marks": "ና (ንሕና)"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:12.794813799Z",
+  "model": "glm-5.3"
+}

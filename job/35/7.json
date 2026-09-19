@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ጽድቕ እንተ ገበርካ፣ እንታይ ትህቦ፧ ወይ ካብ ኢድካ እንታይ ይወስድ፧",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "ጽድቕ ገበርካ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ትህቦ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ካብ ኢድካ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ይወስድ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:22:13.032596928Z",
+  "model": "glm-5.3"
+}

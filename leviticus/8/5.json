@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ሞሸ ድማ ነቲ ጉባኤ እናበለ፦ «እዚ እቲ ቃል እዩ እቲ ያህዌህ ንክግበር ዝኣዘዞ»።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ቃል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ዝኣዘዞ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ንክግበር"
+    }
+  ],
+  "timestamp": "2026-09-18T21:53:36.737930183Z",
+  "model": "glm-5.3"
+}

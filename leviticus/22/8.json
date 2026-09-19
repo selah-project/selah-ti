@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "እቲ ዝሞተን እቲ እተበትረን ክብልዕ ኣይክእልን፤ ብኡ ክጸልም እዩ፤ ኣነ ያህዌህ እየ።",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "እቲ ዝሞተ"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "እቲ እተበትረ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይብልዕ"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "ክጸልም"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ብኡ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:03.127295421Z",
+  "model": "glm-5.3"
+}

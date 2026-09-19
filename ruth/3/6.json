@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ወሪዳ ናብ እቲ ማዕዲ፣ ከም ኩሉ እታ ስምታ እትኣዝዘን ኸደት ገበረት።",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "ወሪዳ"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "እቲ ማዕዲ"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "ገበረት"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ከም ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እትኣዝዘን"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "እትኣዝዘን"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "እታ ስምታ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:31:47.618983316Z",
+  "model": "glm-5.3"
+}

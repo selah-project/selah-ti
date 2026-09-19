@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ንያህዌህ ሓድሽ መዝሙር ዝምርዑ፤ ምስጋናኡ ካብ ዓንዀቲ ምድሪ፤ ንሱኻት ናብ ባሕሪ ዝወርዱን ኩሉ ዝኣተወን፣ እቶም ደሴታትን ኣባላዒኦም።",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ዝምርዑ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ሓድሽ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ምስጋናኡ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ካብ ዓንዀቲ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ዝወርዱ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ኩሉ ዝኣተወ"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ደሴታት"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "ኣባላዒኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:08:57.272973353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 54,
+  "translation": "እንሆ ኤሎሂም ሓጊዘኒ እዩ፤ ኣዶናይ ምስ እቶም ነፍሰይ ዝሰምዕቱ እዩ።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ሓጊዘኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ኣብ ናተይ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "ምስ እቶም ዝሰምዕቱ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:02:57.175214454Z",
+  "model": "glm-5.3"
+}

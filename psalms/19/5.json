@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኣብ ኩሉ ምድሪ መስመርኦም ወጸ፣ ክሳብ ዳርጋ ዓለም ቃላቶም፤ ንጸሓይ ማሕደር ኣብኦም ገበረ።",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "קום",
+      "gloss": "መስመርኦም"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "ክሳብ ዳርጋ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ዓለም"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "ቃላቶም"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "ንጸሓይ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ኣብኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:37.186865930Z",
+  "model": "glm-5.3"
+}

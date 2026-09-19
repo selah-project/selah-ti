@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "⟨את⟩ ቐሚሰይ ወጺዐኩ፣ ከመይ ክልበሳን? ⟨את⟩ ኣንገረይ ጸቢጠኩ፣ ከመይ ክነክሰንዮምን?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "ወጺዐኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቐሚሰይ"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "ቐሚሰይ"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "ከመይ"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "ክልበሳን"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "ጸቢጠኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣንገረይ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ኣንገረይ"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "ከመይ"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "ክነክሰንዮምን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:29:21.473274372Z",
+  "model": "glm-5.3"
+}

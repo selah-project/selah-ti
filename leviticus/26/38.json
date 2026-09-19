@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ኩም ኣብ መንጎ ኣህዛብ ትጠፍኡ ኢኹም፣ ምድሪ ጸላእትኩም ድማ ⟨אתכם⟩ እናበላዐት እያ።",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "ትጠፍኡ ኢኹም"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ኣብ መንጎ ኣህዛብ"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ትብላዕ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ኩም"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ጸላእትኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:10:15.547324086Z",
+  "model": "glm-5.3"
+}

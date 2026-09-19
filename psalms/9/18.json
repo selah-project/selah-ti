@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ክፉኣት ናብ ሽኦል ክምለሱ እዮም፤ ኩሉ ኣህዛብ ዝረሱዎ ኤሎሂም።",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ክምለሱ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉኣት"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "ናብ ሽኦል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "ዝረሱዎ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:32.770928859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 8:21",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እሞ ጸቓቕትን ጠሜትን ኮይና ኣብኡ ትሕልፍ፤ ውጽኢቱ ምስ ጠመመትን ተቓወምትን ነቲ ንጉሳ ኸምኡውን ነቲ ኣምላኻ ትሕፍር፣ ናብ ላዕሊ ድማ ትገጥም።",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "ትሕልፍ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "נקשה",
+      "gloss": "ጸቓቕትን"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "ጠሜትን"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ውጽኢቱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "ጠመመትን"
+    },
+    {
+      "surface": "והתקצף",
+      "gloss": "ተቓወምትን"
+    },
+    {
+      "surface": "וקלל",
+      "gloss": "ትሕፍር"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ነቲ ንጉሳ"
+    },
+    {
+      "surface": "ובאלהיו",
+      "gloss": "ነቲ ኣምላኻ"
+    },
+    {
+      "surface": "ופנה",
+      "gloss": "ትገጥም"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ናብ ላዕሊ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:43:34.094291728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ስለምንድኣ ካብ ሚጽራይም ኣስዒብና፣ ⟨את⟩ ነዚ ንኣቱና ነዚ ክፉእ ቦታ እዚ፤ ቦታ ዘርኢ ኣይኮነን፣ ተኣንን ወይንን ሮማንን የለን፣ ንምስቲ ማይ ክንሰትዮ ድማ የለን።",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "ስለምንድኣ"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "ኣስዒብና"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ካብ ሚጽራይም"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ንኣቱና"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ነዚ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ነዚ ቦታ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘርኢ"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "ተኣን"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "ወይን"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ሮማን"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ንምስቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:30:48.802195305Z",
+  "model": "glm-5.3"
+}

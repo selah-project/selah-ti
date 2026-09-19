@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 96,
+  "translation": "ብቅዱስ ክብሪ ንያህዌህ ተሰግዱ፤ ኩሉ ምድሪ ካብ ቅድምኡ ይፍርሕ።",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "ተሰግዱ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "ብክብሪ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ይፍርሕ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ካብ ቅድምኡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:29.251905294Z",
+  "model": "glm-5.3"
+}

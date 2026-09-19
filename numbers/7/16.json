@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ሓደ ጣዓና፣ ሰብታይ ኣጣን፣ ንወፈያ ሓጢያት።",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ጣዓና ሰብታይ ኣጣን"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ኣጣናት"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ንወፈያ ሓጢያት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:15:30.726980354Z",
+  "model": "glm-5.3"
+}

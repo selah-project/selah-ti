@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "በት-ሸባዕ ተንቐጠቀጠት፣ ነቲ ንጉስ ድማ ሰገደት፤ እቲ ንጉስ ድማ በለ፦ «እንታይ ኣለኪ፧»",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "ተንቐጠቀጠት"
+    },
+    {
+      "surface": "בת",
+      "gloss": "በት"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸባዕ"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "ሰገደት"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ነቲ ንጉስ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ኣለኪ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:45:07.407436575Z",
+  "model": "glm-5.3"
+}

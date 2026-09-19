@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ከም እቲ ኻህናት ካብ እቲ ቅዱስ ቦታ እናወጹ ተኺሎ ድማ እቲ ደመና ቤት ያህዌህ ⟨את⟩ ምሉእ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ተኺሎ ድማ"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "ከም እናወጹ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "እቲ ኻህናት"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "እቲ ቅዱስ ቦታ"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "እቲ ደመና ድማ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ምሉእ ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት ያህዌህ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:54:14.455841527Z",
+  "model": "glm-5.3"
+}

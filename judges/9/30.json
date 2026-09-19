@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ዘቡል ገዛእ ከተማኡ ነቲ ቃላት ጋዕል ወዲ ዔበድ ⟨את⟩ ሰምዐ ከሎ፡ ቍጭቡ ተነደደ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "ዘቡል"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ገዛእ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ናይ ከተማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ቃላት"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "געל",
+      "gloss": "ጋዕል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ዔበድ"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ተነደደ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ቍጭቡ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:43:48.145626718Z",
+  "model": "glm-5.3"
+}

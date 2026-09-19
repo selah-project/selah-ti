@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 17:4",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ሓደ ካብ ካብ ፍልስጤምቲ ምስ ኣውጽእ ተባዕታዊ ወጸ፤ ጎልያት ስሙ ኮይኑ ካብ ጋት እዩ፤ ቁመቱ ሽድሽተ ኣማታትን ሓደ ኣጽራኢ ወለዲን እዩ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ተባዕታዊ"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ሓደ ካብ"
+    },
+    {
+      "surface": "ממחנות",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤምቲ"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "ጎልያት"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "ካብ ጋት"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ቁመቱ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ሽድሽተ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ኣማታት"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ሓደ ኣጽራኢ ወለዲን"
+    }
+  ],
+  "timestamp": "2026-09-19T00:08:12.791374514Z",
+  "model": "glm-5.3"
+}

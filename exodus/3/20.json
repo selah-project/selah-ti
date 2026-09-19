@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኢደይ እናወረደ ⟨את⟩ ሚጽራይም ብኩሉ ተኣምራተይ እቲ እገብሮ ኣብ መንጎኦም እናሰቲት፣ ድሕሪ እዚ ድማ ⟨אתכם⟩ ንኹም ይስዕብ።",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "እናወረደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢደይ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ኢደይ"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "እናሰቲት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚጽራይም"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብኩሉ"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "ተኣምራተይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "እገብር"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ኣብ መንጎኦም"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ይስዕብ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ንኹም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:15:15.365291340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 91,
+  "translation": "ምስኣን ⟨ንሱ⟩ ንመልኣኽቱ ንኻ ይእዝዝ፣ ኣብ ኩሉ መገድታትኻ ንኽሓልዉኻ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምስኣን"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "ንመልኣኽቱ"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "ይእዝዝ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "ንኽሓልዉኻ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "መገድታትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:40.160379739Z",
+  "model": "glm-5.3"
+}

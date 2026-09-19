@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ተንሣእ ያህዌህ ብቁሕታኻ፣ ብዝግገም ጸላኢተይ ንርእስኻ ኣልዓል፣ ንስኻ ድማ ንዓይ ኣሰርብሕ ብዘደለይካዮ ፍትሕ።",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ተንሣእ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ብቁሕታኻ"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "ኣልዓል"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "ብዝግገም"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ጸላኢተይ"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "ኣሰርብሕ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍትሕ"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "ዘደለይካዮ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:56.893751553Z",
+  "model": "glm-5.3"
+}

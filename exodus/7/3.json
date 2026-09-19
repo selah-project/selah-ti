@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣነ ድማ ⟨את⟩ ልቢ ፓርዖ ኣጸንዕሰሉ፣ ተኣማኒታተይን ድንቋተይን ኣብ ምድሪ ሚጽራይም ኣብዛይተን እየ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "ኣጸንዕሰሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልቢ ፓርዖ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ኣብዛይተን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተኣማኒታተይ"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "ተኣማኒታተይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ድንቋተይ"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "ድንቋተይ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:15:00.242045767Z",
+  "model": "glm-5.3"
+}

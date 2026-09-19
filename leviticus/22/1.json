@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 22:1",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ያህዌህ ድማ ንሞሸ ተዛረቦ እናበለ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረቦ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:04:22.708583505Z",
+  "model": "glm-5.3"
+}

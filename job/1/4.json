@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 1:4",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ውላዱቱ ከዱ፣ ኣብ መዓልቱ ኣብ ቤት ሰብ ውዑያን ገበሩ፤ ንሰለስተ ኣሓቶም ምሳኦም ንኽብልዑን ንኽሰቱን ሰደዱ ዐደሩ።",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "ከዱ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱቱ"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ውዑያን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "መዓልቱ"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "ሰደዱ"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "ዐደሩ"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "אחיתיהם",
+      "gloss": "ኣሓቶም"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ንኽብልዑ"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "ንኽሰቱ"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "ምሳኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T09:06:06.016027129Z",
+  "model": "glm-5.3"
+}

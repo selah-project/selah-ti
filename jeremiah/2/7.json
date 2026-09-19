@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣኪብኩ ⟨את⟩ ንንስኻትኩም ናብ ምድረ ከርሜል፣ ፍረኣን ጽቡቕኣን ንኽትበልዑ፤ ንስኻትኩም ምስ ኣተኹም ⟨את⟩ ምድሪ ሓሊምኩምዎ፣ ብዛዕባ ውርሻይ ግዙፍ ገበርኩምዎ።",
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "ኣኪብኩ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንንስኻትኩም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድረ"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "ከርሜል"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ንኽትበልዑ"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ፍረኣ"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "ጽቡቕኣ"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "ምስ ኣተኹም"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "ሓሊምኩምዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "ውርሻይ"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "ገበርኩምዎ"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "ግዙፍ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:26:36.343528981Z",
+  "model": "glm-5.3"
+}

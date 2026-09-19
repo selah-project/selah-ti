@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 48:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "እምባት እስራኤል ድማ ስዒቦም ከቢድ ኮይኑ ክረእየ ኣይክእልን ነይሩ፤ ነቶም ⟨את⟩ ናብኡ ቐረቦም፣ ስመ ነቶም፣ ዓቐ ነቶም እውን።",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "እምባት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "ከቢድ ኮይኑ"
+    },
+    {
+      "surface": "מזקן",
+      "gloss": "ስዒቦም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ክእል"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ክረእየ"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "ቐረብ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም (እቶም ውላድ ንዝቐረብሉ)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ናብኡ"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ስመ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "ויחבק",
+      "gloss": "ዓቐ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ነቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:07:17.677670394Z",
+  "model": "glm-5.3"
+}

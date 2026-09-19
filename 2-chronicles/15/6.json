@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 15:6",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ህዝቢ ብህዝቢ ከምኡውን ከተማ ብከተማ ተሰባበሩ፣ ምኽንያቱ ኤሎሂም ብኩሉ ጸገም ኣሰባበሮም።",
+  "tokens": [
+    {
+      "surface": "וכתתו",
+      "gloss": "ተሰባበሩ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "ብህዝቢ"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ብከተማ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "הממם",
+      "gloss": "ኣሰባበሮም"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብኩሉ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ጸገም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:06:01.014388443Z",
+  "model": "glm-5.3"
+}

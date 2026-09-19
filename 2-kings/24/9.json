@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 24:9",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ንሱ ድማ ኣብ ኣዕይንቲ ያህዌህ እቲ ንጥፍና ከም ኩሉ እቲ ኣቦኡ ዝገበረዎ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "እቲ ንጥፍና"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ ኣዕይንቲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ከም ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበረዎ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:39:44.202962307Z",
+  "model": "glm-5.3"
+}

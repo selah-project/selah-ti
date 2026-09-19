@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 27:22",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ኣብ ልዕሊኡ ይወርውር፣ ምሕረት ኣይገብርን፤ ካብ ኢዱ እናሰደየ ከኣ ይሰደድ።",
+  "tokens": [
+    {
+      "surface": "וישלך",
+      "gloss": "ይወርውር"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊኡ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይገብርን"
+    },
+    {
+      "surface": "יחמל",
+      "gloss": "ምሕረት"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "ካብ ኢዱ"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "እናሰደየ"
+    },
+    {
+      "surface": "יברח",
+      "gloss": "ይሰደድ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:15:44.978315141Z",
+  "model": "glm-5.3"
+}

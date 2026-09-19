@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ኰይኑ ኸውን፣ እቲ ንጉስ ምስ ሰምዐ ⟨את⟩ ቃላት ናይ ቶራ፣ ⟨את⟩ ልብሲኡ በቕዐ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኰይኑ ኸውን"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ምስ ሰምዐ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላት"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ናይ ቶራ"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "በቕዐ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልብሲኡ"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ልብሲኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:21:46.829564561Z",
+  "model": "glm-5.3"
+}

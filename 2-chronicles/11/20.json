@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ድሕራኣ ውን ንማዓኻ፣ ጓል ኣብሳሎም፣ ተባብዓ፤ ንሳ ድማ ወለዲትሉ — ⟨את⟩ ኣብያን፣ ⟨ואת⟩ ዓታይን፣ ⟨ואת⟩ ዚዛን፣ ⟨ואת⟩ ሽሎሚትን።",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "ድሕራኣ ውን"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ተባብዓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማዓኻ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ማዓኻ፣"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ጓል"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ኣብሳሎም፣"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለዲትሉ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብያ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ኣብያን፣"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ድማ",
+      "marks": "ዓታይ"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "ዓታይን፣"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ድማ",
+      "marks": "ዚዛ"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "ዚዛን፣"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ድማ",
+      "marks": "ሽሎሚት"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "ሽሎሚትን"
+    }
+  ],
+  "timestamp": "2026-09-19T08:01:14.099539078Z",
+  "model": "glm-5.3"
+}

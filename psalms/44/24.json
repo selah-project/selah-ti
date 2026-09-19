@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ተንቀሳቕስ፣ ስለ ምንታይ ኣዶናይ ትድምድም? ንድቕሕ፣ ናብ ዘለኣለም ኣይተሓግሰናን።",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "ተንቀሳቕስ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ስለ ምንታይ"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "ትድምድም"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "ንድቕሕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…-ን"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "ተሓጊስና"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ናብ ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:27.738026085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 26:31",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ኣብ ቀዳሕ ማዕሲቲ ተንሳእቶም ድማ ሰብ ንሓዙ ተሓለዉ፤ ይጽሓቅ ድማ ሰደዖም፣ ንሳቶም ድማ ካብ ⟨את⟩ ንሱ ብሰላም ኰኑ ኸዱ።",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "ኣብ ቀዳሕ ተንሳእቶም"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ኣብ ቀዳሕ ማዕሲቲ"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "ተሓለዉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ንሓዙ"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ሰደዖም"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይጽሓቅ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ኰኑ ኸዱ"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ካብ ⟨את⟩ ንሱ",
+      "marks": "ካብ ንሱ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ብሰላም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:48:34.549895606Z",
+  "model": "glm-5.3"
+}

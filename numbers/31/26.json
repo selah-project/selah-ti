@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 31:26",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ኣንሳ ⟨את⟩ ርእሲ ናይ እተሓዘ ኣውራቂ፡ ኣብ ሰብን ኣብ እንስሳትን፡ ንስኻ፣ ኤልዓዛር ካህንን ርእሲ ኣቦታት ⟨ታት⟩ ኩነታት።",
+  "tokens": [
+    {
+      "surface": "שא",
+      "gloss": "ኣንሳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ርእሲ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "ኣውራቂ"
+    },
+    {
+      "surface": "השבי",
+      "gloss": "ናይ እተሓዘ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ኣብ ሰብ"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ኣብ እንስሳትን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "ኤልዓዛርን"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "ርእሲ ኣቦታትን"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ኣቦታት"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ኩነታት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:41:10.834166203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 118,
+  "translation": "ያህ ኃይለይን መዝሙረይን እዩ፤ ንኣነ ድማ ምድሓኒ ኮይኑ እዩ።",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "ኃይለይ"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "መዝሙረይን"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ እዩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "ምድሓኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:33.464665487Z",
+  "model": "glm-5.3"
+}

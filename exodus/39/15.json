@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 39:15",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ኣብ ልዕሊ እቲ ሆሸን ሒልባት ዝተበረዘት ዓቐጺ ገመድ ናይ ወርቂ ጽሑቕ ገበሩ።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "እቲ ሆሸን"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "ሒልባት"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "ዝተበረዘት"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ዓቐጺ"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "ገመድ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ጽሑቕ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:44:17.884286727Z",
+  "model": "glm-5.3"
+}

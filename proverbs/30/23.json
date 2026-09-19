@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 30:23",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ስለ ዝተጠረሰት ሰበይቲ ምስ ዝተመርቐት፣ ስለ ኣገልገልቲ ድማ ምስ ዝወረሰት ጎይታታ።",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "ዝተጠረሰት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "תבעל",
+      "gloss": "ዝተመርቐት"
+    },
+    {
+      "surface": "ושפחה",
+      "gloss": "ኣገልገልቲ ድማ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "תירש",
+      "gloss": "ዝወረሰት"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "ጎይታታ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:58:41.066376004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ስሩግ ሰላሳ ዓመታት ነይሩ፣ ወለዶ ⟨את⟩ ናሕር።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "ስሩግ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሰላሳ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለዶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ናሕር"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ናሕር"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:39.520308914Z",
+  "model": "glm-5.3"
+}

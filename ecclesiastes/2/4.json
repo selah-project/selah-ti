@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣብዓታትይ ኣበዓይኩ፤ ቤታት ሠርኤኒ ንርሰይ፣ ወይኒታት እውን ኣሰቲሕኩ ንርሰይ።",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "ኣበዓይኩ"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ኣብዓታትይ"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ሠርኤኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንርሰይ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ቤታት"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "ኣሰቲሕኩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንርሰይ"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "ወይኒታት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:40:42.603841605Z",
+  "model": "glm-5.3"
+}

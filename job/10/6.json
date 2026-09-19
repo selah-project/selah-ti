@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ንጥፍኣተይ ከም ትመርመር፣ ንሓጢያተይ ድማ ከም ትደለይ ምኽንያቱ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "ትመርመር"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "ንጥፍኣተይ"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "ንሓጢያተይን"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "ትደለይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:08:03.125854026Z",
+  "model": "glm-5.3"
+}

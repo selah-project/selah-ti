@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 57,
+  "translation": "ኣዶናይ፣ ኣብ ህዝቢታት ኣመስግንካ እየ፤ ኣብ ኣህዛብ እንትእዚ ኣዘምረካ እየ።",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ኣመስግንካ እየ"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "ኣብ ህዝቢታት"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ኣዘምረካ እየ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "ኣህዛብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:20.960146289Z",
+  "model": "glm-5.3"
+}

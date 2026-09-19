@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 1:9",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ከምኡውን እዚ ቁጽሪ እቶም እዩ፦ ጽላላት ወርቂ ሰላሳ፣ ጽላላት ብጸረ ሽሕ፣ መስኪናት ዘጠነ ወይ ዕስራ።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ከምኡውን እዚ"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "ቁጽሪ እቶም"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "ጽላላት"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሰላሳ"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "ጽላላት"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብጸረ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "מחלפים",
+      "gloss": "መስኪናት"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ዘጠነ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ወይ ዕስራ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:04:10.238928314Z",
+  "model": "glm-5.3"
+}

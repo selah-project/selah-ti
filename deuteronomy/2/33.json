@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ያህዌህ ኤሎሂምና ንሱ ኣብ ቅድሚና ሃቦ፤ ንሱን ⟨אתו⟩ ውላዱን ⟨ואת⟩ ኩሉ ህዝቢኡን ⟨ואת⟩ ሓደርና።",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "ሃቦ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "ኣብ ቅድሚና"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "ሓደርና"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ንሱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ውላዱን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ውላዱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ኩሉ ህዝቢኡን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ህዝቢኡን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:46:45.993313124Z",
+  "model": "glm-5.3"
+}

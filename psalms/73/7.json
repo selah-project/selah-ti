@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 73,
+  "translation": "ካብ ቅቡእ ኣይኖም ውጹእ እዩ፤ ምስልታት ልቢ ድማ ዓረፉ።",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "ውጹእ እዩ"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ካብ ቅቡእ"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "ኣይኖም"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ዓረፉ"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "ምስልታት"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:24.938704066Z",
+  "model": "glm-5.3"
+}

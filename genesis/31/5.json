@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ንኣተን ተዛረቦም፦ «ኣነ ⟨את⟩ ገጽ ኣቦኩም ረኣየ፤ ከም ትማሊ ቅድሚን ዝነበረ ናብኒ ኣይኮነን፤ ኤሎሂም ናይ ኣበይ ምስ ኣነ ነይሩ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረቦም"
+    },
+    {
+      "surface": "להן",
+      "gloss": "ንኣተን"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገጽ ኣቦኩም"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "ኣቦኩም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ናብኒ"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "ከም ትማሊ"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "ቅድሚን"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣበይ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ምስ ኣነ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:55:35.574367426Z",
+  "model": "glm-5.3"
+}

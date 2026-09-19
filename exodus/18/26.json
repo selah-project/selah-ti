@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ንሳቶም ድማ እቲ ብሔሩ ⟨את⟩ ኣብ ኩሉ ዕዋኽ ወኢኖም፤ እቲ ከሣም ነገር ግን ናብ ሞሸ ⟨את⟩ የብዕዎ፣ ንኹሉ እቲ ንእሽቶ ነገር ግን ንሳቶም ወኢኑም።",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "ወኢኖም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ብሔሩ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ብሔሩ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ዕዋኽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ከሣም ነገር"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ነገር"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ከሣም"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "የብዕዎ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ነገር"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ንእሽቶ"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "ወኢኑም"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ንሳቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:23:16.146289059Z",
+  "model": "glm-5.3"
+}

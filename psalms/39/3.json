@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ምስ ዝናን ተማጽአኩ፣ ብሕቡእ ጸላለኹ፣ ካብ ብላሽ ኩሉ ተኸልአኒ ነይሩ፤ ስቓየ ከኣ ተነከረ።",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "ተማጽነኩ"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ምስ ዝናን"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "ጸላለኹ"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "ካብ ብላሽ"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "ስቓየ ከኣ"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "ተነከረ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:00.684895534Z",
+  "model": "glm-5.3"
+}

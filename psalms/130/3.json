@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 130,
+  "translation": "እንተ ሓጢራት ተዛኺብካ ያህ፣ ኣዶናይ፣ መን ኪቕመጥ ይኽእል፧",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "ሓጢራት"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ተዛኺብካ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ኪቕመጥ ይኽእል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:04.863847920Z",
+  "model": "glm-5.3"
+}

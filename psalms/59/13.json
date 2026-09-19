@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 59,
+  "translation": "ሓጢያት መንጎሮም፣ ቃል ከኣኣታቶም — ብሕብረቶም ይስቐፉ፤ ካብ መርገምን ምብልሃትን እናዛረቡ ይነግሩ።",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "ሓጢያት"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "መንጎሮም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ከኣኣታቶም"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ይስቐፉ"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "ብሕብረቶም"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "ካብ መርገም"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "ካብ ምብልሃት"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ይዛረቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:03.155431989Z",
+  "model": "glm-5.3"
+}

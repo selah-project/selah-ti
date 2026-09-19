@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ካብ ውላዶም ኣይነሓብን፣ ነቲ ዝመጸ ትውልዪ ትዕቝራት ያህዌህን ብርቱዕነቱን ተመሃርቱታቱን እቶም ዝገበሮም ንነግር ኢና።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "ነሓብ"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "ካብ ውላዶም"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ንትውልዪ"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ዝመጸ"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "ንነግር"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "ትዕቝራት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "ብርቱዕነቱን"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ተመሃርቱታቱን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበሮም"
+    }
+  ],
+  "timestamp": "2026-09-19T09:02:38.185299282Z",
+  "model": "glm-5.3"
+}

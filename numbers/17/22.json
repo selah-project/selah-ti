@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ሞሸ ድማ ⟨את⟩ ⟨ቲ⟩ መርዓታት ኣብ ቅድሚ ያህዌህ ኣብ ድኳን ምስሓት ኣንቢሩ።",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "ኣንቢሩ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መርዓታት"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "ቲ መርዓታት"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ኣብ ድኳን"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ምስሓት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:25:45.850601989Z",
+  "model": "glm-5.3"
+}

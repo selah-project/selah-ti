@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "እንታይ ሓጐሳት ንእቲ ሰብ እቲ ያህዌህ መዓርነቱ ዝገበረ ዝኾነ፣ ንሱ ድማ ኣብ ተማእዚን ኣይተወልዐን፣ ወይ ኣብ ናብ ሸፋታት ዝተቓረቡ ኣይተወለደን።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ሓጐሳት"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ንእቲ ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ዝገበረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "መዓርነቱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይተወልዐን"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ኣብ ዝተወልዐ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "ተማእዚን"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "ወይ ዝተቓረቡ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ሸፋታት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:55.688085624Z",
+  "model": "glm-5.3"
+}

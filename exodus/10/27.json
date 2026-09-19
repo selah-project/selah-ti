@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ያህዌህ ድማ ⟨את⟩ ልቢ ፓርዖ ኣጸናዕዎ፣ ንሳቶም ድማ ክሓልዎም ኣይደለዮምን።",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ኣጸናዕዎ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልቢ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ደለዩ"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "ክሓልዎም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:17:25.760666303Z",
+  "model": "glm-5.3"
+}

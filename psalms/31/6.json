@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ኣብ ኢድካ ትንፋሼ ኣኻድእ፤ ነፊድካኒ ያህዌህ፣ ኤል ሓቂ።",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "ኣብ ኢድካ"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "ኣኻድእ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ትንፋሼ"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "ነፊድካኒ"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ነኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ሓቂ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:52:19.387997282Z",
+  "model": "glm-5.3"
+}

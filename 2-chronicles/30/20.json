@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ያህዌህ ድማ ንሕዝቅያስ ሰምዐ፣ ⟨את⟩ ነቲ ሕዝቢ ድማ ሓወዮ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ሕዝቅያስ"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ሓወዮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ሕዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ነቲ ሕዝቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:18:14.444233087Z",
+  "model": "glm-5.3"
+}

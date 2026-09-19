@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "ስድብ ነቲ ልበይ ሰበረ፣ ኵሉ እየ ድኻምኩ፣ ነቲ ዝሰቓይለይ ጸንሐኹ ግን የለን፣ ማኅጸናት እናበለ ድማ ኣይረኽብን።",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "ስድብ"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "ሰበረ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "ድኻምኩ"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "ጸንሐኹ"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "ንምሰቓይል"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "ንማኅጸናት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ረኽብኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:25.380591297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ንስኻቶም ድማ ⟨את⟩ እናተረጊምኹምዎ፣ «ማዕድ ኣዶናይ እተረጊሙ እዩ፣ ከምኡውን እንተቱ ዝተሓቐ መግቢ እዩ» በልኩም።",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ንስኻቶም ድማ"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "እናተረጊምካቶም"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "እንተቱ"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "እናበልኩም"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "ማዕድ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "እተረጊሙ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "ከምኡውን እንተቱ"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "ዝተሓቐ"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "መግቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:39:06.307761695Z",
+  "model": "glm-5.3"
+}

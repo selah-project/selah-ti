@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኣነ ብጽድቂ ገጽኻ ክርኢ እየ፣ ምስ ምድሓን ብምስሊኻ ክምላዕ እየ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ብጽድቂ"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "ክርኢ እየ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽኻ"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "ክምላዕ እየ"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "ምስ ምድሓን"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "ብምስሊኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:59:43.050662027Z",
+  "model": "glm-5.3"
+}

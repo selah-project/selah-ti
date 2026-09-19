@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ብጽቡቕ ተዛረቦ፣ ዙፋኑ ድማ ⟨את⟩ ካብ ዙፋእ እቶም ነገሥታት እቶም ምስ እቲ ኣብ ባብል ዝነበሩ ንላዕሊ ኣቕሚቱ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረቦ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ምስ ⟨את⟩"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "ብጽቡቕ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ኣቕሚቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዙፋኑ"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ዙፋኑ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ካብ ንላዕሊ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ዙፋእ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "እቶም ነገሥታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝነበሩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ምስ ⟨את⟩"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "ኣብ ባብል"
+    }
+  ],
+  "timestamp": "2026-09-19T01:41:57.706871580Z",
+  "model": "glm-5.3"
+}

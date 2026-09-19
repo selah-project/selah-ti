@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ኣብ መንጎኦም ነፍሲ ሰሊጡ ነኣክሮም፣ ሓሙሻት ድማ ኣጥፍአቶም።",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ሰሊጡ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ኣብ መንጎኦም"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "ነኣክሮም"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "ሓሙሻት"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "ኣጥፍአቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:19.767299843Z",
+  "model": "glm-5.3"
+}

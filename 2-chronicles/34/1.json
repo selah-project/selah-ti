@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 34:1",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ወዲ ሸሞነተ ዓመታት ኮይኑ ዮኣሺያሁ ኣብ ንጉስነቱ፣ እሞ ሰላሳን ሓንቲ ዓመት ኣብ የሩሻላይም ነገሰ።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ሸሞነተ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ዮኣሺያሁ"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ኣብ ንጉስነቱ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ሰላሳን"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ሓንቲ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነገሰ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ኣብ የሩሻላይም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:23:11.826956238Z",
+  "model": "glm-5.3"
+}

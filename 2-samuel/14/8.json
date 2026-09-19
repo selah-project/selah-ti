@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "እቲ ንጉስ ድማ ንእቲ ሰበይቲ በለ፦ «ናብ ገዛኺ ኺዲ፣ ኣነ ድማ ብዛዕባኺ ክዓዝዎ እየ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ ድማ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ንእቲ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ኺዲ"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "ናብ ገዛኺ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "ክዓዝዎ እየ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ብዛዕባኺ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:40:57.480037499Z",
+  "model": "glm-5.3"
+}

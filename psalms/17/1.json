@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ጸሎት ናይ ዳዊድ። ጽድቂ ስምዕ ያህዌህ፣ ብጥንቃቐ ስምዕ ንዑራተይ፣ ኣእምሮ ጸሎተይ — ብዘይ ጭባእ ከባታት እዩ።",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "ጸሎት"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ስምዕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "ብጥንቃቐ ስምዕ"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "ንዑራተይ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ኣእምሮ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ጸሎተይ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ብዘይ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ከባታት"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ጭባእ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:02.560578980Z",
+  "model": "glm-5.3"
+}

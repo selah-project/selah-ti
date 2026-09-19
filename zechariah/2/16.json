@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ያህዌህ ⟨את⟩ ይሁዳ ከም ክፋሉ ኣብ ቅዱስቲ ምድሪ ይወርሳ እዩ፣ ነብ የሩሻላይም ድማ ደጊምካ ይመርጽ እዩ።",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "ይወርሳ እዩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይሁዳ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "ከም ክፋሉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ቅዱስቲ"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "ይመርጽ እዩ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደጊምካ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ነብ የሩሻላይም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:34:22.282868163Z",
+  "model": "glm-5.3"
+}

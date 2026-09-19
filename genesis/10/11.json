@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣሽራ ካብ እቲ ምድሪ እቲ ተወጽአ ድማ ⟨את⟩ ኒነዋን ⟨את⟩ ረኽቦት ዒርን ⟨את⟩ ከላኽን ሃንጸ።",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እቲ ምድሪ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ተወጽአ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣሽራ"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ሃንጸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኒነዋ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ኒነያ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ረኽቦት ዒር"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "ረኽቦት"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ዒር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ከላኽ"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "ከላኽ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:51.599743493Z",
+  "model": "glm-5.3"
+}

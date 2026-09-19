@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "እቶም ብእቲ ምቕልማት ዝሞቱ ድማ ዓሰርተ ኣርባዕተ ሺሕ ነይሮም።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ነይሮም"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "እቶም ዝሞቱ"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "ብእቲ ምቕልማት"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺሕ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:33:21.761790206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣስተር ንሓታኽ ተዛረበቶ፣ ንሞርዱኻይ ድማ ኣዘዝቶ።",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ተዛረበቶ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ኣስተር"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "ንሓታኽ"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "ኣዘዞ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ሞርዱኻይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:45:27.507243897Z",
+  "model": "glm-5.3"
+}

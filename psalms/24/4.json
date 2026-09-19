@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ንጹሕ ኢድቲ ዝኾነን ንጹር ልቢ ዘለዎን፣ ነፍሱ ናብ ባዶነት ዘይለዓለን ብምዝሽዓር ዘይሓሊጡን።",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "ንጹሕ"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ኢድቲ"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "ንጹር"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ለዓለ"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ባዶነት"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ድማ ኣይ"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ሓሊጡ"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "ብምዝሽዓር"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:46.641091540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 7:11",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ንስኻ ካብ ያህዌህ ኤሎሂምካ ምልክቲ ሕቶ፤ ነቲ ሕቶ ናብ ጥሪቕ ሽኦል ሕተ ወይ ናብ ልዕሊ ኣብ ላዕለዋይ ኣልጹሕ ግበርዎ።",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "ሕቶ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "אות",
+      "gloss": "ምልክቲ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "ኣልጹሕ"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "ሕቶ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "הגבה",
+      "gloss": "ናብ ልዕሊ"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ኣብ ላዕለዋይ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:43:57.948741972Z",
+  "model": "glm-5.3"
+}

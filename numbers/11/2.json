@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "እቲ ሕዝቢ ድማ ናብ ሞሸ በዓለ፤ ሞሸ ድማ ናብ ያህዌህ ተማለለ፤ እቲ ሓዊ ድማ ተጠፍአ።",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "በዓለ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ተማለለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "ተጠፍአ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "እቲ ሓዊ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:21:42.321998095Z",
+  "model": "glm-5.3"
+}

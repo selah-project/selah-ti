@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ንሳ ድማ ንግስቲ ሳባ ንሽሎሞ ናይ ያህዌህ ስም ⟨ዝተሰምዐ⟩ ⟨את⟩ በዓለግ ሰሚዓቶ ብምልማዳት ክተፈትኖ ኣተወት።",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "ንሳ ድማ ንግስቲ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ሳባ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ሰሚዓቶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በዓለግ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "በዓለግ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ንሽሎሞ"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ናይ ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ኣተወት"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "ክተፈትኖ"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "ብምልማዳት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:55:29.620189309Z",
+  "model": "glm-5.3"
+}

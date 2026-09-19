@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ያህዌህ ምሳዶ ⟨את⟩ ዮሴፍ ነይሩ፣ ሔሴድ ንኡ ወሰኾ፣ ጸጋኡውን ኣብ ኣይንቲ ሹም ቤት ኲነት ሃቦ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮሴፍ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ወሰኾ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሃቦ"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "ጸጋኡ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ ኣይንቲ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ሹም"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "ኲነት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:00:05.766118470Z",
+  "model": "glm-5.3"
+}

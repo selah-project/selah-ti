@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 4:12",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣብ እቲ መዓልቲ እቲ ሰብ ብንያምን ካብ መስመር ውግእ ኮይኑ ናብ ሺሎ ኮይኑ ኮይኑ በጺሑ፤ ልብሱ ተበታተነ፣ ምድሪ ድማ ኣብ ርእሱ ነይራ።",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "ኮይኑ በጺሑ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ብንያምን"
+    },
+    {
+      "surface": "מהמערכה",
+      "gloss": "ካብ መስመር ውግእ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ኮይኑ ኣትዩ"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "ናብ ሺሎ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ እቲ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "ልብሱ"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "ተበታተነ"
+    },
+    {
+      "surface": "ואדמה",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ርእሱ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:58:43.211647288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ያህዌህ ንሞሸ ተዛረበ፣ ካብ ማሕደር ኣገጣጠም ከኣ ነቲ ንሱ እናበለ ተዛረቦ፦",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረቦ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ኣገጣጠም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:47:49.614246179Z",
+  "model": "glm-5.3"
+}

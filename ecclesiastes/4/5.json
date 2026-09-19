@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "እቲ ስደቓሚ ⟨את⟩ ኢዱኻትኡ ይጥቅልል፣ ድማ ⟨את⟩ ስርዑ ይብልዑ እዩ።",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "እቲ ስደቓሚ"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "ይጥቅልል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢዱኻትኡ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ኢዱኻትኡ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ድማ ይብልዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስርዑ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ስርዑ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:40:51.524397107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 41:25",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ካብ ሰሜን ሓደ ኣነ ኣነቕርኩ፣ ንሱ ድማ ብስሜ ካብ ምውሳእ ጸሓይ ይጽውዓሌ፤ ስዒቡ ሹማቕትን ከም ጭቂ እናተኸልከለ፣ ከም ዓምባሻ ድማ ጫፍ እናሓረኸ እዩ።",
+  "tokens": [
+    {
+      "surface": "העירותי",
+      "gloss": "ኣነ ኣነቕርኩ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ካብ ሰሜን"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "ንሱ ድማ ከደ"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ካብ ምውሳእ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ጸሓይ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ይጽውዓሌ"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ብስሜ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ስዒቡ ይመጽእ እዩ"
+    },
+    {
+      "surface": "סגנים",
+      "gloss": "ሹማቕትን"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ጭቂ"
+    },
+    {
+      "surface": "וכמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "ዓምባሻ"
+    },
+    {
+      "surface": "ירמס",
+      "gloss": "እናሓረኸ"
+    },
+    {
+      "surface": "טיט",
+      "gloss": "ጫፍ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:11:02.074352502Z",
+  "model": "glm-5.3"
+}

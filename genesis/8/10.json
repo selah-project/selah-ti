@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ካልኣይ ሸውዓተ መዓልታት ድማ ጸነሐ፣ ካብ ታቦት ⟨את⟩ እታ ወፍ ደጊሙ ሰደዳ።",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ጸነሐ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ካልኣይ"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ደጊሙ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ሰደዳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ወፍ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "እታ ወፍ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ታቦት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:33:52.297089478Z",
+  "model": "glm-5.3"
+}

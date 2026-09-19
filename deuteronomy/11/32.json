@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ከምኡ እውን ኣነ ሎሚ ቅድሚኹም ዝወሓድዎም ⟨את⟩ ኹሉ ትእዛዛትን ⟨את⟩ ፍትሓትን ክትግብሩ ተጠንቀቑ።",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ተጠንቀቑ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ክትግብሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ ትእዛዛት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ትእዛዛት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ፍትሓት"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ፍትሓት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ዝወሓድዎም"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ቅድሚኹም"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:53:42.049284628Z",
+  "model": "glm-5.3"
+}

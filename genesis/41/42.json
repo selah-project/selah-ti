@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 41:42",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ፓርዖ ድማ ⟨את⟩ ሓበታ ኢዱ ካብ ኢዱ ወሲኸ፣ ⟨את⟩ ኣብ ኢድ ዮሴፍ ኣቐመጣቶ፣ ⟨את⟩ ንሱ ብጽቡቕ በፍቱድ ኣልበሶ፣ ናይ ወርቂ ገመድ ድማ ኣብ ላዕሊ ክብሪ ኢዱ ኣቐመጠ።",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "ወሲኸ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓበታ ኢዱ"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "ሓበታ ኢዱ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ኣቐመጣቶ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብ ኢድ ዮሴፍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "ኣልበሶ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "በፍቱድ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ጽቡቕ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ኣቐመጠ"
+    },
+    {
+      "surface": "רבד",
+      "gloss": "ገመድ ክብሪ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ናይ ወርቂ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "ክብሪ ኢዱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:03:21.173783123Z",
+  "model": "glm-5.3"
+}

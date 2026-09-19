@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 12:3",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "የሆሹዕ ድማ እቲ ቅኑዕ ኣብ ኣዕይንቲ ያህዌህ ኩሉ መዓልታቱ ገበረ፣ ኣብ ዘምህሮ የሆያዳዕ ኻህን እቲ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ ድማ"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "የሆሹዕ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "እቲ ቅኑዕ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ ኣዕይንቲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "መዓልታቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ኣብ ዘ"
+    },
+    {
+      "surface": "הורהו",
+      "gloss": "ምህሮ"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "የሆያዳዕ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ኻህን እቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:26:05.359752689Z",
+  "model": "glm-5.3"
+}

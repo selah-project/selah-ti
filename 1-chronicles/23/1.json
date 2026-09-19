@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ዳዊድ ድማ ኣርጊኡ ብቐትሪ ተመሊአ፣ ንውዲኡ ⟨את⟩ ሽሎሞ ኣብ ላዕሊ እስራኤል ንጉስ ኣድረገ።",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "ዳዊድ ድማ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ኣርጊኡ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ተመሊአ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ብቐትሪ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ንጉስ ኣድረገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሽሎሞ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ውዲኡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T07:49:02.117567827Z",
+  "model": "glm-5.3"
+}

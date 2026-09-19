@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ያህዌህ ብሩኽ ኣኻ፤ ሕግታትካ ኣምሃበኒ።",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ብሩኽ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ኣምሃበኒ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ሕግታትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:46.665748668Z",
+  "model": "glm-5.3"
+}

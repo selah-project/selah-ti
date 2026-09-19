@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ሞሸ ጥራይ ናብ ያህዌህ ክቕርብ እዩ፤ ንሳቶም ግን ኣይቐርቡን፤ እቲ ህዝቢ እውን ምስኡ ኣይወሃሉን።",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "ክቕርብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "ቐርቡ"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ወሃሉ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:29:25.831497471Z",
+  "model": "glm-5.3"
+}

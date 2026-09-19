@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 66,
+  "translation": "ምኽንያቱ ንሕና ኤሎሂም ፈተንካና፤ ከም ብር ከም ዝሓጸር ንሕና ሓጸርካና።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "ፈተንካና"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "ሓጸርካና"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "ከም ዝሓጸር"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:03.030259369Z",
+  "model": "glm-5.3"
+}

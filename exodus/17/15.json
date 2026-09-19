@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ሞሸ ድማ መስዋዕቲ-ቤት ሠርሖ፣ ስሙ ድማ ያህዌህ-ኒሲ ⟨ያህዌህ ምልክተይ⟩ በሎ።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሠርሖ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መስዋዕቲ-ቤት"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "ኒሲ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:23:27.023769546Z",
+  "model": "glm-5.3"
+}

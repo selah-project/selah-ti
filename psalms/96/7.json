@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 96,
+  "translation": "ህቡ ንያህዌህ፣ ወገናት ህዝቢታት፤ ህቡ ንያህዌህ ክብሪን ሓይሊን።",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ህቡ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ወገናት"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ህዝቢታት"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ህቡ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ሓይሊን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:11.785413590Z",
+  "model": "glm-5.3"
+}

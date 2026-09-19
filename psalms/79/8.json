@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 79,
+  "translation": "ኣይትዝከረና እቲ ቀደምቲ ኣበይታት፤ ብቕልቡ ምሕረትካ ቅድምና ንረኽቡ፣ ምኽንያቱ ብጣዕሚ ደኣንና።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ትዝከር"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ናትና"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "ኣበይታት"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "ቀደምቲ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ብቕልቡ"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "ቅድምና ይረኽቡና"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ምሕረትኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "ደኣንና"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:49.115974764Z",
+  "model": "glm-5.3"
+}

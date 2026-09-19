@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ሓይለይ ከም ቁራጽ ሓርሻ ሰኸመት፤ ልሳነይ ድማ ኣብ ኣንጋጋይ ተለጣጠፈ፤ ኣብ ኣፍርስ ሞት ድማ ኣቲኻኒ።",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "ሰኸመት"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "ከም ቁራጽ ሓርሻ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ሓይለይ"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "ልሳነይ"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "ተለጣጠፈ"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "ኣንጋጋይ"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "ኣብ ኣፍርስ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "ኣቲኻኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:36.093390845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ንጉስ ዳዊድ ድማ ረጀመ፣ ኣብ መዓልታት ተወሊዑ፤ ብልቡሳት ሸፈኑዎ እንተበሉ ድማ ሙቐት ኣይተረፈሉን።",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ረጀመ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ተወሊዉ ኣብ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "ሸፈኑዎ"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "ብልቡሳት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ክሞቐሉ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:44:52.973455178Z",
+  "model": "glm-5.3"
+}

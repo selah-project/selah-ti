@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ንዓይ ብእምና ኣርስዓንካ እየ፣ ድማ ⟨את⟩ ያህዌህ ትፈልጢ ኢኺ።",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "ኣርስዓንካ እየ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ብእምና"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ትፈልጢ ኢኺ ድማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:05:51.375814244Z",
+  "model": "glm-5.3"
+}

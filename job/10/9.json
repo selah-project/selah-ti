@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 10:9",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣስተውል በዚ፣ ከም ሸምቢ ገበርካኒ፣ ናብ ክብርቲ ድማ ተመልሳዕኒ።",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ኣስተውል"
+    },
+    {
+      "surface": "נא",
+      "gloss": "በዚ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "ከም ሸምቢ"
+    },
+    {
+      "surface": "עשיתני",
+      "gloss": "ገበርካኒ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ንናብ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ክብርቲ"
+    },
+    {
+      "surface": "תשיבני",
+      "gloss": "ተመልሳዕኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:07:24.034424734Z",
+  "model": "glm-5.3"
+}

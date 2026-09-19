@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "ካብ ምውጻእ ጸሓይን ካብ ምዕራብን ክፈልጡ ንምኽንያት፣ ብዘይ ኣነ ዝኾነ የለን ንዝርዳእ፤ ኣነ ያህዌህ እየ፤ ብዘይ ኣነ ካልእ የለን።",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ንምኽንያት"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ክፈልጡ"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ካብ ምውጻእ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ጸሓይ"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "ንካብ ምዕራብን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ንዝርዳእ እቲ"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "ብዘይ ኣነ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ድማ የለን"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ካልእ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:13:48.860294159Z",
+  "model": "glm-5.3"
+}

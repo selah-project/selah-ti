@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "እቲ ካህን ድማ ነቲ ⟨את⟩ እንስሳ ሓደኦት ኣብ ኣንቀሳቕሲ ሓሙስ፣ ኣብ ላዕለ ህያው ማይ ክትሰዓብ ኣዘዘ።",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ኣዘዞ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ሰዓበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እንስሳ ሓደኦት"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "እንስሳ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ሓደኦት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ኣንቀሳቕሲ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ሓሙስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕለ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ህያው"
+    }
+  ],
+  "timestamp": "2026-09-18T21:57:25.850804473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ሰብ ወይ ሰበይቲ ኣብ ርእሱ ወይ ኣብ ኣፍሩ ንኣይ እንተ ዝህሉ፦",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ዝህሉ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ንኣይ"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ኣብ ርእሱ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "ኣብ ኣፍሩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:57:54.369211556Z",
+  "model": "glm-5.3"
+}

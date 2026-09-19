@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "እዚኦም እቶም ስድራታት ናይ ስዕምዎን እዮም፤ ክልተን ዓሰርተን ካብ ኣልፍታትን ክልተ ሚእታትን።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ስድራታት"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "ናይ ስዕምዎን"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ካብ ኣልፍታት"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ክልተ ሚእታት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:34:08.885341293Z",
+  "model": "glm-5.3"
+}

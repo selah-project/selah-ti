@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "መገዱ ኣብ ኩሉ ግዜ ይጽንዕ እዩ፤ ኣብ ልዕሊ ፍርድካ ካብ ትሕቲ ኣይርአን፤ ንኩሉ ጸላእቱ ድማ የንፈስ።",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "ይጽንዕ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "መገዱ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ግዜ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ፍርድካ"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "ካብ ትሕቲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "ጸላእቱ"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "የንፈስ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ኣብኣቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:59.991332831Z",
+  "model": "glm-5.3"
+}

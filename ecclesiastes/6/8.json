@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ምእንቲ እንታይ ዝያዳ ኣለዎ እቲ ብሁር ካብ እቲ ዕኩብ፧ እንታይ ኣለዎ እቲ ድሃ ዝፈልጥ ቅድሚ ህይወት ንምንባር፧",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምእንቲ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ዝያዳ"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ንብሁር"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "እቲ ዕኩብ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ንድሃ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ዝፈልጥ"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "ንምንባር"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "እቶም ህይወት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:43:44.761654638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ሻኡል ድማ ⟨את⟩ ኹሉ ህዝቢ ናብ ምሕዛን ኣኻዊዱ፣ ናብ ቄይላ ንምውርደት፣ ንዳዊድን ሰባቱን ንምኽሳስ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ኣኻዊዱ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ ህዝቢ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ናብ ምሕዛን"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ንምውርደት"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ቄይላ"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ንምኽሳስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ን …ን"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ሰባቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:13:08.848873429Z",
+  "model": "glm-5.3"
+}

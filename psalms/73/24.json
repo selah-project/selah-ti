@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 73,
+  "translation": "ብምምሃርኻ ትምሃረኒ፣ ድሕሪኡ ድማ ብክብሪ ትቕበለኒ።",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "ብምምሃርኻ"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ትምሃረኒ"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ድሕሪኡ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "ትቕበለኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:00.257178936Z",
+  "model": "glm-5.3"
+}

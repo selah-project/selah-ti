@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 22:26",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "እቲ ንጉስ እስራኤል ድማ «ውሰዱ ⟨את⟩ ሚኽያሁን፣ ነስብዎ ናብ ኣሞን ሹም ⟨እቲ⟩ ከተማን ናብ ዮኣሽ ውዲ ⟨እቲ⟩ ንጉስን» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ውሰዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚኽያሁ"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "ሚኽያሁ"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "ነስብዎ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ኣሞን"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ሹም"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እቲ ከተማ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ንናብ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ዮኣሽ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ውዲ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:12:55.414831063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 2:10",
+  "book": "micah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ተበጽሑ ከይዱ፤ ምኽንያቱ እዚ ⟨እታ⟩ ዕረፍቲ ኣይኮነን፤ ምኽንያቱ ርኵሰታ ክትጥፍእ እያ — ወፍረት ኣጥፍኣት።",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "ተበጽሑ"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ከይዱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "ዕረፍቲ"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "ርኵሰታ"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "ክትጥፍእ"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "ወፍረት"
+    },
+    {
+      "surface": "נמרץ",
+      "gloss": "ኣጥፍኣት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:21:41.121106563Z",
+  "model": "glm-5.3"
+}

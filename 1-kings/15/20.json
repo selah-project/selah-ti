@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 15:20",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "በን-ሓዳድ ድማ ነቲ ንጉስ ኣሳ ሰምዑ፣ ሸፍተት እተኞም ሓይላት ነቶም ንከተማት እስራኤል ⟨את⟩ ሰደደ፣ ድማ ⟨את⟩ ዕዮን፣ ⟨את⟩ ዳንን፣ ⟨את⟩ ኣቤል ቤት ማዕካንን፣ ⟨את⟩ ኩሉ ኪነሮት ኣብ መላእ ምድሪ ንፍታሊ በደለ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዑ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ሓዳድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ኣሳ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሸፍተት እተኞም ሓይላት"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ሸፍተት"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "ሓይላት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እተኞም"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ናይኡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ከተማት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "በደለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዕዮን"
+    },
+    {
+      "surface": "עיון",
+      "gloss": "ዕዮን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዳን"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ዳን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቤል ቤት ማዕካ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ኣቤል"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ማዕካ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ኪነሮት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "ኪነሮት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላእ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ንፍታሊ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:05:48.612229765Z",
+  "model": "glm-5.3"
+}

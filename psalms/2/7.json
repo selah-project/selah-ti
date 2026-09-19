@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እቲ ኣዋጅ ክንገረሉ እነ፦ ያህዌህ ንኣነ «ወደይ ንስኻ ኢኻ፤ ኣነ ሎሚ ወሊድኩኻ» በለ።",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "ክንገር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ብዛዕባ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "እቲ ኣዋጅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወደይ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "ወሊድኩኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:53.580735839Z",
+  "model": "glm-5.3"
+}

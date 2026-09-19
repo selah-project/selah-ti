@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 40:26",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ነታ እዓይንኹም ናብ ልዕሊ ንዕቅዋ፣ ኣርእዩ፦ እዚኦም መን ፈጠረ? እቲ ብቑጽር ሰራዊቶም ዝውፅእ፣ ንኩሎም ብስም ዝጽውዕ፤ ብብዝሒ ንዕቤቱን ብሓያል ሓይልታቱን ሓደ እውን ኣይተሪፉን።",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ንዕቅዋ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ናብ ልዕሊ"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "እዓይንኹም"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ኣርእዩ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ፈጠረ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "ዝውፅእ"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ብቑጽር"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ሰራዊቶም"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "ንኩሎም"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ብስም"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ዝጽዋዕ"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ብብዝሒ"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "ንዕቤት"
+    },
+    {
+      "surface": "ואמיץ",
+      "gloss": "ብሓያል"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ሓይልታት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "ኣይተሪፉን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:08:48.879556924Z",
+  "model": "glm-5.3"
+}

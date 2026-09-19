@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ነቒ ድማ ምስ ኣተዉ፣ ⟨את⟩ ኩሉ መርገማታን ⟨את⟩ ኩሉ ኣስቀይማታን ካባኣ ይእልኡ።",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "ኮይኖም ምስ ኣተዉ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ነቒ"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "ይእልኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ መርገማታን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "መርገማታን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ኣስቀይማታን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "ኣስቀይማታን"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ካባኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:28:05.156626145Z",
+  "model": "glm-5.3"
+}

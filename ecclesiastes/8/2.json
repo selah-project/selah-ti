@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣነ ⟨ኣበስርሃ⟩፦ ነቲ ቃል ንጉስ ተጠንቐቕ፣ ብኣግሩ ናይ ኤሎሂም ኣረ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ነቲ ቃስ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ተጠንቐቕ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ብኣግሩ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ብምኽንያት"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "ኣረ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T06:43:17.039088658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 22:10",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ንሰማያት ኣጽጐዮም ወረደ፤ ጸልማት ወረፋ ድማ ትሕቲ እጢቑ ነይራ።",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ኣጽጐዮም"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ወረደ"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ጸልማት ወረፋ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "እጢቑ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:37:02.318524984Z",
+  "model": "glm-5.3"
+}

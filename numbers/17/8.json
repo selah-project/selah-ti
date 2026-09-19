@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ሞሸን ኣሕሮንን ናብ ቅድሚ ድንኳን መዓርገ ከዱ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ከዱ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ኣሕሮንን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መዓርገ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:26:13.643745979Z",
+  "model": "glm-5.3"
+}

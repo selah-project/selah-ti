@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 28:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ከም ነገርን ንከም ክፉእትን ተገባሮም ከም ጽሑፊ ኢዶም ሃቦም፣ ገበሮም ንሳቶም ኣመልሶም።",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "ሃብ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ሎም"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "ከም ነገርን"
+    },
+    {
+      "surface": "וכרע",
+      "gloss": "ንከም ክፉእትን"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ተገባሮም"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ከም ጽሑፊ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ናይ ኢዶም"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ሃብ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ሎም"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ኣመልስ"
+    },
+    {
+      "surface": "גמולם",
+      "gloss": "ገበሮም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:52:45.910282356Z",
+  "model": "glm-5.3"
+}

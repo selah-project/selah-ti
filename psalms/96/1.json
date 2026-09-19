@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 96,
+  "translation": "ንያህዌህ ዓዲስ መዝሙር ዝሙሩ፣ ኩላ ⟨ቱብ⟩ ምድሪ ንያህዌህ ዝሙሩ።",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ዝሙሩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ዓዲስ"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ዝሙሩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩላ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:40.887384007Z",
+  "model": "glm-5.3"
+}

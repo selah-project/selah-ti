@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 21:16",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ሰብ ካብ ፍልጠት ኮነ ዝተጓዓዘ ብምክብር ራፋይም ክራም እዩ።",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "ኮነ ዝተጓዓዘ"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ካብ መስመር"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "ፍልጠት"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ብምክብር"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ራፋይም"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ክራም እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:51:52.556196349Z",
+  "model": "glm-5.3"
+}

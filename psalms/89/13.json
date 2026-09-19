@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ሰሜንን ንግሳንን ንስኻ ፈጠርካዮም፤ ታቦርን ኸርሞንን ብስምኻ ይሰማዕዩ።",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "ሰሜን"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ንግሳንን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "ፈጠርካዮም"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "ታቦር"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "ኸርሞንን"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ብስምኻ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ይሰማዕዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:12.496821898Z",
+  "model": "glm-5.3"
+}

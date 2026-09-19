@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 24:5",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ሰብ ሓድሽ ሰበይቲ ኣኽሊል ኣብ እዋን፣ ኣብ ሰራዊት ኣይውጽእን ብዝዀነ ጉዳይ ከኣ ኣይግበርሉን፣ ሓደ ዓመት ንቤቱ ንጹህ ክኸውን እዩ፣ ድማ ነቲ ⟨את⟩ ሰበይቱ ነቲ ብዛዕባ እታ ዝኣኽሊል ከምኡ ኣይብልን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ኣብ እዋን"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ወሲድ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "ሓድሽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ውጹእ"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "ኣብ ሰራዊት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ከኣ ኣይ"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ይግበርሉ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ንእሱ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንዝዀነ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ጉዳይ"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ንጹህ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክኸውን"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ንቤቱ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "ድማ ሓገስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንሰበይቱ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ንሰበይቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ዝኣኽሊል"
+    }
+  ],
+  "timestamp": "2026-09-18T23:05:04.545592010Z",
+  "model": "glm-5.3"
+}

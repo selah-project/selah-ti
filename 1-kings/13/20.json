@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 13:20",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኣብ ዝቐመጡሉ ኣብ ⟨ה⟩ ማዕዶ እውን ነይሩ ቃል ያህዌህ ናብኡ ነብዪ እቲ ንኡ ዝመለሶ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "ዝቐመጡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "እቲ ማዕዶ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "እውን ኾነ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "እቲ ነብዪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "ዝመለሶ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:00:15.809077979Z",
+  "model": "glm-5.3"
+}

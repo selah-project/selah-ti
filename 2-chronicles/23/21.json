@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ኩሉ ሕዝቢ ምድሪ ተሓገሱ፣ ከምኡውን ⟨እታ⟩ ከተማ ምትሓሉ ነይራ፤ ⟨את⟩ ዓትልያሁ ድማ ብሰይፊ ቀተሏ።",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "ተሓገሱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ከምኡውን ⟨እታ⟩ ከተማ"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "ምትሓሉ ነይራ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓትልያሁ"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "ዓትልያሁ"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ቀተሏ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ብሰይፊ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:07:18.424670759Z",
+  "model": "glm-5.3"
+}

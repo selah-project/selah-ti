@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 19:7",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ሣር ኣብ ወንዚ፣ ኣብ ኣፍ ወንዚ፣ ኩሉ ዝተዘርዓ ኣብ ወንዪ ክስከሕ፣ ክተባርሕ፣ ከምዘይኮነን።",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ሣር"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "ወንዚ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ኣፍ"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "ወንዚ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "ዝተዘርዓ"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "ኣብ ወንዪ"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "ክስከሕ፣"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "ክተባርሕ፣"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ከምዘይኮነን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:52:16.455037132Z",
+  "model": "glm-5.3"
+}

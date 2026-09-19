@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 56,
+  "translation": "ስሓቐኒ ኤሎሂም፣ ምኽንያቱ ሰብ ንዓይ ይውሕረኒ፤ ኩሉ ⟨እቲ⟩ መዓልቲ እናተዓለቐ ይታጕሐኒ።",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ስሓቐኒ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "ይውሕረኒ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨እቲ⟩ መዓልቲ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እናተዓለቐ"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "ይታጕሐኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:08.131025827Z",
+  "model": "glm-5.3"
+}

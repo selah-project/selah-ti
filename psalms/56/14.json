@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 56:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 56,
+  "translation": "ምኽንያቱ ነፍሰይ ካብ ሞት ሓረካ፤ እሞ እግረይ ካብ ምውራድ ⟨ኣይሓረኸንኒን?⟩፣ ኣብ ቅድመ ኤሎሂም ኣብ ብርሃን ናይ ህይወት ክኽእለሉ እየ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "ሓረካ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ካብ ሞት"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "እግረይ"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "ካብ ምውራድ"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "ክኽእለሉ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድመ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ኣብ ብርሃን ናይ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ህይወት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:01.745958024Z",
+  "model": "glm-5.3"
+}

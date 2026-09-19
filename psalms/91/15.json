@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 91,
+  "translation": "ይጸውዐኒ ድማ እስምዖ፤ ምስኡ ኣነ ኣብ ጸገም እየ፤ ኣበድኾ ድማ ኣኽብሮ።",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "ይጸውዐኒ"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "እስምዖ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስኡ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "ኣብ ጸገም"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "ኣበድኾ"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "ኣኽብሮ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:05.932553165Z",
+  "model": "glm-5.3"
+}

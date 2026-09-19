@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 135,
+  "translation": "ምኽንያቱ ያህዌህ ህዝቢኡ ይፈርድ እዩ፣ ንኣገልገልቱን ድማ ይንስሓ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ይፈርድ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ህዝቢኡ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ን…ን"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ኣገልገልቱን"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "ይንስሓ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:40.608676534Z",
+  "model": "glm-5.3"
+}

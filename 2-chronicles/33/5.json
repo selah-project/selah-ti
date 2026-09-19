@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 33:5",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ንኹሉ ጸባኦት ሰማያት መስዊዕታት ኣብ ክልተ ጐደናታት ቤት ያህዌህ ሃንጸ።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሃንጸ"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "መስዊዕታት"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "ኣብ ክልተ"
+    },
+    {
+      "surface": "חצרות",
+      "gloss": "ጐደናታት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:20:53.812831367Z",
+  "model": "glm-5.3"
+}

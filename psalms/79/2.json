@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 79,
+  "translation": "ንኩርሖም ኣገልገልትኻ ⟨את⟩ ንዑፍ ሰማያት መግቢ ሃቡ፤ ስጋ ቅዱሳንኻ ንኵርፋት ምድሪ ሃቡ።",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "ሃቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንኩርሖም ኣገልገልትኻ"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "ንኩርሖም"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ኣገልገልትኻ"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "መግቢ"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "ንዑፍ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ስጋ"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "ቅዱሳንኻ"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "ንኵርፋት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:37.415162757Z",
+  "model": "glm-5.3"
+}

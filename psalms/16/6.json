@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ቀጥቕጢ ማዕራት ኣብ ቦታታት ጽቡቓት ንዓይ ወሪዱ እለይ፤ ንጹር እውን ሓበንቲ ብሩህ ኣብ ልዕለይ ኣላ።",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "ቀጥቕጢ ማዕራት"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ወሪድ እለይ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "ኣብ ቦታታት ጽቡቓት"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ንጹር እውን"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ሓበንቲ"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "ብሩህ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕለይ ኣላ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:59.407562258Z",
+  "model": "glm-5.3"
+}

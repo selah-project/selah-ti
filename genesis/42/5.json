@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ውላድ እስራኤል ምስ እቶም ዝመጹ ኣብ መንጎ ንኽተብዕዩ መጹ፤ ምኽንያቱ ረሃብ ኣብ ምድሪ ከነዓን ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "መጹ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ንኽተብዕዩ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "እቶም ዝመጹ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ረሃብ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዓን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:03:52.483769242Z",
+  "model": "glm-5.3"
+}

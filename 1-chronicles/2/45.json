@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ወዲ ሽማይ ድማ ማዖን እዩ፤ ማዖን ድማ ኣቦ ቤት ጽር እዩ።",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ሽማይ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ማዖን"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "ማዖን ድማ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ጽር"
+    }
+  ],
+  "timestamp": "2026-09-19T07:29:20.708645629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 15:32",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ሳሙኤል ድማ በለ፦ «ንኣነ ⟨את⟩ ኣጋግ ንጉስ ዓማለቅ ኣቕርቡ»፤ ኣጋግ ድማ ብዝዕበይ ናብኡ ከደ፤ ኣጋግ ድማ በለ፦ «ብሓቂ ቕጽሪ ሞት ተሓለፈ»።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "ኣቕርቡ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣጋግ"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "ኣጋግ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ዓማለቅ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ናብኡ"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "ኣጋግ"
+    },
+    {
+      "surface": "מעדנת",
+      "gloss": "ብዝዕበይ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "ኣጋግ"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "ብሓቂ"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ተሓለፈ"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ቕጽሪ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ሞት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:06:24.678189569Z",
+  "model": "glm-5.3"
+}

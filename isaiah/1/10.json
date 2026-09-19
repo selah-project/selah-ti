@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ቃል ያህዌህ ስምዑ ስዶም ኣመላኽታት፣ ነቲ ናይ ኤሎሂምና ቶራ እውን ጆሮ ኣፍቱ፣ ዓሞራ ህዝቢ።",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ስምዑ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "ኣመላኽታት"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "ስዶም"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "ጆሮ ኣፍቱ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "ዓሞራ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:39:08.899711202Z",
+  "model": "glm-5.3"
+}

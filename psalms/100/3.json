@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 100,
+  "translation": "ኣፍለጡ፦ ከመይ ያህዌህ ንሱ ኤሎሂም እዩ፤ ንሱ ገበረና እምበር ንሕና ኣይኮንናን፤ ሕዝቡን በጊዑን ናይ መርቢቱን ንሕና ኢና።",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "ኣፍለጡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከመይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "ገበረና"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "በጊዑ"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "ናይ መርቢቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:01.491755687Z",
+  "model": "glm-5.3"
+}

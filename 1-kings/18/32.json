@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ነቶም ዕላልታት ⟨את⟩ ማዕዶ ብስም ያህዌህ ሃንጸ፤ ከም ቤት ክልተ ሳእ ዘርቢ ዝሓዝ ቈላ ኣብ ዙርያ እቲ ማዕዶ ድማ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "ሃንጸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዕላልታት"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ነቶም ዕላልታት"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ማዕዶ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ብስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "ቈላ"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "ከም ቤት"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "ክልተ ሳእ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘርቢ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ኣብ ዙርያ"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ነቲ ማዕዶ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:07:53.035543962Z",
+  "model": "glm-5.3"
+}

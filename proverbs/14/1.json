@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ጥበበኛ ሰበይቲ ነታ ዓበይታ ሓንጸት፤ እታ ስደተኛ ድማ ብኢዳታ ትሓርሳ።",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "ጥበበኛ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "ሓንጸት"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ነታ ዓበይታ"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "እታ ስደተኛ"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "ብኢዳታ"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "ትሓርሳ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:48:39.810435146Z",
+  "model": "glm-5.3"
+}

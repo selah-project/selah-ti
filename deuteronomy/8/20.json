@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ከም እቶም ህዝብታት ያህዌህ ካብ ቅድምኩም እትጠፍኦም፣ ከምኡ ክትጠፍኡ ኢኻም፤ ስለ ዝኾነ ነቲ ቃል ያህዌህ ኤሎሂምኩም ኣይሰምዕኩምን።",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "ከም እቶም ህዝብታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "እትጠፍኦም"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "ካብ ቅድምኩም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "ክትጠፍኡ ኢኻም"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ስለ ዝኾነ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "ሰምዕኩምን"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ነቲ ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:53:01.481769921Z",
+  "model": "glm-5.3"
+}

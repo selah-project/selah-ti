@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 77,
+  "translation": "ኣብ መዓልቲ ብሽታይ ኣዶናይ ሓደግኩ፤ ኢደይ ኣብ ለይቲ ተዘርጊራ ኣይተማልአትን፤ ነፍሰይ ምስትኽኻል ኣዘዘት።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "ብሽታይ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ሓደግኩ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ኢደይ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ኣብ ለይቲ"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "ተዘርጊራ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "ተማልአትን"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "ኣዘዘት"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "ምስትኽኻል"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:35.429230088Z",
+  "model": "glm-5.3"
+}

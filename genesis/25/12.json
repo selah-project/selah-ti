@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 25:12",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "እዚኦም ድማ ትውልዲ ይስማኤል ወዲ ኣቭራሃም እዮም — ሃጋር እታ ምጽራይታዊት፣ ኣገልገልቲ ሳራ፣ ንኣቭራሃም ዝወለደቶ።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እዚኦም ድማ"
+    },
+    {
+      "surface": "תלדת",
+      "gloss": "ትውልዲ"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ይስማኤል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ዝወለደቶ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ሃጋር"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "እታ ምጽራይታዊት"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ኣገልገልቲ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ሳራ"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ንኣቭራሃም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:47:43.621372410Z",
+  "model": "glm-5.3"
+}

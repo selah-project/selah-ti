@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እቲ ቃል ያህዌህ ዝፈርሐ ካብ ኣገልገልቲ ፓርዖ፣ ⟨את⟩ ኣገልገልቱን ⟨את⟩ እንስሳቱን ናብ እቶም ቤታት ኣእተዎም።",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "ዝፈርሐ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃል ያህዌህ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "ካብ ኣገልገልቲ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "ኣእተዎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣገልገልቱ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ኣገልገልቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እንስሳቱ"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "እንስሳቱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "እቶም ቤታት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:18:14.485220408Z",
+  "model": "glm-5.3"
+}

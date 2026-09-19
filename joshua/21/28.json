@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ከምኡውን ካብ ኩባንያ ይሳስካር ⟨את⟩ ቂሺዮንን ⟨את⟩ መግራሻን ⟨את⟩ ዳበራትን ⟨את⟩ መግራሻን።",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ከምኡውን ካብ ኩባንያ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ይሳስካር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቂሺዮን"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "ቂሺዮን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መግራሻ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መግራሻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳበራት"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ዳበራት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መግራሻ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መግራሻ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:30:45.052516216Z",
+  "model": "glm-5.3"
+}

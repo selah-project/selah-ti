@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ንሓደ ⟨እቲ⟩ ከብቲ ወይ ንሓደ ⟨እቲ⟩ ኣጋዚ ወይ ንሓደ ⟨እቲ⟩ በግዕ ካብ ⟨እቶም⟩ በግዓት ወይ ካብ ⟨እቶም⟩ ኣጣታት ከምዚ ክኾን።",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ክኾን"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "ንሓደ ከብቲ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "እቲ ሓደ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "ንሓደ ኣጋዚ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "እቲ ሓደ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "ንሓደ በግዕ"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "ካብ እቶም በግዓት"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "ካብ እቶም ኣጣታት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:26:32.340785212Z",
+  "model": "glm-5.3"
+}

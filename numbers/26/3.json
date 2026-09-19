@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 26:3",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ሞሸን ኤልዓዛር ካህንን ⟨אתם⟩ ኣብ ሸለማት ሞኣብ ኣብ ኣግዳማ ዮርዳኖስ ንየሪኮ እናበሉ ተዛረብዎም፦",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "እናበለ ተዛረበ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "ኤልዓዛር…ን"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ኣብ ሸለማት ሞኣብ"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "ኣብ ሸለማት"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ኣግዳማ"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "ዮርዳኖስ"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "የሪኮ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበሉ፦"
+    }
+  ],
+  "timestamp": "2026-09-18T22:34:25.493907225Z",
+  "model": "glm-5.3"
+}

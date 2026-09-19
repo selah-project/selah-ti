@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኤሎሂም ድማ ንኣቶም መውሊድቲ ሓሞሎም፤ እቲ ህዝቢ ድማ በዝሐን ብዙሕ ኣይበርታዕውን።",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "ሓሞሎም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "ንኣቶም መውሊድቲ"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "በዝሐን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "ኣይበርታዕውን"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:10:51.419531788Z",
+  "model": "glm-5.3"
+}

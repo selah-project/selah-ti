@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ከምኡውን ብኣዕላፊ ብረት ኣቢሉ ከም ዝበዝሖ ድማ ኺሞት፣ ቀተሊ ⟨እዩ⟩፤ እቲ ቀተሊ ሞት ኪቐተል እዩ።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ከምኡውን እንተ"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "ብኣዕላፊ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ብረት"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "ከም ዝበዝሖ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ኺሞትን"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "ቀተሊ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ኪቐተል"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "እቲ ቀተሊ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:44:12.579309156Z",
+  "model": "glm-5.3"
+}

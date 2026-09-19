@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ነቲ ኣቭራሃም ድማ እናበለቶ፦ «እታ ገላኺ እዚኣን ⟨את⟩ ወዲኣን ኣውጽኦም፤ ስለ መን ወዲ እታ ገላኺ እዚኣ ምስ ወደይ ምስ ይጽሓቅ ኣይወርስን እዩ።»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "እናበለቶ"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ንኣቭራሃም"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "ኣውጽእ"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ገላኺ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚኣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወዲኣ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ወዲኣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ መን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "ይወርስ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ገላኺ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚኣ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወደይ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይጽሓቅ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:44:09.794196234Z",
+  "model": "glm-5.3"
+}

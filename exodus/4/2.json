@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ያህዌህ ድማ ንኡ በሎ፦ «እንታይ እዩ ኣብ ኢድካ?» ንሱ ድማ «ማጓዳ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "እንታይ እዩ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ኣብ ኢድካ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ማጓዳ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:13:52.116636434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ላቫን ድማ ንኣ ⟨את⟩ ዝልፓ ኻድማኡ ንለዓሃ ጓሉ ከም ኻድማ ሃበ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ላቫን"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ንኣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝልፓ"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "ዝልፓ"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "ኻድማኡ"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "ንለዓሃ"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ጓሉ"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "ኻድማ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:50:39.419583011Z",
+  "model": "glm-5.3"
+}

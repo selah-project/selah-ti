@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኤልዓዛር ሓደ ወሊዱ ፒንሕስ፣ ፒንሕስ ሓደ ወሊዱ ኣቢሹዓ።",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ሓደ ወሊዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፒንሕስ"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ፒንሕስ"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ፒንሕስ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ሓደ ወሊዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቢሹዓ"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "ኣቢሹዓ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:32:18.015177397Z",
+  "model": "glm-5.3"
+}

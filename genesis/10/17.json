@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ከምኡውን ⟨את⟩ ሕዊታዊን ⟨את⟩ ዓርቃዊን ⟨את⟩ ሲናዊን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዊታዊ"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ሕዊታዊ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓርቃዊ"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "ዓርቃዊ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሲናዊ"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "ሲናዊ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:29.774273195Z",
+  "model": "glm-5.3"
+}

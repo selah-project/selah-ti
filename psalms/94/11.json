@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 94,
+  "translation": "ያህዌህ ሓሳብታት ሰብ ይፈልጥ እዩ፣ ከምቲ ኩሎም ባዶነት እዮም።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ይፈልጥ"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ሓሳብታት"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እዮም"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ባዶነት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:57.241296885Z",
+  "model": "glm-5.3"
+}

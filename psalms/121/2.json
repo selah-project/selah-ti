@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 121,
+  "translation": "ሓዊስተን ካብ ያህዌህ እዩ — እቲ ሰማያትን ምድርን ዘገበረ።",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "ሓዊስተን"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዘገበረ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ምድርን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:30.851437330Z",
+  "model": "glm-5.3"
+}

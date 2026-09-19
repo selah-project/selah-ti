@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 31:8",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ያህዌህ በዓር ኣብ ቅድምካ ዝኸድዎ እዩ፤ በዓር ምስኻ እዩ ዝነብር፤ ኣይጐድልካን ከምኡውን ኣይሕድረካን፤ ኣይትሓዝን ከምኡውን ኣይትርሕቑን።",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ወን ያህዌህ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "በዓር እዩ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "እቲ ዝኸድዎ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ኣብ ቅድምካ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "በዓር"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "እዩ ዝነብር"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "ይጐድልካ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ወን ኣይ"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "ይሕድረካ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ትሓዝ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ወን ኣይ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ትርሕቑ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:14:03.129639594Z",
+  "model": "glm-5.3"
+}

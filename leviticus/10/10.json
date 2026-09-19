@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ንምኽፍል መንጎ ⟨እቲ⟩ ቅዱስን ⟨እቲ⟩ ዘይቅዱስን፣ መንጎ ⟨እቲ⟩ ዘይንጹስን ⟨እቲ⟩ ንጹስን።",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "ንምኽፍል"
+    },
+    {
+      "surface": "בין",
+      "gloss": "መንጎ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "⟨እቲ⟩ ቅዱስ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "መንጎ…ን"
+    },
+    {
+      "surface": "החל",
+      "gloss": "⟨እቲ⟩ ዘይቅዱስ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "መንጎ…ን"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "⟨እቲ⟩ ዘይንጹስ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "መንጎ…ን"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "⟨እቲ⟩ ንጹስ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:53:31.251515558Z",
+  "model": "glm-5.3"
+}

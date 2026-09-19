@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ያህዌህ ድማ ኣብ ተኸታይ መዓልቲ ⟨את⟩ ⟨the⟩ ቃል ነዚ ገበረ፤ ኩሉ ብሕቲ ሚጽራይም ድማ ሞተ፤ ካብ ብሕቲ ይስራኤል ግና ሓደ ኳን ኣይሞተን።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃል ነዚ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ነዚ"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ኣብ ተኸታይ መዓልቲ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ብሕቲ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "ካብ ብሕቲ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:18:14.208786485Z",
+  "model": "glm-5.3"
+}

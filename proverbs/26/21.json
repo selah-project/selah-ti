@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 26:21",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "እኩብ ንእኩባትን እኳዕ ንሓዊን እዩ፤ ሰብ መዛረብቲ ድማ ንምልጋሕ ጥቕቲ እዩ።",
+  "tokens": [
+    {
+      "surface": "פחם",
+      "gloss": "እኩብ"
+    },
+    {
+      "surface": "לגחלים",
+      "gloss": "ንእኩባት"
+    },
+    {
+      "surface": "ועצים",
+      "gloss": "ንእኳዕን"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "ንሓዊ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ሰብን"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "መዛረብቲ"
+    },
+    {
+      "surface": "לחרחר",
+      "gloss": "ንምልጋሕ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ጥቕቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:57:18.798562731Z",
+  "model": "glm-5.3"
+}

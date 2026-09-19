@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 142,
+  "translation": "ናብ ወዲቕተይ ኣይን፤ ምኽንያቱ ብዙሕ ደኣይኩ፤ ካብ ተኺበርተይ ኣውጽኣኒ፤ ምኽንያቱ ካባይ ኣሃዱሩ።",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "ኣይን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "ወዲቕተይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "ደኣይኩ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ኣውጽኣኒ"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "ተኺበርተይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "ኣሃዱሩ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ካባይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:39.104185014Z",
+  "model": "glm-5.3"
+}

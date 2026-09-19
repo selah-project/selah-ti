@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ያህዌህ ኣብ ሽሎሞ ካልኣይ ግዜ ተገሊጹሉ፣ ከም ዝተገሊጹሉ ኣብ ጊብዖን።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ተገሊጹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ካልኣይ ግዜ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ዝተገሊጹ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ነቶ"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "ኣብ ጊብዖን"
+    }
+  ],
+  "timestamp": "2026-09-19T00:56:28.789535652Z",
+  "model": "glm-5.3"
+}

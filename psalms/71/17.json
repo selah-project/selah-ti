@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 71,
+  "translation": "ኤሎሂም ካብ ንእሽተናይ ኣምሃርካኒ፣ ከምኡውን ክሳብ ሕጂ ጽዑቓትካ ክኣግር እየ።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "ኣምሃርካኒ"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ካብ ንእሽተናይ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ከምኡውን ክሳብ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ክኣግር እየ"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ጽዑቓትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:40.110992897Z",
+  "model": "glm-5.3"
+}

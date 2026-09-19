@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣዳም ድማ ንኩሉ ከብት፣ ንእንቁልቋል ሰማያትን ንኩሉ እንሳ እቲ ዓዲን ስማት ሰይመ፤ ንኣዳም ግና ከም ልክኡ ዘሎ ሓጋዚ ኣይተረከበን።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ሰይመ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ኣዳም"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ስማት"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ከብት"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "ንእንቁልቋልን"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ንኩሉን"
+    },
+    {
+      "surface": "חית",
+      "gloss": "እንሳ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "እቲ ዓዲ"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "ንኣዳምን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ተረከበ"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ሓጋዚ"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "ከም ልክኡ ዘሎ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:25:56.105825637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 12:5",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ያህዌህ ብምስቲ ደበቓ ወርዓየ፣ ኣብ በዓቲ እቲ ማሕደር ተቐመጠ፣ ኣሃሮንን ምርያምን ዐወቐ፤ ክልቲኦም ኣብተዉ።",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ወርዓየ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "ብምስቲ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ደበቓ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣብ በዓቲ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "እቲ ማሕደር"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ዐወቐ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ምርያም"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ኣብተዉ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ክልቲኦም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:23:57.472412317Z",
+  "model": "glm-5.3"
+}

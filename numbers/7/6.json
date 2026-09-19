@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ሞሸ ድማ ⟨את⟩ መካይታትን ⟨ואת⟩ በቅቲን ተቐብነ፣ ⟨את⟩ ነኦሹም ናብ ለውያት ሃቖም።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ተቐብነ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መካይታት"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "መካይታት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "በቅቲ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "በቅቲ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሃቖም"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ነኦሹም",
+      "marks": "ነኦሹም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ለውያት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:15:47.189318954Z",
+  "model": "glm-5.3"
+}

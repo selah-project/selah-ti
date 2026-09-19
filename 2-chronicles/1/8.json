@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 1:8",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ሽሎሞ ድማ ንኤሎሂም በለ፦ «ኣታ ምስ ዳዊድ ኣቦይ ሔሴድ ዓቢ ገበርካ፣ ኣብ ቦታኡ ድማ ነገስቲ ገበርካኒ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ንኤሎሂም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኣታ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ገበርካ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦይ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "והמלכתני",
+      "gloss": "ነገስቲ ገበርካኒ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ኣብ ቦታኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:53:17.744142775Z",
+  "model": "glm-5.3"
+}

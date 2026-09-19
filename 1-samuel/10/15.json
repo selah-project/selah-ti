@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣጎድ ሻኡል ድማ ነዚ ተዛረቦ፦ «ነገረኒ በቲ ጽቡቕ፣ እንታይ በለ ኩም ሽምወኤል?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ኣጎድ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ነገረኒ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "በቲ ጽቡቕ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንገረኒ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ኩም"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሽምወኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T00:02:54.483526165Z",
+  "model": "glm-5.3"
+}

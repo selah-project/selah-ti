@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኣርፋክሳድ ድማ ሓሙሽተን ሸሞንተን ዓመት ነይሩ፣ ⟨את⟩ ሽላሕ ወለደ።",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "ኣርፋክሳድ ድማ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ሓሙሽተን"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ሸሞንተን"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሽላሕ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ሽላሕ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:30.255906348Z",
+  "model": "glm-5.3"
+}

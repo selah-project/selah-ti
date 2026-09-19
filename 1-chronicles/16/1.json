@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 16:1",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ኣርታን ናይ ኤሎሂም ኣእተዮም፣ ⟨את⟩ ኣብ ማዕከል እቲ ዳዊድ ዝዘረገለሉ ድንኳን ኣተርኣዮ፣ ኣብ ቅድሚ ኤሎሂም ዕላታትን ሰላምታትን ከኣ ኣቕረቡ።",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "ኣእተዮም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣርታን"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ኣርታን"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ናይ ኤሎሂም"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "ኣተርኣዮ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብ ማዕከል"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ ማዕከል"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "እቲ ድንኳን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ዘረገለ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ሎ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "ኣቕረቡ"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ዕላታት"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "ሰላምታትን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:42:30.680154368Z",
+  "model": "glm-5.3"
+}

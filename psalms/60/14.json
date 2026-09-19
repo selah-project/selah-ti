@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 60,
+  "translation": "ብኤሎሂም ሓይል ነገር፤ ንሱ ድማ መከራትና ⟨הוא⟩ ይትኻሎም።",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "ብኤሎሂም"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ሓይል"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "ይትኻሎም"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "መከራትና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:23.005498216Z",
+  "model": "glm-5.3"
+}

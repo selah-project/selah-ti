@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ክፈት ኣብራትኻ ኣብ ልባኖን፣ ሓዊ ድማ ኣርዙንኻ ይብላዕ።",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ክፈት"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ልባኖን"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "ኣብራትኻ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ድማ ይብላዕ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "ኣርዙንኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:37:15.671821429Z",
+  "model": "glm-5.3"
+}

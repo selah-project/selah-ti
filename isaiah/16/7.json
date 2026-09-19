@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 16:7",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ስለዚ ሞኣብ ንሞኣብ ኩሉ ክጓሓል እዩ፤ ንኩራት ኪር-ሕረሰት ተሓዝኑ፤ ብሓቂ ተታሒቱ እዮም።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "ክጓሓል"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "ንሞኣብ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "ክጓሓል"
+    },
+    {
+      "surface": "לאשישי",
+      "gloss": "ንኩራት"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "ኪር"
+    },
+    {
+      "surface": "חרשת",
+      "gloss": "ሕረሰት"
+    },
+    {
+      "surface": "תהגו",
+      "gloss": "ተሓዝኑ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ብሓቂ"
+    },
+    {
+      "surface": "נכאים",
+      "gloss": "ተታሒቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:54:58.440284313Z",
+  "model": "glm-5.3"
+}

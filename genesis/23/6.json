@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 23:6",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "«ስምዑና ኣዶናይይ፣ ንስኻ ናይ ኤሎሂም ሹም ኣብ መንጎና ኢኻ፤ ኣብ ተመሪጽቲ መቓብርና ⟨את⟩ ነፍሲኻ ቐብር፤ ሓደ ካብና ⟨את⟩ መቓብሩ ንስኻ ኣይኸልእን፣ ንስኻ ድማ ነፍሲኻ ክትቐብር።»",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "ስምዑና"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይይ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ሹም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ናይ ኤሎሂም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "ኣብ መንጎና"
+    },
+    {
+      "surface": "במבחר",
+      "gloss": "ኣብ ተመሪጽቲ"
+    },
+    {
+      "surface": "קברינו",
+      "gloss": "መቓብርና"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "ቐብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሲኻ"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "ነፍሲኻ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብና"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መቓብሩ"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "መቓብሩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "ኣይኸልእን"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "מקבר",
+      "gloss": "ክትቐብር"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "ነፍሲኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:45:04.012750738Z",
+  "model": "glm-5.3"
+}

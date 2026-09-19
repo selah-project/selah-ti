@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 12:2",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኤፓርይም ንፋስ ይራባ፣ ንንፋሲ ምብራቕ ድማ ይሰይር፤ ኩሉ መዓልቲ ሓሶትን ውዕብን ይብዝሕ፣ ምስ ኣሱር ኪዳን ይቐርጹ፣ ዘይኒ ድማ ናብ ሚጽራይም ይውሃብ።",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፓርይም"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ይራባ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ንፋስ"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "ይሰይር"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ንፋሲ ምብራቕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "ውዕብ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ይብዝሕ"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣሱር"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ይቐርጹ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ዘይኒ"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "ናብ ሚጽራይም"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "ይውሃብ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:10:15.822213125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኣብ ስፍሕቲ እናዘለኹ ክኽደን እየ፣ ምኽንያቱ ኣዘዛትካ ሰሊጠ እየ።",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "ክኽደን እየ"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "ኣብ ስፍሕቲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ኣዘዛትካ"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ሰሊጠ እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:41.215663480Z",
+  "model": "glm-5.3"
+}

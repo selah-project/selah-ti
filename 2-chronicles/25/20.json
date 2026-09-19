@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 25:20",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ኣማጽያሁ ከኣ ኣይሰምዐን፣ ስለ ዝነበረት ካብ ኤሎሂም — ንኦም ኣብ ኢድ ንኽህብሮም — ንኣማልኽቲ ኤዶም ስለ ዝሓደሩ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዐን"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "ኣማጽያሁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "מהאלהים",
+      "gloss": "ካብ ኤሎሂም"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እያ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ንኽኾን"
+    },
+    {
+      "surface": "תתם",
+      "gloss": "ንኽህብሮም"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ኣብ ኢድ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ዝሓደሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣማልኽቲ ኤዶም"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኣማልኽቲ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:14:32.381917078Z",
+  "model": "glm-5.3"
+}

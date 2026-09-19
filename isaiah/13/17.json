@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "እንሆ ኣነ ኣብ ላዕሎም ⟨את⟩ ማዳይ እናሓወይ፣ እቶም ገንዘብ ኣይዕቀቡን፣ ወርቂን ኣይደልዩን።",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "እናሓወይ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ኣብ ላዕሎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማዳይ"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ማዳይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ገንዘብ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ይዕቅቡን"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ወርቂን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "ይደልዩን"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:49:10.248083369Z",
+  "model": "glm-5.3"
+}

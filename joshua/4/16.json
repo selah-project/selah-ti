@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "«⟨את⟩ ኣኻናት ሰቒልቲ ታቦት ምስሕ ኣዝዝ፤ ካብ ዮርዳኖስ ድማ ንይውሰኹ።»",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "ኣዝዝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣኻናት"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ኣኻናት"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ሰቒልቲ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ምስሕ"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ንይውሰኹ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:15:41.799168554Z",
+  "model": "glm-5.3"
+}

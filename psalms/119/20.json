@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ነፍሲ ተሰቒለት ብምድላው ናብ ፍርዲታትኻ ኣብ ኩሉ ግዜ።",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "ተሰቒለት"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "ብምድላው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ፍርዲታትኻ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ግዜ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:21.077606689Z",
+  "model": "glm-5.3"
+}

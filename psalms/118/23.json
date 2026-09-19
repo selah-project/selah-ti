@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 118,
+  "translation": "እዚ ⟨את⟩ ካብ ׋ህዌህ ተገቢራ፤ ኣብ ኣይናትና እዩ ዝገርም።",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "እዚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ተገቢራ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "ዝገርም"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "ኣብ ኣይናትና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:03.084660997Z",
+  "model": "glm-5.3"
+}

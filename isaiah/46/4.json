@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 46,
+  "translation": "ብዕብያ ኣነ ንሱ እየ፣ ክሳብ ሸብሓ ክጽብ እየ፤ ኣነ ገበርኩ፣ ኣነ ክውሕል፣ ኣነ ክጽብ እየ፣ ክድሕን እየ።",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "ብዕብያ"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "ዕብያ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "ሸብሓ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "ክጽብ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ገበርኩ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ክውሕል"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "ክጽብ"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "ክድሕን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:12:40.228305826Z",
+  "model": "glm-5.3"
+}

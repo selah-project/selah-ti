@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ነቲ ⟨את⟩ ኮረማ ኣብ ዝዕንኑዎ መዓልቲ ወዲ በግ ዘይጉድኣት ውላድ ሓደ ዓመት ንያህዌህ ንወፈያ ትቐርቡ።",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "ትገብሩ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "ዝዕንኑዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ኮረማ"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "ነቲ ኮረማ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ወዲ በግ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ዘይጉድኣት"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ሓደ ዓመት"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ንወፈያ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:04:32.998936952Z",
+  "model": "glm-5.3"
+}

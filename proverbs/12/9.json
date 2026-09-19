@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "እቲ ዝተሓተ ውን ኣገልጋሊ ዘለዎ ነይሩ፣ ካብቲ ርእሱ ዝከብር ግን ንጹር ዝጎድሎ በለጸ እዩ።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "በለጸ"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "ዝተሓተ"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ኣገልጋሊ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "ርእሱ ዝከብር"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "ዝጎድሎ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ንጹር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:46:57.659159800Z",
+  "model": "glm-5.3"
+}

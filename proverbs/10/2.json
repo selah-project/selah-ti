@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣትዕታት ክፉእ ኣይጠቕሙን፤ ጽድቂ ግን ካብ ሞት ትኣውጽእ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "የጠቕሙን"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "ኣትዕታት"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ከምኡውን ጽድቂ"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ትኣውጽእ"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ካብ ሞት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:45:51.523529435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣርፓኽሻድ ድማ ⟨את⟩ ሸላኽ ወለደ፣ ሸላኽ ድማ ⟨את⟩ ዔበር ወለደ።",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "ኣርፓኽሻድ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሸላኽ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ሸላኽ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ሸላኽ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዔበር"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ዔበር"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:16.479182997Z",
+  "model": "glm-5.3"
+}

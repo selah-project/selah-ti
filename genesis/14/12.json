@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ሒዞም ⟨את⟩ ሎጥን ⟨את⟩ ንብረቱን — ወዲ ናይ ሓው ኣብራም — ኮይኖም ከዱ፤ ንሱ ኣብ ስዶም ዝነበረ እዩ።",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ሒዞም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሎጥ"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ሎጥ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ንብረቱ"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "ንብረቱ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ናይ ሓው"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ኣብራም"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ከዱ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ዝነበረ"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "ኣብ ስዶም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:37:37.543791909Z",
+  "model": "glm-5.3"
+}

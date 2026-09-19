@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 18:36",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "እቲ ሕዝቢ ጸሓዙ፣ ⟨הוא⟩ ⟨את⟩ ቃል ኣይመለሶን። ምኽንያቱ ትእዛዝ ናይ እቲ ንጉስ እያ፦ «ኣይትመልሶን።»",
+  "tokens": [
+    {
+      "surface": "והחרישו",
+      "gloss": "ጸሓዙ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "መለሶን"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ቃል"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እያ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ንምባል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "ትመልሶን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:30:15.368315130Z",
+  "model": "glm-5.3"
+}

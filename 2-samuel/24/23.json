@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 24:23",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ኩሉ እዚ እቲ ንጉስ ኣራውና ንእቲ ንጉስ ሃበ። ኣራውና ድማ ንእቲ ንጉስ «ያህዌህ ኤሎሂምካ ይሕበርካ» በሎ።",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "ኣራውና"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ንእቲ ንጉስ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "ኣራውና"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "ירצך",
+      "gloss": "ይሕበርካ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:43:55.843739313Z",
+  "model": "glm-5.3"
+}

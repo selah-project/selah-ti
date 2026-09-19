@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 74,
+  "translation": "ድምጺ ጨቋናትኻ ኣይትሓዘን፤ ኣውዓቕ ኣታጊብኻ ኩሉ ግዜ ይወጽእ እዩ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይትሓዘን"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ኣይትሓዘን"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጺ"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "ጨቋናትኻ"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ኣውዓቕ"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "ኣታጊብኻ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ይወጽእ እዩ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ኩሉ ግዜ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:36.444137187Z",
+  "model": "glm-5.3"
+}

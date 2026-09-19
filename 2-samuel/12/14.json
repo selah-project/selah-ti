@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ብዘይካ፣ ስለ ኣባይቲ ያህዌህ ⟨את⟩ በዚ ቃል እዚ ነበርካ ዘንቐሳቐስዎም፣ እቲ ንስኻ ዝተወለደልካ ወዲ ድማ ክሞት እዩ ኺኸውን።",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "ብዘይካ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "ንኽንቀሳቐስ"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "ነበርካ ዘንቀሳቐስዎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣባይቲ ያህዌህ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ኣባይቲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "በዚ ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "እቲ ወዲ"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "ዝተወለደልካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ክሞት"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ኺኸውን"
+    }
+  ],
+  "timestamp": "2026-09-19T00:29:32.886658833Z",
+  "model": "glm-5.3"
+}

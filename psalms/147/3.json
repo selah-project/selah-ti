@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 147,
+  "translation": "ንተሰብሩ ልቢ ይሓውስ፣ ንኣካላቶም ኣብኣይቶም ድማ ይትእምም።",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "ይሓውስ"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "ንተሰብሩ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "ይትእምም"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "ንኣካላቶም ኣብኣይቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:12.591856786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "⟨את⟩ ኩሉ ከተማታቶም ብመንበሮምን ⟨את⟩ ኩሉ ግንቦምን ብሓዊ ሰደዱ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ከተማታቶም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "ከተማታቶም"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "ብመንበሮም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ግንቦም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "ግንቦም"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ሰደዱ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ብሓዊ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:40:07.750872028Z",
+  "model": "glm-5.3"
+}

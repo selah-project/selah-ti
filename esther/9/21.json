@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "esther 9:21",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣብ ልዕሊኦም ንኽኣምን፣ ኮይኖም ነቲ ⟨את⟩ ዓሰርተ ወይ ኣርባዕተ መዓልቲ ናይ ወርሒ ኣዳርን ⟨את⟩ ነቲ ዓሰርተ ወይ ሓሙሽተ መዓልቲ ኣብኡን ብነፍሲ ወከፍ ዓመትን ዓመትን ንኽገብሩ።",
+  "tokens": [
+    {
+      "surface": "לקים",
+      "gloss": "ንኽኣምን"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ኣብ ልዕሊኦም"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ኮይኖም"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ንኽገብሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መዓልቲ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ናይ ወርሒ"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "ኣዳር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መዓልቲ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብነፍሲ ወከፍ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመትን"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "ዓመትን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:50:55.605581600Z",
+  "model": "glm-5.3"
+}

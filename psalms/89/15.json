@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ጽድቂን ፍስሕን መሠረት ዙፋንኻ እየን፤ ሔሴድን ሓቂትን ቅድሚ ገጽኻ ይቐድሙ።",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ፍስሕን"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "መሠረት"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ዙፋንኻ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ሓቂትን"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "ይቐድሙ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:12.498626182Z",
+  "model": "glm-5.3"
+}

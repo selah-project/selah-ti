@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ድማ ⟨את⟩ ታቦት ኤሎሂም ኣብ ሓድሽ ስርዒ ካብ ቤት ኣቢናዳብ ኣስሒቖም፣ ዓዛን ወዲኡ ኣሕዮንን እቲ ስርዒ ይኣምሩ ነበሩ።",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "ኣስሒቖም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦት ኤሎሂም"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "ስርዒ"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "ሓድሽ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ቤት"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "ኣቢናዳብ"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "ዓዛን"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ወዲኡ ኣሕዮንን"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "ይኣምሩ ነበሩ"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "እቲ ስርዒ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:42:35.572423016Z",
+  "model": "glm-5.3"
+}

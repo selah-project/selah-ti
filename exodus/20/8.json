@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "መዓልቲ ሻባት ⟨את⟩ ንምቕደስ ኣዝንብ።",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ኣዝንብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መዓልቲ ሻባት"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ሻባት"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ንምቕደስ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:23:10.767806879Z",
+  "model": "glm-5.3"
+}

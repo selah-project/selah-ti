@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ብጽድቂ ጻድቓን ከተማ ትሓጎሥ፤ ኣብ ምጥፋእ ኣጣዓቕ ድማ ቓልሲ ኣሎ።",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "ብጽድቂ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ጻድቓን"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "ትሓጎሥ"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "ኣብ ምጥፋእ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኣጣዓቕ"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ቓልሲ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:04:27.973898131Z",
+  "model": "glm-5.3"
+}

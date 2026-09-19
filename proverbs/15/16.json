@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ብፍርሓት ያህዌህ ንእሽቶ ዝሓሸ እዩ ካብ ዓቢ ቍንጸትን ምስኡ ዘሎ መርበብን።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ዝሓሸ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ንእሽቶ"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "ብፍርሓት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מאוצר",
+      "gloss": "ካብ ቍንጸት"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "ומהומה",
+      "gloss": "ከምኡውን መርበብ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ምስኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:49:41.546739753Z",
+  "model": "glm-5.3"
+}

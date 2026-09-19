@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ኢደይ ምስኡ ትጸንሕ፣ ኣንባእያውን ክንዲኡ ትሓብክንዎ እያ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ኢደይ"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ትጸንሕ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስኡ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ኣንባእያውን"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "ክንዲኡ"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "ትሓብክንዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:26.188721166Z",
+  "model": "glm-5.3"
+}

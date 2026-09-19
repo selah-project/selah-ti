@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሓደ ሰብ ካብ ስድራ ሌዊ ከደ፣ ንዓመዲ ሌዊ እውን ወሲዱ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሓደ ሰብ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ስድራ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ሌዊ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓመዲ ሌዊ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ዓመዲ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ሌዊ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:11:34.607343329Z",
+  "model": "glm-5.3"
+}

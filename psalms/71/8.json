@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 71,
+  "translation": "ኣፉ ብምስጋናኻን ብክብርኻን ኩሉ መዓልቲ ይምላእ።",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "ይምላእ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ኣፉ"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ምስጋናኻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "ክብርኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:30.310102839Z",
+  "model": "glm-5.3"
+}

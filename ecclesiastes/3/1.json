@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ንኹሉ ነገር ዘመን ኣሎ፣ ከምኡውን ንኹሉ ፍትዊ ኣብ ትሕቲ ⟨እቲ⟩ ሰማያት ሰዓት ኣሎ።",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "ዘመን"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ከምኡውን ሰዓት"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ፍትዊ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:40:01.009040680Z",
+  "model": "glm-5.3"
+}

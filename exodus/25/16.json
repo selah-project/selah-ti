@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ዝሃበካ ዘሎ ነቲ ምስክርታ ⟨את⟩ ኣብ ታቦት ተወልዎ።",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ተወልዎ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ምስክርታ"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ነቲ ምስክርታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ…ዘሎ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ዝሃበካ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ንኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:31:26.891054104Z",
+  "model": "glm-5.3"
+}

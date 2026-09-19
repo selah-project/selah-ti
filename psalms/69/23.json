@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "ሰርግዮም ኣብ ቅድሚኦም ንሓሊኻ ኩን፣ ነቶም ሰላምታት ድማ ንውጣዕቢ ኩን።",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ይኹን"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "ሰርግዮም"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ኣብ ቅድሚኦም"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "ንሓሊኻ"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "ንሰላምታቶም"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "ንውጣዕቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:25.381234238Z",
+  "model": "glm-5.3"
+}

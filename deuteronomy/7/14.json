@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ካብ ኹሉ ህዝብታት ንላዕሊ ተባርኽቲ ትከውን፤ ኣመንታ ወዲን ኣመንታ ሰበይቲን ኣብኻ ኣይከውንን፣ እኳውን ኣብ ከብትኻ ኣይከውንን።",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ተባርኽቲ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ትከውን"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኹሉ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ህዝብታት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይከውን…ን"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣብኻ"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "ኣመንታ ወዲ"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "ኣመንታ ሰበይቲ…ን"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "ኣብ ከብትካ…ን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:52:48.598561571Z",
+  "model": "glm-5.3"
+}

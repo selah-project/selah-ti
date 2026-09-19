@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "«ስምዑ ⟨את⟩ ቓላት እዚ ኪዳን፣ ነቶም ሰባት ይሁዳን ነቶም ኣብ የሩሻላይም ዝቐመጡን እናተዛረቦም፤",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ስምዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቓላት"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቓላት"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "እናተዛረብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ዝቐመጡ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:38:19.136919959Z",
+  "model": "glm-5.3"
+}

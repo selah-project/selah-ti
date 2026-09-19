@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ሓደ ሰብ እኽሊ ኮይኑ ኣብ ዝወድእ ግዜ ⟨את⟩ ብርሂ ኣብ ማይ ወደቐ፤ ንሱ ድማ በቕዐ፦ «ኣይ ጎይታይ፣ ንሱ ዝተሓተ እዩ!» በለ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኣብ ዝግበር"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ሓደ ሰብ"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "ኣብ ዝወድእ"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ብርሂ"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ብርሂ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ወደቐ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "በቕዐ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጎይታይ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ዝተሓተ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:16:08.379830367Z",
+  "model": "glm-5.3"
+}

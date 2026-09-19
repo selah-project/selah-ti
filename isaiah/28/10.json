@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ምኽንያቱ ትእዛዝ ኣብ ልዕሊ ትእዛዝ፣ ትእዛዝ ኣብ ልዕሊ ትእዛዝ፣ መስመር ኣብ ልዕሊ መስመር፣ መስመር ኣብ ልዕሊ መስመር፣ ንእሽቶ ኣብቲ፣ ንእሽቶ ኣብቲ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "צו",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "ኣብ ልዕሊ ትእዛዝ"
+    },
+    {
+      "surface": "צו",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "ኣብ ልዕሊ ትእዛዝ"
+    },
+    {
+      "surface": "קו",
+      "gloss": "መስመር"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "ኣብ ልዕሊ መስመር"
+    },
+    {
+      "surface": "קו",
+      "gloss": "መስመር"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "ኣብ ልዕሊ መስመር"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "ንእሽቶ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብቲ"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "ንእሽቶ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:57:42.320907660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ሞሸን ⟨את⟩ ኣሃሮንን ድማ ናብ ፓርዖ ደጊሞም ኣብርዮም፤ ነንርዮም ድማ በሎም፦ «ከይዱ፣ ⟨את⟩ ያህዌህ ኤሎሂምኹም ኣኽብሩ፤ መንን መንን እዮም ዝከዱ፧»",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "ደጊሞም ኣብርዮም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሃሮን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎም"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ነንርዮም"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ከይዱ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ኣኽብሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኹም"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "መን…ን"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ዝከዱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:18:53.220119346Z",
+  "model": "glm-5.3"
+}

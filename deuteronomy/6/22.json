@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 6:22",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ያህዌህ ድማ ብዓይነና፣ ኣብ ሚጽራይም፣ ኣብ ፓርዖን ኣብ ኩሉ ቤቱን ዓባይቲን ክፉእቲን ምልክታትን ተኣማንንታትን ሃቐ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሃቐ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אותת",
+      "gloss": "ምልክታት"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "ተኣማንንታትን"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ዓባይቲ"
+    },
+    {
+      "surface": "ורעים",
+      "gloss": "ክፉእቲን"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ኣብ ሚጽራይም"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "ኣብ ፓርዖ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ኣብ ኩሉን"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "לעינינו",
+      "gloss": "ብዓይነና"
+    }
+  ],
+  "timestamp": "2026-09-18T22:47:58.327088522Z",
+  "model": "glm-5.3"
+}

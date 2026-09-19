@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ምስቓል፣ ምብሳር፣ ቅትለትን ሰሪቕን ኣመንዲግን ተበጊሱ ኣሎ፣ ሓደ ደም ምስ ካልእ ደም ተታሒዙ ኣሎ።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ምስቓል"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "ምብሳር"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "ቅትለት"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "ሰሪቕ"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "ኣመንዲግ"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "ተበጊሶ ኣሎ"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "ምስ ደም"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "ተታሒዙ ኣሎ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:07:06.276781499Z",
+  "model": "glm-5.3"
+}

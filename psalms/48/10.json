@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "ኣብ ማእከል ቤተ-መቕደስኻ፣ ኤሎሂም፣ ሔሴድኻ ኣመስልና።",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "ኣመስልና"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሔሴድኻ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ኣብ ማእከል"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "ቤተ-መቕደስኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:50.860722550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ኣይብሉን ኣብ ልቦም «ሓዋ፣ ነፍስና ⟨ዝደለናያ እያ!⟩»፣ ኣይብሉን «ወሲንናዮ ኢና»።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ብሉ"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ኣብ ልቦም"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ሓዋ"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ነፍስና"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ብሉ"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "ወሲንናዮ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:51.670755029Z",
+  "model": "glm-5.3"
+}

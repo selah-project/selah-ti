@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "ከም ጽልላ ኣብ ምውርዳ ከደኹ፣ ከም ኣንጻርቲ እናተባዕቐ እየ።",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "ከም ጽልላ"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "ኣብ ምውርዳ"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "ከደኹ"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "ተባዕቐኹ"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "ከም ኣንጻርቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:47.305209840Z",
+  "model": "glm-5.3"
+}

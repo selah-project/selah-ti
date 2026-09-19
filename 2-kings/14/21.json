@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 14:21",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ኩሉ ሕዝቢ ይሁዳ ⟨את⟩ ዕዛርያሕ ተዓተቡ፣ ንሱ ወዲ ሽድሽ ዓሰርተ ዓመታት ኮይኑ፣ ኣብ ፋንታ ኣቦኡ ኣማጽያሁ ንኽንግስን ኣንጸብርዎ።",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ተዓተቡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዕዛርያሕ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ዕዛርያሕ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ ኮይኑ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ሽድሽ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ኣንጸብርዎ ንኽንግስን"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንዕዛርያሕ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ፋንታ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "ኣማጽያሁ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:27:21.785345689Z",
+  "model": "glm-5.3"
+}

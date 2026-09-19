@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ንሳቶም ትብሎም፦ ከምዚ በለ ያህዌህ፦ እቶም ዝወድቑ ኣይተንስሑን፣ ዝምለስ ድማ ኣይምለስን?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ትብሎም"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "ዝወድቑ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "ተንስሑን"
+    },
+    {
+      "surface": "אם",
+      "gloss": "?"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ዝምለስ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ምለስን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:38:17.051425371Z",
+  "model": "glm-5.3"
+}

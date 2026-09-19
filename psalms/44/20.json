@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ምኽንያቱ ኣነ ኣብ ቦታ ዝዓቢ ኣረይቲ ሰቒጥና፣ ብጽልማት ሞት ድማ ሓሊፍካና።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "ሰቒጥናኻ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ኣብ ቦታ"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "ዝዓቢ ኣረይቲ"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ሓሊፍካና"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ኣብ ልዕሊና"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "ብጽልማት ሞት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:11.318850724Z",
+  "model": "glm-5.3"
+}

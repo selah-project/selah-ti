@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 21:11",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ብቅጣት መስቀቂ እቲ ቐሊል ይጥበብ፤ ንእቲ ጥበበኛ ኣእምሮ ምስ ዝውሃብ እቲ ድማ ውልቀት ይቕበል እዩ።",
+  "tokens": [
+    {
+      "surface": "בענש",
+      "gloss": "ብቅጣት"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "መስቀቂ"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "ይጥበብ"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "ቐሊል"
+    },
+    {
+      "surface": "ובהשכיל",
+      "gloss": "ኣብ ምሃብ ኣእምሮ"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ንእቲ ጥበበኛ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ይቕበል"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ውልቀት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:52:01.184931402Z",
+  "model": "glm-5.3"
+}

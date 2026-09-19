@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ሰማያት ናይ ንስኻ እዮም፣ ምድር እውን ናይ ንስኻ እያ፤ ዓለምን ምልኡን ንስኻ መስርትካዮም ኢኻ።",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ናይ ንስኻ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ናይ ንስኻ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ዓለም"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ምልኡን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "መስርትካዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:42.547761162Z",
+  "model": "glm-5.3"
+}

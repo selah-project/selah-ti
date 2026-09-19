@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 116,
+  "translation": "ምኽንያቱ ነፍሰይ ካብ ሞት፣ ⟨את⟩ እዙይ ካብ ኣይኒ፣ ⟨את⟩ እግረይ ካብ ምውዕቋዕ ኣውጽእካለይ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "ኣውጽእካለይ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ካብ ሞት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እዙይ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "እዙይ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "ኣይኒ ካብ ክብሲት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እግረይ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "እግረይ"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "ካብ ምውዕቋዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:35.950924309Z",
+  "model": "glm-5.3"
+}

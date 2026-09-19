@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 80,
+  "translation": "ኣብ ቅድሚ ኤፍራይምን ብንያምን ምናሴን፣ ⟨את⟩ ብርቃንካ ኣብስእል፣ ንማለውያና ኣብሃድም።",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ብንያምን"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ምናሴን"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "ኣብስእል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብርቃንካ"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "ብርቃንካ"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "ኣብሃድም"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "ንማለውያና"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ናትና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:41.665707924Z",
+  "model": "glm-5.3"
+}

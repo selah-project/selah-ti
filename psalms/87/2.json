@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 87,
+  "translation": "ያህዌህ ኣፍታት ጽዮን ካብ ኩሉ ማሕደራት ያዕቆቭ ይፍትወ።",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ይፍቪወ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "ኣፍታት"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "ማሕደራት"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:16.086254981Z",
+  "model": "glm-5.3"
+}

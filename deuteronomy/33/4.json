@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ቶራ ኣዘዘልና ሞሸ፤ ወራሲ ናይ ጉባኤ ያዕቆብ።",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ኣዘዘ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ልና"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "ወራሲ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:12:19.596240571Z",
+  "model": "glm-5.3"
+}

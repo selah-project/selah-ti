@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ልበይ ኣብ ሕግታትካ ምሉእ ንኹን፣ ብኸምዚ ኸኣ ኣይንሕፈርን እየ።",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ንኹን"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ምሉእ"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "ኣብ ሕግታትካ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ብኸምዚ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "እሕፈር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:51.203355943Z",
+  "model": "glm-5.3"
+}

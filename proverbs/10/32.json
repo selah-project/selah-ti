@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ከሳት ጻድቕ ዝተዓወቐ ይፈልጡ፣ ኣፍ ሓራራት ድማ ምጻኔ እዩ።",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ከሳት"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቕ"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "ይፈልጡ"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ዝተዓወቐ"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ኣፍ ድማ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ሓራራት"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "ምጻኔ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:46:21.995712478Z",
+  "model": "glm-5.3"
+}

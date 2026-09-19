@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 129,
+  "translation": "ከም ሳሕሲ ዓራት ክኾኑ፣ ቅድሚ ምስዓባ እናደረቀት።",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ክኾኑ"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ከም ሳሕሲ"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "ዓራት"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "ቅድሚ ምስዓባ"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "ምስዓባ"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "እናደረቀት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:42.546438175Z",
+  "model": "glm-5.3"
+}

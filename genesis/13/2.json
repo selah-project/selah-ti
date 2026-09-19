@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኣቭራሃም ድማ ብብርቂ፣ ብብርሃቅን ብወርቂን ብጣዕሚ ከብደ ⟨ነይሩ⟩።",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "ኣቭራሃም ድማ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ከብደ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "ብብርቂ"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ብብርሃቅ"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "ብወርቂን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:38:30.322128043Z",
+  "model": "glm-5.3"
+}

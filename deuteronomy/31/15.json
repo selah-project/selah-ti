@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ያህዌህ ድማ ኣብ ድኽር ኣኼባ ብዓምዲ ደመና ተራእየ፤ ዓምዲ እቲ ደመና ድማ ኣብላይ ኣፍደገ እቲ ድኽር ተቐምጡ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ተራእየ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ኣብ ድኽር"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "ብዓምዲ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ደመና"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ተቐምጡ"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "ዓምዲ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "እቲ ደመና"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብላይ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣፍደገ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "እቲ ድኽር"
+    }
+  ],
+  "timestamp": "2026-09-18T23:14:24.253092159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 9:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ምኽንያቱ ሕጻን ተወልዱልና ኮይኑ፣ ወዲ ተውሃቡልና፣ እቲ መንግስቲ ኣብ ከኽሩ ኮይኑ ድማ፣ ስሙ ፔለ ዮዓጽ፣ ኤል ጊቦር፣ ኣቢ ዓድ፣ ሽር ሽሎም ተጸወዐ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ሕጻን"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ተወልዱ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ልና"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ተውሃበ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ልና"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ኮይና"
+    },
+    {
+      "surface": "המשרה",
+      "gloss": "እቲ መንግስቲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ከኽሩ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ተጸወዐ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "ፔለ"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "ዮዓጽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ጊቦር"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቢ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ዓድ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ሽር"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሽሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:50:33.922369103Z",
+  "model": "glm-5.3"
+}

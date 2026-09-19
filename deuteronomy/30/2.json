@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 30:2",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ናብ ያህዌህ ኤሎሂምካ ተመለስካ፣ ንቓሉ ድማ ተዛኸብካ ብኹሉ እቲ ኣነ ዝኣዘዝኩልካ ሎሚ — ንስኻን ውላድካን ብኹሉ ልብካን ብኹሉ ነፍስካን።",
+  "tokens": [
+    {
+      "surface": "ושבת",
+      "gloss": "ተመለስካ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "ተዛኸብካ ድማ"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ንቓሉ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ብኹሉ እቲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ዝኣዘዝኩልካ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ውላድካን"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብኹሉ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ልብካ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ንብኹሉ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ነፍስካ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:10:39.466356252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 56,
+  "translation": "ኣብ እቲ መዓልቲ እዘይጸውዕ ጸላእተይ ንድሕሪቶም ክምለሱ እዮም፤ እዚ እፈልጦ እየ፣ ኤሎሂም ንዓይ ስለ ዝኾነ።",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ክምለሱ እዮም"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ጸላእተይ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ንድሕሪቶም"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "እዘይጸውዕ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "እፈልጦ እየ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ ዝኾነ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:02:10.588575357Z",
+  "model": "glm-5.3"
+}

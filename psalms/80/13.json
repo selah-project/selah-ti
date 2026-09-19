@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 80,
+  "translation": "እንታይ ምኽንያት ግድጊባታ ሰበርካ? ኩሉ ዝሻግጥ መስመር ዝንቕጡዋ እዩ።",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "እንታይ ምኽንያት"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "ሰበርካ"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "ግድጊባታ"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "ዝንቕጡዋ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ዝሻግጥ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መስመር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:45.698186912Z",
+  "model": "glm-5.3"
+}

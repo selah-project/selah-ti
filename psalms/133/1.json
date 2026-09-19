@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 133,
+  "translation": "መዝሙር ናይ ትምንት፣ ናይ ዳዊድ። እንሆ፣ ክንደይ ጽቡቕን ክንደይ ውዱዕን ኣሕዋት ምቕማጥ ኣብ ሓደ ⟨እዩ⟩!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ናይ ትምንት"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ክንደይ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡቕ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ከምኡውን ክንደይ"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ውዱዕ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ምቕማጥ"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ኣሕዋት"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እኳ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ኣብ ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:26.379061309Z",
+  "model": "glm-5.3"
+}

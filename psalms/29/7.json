@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ቓል ያህዌህ ሳህባት እሳት ይቐርጽ።",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "ይቐርጽ"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "ሳህባት"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:58.856996421Z",
+  "model": "glm-5.3"
+}

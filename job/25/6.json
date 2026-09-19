@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ንሕልክትን ሰብ ትልቕ እዩ፣ ወዲ ሰብ ድማ ትልቕ።",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ዝኾነ እውን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ንሕልክትን"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሰብ ⟨ሞታዊ⟩"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ትልቕ"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ወዲ ድማ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "ትልቕ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:15:31.203430709Z",
+  "model": "glm-5.3"
+}

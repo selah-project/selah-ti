@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 2:14",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ከምኡውን ስም ናይ እታ ሳልሳይቲ ወንበርቲ ሕዳቅል ⟨እያ⟩፤ እታ ናብ ቅድሚ ኣሽር ዝከድ እታ እያ፤ ነታ ራብዓይቲ ወንበርቲ ድማ ፍራት ⟨እያ⟩።",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ከምኡውን ስም"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ወንበርቲ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ሳልሳይቲ"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "ሕዳቅል"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ዝከድ"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "ናብ ቅድሚ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣሽር"
+    },
+    {
+      "surface": "והנהר",
+      "gloss": "ነታ ወንበርቲ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ራብዓይቲ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ፍራት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:30:45.809509455Z",
+  "model": "glm-5.3"
+}

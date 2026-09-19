@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ዝኾነይካ ነቶም ናባይ ይምለሱ፣ መስክርታትካ ድማ ይፈልጡ።",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ይምለሱ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ናባይ"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "ዝኾነይካ"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ይፈልጡ"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "መስክርታትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:51.203120210Z",
+  "model": "glm-5.3"
+}

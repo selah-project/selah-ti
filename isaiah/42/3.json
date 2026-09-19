@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ቐልጢም ዝተረጋገጸ ኣይሰብሮን፣ ሓሊኡ ዘሎ ስንጥርቲ ኣይጥፍኦን፤ ብሓቂ ፍትሕቲ የውጽእ።",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "ቐልጢም"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "ዝተረጋገጸ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "ይሰብሮ"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "ስንጥርቲን"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "ሓሊኡ ዘሎ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "ይጥፍኦ"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "ብሓቂ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "የውጽእ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍትሕቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:11:36.516305181Z",
+  "model": "glm-5.3"
+}

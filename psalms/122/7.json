@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 122,
+  "translation": "ሰላም ኣብ ምሕደርኻ ይኹን፣ ዕረፋ ኣብ ቤትታትኻ።",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ይኹን"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "ኣብ ምሕደርኻ"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "ዕረፋ"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "ኣብ ቤትታትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:49.617799496Z",
+  "model": "glm-5.3"
+}

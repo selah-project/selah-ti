@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 2:25",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "መልክዕ ሰራዊት ዳን ኣብ ሰሜን ብሰራዊቶም እዩ፤ ንውላድ ዳን ድማ ሹም ኣኽያዓዝር ወዲ ዓሚሻዳይ እዩ።",
+  "tokens": [
+    {
+      "surface": "דגל",
+      "gloss": "መልክዕ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ዳን"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ኣብ ሰሜን"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "ብሰራዊቶም"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ሹም ድማ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ዳን"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "ኣኽያዓዝር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "ዓሚሻዳይ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:12:35.445397511Z",
+  "model": "glm-5.3"
+}

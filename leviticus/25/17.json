@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ሰብ ⟨את⟩ ተሓዳሩ ኣይተንነይኩምን፣ ካብ ኤሎሂምካ ድማ ትፍርህ፤ እሞ ያህዌህ ኤሎሂምኩም እየ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "ተንነይ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተሓዳሩ"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "ተሓዳሩ"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ትፍርህ"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "ካብ ኤሎሂምካ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እየ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:07:24.684454591Z",
+  "model": "glm-5.3"
+}

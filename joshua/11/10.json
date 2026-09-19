@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "የሆሹዋዕ ድማ ኣብ እቲ ዝበለ እዋን ተመሊሱ ⟨את⟩ ሓጾር ቐበለ፣ ⟨את⟩ ንጉሳ ድማ ብሰይፊ ሰበረ፤ ምኽንያቱ ሓጾር ቅድሚኡ እያ ነይራ ርእሲ ኩሉ እዚኦም መንግስታት።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተመሊሱ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ኣብ እዋን"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ቐበለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓጾር"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ሓጾር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ንጉሳ"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ንጉሳ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ሰበረ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ብሰይፊ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ሓጾር"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ቅድሚኡ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እያ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "መንግስታት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:25:38.155020441Z",
+  "model": "glm-5.3"
+}

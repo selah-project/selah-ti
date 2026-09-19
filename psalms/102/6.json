@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 102,
+  "translation": "ብድምጽ ትምህላለይ ብእጾም ምስ ስጋይ ተጣብቐት።",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ብድምጽ"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "ናይ ትምህላለይ"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "ተጣብቐት"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ብእጾም"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "ምስ ስጋይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:10.923365260Z",
+  "model": "glm-5.3"
+}

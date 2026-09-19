@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 15:6",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ውድቐት ነይራ ኣብ መንጎ ረሕብዓምን ኣብ መንጎ ይሮበዓምን ኩሉ መዓልታት ህይወቱ።",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "ከምኡውን ውድቐት"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነይራ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ረሕብዓም"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ኣብ መንጎ …ን"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ይሮቑዓም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ህይወቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:04:27.140032811Z",
+  "model": "glm-5.3"
+}

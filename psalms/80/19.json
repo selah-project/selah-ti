@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 80:19",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 80,
+  "translation": "ድማ ካባኻ ኣይንምለስን፤ ሕይወት ሃበና፣ ብስምኻ ነዳለ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "ንምለስ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ካባኻ"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "ሕይወት ሃበና"
+    },
+    {
+      "surface": "ובשמך",
+      "gloss": "ብስምኻን"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "ነዳለ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:09.596794716Z",
+  "model": "glm-5.3"
+}

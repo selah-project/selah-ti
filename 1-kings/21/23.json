@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ያህዌህ ድማ ብዛዕባ ኣይዛበል እውን ተዛረበ ብዝምል፦ ኣቦንቢ ⟨את⟩ ኣይዛበል ኣብ ግንዲ እዝራኤል ክበልዑ እዮም።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ድማ እውን"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "ብዛዕባ ኣይዛበል"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብዝምል"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "ኣቦንቢ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ክበልዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣይዛበል"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "ኣይዛበል"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "ኣብ ግንዲ"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "እዝራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T01:07:13.154780358Z",
+  "model": "glm-5.3"
+}

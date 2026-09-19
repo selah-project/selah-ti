@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እቶም ቅኑዕ ዝጸልምዎን ክፉእ ዝፈትዎን፣ ቆዳ ካብ ላዕሊኦም ዚቆርፉን ስጉም ካብ ኣጽራሕቶምን።",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "ዝጸልምዎ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ቅኑዕ"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "ዝፈትዎን"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "ዚቆርፉ"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "ቆዳ"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "ካብ ላዕሊኦም"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "ስጉምን"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ካብ ላዕሊ"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "ኣጽራሕቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:22:55.218282879Z",
+  "model": "glm-5.3"
+}

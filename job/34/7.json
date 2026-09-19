@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 34:7",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "መን ሰብ ከም ኣይዮብ እዩ — ትሕታት ከም ማይ ይሰትየ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "כאיוב",
+      "gloss": "ከም ኣይዮብ"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ይሰትየ"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "ትሕታት"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ከም ማይ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:06:22.045310975Z",
+  "model": "glm-5.3"
+}

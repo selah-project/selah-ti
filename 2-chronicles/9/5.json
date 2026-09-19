@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 9:5",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "«እቲ ቃል እቲ ኣብ ሃገረይ ዝሰምዐኦ ብዛዕባ ቃላትካን ብዛዕባ ጥበብካን ሓቂ ⟨እዩ⟩» ንእቲ ንጉስ በለቶ።",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "በለቶ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ሓቂ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ቃል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ዝሰምዐኦ"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "ኣብ ሃገረይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብዛዕባ"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ቃላትካ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ንብዛዕባ"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ጥበብካ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:02:27.608693260Z",
+  "model": "glm-5.3"
+}

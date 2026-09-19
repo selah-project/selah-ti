@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ያህዌህ ድማ ⟨את⟩ ኢዱ ሰዊሩ ኣብ ኣፈይ ተታተኮ፤ ያህዌህ ድማ ነኣኹ በሎ፦ «እንሆ ቃላተይ ኣብ ኣፍካ ጸሊእ እየ»።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰዊሩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢዱ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "ተታተኮ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ኣፈይ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ ድማ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ነኣኹ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ጸሊእ እየ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላተይ"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "ኣብ ኣፍካ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:26:29.050796013Z",
+  "model": "glm-5.3"
+}

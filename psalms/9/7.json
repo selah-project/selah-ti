@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣሽቃዮ ተወዲኡ፤ ሓዊሳት ናብ ዘለኣለም ተወዲአን፤ ከተማታትን ወጺእካ፤ ትዝቦም ምስ ንሳቶም ጠፊኡ እዩ።",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "ኣሽቃዮ"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "ተወዲኡ"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ሓዊሳት"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "ከተማታትን"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "ወጺእካ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ጠፊኡ"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ትዝቦም"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:14.230741311Z",
+  "model": "glm-5.3"
+}

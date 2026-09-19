@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ዝምሪ ንቤት በእሳዕ ንኩሉ ቤት በእሳዕ ኣጥፍአ፣ ብቃል ያህዌህ ከም ዝዛረቦ ብኢድ ይሁኣ ነብዪ ንበእሳዕ ዝበሎ።",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "ኣጥፍአ"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "ዝምሪ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ቤት በእሳዕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "በእሳዕ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ብቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝዛረቦ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "በእሳዕ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ይሁኣ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "እቲ ነብዪ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:03:15.023827691Z",
+  "model": "glm-5.3"
+}

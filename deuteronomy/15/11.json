@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ምኽንያቱ ዝጾር ካብ ማእከል ምድሪ ኣይተረፈን፤ ስለዚ ኣነ ኣዘዝኩኻ ኢልካ፦ ንሓውካ፣ ንድኻዊኻን ንዝጾርኻን ኣብ ምድርካ ⟨את⟩ ኢድኻ ክፍት ተኽፈት።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "ኣይተረፈን"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ዝጾር"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ካብ ማእከል"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ኣዘዝኩኻ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢልካ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ክፍት"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ተኽፈት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢድኻ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድኻ"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ንሓውካ"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "ንድኻዊኻ"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "ንዝጾርኻን"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ኣብ ምድርካ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:34:27.519284958Z",
+  "model": "glm-5.3"
+}

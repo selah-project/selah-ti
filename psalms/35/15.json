@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ኣብ ምዝዋርያይ ሓጐሱ፣ ተኣኻቡ ድማ፤ ተኣኻቡ ኣብ ልዕለይ መታሕቲ ኣይፈልጠን፤ በቐዑ ከምኡውን ኣይኣቐመኑን።",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "ኣብ ምዝዋርያይ"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "ሓጐሱ"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "ተኣኻቡ ድማ"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "ተኣኻቡ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕለይ"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "መታሕቲ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ድማ ኣይ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ፈለጥኩ"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "በቐዑ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ድማ ኣይ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ኣቐመኑ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:03.809000104Z",
+  "model": "glm-5.3"
+}

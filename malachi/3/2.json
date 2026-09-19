@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 3:2",
+  "book": "malachi",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣብ ⟨את⟩ መዓልቲ ምጻኡ መን ክጻረብ ይኽእል፧ ብዝርኣዩ ድማ መን ኪቐመጥ ይኽእል፧ ምኽንያቱ ንሱ ከም ሓዊ ማጽራኢ ከምኡውን ከም ሳሙና ሰፊራት እዩ።",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "מכלכל",
+      "gloss": "ክጻረብ ይኽእል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መዓልቲ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "בואו",
+      "gloss": "ምጻኡ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "ኪቐመጥ"
+    },
+    {
+      "surface": "בהראותו",
+      "gloss": "ብዝርኣዩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "ከም ሓዊ"
+    },
+    {
+      "surface": "מצרף",
+      "gloss": "ማጽራኢ"
+    },
+    {
+      "surface": "וכברית",
+      "gloss": "ከም ሳሙና"
+    },
+    {
+      "surface": "מכבסים",
+      "gloss": "ሰፊራት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:43:47.252430027Z",
+  "model": "glm-5.3"
+}

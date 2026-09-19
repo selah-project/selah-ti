@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 11:27",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "እዚ ድማ እቲ ነገር እቲ ነቲ ንጉስ ሽሎሞ ኢዱ ኣበየሉ እዩ፦ ሽሎሞ ⟨את⟩ እቲ ማሎ ሃንጸ፣ ⟨את⟩ ኩዳን ከተማ ዳዊድ ኣቦኡ ዓጸወ።",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "እዚ ድማ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ነገር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ኣበየ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "ነቲ ንጉስ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሃንጸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ማሎ"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "እቲ ማሎ"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ዓጸወ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩዳን"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ኩዳን"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:00:22.977023882Z",
+  "model": "glm-5.3"
+}

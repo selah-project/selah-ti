@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 51:13",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 51,
+  "translation": "«ኣብ ብዙሓት ማይ ዝተቐመጥቲ፣ ኣብ ሓበሬታታት ዝበዝሐት፣ ዕድሚኻ በጺሑ እዩ፣ እቲ መስፈሪ ናይ ብዝበዝሐካዮ ኣሎ።»",
+  "tokens": [
+    {
+      "surface": "שכנתי",
+      "gloss": "ዝተቐመጥቲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "ዝበዝሐት"
+    },
+    {
+      "surface": "אוצרת",
+      "gloss": "ኣብ ሓበሬታታት"
+    },
+    {
+      "surface": "בא",
+      "gloss": "በጺሑ እዩ"
+    },
+    {
+      "surface": "קצך",
+      "gloss": "ዕድሚኻ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "መስፈሪ"
+    },
+    {
+      "surface": "בצעך",
+      "gloss": "ናይ ብዝበዝሐካዮ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:17:45.139699304Z",
+  "model": "glm-5.3"
+}

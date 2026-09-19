@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 124,
+  "translation": "ኣብ እቲ ዝኾነ እዋን ቲ ማይ እቶም ኣሕዛርቲ ኣብ ልዕሊ ነፍሲና ሒዙ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "ኣብ እቲ ዝኾነ እዋን"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ሒዙ ነይሩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ነፍሲና"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ቲ ማይ"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "እቶም ኣሕዛርቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:05.283668337Z",
+  "model": "glm-5.3"
+}

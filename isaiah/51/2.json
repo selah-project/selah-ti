@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 51:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 51,
+  "translation": "ኣርእዩ ናብ ኣቭራሃም ኣቦኹም፣ ንናብ ሻራ እትወልደኩምሉ፤ ምኽንያቱ ሓደ ጸወዕክዎ፣ በርከትክዎ፣ ኣበዝኽዎ።",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "ኣርእዩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "ኣቦኹም"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ንናብ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ሻራ"
+    },
+    {
+      "surface": "תחוללכם",
+      "gloss": "እትወልደኩምሉ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "ጸወዕክዎ"
+    },
+    {
+      "surface": "ואברכהו",
+      "gloss": "በርከትክዎ"
+    },
+    {
+      "surface": "וארבהו",
+      "gloss": "ኣበዝኽዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:51:24.011725872Z",
+  "model": "glm-5.3"
+}

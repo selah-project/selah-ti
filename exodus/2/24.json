@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኤሎሂም ⟨את⟩ ስዕርቲ ኣውጻያኦም ሰምዐ፣ ኤሎሂም ድማ ⟨את⟩ ኪዳኑ ምስ ⟨את⟩ ኣቭራሃም ምስ ⟨את⟩ ይጽሓቅ ምስ ⟨ואת⟩ ያዕቆቭ ተዛረኦ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስዕርቲ ኣውጻያኦም"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "ስዕርቲ ኣውጻያኦም"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "ተዛረኦ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኪዳኑ"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ኪዳኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቭራሃም"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይጽሓቅ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይጽሓቅ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ያዕቆቭ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:11:47.495122231Z",
+  "model": "glm-5.3"
+}

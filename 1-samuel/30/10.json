@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ዳዊድ ድማ ተኸታተለ፣ ንሱን ምስ ኣርባዕተ ሚእቲ ሰባት፤ ክልተ ሚእቲ ሰባት ድማ እቶም ካብ ምስጋር ⟨את⟩ ሩባ በሾር ዝደክሙ ነይሮም ተቐመጡ።",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "ተኸታተለ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ምስ ኣርባዕተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚእቲ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ተቐመጡ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ክልተ ሚእቲ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝ"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "ደከሙ"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ካብ ምስጋር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሩባ በሾር"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ሩባ"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "በሾር"
+    }
+  ],
+  "timestamp": "2026-09-19T00:17:05.132750451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 85,
+  "translation": "ኤሎሂም ናይ ትሕኤትና ንሕና ንቐይርና፣ ቍጥዓኻ ምስና ድማ ኣብዚዑ።",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "ንቐይርና"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "ናይ ትሕኤትና"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "ኣብዚዑ"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "ቍጥዓኻ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ምስና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:25.231194863Z",
+  "model": "glm-5.3"
+}

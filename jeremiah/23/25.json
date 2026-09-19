@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ነብያት ብስምይ ሓሶት ነብይ ኢሎም «ደለኹ፣ ደለኹ» እናበሉ ዝነግሩ እዮም፤ ⟨את⟩ ዝበልዎ እዚ ነብያት እዚ ሰምዐ።",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝበልዎ እዚ ነብያት እዚ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "ነብያት"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "ነብይ ኢሎም"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ብስምይ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበሉ"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ደለኹ"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ደለኹ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:50:20.128971152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ኣብ ጸቕጦም ንኣቶም ረኣየ፣ ⟨את⟩ ቅርሺኦም ከኣ ምስ ሰምዐ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ኣብ ጸቕጦም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንኣቶም"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "ምስ ሰምዐ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅርሺኦም"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "ቅርሺኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:02.731084154Z",
+  "model": "glm-5.3"
+}

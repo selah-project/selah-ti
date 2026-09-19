@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ድማ ⟨את⟩ ሕዊይን ⟨את⟩ ዓርቃይን ⟨את⟩ ሲናይን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዊይን"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ሕዊይን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓርቃይን"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "ዓርቃይን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሲናይን"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "ሲናይን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:29:00.281521288Z",
+  "model": "glm-5.3"
+}

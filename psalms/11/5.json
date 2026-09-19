@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ያህዌህ ትኽክለኛ ይፈትኖ እዩ፤ ነፍሱ ድማ ነቲ ክፉእን ዘይብልኩ ዚፍቅርን ተቐቲላ እያ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ትኽክለኛ"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "ይፈትኖ"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "ዚፍቅር"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ዘይብልኩ"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ተቐቲላ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:20.628670660Z",
+  "model": "glm-5.3"
+}

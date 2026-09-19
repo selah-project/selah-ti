@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ነፍሲይ ምስ ኣበይታት ኣይትሓዘን፣ ህይወተይ ድማ ምስ ደም ዝካይዱ ሰባት ኣይትሓዘን።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "ትሓዝ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ኣበይታት"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲይ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ከምኡውን ምስ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ህይወተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:37.934552468Z",
+  "model": "glm-5.3"
+}

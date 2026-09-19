@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "«ምርያም ነቢየት፣ ሓብቲ ኣሃሮን፣ ⟨את⟩ ከበሮ ኣብ ኢዳ ብዝወስደት፤ ኩለን ኣንስቲ ድማ ኣብ ድሕሪኣ ብከበራትን ብስኒታትን ወጻያ።»",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "ብዝወስደት"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "ምርያም"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "ነቢየት"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ሓብቲ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከበሮ"
+    },
+    {
+      "surface": "התף",
+      "gloss": "ከበሮ"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "ኣብ ኢዳ"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "ወጻያ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩለን"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ኣንስቲ"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "ኣብ ድሕሪኣ"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "ብከበራት"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "ብስኒታትን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:21:48.806066425Z",
+  "model": "glm-5.3"
+}

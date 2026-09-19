@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ሕኑን ድማ ⟨את⟩ ኣገልጋሊ ዳዊድ ወሲዱ ጎፈሮም፣ ⟨את⟩ ክዳኖም ኣብ ግማዊ ክሳብ እቲ ማእዘን ቆሪኹ ሰደዮም።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "ሕኑን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣገልጋሊ ዳዊድ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልጋሊ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "ጎፈሮም"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ቆሪኹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክዳኖም"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "ክዳኖም"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "ኣብ ግማዊ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "ማእዘን"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ሰደዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:45:11.381837389Z",
+  "model": "glm-5.3"
+}

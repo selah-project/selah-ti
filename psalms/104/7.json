@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "ካብ ትጉህዝታኻ ኮነይዮም ሰደዱ፤ ካብ ድምጺ ነጐዳኻ ኮነይዮም ተቐጽዩ።",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "ትጉህዝታኻ"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "ኮነይዮም ሰደዉ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጺ"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "ነጐዳኻ"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "ኮነይዮም ተቐጽዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:15.015627265Z",
+  "model": "glm-5.3"
+}

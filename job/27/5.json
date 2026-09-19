@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ኣይኹንን ንኣነ፣ ነቶም ⟨אתכם⟩ እነቲ እትጽድቐኩም ክሳብ እትገዓም፤ ንጽድቐይ ካባይ ኣይወጽእን።",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "ኣይኹንን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እነቲ"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "እትጽድቐኩም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ነቶም ንኹም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "እትገዓም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ወጽእ"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "ንጽድቐይ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ካባይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:15:54.856584984Z",
+  "model": "glm-5.3"
+}

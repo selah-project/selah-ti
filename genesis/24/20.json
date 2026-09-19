@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 24:20",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ብቕልጡፍ ኮይና ነቲ ንቢራ ኣብቲ ማዕጾ ማይ ኣብኣቶ፣ ደጊማ ናብቲ ኩሬ ማይ ንምስባብ ኮይና ሰገሰት፣ ንኩሉ ኣኽሊሉ እና ድማ ሰበበት።",
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "ብቕልጡፍ ኮይና"
+    },
+    {
+      "surface": "ותער",
+      "gloss": "ኣብኣቶ"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "ነቲ ንቢራ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "השקת",
+      "gloss": "ነቲ ማዕጾ ማይ"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "ሰገሰት"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደጊማ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "ነቲ ኩሬ ማይ"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "ንምስባብ"
+    },
+    {
+      "surface": "ותשאב",
+      "gloss": "ሰበበት"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "גמליו",
+      "gloss": "ኣኽሊሉ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:44:54.187676740Z",
+  "model": "glm-5.3"
+}

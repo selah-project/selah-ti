@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "ሽምዑንን ለዊን ኣሕዋት እዮም፤ መሳርሒታት በደል እዮም ሰይፎም።",
+  "tokens": [
+    {
+      "surface": "שמעון",
+      "gloss": "ሽምዑን"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "ንለዊ"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ኣሕዋት"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "መሳርሒታት"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "በደል"
+    },
+    {
+      "surface": "מכרתיהם",
+      "gloss": "ሰይፎም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:25:54.846543967Z",
+  "model": "glm-5.3"
+}

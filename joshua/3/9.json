@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "የሆሹዋዕ ድማ ናብ ውላድ እስራኤል ተዛረበ፦ «ኣብዚ ቅሩብ እኩርኩሙ፣ ቃላት ያህዌህ ኤሎሂምኩም ⟨את⟩ ሰምዑ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "ቅሩብ እኩርኩሙ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ኣብዚ"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ሰምዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላት"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:15:33.420064629Z",
+  "model": "glm-5.3"
+}

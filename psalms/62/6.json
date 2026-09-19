@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 62,
+  "translation": "ኣነ ግን ነፍሲ ንኤሎሂም ጥራይ ተወዲዋ ኣላ፣ ተስፋይ ካብኡ እዩ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ኣነ ግን"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ንኤሎሂም"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "ተወዲዋ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ኣላ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "ተስፋይ እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:05.606761761Z",
+  "model": "glm-5.3"
+}

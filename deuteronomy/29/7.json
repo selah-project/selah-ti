@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ድማ ⟨את⟩ ምድሮም ወሲድና፣ ንራኡቤናውያንን ንጋዲታትን ንግማይ ወዲ ምናሴን ናይ ውርሻ ሃብና።",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "ወሲድና"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሮም"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ምድሮም"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ሃብና"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ናይ ውርሻ"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "ንራኡቤናውያንን"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "ንጋዲታትን"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "ንግማይ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "ምናሴ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:08:32.495084809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 10:15",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ከምዚ ገበረ ንኹም፣ ቤት ኤል፣ ምኽንያቱ ናይ ክፉእ ክፍናትኩም፤ ኣብ ቀዳማይ ሰዓት ሽሕ ንጉስ እስራኤል ክጠፍእ እዩ።",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኹም"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ናይ ክፉእ"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "ክፍናትኩም"
+    },
+    {
+      "surface": "בשחר",
+      "gloss": "ኣብ ቀዳማይ ሰዓት ሽሕ"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "ክጠፍእ"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "ክጠፍእ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T04:09:08.026431946Z",
+  "model": "glm-5.3"
+}

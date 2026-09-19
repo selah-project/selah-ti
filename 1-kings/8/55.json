@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ደቂቑ ድማ ባረኸ ⟨את⟩ ኩሉ ጉባኤ እስራኤል ብዓቢ ድምጺ እናበለ፦",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ደቂቑ ድማ"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ባረኸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ጉባኤ እስራኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጺ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:57:22.058953167Z",
+  "model": "glm-5.3"
+}

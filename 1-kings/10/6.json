@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ናብ እቲ ንጉስ በለቶ፦ እታ ኣብ ሃገረይ ብዛዕባ ቃላትካን ጥበብኻን ዝሰማዕኩ እቲ ቃል ሓቂ ነበረ።",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "በለቶ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ሓቂ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበረ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ቃል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ዝሰማዕኩ"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "ኣብ ሃገረይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብዛዕባ"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ቃላትካ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ከምኡውን ብዛዕባ"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ጥበብኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:43:31.566303040Z",
+  "model": "glm-5.3"
+}

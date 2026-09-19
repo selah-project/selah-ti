@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "እስራኤል ብያህዌህ ተድሓነ፣ ብናይ ዘለኣለማት መድሓኒት፤ ክሳብ ዘለኣለም ዘለኣለም ኣይትሓፈሩን፣ ኣይትዓረቡን።",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "ተድሓነ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ብያህዌህ"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "መድሓኒት"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ዘለኣለማት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "ትሓፈሩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "ትዓረቡ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "ዘለኣለም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:15:18.953865186Z",
+  "model": "glm-5.3"
+}

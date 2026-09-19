@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ንስኻ ድማ ነቶም ታቦት ኪዳን ዝሓዙ ካህናት ⟨את⟩ ትእዛዝ ኢልካ፦ «ናብ ውሽጣይ ማይ ዮርዳኖስ ምስ በጽሕኹም፣ ኣብ ዮርዳኖስ ተቐምጡ።»",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ድማ"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "ትእዛዝ ኢልካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ካህናት"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ዝሓዙ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "ምስ በጽሕኹም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ናብ ውሽጣይ"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ውሽጣይ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "ኣብ ዮርዳኖስ"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "ተቐምጡ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:17:27.709713978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እቲ መጠቆቢ ድማ ብሓይሊ ቐሊኑ፦ «ንስኻትኩም ይእዘዘኩም ኣሎ ሕዝብታት፣ ብሔራትን ቋንቋታትን» በለ።",
+  "tokens": [
+    {
+      "surface": "וכרוזא",
+      "gloss": "እቲ መጠቆቢ ድማ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ቐሊኑ"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "ብሓይሊ"
+    },
+    {
+      "surface": "לכון",
+      "gloss": "ንስኻትኩም"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "ይእዘዘኩም ኣሎ በለ"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "ሕዝብታት"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "ብሔራት"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "ቋንቋታትን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:56:34.772530769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣብ ከተማ ይሽከርሉ፣ ኣብ ግንብ ይሰግሑ፣ ኣብ ቤታት ይወጹ፣ ብውሽጢ እተን መስኮታት ከም ሓራሚ ይኣቱ።",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "ኣብ ከተማ"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "ይሽከርሉ"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "ኣብ ግንብ"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "ይሰግሑ"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "ኣብ ቤታት"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ይወጹ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ብውሽጢ"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "እተን መስኮታት"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ይኣቱ"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "ከም ሓራሚ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:12:54.792439879Z",
+  "model": "glm-5.3"
+}

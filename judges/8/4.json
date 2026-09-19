@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ጊድዕውን ድማ ናብ ያርደን መጸ፤ ንሱን ሽውዓተ ምእቲ ሰባት ምስኣይ ተሓለፉ፡ እናጸንኩምን እናተኸታተሉን።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "ጊድዕውን"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "ናብ ያርደን"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "እናተሓለፈ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ድማ ሰለስተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ምእቲ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ምስኣይ"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "እናጸንኩም"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "እናተኸታተሉ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:43:06.082098938Z",
+  "model": "glm-5.3"
+}

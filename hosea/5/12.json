@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣነ ድማ ንኤፍራይም ከም ቐርቐሮ፣ ንቤት ይሁዳ ድማ ከም ብኽሕ እየ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "ከም ቐርቐሮ"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ንኤፍራይም"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "ከም ብኽሕ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ንቤት"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:05:40.120519352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "መገድትኻ ያህዌህ ኣፍለጠኒ፤ ጎደናትኻ ኣምሃረኒ።",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "መገድትኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "ኣፍለጠኒ"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "ጎደናትኻ"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ኣምሃረኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:05.582747752Z",
+  "model": "glm-5.3"
+}

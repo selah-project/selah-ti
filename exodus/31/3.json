@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ድማ ንሱን ⟨את⟩ ብመንፈስ ኤሎሂም ኣብ ጥበብን ኣብ ርድኢትን ኣብ ፍልጠትን ኣብ ኹሉ ግብሪን ምሉእ ገበርኩ።",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "ምሉእ ገበርኩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱን"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ኣብ ጥበብ"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "ኣብ ርድኢትን"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "ኣብ ፍልጠትን"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ኣብ ኹሉ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ግብሪን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:33:51.770151060Z",
+  "model": "glm-5.3"
+}

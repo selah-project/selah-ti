@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ንካልኣይቲ ድማ ⟨את⟩ ከም ⟨እቲ⟩ ሕጊ ንዕለት የቀርባ፣ ⟨እቲ⟩ ኻህን ድማ ነቲ ዝሓጠሮ ሓጥያቱ ይሓርዮ፣ ንሱ ድማ ይምሕርሉ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ካልኣይቲ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ካልኣይቲ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "የቀርባ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ዕለት"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ከምቲ ሕጊ"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ይሓርዮ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ንሓንሳቡ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ኻህን"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "ካብ ሓጥያቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ዝሓጠረ"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "ይምሕር"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:50:13.464921410Z",
+  "model": "glm-5.3"
+}

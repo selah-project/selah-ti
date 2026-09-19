@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 66:21",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 66,
+  "translation": "ካብ እቶም ድማ ኣነ ንካህናትን ንለዋይትን ክውስኸ እየ፣ በለ ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ድማ ንኹን"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ካብ እቶም"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ክውስኸ እየ"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "ንካህናት"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ንለዋይት"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:25:43.228561647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 31:5",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ደገምቲ ኣብ ተራራታት ሽኦምሮን ወይኒ ክትተኺል ኢኻ፤ እተኽሉ እዮም ይተኽሉ፣ ዝኾነታትን ይውሕሱዎ።",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "ደገምቲ"
+    },
+    {
+      "surface": "תטעי",
+      "gloss": "ክትተኺል"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "ወይኒ"
+    },
+    {
+      "surface": "בהרי",
+      "gloss": "ኣብ ተራራታት"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ሽኦምሮን"
+    },
+    {
+      "surface": "נטעו",
+      "gloss": "ይተኽሉ"
+    },
+    {
+      "surface": "נטעים",
+      "gloss": "እተኽሉ"
+    },
+    {
+      "surface": "וחללו",
+      "gloss": "ዝኾነታትን ይውሕሱዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:55:47.352567457Z",
+  "model": "glm-5.3"
+}

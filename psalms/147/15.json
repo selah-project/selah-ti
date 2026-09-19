@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 147,
+  "translation": "እቲ ቓሉ ⟨ብቑሩሑ⟩ ናብ ምድሪ ዝለኣኽ፣ ቓሉ ድማ ብቕልጡፍ ይኸይድ።",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "እቲ ዝለኣኽ"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "ቓሉ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ናብ ምድሪ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨ብቑሩሑ⟩"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ብቕልጡፍ"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "ይኸይድ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ቓሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:21.217858835Z",
+  "model": "glm-5.3"
+}

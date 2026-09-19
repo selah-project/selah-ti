@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ወዲ፣ ቃላተይ ሓልዎም፣ ትእዛዛተይ ድማ ምስ ⟨את⟩ ኣኻ ሓብዮም።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ሓልዎም"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ቃላተይ"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ትእዛዛተይን"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "ሓብዮም"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ምስ ኣኻ",
+      "marks": "ምስ ኣኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:45:25.927770427Z",
+  "model": "glm-5.3"
+}

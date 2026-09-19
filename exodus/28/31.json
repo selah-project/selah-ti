@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ኣንታ ድማ ⟨את⟩ ኮታ ኤፉድ ምሉእ ብሰማያዊ ትገብር።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኮታ"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "ኮታ"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ኤፉድ"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ምሉእ ብ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ሰማያዊ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:35:46.019040948Z",
+  "model": "glm-5.3"
+}

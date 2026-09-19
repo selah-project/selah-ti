@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ነቲ ቀድስዎ፤ ስለዚ ⟨את⟩ ንምግቢ ኤሎሂምካ ንሱ ዘዳግም፤ ንኻኻ ቅዱስ ኩኑ፤ ስለዚ ቅዱስ ኣነ ያህዌህ፣ ዝቀድሰኩም።",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "ነቲ ቀድስዎ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምግቢ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ምግቢ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "ዘዳግም"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ኩኑ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "ዝቀድሰኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:04:30.346453193Z",
+  "model": "glm-5.3"
+}

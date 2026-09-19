@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ክሳብ ሰራዊት ሰማያት ዓበየት፤ ካብ እቲ ሰራዊትን ካብ ኮከባትን ናብ ምድሪ ኣውረደት፣ ደቂቐቶም ድማ።",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "ዓበየት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "ኣውረደት"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ናብ ምድሪ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "እቲ ሰራዊት"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ንሳ ካብ"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "ኮከባት"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "ደቂቐቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T06:58:54.363212541Z",
+  "model": "glm-5.3"
+}

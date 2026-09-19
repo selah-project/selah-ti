@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 6:18",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እዚኦም ድማ እቶም ተቐሚጦምን ንውላዶምን እዮም፤ ካብ ውላድ ቅሓቲ — ሔማን እቲ ዘማሪ፣ ወዲ ዮኤል፣ ወዲ ሽሙኤል።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "እቶም ተቐሚጦም"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "ንውላዶምን"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ካብ ውላድ"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "ቅሓቲ"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "ሔማን"
+    },
+    {
+      "surface": "המשורר",
+      "gloss": "እቲ ዘማሪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "ዮኤል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሽሙኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T07:33:45.967553839Z",
+  "model": "glm-5.3"
+}

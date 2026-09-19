@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 110,
+  "translation": "እታ ቕንጫ ናይ ሓይሊካ ያህዌህ ካብ ጸሃይሎን ይሰድኣ፤ «ኣብ መንጎ መናእስይካ ገዝኦም።»",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "ቕንጫ"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ናይ ሓይሊካ"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ይሰድኣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ካብ ጸሃይሎን"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "ገዝኦም"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "መናእስይካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:59.916630146Z",
+  "model": "glm-5.3"
+}

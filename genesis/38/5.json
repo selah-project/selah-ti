@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ደገና ተወሰኸት፣ ወዲ ወለደት፣ ነቲ ⟨את⟩ ስሙ ድማ ሸላ ተጸወዐቶ፤ እቲ ⟨ይሁዳ⟩ ኣብ ኽዚብ ነይሩ፣ ኣብ ዝወለዳ ⟨את⟩ ንሱ።",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "ደገና ተወሰኸት"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደገና"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወዲ ወለደት"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ተጸወዐቶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "ሸላ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "ኣብ ኽዚብ"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "ኣብ ዝወለዳ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:59:21.834109615Z",
+  "model": "glm-5.3"
+}

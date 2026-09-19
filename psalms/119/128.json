@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ስለዚ ኩሉ ምዝገባታትኻ ብኩሉ ቅኑዓት ጌርኩ፣ ኩሉ መገዲ በሊሽ ድማ ዘለኹ።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ምዝገባታትኻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ብኩሉ"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "ቅኑዓት ጌርኩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "መገዲ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "በሊሽ"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ዘለኹ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:59.147758228Z",
+  "model": "glm-5.3"
+}

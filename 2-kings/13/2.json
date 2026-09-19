@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 13:2",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ድማ ኣብ ቅድሚ ያህዌህ ክፉእ ገበረ፣ ከም ቓላት ያሮብዓም ወዲ ነባት እቲ እስራኤል ⟨את⟩ ዝኣፍረሰ ሓጢኣት ተኺሉ ኸደ፣ ካብኡ ድማ ኣይተመልሰን።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ ቅድሚ…ኣይቲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ኸደ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ንኡስ…ድሕሪ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ሓጢኣት"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ያሮብዓም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ነባት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ዝኣፍረሰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ተመልሰ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ካብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:26:26.829916022Z",
+  "model": "glm-5.3"
+}

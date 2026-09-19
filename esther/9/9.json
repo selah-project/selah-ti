@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ድማ ⟨את⟩ ፓርማሽታን ⟨את⟩ ኣሪሳይን ⟨את⟩ ኣሪዳይን ⟨את⟩ ቫይዛታን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ፓርማሽታ"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "ፓርማሽታ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሪሳይ"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "ኣሪሳይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሪዳይ"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "ኣሪዳይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቫይዛታ"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "ቫይዛታ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:50:03.046260431Z",
+  "model": "glm-5.3"
+}

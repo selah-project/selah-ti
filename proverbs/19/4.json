@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ብርኪ ብዙሓት ዓርኩት ይውስኽ፣ እቲ ድኽ ግን ካብ ዓርኩ ይፈሪሕ።",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ብርኪ"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ይውስኽ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ዓርኩት"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "እቲ ድኽ ግን"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "ካብ ዓርኩ"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "ይፈሪሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:53:48.468331106Z",
+  "model": "glm-5.3"
+}

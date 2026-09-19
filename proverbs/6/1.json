@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ወዲ፣ ንሰላምትኻ እንተ ተዓራቢኻ፣ ንመጻወይ እንተ ሰምብኻ ኣኽሊልካ፣",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "ተዓራቢኻ"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "ንሰላምትኻ"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "ሰምብኻ"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "ንመጻወይ"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "ኣኽሊልካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:43:22.619551467Z",
+  "model": "glm-5.3"
+}

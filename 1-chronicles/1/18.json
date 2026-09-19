@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣርፓኽሻድ ድማ ⟨את⟩ ሸላኽ ወለዱ፣ ሸላኽ ድማ ⟨את⟩ ዔበር ወለዱ።",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "ኣርፓኽሻድ ድማ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሸላኽ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ሸላኽ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ሸላኽ ድማ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዔበር"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ዔበር"
+    }
+  ],
+  "timestamp": "2026-09-19T07:28:48.485957485Z",
+  "model": "glm-5.3"
+}

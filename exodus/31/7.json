@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "⟨את⟩ ድኅረ መዓልቲን ⟨את⟩ ታቦት ምስሕታን ⟨את⟩ እታ ኣብ ልዕሊኣ ዘላ መክድን፣ ከምኡውን ⟨את⟩ ኹሉ ቍሳቍስ እታ ድኅረይ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድኅረ መዓልቲ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድኅረ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦት ምስሕታ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "ምስሕታ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መክድ"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "መክድ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊኣ ዘላ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ ቍሳቍስ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ቍሳቍስ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "እታ ድኅረይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:36:06.058113246Z",
+  "model": "glm-5.3"
+}

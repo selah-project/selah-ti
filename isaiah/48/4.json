@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "ምስ ዝፈለጥኩ ከምቲ ከቢድ ኢኻ፡ ኣንገትካ ጐንፈት ብረት ⟨እያ⟩፡ ከሓዲኻ ድማ ሓሙሽታ ⟨እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "ምስ ዝፈለጥኩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ከቢድ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኢኻ"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "ጐንፈት"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ብረት"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "ኣንገትካ"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "ከሓዲኻ"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "ሓሙሽታ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:12:59.559121221Z",
+  "model": "glm-5.3"
+}

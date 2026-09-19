@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ኣብ እቲ ዕዋን ኣገልገልቲ ንቡኻድነጽር ንጉስ ባቢሎን ናብ የሩሻላይም ደወሉ፣ እታ ከተማ ድማ ኣብ ምቕዋም ኣተወት።",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ኣብ እቲ ዕዋን"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ንሳ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ደወሉ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልገልቲ"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "ንቡኻድነጽር"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባቢሎን"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ኣተወት"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እታ ከተማ"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "ኣብ ምቕዋም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:39:44.203239321Z",
+  "model": "glm-5.3"
+}

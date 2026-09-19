@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ጥፍኣት ብዘይ እውቀት ትረኽቦ፣ መርበቢ እቲ ዝሓበየ ንንሱ ትሓዝ፣ ኣብኣ እታ ጥፍኣት ድማ ይውዕል።",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "ትረኽቦ"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "ጥፍኣት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ዝፈልጥ"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "መርበቢ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "ሓበየ"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "ትሓዝ"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "ኣብ ጥፍኣት"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ይውዕል"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:00:51.152731262Z",
+  "model": "glm-5.3"
+}

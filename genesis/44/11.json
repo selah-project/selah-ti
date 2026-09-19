@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ሓጺሮም ነፍሲ ወዲ ⟨את⟩ ኣእማጹ ናብ ምድሪ ወርዱ፡ ነፍሲ ወዲ ኣእማጹ ኸኣ ኸፈተዮ።",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "ሓጺሮም"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "ወርዱ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ወዲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣእማጹ"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "ኣእማጹ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ናብ ምድሪ"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "ኸፈተዮ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ወዲ"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "ኣእማጹ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:03:09.520725321Z",
+  "model": "glm-5.3"
+}

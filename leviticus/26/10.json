@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ድማ ኣብዛዕቢ እኽሊ ተበልዐኩም፣ ነቲ ኣብዛዕቢ ድማ ንነቲ ሓድሽ ቦታ ክትወጽእዎ ኢኹም።",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "ተበልዐኩም"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "ኣብዛዕቢ"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "እኽሊ ተበልዐኩም ዝነበረ"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "ነቲ ኣብዛዕቢ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ንነቲ … ቦታ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ሓድሽ"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "ክትወጽእዎ ኢኹም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:08:14.146568322Z",
+  "model": "glm-5.3"
+}

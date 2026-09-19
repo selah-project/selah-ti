@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "amos 7:16",
+  "book": "amos",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ሕጂ ድማ ቃል ያህዌህ ስምዑ፦ ንስኻ ንእስራኤል ኣይትነብያን፡ ንስድራ ይጽሓቅ እውን ኣይትወርድን ትብል ኢኻ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ ድማ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ስምዑ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ትብል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይት…ን"
+    },
+    {
+      "surface": "תנבא",
+      "gloss": "ኣይትነብያን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እውን ኣይት…ን"
+    },
+    {
+      "surface": "תטיף",
+      "gloss": "ኣይትወርድን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ይጽሓቅ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:17:27.209076339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "ምድሪ ኣብ መሰረታታ ⟨ንሱ⟩ መሰረተ፤ ናብ ዘለኣለምን ንዘለኣለምን ኣይትዓውትን።",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "መሰረተ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "መሰረታታ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ትዓውት"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ንዘለኣለምን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:15.015027140Z",
+  "model": "glm-5.3"
+}

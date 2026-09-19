@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ዮኣብ ድማ ምስ በዓባታ ናይ ውላድ ዓሞን ተቓልዐ፣ ነቲ ንጉሳዊ ከተማ ⟨את⟩ ሓረመዛ።",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "ተቓልዐ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮኣብ"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "በዓባታ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ዓሞን"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ሓረመዛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ንጉሳዊቲ ከተማ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ንጉሳዊ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:30:30.309037990Z",
+  "model": "glm-5.3"
+}

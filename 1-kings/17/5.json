@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 17:5",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ከደ፣ ብቃል ያህዌህ ከም ዝበለ ገበረ፣ ከደውን ኣብ ሓውሒ ኽሪት፣ እታ ኣብ ቅድሚ ያርዳን ዘላ፣ ተቐሚጡ ዓቢ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ብቃል ያህዌህ ከም ዝበለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ከደውን"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቐሚጡ ዓቢ"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ኣብ ሓውሒ"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "ኽሪት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዘላ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ያርዳን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:02:32.191707033Z",
+  "model": "glm-5.3"
+}

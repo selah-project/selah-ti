@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 4:8",
+  "book": "ruth",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "እቲ መድሓኒ ድማ ንብዓዝ በለ፦ «ንስኻ ግዚዘ።» ንሱ ድማ ጫማኡ ወጺኡ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "እቲ መድሓኒ"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "ንብዓዝ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ግዚዘ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "וישלף",
+      "gloss": "ወጺኡ"
+    },
+    {
+      "surface": "נעלו",
+      "gloss": "ጫማኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:31:17.059426482Z",
+  "model": "glm-5.3"
+}

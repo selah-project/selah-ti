@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "እቲ ንጉስ ሞተ፣ ናብ ሽማርዮን ተወሊዑ፣ ⟨את⟩ እቲ ንጉስ ኣብ ሽማርዮን ቐበርዎ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ተወሊዑ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ሽማርዮን"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ቐበርዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ንጉስ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ኣብ ሽማርዮን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:11:43.454891916Z",
+  "model": "glm-5.3"
+}

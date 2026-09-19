@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ሽባ ወረዋ እሞ ወሲዶም፣ ⟨את⟩ ነቶም ኣገልገልቲ ብጫፊ ሰይፊ በይኖም፣ ኣነ ጥራይ ብብዕሉ ንኣኻ ክነግረካ ሰሪኹ።",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "ወረዋ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ሽባ"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "ወሲዶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ኣገልገልቲ"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "ኣገልገልቲ"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "በይኖም"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ጫፊ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፊ"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "ሰሪኹ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ብብዕሉ"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "ክነግረካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኣኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:05:49.493657039Z",
+  "model": "glm-5.3"
+}

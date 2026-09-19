@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ምክርና ትኽለኸኻ፣ መርዓት ድማ ትኸላኸለኻ።",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "ምክርና"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ትኽለኸኻ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ኣብ ልዕሊኻ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "መርዓት"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "ትኸላኸለኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:58.124635722Z",
+  "model": "glm-5.3"
+}

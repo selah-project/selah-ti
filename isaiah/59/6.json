@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 59:6",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 59,
+  "translation": "ማሕደራቶም ንኣንስቲ ኣይኮኑን፣ ብግብሮምን ኣይተሓብዩን፤ ግብሮም ግብርቲ ኲነታት እዮም፣ ንጉድናይ ናይ ብርቱዕ ድማ ኣብ ኣኽሊሎም ኣሎ።",
+  "tokens": [
+    {
+      "surface": "קוריהם",
+      "gloss": "ማሕደራቶም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ኮኑ"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "ንኣንስቲ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יתכסו",
+      "gloss": "ተሓብዩ"
+    },
+    {
+      "surface": "במעשיהם",
+      "gloss": "ብግብሮም"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ግብሮም"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ግብርቲ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ኲነታት"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ንጉድናይ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ናይ ብርቱዕ"
+    },
+    {
+      "surface": "בכפיהם",
+      "gloss": "ኣብ ኣኽሊሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:24:02.527916746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ካብ ያህዌህ ⟨את⟩ በረከት የውጽእ፣ ካብ ኤሎሂ ናይ መድሓኒቱ ድማ ጽድቂ የውጽእ።",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "የውጽእ"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "በረከት"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "በረከት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "ካብ ኤሎሂ"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ናይ መድሓኒቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:48.617984090Z",
+  "model": "glm-5.3"
+}

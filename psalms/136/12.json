@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 136,
+  "translation": "ብኢድ ሓያላይቲ ብዘራዕዲ ዝተዘርገሐ፤ እስከ ዘለኣለም ሔሴዱ እዩ።",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ሓያላይቲ"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "ብዘራዕዲ"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ዝተዘርገሐ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "እስከ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:40.017922807Z",
+  "model": "glm-5.3"
+}

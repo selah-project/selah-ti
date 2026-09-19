@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 4:5",
+  "book": "zechariah",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "እቲ ምስ ኣነ ዝዛረበ መልኣኽ መለሰ ነይሩ ንዓይ እናበለ፦ «እዚኦም እንታይ ምዃኖም ኣይፈልጥንኳ?» ኣነ ድማ «ኣይኮነን፣ ጎይታይ» በልኩ።",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መለሰ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "እቲ መልኣኽ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ዝዛረበ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ምስ ኣነ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ኣይ…ን?"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ኣይፈልጥንኳ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "በልኩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጎይታይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:35:23.171903347Z",
+  "model": "glm-5.3"
+}

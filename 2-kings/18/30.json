@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ከምኡውን ሕዝቅያስ ነበሮ ⟨את⟩ ኣይኣምኖኩምን ናብ ያህዌህ ብዝበለ፦ «ያህዌህ ድሕነና የድሕነና፣ እዚኣ ከተማ ከኣ ኣብ ኢድ ንጉስ ኣሽር ኣይትውሃብን።»",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ከምኡውን ኣይ-…-ን"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "የዕምኖኩም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ኣኻትኩም"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ሕዝቅያስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብዝበለ"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "ድሕነና"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "የድሕነና"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይትውሃብን"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "ክትውሃብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ከተማ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እታ ከተማ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚኣ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ኣብ ኢድ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣሽር"
+    }
+  ],
+  "timestamp": "2026-09-19T01:33:25.782770725Z",
+  "model": "glm-5.3"
+}

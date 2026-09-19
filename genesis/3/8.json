@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ቓል ያህዌህ ኤሎሂም ⟨את⟩ ኣብ ንፋሲ እቲ መዓልቲ ኣብ ኣኽሊል እናኸይድ ዘሎ ሰምዑ፣ እቲ ሰብን ሰበይቱን ካብ ቅድመ ያህዌህ ኤሎሂም ኣብ መኻል ዛራት እቲ ኣኽሊል ተሓበኑ።",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ሰምዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቓል"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "እናኸይድ"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "ኣብ ኣኽሊል"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "ኣብ ንፋሲ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "እቲ መዓልቲ"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "ተሓበነ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ሰበይቱን"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ካብ ቅድመ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ መኻል"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ዛራት"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "እቲ ኣኽሊል"
+    }
+  ],
+  "timestamp": "2026-09-18T20:32:14.401236734Z",
+  "model": "glm-5.3"
+}

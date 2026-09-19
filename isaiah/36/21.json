@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 36:21",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ድማ ቀሉ፣ ዝኾነ ⟨את⟩ ቃል ኣይመለስዎን፣ እቲ ኣዝዛዝ ናይ እቲ ንጉሥ ስለ ዝነበረ «ኣይተዛረብዎን» ኢሉ እዩ።",
+  "tokens": [
+    {
+      "surface": "ויחרישו",
+      "gloss": "ቀሉ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "መለስዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ቃል"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ኣዝዛዝ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ናይ እቲ ንጉሥ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "«…» ኢሉ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "ተዛረብዎን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:04:02.315958467Z",
+  "model": "glm-5.3"
+}

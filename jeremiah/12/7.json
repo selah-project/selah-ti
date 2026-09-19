@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "⟨את⟩ ቤተይ ሓዲገ፣ ⟨את⟩ ውርሻይ ጥላይ፤ ⟨את⟩ ቅሩብ ነፍሰይ ኣብ ኢድ ተቓዋማታ ኣደልዮ።",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "ሓዲገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤተይ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ቤተይ"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "ጥላይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውርሻይ"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "ውርሻይ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ኣደልዮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅሩብ ነፍሰይ"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "ቅሩብ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "ኣብ ኢድ"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "ተቓዋማታ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:41:45.409157864Z",
+  "model": "glm-5.3"
+}

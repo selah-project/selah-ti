@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ምሕሮትታትኻ ኣስዘኽር ያህዌህ፣ ንሔሴድታትኻን፣ ምኽንያቱ ካብ ዘለኣለም እዮም።",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ኣስዘኽር"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ምሕሮትታትኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "ንሔሴድታትኻን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ካብ ዘለኣለም"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:54.827348946Z",
+  "model": "glm-5.3"
+}

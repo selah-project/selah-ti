@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 4:37",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ከምኡ ድማ ስለ ዝፈተወ ⟨את⟩ ኣቦትካ ንዘርኣቶም ምስ እቶም ተደገፈ፣ ብመልክዑ ብኃይሉ እቲ ዓቢ ካብ ሚጽራይም ኣውጽአካ።",
+  "tokens": [
+    {
+      "surface": "ותחת",
+      "gloss": "ከምኡ ድማ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ዝፈተወ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቦትካ"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "ኣቦትካ"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "ተደገፈ"
+    },
+    {
+      "surface": "בזרעו",
+      "gloss": "ንዘርኣቶም"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ምስ እቶም"
+    },
+    {
+      "surface": "ויוצאך",
+      "gloss": "ኣውጽአካ"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "ብመልክዑ"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "ብኃይሉ"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "እቲ ዓቢ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ካብ ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:34:21.715090178Z",
+  "model": "glm-5.3"
+}

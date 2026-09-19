@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "እታ ልሳንውን ጽድቅኻ ትዛር፣ ኩሉ መዓልቲ ምስጋናኻ እያ።",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "እታ ልሳንውን"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "ትዛር"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ጽድቅኻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ምስጋናኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:51.672022402Z",
+  "model": "glm-5.3"
+}

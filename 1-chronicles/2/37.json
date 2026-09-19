@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ዛባድ ድማ ንውላድ ኤፍላል ኣወጽኦ፣ ⟨את⟩ ኤፍላል፤ ኤፍላል ድማ ⟨את⟩ ዓባድ ኣወጽኦ።",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "ዛባድን"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ኣወጽኦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤፍላል"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "ኤፍላል"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "ኤፍላልን"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ኣወጽኦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓባድ"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ዓባድ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:28:22.690476008Z",
+  "model": "glm-5.3"
+}

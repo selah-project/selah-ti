@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ናይ ኣዝኒ ስድራ እቲ ኣዝናዊ፤ ናይ ዕሪ ስድራ እቲ ዕሪያዊ።",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "ናይ ኣዝኒ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "እቲ ኣዝናዊ"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "ናይ ዕሪ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "እቲ ዕሪያዊ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:34:08.885693811Z",
+  "model": "glm-5.3"
+}

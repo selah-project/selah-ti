@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ልቡ ድማ ኣብ መገዳት ያህዌህ ዓቐበ፤ ድሕሪኡ ድማ ⟨את⟩ እተን ኣረኣእያታትን ⟨את⟩ እተን ኣሽራሪታትን ካብ ይሁዳ ኣሓለፈ።",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "ዓቐበ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ኣብ መገዳት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ድሕሪኡ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ኣሓለፈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እተን ኣረኣእያታት"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "እተን ኣረኣእያታት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እተን ኣሽራሪታት"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "እተን ኣሽራሪታት"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "ካብ ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:05:45.177309756Z",
+  "model": "glm-5.3"
+}

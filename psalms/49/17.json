@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "ኣብዚ ከኣ ኣይትፈርሕ፣ ምኽንያቱ ሰብ ከም ዝሃብት፣ ከም ዝዓቢ ክብሪ ቤቱ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ትፈርሕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ዝሃብት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ዝዓቢ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:39.360593079Z",
+  "model": "glm-5.3"
+}

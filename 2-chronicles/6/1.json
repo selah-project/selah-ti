@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኣብ እቲ ዕድመ ሽሎሞ በለ፦ ያህዌህ ኣብ ⟨እቲ⟩ ጽልማት ኸነብር በለ።",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ኣብ እቲ ዕድመ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "ኸነብር"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "ኣብ ጽልማት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:56:45.518540225Z",
+  "model": "glm-5.3"
+}

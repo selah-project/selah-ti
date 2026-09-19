@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኵሉ ጉባኤ እስራኤል ⟨אתו⟩ ይገብር።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኵሉ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ይገብር"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "እቲ (እቲ ስነ-ስርዓት ጴስኅ)"
+    }
+  ],
+  "timestamp": "2026-09-18T21:20:23.708922877Z",
+  "model": "glm-5.3"
+}

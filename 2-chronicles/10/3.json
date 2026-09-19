@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 10:3",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ሰደዩ ድማ ነታ ተዛረቡሉ፤ ያሮብዓምን ኩሉ ይስራኤልን መጹ ምስ ረሓብዓም ድማ ተዛረቡ ኢሎም፦",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ሰደዩ"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ተዛረቡሉ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ነታ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ያሮብዓም"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤልን"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ተዛረቡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ረሓብዓም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሎም፦"
+    }
+  ],
+  "timestamp": "2026-09-19T08:02:06.031360175Z",
+  "model": "glm-5.3"
+}

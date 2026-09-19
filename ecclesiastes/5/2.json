@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ስለ ሕልም ብብዙሕ ጕዳይ ይመጽእ፣ ቓል ኣውድሕ ድማ ብብዙሕ ቃላት።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ይመጽእ"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ሕልም"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ብብዙሕ"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "ጕዳይ"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ኣውድሕ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ብብዙሕ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ቃላት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:40:57.922736369Z",
+  "model": "glm-5.3"
+}

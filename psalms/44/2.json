@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ኤሎሂም ብኣዳእና ሰምዓና፤ ኣቦትና ድማ ነና ተዛረቡ — እት ግብሪ ኣብ መዓልታቶም ገበርካ፣ ኣብ መዓልታት ቅድሚ ዝኾነ ዘመን።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "ብኣዳእና"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "ሰምዓና"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ኣቦትና"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ተዛረቡ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ነና"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ግብሪ"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ገበርካ"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "ኣብ መዓልታቶም"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ኣብ መዓልታት"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ቅድሚ ዝኾነ ዘመን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:29.773598796Z",
+  "model": "glm-5.3"
+}

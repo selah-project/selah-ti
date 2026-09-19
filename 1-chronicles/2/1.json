@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እዚኦም ውላድ ይስራኤል እዮም፦ ረኡበን፣ ስምዖን፣ ለዊ፣ ይሁዳን፣ ይሳካርን፣ ዘቡሉንን።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ረኡበን"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ስምዖን"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ለዊ"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ይሁዳን"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ይሳካር"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "ዘቡሉንን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:29:37.892150595Z",
+  "model": "glm-5.3"
+}

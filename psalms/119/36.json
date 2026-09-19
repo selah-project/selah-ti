@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ልቤ ናብ ምስክትታትካ ኣዘንብዎ፣ ናብ ሓራሽ ርክብ ድማ ኣይትወድኦን።",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "ኣዘንብዎ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ምስክትታትካ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣይትወድኦን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ሓራሽ ርክብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:23.470143626Z",
+  "model": "glm-5.3"
+}

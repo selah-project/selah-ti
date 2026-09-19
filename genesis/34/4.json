@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ሽኬም ድማ ንሓሞር ኣቦኡ ኢሉ ፦ ነዚ ወገና ኣብዚ ⟨את⟩ ንኣኺ ክብላኺ ኣኽየኒ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ሽኬም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ሓሞር"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ኣኽየ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣኺ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነዚ ወገና ኣብዚ"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "ወገና"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ኣብዚ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ክብላኺ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:26:15.750367072Z",
+  "model": "glm-5.3"
+}

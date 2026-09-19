@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 90,
+  "translation": "ንምቑጻር መዓልታትና ከምዚ ኣስፈልጠና፣ ኰንና ልቢ ጥበብ ንኣእቱ።",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "ንምቑጻር"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "መዓልታትና"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "ኣስፈልጠና"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "ኰንና ንኣእቱ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:47.905307053Z",
+  "model": "glm-5.3"
+}

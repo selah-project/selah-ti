@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 26:22",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "እዚኦም ኣድልወታት ይሁዳ ንዝተቐመጹ እዮም፤ ሽድሽ ሰባ ወከፍ ውን ኣርባዕተ ሺሕ ከምኡውን ሓሙሽተ ሚእቲ።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ኣድልወታት"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "ንዝተቐመጹ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ሽድሽ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ሰባ ወከፍ ውን"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺሕ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ሓሙሽተ ውን"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚእቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:33:10.836732410Z",
+  "model": "glm-5.3"
+}

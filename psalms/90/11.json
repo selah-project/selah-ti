@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 90,
+  "translation": "መን'ዩ ብሓይሊ ጽንፈኻ ዝፈልጥ፧ ከም መልክዒኻ ድማ ቍጣኻ።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ዝፈልጥ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ሓይሊ"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ጽንፈኻ"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "ከም መልክዒኻ"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "ቍጣኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:47.905106663Z",
+  "model": "glm-5.3"
+}

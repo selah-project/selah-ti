@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ዝናባቶም በረድ ሃቐ፣ ስጉምታት ሓዊ ኣብ ምድሮም።",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ሃቐ"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "ዝናባቶም"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "በረድ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "ስጉምታት"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "ኣብ ምድሮም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:29.818145141Z",
+  "model": "glm-5.3"
+}

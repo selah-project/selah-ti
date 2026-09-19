@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 43:1",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "ኣብ ድሕሪኡ ናብ ⟨እቲ⟩ ኣፍደገ ኣእተወኒ፣ እቲ ኣፍደገ እቲ ፊቱ ናብ መንገዲ ብምብራቕ ዝቐልበወ።",
+  "tokens": [
+    {
+      "surface": "ויולכני",
+      "gloss": "ኣእተወኒ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "⟨እቲ⟩ ኣፍደገ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ኣፍደገ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ዝቐልበወ ፊቱ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ናብ መንገዲ"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ብምብራቕ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:58:48.392765383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እቲ ንጉስ ድማ ካብ ሓሙን ⟨את⟩ መሸለምቲ እቲ ዘልኣክዎ ወሲዱ ንሞርዶካይ ሃበ፤ እስተር ድማ ⟨את⟩ ሞርዶካይ ኣብ ላዕሊ ቤት ሓሙን ኣቐሚቶ።",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሸለምቲ እቲ"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "መሸለምቲ እቲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "ዘልኣክዎ"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "ካብ ሓሙን"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "ንሞርዶካይ"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "ኣቐሚቶ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "እስተር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞርዶካይ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ሞርዶካይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሓሙን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:50:13.897864117Z",
+  "model": "glm-5.3"
+}

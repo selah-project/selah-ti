@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ኤሎሂም ድማ ኣብ እቲ ምስኡ ⟨את⟩ ዝተዛረቦ ቦታ ካባዕ ወጸ።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ካባዕ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ኣብ እቲ ቦታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ምስ ንሱ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:57:07.811655989Z",
+  "model": "glm-5.3"
+}

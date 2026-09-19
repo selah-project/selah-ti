@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 19:9",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኣብ ዝምልከት ቲራሃቃ ንጉስ ኩሽ «ኣይ ምስ ⟨את⟩ ንስኻ ንኽቃልል ወጺኡ» ዝብል ቃል ሰምዐ፣ ድሕሪኡ ድማ መልኣኽቲ ናብ ሕዝቅያሁ ለኣኾም ኢሎም፦",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ ዝምልከት"
+    },
+    {
+      "surface": "תרהקה",
+      "gloss": "ቲራሃቃ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ኩሽ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ወጺኡ"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ንኽቃልል"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ምስ ንስኻ",
+      "marks": "ንስኻ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ድሕሪኡ ድማ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ለኣኾም"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "መልኣኽቲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ሕዝቅያሁ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:30:49.577255635Z",
+  "model": "glm-5.3"
+}

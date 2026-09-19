@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "እቲ ማይ ካብቲ ኩርቒ ምስ ወደቐ፣ ትሕቲ ሓደ ኻብቲ ደቂ ቅላት ⟨את⟩ ንቲ ወዲ ጣለቶ።",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "ምስ ወደቐ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "እቲ ማይ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብቲ"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "ኩርቒ"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "ጣለቶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንቲ ወዲ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ንቲ ወዲ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "ኻብቲ ደቂ ቅላት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:44:26.621539959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "የሁ ድማ «ንባዕል ውዑይ ትዕይንቲ ቕድሱ» በለ፣ ንሳቶም ድማ ኣወጁ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "የሁ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቕድሱ"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "ውዑይ ትዕይንቲ"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ንባዕል"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ኣወጁ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:20:16.199239550Z",
+  "model": "glm-5.3"
+}

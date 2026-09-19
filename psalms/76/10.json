@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 76,
+  "translation": "ኤሎሂም ምስ ተንሳእዩ ንፍርዲ፣ ንምድሓን ኩሉ ተሓባእሽቲ ምድሪ። ሰላም።",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "ምስ ተንሳእዩ"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ንፍርዲ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "ንምድሓን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "ተሓባእሽቲ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:03.419624581Z",
+  "model": "glm-5.3"
+}

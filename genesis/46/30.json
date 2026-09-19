@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 46,
+  "translation": "እስራኤል ድማ ንዮሴፍ በሎ፦ «ካብዚ ሕጂ እሞት እየ፣ ⟨את⟩ ገጽካ ምስ ረኣኹ፣ ስለ ዝኾንካ ውዱአም ሕያው።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "እሞት እየ"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "ካብዚ ሕጂ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "ምስ ረኣኹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገጽካ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽካ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ ዝኾንካ"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "ውዱአም"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ሕያው"
+    }
+  ],
+  "timestamp": "2026-09-18T21:07:04.583383144Z",
+  "model": "glm-5.3"
+}

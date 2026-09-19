@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ተባርኽቲ ፍረ ሆድካ፣ ፍረ ምድታትካ፣ ፍረ እንስሳትካ — ኣፅራሲ ከብትካን ልዑላት ሰብሳብካን።",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ተባርኽቲ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ፍረ"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "ሆድካ"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ፍረ"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ምድታትካ"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ፍረ"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "እንስሳትካ"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "ኣፅራሲ"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "ከብትካ"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "ልዑላት"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "ሰብሳብካ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:08:26.671592320Z",
+  "model": "glm-5.3"
+}

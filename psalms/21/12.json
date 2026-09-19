@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ምኽንያቱ ኣብ ልዕሊኻ ክፉእ ዘዘርኡ፣ ክፉት ምንጭያይ ሓሰቡ እንተኾነ ኣይኽእሉን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "ዘዘርኡ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ኣብ ልዕሊኻ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ሓሰቡ"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "ክፉት ምንጭያይ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "ይኽእሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:41.589338741Z",
+  "model": "glm-5.3"
+}

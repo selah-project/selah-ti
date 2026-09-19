@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 78:72",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ብንጹርና ልቡ ዝርአዮም፣ ብጥበብ ኢድኡ ከኣ ይምርሆም ነይሩ።",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "ዝርአዮም"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "ብንጹርና"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "ובתבונות",
+      "gloss": "ከምኡውን ብጥበብ"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ኢድኡ"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "ይምርሆም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:15.115568963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ርሑባትን ኣጋልሲትን ኩሎም፣ ከምኡውን እተባብያት ዓዲ።",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "ርሑባት"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "ኣጋልሲትን"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "እተባብያት"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ዓዲ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:36.043569811Z",
+  "model": "glm-5.3"
+}

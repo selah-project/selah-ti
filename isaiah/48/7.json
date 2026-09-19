@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 48:7",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "ሕጂ ተፈጠሩ፣ ካብ ቅድሚ ኣይኮኑን፤ ቅድሚ እዚ መዓልቲ እውን ኣይሰምዐካዮምን፤ ከይትብል፦ «ኣሎ፣ ፈሊጠ እስኪ»።",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "נבראו",
+      "gloss": "ተፈጠሩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ካብ ቅድም"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "ኣይሰምዐካዮምን"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ከይትብል"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "እትብል"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "ידעתין",
+      "gloss": "ፈሊጠ እስኪ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:15:51.098298310Z",
+  "model": "glm-5.3"
+}

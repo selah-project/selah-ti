@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 72,
+  "translation": "ምስ ጸሓይን ቅድሚ ጨረቕን ንስኻ ይፈርሁኻ፣ ትውልዂ ትውልዊ።",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "ይፈርሁኻ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ጸሓይ"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ጨረቕ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ትውልዊ"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "ትውልውት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:38.438366511Z",
+  "model": "glm-5.3"
+}

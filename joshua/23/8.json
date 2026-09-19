@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 23:8",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ኣብ ክንዱ ግን ብያህዌህ ኤሎሂምኩም ክትጽንዑሉ፣ ከም ዝገበርኩም ክሳብ እዚ መዓልቲ እዚ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ኣብ ክንዱ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ብያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    },
+    {
+      "surface": "תדבקו",
+      "gloss": "ትጽንዑሉ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ዝገበርኩም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:37:47.754875116Z",
+  "model": "glm-5.3"
+}

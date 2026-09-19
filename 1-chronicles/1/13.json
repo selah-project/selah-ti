@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኽናዕን ድማ ⟨את⟩ ጽድውን ቐዳማይ ወዲኡን ⟨את⟩ ሕትን ወለዶ።",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "ኽናዕንን"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለዶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጽድውን"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ጽድውን"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ቐዳማይ ወዲኡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሕትን"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ሕትን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:29:00.280636117Z",
+  "model": "glm-5.3"
+}

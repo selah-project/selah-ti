@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "እታ ሰበይቲ ድማ ⟨את⟩ ሽሞኤል ረኣየት፣ ብዓቢ ቓላ ቐረጸት፤ እታ ሰበይቲ ድማ ነቲ ሻኡል እናበለቶ፦ ስለ እንታይ ተበልዓኒ? ንስኻ ድማ ሻኡል ኢኻ።",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ረኣየት"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "እታ ሰበይቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሽሞኤል"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሽሞኤል"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "ቐረጸት"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ብቓላ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "እናበለቶ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "እታ ሰበይቲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ስለ እንታይ"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "ተበልዓኒ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ድማ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    }
+  ],
+  "timestamp": "2026-09-19T00:16:41.113147388Z",
+  "model": "glm-5.3"
+}

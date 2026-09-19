@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 136:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 136,
+  "translation": "ነገስትቲ ብርቱታት ቐተለ፣ ምኽንያቱ ናብ ዘለኣለም ሔሴዱ እዩ።",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "ቐተለ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ነገስትቲ"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "ብርቱታት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:01.213612532Z",
+  "model": "glm-5.3"
+}

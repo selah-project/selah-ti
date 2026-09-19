@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "መልኣኽ ኤሎሂም ድማ በሎ፦ «ንስኻ ⟨את⟩ እቲ በሽሳን ⟨את⟩ በዚ እቲ ማጹኦትን ውሰድ፣ ኣብ እቲ ዓልቦ እዚ ኣንሥቦም፣ ⟨את⟩ እቲ ማርቓኽ ድማ ኣፍስሶ።» ንሱ ድማ ከምኡ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ነበለዮ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "መልኣኽ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ውሰድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ በሽሳ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "እቲ በሽሳ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "በዚ እቲ ማጹኦት"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "እቲ ማጹኦት"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "ኣንሥቦም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "እቲ ዓልቦ"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ማርቓኽ"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "እቲ ማርቓኽ"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "ኣፍስሶ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:40:17.701574947Z",
+  "model": "glm-5.3"
+}

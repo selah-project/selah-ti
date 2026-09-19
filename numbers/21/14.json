@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 21:14",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ስለዚ ኣብ መጽሓፍ ውግኣት ያህዌህ ይትባሃል፦ ⟨את⟩ ዋሔብ ኣብ ሱፋ፣ ⟨את⟩ ቈላታት ኣርኖን።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ይትባሃል"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "ኣብ መጽሓፍ"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "ውግኣት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዋሔብ"
+    },
+    {
+      "surface": "והב",
+      "gloss": "ዋሔብ"
+    },
+    {
+      "surface": "בסופה",
+      "gloss": "ኣብ ሱፋ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቈላታት ኣርኖን"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "ቈላታት"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "ኣርኖን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:29:31.276354914Z",
+  "model": "glm-5.3"
+}

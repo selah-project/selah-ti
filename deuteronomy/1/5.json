@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣብ ምልሲ ዮርዳኖስ ኣብ ምድሪ ሞኣብ ሞሸ ⟨את⟩ תורה እዚታ — ⟨את⟩ ቶራ እዚታ ንምብርሃት ጀመረ ኢሉ ከምዚ በለ።",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "ኣብ ምልሲ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "ተዓጸወ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ንምብርሃት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ቶራ እዚታ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ነቲ ቶራ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚታ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ ከምዚ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:46:05.435256133Z",
+  "model": "glm-5.3"
+}

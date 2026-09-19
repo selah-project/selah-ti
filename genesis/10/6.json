@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ውላድ ካም ድማ ኩሽ፣ ሚጽራይም፣ ፑጥን ከምኡውን ከነዓን እዮም።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ውላድ … ድማ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ካም"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ኩሽ"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "ፑጥ"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "ከነዓን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:35:14.082730413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 5:24",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ንሱ ድማ ናብቲ ከረባ በጺሑ ካብ ኢዶም ወሲዱ ኣብ ቤት ኣቐሚጡ፣ ተባዕቲ ሰባት ⟨את⟩ ሰደኣዮም፣ ንሶም ድማ ኰዶም።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "በጺሑ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "ከረባ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ካብ ኢዶም"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ኣቐሚጡ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደኣዮም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተባዕቲ ሰባት"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ተባዕቲ ሰባት"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ኰዶም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:17:03.155120974Z",
+  "model": "glm-5.3"
+}

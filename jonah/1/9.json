@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ንኣቶም ተዛረበ፦ ዕብርያዊ እየ፣ ን⟨את⟩ ያህዌህ ኤሎሂም ናይ ሰማያት ኣነ እፈርሕ እየ፣ እቲ ⟨את⟩ ማይን ⟨את⟩ ምድሪ ደረቕላትን זምገበረ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ንኣቶም"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ዕብርያዊ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እየ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ናይ ሰማያት"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "እፈርሕ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማይ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ምድሪ ደረቕላት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:22:15.811443909Z",
+  "model": "glm-5.3"
+}

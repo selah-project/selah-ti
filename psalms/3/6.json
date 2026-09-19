@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣነ ተቐመጥኩ፣ ተዓሸይኩ፣ ተሓረምኩ — ስለ ያህዌህ ይደግመኒ እዩ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "ተቐመጥኩ"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "ተዓሸይኩ"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "ተሓረምኩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "ይደግመኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:40.631515683Z",
+  "model": "glm-5.3"
+}

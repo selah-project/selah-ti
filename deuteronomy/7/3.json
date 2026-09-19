@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ምሳቶም ግናን ኣይትሳርዑን፤ ናይ ዓቢኻ ሓደ ንወዱ ኣይትሃቦን፣ ዓቢኻይት ከኣ ንወድኻ ኣይትወስደን።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "ትግበር ግናን ኣይትሳርዑን"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ምሳቶም"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "ናይ ዓቢኻ ሓደ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ኣይትሃቦን"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ንወዱ"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "ዓቢኻይት ከኣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ኣይትወስደን"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "ንወድኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:50:17.548515200Z",
+  "model": "glm-5.3"
+}

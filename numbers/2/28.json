@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 2:28",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሰራዊቱን ቁጽሮምን ሓደን ርብዓትን ሽሕ ህሙሽተ ምዕቲ እዩ።",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ሰራዊቱ"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ቁጽሮም"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ርብዓት"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ህሙሽተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ምዕቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:12:35.445921294Z",
+  "model": "glm-5.3"
+}

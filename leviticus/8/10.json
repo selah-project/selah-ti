@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ሞሸ ድማ ናይ ምብርሕ ዓይኒ ወሲዱ፣ ነቲ ማሕደር ⟨את⟩ በርሓዩ፣ ከምኡውን ⟨את⟩ ኩሉ እቲ ኣብ ውሽጡ ዘሎ ⟨את⟩ በርሓዩ፣ ድማ ቐደሶም።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓይኒ ምብርሕ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዓይኒ"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ናይ ምብርሕ"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "በርሓዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ማሕደር"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "እቲ ማሕደር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እቲ ኣብ ውሽጡ ዘሎ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዘሎ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብ ውሽጡ"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ቐደሶም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:52:17.571465315Z",
+  "model": "glm-5.3"
+}

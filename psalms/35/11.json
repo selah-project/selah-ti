@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ሰማዕቲ ብዓቕመ ኢሎም ክቕመጡ፤ እትዮ ዘይፈልጥኩ ይሕቱቱኒ።",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "ክቕመጡ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ሰማዕቲ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ብዓቕመ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እትዮ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይ-"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ፈልጥኩ"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "ይሕቱቱኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:21.181422717Z",
+  "model": "glm-5.3"
+}

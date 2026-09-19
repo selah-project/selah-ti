@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 44:11",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ኣሎ — ኩሉ ተማእለሉ ኪሕፉሩ እዮም፤ እቶም ሰራሕቲ ካብ ሰብ እዮም፤ ኩሎም ኪተኣኻኽቡ፣ ኪቐርቡ፣ ኪፈርሁ፣ ብጽምጽም ኪሕፉሩ እዮም።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "חבריו",
+      "gloss": "ተማእለሉ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ኪሕፉሩ"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "እቶም ሰራሕቲ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እዮም"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ካብ ሰብ"
+    },
+    {
+      "surface": "יתקבצו",
+      "gloss": "ኪተኣኻኽቡ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ኪቐርቡ"
+    },
+    {
+      "surface": "יפחדו",
+      "gloss": "ኪፈርሁ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ኪሕፉሩ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ብጽምጽም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:12:37.097793883Z",
+  "model": "glm-5.3"
+}

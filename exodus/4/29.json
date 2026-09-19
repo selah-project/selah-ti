@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ሞሸን ኣሃሮንን ከዱ፣ ኩሉ ሽመጻልተ ውላድ እስራኤል ⟨את⟩ ኣካኸቡ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ከዱ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ኣሃሮንን"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ኣካኸቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ሽመጻልተ ውላድ እስራኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ሽመጻልተ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T21:13:39.683661099Z",
+  "model": "glm-5.3"
+}

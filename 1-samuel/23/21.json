@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ሻኡል ድማ «ንስኻትኩም ብያህዌህ ዝተባርኽኩም እኹም፣ ምኽንያቱ ነይ ራሕያኒ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "ዝተባርኽኩም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ንስኻትኩም"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ብያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "ራሕያኒ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ነይ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:14:36.486244244Z",
+  "model": "glm-5.3"
+}

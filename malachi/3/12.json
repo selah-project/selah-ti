@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኩሉ ኣህዛብ ⟨את⟩ ንስኻትኩም ብጽዑት ኪጽዋዑልኩም፣ ምኽንያቱ ንስኻትኩም ምድሪ ምትሓት ትከውኑ፣ በለ ያህዌህ ጸባኦት።",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "ብጽዑት ኪጽዋዑልኩም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንስኻትኩም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ትከውኑ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ንስኻትኩም"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ምትሓት"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:43:13.767860263Z",
+  "model": "glm-5.3"
+}

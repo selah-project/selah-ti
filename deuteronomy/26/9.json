@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ናብዚ ቦታ ኣትወና፣ ነዓና ድማ ⟨את⟩ እታ ምድሪ እዚኣ — ምድሪ ወተሪን ሓሊብን ዝፈስስ — ሃቈና።",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "ኣትወና"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "እቲ ቦታ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሃቈ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ነዓና"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ምድሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እታ ምድሪ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚኣ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ዝፈስስ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ወተሪ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ሓሊብን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:05:31.450868275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ይሽዑዕ ድማ ⟨את⟩ ዮይቅም ወለደ፤ ዮይቅም ድማ ⟨את⟩ ኤልያሽዕብ ወለደ፤ ኤልያሽዕብ ድማ ⟨את⟩ ዮይድዕ።",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "ይሽዑዕ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮይቅም"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "ዮይቅም"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "ዮይቅም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤልያሽዕብ"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "ኤልያሽዕብ"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "ኤልያሽዕብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮይድዕ"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "ዮይድዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:23:44.901286784Z",
+  "model": "glm-5.3"
+}

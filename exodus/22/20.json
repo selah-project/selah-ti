@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ንኣረማጽን ኣይትገፅፆን፣ ኣይትጽቆጦን፤ እሞ ኣብ ምድሪ ሚጽራይም ኣረማጽን ነይርኩም።",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "ንኣረማጽን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "ትገፅፆ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "ትጽቆጦ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "ኣረማጽን"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ነይርኩም"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:28:48.238465494Z",
+  "model": "glm-5.3"
+}

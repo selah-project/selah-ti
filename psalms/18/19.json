@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ኣብ መዓልቲ መከራይ ቅድሚ ኰኑኒ፣ ያህዌህ ድማ መስተጋብረይ ኮይኑ።",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "ቅድሚ ኰኑኒ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "መከራይ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "መስተጋብረይ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:52.604339689Z",
+  "model": "glm-5.3"
+}

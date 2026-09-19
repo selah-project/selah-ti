@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ኩሉ ስሙሕ ልቢ ካብ ኣኻትኩም ክመጽእ፣ ነቲ ⟨את⟩ ኩሉ ዝኣዘዘ ያህዌህ ከኣ ይገብር።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ስሙሕ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ካብ ኣኻትኩም"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ይመጽእ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ይገብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ዝኣዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:38:10.027245213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 55,
+  "translation": "ካብ ንፋሲ ዝነፍስ፣ ካብ ዓውዓይ እንግዲህ ናብ ምህዳረይ ክሃድም እየ።",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "ክሃድም እየ"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "ምህዳረይ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንበ"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "ካብ ንፋሲ"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "ዝነፍስ"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "ካብ ዓውዓይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:47.276413607Z",
+  "model": "glm-5.3"
+}

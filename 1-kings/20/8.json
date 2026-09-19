@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኩሎም እቶም ሽማግለን ኩሉ ህዝቢን ነቶም ንሱ «ኣይሰምዕ፣ ኣይትደልን።» በሎመ።",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "በሎመ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "እቶም ሽማግለ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ንኣኻ ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ሰምዕ"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "ኣይትደልን"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "ተደልን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:07:46.442858241Z",
+  "model": "glm-5.3"
+}

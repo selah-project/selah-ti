@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 102,
+  "translation": "ንስኻ ግና ያህዌህ ንዘለኣለም ተቐምጥካ ኣለኻ፣ ትዝክትኻ ንውልቂ ውልቂ ይጸንሕ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ግና"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ንዘለኣለም"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ተቐምጥካ ኣለኻ"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "ትዝክትኻን"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ንውልቂ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ውልቂን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:05.247766487Z",
+  "model": "glm-5.3"
+}

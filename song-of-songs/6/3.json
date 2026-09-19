@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኣነ ናይ እቲ ዓመድይ እየ፣ ከምኡውን እቲ ዓመድይ ናይነ እዩ፤ ኣብ እተን ሾሻናት እቲ ዘላሲ በይኑ እዩ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "ናይ እቲ ዓመድይ"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "ከምኡውን እቲ ዓመድይ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ናይነ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "እቲ ዘላሲ"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "ኣብ እተን ሾሻናት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:28:15.514699880Z",
+  "model": "glm-5.3"
+}

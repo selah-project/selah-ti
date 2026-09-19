@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 102,
+  "translation": "ንሳቶም ይጠፍኡ፣ ንስኻ ግን ትኹርም፤ ኩሎም ከም ልብሲ ይሸምጡ፤ ከም ኣልባስ ትቕይሮም፣ ንሳቶም ድማ ይቕየሩ።",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ይጠፍኡ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ግን"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ትኹርም"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "ከም ልብሲ"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "ይሸምጡ"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "ከም ኣልባስ"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "ትቕይሮም"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "ይቕየሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:21.346419411Z",
+  "model": "glm-5.3"
+}

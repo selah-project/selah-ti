@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ከምኡ ድማ ቃል ያህዌህ ብኢድ ሓጌ ነብዪ እናበለ መጸ፦",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ከምኡ ድማ መጸ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "ሓጌ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነብዪ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:32:28.132823166Z",
+  "model": "glm-5.3"
+}

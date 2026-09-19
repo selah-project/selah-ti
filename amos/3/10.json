@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ንሕቲ ኩነታት ቅኑድ ንምግባር ኣይፈልጡን፡ ናይ ያህዌህ፤ ዓመጽን ስርቆትን ኣብ ኣርሞናቶም ዝዕትኡ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ንሕቲ ኣይ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ፈልጡ"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ንገብር"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "ቅኑድ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "ዝዕትኡ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ዓመጽ"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "ስርቆትን"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "ኣብ ኣርሞናቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:14:12.603357378Z",
+  "model": "glm-5.3"
+}

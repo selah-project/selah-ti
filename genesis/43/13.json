@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "ወዲ እሞ ⟨את⟩ ኣሕዋትኩም ውሰዱ፣ ተንበርኩሱ ናብ እቲ ᡨሰብ ተመለሱ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሕዋትኩም"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ኣሕዋትኩም"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ውሰዱ"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "ተንበርኩሱ"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "ተመለሱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:05:03.764555908Z",
+  "model": "glm-5.3"
+}

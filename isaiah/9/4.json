@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 9:4",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ምኽንያቱ ኩሉ ጭማቂ ብጭራቕ ዝተጻኒዑ ማለት ዝሓበከ ኮይኑ፣ ልሳን ድማ ብደም ዝተቐንጠለት፣ ንስንኹ ንሽዑ ኮይና ብሓዊ እትብላዕ ተወዲኣ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "סאון",
+      "gloss": "ጭማቂ"
+    },
+    {
+      "surface": "סאן",
+      "gloss": "ዝተጻኒዑ"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "ብጭራቕ"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "ልሳንን"
+    },
+    {
+      "surface": "מגוללה",
+      "gloss": "ዝተቐንጠለት"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "ብደም"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ተወዲኣ"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "ንስንኹ"
+    },
+    {
+      "surface": "מאכלת",
+      "gloss": "እትብላዕ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ብሓዊ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:46:40.802225282Z",
+  "model": "glm-5.3"
+}

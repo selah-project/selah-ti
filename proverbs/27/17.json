@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ብረት ብብረት ይሕራድ፣ ሰብ እውን ንገጽ ሓዋሩ ይሕራድ።",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "ብረት"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "ብብረት"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ይሕራድ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ሰብ እውን"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ይሕራድ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ንገጽ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ሓዋሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:58:16.858850459Z",
+  "model": "glm-5.3"
+}

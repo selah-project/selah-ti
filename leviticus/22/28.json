@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ወይ'ሞ ጎውዓ ወይ ተልሒ ⟨את⟩ ንሱን ⟨את⟩ ወዲኡን ኣብ ሓደ መዓልቲ ኣይትቐትሉን።",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "ወይ'ሞ ጎውዓ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ተልሒ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱ (እቲ እንስሳ)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወዲኡ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "ትቐትሉን"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:22.472299678Z",
+  "model": "glm-5.3"
+}

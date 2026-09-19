@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 63,
+  "translation": "መዝሙር ናይ ዳዊድ፣ ኣብ ዝነበረሉ ኣብ በረኻ ይሁዳ።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "ኣብ ዝነበረሉ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ በረኻ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:42.923710465Z",
+  "model": "glm-5.3"
+}

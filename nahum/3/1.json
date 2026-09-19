@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ወይ ንከተማ ደም፣ ኩላ ሓሶትን ብዓቢ ውሽጣትን ምላእቲ፣ ነፍሲ ወከፍ ትሕቲ ተማዕበልቲ ኣይትርሕቖን።",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ንከተማ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ኩላ"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ብዓቢ ውሽጣት"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ምላእቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "ትሕቲ ተማዕበልቲ ኣይትርሕቖን"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ነፍሲ ወከፍ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:26:44.164234596Z",
+  "model": "glm-5.3"
+}

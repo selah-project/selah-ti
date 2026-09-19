@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ፓርዖ ድማ ⟨את⟩ መኪራቱ ዓጠቀ፣ ⟨את⟩ ህዝቡ ድማ ምስኡ ወሲዱ።",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "ዓጠቀ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መኪራቱ"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "መኪራቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ህዝቡ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ህዝቡ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:20:03.051397555Z",
+  "model": "glm-5.3"
+}

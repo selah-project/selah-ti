@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ሕጂ ሃ፣ ኣዶናይሃ ንጉስ ኮይኑ እዩ፤ ሕጂ ድማ ጎይታይ እቲ ንጉስ ኣይፈልጥካን ኢኻ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ሃ"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "ኣዶናይሃ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ ኮይኑ እዩ"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ ድማ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጎይታይ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ፈልጥካ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:45:09.976134975Z",
+  "model": "glm-5.3"
+}

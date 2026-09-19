@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "እስተውድበኻ ኣለኹ፣ ኣመሃረኻ እውን ኣለኹ፣ ኣብ እቲ መገዲ እትኸይድ እትኾኖ፤ ዓይነይ ብዛዕብኻ ምክር እየ እትህበኻ።",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "እስተውድበኻ"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "ኣመሃረኻ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መገዲ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "እትኸይድ"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "ምክር እየ እትህበኻ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ብዛዕብኻ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይነይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:44.007093822Z",
+  "model": "glm-5.3"
+}

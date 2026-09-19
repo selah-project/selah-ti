@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ብምስክርትኻ ተሰሪጠ፤ ያህዌህ ሆ፣ ኣይሓሸበኒን።",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "ተሰሪጠ"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "ብምስክርትኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "ሓሸበኒን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:31.023942077Z",
+  "model": "glm-5.3"
+}

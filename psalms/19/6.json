@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 19:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ንሱ ድማ ከም ወዲ ውላድ ካብ ቤቱ ውጺኡ፣ ከም ጎበዝ ንምግሃስ ጎደና ደስ ይብል እዩ።",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ ድማ"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "ከም ወዲ ውላድ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ውጺኡ"
+    },
+    {
+      "surface": "מחפתו",
+      "gloss": "ካብ ቤቱ"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "ደስ ይብል"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "ከም ጎበዝ"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "ንምግሃስ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ጎደና"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:37.187395999Z",
+  "model": "glm-5.3"
+}

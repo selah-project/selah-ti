@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 17:18",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ድማ ⟨את⟩ ስም ኣሃሮን ኣብ ስራዊ ሌዊ ተጻሕፎ፣ ምኽንያቱ ሓደ ስራዊ ንስዓም ዓቢ ስድራቶም እዩ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስም ኣሃሮን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "ተጻሕፎ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ስራዊ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ሌዊ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ስራዊ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "ንስዓም"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ስድራቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:27:36.748152175Z",
+  "model": "glm-5.3"
+}

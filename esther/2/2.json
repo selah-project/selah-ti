@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣገልጋሊ እቲ ንጉሥ፣ ኣገልገልቱ፣ በሉ፦ «ንእቲ ንጉሥ ንእሽተታት ድንግላት ብጽቡኣት ምስሊ ይደልያ።»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ኣገልጋሊ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉሥ"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "ኣገልገልቱ"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "ይደልያ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ንእቲ ንጉሥ"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "ንእሽተታት"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "ድንግላት"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "ብጽቡኣት"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ምስሊ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:47:38.326923687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ኣቦ ናይ ውልቃውትን ዳኛ ናይ ሃብተኛታትን፣ ኤሎሂም ኣብ ቅዱስ ማሕደሩ ⟨እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "ውልቃውት"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "ዳኛ"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "ሃብተኛታት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "ኣብ ማሕደሩ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:18.960505429Z",
+  "model": "glm-5.3"
+}

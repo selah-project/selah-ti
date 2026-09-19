@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 135,
+  "translation": "እቲ ኣብኣይ ብኮርታት ሚጽራይም — ካብ ሰብ ክሳብ እንስሳ — ዝሓተተ።",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "እቲ ዝሓተተ"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "ብኮርታት"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ካብ ሰብ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "እንስሳ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:42.666117052Z",
+  "model": "glm-5.3"
+}

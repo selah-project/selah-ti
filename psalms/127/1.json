@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 127,
+  "translation": "መዝሙር ናይ ዓለቓት፣ ናይ ሽሎሞ። ያህዌህ ቤት ኣይብንጾን እንተ ዝኾነ፣ ሃናጺቱ ብባዕሉ ተጓዕዮም ኣብኡ፤ ያህዌህ ከተር ኣይክልከልን እንተ ዝኾነ፣ ሸማኢ ብባዕሉ ተራኸበ።",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ናይ ዓለቓት"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ናይ ሽሎሞ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ኣይብንጾን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ብባዕሉ"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ተጓዕዮም"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "ሃናጺቱ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ኣይክልከልን"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተር"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ብባዕሉ"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "ተራኸበ"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ሸማኢ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:03.606773866Z",
+  "model": "glm-5.3"
+}

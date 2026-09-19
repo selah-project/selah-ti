@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ኣነ ግና ድሃን ጎረምሳን እየ፤ ኣዶናይ ንዓና ይሕሰበኒ፤ ሓገዘተይን ኣውጽአይን ንስኻ ኢኻ፤ ኤሎሃይ፣ ኣይተወድን።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ግና"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ድሃ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ጎረምሳን"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ይሕሰበኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓና"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "ሓገዘተይ"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ኣውጽአይን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ ኢኻ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሃይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "ተወድን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:01.387361180Z",
+  "model": "glm-5.3"
+}

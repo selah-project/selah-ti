@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኤሎሂም በሎ፦ «ራቕዓ ኣብ ማእከል ኩነና ማይ ክኸውን፣ ብመንጎ ማይን ማይን ክፈልብ እዩ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ክኸውን"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "ራቕዓ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ ማእከል"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ኩነና ማይ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ክኸውን"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "ክፈልብ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ብመንጎ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ንማይ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:30:43.100209630Z",
+  "model": "glm-5.3"
+}

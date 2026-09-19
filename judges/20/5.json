@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 20:5",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኣባይቲ ገባዕ ንዓይ ተቓልሱ፣ ኣብ ለይቲ ነቲ ቤት ኣኅበሩኒ፤ ንዓይ ንምቕተል ሓሰቡ፣ ነቲ ⟨את⟩ ፍልጻይ ድማ ሓመይዎ፣ ኮይና ሞተት።",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ተቓልሱ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "ኣባይቲ"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "ገባዕ"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "ኣኅበሩኒ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ነቲ ቤት"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ኣብ ለይቲ"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ንዓይ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ሓሰቡ"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "ንምቕተል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ፍልጻይ"
+    },
+    {
+      "surface": "פילגשי",
+      "gloss": "ነቲ ፍልጻይ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ሓመይዎ"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "ሞተት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:53:08.570552825Z",
+  "model": "glm-5.3"
+}

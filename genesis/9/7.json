@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ንስኩም ድማ ኣፈሩን ብዙሑን፣ ኣብ ምድሪ እንስርኹሉን፣ ኣብኣ እውን ብዙሑን።",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ንስኩም ድማ"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "ኣፈሩን"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ብዙሑን"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "እንስርኹሉን"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ብዙሑን"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:33:49.279590561Z",
+  "model": "glm-5.3"
+}

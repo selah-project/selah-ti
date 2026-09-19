@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ቐርቡ ውላደይ፣ ንኣነ ሰምዑ፣ ፍርሐት ያህዌህ ኣሕብኣኹም።",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ቐርቡ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ውላደይ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ሰምዑ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ፍርሐት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "ኣሕብኣኹም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:25.928543022Z",
+  "model": "glm-5.3"
+}

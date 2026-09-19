@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "መዝሙር፣ ትምህርቲ መዛሙር ናይ ውላድ ቓሕ።",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ትምህርቲ መዛሙር"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ናይ ውላድ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ቓሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:00:02.363929132Z",
+  "model": "glm-5.3"
+}

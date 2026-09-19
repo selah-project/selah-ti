@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ኣልዑፍ ቅናዝ፣ ኣልዑፍ ትይማን፣ ኣልዑፍ ምባጻር።",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ኣልዑፍ"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "ቅናዝ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ኣልዑፍ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "ትይማን"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ኣልዑፍ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ምባጻር"
+    }
+  ],
+  "timestamp": "2026-09-18T20:56:22.884237926Z",
+  "model": "glm-5.3"
+}

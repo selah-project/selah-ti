@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ካህን ድማ ⟨אתם⟩ ምስ ዳብ በኮራት ብውፈያ ምዝዋዝ ቅድሚ ያህዌህን ምስ ክልተ በጊላትን ይዝውዖ፤ ንያህዌህ ቅዱሳት ንካህን ክኾኑ።",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "ይዝውዖ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "እቶም ክልተ በጊላትን እቲ ዳብ በኮራትን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳብ"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "እቲ በኮራት"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "ውፈያ ምዝዋዝ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "በጊላት"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ክኾኑ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ንካህን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:06:35.643000720Z",
+  "model": "glm-5.3"
+}

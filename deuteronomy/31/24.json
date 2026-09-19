@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ሞሸ ⟨את⟩ ቃላት እቲ ቶራ እዚኣ ኣብ መጽሓፍ እናጸሓፎ ምስ ኰነ፣ ክሳብ ምውዳኦም ኰነ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኰነ"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "ምስ ኰነ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "እናጸሓፎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላት"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "እቲ ቶራ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚኣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "መጽሓፍ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ምውዳኦም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:14:02.022072450Z",
+  "model": "glm-5.3"
+}

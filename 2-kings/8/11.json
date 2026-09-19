@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ን⟨את⟩ ገጹ ኣዕሚዑ ገበረ፣ ክሳብ ዝሓፈረ፣ ሰብ ኤሎሂም ድማ በከየ።",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ኣዕሚዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገጹ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ገጹ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "בש",
+      "gloss": "ዝሓፈረ"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "በከየ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:22:11.808455201Z",
+  "model": "glm-5.3"
+}

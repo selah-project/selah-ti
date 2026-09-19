@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ምስ ኣቦታትና ኣይኮነን ያህዌህ ⟨את⟩ እዚ ኪዳን እዚ ዝቐረጸሉ፣ እምበር ምስና — ንሕና እዚኦም ኣብዚ ሎሚ ኩሎምና ህያዋት ዝኾናና ኢና።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ምስ",
+      "marks": "ኣቦታትና"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ኣቦታትና"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ቐረጸ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እዚ ኪዳን"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እምበር"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "ምስና ⟨את⟩"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ኣብዚ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "ኩሎምና"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ህያዋት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:48:31.874096302Z",
+  "model": "glm-5.3"
+}

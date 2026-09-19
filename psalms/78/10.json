@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ኪዳን ኤሎሂም ኣይሓለዉን፣ ኣብ ቶራኡ ንኽድኑ ድማ ተኣንቐበሉ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይን"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ሓለዉ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "ኣብ ቶራኡ ድማ"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ተኣንቐበሉ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ንኽድኑ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:35.716344232Z",
+  "model": "glm-5.3"
+}

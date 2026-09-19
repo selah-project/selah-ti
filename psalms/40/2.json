@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ብምጽናዕ ዘጽነዓይ ብያህዌህ እየ፣ ንሱ ድማ ናባይ ኣንቢኑ ቅርዪ ሰምዐ።",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "ብምጽናዕ"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ዘጽነዓይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ኣንቢኑ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ናባይ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ቅርዪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:38.452862145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ወጣብ መገዱ ብእንታይ ክንጽሕፍ ይኽእል? ⟨את⟩ መገዱ ብቃልካ ክትሓልዎ እዩ።",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "ብእንታይ"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "ክንጽሕፍ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ወጣብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መገዱ"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "መገዱ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ክትሓልዎ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ብቃልካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:46.664959886Z",
+  "model": "glm-5.3"
+}

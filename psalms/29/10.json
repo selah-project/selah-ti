@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ያህዌህ ኣብ ማዕበል ተቐመጠ፤ ያህዌህ ድማ ንጉስ ንዘለኣለም ይነግሥ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "ኣብ ማዕበል"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ይነግሥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ንዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:08.250667573Z",
+  "model": "glm-5.3"
+}

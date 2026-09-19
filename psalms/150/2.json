@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 150,
+  "translation": "ኣመስግኑዎ ኣብ ጀግንነታቱ፣ ኣመስግኑዎ ከም ብዙሕነት ዓብይነቱ።",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ኣመስግኑዎ"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "ኣብ ጀግንነታቱ"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ኣመስግኑዎ"
+    },
+    {
+      "surface": "ᛨרב",
+      "gloss": "ከም ብዙሕነት"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ዓብይነቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:38:41.394966037Z",
+  "model": "glm-5.3"
+}

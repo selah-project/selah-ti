@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 11:5",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "«ኣገርጋር መን ይሃብ ኤሎሃ ብዛዕባ ክተዛረብ፣ ከምኡውን ንኣኽሊልቱ ምስኻ ክጽፍት፧»",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ኣገርጋር"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይሃብ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ኤሎሃ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ክተዛረብ"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ከምኡውን ክጽፍት"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ንኣኽሊልቱ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:09:13.700829942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 146,
+  "translation": "ዝገበረ ሰማያትን ምድርን፣ ⟨את⟩ ባሕሪን ⟨את⟩ ኩሉ ዝኣቱዎምን፣ ኣማንነት ናብ ዘለኣለም ዝዕቅብ።",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበረ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ባሕሪ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ዝኣቱዎም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ኣብ እቶም"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "ዝዕቅብ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ኣማንነት"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:19.780087992Z",
+  "model": "glm-5.3"
+}

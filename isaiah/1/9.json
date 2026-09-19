@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 1:9",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ያህዌህ ጸባኦት ብዙሕ ተሪፉ እንተ ዘይነይርልና፣ ከም ስዶም ኮይና ነይርና ነይርና፣ ከም ዓሞራ ተመሳሊና ነይርና።",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "እንተ ዘይነይርልና"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "ተሪፉ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "ተረፍቲ"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "כסדם",
+      "gloss": "ከም ስዶም"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ኮይና ነይርና"
+    },
+    {
+      "surface": "לעמרה",
+      "gloss": "ከም ዓሞራ"
+    },
+    {
+      "surface": "דמינו",
+      "gloss": "ተመሳሊና ነይርና"
+    }
+  ],
+  "timestamp": "2026-09-19T01:39:08.899342340Z",
+  "model": "glm-5.3"
+}

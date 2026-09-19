@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ቕጽና ናይ ነኒወ — መጽሓፍ ራእይ ናይ ንሑም ኤልቅሽ።",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ቕጽና"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ነኒወ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "መጽሓፍ"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "ራእይ"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "ንሑም"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "ኤልቅሽ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:27:38.936078498Z",
+  "model": "glm-5.3"
+}

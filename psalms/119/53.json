@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ቍጥዕ ዐዲዱ ኣብ ልዕለይ ስለ እቶም ቶራኻ ዝሓዱሉ ሓጢያት።",
+  "tokens": [
+    {
+      "surface": "זלעפה",
+      "gloss": "ቍጥዕ"
+    },
+    {
+      "surface": "אחזתני",
+      "gloss": "ዐዲዱ ኣብ ልዕለይ"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "ስለ እቶም ሓጢያት"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "ዝሓዱሉ"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ቶራኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:24.803279711Z",
+  "model": "glm-5.3"
+}

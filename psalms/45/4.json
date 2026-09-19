@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "ሓያል ሆይ፣ ሰይፊኻ ኣብ ኣኽሊልኻ ኣስሮ፤ ብክብሪኻን ብግርምናኻን።",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "ኣስሮ"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "ሰይፊኻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ኣኽሊልኻ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ሓያል ሆይ"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ክብሪኻ"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "ግርምናኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:52.272562130Z",
+  "model": "glm-5.3"
+}

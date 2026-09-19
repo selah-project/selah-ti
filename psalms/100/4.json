@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 100,
+  "translation": "ኣብ ኣፍደገታቱ ብውዳሴ ኣቱኹም፣ ኣብ ሓደሮታቱ ብመስገን፤ ኣመስግኑዎ፣ ስሙን ባረኽዉ።",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "ኣቱኹም"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "ኣፍደገታቱ"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ብውዳሴ"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "ሓደሮታቱ"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "ብመስገን"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ኣመስግኑ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ዎ"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ባረኽዉ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:01.492003364Z",
+  "model": "glm-5.3"
+}

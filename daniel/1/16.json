@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኰይኑ እቲ መልማጊ ⟨את⟩ ምግቦምን ዓዊን መስተዮምን ወሲዱ፣ ንኣቶም ድማ ኣትክልቲ ሃቦም።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኰይኑ"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "እቲ መልማጊ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምግቦም"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "ምግቦም"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ዓዊን"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "መስተዮም"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንኣቶም"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "ኣትክልቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:49:49.539087305Z",
+  "model": "glm-5.3"
+}

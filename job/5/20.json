@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣብ ጥሜት ካብ ሞት የድሕነካ፤ ኣብ ምሃዛ ድማ ካብ ኢድ ሰይፍ።",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "ኣብ ጥሜት"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "የድሕነካ"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ካብ ሞት"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "ኣብ ምሃዛ"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:05:59.318671255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ሓሻብያን ⟨את⟩ ምስ ኢሳይያን ካብ ውላድ ምራሪ ኣሕዋቱን ውላዲሆምን ዓሰርተ ኬምሳዕ ኣእቶም።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሓሻብያ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ሓሻብያ"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ ምስኡ",
+      "marks": "ኢሳይያ"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "ኢሳይያ"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ካብ ውላድ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ምራሪ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ኣሕዋቱ"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "ውላዲሆምን"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዓሰርተ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:13:32.530644478Z",
+  "model": "glm-5.3"
+}

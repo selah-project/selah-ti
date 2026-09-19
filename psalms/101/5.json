@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 101,
+  "translation": "ኣብ ምስጢር ኣልላይ ዝወፍኖ ንሱ ክጠፍኖ እየ፤ ዓቢ ኣይንቲን ስፍሕ ልብን ዝኾነ ግን ኣይኽእሎን እየ።",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "ዝወፍኖ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ኣብ ምስጢር"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ኣልላይ"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ዝወፍኖ"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "ክጠፍኖ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ኣይንቲ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ስፍሕን"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ዓቢ ኣይንቲን ስፍሕ ልብን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ኽእልን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:22:37.127009775Z",
+  "model": "glm-5.3"
+}

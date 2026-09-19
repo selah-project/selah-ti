@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ጽቡኽ ስም ካብ ጽቡኽ ዘት ደሊሱ እዩ፤ እቲ ቐንዲ ሞት ካብቲ ቐንዲ ምውላድኦ ደሊሱ እዩ።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡኽ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ካብ ዘት"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡኽ"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ንቐንዲ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ካብ ቐንዲ"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "ምውላድኦ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:42:54.051358999Z",
+  "model": "glm-5.3"
+}

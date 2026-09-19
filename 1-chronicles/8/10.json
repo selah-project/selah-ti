@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "⟨את⟩ የዑጽን ⟨את⟩ ሳኪያን ⟨את⟩ ሚርማን፤ እዚኦም ውላዱ ርእሲ ኣቦታት እዮም።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የዑጽ"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "የዑጽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሳኪያ"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "ሳኪያ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሚርማ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ሚርማ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ኣቦታት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:33:34.054777503Z",
+  "model": "glm-5.3"
+}

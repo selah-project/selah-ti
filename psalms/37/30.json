@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ኣፍ ብጻይ ብጥምቒ ስብር ይህግው፣ ቐሊኑ ድማ ፍትሕ ትዛረብ።",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ኣፍ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ብጻይ"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ይህግዉ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ስብር"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ቐሊኑ ድማ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ትዛረብ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍትሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:55:16.028708461Z",
+  "model": "glm-5.3"
+}

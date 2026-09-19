@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣጸዳ ዓመ ይበልዑ፣ ነፍሶም ናብ ሓጢኣቶም የቕንሕዋ።",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "ኣጸዳ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ዓመ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ይበልዑ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ሓጢኣቶም"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "የቕንሕዋ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሶም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:06:39.931283942Z",
+  "model": "glm-5.3"
+}

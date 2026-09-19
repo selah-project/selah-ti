@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 33:3",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ንሱ ድማ ቅድሚኦም ሰጊሩ ናብ ምድሪ ሸውዓተ ግዜ ተሰገደ፣ ክሳብ ምቕራቡ፣ ክሳብ ኣሕዋኡ።",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ ድማ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ሰጊሩ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ቅድሚኦም"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ተሰገደ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ናብ ምድሪ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ግዜ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "גשתו",
+      "gloss": "ምቕራቡ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ኣሕዋኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:54:13.793442997Z",
+  "model": "glm-5.3"
+}

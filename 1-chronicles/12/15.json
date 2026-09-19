@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "እዚኦም ካብ ውላድ ጋድ ርእሲታት ሰራዊት እዮም፤ ሓደ ንሚእቲ እቲ ንእሽቶ፣ እቲ ዓቢ ድማ ንሽሕ።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ካብ ውላድ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ርእሲታት"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ናይ ሰራዊት"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "ንሚእቲ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "እቲ ንእሽቶ"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "ከምኡውን እቲ ዓቢ"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ንሽሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:41:39.852140717Z",
+  "model": "glm-5.3"
+}

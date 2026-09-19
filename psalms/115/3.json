@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 115,
+  "translation": "ኤሎሂምና ድማ ኣብ ሰማያት ⟨እዩ⟩፤ እቲ ዝደለ ⟨ክሉ⟩ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "ኤሎሂምና ድማ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ኣብ ሰማያት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ክሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ዝደለ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:31.915045717Z",
+  "model": "glm-5.3"
+}

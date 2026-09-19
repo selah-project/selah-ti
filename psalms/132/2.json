@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 132,
+  "translation": "ነቲ ንያህዌህ ዝደነወ፣ ንብሓያሊ ያዕቆብ ድማ ዝበዓለ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ነቲ ዝ…"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ዝደነወ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ዝበዓለ"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "ንብሓያሊ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:13.290865916Z",
+  "model": "glm-5.3"
+}

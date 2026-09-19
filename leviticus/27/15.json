@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ኣብ እኳ እቲ ዝቐደሰ እንተ ደጊሙ ሓዊሱ ⟨את⟩ ቤቱ የልስሶ፣ ንሱ ድማ ንተወዳዳርኻ ሓሙሽተይ ክፍሊ ብር ኣብ ልዕሊኡ ይውስኽ፣ ንሱ እውን ክኸውን እዩ።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ኣብ እኳ እንተ"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "እቲ ዝቐደሰ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ሓዊሱ የልስሶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ይውስኽ"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "ሓሙሽተይ ክፍሊ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ተወዳዳርኻ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊኡ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ክኸውን እዩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ እውን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:11:38.783934105Z",
+  "model": "glm-5.3"
+}

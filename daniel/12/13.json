@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኣትን ንስኻ ናብ መወዳእታ ከድ፣ ተዓረፍ፣ ድማ ኣብ መወዳእታ መዓልታት ኣብ ዓውዲኻ ተቐምጥ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ድማ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ከድ"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "ናብ መወዳእታ"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "ተዓረፍ"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ተቐምጥ"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "ኣብ ዓውዲኻ"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "ኣብ መወዳእታ"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "መዓልታት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:03:18.583844437Z",
+  "model": "glm-5.3"
+}

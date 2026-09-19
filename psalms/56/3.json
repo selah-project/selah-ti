@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 56,
+  "translation": "ተቓወምተይ ኩሉ ⟨እቲ⟩ መዓልቲ ንዓይ ይውሕሩ፣ ምኽንቱ ብዙሓት ካብ ላዕሊ ኣብ ዝተዓለዉኒ።",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "ይውሕሩ"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "ተቓወምተይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨እቲ⟩ መዓልቲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንቱ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "ዝተዓለዉ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ኣብ ዝሓለወለይ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ካብ ላዕሊ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:08.131283214Z",
+  "model": "glm-5.3"
+}

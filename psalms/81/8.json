@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 81,
+  "translation": "ኣብ መከራ ቐረብካ ኣድሓንካኒ፤ ኣብ ምስጢር ነጢር እምልምልካ፤ ኣብ ማይ መሪባ ፈተንካ። ሴላ።",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "ኣብ መከራ"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ቐረብካ"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "ኣድሓንካኒ"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "እምልምልካ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ኣብ ምስጢር"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "ነጢር"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "ፈተንካ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "መሪባ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:26.110080276Z",
+  "model": "glm-5.3"
+}

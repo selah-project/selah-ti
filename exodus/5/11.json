@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ንስኻትኩም ኪዱ፣ ኣበይ እትረኽብዎ ኢኻትኩም ደረቕ ውሰዱ ንዓኻትኩም፤ ምኽንያቱ ካብ ጻዕርኩም ዝኾነ ነገር ኣይንነስን።",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "ንስኻትኩም"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ኪዱ"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ውሰዱ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንዓኻትኩም"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "ደረቕ"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ኣበይ እትረኽብዎ"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "እትረኽብዎ ኢኻትኩም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "ኣይንነስን"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "ካብ ጻዕርኩም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝኾነ ነገር"
+    }
+  ],
+  "timestamp": "2026-09-18T21:12:27.436936878Z",
+  "model": "glm-5.3"
+}

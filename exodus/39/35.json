@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "⟨את⟩ ታቦ ናይ ምስክርነትን ⟨את⟩ በታቱን ⟨את⟩ እቲ መቕረቢ ምሕረትን።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦ ናይ ምስክርነት"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "ታቦ"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ናይ ምስክርነት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "በታቱ"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "በታቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ መቕረቢ ምሕረት"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "እቲ መቕረቢ ምሕረት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:45:14.220851053Z",
+  "model": "glm-5.3"
+}

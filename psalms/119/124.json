@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ምስ ኣገልገልትኻ ብሔሴድኻ መልስ፤ ትእዛዛትኻ ኣሃድሰኒ።",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "መልስ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልገልትኻ"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "ብሔሴድኻ"
+    },
+    {
+      "surface": "וחקיך",
+      "gloss": "ትእዛዛትኻ"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ኣሃድሰኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:59.087694263Z",
+  "model": "glm-5.3"
+}

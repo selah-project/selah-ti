@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ፓርዖ ድማ ኣይሰምዕኩምን፤ ኣነ ድማ ⟨את⟩ ኢደይ ኣብ ሚጽራይም ኣቐምጠሉ፣ ⟨את⟩ ሰራዊተይን ⟨את⟩ ህዝበይን ውላድ ይስራኤል ብዓቢ ፍደሳት ካብ ምድሪ ሚጽራይም እዘውጽእ እየ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ኣይሰምዕኩምን"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ኩም"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ኣቐምጠሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢደይ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ኢደይ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ኣብ ሚጽራይም"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "እዘውጽእ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰራዊተይ"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "ሰራዊተይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ህዝበይ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ህዝበይ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "ብፍደሳት"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ዓቢ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:15:00.242186509Z",
+  "model": "glm-5.3"
+}

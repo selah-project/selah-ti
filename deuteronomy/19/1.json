@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ምስ ዝቐልጠ ያህዌህ ኤሎሂምካ ⟨את⟩ እቶም ኣህዛብ፣ እቶም ያህዌህ ኤሎሂምካ ዝዃብልካ ⟨את⟩ ምድሮም፣ ንሳቶም ድማ ተኺስካ ኣብ ከተማታቶምን ኣብ ኣኻታቶምን ትነውር።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምስ ዝ"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "ቐልጠ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣህዛብ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "እቶም ኣህዛብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ዝዃብልካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሮም"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ምድሮም"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ተኺስካ"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ትነውር"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "ኣብ ከተማታቶም"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "ኣብ ኣኻታቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:00:59.283428133Z",
+  "model": "glm-5.3"
+}

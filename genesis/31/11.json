@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "መልኣኽ ኤሎሂም ድማ ኣብ ሕልሚ «ያዕቆብ!» በለኒ፤ ኣነ ድማ «እንሆ ኣለኹ» በልኩ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "መልኣኽ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "ኣብ ሕልሚ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "በልኩ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እንሆ ኣለኹ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:54:12.685078701Z",
+  "model": "glm-5.3"
+}

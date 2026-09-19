@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ነቲ ⟨את⟩ ትእዛዛት ያህዌህ ኤሎሂምኩምን ነቲ ምስክርታቱን ሕግታቱን ዝኣዘዝኩም ብጥንቃቐ ክትሓሉ ተሓሉ።",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "ክትሓሉ"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "ተሓሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዛት"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ትእዛዛት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "ምስክርታቱን"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "ሕግታቱን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ዝኣዘዝኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:48:31.128502600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ምኽንያቱ ወዲ ነቲ ኣቦ ይጕድል፣ ጓል ተበጊሳ ኣደኣ፣ ጓል ኣሞታ ኣብ ኣሞታኣ፤ ተጋዳላት ሰብ፣ ሰባት ቤቱ እዮም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "ይጕድል"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ጓል"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "ተበጊሳ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ኣደኣ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ጓል ኣሞታ"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "ኣብ ኣሞታኣ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ተጋዳላት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:26:20.069859425Z",
+  "model": "glm-5.3"
+}

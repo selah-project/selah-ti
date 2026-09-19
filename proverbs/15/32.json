@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 15:32",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ዝጥሕን ትምህርቲ ነፍሱ ይጥሕን፤ እትሰምዕ ትግባራ ድማ ልቢ የብን።",
+  "tokens": [
+    {
+      "surface": "פורע",
+      "gloss": "ዝጥሕን"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ትምህርቲ"
+    },
+    {
+      "surface": "מואס",
+      "gloss": "ይጥሕን"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱ"
+    },
+    {
+      "surface": "ושומע",
+      "gloss": "እትሰምዕ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ትግባራ"
+    },
+    {
+      "surface": "קונה",
+      "gloss": "የብን"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:50:18.175353335Z",
+  "model": "glm-5.3"
+}

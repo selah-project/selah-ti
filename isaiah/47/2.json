@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 47:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 47,
+  "translation": "ዕምቢ ማዕጠን ውሰዲ፣ ዱቂት ከኣ ጥሕኒ፤ ሸምላኪ ኣወጽኢ፣ እሙን ልብሲኪ ሓፊ፣ ኣፍኪ ኣወጽኢ፣ በሃላታት ከኣ ስገሪ።",
+  "tokens": [
+    {
+      "surface": "קחי",
+      "gloss": "ውሰዲ"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "ዕምቢ ማዕጠን"
+    },
+    {
+      "surface": "וטחני",
+      "gloss": "ከኣ ጥሕኒ"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "ዱቂት"
+    },
+    {
+      "surface": "גלי",
+      "gloss": "ኣወጽኢ"
+    },
+    {
+      "surface": "צמתך",
+      "gloss": "ሸምላኪ"
+    },
+    {
+      "surface": "חשפי",
+      "gloss": "ሓፊ"
+    },
+    {
+      "surface": "שבל",
+      "gloss": "እሙን ልብሲ"
+    },
+    {
+      "surface": "גלי",
+      "gloss": "ኣወጽኢ"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ኣፍ"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ስገሪ"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "በሃላታት"
+    }
+  ],
+  "timestamp": "2026-09-19T02:15:39.435911177Z",
+  "model": "glm-5.3"
+}

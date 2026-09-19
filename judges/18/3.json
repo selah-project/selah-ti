@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 18:3",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ምስ ቤት ሚካ ምስ ዝነበሩ፣ ነቲ ⟨את⟩ ድምጺ ናይቲ ወጻዓ ሌዋይ ፈለጡ፤ ኣብኡ ተወደቡ፣ ንሉ ድማ «መን ኣእተወካ ናብዚ፧ እንታይ ትገብር ኣብዚ፧ እንታይ ኣሎካ ኣብዚ፧» በሉ።",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ሚካ"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ንሳቶም ድማ"
+    },
+    {
+      "surface": "הכירו",
+      "gloss": "ፈለጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምጺ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጺ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ናይቲ ወጻዓ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ሌዋይ"
+    },
+    {
+      "surface": "ויסורו",
+      "gloss": "ተወደቡ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሉ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "הביאך",
+      "gloss": "ኣእተወካ"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ናብዚ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ኣብዚ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ኣሎካ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ኣብዚ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:52:19.839920329Z",
+  "model": "glm-5.3"
+}

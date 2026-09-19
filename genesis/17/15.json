@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኤሎሂም ድማ ናብ ኣቭራሃም፡ «ስራይ ሰበይትካ፡ ስማ ስራይ ኣትጽውዓን፤ ምኽንያቱ ስራ ስማ እያ» በሎ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ስራይ"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "ሰበይትካ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣት"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ተጽውዓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስማ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ስማ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ስራይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ስራ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ስማ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:41:39.405714192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ረዑ ክልተን ሰለስተን ዓመታት ነይሩ፣ ንስሩግ ⟨את⟩ ወሊዱ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "ረዑ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ክልተን"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ሰለስተን"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወሊዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሩግ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "ስሩግ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:37:09.767961592Z",
+  "model": "glm-5.3"
+}

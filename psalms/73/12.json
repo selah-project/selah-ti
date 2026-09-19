@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 73,
+  "translation": "ረኣዩ፣ እዚኦም ኣጣባይ እዮም፣ ኩሉ ግዜ ምቾት ዝኾኑ ድማ ብርኪ ደጊሞም እዮም።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ረኣዩ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኣጣባይ"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "ምቾት ዝኾኑን"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ኩሉ ግዜ"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "ደጊሞም እዮም"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ብርኪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:13.427455129Z",
+  "model": "glm-5.3"
+}

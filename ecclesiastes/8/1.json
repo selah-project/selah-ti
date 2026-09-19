@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "መን ከም እቲ ሓቡን እዩ? ከምኡውን መን ትርጓሜ ቃል ይፈልጥ? ጥበብ ሰብ ገጹ ትብርህዎ እያ፣ ኣውነት ገጹ ድማ ተለወጠ።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "ከም እቲ ሓቡን"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ከምኡውን መን"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ይፈልጥ"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "ትርጓሜ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "ትብርህዎ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ገጹ"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ኣውነት"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ገጹ"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ተለወጠ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:43:17.038686409Z",
+  "model": "glm-5.3"
+}

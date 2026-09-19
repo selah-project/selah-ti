@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኣሕይያ ድማ ነቲ ኣብ ልዕሊ ዝነጥፎ ሓድሽ ክዳን ተዓጸወ፣ ናብ ዓሰርተ ክልተ ቁራዒ ድማ በኪርዎ።",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "ተዓጸወ"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ኣሕይያ"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "ነቲ ክዳን"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "ሓድሽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "በኪርዋ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "ቁራዒ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:00:57.750015154Z",
+  "model": "glm-5.3"
+}

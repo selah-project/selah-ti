@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 8:26",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣብ ዚ እውን፣ ኤሎሂም ናይ እስራኤል፣ ነቲ ንዳዊድ ኣቦይ ኣባኻ ዝበልካዉ ቃልኻ ኣረጋግጾ በሃል።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ኣብ ዚ እውን"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም ናይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "ይኣረጋግጽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "በሃል"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ቃልኻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ዝበልካዉ"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ንኣባኻ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦይ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:57:45.832583838Z",
+  "model": "glm-5.3"
+}

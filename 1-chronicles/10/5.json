@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "እቲ ኣኽዮራቲ ኣቕሚቱ ሻኡል ምዃኑ ከም ዝረኣየ ንሱ ድማ እውን ኣብ እቲ ሰይፍ ወዲቑ ሞተ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ኣኽዮራቲ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ኣቕሚቱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም ዝ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ወደቐ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "እቲ ሰይፍ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:38:18.097235256Z",
+  "model": "glm-5.3"
+}

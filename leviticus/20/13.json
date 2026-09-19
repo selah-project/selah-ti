@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ሰብን እቲ ምስ ⟨את⟩ ተባዕታይ ከም ምድሪ ሰበይቲ እንተ ተንቀሳቐሰ፣ ኣንቀጻ ገበሩ ክልተቶም፤ ብሞተ ኪቕተሉ እዮም፤ ደሞም ኣብ ርእሶም እዩ።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ሰብን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "እንተ ተንቀሳቐሰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተባዕታይ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ተባዕታይ"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ከም ምድሪ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ኣንቀጻ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ክልተቶም"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ብሞተ"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ኪቕተሉ እዮም"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ደሞም"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ኣብ ርእሶም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:04:48.124002026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ወዲቐይን ጓላመይን ካብ ነጸርተይ ርሒቖም ተቐምጡ፣ ቅሩባተይ ድማ ኣብ ርሕቐት ተቐምጡ።",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "ወዲቐይ"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "ጓላመይን"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ካብ ርሕቐት"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "ነጸርተይ"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ተቐምጡ"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "ቅሩባተይ ድማ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ኣብ ርሕቐት"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ተቐምጡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:01.272938838Z",
+  "model": "glm-5.3"
+}

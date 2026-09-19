@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ኤሎሂም ድማ ካብ ፓዳን ኣራም ምስ መጸ ንያዕቆቭ ደጊሙ ተራኢሉ፣ ⟨אתו⟩ ባረኾ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ተራኢሉ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ንያዕቆቭ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደጊሙ"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "ምስ መጸ"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "ካብ ፓዳን"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ባረኾ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ያዕቆቭ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:57:12.712179579Z",
+  "model": "glm-5.3"
+}

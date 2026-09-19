@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 13:16",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ንኣጽራብኦም ኣብ ቅድሚ ኣዒንቲኦም ይስቕቡ፣ ቤታቶም ይተሓቱ፣ ሰበይቶም ድማ ይድለያ።",
+  "tokens": [
+    {
+      "surface": "ועלליהם",
+      "gloss": "ንኣጽራብኦም"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "ይስቕቡ"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "ኣብ ቅድሚ ኣዒንቲኦም"
+    },
+    {
+      "surface": "ישסו",
+      "gloss": "ይተሓቱ"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "ቤታቶም"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ሰበይቶም"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "ይድለያ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:48:16.029556557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 40:33",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ነቲ ሓጺር ብዙሪያ ናይ እቲ ማሕደርን እቲ መሠዊንን ኣቐሚጥዎ፣ ነቲ ብርዲ ናይ መኣዲ እቲ ሓጺር እውን ኣቲኡ፤ ሞሸ ድማ ⟨את⟩ እቲ ሉዓል ሰርሖ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ኣቐሚጥዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ሓጺር"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ሓጺር"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ብዙሪያ"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ናይ እቲ ማሕደር"
+    },
+    {
+      "surface": "ולמזבח",
+      "gloss": "ንእቲ መሠዊንን"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ኣቲኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ብርዲ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ብርዲ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "መኣዲ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "እቲ ሓጺር"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "ሰርሖ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሉዓል"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ሉዓል"
+    }
+  ],
+  "timestamp": "2026-09-18T21:46:30.294760726Z",
+  "model": "glm-5.3"
+}

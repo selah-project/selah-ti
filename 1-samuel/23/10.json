@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ዳዊድ ድማ በለ፦ «ያህዌህ ኤሎሂም ናይ ይስራኤል፣ ኣኻዊ በዘን ሰምዐ ነቲ ኣገልጋሊኻ፣ ሻኡል ብዓይ ናብ ቕይላ ንምምጻእ፣ ነቲ ከተማ ንምጥፋእ ከም ዝደሊ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "በዘን"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ነቲ ኣገልጋሊኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ዝደሊ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ንምምጻእ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ቕይላ"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "ንምጥፋእ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ነቲ ከተማ"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "ብዓይ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:12:54.280660476Z",
+  "model": "glm-5.3"
+}

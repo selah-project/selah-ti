@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 102,
+  "translation": "መዓልታተይ ከም ጽልማት ዝተዘረጋ ⟨እየን⟩፣ ኣነ ድማ ከም ሣር ሰኪሐ።",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "መዓልታተይ"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "ከም ጽልማት"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "ዝተዘረጋ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "ከም ሣር"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "ሰኪሐ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:23.049990995Z",
+  "model": "glm-5.3"
+}

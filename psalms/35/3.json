@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ሖራይታ ከኣ ኣውጽእ፣ ኣብ ቅድሚ ተኸታላተይ ድማ መስመር ዕጸ፤ ነፍሰይ በል፦ «ኣነ መድሓኒትካ እየ»።",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "ኣውጽእ"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ሖራይታ"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "ዕጸ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "ተኸታላተይ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በል"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "መድሓኒትካ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:55.526275276Z",
+  "model": "glm-5.3"
+}

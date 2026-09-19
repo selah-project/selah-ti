@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "ንሳቶም ረኣዩ፣ ከምኡ እናበሉ ተገርሙ፣ ተቓረሱ፣ ብሕታይ ኮይኖም ከደው።",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ረኣዩ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "ተገርሙ"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ተቓረሱ"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "ብሕታይ ኮይኖም ከደው"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:18.737958113Z",
+  "model": "glm-5.3"
+}

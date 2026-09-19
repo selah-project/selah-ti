@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "እቲ ንጉስ እስራኤል ወጸ፣ ⟨את⟩ ፈረሳትን ⟨את⟩ ሰረገላታትን ሰበረ፣ ኣብ ኣራም ድማ ዓቢ ምትካእ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ሰበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፈረሳት"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ፈረሳት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሰረገላታት"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ሰረገላታት"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "ኣብ ኣራም"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ምትካእ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ዓቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:08:53.257206676Z",
+  "model": "glm-5.3"
+}

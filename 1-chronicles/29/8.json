@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 29:8",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ከምኡውን እቶም ⟨את⟩ ሕጥርታት ዝተረኽበሎም፣ ነቶም ናብ ግምቢ ቤት ያህዌህ ብኢድ ይሕየኤል እቲ ጌርሶናይ ሃቑ።",
+  "tokens": [
+    {
+      "surface": "והנמצא",
+      "gloss": "እቲ ዝተረኽበ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ሕጥርታት ዝተረኽበሎም"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ሕጥርታት"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ሃቑ"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "ናብ ግምቢ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "ይሕየኤል"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "እቲ ጌርሶናይ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:52:45.695708923Z",
+  "model": "glm-5.3"
+}

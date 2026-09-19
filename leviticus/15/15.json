@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "እቲ ካህን ድማ ⟨אתם⟩ ነፎርቖም ይገብር፦ ሓንስና ነቲ ሓደ ናይ በደል ወፈያን ነቲ ካልኣይ ናይ ዕልል ወፈያን፤ እቲ ካህን ኣብ ቅድሚ יהוה ካብ ፍስስኡ ንእሱ ይካየዶ።",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ይገብር"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ነፎርቖም"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ካህን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ናይ በደል ወፈያ"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "ነቲ ካልኣይ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ዕልል"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ይካየዶ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ንእሱ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ካህን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "ካብ ፍስስኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:00:57.329519354Z",
+  "model": "glm-5.3"
+}

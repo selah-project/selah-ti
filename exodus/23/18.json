@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ስዒብካ ምስ ሓመጽቲ ደም ወፈያይ ኣይትቓርብ፤ ክብደት በዓልይ ኾነ ናብ ቀዳሕታ ኣይውደን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይትቓርብን"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "ተቓርብ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ሓመጽቲ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ወፈያይ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይውደንን"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ኾነ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ክብደት"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "በዓልይ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ቀዳሕታ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:28:41.344059384Z",
+  "model": "glm-5.3"
+}

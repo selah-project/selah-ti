@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ናባል ድማ ⟨את⟩ ኣገልካሊ ዳዊድ እናምለሽ በለ፦ «መን እዩ ዳዊድ፧ መን እዩ ወዲ ይሴ፧ ሎሚ ቡዙሓት ኮይኖም፣ ነፍሲ ወከፍ ካብ ጎይታኡ እናበረረ ዝነጠብ ኣገልካሊ ኣለዉ።»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "እናምለሽ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ናባል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣገልካሊ ዳዊድ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልካሊ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ወይ መን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ይሴ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ቡዙሓት ኮይኖም"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ኣገልካሊ"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "ዝነጠቡ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ወከፍ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ጎይታኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:14:35.195376701Z",
+  "model": "glm-5.3"
+}

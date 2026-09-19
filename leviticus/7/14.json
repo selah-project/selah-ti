@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 7:14",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ካባን ድማ ሓደ ካብ ኩሉ ወፈያ ከም ትሩማ ንያህዌህ የቐርብ፤ ንካህኑ ⟨את⟩ ደም ሰላማት ዘረካ ንኡ ክኸውን እዩ።",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "የቐርብ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካባን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "ትሩማ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ንካህኑ"
+    },
+    {
+      "surface": "הזרק",
+      "gloss": "ዘረካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደም"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ሰላማት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክኸውን እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:50:25.813516930Z",
+  "model": "glm-5.3"
+}

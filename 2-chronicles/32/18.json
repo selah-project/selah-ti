@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 32:18",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "በዓቢ ድምጺ ብቋንቋ ይሁዳ ነቶም ኣብ ልዕሊ እቲ ህጥሚ የሩሻላይም ዝነበሩ ህዝቢ ተዛረቡ፣ ንምሕላሮምን ንምውዕሎምን፣ ከምኡ ⟨את⟩ እቲ ከተማ ንኽሕዙ።",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "ተዛረቡ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "በድምጂ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "ብቋንቋ ይሁዳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝነበሩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "እቲ ህጥሚ"
+    },
+    {
+      "surface": "ליראם",
+      "gloss": "ንምሕላሮም"
+    },
+    {
+      "surface": "ולבהלם",
+      "gloss": "ንምውዕሎምን"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ከምኡ ን"
+    },
+    {
+      "surface": "ילכדו",
+      "gloss": "ንኽሕዙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ከተማ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እቲ ከተማ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:19:10.362700481Z",
+  "model": "glm-5.3"
+}

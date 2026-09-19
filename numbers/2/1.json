@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ያህዌህ ድማ ንሞሸን ንኣሃሮንን እናበለ ተዛረቦም።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረቦም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮንን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:11:55.848692972Z",
+  "model": "glm-5.3"
+}

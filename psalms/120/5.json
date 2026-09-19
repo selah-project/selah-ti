@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 120,
+  "translation": "ውድቀት ንእየ እተባህገ ኣሎኩ ምስ ሞሸኽ፣ ምስ ድንቆታት ቈዳር ኣብ ዝነዋየኩ ስለ ዝኾነ።",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "ውድቀት"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንእየ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እተባህገ"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "ኣለኩ"
+    },
+    {
+      "surface": "משך",
+      "gloss": "ሞሸኽ"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "ኣብ ዝነዋየኩ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "ድንቆታት"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ቈዳር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:55.141985453Z",
+  "model": "glm-5.3"
+}

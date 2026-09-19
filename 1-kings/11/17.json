@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ሓድድ ንሱ ድማ፣ ምስ ሰባት ኣድዮም ካብ ኣገልጋሊ ኣቦኡ፣ ምስ ⟨אתו⟩፣ ናብ ሚጽራይም ንኽኣቱ ኰነሰ፤ ሓድድ ድማ ውላድ ንእሽቶ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "ኰነሰ"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "ሓድድ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "ሰባትን"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "ኣድዮም"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "ካብ ኣገልጋሊ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ምስ እቶም (ምስኡ)"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ንኽኣቱ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "ሓድድ ድማ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ንእሽቶ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:00:16.705130659Z",
+  "model": "glm-5.3"
+}

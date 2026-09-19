@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 9:8",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ይብንያ ወዲ ይሮሕም፣ ዬላ ወዲ ዑዚ፣ ወዲ ምኽሪ፣ ምሽላም ወዲ ሽፓጥያ፣ ወዲ ርዓዌል፣ ወዲ ይብንያ።",
+  "tokens": [
+    {
+      "surface": "ויבניה",
+      "gloss": "ይብንያ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ይሮሕም"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ዬላ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ዑዚ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "ምኽሪ"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "ምሽላም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "ሽፓጥያ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ርዓዌል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "יבניה",
+      "gloss": "ይብንያ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:36:23.286748881Z",
+  "model": "glm-5.3"
+}

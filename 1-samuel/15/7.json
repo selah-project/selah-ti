@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ሻኡል ድማ ⟨את⟩ ዓማልቅ ካብ ሓዊላሕ ክሳብ ክትኣቱ ሹር ሰማዕዎ፣ እታ ኣብ ቅድመ ሚጽራይም ዘላ።",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ሰማዕዎ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓማልቅ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ዓማልቅ"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "ካብ ሓዊላሕ"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "ክትኣቱ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ሹር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ቅድመ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:06:45.657257150Z",
+  "model": "glm-5.3"
+}

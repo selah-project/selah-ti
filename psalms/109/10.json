@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "ውላዱ ከኣ እናተቓሓሱ ኪተቓሓሱ እዮም፣ ኪሰልኡ እዮም፣ ኩርሱ ከኣ ካብ ሓዊሻቶም ይደልዩ።",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "እናተቓሓሱ"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "ኪተቓሓሱ እዮም"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "ኪሰልኡ እዮም"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ይደልዩ"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "ካብ ሓዊሻቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:01.738827595Z",
+  "model": "glm-5.3"
+}

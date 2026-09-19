@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ግና ከም ዝበልዓሉ ⟨את⟩ እቲ ጸባይን ⟨את⟩ እቲ ኣይልን፣ ከምኡ ኽትበልዖ፤ እቲ ዘይንጹሕን እቲ ንጹሕን ኣብ ጣምቃ ይበልዑዮ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ግና"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ዝበልዓሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ጸባይ"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "እቲ ጸባይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ኣይል"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "እቲ ኣይል"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ኽትበልዖ"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "እቲ ዘይንጹሕ"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "ከምኡውን እቲ ንጹሕ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ኣብ ጣምቃ"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "ይበልዑዮ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:55:56.528616613Z",
+  "model": "glm-5.3"
+}

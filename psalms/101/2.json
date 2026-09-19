@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 101,
+  "translation": "ኣብ መገዲ ጥሩሕ እጥቅም፤ መዓስ ትምጽእ ናብኢ? ብጥሩነት ልብይ ኣብ ማእኸል ቤትይ እኸይድ።",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "እጥቅም"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መገዲ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ጥሩሕ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "መዓስ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ትምጽእ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ናብኢ"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "እኸይድ"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "ብጥሩነት"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ልብይ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ኣብ ማእኸል"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ቤትይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:36.686144006Z",
+  "model": "glm-5.3"
+}

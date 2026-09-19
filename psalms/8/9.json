@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እተበለዐ ወፌታት ሰማይን ዓሣታት ባሕሪን፣ እቶም ኣብ መማርሕቲ ባሕርታት ዝሓልፉ።",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "ወፌታት"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማይ"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "ዓሣታት"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ዝሓልፉ"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "መማርሕቲ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ባሕርታት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:00.726717140Z",
+  "model": "glm-5.3"
+}

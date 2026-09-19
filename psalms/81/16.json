@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 81,
+  "translation": "ኣጥፊዕቲ ያህዌህ ንእኡ ይግብርዎ ነይሩ፣ ግዜኦም ድማ ናብ ዘለኣለም ትኹር ነይራ።",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "ኣጥፊዕቲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ይግብርዎ ነይሩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእኡ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ትኹር ነይራ"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "ግዜኦም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:40.078341133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እንተ ጻድቕ ኮንኩ፣ ኣፈይ ይብድሐኒ እዩ፤ ጽዱቕ ኣነ እንተ ውን የጐዛኒ ከም ዘመናት።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ ኮንኩ"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "ጻድቕ ኮንኩ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ኣፈይ"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "ይብድሐኒ"
+    },
+    {
+      "surface": "תם",
+      "gloss": "ጽዱቕ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "የጐዛኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:06:16.308886458Z",
+  "model": "glm-5.3"
+}

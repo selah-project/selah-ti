@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ስለ እታ ናይ ኣነ ክፍኢት ክነግር እየ፣ ብዛዕባ ክስተት እተቐንየን እየ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ እታ ናይ ኣነ"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "ክፍኢት ናይ ኣነ"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ክነግር እየ"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "እተቐንየን እየ"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "ብዛዕባ ክስተት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:04.534660158Z",
+  "model": "glm-5.3"
+}

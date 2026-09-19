@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣብኡ እኳ ተወይዮም ⟨את⟩ ኣማልክቶም፣ ዳዊድን ሰባቱን እውን ኣሪኹሞም።",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "ተወይዮም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣማልክቶም"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ኣማልክቶም"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "ኣሪኹሞም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ሰባቱን"
+    }
+  ],
+  "timestamp": "2026-09-19T00:24:46.983036328Z",
+  "model": "glm-5.3"
+}

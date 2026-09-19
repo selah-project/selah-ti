@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 77,
+  "translation": "ንማእማይ፣ ኣብ ይድዩቶን፣ ንኣሳፍ መዝሙር።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንማእማይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ይድዩቶን"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "ይድዩቶን"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ንኣሳፍ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:35.428650358Z",
+  "model": "glm-5.3"
+}

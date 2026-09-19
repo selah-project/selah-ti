@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ነዚ ነገር ድማ ኣዘዞ፣ ካልኦት ኣማልኽቲ ከይከተል፤ ንሱ ግን ኣይከሓደን ⟨את⟩ እቲ ያህዌህ ዝኣዘዞ።",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ኣዘዞ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብዛዕባ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ነዚ ነገር"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ዚ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ከይ"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "ከተል"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ንኣንጻር"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኣማልክቲ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ካልኦት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ግን ኣይ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ከሓደን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ያህዌህ ዝኣዘዞ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ዝኣዘዞ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:58:21.401781720Z",
+  "model": "glm-5.3"
+}

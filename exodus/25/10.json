@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ሳብዓዊ ታባጽ ብዓጢ ሽታ ክትገብርዎ እዮም፤ ክልተ ኣማታትን ግማይን ርዝነኡ ኮይኑ፣ ሓደ ኣማትን ግማይን ስፋሑ፣ ሓደ ኣማትን ግማይን ቁመቱ።",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "ክትገብርዎ እዮም"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታባጽ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ብዓጢ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ሽታ"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "ክልተ ኣማታት"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ግማይ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ርዝነኡ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ሓደ ኣማት"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ግማይ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ስፋሑ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ሓደ ኣማት"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ግማይ"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ቁመቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:31:03.686737835Z",
+  "model": "glm-5.3"
+}

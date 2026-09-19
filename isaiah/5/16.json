@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 5:16",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ያህዌህ ጸባኦት ድማ ኣብ ፍትሒ ይዓቢ እዩ፤ ኤል ቅዱስ ድማ ብጽድቂ ይቕደስ እዩ።",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "ይዓቢ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ኣብ ፍትሒ"
+    },
+    {
+      "surface": "והאל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "הקדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "נקדש",
+      "gloss": "ይቕደስ"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "ብጽድቂ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:45:25.775149959Z",
+  "model": "glm-5.3"
+}

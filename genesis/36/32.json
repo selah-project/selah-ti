@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "በላዕ ወዲ በዑር ድማ ኣብ ኤዶም ነገሰ፤ ስም ከተማኡ ድማ ዲንሃባ ነይራ።",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሰ"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "ኣብ ኤዶም"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "በላዕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "በዑር"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ስም … ድማ"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ከተማኡ"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "ዲንሃባ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:56:07.495446581Z",
+  "model": "glm-5.3"
+}

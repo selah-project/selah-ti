@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ዳዊድ ድማ ከም ዝኣዘዞ ኤሎሂም ገበረ፤ ⟨את⟩ ገደር ፍልስጤማውያን ካብ ጊብዖን ክሳብ ጌዘር ሓቱ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም ዝ"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ኣዘዞ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ሓቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገደር"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ገደር"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤማውያን"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "ካብ ጊብዖን"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "ጌዘር"
+    }
+  ],
+  "timestamp": "2026-09-19T07:41:18.028684449Z",
+  "model": "glm-5.3"
+}

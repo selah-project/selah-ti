@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "እቲ ማይ ድማ ብዙሕዶ እቲ መሠዊዕ ተዓወተ፣ ብዛዕባ ⟨את⟩ እቲ ቦይ እውን ብማይ ኣእተወ።",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ተዓወተ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "እቲ ማይ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ብዙሕዶ"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "እቲ መሠዊዕ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ቦይ"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "እቲ ቦይ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ኣእተወ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ብማይ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:07:24.552766867Z",
+  "model": "glm-5.3"
+}

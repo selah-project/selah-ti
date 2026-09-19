@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 12:4",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ወይሽማዓያ እቲ ግባዓናይ፣ ኣብ ተላላይ ሰላሳን ኣብ ልዕሊ እቶም ሰላሳን ጋንታ እዩ።",
+  "tokens": [
+    {
+      "surface": "וישמעיה",
+      "gloss": "ወይሽማዓያ"
+    },
+    {
+      "surface": "הגבעוני",
+      "gloss": "እቲ ግባዓናይ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ጋንታ"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "ኣብ ተላላይ ሰላሳ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ከምኡውን ኣብ ልዕሊ"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "እቶም ሰላሳ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:38:55.943395077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ብዙሓት ታላቓት ቶራይ ንኹሉ ጸሓፕኩ ዎ፣ ከም ባዕዳዊ ተቐበሎም።",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "ጸሓፕኩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ብዙሓት ታላቓት"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ቶራይ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ባዕዳዊ"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "ተቐበሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:08:30.572309917Z",
+  "model": "glm-5.3"
+}

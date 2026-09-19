@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 47:11",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 47,
+  "translation": "ዮሴፍ ድማ ⟨את⟩ ኣቡኡን ⟨את⟩ ኣሕዋቱን ኣቐመጦም፣ ኣብ ምድሪ ሚጽራይም፣ ኣብ ምርግጋኽ እታ ምድሪ፣ ኣብ ምድሪ ራዓምሰስ ድማ ውንበር ሃቦም፣ ከም እቲ ፓርዖ ዝኣዘዞ።",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "ኣቐመጦም"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቡኡ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሕዋቱ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ኣሕዋቱን"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሃቦም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ውንበር"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "ውንበር"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "במיטב",
+      "gloss": "ኣብ ምርግጋኽ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እታ ምድሪ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "ራዓምሰስ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ዝኣዘዞ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:06:16.820653528Z",
+  "model": "glm-5.3"
+}

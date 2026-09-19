@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ዮዋብ ውዲ ጽሩያ ልቢ እቲ ንጉስ ኣብ ኣብሻሎም ምሉእ ምዃኑ ተረዲአ።",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ተረዲአ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮዋብ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ውዲ"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "ጽሩያ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ኣብሻሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:31:34.347044950Z",
+  "model": "glm-5.3"
+}

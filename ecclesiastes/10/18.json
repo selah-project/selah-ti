@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ብስኩርት ዓቢኡ ተሓዊሱ እቲ ቀርጢ ይወርድ፣ ብስኩርት ኢድታት እውን እቲ ቤት ይጥሕሕ።",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "ብስኩርት ዓቢኡ"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "ተሓዊሱ ይወርድ"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "እቲ ቀርጢ"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "ብስኩርት"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ኢድታት"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "ይጥሕሕ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "እቲ ቤት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:42:56.862696067Z",
+  "model": "glm-5.3"
+}

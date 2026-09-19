@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ቍጣይ ድማ ይበርህ፣ ⟨אתכם⟩ ብሰይፍ ኣቕትን፣ ሰበይትኩም ሰበይቲ ክኾና፣ ውሉድኩም ውሉድ ክኾኑ።",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "ይበርህ"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ቍጣይ"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "ኣቕትን"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንስኻትኩም"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ብሰይፍ"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ክኾኑ"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "ሰበይትኩም"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "ውሉድኩም"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "ውሉድ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:28:05.531285331Z",
+  "model": "glm-5.3"
+}

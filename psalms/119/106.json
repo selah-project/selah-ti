@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 106,
+  "ref": "psalms 119:106",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ንምጽንቕ ፍትሕቲ ጽድቂኻ በዘረምኩን ኣኽኢለያን እየ።",
+  "tokens": [
+    {
+      "surface": "נשבעתי",
+      "gloss": "በዘረምኩ"
+    },
+    {
+      "surface": "ואקימה",
+      "gloss": "ኣኽኢለያ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ንምጽንቕ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ፍትሕቲ"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ጽድቂኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:25.024832858Z",
+  "model": "glm-5.3"
+}

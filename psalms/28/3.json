@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ምስ ክፉእ ብጾትን ምስ ተገባርቲ ክፉእትን ኣይትስሕበኒ፣ ምስ መሓይሾም ሰላም ዝዛረቡ፣ ኣብ ልቦም ድማ ክፉእ ዘለዎም።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "ትስሕበኒ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉእ ብጾት"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ንምስ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ተገባርቲ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ክፉእት"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ዝዛረቡ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "መሓይሾም"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ንክፉእ"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "ኣብ ልቦም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:52:45.910037054Z",
+  "model": "glm-5.3"
+}

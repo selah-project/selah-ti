@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 13:17",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ሞሸ ድማ ንምዕቨር ምድሪ ከነዓን ⟨אתם⟩ ሰደዶም፤ ነቶም ድማ «ብዚ ኣብ ደቡብ ተዓሪግኩም፣ ነቲ ከርከር ⟨את⟩ ውሽጣት ዓርግኩም» በሎም።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደዶም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ነቶም (ተመልከትቲ)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "ንምዕቨር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ ከነዓን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዓን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎም"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ተዓሪግኩም"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ብዚ"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "ኣብ ደቡብ"
+    },
+    {
+      "surface": "ועליתם",
+      "gloss": "ውሽጣት ዓርግኩም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ከርከር"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ከርከር"
+    }
+  ],
+  "timestamp": "2026-09-18T22:23:50.112678738Z",
+  "model": "glm-5.3"
+}

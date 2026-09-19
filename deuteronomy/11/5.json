@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ከምቲ ድማ ኣብ ምድረ በዳ ልኩም ዝገበረሉ፣ ክሳብ ንስኻትኩም ናብ እዚ ቦታ ምስ በጽሕኹም።",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ከምቲ ድማ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበረሉ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ልኩም"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድረ በዳ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "ምስ በጽሕኹም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ናብ እቲ ቦታ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:53:56.088214648Z",
+  "model": "glm-5.3"
+}

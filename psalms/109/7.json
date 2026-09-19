@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "ምስ ዝተፈረደ ⟨ንሱ⟩ እቲ ክፉእ ⟨ንሱ⟩ ክውጸእ፣ ከምኡውን እታ ጸሎቱ ናብ ሓጢኣት ክትኸውን።",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "ምስ ዝተፈረደ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ክውጸእ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "እቲ ክፉእ"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "ከምኡውን እታ ጸሎቱ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ክትኸውን"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "ናብ ሓጢኣት"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:00.199881358Z",
+  "model": "glm-5.3"
+}

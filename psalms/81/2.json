@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 81,
+  "translation": "ንኤሎሂም ናይና ሒዊ ሰጒዱ፤ ንኤሎሂም ያዕቆቭ ጮሕዎ።",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "ሰጒዱ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ንኤሎሂም"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "ናይና ሒዊ"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ጮሕዎ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ንኤሎሂም"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:10.110431731Z",
+  "model": "glm-5.3"
+}

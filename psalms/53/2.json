@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 53,
+  "translation": "እቲ ደቂቅ ኣብ ልቡ በለ፦ ኤሎሂም የለን፤ ኣበይቶ፣ ብዘይ ቕጻል ኣበይቶ፣ ጽቡቕ ዝገብር የለን።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ደቂቅ"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ኣብ ልቡ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "ኣበይቶ"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "ኣበይቶ ዝኾነ ሓጥያት"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ዘይ ቕጻል"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገብር"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡቕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:30.938689750Z",
+  "model": "glm-5.3"
+}

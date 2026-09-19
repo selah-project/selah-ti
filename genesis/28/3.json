@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "«ኤል ሻዳይ ድማ ⟨את⟩ ኺብርክካ፣ ኪበዝሕካ፣ ኪብዙሕካ፣ ናብ ጉጅለ ህዝቢታት ትከውን።»",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ሻዳይ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ኺብርክካ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ንኻ"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "ኪበዝሕካ"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "ኪብዙሕካ"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ትከውን"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "ናብ ጉጅለ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ህዝቢታት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:51:44.377309504Z",
+  "model": "glm-5.3"
+}

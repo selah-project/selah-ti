@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "መዓልታት ዳዊድ ንሞት ተቐረቡ፤ ድማ ነቲ ⟨את⟩ ሽሎሞ ውላዱ ብዝብል ኣዘዞ።",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "ተቐረቡ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ንሞት"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "ኣዘዞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሽሎሞ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብዝብል"
+    }
+  ],
+  "timestamp": "2026-09-19T00:49:02.517272541Z",
+  "model": "glm-5.3"
+}

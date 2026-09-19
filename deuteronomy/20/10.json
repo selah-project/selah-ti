@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ናብ ሓደ ከተማ ንምዃወጻ ምስ ተበጽሕካ፣ ሰላም ትዛረባታ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "ተበጽሕካ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ሓደ ከተማ"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ንምዃወጻ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ኣብዛ"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "ትዛረባታ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ነባር"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ሰላም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:59:46.511696771Z",
+  "model": "glm-5.3"
+}

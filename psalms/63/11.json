@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 63,
+  "translation": "ንሶም ናብ ኢድ ሰሊሕ ክውዕሉ እዮም፤ ክፍሊ ቀበሎታት ክኾኑ እዮም።",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "ክውዕሉ እዮም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰሊሕ"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ክፍሊ"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "ቀበሎታት"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ክኾኑ እዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:24.597432643Z",
+  "model": "glm-5.3"
+}

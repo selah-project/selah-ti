@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኤልዓሳ ድማ ⟨את⟩ ሲስማይ ኣወጽኦ፣ ሲስማይ ድማ ⟨את⟩ ሻሉም ኣወጽኦ።",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "ኤልዓሳን"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ኣወጽኦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሲስማይ"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "ሲስማይ"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "ሲስማይን"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ኣወጽኦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሻሉም"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሻሉም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:28:22.691320039Z",
+  "model": "glm-5.3"
+}

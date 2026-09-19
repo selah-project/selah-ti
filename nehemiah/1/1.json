@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 1:1",
+  "book": "nehemiah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ቃላት ንኤሁሚያ ወዲ ሕካልያ። ድማ ኾነ ኣብ ወርሒ ኪስለው፣ ኣብ ዓመት ዓሰርተ፣ ኣነ ኣብ ሱሳን እቲ ገዛ ነይርኩ።",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "ንኤሁሚያ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "ሕካልያ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ድማ ኾነ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ኣብ ወርሒ"
+    },
+    {
+      "surface": "כסלו",
+      "gloss": "ኪስለው"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ነይርኩ"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "ኣብ ሱሳን"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "እቲ ገዛ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:14:42.174312599Z",
+  "model": "glm-5.3"
+}

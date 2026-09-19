@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ድማ ⟨את⟩ ንእኡ ብጽሑቅ ወርቂ ሓበዮ፤ ንእኡ ድማ ክብ ወርቂ ዙርያ ክሉ ገበረሉ።",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ሓበዮ ድማ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንእኡ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ጽሑቅ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእኡ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ክብ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ዙርያ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:42:42.318620514Z",
+  "model": "glm-5.3"
+}

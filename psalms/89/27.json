@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ንሱ ንኣነ «ኣቦይ ንስኻ፣ ኤል እተይ ስኻ፣ ከምኡውን እቲ ዓቢ ድንጋይ ናይ መድሓኒተይ ንስኻ» ኢሉ ክጽውዐኒ እዩ።",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "ክጽውዐኒ እዩ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦይ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ኤል እተይ"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "እቲ ዓቢ ድንጋይ"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ናይ መድሓኒተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:21.027642269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ድማ ⟨את⟩ ሓዶራምን ⟨את⟩ ኡዛልን ⟨את⟩ ድቅላን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሓዶራም"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ሓዶራም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኡዛል"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ኡዛል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ድቅላ"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "ድቅላ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:27:45.075508252Z",
+  "model": "glm-5.3"
+}

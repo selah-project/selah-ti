@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 42:9",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ኤሊፋዝ እቲ ተማናይ፣ ቢልዳድ እቲ ሹሂን ጾፋር እቲ ነዓማታይን ከዱ፣ ያህዌህ ከም ዝተዛረቦም ኩሉ ገበሩ፤ ያህዌህ ድማ ⟨את⟩ ገጽ ኢዮብ ኣርሒቑ።",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ከዱ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ኤሊፋዝ"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "ተማናይ"
+    },
+    {
+      "surface": "ובלדד",
+      "gloss": "ቢልዳድ"
+    },
+    {
+      "surface": "השוחי",
+      "gloss": "ሹሂ"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "ጾፋር"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "ነዓማታይ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝተዛረቦም"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ንኣቶም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ኣርሒቑ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገጽ ኢዮብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኢዮብ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:28:16.411901747Z",
+  "model": "glm-5.3"
+}

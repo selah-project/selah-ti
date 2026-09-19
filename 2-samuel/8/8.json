@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 8:8",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ካብ ብጥሕን ካብ ብዓሮታይን ከተማታት ሓዳድዓዘር፣ እቲ ንጉስ ዳዊድ ብዙሕ ብጣዕሚ ሓሙስ ወሰደ።",
+  "tokens": [
+    {
+      "surface": "ומבטח",
+      "gloss": "ካብ ብጥሕ"
+    },
+    {
+      "surface": "ומברתי",
+      "gloss": "ካብ ብዓሮታይ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ከተማታት"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ሓዳድዓዘር"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ሓሙስ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:25:33.964520864Z",
+  "model": "glm-5.3"
+}

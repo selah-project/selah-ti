@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ክሳብ ሓርሻ ኪዶን ከዱ፣ ኡዛ ድማ ⟨את⟩ ኢዱ ወጊዑ ነቲ ⟨את⟩ ታባ ንምሕዛእ፣ ምኽንያቱ እቶም ኣጋልሲት ሰሓቡ።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ከዱ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "ሓርሻ"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "ኪዶን"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ወጊዑ"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ኡዛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢዱ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "ንምሕዛእ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታባ"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ታባ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "ሰሓቡ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "እቶም ኣጋልሲት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:41:24.417976913Z",
+  "model": "glm-5.3"
+}

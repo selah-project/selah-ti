@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ነታ ሓደ ካብ ዕጨት ጎፌር ዓዲ ንርኣያ መርበብ ተዓዊት፤ ነታ መርበብ ብመንበርቲ ክትገብራ፤ ነታ ⟨את⟩ ድማ ብኩፍር ብውሽጢን ብደገን ትሸምያ።",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ተዓዊት"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንርኣያ"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "መርበብ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ዕጨት"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "ጎፌር"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "ብመንበርቲ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ክትገብራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነታ መርበብ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "መርበብ"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "ትሸምያ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ነታ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ብውሽጢ"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "ብደገን"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "ብኩፍር"
+    }
+  ],
+  "timestamp": "2026-09-18T20:34:36.555731166Z",
+  "model": "glm-5.3"
+}

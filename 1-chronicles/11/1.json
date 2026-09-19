@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኩሉ እስራኤል ናብ ዳዊድ ናብ ሕብሮን ተኣከበ፤ እናበሉ፦ «እንሆ ኣጥንትካን ስብእትካን ንሕና ኢና።»",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ተኣከበ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "ሕብሮን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበሉ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "ኣጥንትካ"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "ስብእትካ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ንሕና ኢና"
+    }
+  ],
+  "timestamp": "2026-09-19T07:38:21.143108770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ንስኻትኩም በጺሕኩም ኣብ ታሕቲ እቲ ኦም ተቐመጥኩም፣ እቲ ኦም ድማ ብሓዊ እናበይነ ክሳብ ልቢ ሰማያት ይበይን ነበረ — ጸልማት፣ በጥላ፣ ብርሃት ዘይብሉ ጸልማት።",
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "በጺሕኩም"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "ተቐመጥኩም"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ታሕቲ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "እቲ ኦም"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "እቲ ኦም ድማ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ይበይን ነበረ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ብሓዊ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጸልማት"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "በጥላ"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ብርሃት ዘይብሉ ጸልማት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:49:04.184134891Z",
+  "model": "glm-5.3"
+}

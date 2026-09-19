@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ኪዳን ኣገልጋሊኻ ወጊዕካ፣ ናይኡ ኣክሊል ንምድሪ ኣብሓሶ።",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "ወጊዕካ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልጋሊኻ"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "ኣብሓሶ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ንምድሪ"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ናይኡ ኣክሊል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:18.048382922Z",
+  "model": "glm-5.3"
+}

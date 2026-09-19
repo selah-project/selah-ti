@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ያህዌህ ኤሎሂምኩም ⟨את⟩ ኹም በዝሓ ኣድሂቡኹም፣ ኣርኣዮ ሎሚ ከም ከዋኽብቲ ሰማያት ብብዙሕነት ኩም።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "በዝሓ ኣድሂቡኹም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ኹም"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "ኣርኣዮ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "ከም ከዋኽብቲ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ብብዙሕነት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:44:27.465242379Z",
+  "model": "glm-5.3"
+}

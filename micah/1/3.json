@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ምኽንያቱ ረኣዩ፣ ያህዌህ ካብ ቦታኡ ወጺኡ ይወርድ፣ ኣብ ላዕሊ ከፍታታት ምድሪ ድማ ይረግጥ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ረኣዩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ወጺኡ ይውጸእ"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "ካብ ቦታኡ"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ይወርድ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ይረግጥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "ከፍታታት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:23:42.168407630Z",
+  "model": "glm-5.3"
+}

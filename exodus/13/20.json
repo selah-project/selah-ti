@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ካብ ሱኮት ተበጊሶም ኣብ ኤታም ድማ፣ ኣብ ዓንዲ ምድረ-በዳ ተቐመጡ።",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ተበጊሶም"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "ካብ ሱኮት"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ተቐመጡ"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "ኣብ ኤታም"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "ኣብ ዓንዲ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ምድረ-በዳ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:22:05.349750053Z",
+  "model": "glm-5.3"
+}

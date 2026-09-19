@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣብ ሹሻን ⟨ቲ⟩ ጸንሰት ድማ እቶም ኣይሁድ ብቕጽሓትን ብምጥፋእን ኽሳብ ሓሙሽተ ሚኣታ ሰባት ኣረዱ።",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "ኣብ ሹሻን"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "ቲ ጸንሰት"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ኣረዱ"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "እቶም ኣይሁድ"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ብምጥፋእን"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚኣታ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰባት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:48:55.427150203Z",
+  "model": "glm-5.3"
+}

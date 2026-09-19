@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 60,
+  "translation": "ንዝኣዝዝ፣ ኣብ ሻዋሻን-ዕዱት፣ ሚኽታም ናይ ዳዊድ፣ ንምሃብ ትምህርቲ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንዝኣዝዝ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "ሻዋሻን"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ዕዱት"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ሚኽታም"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "ንምሃብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:30.746888174Z",
+  "model": "glm-5.3"
+}

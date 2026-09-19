@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 7:9",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ርእሲ ኤፍራይም ሽማሮን እዩ፣ ርእሲ ሽማሮን ድማ ወዲ ረማልያሁ እዩ፤ እንተ ዘይኣሚንኹም፣ እንተ ኣይተረድእኹምን እዮም።",
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ሽማሮን"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ሽማሮን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "ረማልያሁ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይ"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "ተኣማንኹም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይ"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "ተረድእኹም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:43:57.948309131Z",
+  "model": "glm-5.3"
+}

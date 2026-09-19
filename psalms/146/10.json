@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 146,
+  "translation": "ያህዌህ ናብ ዘለኣለም ይንጉስ፣ ኤሎሂምኪ ጽዮን፣ ትውልቲ ናብ ትውልቲ፤ ያህ ኣመስግኑ።",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "ይንጉስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምኪ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ትውልቲ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ናብ ትውልቲ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ኣመስግኑ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:38:47.901663310Z",
+  "model": "glm-5.3"
+}

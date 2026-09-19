@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ብዙሓት እዮም እተዛረቡ፦ «መን ኣርኣየና ቐንዲ፧» ያህዌህ ሆ፣ ብርሃን ገጽካ ኣብ ላዕልና ኣንሳሕሉ።",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "እተዛረቡ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "ኣርኣየና"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ቐንዲ"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "ኣንሳሕሉ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ኣብ ላዕልና"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:48.280838415Z",
+  "model": "glm-5.3"
+}

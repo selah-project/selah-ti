@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 28:2",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ኩሉ እዞም በረኻታት ኺመጹ ኣብ ልዕልካን ኺበጽሕካን እዮም፣ እንተ ብቃል ያህዌህ ኤሎሂምካ ምስ ተሰምዕካ።",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "ኺመጹ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ኣብ ልዕልካ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הברכות",
+      "gloss": "በረኻታት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዞም"
+    },
+    {
+      "surface": "והשיגך",
+      "gloss": "ኺበጽሕካ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ምስ ተሰምዕካ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ብቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:08:26.671335912Z",
+  "model": "glm-5.3"
+}

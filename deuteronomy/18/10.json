@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ኣብ ውሽጣኻ ኣይርከብን መን ውዲ ወይ ጓሉ ኣቢቱ ኣብ ሓዊ ዝሓልፍ፣ ኣጋንንቲ ዝገምት፣ ኣስማት ዝተኣማን፣ ትምህርቲ ዑፍታት ዝገብር፣ ሓራምቲ ሓራምቲን ዝኾነ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ይርከብን"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣብ ውሽጣኻ"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "ዝሓልፍ ኣቢቱ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ውዲ ኣካ"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "ወይ ጓሉ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ኣብ ሓዊ"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "ኣጋንንቲ"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "ዝገምት"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "ኣስማት ዝተኣማን"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "ትምህርቲ ዑፍታት ዝገብርን"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "ሓራምቲን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:59:38.465272257Z",
+  "model": "glm-5.3"
+}

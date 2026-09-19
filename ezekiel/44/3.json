@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 44:3",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ንነጋዲ፣ ነጋዲ ንሱ ምስ ያህዌህ ንምእላይ ኣእምሮን ኣብኡ ንኽቕመጥ ⟨את⟩ እዩ፤ ብመንገዲ እቲ መበል ናይ እቲ ኣፍደገ ኣይኣቲቱ ከኣ ብመንገዱ ከይዱ እዩ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነጋዲ"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "ነጋዲ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ነጋዲ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ንኽቕመጥ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ንምእላይ ኣእምሮን"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ኣእምሮን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ብመንገዲ"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "መበል"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ናይ እቲ ኣፍደገ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ኣይኣቲቱ"
+    },
+    {
+      "surface": "ומדרכו",
+      "gloss": "ብመንገዱ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ከይዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:01:00.232432214Z",
+  "model": "glm-5.3"
+}

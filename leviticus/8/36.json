@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣሃሮንን ውላዱንን ⟨את⟩ ኩሉ እቲ ቓላት ዝኣዘዘ ያህዌህ ብኢድ ሞሸ ገበሩ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ውላዱንን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እቲ ቓላት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "እቲ ቓላት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ኣዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:52:20.574210393Z",
+  "model": "glm-5.3"
+}

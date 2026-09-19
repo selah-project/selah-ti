@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ያህዌህ ድማ ⟨את⟩ ሰብነት ከይርሕቕ፣ ኣብ ማእከል እቲ ምድሪ ድማ ተቐቲላ ዝተረኽባ ብዙሕ ክኸውን።",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "ከይርሕቕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰብነት"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰብነት"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ብዙሕ ክኸውን"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "ተቐቲላ ዝተረኽባ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ኣብ ማእከል"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እቲ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:43:35.429713061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "እዚ ክፍሊ ኣታጊዝተይ ካብ ያህዌህ ⟨את⟩ እዩ፣ ንድማ እቶም ኣብ ልዕሊ ነፍሰይ እስክ ዝዛረቡ።",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ክፍሊ"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "ኣታጊዝተይ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ካብ ⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "ዘዛረቡ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "እስክ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:02.708859732Z",
+  "model": "glm-5.3"
+}

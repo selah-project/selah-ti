@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ከምኡውን ድማ ኣረይቲ ኣይገበሩን፣ ኣብ መንገዱ ኰይኖም ኰዱ።",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ከምኡውን ድማ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ኣረይቲ"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "ኣብ መንገዱ"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ኰዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:27.808615584Z",
+  "model": "glm-5.3"
+}

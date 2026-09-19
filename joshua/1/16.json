@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ንየሆሹዋዕ ⟨את⟩ ድማ ብምባል መለሱ፦ ኵሉ እቲ ዝኣዘዥና ክንገብር ኢና፣ ናብ ኩሉ እታ ትሰድዐና እንተኾንና ንከድ ኢና።",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "መለሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንየሆሹዋዕ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብምባል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "ዝኣዘዥና"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ክንገብር"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ንናብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "ትሰድዐና"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ንከድ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:16:39.819301327Z",
+  "model": "glm-5.3"
+}

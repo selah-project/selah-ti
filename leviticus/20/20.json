@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ከምኡውን ሰብ ⟨את⟩ ምስ ሓለባኡ ዝተኛ — ጾት ኣማኡ ሓረየ፤ ሓጢያቶም ይሕዝኡ እዮም፤ ብዘይ ውላድ ክሞትዎ እዮም።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ከምኡውን ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ዝተኛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ምስ"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "ሓለባኡ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ጾት"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "ኣማኡ"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ሓረየ"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "ሓጢያቶም"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ይሕዝኡ"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "ብዘይ ውላድ"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ክሞትዎ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:05:03.803311769Z",
+  "model": "glm-5.3"
+}

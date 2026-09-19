@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 24:21",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ድሕራዚ ድማ እንሆ እፈልጥ ከም እትኻ ንጉሥ ክትከውን ነገሥታት እትነግሥ፣ ንጉሥነት እስራኤል ኣብ ኢድካ ከም እትቕዓድ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ድሕራዚ ድማ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "እፈልጥ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ ክትከውን"
+    },
+    {
+      "surface": "תמלוך",
+      "gloss": "እትነግሥ"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "ክትቕዓድ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ኣብ ኢድካ"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "ንጉሥነት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T00:11:43.302850144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ሸሕራይም ድማ ካብ ምስዓሩ ⟨אתם⟩ ሕውሺምን ⟨ואת⟩ ባዕራን ኣብ በዓሲ ሞኣብ ወለደ፤ እዚኦም ሰበይቱ እዮም።",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "ሸሕራይም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ኣብ በዓሲ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ምስዓሩ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ሕውሲም"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "ሕውሲም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ባዕራ"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "ባዕራ"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ሰበይቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:34:55.875005585Z",
+  "model": "glm-5.3"
+}

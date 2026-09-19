@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ስለዚ ያህዌህ ኤሎሂይ፣ ንስኻ ⟨את⟩ ዓብደኻ ኣብ ቦታ ዳዊድ ኣቦይ ነገስቲ ጌርካዮ፤ ኣነ ድማ ንእሽቶ ወዲ እየ — ክወጽእን ክኣቱን ኣይፈልጥን።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂይ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "ነገስቲ ጌርካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓብደኻ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ዓብደኻ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ቦታ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦይ"
+    },
+    {
+      "surface": "ו אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ንእሽቶ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ኣይፈልጥን"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "ክወጽእ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ክኣቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:47:30.441285311Z",
+  "model": "glm-5.3"
+}

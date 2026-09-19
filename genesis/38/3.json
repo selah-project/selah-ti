@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ኣንጺዓ ወዲ ወለደት፤ ንሱ ድማ ⟨את⟩ ስሙ ዔር በሎ።",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ኣንጺዓ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደት"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ዔር"
+    }
+  ],
+  "timestamp": "2026-09-18T20:59:30.760664172Z",
+  "model": "glm-5.3"
+}

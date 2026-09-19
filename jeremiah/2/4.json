@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ቃል ያህዌህ ሰምዑ፣ ኣ ቤት ያዕቆቭን ኩሉ ስድራታት ቤት እስራኤልን።",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ሰምዑ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ስድራታት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T02:28:05.114305627Z",
+  "model": "glm-5.3"
+}

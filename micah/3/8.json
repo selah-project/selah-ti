@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣብ ውሽጢ ግን ኣነ ብሓይሊ ተመልአይ እየ — ⟨את⟩ መንፈስ ያህዌህ፣ ብፍትሕን ብኣኽልትን — ንያዕቆቭ ዓመጹን ንእስራኤል ኃጢኣቱን ንነግር እየ።",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ኣብ ውሽጢ ግን"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "ተመልአይ እየ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ሓይሊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንፈስ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ፍትሕ"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "ኣኽልት"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "ንነግር"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ንያዕቆቭ"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "ዓመጹ"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "ንእስራኤል"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ኃጢኣቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:22:30.932218371Z",
+  "model": "glm-5.3"
+}

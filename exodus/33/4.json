@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "እቲ ህዝቢ ድማ ⟨את⟩ እቲ ክፉእ ቃል እዚ ሰምዑ፣ ተሓዘኑ፤ ሰብ ውን ነታ መዋቕርቲ ኣብ ልዑሉ ኣይጀምረን።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዑ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ክፉእ ቃል"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ቃል"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "ተሓዘኑ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ከምኡውን ኣይ"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ኣይጀምረን"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "መዋቕርቲ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዑሉ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:39:09.184042100Z",
+  "model": "glm-5.3"
+}

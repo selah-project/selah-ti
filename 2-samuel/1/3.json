@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ዳዊድ ንኡ በሎ፦ «ካብ መይ ተመጺእካ?» ንኡ ድማ በሎ፦ «ካብ ሰፈር ይስራኤል ተድሓንኩ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ኣበይ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ካብ መይ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ተመጺእካ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "ካብ ሰፈር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "ተድሓንኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:23:44.489785129Z",
+  "model": "glm-5.3"
+}

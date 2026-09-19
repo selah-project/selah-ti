@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "እቲ ሰብ፣ ጎይታ እቲ ምድሪ፣ ምሳና ⟨את⟩ ብከያዲ ተዛረበ፤ ⟨את⟩ ንሕና ከም ወፋርቲ ናብ ⟨את⟩ እታ ምድሪ ገበረና።",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጎይታ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እቲ ምድሪ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ምሳና"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "ብከያዲ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ገበረና"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሕና"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "ከም ወፋርቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ምድሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እታ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:04:51.825064927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 20:5",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ደግሞ ምስ ፍልስጤማይም ⟨את⟩ ውግእ ተወለየ፤ ያዑር ወዲ ኤልኻናን ⟨את⟩ ላኽሚ ወዲ ሓው ጎልያት እቲ ግታይ ሓደገ፤ እንጨት ኮነኒቱ ከም ኣውታር ዝተጠርቡ ነበረት።",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ተወለየ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ውግእ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍልስጤማይም"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤማይም"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ሓደገ"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "ኤልኻናን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "ያዑር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ላኽሚ"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ላኽሚ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ሓው"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "ጎልያት"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "እቲ ግታይ"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "እንጨት"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "ኮነኒቱ"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "ከም ኣውታር"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "ዝተጠርቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:45:39.853829832Z",
+  "model": "glm-5.3"
+}

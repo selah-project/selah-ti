@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ጸላእቱ ኣብ ቅድምኡ እነቕጽሎም፣ እቶም ዝጸልእዎን እነሓምሮም።",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "እነቕጽሎም"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ኣብ ቅድምኡ"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ጸላእቱ"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "እቶም ዝጸልእዎን"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "እነሓምሮም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:26.189267648Z",
+  "model": "glm-5.3"
+}

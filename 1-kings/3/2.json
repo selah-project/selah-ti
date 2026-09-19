@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ግና እቲ ሕዝቢ ኣብ ከፊኣት ⟨ከፊኢ ዝበለ ቦታታት ስጉልታት⟩ ይስዓቡ ነይሩ፣ ምኽንያቱ ናብ ስም ያህዌህ ቤት ክሳብ እቲ መዓልታት እቶም ኣይተቐነየን።",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ግና"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "ይስዓቡ"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ኣብ ከፊኣት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "ተቐነየ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ናብ ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "እቲ መዓልታት"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "እቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:48:53.304439252Z",
+  "model": "glm-5.3"
+}

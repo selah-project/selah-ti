@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ካብ ቅድሚኡ ብቕጽበት ኣይትንጸር፣ ⟨ትኽእል ክትከውን⟩፤ ኣብ ንጹእ ጉዳይ ኣይተባእር፤ ኩሉ ዝደሊ ስለ ዝገብር እዩ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "ብቕጽበት ኣይትንጸር"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ካብ ቅድሚኡ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ትከውን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ኣይተባእር"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ኣብ ጉዳይ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ንጹእ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ዝደሊ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ዝገብር"
+    }
+  ],
+  "timestamp": "2026-09-19T06:43:17.039426297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "እቶም ሽማግለታት እቲኣ ከተማ ⟨את⟩ እቲ ሰብ ወሲዶም ያጽንዕዎ።",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ወሲዶም"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ሽማግለታት"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲኣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሰብ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "ያጽንዕዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ንኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:03:56.815676436Z",
+  "model": "glm-5.3"
+}

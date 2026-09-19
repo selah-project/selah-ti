@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ኣብ እዋን ንዑቕ ኣይዕባሹን፣ ኣብ መዓልታት ጥሜት ድማ ይምላእዎም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ዕባሽ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ኣብ እዋን"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ንዑቕ"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "ኣብ መዓልታት"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "ጥሜት"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ይምላእዎም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:55:37.154692251Z",
+  "model": "glm-5.3"
+}

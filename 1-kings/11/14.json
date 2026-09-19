@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ያህዌህ ድማ ንሽሎሞ ጸላእቲ ኣንቂሑ — ⟨את⟩ ሓዳድ ኤዶማዊ፣ ካብ ዘርኢ እቲ ንጉስ እዩ ኣብ ኤዶም።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ድማ ኣንቂሑ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "ጸላእቲ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ንሽሎሞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓዳድ ኤዶማዊ"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ሓዳድ"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "ኤዶማዊ"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "ካብ ዘርኢ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "ኣብ ኤዶም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:45:17.545798435Z",
+  "model": "glm-5.3"
+}

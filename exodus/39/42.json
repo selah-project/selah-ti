@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ከም ኩሉ ዝኣዘዞ ያህዌህ ⟨את⟩ ሞሸ፣ ከምኡ ኣገበሩ ውላደ እስራኤል ⟨את⟩ ኩሉ እቲ ግብሪ።",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "ከም ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ዝኣዘዞ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ኣገበሩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እቲ ግብሪ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "እቲ ግብሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:44:56.474794020Z",
+  "model": "glm-5.3"
+}

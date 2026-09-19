@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እቲ ቃል ዝረኣየ ያስያሁ ወዲ ኣሞጽ ብዛዕባ ይሁዳን የሩሻላይምን።",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ቃል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ያስያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ኣሞጽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብዛዕባ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "የሩሻላይምን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:42:03.944243373Z",
+  "model": "glm-5.3"
+}

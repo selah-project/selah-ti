@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "«ሽድሽተ ዓመታት ⟨את⟩ ምድሪካ ተዘራኻ፣ ⟨את⟩ ውፉያኣ ድማ ትሓት።»",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "ሽድሽተ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ተዘራኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪካ"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ምድሪካ"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ትሓት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውፉያኣ"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ውፉያኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:28:00.405790953Z",
+  "model": "glm-5.3"
+}

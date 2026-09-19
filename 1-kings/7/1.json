@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ሽሎሞ ድማ ⟨את⟩ ቤቱ ኣብ ዘጠላተ ዓመታት ሓንጸ፣ ⟨את⟩ ኩሉ ቤቱ ድማ ጨሸፈ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሓንጸ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "ጨሸፈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ቤቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:52:02.355888303Z",
+  "model": "glm-5.3"
+}

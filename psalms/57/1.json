@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 57,
+  "translation": "ንመታከቲ ⟨ኣይትጥፍእ — ርእሲ ዜማ⟩፣ ናይ ዳዊድ ሚኽታም፣ ካብ ቅድሚ ሻኡል ኮይኑ ኣብ ዝሸልስሉ እዋን፣ ኣብ ስንጭሮ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንመታከቲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ትጥፍእ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ሚኽታም"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "ኣብ ምህጻሩ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ካብ ቅድሚ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "ኣብ ስንጭሮ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:09.764194870Z",
+  "model": "glm-5.3"
+}

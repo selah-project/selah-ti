@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "ልበይ ቃል ጽቡን የምውዕል፤ ኣነ ግብረይ ንንጉስ እየ ዝዛረብ፤ ቋንቋይ ብቕልጣፉ ዝጽሕፍ ብርኩት ⟨እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "የምውዕል"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡን"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ዝዛረብ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ግብረይ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ንንጉስ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ቋንቋይ"
+    },
+    {
+      "surface": "עט",
+      "gloss": "ብርኩት"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "ዝጽሕፍ"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "ብቕልጣፉ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:52.271943425Z",
+  "model": "glm-5.3"
+}

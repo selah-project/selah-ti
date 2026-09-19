@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 21:4",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ካብ ኮረባ ሓረን ኰነዩ፣ ብመንገድ ባሕሪ ሱፍ፣ ⟨את⟩ ምድሪ ኤዱም ንኽድምሰሉ፤ ነፍሲ ኩሉ ድማ ኣብቲ መንገድ ተቐጺለት።",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ኰነዩ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ኮረባ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ብመንገድ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ሱፍ"
+    },
+    {
+      "surface": "לסבב",
+      "gloss": "ንኽድምሰሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ ኤዱም"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዱም"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "ተቐጺለት"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብቲ መንገድ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:31:29.372312526Z",
+  "model": "glm-5.3"
+}

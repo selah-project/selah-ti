@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ንስምዒ እዝኒ ይሰምዑኒ እዮም፤ ውላድ ወጻዊ ድማ ይሓሉኒ እዮም።",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "ንስምዒ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "እዝኒ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ይሰምዑ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-ኒ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ወጻዊ"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ይሓሉ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-ኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:24.780840900Z",
+  "model": "glm-5.3"
+}

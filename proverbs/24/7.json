@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ጥበብ ንዕሉል ዝማዕበለ ⟨እያ⟩፣ ኣብ ኣፍደገ ኣፉን ኣይኽፈትን።",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "ዝማዕበለ"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "ንዕሉል"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ኣብ ኣፍደገ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ይኽፈት"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ኣፉ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:54:42.531677679Z",
+  "model": "glm-5.3"
+}

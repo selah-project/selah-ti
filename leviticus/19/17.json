@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኣብ ልብኻ ⟨את⟩ ኣሕይንካ ኣይትቐይሮ፤ ⟨את⟩ ብጻይካ ወትሮ ኣስተውዖ፣ በዚ ምኽንያት እቲ ጥፍኣት ድማ ኣይተቓልሶ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "ቐይሮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሕይንካ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ኣሕይንካ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ኣብ ልብኻ"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "ንምልሳሕ"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "ኣስተውዖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብጻይካ"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "ብጻይካ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ድማ ኣይ…ን"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ተቓልሶ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ብዛዕባ እቲ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ጥፍኣት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:55.074060816Z",
+  "model": "glm-5.3"
+}

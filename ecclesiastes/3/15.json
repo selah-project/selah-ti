@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እቲ ዝነበረ ቅድሚ ኣሎ፤ እቲ ክኸውን ዘሎ ቅድሚ ነበረ፤ ኤሎሂም ድማ ⟨את⟩ ነቲ ዝተሓወለ ይደሊ።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "እቲ ዝ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ዝነበረ"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ቅድም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ከምኡውን እቲ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ክኸውን ዘሎ"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ቅድም"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነበረ"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "ኤሎሂም ድማ"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ይደሊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ዝተሓወለ"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "ዝተሓወለ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:39:49.422734039Z",
+  "model": "glm-5.3"
+}

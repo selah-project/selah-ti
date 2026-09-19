@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "እቲ ኣብ ከተማ ንባዓሻ ዝሞተ፣ እቶም ኣባልቲ ክብልዎ እዮም፤ እቲ ኣብ በረኻ ካብኡ ዝሞተ ድማ፣ ዑፉ ሰማያት ክብልዎ እዩ።",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "እቲ ዝሞተ"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "ንባዓሻ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ኣብ ከተማ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ክብሉ"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "እቶም ኣባልቲ"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "እቲ ዝሞተ እውን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ኣብ በረኻ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ክብሉ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ዑፉ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    }
+  ],
+  "timestamp": "2026-09-19T08:44:05.096705978Z",
+  "model": "glm-5.3"
+}

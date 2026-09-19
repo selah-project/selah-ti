@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 1:12",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ነሩቤናውያንን ነጋድያንን ነሕዛቢ እቲ ጎረብቲ ምናሸን ድማ የሆሹዋዕ ተዛረበ ብምባል።",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "ነሩቤናውያንን"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "ነጋድያንን"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "ነሕዛቢ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "እቲ ጎረብቲ"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "ምናሸ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብምባል"
+    }
+  ],
+  "timestamp": "2026-09-19T08:37:59.989843274Z",
+  "model": "glm-5.3"
+}

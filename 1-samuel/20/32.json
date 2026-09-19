@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ይሆናታን ድማ ⟨את⟩ ሻኡል ኣቦኡ ተማልዖ፣ ነቲ ንሱ ኸኣ በሎ፦ «ስለ እንታይ ይቕተሎ፧ እንታይ ገበረ፧»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ተማልዖ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ይሆናታን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሻኡል ኣቦኡ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ስለ እንታይ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይቕተሎ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:12:02.938728453Z",
+  "model": "glm-5.3"
+}

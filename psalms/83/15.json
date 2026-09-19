@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 83,
+  "translation": "ከም ሓዊ ዝቐንድድ ገደማ፣ ከምታ ላምባ ዝሓድር ኣኽራር።",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "ከም ሓዊ"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ዝቐንድድ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ገደማ"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "ከምታ ላምባ"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "ዝሓድር"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ኣኽራር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:57.410187029Z",
+  "model": "glm-5.3"
+}

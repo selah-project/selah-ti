@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ኣቭራሃም ድማ ኣዚዙ፣ ኣብ መዓልታት ኣቲዡ፣ ያህዌህ ድማ ⟨את⟩ ኣቭራሃም ብኩሉ ባረኾ።",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "ኣቭራሃም ድማ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ኣዚዙ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ኣቲዡ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ኣብ መዓልታት"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ ድማ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ባረኾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቭራሃም"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብኩሉ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:45:35.638156130Z",
+  "model": "glm-5.3"
+}

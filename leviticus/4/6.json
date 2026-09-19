@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "እቲ ካህን ⟨את⟩ ጣቕኡ ኣብ እቲ ደም ኣጥምቑ፣ ካብ እቲ ደም ድማ ኣብ ቅድሚ ያህዌህ ኣብ ገጽ ⟨את⟩ መጋረቢ ቅዱስ ሸውዓተ ግዜ ረጪምቡ።",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "ኣጥምቑ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ካህን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጣቕኡ"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "ጣቕኡ"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ኣብ እቲ ደም"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "ረጪምቡ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "እቲ ደም"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ግዜ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገጽ መጋረቢ ቅዱስ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "መጋረቢ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ቅዱስ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:51:14.648978586Z",
+  "model": "glm-5.3"
+}

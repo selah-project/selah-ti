@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ዮና ድማ ካብ ከላይ እቲ ኣሳ ናብ ያህዌህ ኤሎሂምኡ ጸለመ።",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "ጸለመ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ዮና"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ኤሎሂምኡ"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "ካብ ከላይ"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "እቲ ኣሳ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:21:20.973783751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ነዚ ዓጽ እዚ ⟨את⟩ ኣብ ኢድካ ተወሲድ፣ ብኡ ⟨את⟩ እቶም ምልክታት ትገብር እምበር።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓጽ"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ዓጽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ተወሲድ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ኣብ ኢድካ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ብዝትገብር ኢልካ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ብኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምልክታት"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ምልክታት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:13:38.112260441Z",
+  "model": "glm-5.3"
+}

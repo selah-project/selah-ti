@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 57,
+  "translation": "ነፍሲ ኣብ መንጎ ኣናብስትትኡ ተተኺባ ኣለኹ፣ ኣብ መንጎ እቶም ዘበላዑ ተተኺባ ኣለኹ፣ ውላደ ሰብ፣ ስኒኦም ኣሮንን ጠበልቲን እዮም፣ ቛላቶም ድማ ብርሃቕ ሰይፍ እያ።",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "ኣናብስትትኡ"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ተተኺባ ኣለኹ"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "ዘበላዑ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ስኒኦም"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ኣሮን"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "ጠበልቲን"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "ቛላቶም"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "ብርሃቕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:09.551460827Z",
+  "model": "glm-5.3"
+}

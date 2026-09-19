@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ኣሕዙሩ ድማ ኣብ ሽኬም ⟨את⟩ ርሕብ ኣቦም ንኺራርቡ ኰይኖም ኸዱ።",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ኸዱ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ኣሕዙሩ"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "ንኺራርቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ርሕብ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ርሕብ"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ኣቦም"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "ኣብ ሽኬም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:56:23.762765977Z",
+  "model": "glm-5.3"
+}

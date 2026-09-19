@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ኣቦና ድማ «ተመለሱ፣ ብቕንዒ ንና ትንክ መግቢ ዕድጉልና» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ኣቦና"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ተመለሱ"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ዕድጉልና"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንና"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ትንኽ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "መግቢ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:05:47.348530472Z",
+  "model": "glm-5.3"
+}

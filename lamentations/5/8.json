@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣገልገልቲ ኣብ ልዕሊና ሰዓሩ፣ ካብ እዳኦም ዝናግፍ ድማ የለን።",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "ኣገልገልቲ"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ሰዓሩ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ኣብ ልዕሊና"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ዝናግፍ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ካብ እዳኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T06:38:34.950273206Z",
+  "model": "glm-5.3"
+}

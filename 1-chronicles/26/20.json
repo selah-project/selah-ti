@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 26:20",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ካብ ለዋይቲ ድማ ኣኽኣያ ኣብ ላዕሊ ኣትራሳት ቤት ኤሎሂምን ኣብ ላዕሊ ኣትራሳት ቅዱሳት ነገራትን ነበረ።",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "ካብ ለዋይቲ ድማ"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ኣኽኣያ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "ኣትራሳት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "ንኣትራሳት ድማ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ቅዱሳት ነገራት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:50:23.146405126Z",
+  "model": "glm-5.3"
+}

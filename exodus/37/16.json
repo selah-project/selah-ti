@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 37:16",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ነቶም ቅዋላት እቶም ኣብ ልዕሊ እቲ ሰሌዳ ⟨את⟩ ጽላላቱን ⟨ואת⟩ ኮብያቱን ⟨ואת⟩ ማዕጻታቱን ⟨ואת⟩ እተሓብኣሉ ሸፍነታቱን ነቲ ዝስከእ ብኦም፣ ካብ ንጹር ወርቂ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅዋላት"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ነቶም ቅዋላት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "እቲ ሰሌዳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጽላላቱ"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "ጽላላቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኮብያቱ"
+    },
+    {
+      "surface": "כפתיו",
+      "gloss": "ኮብያቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ማዕጻታቱ"
+    },
+    {
+      "surface": "מנקיתיו",
+      "gloss": "ማዕጻታቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሸፍነታቱ"
+    },
+    {
+      "surface": "הקשות",
+      "gloss": "እተሓብኣሉ ሸፍነታቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "ዝስከእ"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ብኦም"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ንጹር"
+    }
+  ],
+  "timestamp": "2026-09-18T21:44:18.564459062Z",
+  "model": "glm-5.3"
+}

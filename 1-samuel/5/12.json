@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "እቶም ሰባት ዘይሞቱሉ ብኣፉላት ተታሕመሩ፤ ጩኸት ከተማ ድማ ናብ ሰማያት ከደት።",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "እቶም ሰባት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ሞቱን"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "ተታሕመሩ"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "ብኣፉላት"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ከደት"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "ጩኸት"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:59:58.201746920Z",
+  "model": "glm-5.3"
+}

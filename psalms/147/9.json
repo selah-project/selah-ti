@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 147,
+  "translation": "ነብዪ ⟨ኣይኮነን፤⟩ ንኵር መግባ ይሃብ፣ ንውላድ ዓባኒ እቶም ዝጸውዑ ድማ።",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "ይሃብ"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "ንኵር"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "መግባ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ዓባኒ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ዝጸውዑ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:38:55.540061026Z",
+  "model": "glm-5.3"
+}

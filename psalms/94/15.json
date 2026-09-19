@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 94,
+  "translation": "ምኽንያቱ ፍትሕ ክሳብ ጽድቂ ኪምለስ እዩ፣ ኵሉ ቐናዕ ልቢ ድማ ድሕሪኡ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ኪምለስ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍትሕ"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "ድሕሪኡን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ቐናዕቲ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:55.793729479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ኩሉ ሕዝቢ ይሁዳ ዕዝያሃው ወሲኹ፣ ንሱ ወዲ ሸውዓተ ዓሰርተ ዓመታት እናኾነ፣ ኣብ ቦታ ኣቦኡ ኣምጻያሃው ነገሥቲ ገበሩዎ።",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ወሲኹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዕዝያሃው"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "ዕዝያሃው"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "ነገሥቲ ገበሩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ዎ",
+      "marks": "ዕዝያሃው"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ቦታ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "ኣምጻያሃው"
+    }
+  ],
+  "timestamp": "2026-09-19T08:12:00.394664558Z",
+  "model": "glm-5.3"
+}

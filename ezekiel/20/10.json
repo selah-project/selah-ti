@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 20:10",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ካብ ምድሪ ሚጽራይም ወጽኦም፣ ናብ በረሃ ድማ ኣእቶም።",
+  "tokens": [
+    {
+      "surface": "ואוציאם",
+      "gloss": "ወጽኦም"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ואבאם",
+      "gloss": "ኣእቶም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "በረሃ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:55:19.286455083Z",
+  "model": "glm-5.3"
+}

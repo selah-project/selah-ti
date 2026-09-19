@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 78:19",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ብዛዕባ ኤሎሂም ተዛረቡ፣ ኢሎም፦ ኤል ኣብ በረኻ ጠረጴዛ ክዳልዎ ይኽእል ዶ?",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "ተዛረቡ"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ብዛዕባ ኤሎሂም"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ኢሎም"
+    },
+    {
+      "surface": "היוכל",
+      "gloss": "ይኽእል ዶ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "ክዳልዎ"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "ጠረጴዛ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ በረካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:57.101089112Z",
+  "model": "glm-5.3"
+}

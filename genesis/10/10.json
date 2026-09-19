@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ንጅማር ናይ መንግስቱ ባቬልን ኤረኽን ኣካድን ከልነህን ኣብ ምድሪ ሽእናር ነይራ።",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ነይራ"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ንጅማር"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "ናይ መንግስቱ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባቬል"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "ኤረኽ"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "ኣካድ"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "ከልነህ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "ሽእናር"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:51.599555605Z",
+  "model": "glm-5.3"
+}

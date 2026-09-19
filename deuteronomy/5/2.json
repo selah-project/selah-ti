@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ያህዌህ ኤሎሂምና ምስና ኪዳን ቐረጸ ኣብ ሕሬብ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ቐረጸ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ምስና"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ኣብ ሕሬብ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:48:31.873774237Z",
+  "model": "glm-5.3"
+}

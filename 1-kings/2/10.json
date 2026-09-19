@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ዳዊድ ከኣ ምስ ኣቦታቱ ተኺኡ፣ ኣብ ከተማ ዳዊድ ድማ ተቐብአ።",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ተኺኡ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ኣቦታቱ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ተቐብነ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ኣብ ከተማ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:45:36.404755969Z",
+  "model": "glm-5.3"
+}

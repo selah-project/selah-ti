@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 3:5",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ጸልማትን ጽልማት ሞትን ይድሓንዎ፣ ደመና ኣብ ልዕሊኡ ትቐምጥ፣ መራርቲ መዓልታት የስፍርዎ።",
+  "tokens": [
+    {
+      "surface": "יגאלהו",
+      "gloss": "ይድሓንዎ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጸልማትን"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "ጽልማት ሞትን"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "ትቐምጥ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊኡ"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "ደመና"
+    },
+    {
+      "surface": "יבעתהו",
+      "gloss": "የስፍርዎ"
+    },
+    {
+      "surface": "כמרירי",
+      "gloss": "መራርቲ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልታት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:01:40.086065046Z",
+  "model": "glm-5.3"
+}

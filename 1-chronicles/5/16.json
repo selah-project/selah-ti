@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 5:16",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣብ ጊልዓድ፣ ኣብ ባሻንን ኣብ ውላዳታን፣ ኣብ ኩሉ ተረፍታት ሻሮንን፣ ኣብ ዶባታቶም ንሳቶም ተቐመጡ።",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ተቐመጡ"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "ኣብ ጊልዓድ"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "ኣብ ባሻን"
+    },
+    {
+      "surface": "ובבנתיה",
+      "gloss": "ኣብ ውላዳታ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "מגרשי",
+      "gloss": "ተረፍታት"
+    },
+    {
+      "surface": "שרון",
+      "gloss": "ሻሮን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "תוצאותם",
+      "gloss": "ዶባታቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:31:49.170924238Z",
+  "model": "glm-5.3"
+}

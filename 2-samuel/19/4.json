@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 19:4",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "እቲ ህዝቢ ድማ ኣብቲ መዓልቪ ናብ እቲ ከተማ ንክኣቱ ተሰሪጡ ከደ፣ ኣብ ምሕቃቕ ምስ እናሸብሮም ዝሕፉሩ ሰባት ከም ዝሰርጡ።",
+  "tokens": [
+    {
+      "surface": "ויתגנב",
+      "gloss": "ተሰሪጡ ከደ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብቲ መዓልቪ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ንክኣቱ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ናብ እቲ ከተማ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "יתגנב",
+      "gloss": "ዝሰርጥ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "הנכלמים",
+      "gloss": "ዝሕፉሩ"
+    },
+    {
+      "surface": "בנוסם",
+      "gloss": "ምስ እናሸብሮም"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "ኣብ ምሕቃቕ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:37:39.962998812Z",
+  "model": "glm-5.3"
+}

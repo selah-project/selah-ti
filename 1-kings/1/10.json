@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ነብዪ ናታንን በንያሁን ⟨את⟩ ነቶም ጋንተታትን ሽሎሞን ወዲ ኣሕዋቱ ግን ኣይደወሎምን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ነቢያ ናታን",
+      "marks": "ናታን"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ናታን"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነብዪ"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "በንያሁ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ነቶም",
+      "marks": "ጋንተታት"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "ጋንተታት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ነቶም",
+      "marks": "ሽሎሞ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወዲ ኣሕዋቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ደወሎምን"
+    }
+  ],
+  "timestamp": "2026-09-19T00:44:21.914204254Z",
+  "model": "glm-5.3"
+}

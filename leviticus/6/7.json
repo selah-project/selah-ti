@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እዚኡ ድማ ቶራ ⟨ሥርዓት⟩ ናይ መግቢ ወፈያ እዩ፤ ወላደ ኣሮን ⟨את⟩ኣብ ኣብ ቅድሚ ያህዌህ፣ ናብ ገጽ እቲ ማዕዶ ይቐርብዋ።",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "እዚኡ ድማ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "መግቢ ወፈያ"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ይቐርብዋ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወላደ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሮን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ማዕዶ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:48:50.764164017Z",
+  "model": "glm-5.3"
+}

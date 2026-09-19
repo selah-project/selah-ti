@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 52,
+  "translation": "እቶም ጻድቓን ድማ ይረኣዩ፣ ይፈርኹ፣ ኣብ ርእሱ እውን ይሰቓቑ።",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ይረኣዩ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ጻድቓን"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ይፈርኹ"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "ኣብ ርእሱ"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "ይሰቓቑ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:02:25.461043734Z",
+  "model": "glm-5.3"
+}

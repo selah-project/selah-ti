@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ኣብ መርዑታት ደሻ ዓቢ ኣትሮኖ፤ ኣብ ላዕሊ ማይ ዕረፍቲ የሓልወኒ።",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "ኣብ መርዑታት"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ደሻ"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "ኣትሮኖ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "ዕረፍቲ"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "የሓልወኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:01:05.266896494Z",
+  "model": "glm-5.3"
+}

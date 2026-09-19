@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እቲ ዝነበረ ቀደም ስሙ ተባህለ፣ ዝሰብ ምዃኑ ተፈሊጡ፤ ካብኡ ምስ ዝጠንከር ድማ ክኹርቖ ኣይኽእልን።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "እቲ ዝነበረ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ዝነበረ"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ቀደም"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "ተባህለ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "ተፈሊጡ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ክኽእል"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "ክኹርቖ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "ዝጠንከር"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:43:04.955623731Z",
+  "model": "glm-5.3"
+}

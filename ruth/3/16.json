@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ንሳ ድማ ናብ ስምታ መጸት፤ ንሳ ድማ በለት፦ «መን ኢኺ ጓልይ?» ንሳ ድማ ኩሉ እቲ እቲ ሰብ ⟨את⟩ ዝገበራ ዝነበረ ተነገረትላ።",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "መጸት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "ስምታ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "በለት"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "את",
+      "gloss": "ኢኺ"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ጓልይ"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ተነገረትላ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ኣባኣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝገበረ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበረ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ኣባኣ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:07:59.675084879Z",
+  "model": "glm-5.3"
+}

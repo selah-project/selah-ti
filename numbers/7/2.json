@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 7:2",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣሃዞ እስራኤል፡ ርእሳት ስድራታት ኣቦታቶም ቀሩቡ፤ ንሳቶም ኣሃዞ እቲ ኣዋልዲ እዮም፡ ንሳቶም እቶም ኣብ ልዕሊ እቶም ዝተቐፅሉ ዝተቐምጡ እዮም።",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "ቀሩቡ"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "ኣሃዞ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ርእሳት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ስድራታት"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ኣቦታቶም"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "ኣሃዞ"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "እቲ ኣዋልዲ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ዝተቐምጡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "እቶም ዝተቐፅሉ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:15:46.939791460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 10:21",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ንሱ ምስጋኣኻ እዩ፣ ንሱውን ኤሎሂምካ እዩ፣ ምስ ⟨את⟩ ንስኻ ⟨את⟩ እታኦም ዓበይተ ነገራትን ⟨את⟩ እታኦም ሓዊርቲ ነገራትን ዝገበረ፣ እዚኦም ኣእዳው ዝረኣያኦም።",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ምስጋኣኻ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሱውን"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ምስ ⟨את⟩ ንስኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታኦም ዓበይተ ነገራት"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "እታኦም ዓበይተ ነገራት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እታኦም ሓዊርቲ ነገራት"
+    },
+    {
+      "surface": "הנוראת",
+      "gloss": "እታኦም ሓዊርቲ ነገራት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ረኣያ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ኣእዳው"
+    }
+  ],
+  "timestamp": "2026-09-18T22:50:54.870099277Z",
+  "model": "glm-5.3"
+}

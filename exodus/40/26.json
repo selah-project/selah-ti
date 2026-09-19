@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ነቲ ወፈያ ናይ ወርቂ ኣብ ዤመ መቕረብ ኣብ ቅድሚ እቲ ፓርኮት ኣቕሚጹ።",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ኣቕሚጹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወፈያ ናይ ወርቂ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ናይ ወርቂ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ኣብ ዤመ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መቕረብ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "እቲ ፓርኮት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:45:11.918470353Z",
+  "model": "glm-5.3"
+}

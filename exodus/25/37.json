@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "እተን ሰባት መብራሕታተ ⟨את⟩ ትገብር፣ ⟨את⟩ መብራሕታተ ኣሪሹ ከምኡ'ውን ኣብ ልዕሊ ኣንፈታ ገጸኣ ትሓብር።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መብራሕታተ"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "መብራሕታተ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "ኣሪሻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መብራሕታተ"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "መብራሕታተ"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "ትሓብር"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ኣንፈታ"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "ገጸኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:30:51.611142470Z",
+  "model": "glm-5.3"
+}

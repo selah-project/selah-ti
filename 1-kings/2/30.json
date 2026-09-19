@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 2:30",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "በንያሁ ናብ ማሕደር ያህዌህ እተወ ነቲ «ከምዚ በለ ⟨እቲ⟩ ንጉስ፦ ውጸእ» በሎ፤ ንሱ ድማ «ኣይኮነን፤ ኣብዚ እሞት እየ» በለ፤ በንያሁ ድማ ⟨את⟩ ⟨እቲ⟩ ንጉስ ቃል ተመሊሱ «ከምዚ ተዛረበ ዮኣብ፣ ከምዚውን መለሰለይ» በሎ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "እተወ"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "በንያሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "צא",
+      "gloss": "ውጸእ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "פה",
+      "gloss": "ኣብዚ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "እሞት"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተመሊሱ"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "በንያሁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንጉስ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብምባል"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮኣብ"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ከምዚውን"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "መለሰለይ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:48:36.206546546Z",
+  "model": "glm-5.3"
+}

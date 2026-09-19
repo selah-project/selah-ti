@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 8:9",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ነቶም ሌዋውያን ⟨את⟩ ናብ ቅድሚ ድንኳን ምጉባእ ቐረብካ፣ ኩሉ ጉባእ ውላድ እስራኤል ድማ ⟨את⟩ ኣክሊትካ።",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "ቐረብካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሌዋውያን"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሌዋውያን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ናብ ቅድሚ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ምጉባእ"
+    },
+    {
+      "surface": "והקהלת",
+      "gloss": "ኣክሊትካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ጉባእ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:19:43.419431554Z",
+  "model": "glm-5.3"
+}

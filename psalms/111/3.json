@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 111,
+  "translation": "ክብሪን ሃበርታን እዩ ስራሕኡ፣ ጽድቂ እኡ ድማ ናብ ዘለኣለም ትቕፅል።",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ንሃበርታ"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ስራሕኡ"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ድማ ጽድቂ እኡ"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ትቕፅል"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ናብ ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:25.308851250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 66,
+  "translation": "ስጉሙ ርኡዩ ኤሎሂም ንስራሓቱ ዝገበሮ፤ ኣብ ልዕሊ ውላድ ሰብ ብዙሕ ዝርድእ ተግባሩ እዩ።",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ስጉሙ"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ርኡዩ"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "ንስራሓቱ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ብዙሕ ዝርድእ"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "ተግባር"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:00.642836597Z",
+  "model": "glm-5.3"
+}

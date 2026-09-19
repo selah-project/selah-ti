@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ያህዌህ ድማ ኣብ ንጓሓቡ እናሰለመ ⟨את⟩ ምዕቋብ ኢዮብ መለሶ፤ ያህዌህ ድማ ነቲ ⟨את⟩ ኩሉ ናይ ኢዮብ ክሳብ ክብደት ወሲኹሉ።",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "መለሶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምዕቋብ ኢዮብ"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "ምዕቋብ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኢዮብ"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "ኣብ ዝሰለመ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ን"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ጓሓቡ"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ወሲኹ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ናይ ኢዮብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "ናይ ኢዮብ"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "ክሳብ ክብደት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:28:16.412460379Z",
+  "model": "glm-5.3"
+}

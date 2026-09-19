@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 140,
+  "translation": "ሰብ ልሳን ኣብ ምድሪ ኣይተሰርሐን፤ ሰብ ዓመድ ኸኣ ብክፋት ክውደቑ እዮም።",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ልሳን"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ተሰርሐን"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ዓመድ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "ክውደቑ እዮም"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "ናብ ምውዕቋቕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:58.092053197Z",
+  "model": "glm-5.3"
+}

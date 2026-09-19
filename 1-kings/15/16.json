@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ውግእ ከምኡውን ኣብ መንጎ ኣሳን ኣብ መንጎ በዓሻ ንጉስ እስራኤልን ኩሎም መዓልታቶም ነይራ።",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "ውግእን"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነይራ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ኣሳ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ኣብ መንጎን"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "በዓሻ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "መዓልታቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:03:58.968294714Z",
+  "model": "glm-5.3"
+}

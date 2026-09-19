@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ጭራይን ጭራይን፣ ኤፋንን ኤፋንን — ኩሎም ክልቲኦም ኣስዕባት ናይ ያህዌህ እዮም።",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "ጭራይን"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ጭራይን"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ኤፋንን"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "ኤፋንን"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ኣስዕባት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ክልቲኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:53:38.414315810Z",
+  "model": "glm-5.3"
+}

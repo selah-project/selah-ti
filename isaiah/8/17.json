@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 8:17",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣነ ንያህዌህ ንገጹ ካብ ስነ ያዕቆቭ ዝሓብእ እናተጸበይኩ ኣሎኹ፣ ነቲ ⟨ንሱ⟩ እናጸበይኩ ድማ ኣሎኹ።",
+  "tokens": [
+    {
+      "surface": "וחכיתי",
+      "gloss": "እናተጸበይኩ ኣሎኹ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "המסתיר",
+      "gloss": "ዝሓብእ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ንገጹ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ስነ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "וקויתי",
+      "gloss": "እናጸበይኩ ድማ ኣሎኹ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ነቲ ንሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:44:56.351578424Z",
+  "model": "glm-5.3"
+}

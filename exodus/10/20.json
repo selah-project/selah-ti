@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 10:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ያህዌህ ኸኣ ⟨את⟩ ልቢ ׍ארעה ኣጸናዎ፣ ንውሉድ እስራኤል ድማ ኣይለኣኾምን።",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ኣጸና"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንልቢ ׍ארעה"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ለኣኾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንውሉድ እስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውሉድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T21:18:28.800129944Z",
+  "model": "glm-5.3"
+}

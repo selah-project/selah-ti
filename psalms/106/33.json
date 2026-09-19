@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ምኽንያቱ ስለ ዝበሓሱዎ ነፍሱን ⟨את⟩፣ ብኣንቀሳቓሱ ድማ ተዛረበ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ ስለ"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "ዝበሓሱዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሱን"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ነፍሱን"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "ብኣንቀሳቓሑ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:37.733180623Z",
+  "model": "glm-5.3"
+}

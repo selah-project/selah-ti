@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 110,
+  "translation": "ኣዶናይ ኣብ የማንካ ኣብ መዓልቲ ቍጥዓቱ ንሱሓት ሰባረ።",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ የማንካ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "የማንካ"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ሰባረ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ቍጥዓቱ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ንሱሓት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:21.530795833Z",
+  "model": "glm-5.3"
+}

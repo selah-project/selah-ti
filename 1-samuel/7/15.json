@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ሽሙኤል ድማ ⟨את⟩ እስራኤል ኣብ ኩሉ መዓልታት ሕይወቱ ፈረደ።",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ፈረደ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሽሙኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ሕይወቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:40:16.548118804Z",
+  "model": "glm-5.3"
+}

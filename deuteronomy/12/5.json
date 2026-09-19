@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 12:5",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ንስኻትኩም ግን ነቲ ቦታ እቲ ያህዌህ ኤሎሂምኩም ካብ ኩሉ ዓንወርኩም ይመርጾ ን⟨את⟩ ስሙ ኣብኡ ንኽግበር፣ ነቲ ማሕደሩ ብትሕቲ ትማሓሩ፣ ነታ ቦታ ድማ ክትኹዱ ኢኹም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ግን"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ኣብ ክንዲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "እቲ ቦታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "ይመርጽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "ዓንወርኩም"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "ንኽግበር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "לשכנו",
+      "gloss": "ነቲ ማሕደሩ"
+    },
+    {
+      "surface": "תדרשו",
+      "gloss": "ትማሓሩ"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ክትኹዱ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ነታ ቦታ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:56:44.690073638Z",
+  "model": "glm-5.3"
+}

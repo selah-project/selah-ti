@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "⟨את⟩ ያህዌህ መለኹ፣ ደገነኒ፣ ካብ ኩለኒ ስግኣታተይ ናጻኣኒ።",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "መለኹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ደገነኒ"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "ስግኣታተይ"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ናጻኣኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:52:52.651123386Z",
+  "model": "glm-5.3"
+}

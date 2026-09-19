@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 22:12",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ጸልማት ኣብ ዙርያኡ ማዕደራት ገበረሉ፤ ጥቕልላይ ማይ፣ ጸጉዳት ደመናታት ሰማያት።",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "ገበረሉ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጸልማት"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "ኣብ ዙርያኡ"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "ማዕደራት"
+    },
+    {
+      "surface": "חשרת",
+      "gloss": "ጥቕልላይ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "ጸጉዳት"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ደመናታት ሰማያት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:37:02.318882811Z",
+  "model": "glm-5.3"
+}

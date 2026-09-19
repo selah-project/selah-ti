@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ምእኳ ምስ ንስኻ ምንጪ ህይወት ኣሎ፤ ብብርሃንካ ድማ ብርሃን ንርእይ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምእኳ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስ ንስኻ"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "ምንጪ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ህይወት"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "ብብርሃንካ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ንርእይ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:32.320618201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኮይኑ፣ ካብ ግንዲ ይሽይ ቕንጭይ ይወጽእ፣ ካብ ሥርባቱ ድማ ቅርንጫፍ ትወጽእ ትብቕል።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ይወጽእ"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "ቕንጭይ"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "ካብ ግንዲ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ይሽይ"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "ቅርንጫፍ"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "ካብ ሥርባቱ"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "ትብቕል"
+    }
+  ],
+  "timestamp": "2026-09-19T01:51:09.239566103Z",
+  "model": "glm-5.3"
+}

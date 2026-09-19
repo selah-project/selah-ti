@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "⟨את⟩ እቲ ኩስ፣ ⟨את⟩ እቲ ያንሹፍ፣ ከምኡውን እቲ ቲንሻማት።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ኩስ"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "እቲ ኩስ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ያንሹፍ"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "እቲ ያንሹፍ"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "እቲ ቲንሻማትን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:55:23.881681166Z",
+  "model": "glm-5.3"
+}

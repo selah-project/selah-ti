@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 3:9",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ንላዊያት ⟨את⟩ ንኣሓሮንን ንውላዱን ትሃቦም፤ ተዋሂቦም ተዋሂቦም ንኡሱ ⟨את⟩ ካብ ውላደ እስራኤል እዮም።",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ትሃቦም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ላዊያት"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ላዊያት"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ንኣሓሮን"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ንውላዱን"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "ተዋሂቦም"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "ተዋሂቦም"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እዮም"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡሱ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ካብ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:13:07.874285934Z",
+  "model": "glm-5.3"
+}

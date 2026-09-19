@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "እቲ ቃል እቲ ናብ ይርምያሁ ካብ ያህዌህ ⟨מאת⟩ ዝኾነሉ ንምባል።",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ቃል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ዝኾነሉ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ይርምያሁ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ቃል ያህዌህ (ካብ ያህዌህ)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ንምባል"
+    }
+  ],
+  "timestamp": "2026-09-19T08:51:13.998794700Z",
+  "model": "glm-5.3"
+}

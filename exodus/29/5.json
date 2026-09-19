@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ነቲ እስነ-ልብሲ ተበጊስካ ⟨את⟩ ኣሃሮን ብቆታን ኣልብሶ፣ ⟨את⟩ ማእስል ናይ ኤፉድን ⟨את⟩ ኤፉድን ⟨את⟩ ኩሽቲን፣ ብሓፈራ ናይ ኤፉድ ከኣ ተኣግብዮ።",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ተበጊስካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስነ-ልብሲ"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "እስነ-ልብሲ"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "ኣልብሶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሃሮን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቆታን"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "ቆታን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ማእስል"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "ማእስል"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ኤፉድ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኤፉድ"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ኤፉድ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሽቲ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ኩሽቲ"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "ተኣግብዮ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ሉ"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "ሓፈራ"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ኤፉድ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:34:34.053507224Z",
+  "model": "glm-5.3"
+}

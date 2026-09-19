@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 38:27",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ድማ ነይሩ ሚእቲ ኪኪራ ብር ንምውዳእ ⟨את⟩ መሰረታት ⟨the⟩ መቕደስን ⟨את⟩ መሰረታት ⟨the⟩ መጋረፊን — ሚእቲ መሰረታት ንሚእቲ ⟨the⟩ ኪኪራ፣ ሓደ ኪኪራ ንሓደ ⟨the⟩ መሰረት።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ድማ ነይሩ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ሚእቲ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ኪኪራ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "לצקת",
+      "gloss": "ንምውዳእ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሰረታት ⟨the⟩ መቕደስ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "መሰረታት"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "መቕደስ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መሰረታት ⟨the⟩ መጋረፊ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "መሰረታት"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "መጋረፊ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ሚእቲ"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "መሰረታት"
+    },
+    {
+      "surface": "למאת",
+      "gloss": "ንሚእቲ"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ኪኪራ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ኪኪራ"
+    },
+    {
+      "surface": "לאדן",
+      "gloss": "ንሓደ ⟨the⟩ መሰረት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:44:32.654627235Z",
+  "model": "glm-5.3"
+}

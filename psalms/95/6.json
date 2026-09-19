@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 95,
+  "translation": "እተወ፣ ኣብ ቅድሚ ያህዌህ መፍጣርና ንስገድ፣ ንዝወርድ፣ ንበርክ።",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "እተወ"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "ንስገድ"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "ንዝወርድ"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "ንበርክ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "መፍጣርና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:27.934097996Z",
+  "model": "glm-5.3"
+}

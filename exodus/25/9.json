@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ከምቲ ኩሉ እቶ ኣነ ኣረኣየኩም ኾኖ ⟨את⟩ ቅርጺ ኡማሕደርን ⟨את⟩ ቅርጺ ኩሉ ቱሎቱን ከምኡ ክትገብርዎ።",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "ከምቲ ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ኣረኣየኩም"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "ንዓኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅርጺ ኡማሕደር"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ቅርጺ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ኡማሕደር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቅርጺ ኩሉ ቱሎቱ"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ቅርጺ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ቱሎቱ"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ክትገብርዎ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:31:03.686452510Z",
+  "model": "glm-5.3"
+}

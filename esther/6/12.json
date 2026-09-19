@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 6:12",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ሞርደካይ ድማ ናብ በረ እቲ ንጉስ ተመሊሱ፣ ሃማን ድማ ናብ ቤቱ ተበግሩ፣ ተራኸብን ርእሱ ተሸፈነን።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተመሊሱ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ሞርደካይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "በረ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ሃማን ድማ"
+    },
+    {
+      "surface": "נדחף",
+      "gloss": "ተበግሩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ተራኸብ"
+    },
+    {
+      "surface": "וחפוי",
+      "gloss": "ተሸፈነ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:50:25.140795508Z",
+  "model": "glm-5.3"
+}

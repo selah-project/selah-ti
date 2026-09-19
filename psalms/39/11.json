@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "እትትሕትኻ ካብ ልዕለይ ኣስወግድ፤ ካብ መቓወምቲ ኢድኻ ኣነ ተወዲእኩ።",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "ኣስወግድ"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ካብ ልዕለይ"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "እትትሕትኻ"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "ካብ መቓወምቲ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድኻ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ተወዲእኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:49.610996583Z",
+  "model": "glm-5.3"
+}

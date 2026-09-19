@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ምኽንያቱ ጽድቂ ዝገብር ሰብ ኣብ ምድሪ የለን፣ ጽቡቕ ዝገብር ኮይኑ ዝድምሰስ የለን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ዝገብር"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡቕ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኮይኑ ዝድምሰስ የለን"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "ዝድምሰስ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:42:46.924362167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 60,
+  "translation": "ኣብ ዝተዓገቶ ⟨את⟩ ኣራም ናሓረይምን ⟨את⟩ ኣራም ጾባን፣ ዮኣብ ተመሊሱ ⟨את⟩ ዕዶም ኣብ ማዕበል ሙላሕ ዓሰርተ ክልተ ኣልፍ ሰበሎ።",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "ኣብ ዝተዓገቶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣራም"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "ናሓረይም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣራም"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ጾባ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተመሊሱ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮኣብ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ሰበሎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዕዶም"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ዕዶም"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "ኣብ ማዕበል"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "ሙላሕ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ኣልፍ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:30.747295312Z",
+  "model": "glm-5.3"
+}

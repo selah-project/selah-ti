@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "እቲ ምስ ሰበይቲ ኣቡሑ ዝተኛ ክርጉም እዩ፣ ምኽንያቱ ክንፈ ኣቡሑ ሃሊኹ፤ ኩሉ ⟨እቲ⟩ ህዝቢ ድማ «ኣሚን» ይብል።",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ክርጉም"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ዝተኛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡሑ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ሃሊኹ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ክንፈ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡሑ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ድማ ይብል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ኣሚን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:07:23.521780548Z",
+  "model": "glm-5.3"
+}

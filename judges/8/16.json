@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ድማ ⟨את⟩ በጾም ከተማን ⟨את⟩ ቈርቢቲ በረኻን ⟨את⟩ ኣኽራፋትን ሒዙ ብኣቶም ነቶም ⟨את⟩ ሰባት ሱኮት ኣፍለጠ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ሒዙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በጾም ከተማ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "በጾም"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቈርቢቲ በረኻ"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "ቈርቢቲ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "በረኻ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣኽራፋት"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "ኣኽራፋት"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ኣፍለጠ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ብኣቶም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰባት ሱኮት"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "ሱኮት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:43:39.901714699Z",
+  "model": "glm-5.3"
+}

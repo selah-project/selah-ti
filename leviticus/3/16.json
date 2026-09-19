@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እቲ ካህን ድማ ነፆሞም ኣብ ቤቱ መስዊዕ፤ ንሽዑ ዝሓረኽ መግቢ ወፈያ ⟨እዩ⟩፤ ኩሉ ስቡእ ናይ ያህዌህ እዩ።",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "ነፆሞም"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ካህን"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ኣብ ቤቱ መስዊዕ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "መግቢ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "ንሽዑ"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ዝሓረኽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ስቡእ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ናይ ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:30:22.679837415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ኣብ ሕርብ ሻምል ገበሩ፤ ንቅርጺ ዝተባዓዐ ድማ ሰገዱሉ።",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ሻምል"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ኣብ ሕርብ"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ሰገዱሉ"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "ንቅርጺ ዝተባዓዐ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:23.218324147Z",
+  "model": "glm-5.3"
+}

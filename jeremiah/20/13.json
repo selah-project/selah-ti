@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ንያህዌህ ተዛርሑ፣ ⟨את⟩ ያህዌህ ኣመስግኑ፤ ምኽንያቱ ⟨את⟩ ነፍሲ ደሃ ካብ ኢድ ኣጣራቕ ኣድሒኑ እዩ።",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ተዛርሑ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ኣመስግኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ኣድሒኖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሲ ደሃ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ደሃ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ኣጣራቕ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:44:03.180521497Z",
+  "model": "glm-5.3"
+}

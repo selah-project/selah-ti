@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ኣቭራሃም ድማ «ኣነ እዓም» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "እዓም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:44:49.004845018Z",
+  "model": "glm-5.3"
+}

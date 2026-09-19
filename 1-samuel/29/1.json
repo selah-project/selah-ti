@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "እቶም ፍልስጢምቲ ⟨את⟩ ኩሉ ሠራዊቶም ኣብ ኣፌቅ ኣኽቢቦም፣ እስራኤል ድማ ኣብ ⟨the⟩ ምንጪ እቲ ኣብ ይዘረዕኤል ዝተቐመጠ ተሰፊሑ።",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ኣኽቢቦም"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጢምቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ሠራዊቶም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "ሠራዊቶም"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "ኣብ ኣፌቅ"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "እስራኤል ድማ"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "ተሰፊሑ"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ኣብ ⟨the⟩ ምንጪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "ኣብ ይዘረዕኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T08:41:36.621018770Z",
+  "model": "glm-5.3"
+}

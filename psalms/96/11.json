@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 96,
+  "translation": "ሰማያት ደለዩ፣ ምድሪ ተዓወተት፤ ባሕሪ ይዘምር እዩ ምልኡን።",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "ደለዩ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ተዓወተት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "ይዘምር"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ምልኡን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:29.252442347Z",
+  "model": "glm-5.3"
+}

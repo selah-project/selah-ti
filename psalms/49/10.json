@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "ንዘለኣለም ገና ክነብር፣ በዓ ኸኣ ክረኣየ ኣይኮነን።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ክነብር"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ገና"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ንዘለኣለም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ይረኣየ"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "በዓ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:27.420230903Z",
+  "model": "glm-5.3"
+}

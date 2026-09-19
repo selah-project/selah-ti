@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 1:4",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ድማ ኢዱ ልዕሊ ርእሲ እቲ ዕላሊ ይጥዕን፤ ንኡ ንምሕደሱ ከኣ ልዕሊኡ ይቕበል።",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ይጥዕን"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ልዕሊ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "እቲ ዕላሊ"
+    },
+    {
+      "surface": "ונרצה",
+      "gloss": "ይቕበል"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ንምሕደሱ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ልዕሊኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:47:49.614821579Z",
+  "model": "glm-5.3"
+}

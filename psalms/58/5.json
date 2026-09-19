@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 58,
+  "translation": "ስምጢኦም ከም ስምጢ ኣጋይሽ እዩ፤ ከም ኩራ ኩራይ እዩ ዝጸንሕ፣ እንዳሰምዑ እናኸልከለ።",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "ስምጢኦም"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ኦም"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ስምጢ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ኣጋይሽ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "ኩራይ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ኩራ"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "እናኸልከለ"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "እንዳሰምዑ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:02:55.787284547Z",
+  "model": "glm-5.3"
+}

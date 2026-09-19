@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 137,
+  "translation": "ልሳንይ ንውሽጣ ኣፍይ ክትሰርጽለኒ እዩ፣ የሩሻላይም እንተ ዘይዘንጸልኩኪ፣ ወይ የሩሻላይም ⟨את⟩ ኣብ ልዕሊ ርእሲ ሓጐስታይ እንተ ዘይሓሊፍኩ።",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "ክትሰርጽለኒ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ልሳንይ"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "ንውሽጣ ኣፍይ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይ"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "ዘንጸልኹኪ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይ"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ሓሊፍኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሩሻላይም"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "ሓጐስታይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:38:12.792644967Z",
+  "model": "glm-5.3"
+}

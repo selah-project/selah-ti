@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 8:16",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣብ መንጎ ኡላይ ድማ ድምጺ ሰብ ሰምዐኩ፤ ደወለን ወይበለን፦ «ጋብርየል፣ ነቲ ሰብ እቲ ርእዪ ⟨את⟩ ኣስምዖ።»",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "ሰምዐኩ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጺ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ኡላይ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ደወለ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ወይበለ"
+    },
+    {
+      "surface": "גבריאל",
+      "gloss": "ጋብርየል"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "ኣስምዖ"
+    },
+    {
+      "surface": "להלז",
+      "gloss": "ነቲ ሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ርእዪ"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "እቲ ርእዪ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:59:59.043850240Z",
+  "model": "glm-5.3"
+}

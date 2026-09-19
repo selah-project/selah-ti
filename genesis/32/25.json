@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ያዕቆቭ ብብዕቱ ተረፈ፣ ሓደ ሰብ ድማ ምስ ኡ ክሳብ ምስሓር ሰሌሊ ተቓተለ።",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "ተረፈ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ብብዕቱ"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "ተቓተለ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስ ኡ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ምስሓር"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ሰሌሊ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:52:36.101846815Z",
+  "model": "glm-5.3"
+}

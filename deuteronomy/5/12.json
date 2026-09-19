@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "መዓልቲ ⟨את⟩ ሻባት ምእንቲ ክትቕድሳ ሓልዎ፣ ከም እትሃብካ ያህዌህ ኤሎሂምካ።",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "ሓልዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መዓልቲ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ሻባት"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ምእንቲ ክትቕድሳ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "እትሃብካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:47:55.120986607Z",
+  "model": "glm-5.3"
+}

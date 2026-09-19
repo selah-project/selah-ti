@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 132,
+  "translation": "ምኽንዲ ያህዌህ ጽዮን መርጸ፣ ንማዕዶ ናይ ምቕመጡ ደለያ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንዲ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "መርጸ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "ደለያ"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "ንማዕዶ ናይ ምቕመጥ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ናብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:00.409251728Z",
+  "model": "glm-5.3"
+}

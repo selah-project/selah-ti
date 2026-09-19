@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 9:10",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣገልበጥቲ ሕራምን ኣገልበጥቲ ሽሎሞን ካብ ኡፊር ወርቂ እናወሓሱ ዝነበሩ ድማ እኽሊ ኣልጉምን ውዑድ ዕንበቭትን ኣእቲዮም።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልበጥቲ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ሕራም"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "ኣገልበጥቲን"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ዝኣእቲዮም"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "מאופיר",
+      "gloss": "ካብ ኡፊር"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ኣእቲዮም"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "אלגומים",
+      "gloss": "ኣልጉም"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ዕንበቭትን"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "ውዑድ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:00:37.575565930Z",
+  "model": "glm-5.3"
+}

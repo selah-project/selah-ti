@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 10:1",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ናይ ሞት ዓንበርቲ ነቲ ዘተ ናይ መዓይጊ ሓማቕ ጸላም ይውጽኡ፤ ከምኣ እውን ንእሽቶ ስዕባነት ካብ ሓንሳብን ካብ ክብሪን ዝተበለጸ እዩ።",
+  "tokens": [
+    {
+      "surface": "זבובי",
+      "gloss": "ዓንበርቲ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ናይ ሞት"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "ሓማቕ"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "ይውጽኡ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘተ"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "ናይ መዓይጊ"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ዝተበለጸ"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "ካብ ሓንሳብ"
+    },
+    {
+      "surface": "מכבוד",
+      "gloss": "ካብ ክብሪ"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "ስዕባነት"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ንእሽቶ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:45:59.279507131Z",
+  "model": "glm-5.3"
+}

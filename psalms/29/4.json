@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ቓስ ᙎהוה ብሒድብ ⟨እዩ⟩፤ ቓስ יהוה ብውዑይ ክብሪ ⟨እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ብሒድብ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "ብውዑይ ክብሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:41.986581855Z",
+  "model": "glm-5.3"
+}

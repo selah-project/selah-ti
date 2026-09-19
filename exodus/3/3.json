@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ሞሸ ድማ በለ፦ «እስከ ኣውራኒ፣ ⟨את⟩ እዚ ዓቢ ምርኣይ እዚ ክረኣየ እየ፣ እቲ ኩሽ ስለመን ኣይተቐልየን?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ኣውራኒ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ክረኣየ እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ዓቢ ምርኣይ"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "እቲ ምርኣይ"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ስለመን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "ተቐልየን"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "እቲ ኩሽ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:11:53.079356457Z",
+  "model": "glm-5.3"
+}

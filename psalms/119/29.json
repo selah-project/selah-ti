@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "መንገዲ ሓሶት ካባይ ኣፍሪ፤ ብቶራኻ በጊሠኒ።",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "መንገዲ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ኣፍሪ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ካባይ"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ብቶራኻ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "በጊሠኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:31.023330776Z",
+  "model": "glm-5.3"
+}

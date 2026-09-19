@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ለመኽ ድማ ሚዛ ሸሞነትን ክልተን ዓመታት ነይሩ፣ ድማ ወዲ ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "למך",
+      "gloss": "ለመኽ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ክልተን"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ሸሞነትን"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ሚዛ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:33:27.520538875Z",
+  "model": "glm-5.3"
+}

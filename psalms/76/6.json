@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 76,
+  "translation": "እቶም ጽንኩር ልቢ ዘለዎም ተበደዩ፤ ንቕሽቦም ድማ ተደርምዎም፤ ሓያላት ሰባት ኩሎም ኢዶም ኣይረኽብን።",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "ተበደዩ"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "ሓያላት"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ጽንኩር ልቢ"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "ተደርምዎም"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "ንቕሽቦም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "ረኺቦም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ሒልነት"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ኢዶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:24.680144351Z",
+  "model": "glm-5.3"
+}

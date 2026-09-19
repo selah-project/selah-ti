@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ውላድ ይስራኤል ድማ ከም ቃል ሞሸ ገበሩ፤ ካብ ሚጽራይም ድማ መሳርሒታት ብጠረባን መሳርሒታት ወርቂን ልቢስታትን ሓተትዎም።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ገበሩ ኣሉታ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ከም ቃል"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "ሓተትዎም ኣሉታ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ካብ ሚጽራይም"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "መሳርሒታት"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብጠረባ"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "መሳርሒታትን"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "ልቢስታትን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:20:49.825200369Z",
+  "model": "glm-5.3"
+}

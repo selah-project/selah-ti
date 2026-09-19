@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ዓብድያሁ ድማ ንኣሕያብ ንምርኻብ ኸደ፣ ነገሮ፤ ኣሕያብ ድማ ንኤልያሱ ንምርኻብ ኸደ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ኸደ"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "ዓብድያሁ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ንምርኻብ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ኣሕያብ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ነገሮ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንንሱ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ኸደ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ኣሕያብ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ንምርኻብ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:06:45.494409277Z",
+  "model": "glm-5.3"
+}

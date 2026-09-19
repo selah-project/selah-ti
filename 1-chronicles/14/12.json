@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ኣብኡ ⟨את⟩ ኣማልኽቶም ኣቓልዮም፤ ዳዊድ ድማ በለ፣ ኣብ ሓዊ ድማ ተበንዮም።",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "ኣቓልዮም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣማልኽቶም"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ኣማልኽቶም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ተበንዮም"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ኣብ ሓዊ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:40:35.919137787Z",
+  "model": "glm-5.3"
+}

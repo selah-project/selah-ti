@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 91,
+  "translation": "ብናይ ብዙሕ ዕድመ ኣበስዕዎ እየ፣ ኣርኣዮ ድማ ኣብ መድሓኒተይ።",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "ናይ ብዙሕ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ዕድመ"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "ኣበስዕዎ"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "ኣርኣዮ"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "ኣብ መድሓኒተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:05.932851900Z",
+  "model": "glm-5.3"
+}

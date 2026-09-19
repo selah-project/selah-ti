@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ከምኡ ድማ ኪኸውን፣ ዮሴፍ ናብ ሓዎቡ ምስ መጸ፣ ነቲ ዮሴፍ ⟨את⟩ ልሳኑ ተኽሊዎ፣ ነቲ ብሓቂ ኣብ ልዑሉ ዝነጥፍ ዝነበረ ልሳን ፓሲም እቲ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኪኸውን ከምኡ ድማ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ምስ መጸ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ሓዎቡ"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "ተኽሊዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ዮሴፍ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ልሳኑ"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "ልሳኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ልሳን ፓሲም"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ልሳን"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "ፓሲም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝነጥፍ ዝነበረ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዑሉ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:00:11.625452024Z",
+  "model": "glm-5.3"
+}

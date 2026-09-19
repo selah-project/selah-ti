@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ሓዱ ድማ «ተደለዩ፣ በዚ፣ ምስ ⟨את⟩ ውዱቓትኻ ኪድ» በለ፤ ንሱ ድማ «ኣነ ክከድ እየ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ሓዱ ካብኦም"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "ተደለዩ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "በዚ"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ኪድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውዱቓትኻ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ውዱቓትኻ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ክከድ እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:17:33.877279105Z",
+  "model": "glm-5.3"
+}

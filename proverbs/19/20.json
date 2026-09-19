@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ምኽርቲ ስምዑ፣ ተጽንዖን ተቓልሉ፣ ኣብ መወዳእታኻ ንኽትትሕዙ እዩ።",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ስምዑ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ምኽርቲ"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "ተቓልሉ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ተጽንዖ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ንኽትትሕዙ"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "ትሕዙ"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "ኣብ መወዳእታኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:52:51.749229620Z",
+  "model": "glm-5.3"
+}

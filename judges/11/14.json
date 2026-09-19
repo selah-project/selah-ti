@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 11:14",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ይፍታሕ ድማ ደጊሙ መልኣኽታት ናብ ንጉስ ውላድ ዓሞን ሰደደ።",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "ወሰኸ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደጊሙ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ይፍታሕ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "መልኣኽታት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ዓሞን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:47:48.082989107Z",
+  "model": "glm-5.3"
+}

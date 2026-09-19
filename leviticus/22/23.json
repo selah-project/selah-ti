@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ስለዚ ከብቲ ወይ በጊዕ ንዝተዘውርን ንዝነክልን፣ ናብ በረኻ ተጠቐምቲ ክትገብርዎ ትኽእሉ እሞ ንቃል ኪዳን ኣይድከምን።",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "ስለዚ ከብቲ"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ወይ በጊዕ"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "ንዝተዘውርን"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "ንዝነክልን"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "በረኻ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ተጠቐምቲ ክትገብርዎ ትኽእሉ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንከብቲ\/በጊዕ ዝተዘውር"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "ንቃል ኪዳን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ድከምን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:28.849641680Z",
+  "model": "glm-5.3"
+}

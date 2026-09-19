@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 20:8",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "«ሔሴድ ትገብር ንኣገልጋልካ፣ ምኽንያቱ ኣብ ኪዳን ያህዌህ ⟨את⟩ ኣገልጋልካ ምስኻ ኣእቲኻ፤ ድማ እንተ ኃጢኣት ኣበይ ዘሎ፣ ንስኻ ቀትለኒ፣ ነኣቦኻ ድማ ንምንታይ እዚ ትእቶኒ?»",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልጋልካ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "ኣብ ኪዳን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "ኣእቲኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣገልጋልካ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልጋልካ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስኻ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ድማ እንተ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ዘሎ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ኣበይ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ኃጢኣት"
+    },
+    {
+      "surface": "המיתני",
+      "gloss": "ቀትለኒ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ኣቦኻ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ንምንታይ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "תביאני",
+      "gloss": "ትእቶኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:12:44.044772992Z",
+  "model": "glm-5.3"
+}

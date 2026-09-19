@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 14:28",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "እቲ ማይ ድማ ተመለሱ፤ ⟨את⟩ እቲ መካዳትን ⟨את⟩ እቶም ፈረሰኛትን — ኩሉ ሓይሊ ፓርዖ፣ እቶም ኣብ ድሕሪኦም ናብ እቲ ባሕሪ ዝኣተዩ — ሸፈነን፤ ኽኳይ ሓደ ኣብ እቶም ኣይተረፈን።",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ተመለሱ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "እቲ ማይ"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "ሸፈነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ መካዳት"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "እቲ መካዳት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ፈረሰኛት"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "እቶም ፈረሰኛት"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ሓይሊ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "እቶም ዝኣተዩ"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ኣብ ድሕሪኦም"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ኣብ እቲ ባሕሪ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "ተረፈ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ኣብ እቶም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ኽኳይ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:21:09.526360408Z",
+  "model": "glm-5.3"
+}

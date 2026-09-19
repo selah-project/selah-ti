@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 17:11",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ንሳ ድማ ክትወስድ ኮይና ምስ ከደት፣ ነታ ተዛረበ እናበለ፦ «ደለኒ፣ ብኢድኻ ሓደ ቁራጽ ዳርጋ ሓብነኒ።»",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "ምስ ከደት"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ክትወስድ ኮይና"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ነታ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "ሓብነኒ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ደለኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "פת",
+      "gloss": "ሓደ ቁራጽ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳርጋ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ብኢድኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:04:18.276176715Z",
+  "model": "glm-5.3"
+}

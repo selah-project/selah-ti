@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ብደንበ ገደል ራእዪ። ሕጂ እንታይ እዩ ዝገበረኪ፣ ንስኺ ብሙሉእኪ ናብ ዓራታት ወሓለኪ?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ብደንበ"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "ገደል"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "ራእዪ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኺ"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "ወሓለኪ"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "ብሙሉእኪ"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "ናብ ዓራታት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:55:16.215875716Z",
+  "model": "glm-5.3"
+}

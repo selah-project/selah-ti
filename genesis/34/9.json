@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ምስና ብስድር ተዛማድቡ፤ ጓላትኩም ሃቡና፣ ⟨את⟩ ጓላትና ድማ ንዓይኩም ውሰኹ።",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "ተዛማድቡ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ጓላትኩም"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ጓላትኩም"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ሃቡ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንና"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጓላትና"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "ጓላትና"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ውሰኹ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንዓይኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:56:24.002901406Z",
+  "model": "glm-5.3"
+}

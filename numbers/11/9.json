@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኣብ ምውርደት እቲ ጽጉቕ ለይቲ ኣብ ታ ማሕደር፣ እቲ ማን ኣብ ልዕሊኡ ይወርድ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "ኣብ ምውርደት"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "እቲ ጽጉቕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ታ ማሕደር"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ለይቲ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ይወርድ ነይሩ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "እቲ ማን"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:30:49.285013282Z",
+  "model": "glm-5.3"
+}

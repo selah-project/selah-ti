@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ኣሕኣብ ወዲ ዓምሪ ድማ ካብ ኩሉ እቲ ቅድሚኡ ዝነበረ ኣብ ኣይኒ ያህዌህ ኣየደዊ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ኣሕኣብ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "ዓምሪ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ኣየደዊ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ ኣይኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ቅድሚኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:05:25.508302128Z",
+  "model": "glm-5.3"
+}

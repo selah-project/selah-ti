@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 4:11",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "እቲ ሓቢሽ ኣንበጻ ብዘይ ብልሒ ይጠፍእ፣ ውላድ እታ ኣንስተይታ ኣንበጻ ድማ ይፍንዱ።",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "ሓቢሽ ኣንበጻ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ይጠፍእ"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "ብዘይ"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ብልሒ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "ኣንስተይታ ኣንበጻ"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "ይፍንዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:05:00.455207300Z",
+  "model": "glm-5.3"
+}

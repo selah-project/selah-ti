@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣብ ኸረኻ በሮታት፣ ኣብ ኣፋ ከተማ፣ ኣብ መእተዊ ኣፍተጋታት ትጽዋዕ።",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "ኣብ ኸረኻ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "በሮታት"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ኣብ ኣፋ"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ኣብ መእተዊ"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "ኣፍተጋታት"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "ትጽዋዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:45:00.675432633Z",
+  "model": "glm-5.3"
+}

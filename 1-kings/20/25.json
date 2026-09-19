@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 20:25",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኣንታ ድማ ነቲ ⟨את⟩ ካብ ኣኻ ዝወደቐ ሰራዊት ንራኸብ ኣብ ለዋል ንጋሕስሖም፤ ብውኑ ካብኦም ንዝኾነ ኢና። ንሱ ድማ ነቲ ቃል ኣኺቡ ከምኡ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ኣንታ"
+    },
+    {
+      "surface": "תמנה",
+      "gloss": "ተቐረቡን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንራኸብ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "כחיל",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "ዝወደቐ"
+    },
+    {
+      "surface": "מאותך",
+      "gloss": "⟨את⟩ ካብ ኣኻ",
+      "marks": "ሰራዊት"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "ፈረስ"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "ከም ፈረስ"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "መሃሌት"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "ከም መሃሌት"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "ንጋሕስሖም"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብ ለዋል"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "ኣብ ለዋል"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ብውኑ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "ንዝኾነ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ካብኦም"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ኣኺቡ"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "ነቲ ቃል"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:09:42.507071192Z",
+  "model": "glm-5.3"
+}

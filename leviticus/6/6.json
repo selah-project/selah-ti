@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እሳት ብዘይካድ ኣብ ማዕዶ ተቐጽላ፣ ክሕፍስ ኣይኮነን።",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ብዘይካድ"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "ተቐጽላ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ማዕዶ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ክሕፍስ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:48:50.764033753Z",
+  "model": "glm-5.3"
+}

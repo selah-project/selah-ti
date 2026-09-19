@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ዕጉታት እዮም እቶም እናጸንዐሉን ክሳብ እቶም መዓልታት ዝበጽሑን — ሓደ ሺሕ ሰለስተ ሚእቲ ሰላሳ ዞሮ ሓሙሽተ መዓልታት።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ዕጉታት"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "ዝጸንዐ"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "ዝበጽሕ"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "ክሳብ እቶም መዓልታት"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሓደ ሺሕ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚእቲ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሰላሳ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ዞሮ ሓሙሽተ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:04:22.986873497Z",
+  "model": "glm-5.3"
+}

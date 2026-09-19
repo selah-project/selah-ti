@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 136,
+  "translation": "ኣመስግኑ ናይ ኣማልኽቲ ኤሎሂም፣ ምኽንያቱ ናብ ዘለኣለም ሔሴዱ እዩ።",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "ኣመስግኑ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ናይ ኤሎሂም"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኣማልኽቲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:16.586979290Z",
+  "model": "glm-5.3"
+}

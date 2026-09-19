@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 11:21",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ሓድድ ድማ ኣብ ሚጽራይም ሰምዐ ንዳዊድ ምስ ኣቦታቱ ከም ዝተንቐለለን ንዮኣብ ኣሉታዊ ሰራዊት ከም ዝሞተን፤ ሓድድ ንፓርዖ በሎ «ስደኒ፣ ናብ ምድረይ ክከደን»።",
+  "tokens": [
+    {
+      "surface": "והדד",
+      "gloss": "ሓድድ ድማ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ኣብ ሚጽራይም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ተንቐለለ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ኣቦታቱ"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮኣብ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ኣሉታዊ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ሓድድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ስደኒ"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "ክከድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ምድረይ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:59:41.406679690Z",
+  "model": "glm-5.3"
+}

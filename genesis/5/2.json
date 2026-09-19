@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ተባዕታይን ኣንስተይትን ፈጠሮም፣ በረከቶም ድማ፣ ስሞም ⟨את⟩ ኣዳም በሎምፎ ኣብ ዝተፈጥሩ መዓልቲ።",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ተባዕታይ"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ኣንስተይትን"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "ፈጠሮም"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "በረከቶም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳቶም"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሞም"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ስሞም"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ኣዳም"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "ምስ ተፈጥሩ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:32:37.291978193Z",
+  "model": "glm-5.3"
+}

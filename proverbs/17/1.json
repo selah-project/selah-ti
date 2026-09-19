@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ደረቁሉ እኽሊ ምስ ሕድኣት ዝተባህለ እዩ፣ ካብ ቤት ብወፈያታት ግጭቲ ዝተመልአ እዩ።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ዝተባህለ"
+    },
+    {
+      "surface": "פת",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ደረቁሉ"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "ምስ ሕድኣት"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ምሳኡ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ቤት"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ዝተመልአ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ወፈያታት"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ግጭቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:51:09.981435109Z",
+  "model": "glm-5.3"
+}

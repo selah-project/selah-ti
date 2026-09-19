@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 20:7",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ከምኡውን እንታይ ሰብ ሰበይቲ ዝሓዘን ኣይወሰዳን እዩ? ንሱ ክኸይድ ናብ ዓዱ ክምለስ፧ ከምዚ ከሎ ኣብ ምሕቃቕ ክሞት፣ ካልእ ሰብ ክወስዳ ከምዘይከውን እዩ።",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "ከምኡውን እንታይ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "ארש",
+      "gloss": "ሓዘ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ንሕን ኣይወሰዳን"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "ወሰዳ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ይኸይድ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ይምለስ"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ናብ ዓዱ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ከምዘይከውን"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ክሞት"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "ኣብ ምሕቃቕ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ካልእ ሰብ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ካልእ"
+    },
+    {
+      "surface": "יקחנה",
+      "gloss": "ክወስዳ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:02:03.102153145Z",
+  "model": "glm-5.3"
+}

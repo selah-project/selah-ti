@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "⟨את⟩ ቅድመ-ቤት እቲ በዓቲ ድማ ካብ እቲ ቤት ገመል ሓደ ሜዛ።",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ሜዛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅድመ-ቤት"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ቅድመ-ቤት"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ናይ እቲ በዓቲ"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ካብ እቲ ቤት"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ገመል"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:58:16.685025489Z",
+  "model": "glm-5.3"
+}

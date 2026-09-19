@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ሔሴድን ሓቂን ኣይስተዉኻን፤ ኣብ እስራትካ ጠቕሎሎም፤ ኣብ ጽሕፈት ልብኻ ድማ ጸሓፎም።",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድን"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ሓቂን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "ይስተዉኻን"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "ጠቕሎሎም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "እስራትካ"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "ጸሓፎም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "ጽሕፈት"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ልብኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:42:31.176406663Z",
+  "model": "glm-5.3"
+}

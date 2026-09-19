@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ድማ ⟨את⟩ ዓይቫልን ⟨את⟩ ኣቢማኤልን ⟨את⟩ ሽባን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓይቫል"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "ዓይቫል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቢማኤል"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "ኣቢማኤል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሽባ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ሽባ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:27:45.075935855Z",
+  "model": "glm-5.3"
+}

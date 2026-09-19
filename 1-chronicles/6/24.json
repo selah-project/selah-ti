@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ሓዙኡን ድማ ኣሳፍ፣ ኣብ የማኑ ኮይኑ ዘለዎ፤ ኣሳፍ ወዲ በረኽያሁ፣ ወዲ ሽምዓ።",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "ሓዙኡን"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ኣሳፍ"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "ኮይኑ ዘለዎ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "የማኑ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ኣሳፍ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "በረኽያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "ሽምዓ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:33:30.109317641Z",
+  "model": "glm-5.3"
+}

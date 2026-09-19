@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 6:15",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ከምኡውን እቲ ካህን እቲ ተቐብአ ካብ ውላዱ ዝኾነ ኣብ ቦታኡ ⟨אתה⟩ ይገብራ፣ ሕጊ ዘለኣለም ንያህዌህ፣ ብሙሉእ ክትቕጽር እያ።",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "ከምኡውን እቲ ካህን"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "እቲ ተቐብአ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ኣብ ቦታኡ"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "ካብ ውላዱ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ይገብራ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ መባ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ሕጊ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ብሙሉእ"
+    },
+    {
+      "surface": "תקטר",
+      "gloss": "ክትቕጽር"
+    }
+  ],
+  "timestamp": "2026-09-18T21:49:27.990035Z",
+  "model": "glm-5.3"
+}

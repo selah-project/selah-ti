@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ዝኣርብ ድማ ኣብ ⟨እቲ⟩ ምድሪ ኣርባዕተ ወርሓዊ መዓልታትን ኣርባዕተ ለይታትን ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ድማ ነይሩ"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ዝኣርብ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ኣርባዕተን"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ለይታት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:33:27.422355239Z",
+  "model": "glm-5.3"
+}

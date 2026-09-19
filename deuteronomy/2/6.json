@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ምግቢ ⟨מאתם⟩ ብገንዘብ ተወዳዲዉን ከም እትበልዑ፤ ማይ ድማ ⟨מאתם⟩ ብገንዘብ ተወዳዲዉን ከም እተተይን።",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "ምግቢ"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "ተወዳዲዉ"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨מאתם⟩",
+      "marks": "ካባቶም"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ብገንዘብ"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "እትበልዑ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "ተወዳዲዉ"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨מאתם⟩",
+      "marks": "ካባቶም"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ብገንዘብ"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "እተተይን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:47:24.535279329Z",
+  "model": "glm-5.3"
+}

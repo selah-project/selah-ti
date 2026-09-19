@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ንያህዌህ ኣመስክሩ፣ ምኽንያቱ ብጽቡእ እዩ፣ ምኽንያቱ ናብ ዘለኣለም ሔሴዱ እዩ።",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "ኣመሰክሩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንዪቱ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ብጽቡእ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንዪቱ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:55.432323387Z",
+  "model": "glm-5.3"
+}

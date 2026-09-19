@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኣብ ፍርሃት ያህዌህ ድማ ይሰሓብ፣ ብምርኣይ ነይቱ ኣይፈርድን፣ ብምስማዕ ኣናቱ ድማ ኣይወስንን።",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "ይሰሓብ"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "ኣብ ፍርሃት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ...ን"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "ብምርኣይ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ነይቱ"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "ይፈርድ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ...ን"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "ብምስማዕ"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "ኣናቱ"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ይወስን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:51:09.240074728Z",
+  "model": "glm-5.3"
+}

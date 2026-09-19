@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ኣብ ስፍሓት እቲ ግድብ ናይ እቲ ግቢ፣ ናብ ከረብ ምብራቕ፣ ናብ ቅድመ እቲ ዝተፈለወ ቦታን ናብ ቅድመ እቲ ሕናጽታን፣ ማሕደራት ⟨ነይራትን ኣለዋን⟩።",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "ኣብ ስፍሓት"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ግድብ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ናይ እቲ ግቢ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ናብ ከረብ"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ምብራቕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ቅድመ"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "እቲ ዝተፈለወ ቦታ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ንኣብን"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ቅድመ"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "እቲ ሕናጽታ"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "ማሕደራት"
+    }
+  ],
+  "timestamp": "2026-09-19T03:55:28.577475949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ንስኻትኩም ግና እንተ ኣይሰምዕኩምንለይ፣ እዚኦም ኩሉ ⟨את⟩ ትእዛዛት እንተ ኣይተገብሩን፤",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ሰምዕኩም"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለይ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣድማውን"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ተገብሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ትእዛዛት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:08:56.521884177Z",
+  "model": "glm-5.3"
+}

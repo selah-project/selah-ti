@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 91,
+  "translation": "ብእንቅቡ ንስኻ ይሽፍነካ፣ በቲ ኣብ ትሕቲ ኣጋንባኡ ኸኣ ተሸግሕ፤ ርግጸትኡ ብንበርን ጐንበርን ⟨ትኹን⟩።",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "ብእንቅቡ"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "ይሽፍነካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "በቲ ኣብ ትሕቲ"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "ኣጋንባኡ"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "ተሸግሕ"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ብንበር"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "ጐንበር"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "ርግጸትኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:15.834300371Z",
+  "model": "glm-5.3"
+}

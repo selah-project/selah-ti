@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 2:17",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣብዚ እዋን ዳንየል ናብ ገዛኡ ከደ፣ ነቲ ናይ ሓበሬታ ቃል ንሓናንያ፣ ሚሻኤልን ዓዛርያንን ዓርከቡ ኣፍልጠዮም።",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "ኣብዚ እዋን"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ዳንየል"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "ናብ ገዛኡ"
+    },
+    {
+      "surface": "אזל",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "ולחנניה",
+      "gloss": "ንሓናንያ"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "ሚሻኤልን"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "ዓዛርያንን"
+    },
+    {
+      "surface": "חברוהי",
+      "gloss": "ዓርከቡ"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "ነቲ ናይ ሓበሬታ ቃል"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "ኣፍልጠዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T06:50:33.717467129Z",
+  "model": "glm-5.3"
+}

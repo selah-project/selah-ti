@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 48:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "ጽዮን ኣኅዱሩ፣ ወጽንሱዋ ኣኅዱሩ፣ መስርቕታታ ቁጽሩ።",
+  "tokens": [
+    {
+      "surface": "סבו",
+      "gloss": "ኣኅዱሩ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "והקיפוה",
+      "gloss": "ወጽንሱዋ ኣኅዱሩ"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ቁጽሩ"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "መስርቕታታ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:42.035260674Z",
+  "model": "glm-5.3"
+}

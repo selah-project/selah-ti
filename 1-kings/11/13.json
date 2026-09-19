@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ግን ንኹሉ ⟨את⟩ መንግስቲ ኣይቐትረን፤ ሓደ ስብዓት ንወዲኻ እተይ፣ ምኽንያቱ ንዳዊድ ኣገልጋሪይ፣ ከምኡውን ንየሩሻላይም እታ እተመርጽኩዋ።",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ግን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ መንግስቲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "መንግስቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "ኣይቐትረን"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ስብዓት"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "እተይ"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "ንወዲኻ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልጋሪይ"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ከምኡውን ን"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "እተመርጽኩዋ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:45:17.545399750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ፓርዖ ድማ በለ፦ መን እዩ ያህዌህ፣ እቲ ብቃሉ ⟨את⟩ ይስራኤል ክስደእ ክሰምዐኒ? ኣነ ⟨את⟩ ያህዌህ ኣይፈልጦን፤ እኳውን ⟨את⟩ ይስራኤል ኣይስደእን።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ክሰምዐ"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ብቃሉ"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ክስደእ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ...ን"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ኣይፈልጦን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እኳውን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ...ን"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ኣይስደእን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:15:37.886213410Z",
+  "model": "glm-5.3"
+}

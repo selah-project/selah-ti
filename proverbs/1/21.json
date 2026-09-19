@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 1:21",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣብ ርእሲ ብዙሕ እተቐለዑ ብሩኽ ትጸውዕ፣ ኣብ ኣፍልቓት ኣገዳት ኣብ ከተማ ቓላተን ትብል።",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "ኣብ ርእሲ"
+    },
+    {
+      "surface": "המיות",
+      "gloss": "ብዙሕ እተቐለዑ ብሩኽ"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ትጸውዕ"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "ኣብ ኣፍልቓት"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ኣገዳት"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ኣብ ከተማ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ቓላተን"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ትብል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:50.587140313Z",
+  "model": "glm-5.3"
+}

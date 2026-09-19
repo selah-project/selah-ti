@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ረኣይኩም ከኣ ⟨את⟩ ጸየፋቶምን ⟨את⟩ ጣኦታቶምን — ዕፀትን ድንጋይን ብርን ወርቂን እቶም ምሳኦም ዝነበሩ።",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "ረኣይኩም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጸየፋቶም"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "ጸየፋቶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጣኦታቶም"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "ጣኦታቶም"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ዕፀት"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ድንጋይ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝ…"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "ምሳኦም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:08:35.722729460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ንሽማቱራ፡ በዓሉታ ዳዊድ። ኣብ ያህዌህ ተሓወልኩ፤ ነፍሰይ ንምባል ከመይ ትብሉ፦ «ከም ወፍዒ ናብ ከረንኩም ስደቑ»፧",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንሽማቱራ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "በዓሉታ ዳዊድ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ኣብ ያህዌህ"
+    },
+    {
+      "surface": "ᗡיתי",
+      "gloss": "ተሓወልኩ"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ከመይ"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ትብሉ"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ነፍሰይ ንምባል"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "ስደቑ"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "ከረንኩም"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ወፍዒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:58.859127129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 42:33",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "እቲ ሰብ፣ ጎይታ እቲ ምድሪ፣ ናብና በለ፦ ብዚኽ ክፈልጥ እየ ንስኻትኩም ሓቃዊም እንተወዲአኹም፤ ሓደ ካብ ኣሕዋትኩም ⟨את⟩ ምስ ኣነ ውደቑ፣ ⟨את⟩ መግቢ ንጠቕጢ ንቤትታትኩም ውሰዱን ከይዱን።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ናብና"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጎይታ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እቲ ምድሪ"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "ብዚኽ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ክፈልጥ እየ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ኳ"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ሓቃዊም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ንስኻትኩም"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ኣሕዋትኩም"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "ውደቑ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ምስ ኣነ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መግቢ"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "ጠቕጢ"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "ንቤትታትኩም"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ውሰዱ"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ከይዱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:03:40.340077823Z",
+  "model": "glm-5.3"
+}

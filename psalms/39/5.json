@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "«ኣፍለኹኒ ያህዌህ ንዕድሜይን ንመጠን መዓልታትይን እንታይ ከም ዝኾነ፤ ከም እንታይ ተሓጊሱ ኣነ እፈልጥ።»",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "ኣፍለኹኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "ዕድሜይ"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "ንመጠን"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "መዓልታትይ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እያ"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "እፈልጥ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ከም እንታይ"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ተሓጊሱ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:38.588679942Z",
+  "model": "glm-5.3"
+}

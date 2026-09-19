@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "እቲ ⟨את⟩ ወገን ይሁዳ ድማ ተመርጸ፣ ⟨את⟩ ተራራ ጽሮን እታ ዝፈተወ።",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "ተመርጸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወገን ይሁዳ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ወገን"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተራራ ጽሮን"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽሮን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ዝፈተወ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:34.335803505Z",
+  "model": "glm-5.3"
+}

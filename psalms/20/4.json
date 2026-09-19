@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኩሉ ቍርባንካ ይዝከር፣ ከምኡውን ውድቀትካ ይቕበላ፣ ስላህ።",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "ይዝከር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "ቍርባንካ"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "ከምኡውን ውድቀትካ"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "ይቕበላ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:37.688568020Z",
+  "model": "glm-5.3"
+}

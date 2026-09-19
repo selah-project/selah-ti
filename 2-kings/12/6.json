@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ካህናት ነፍሲ ወከፍ ካብ ⟨את⟩ ኣውደይ ክወስዱ እዮም፣ ንሳቶም ድማ ⟨את⟩ ምብታኽ ቤት ኣብ ኩሉ ቦታ ምብታኽ እተረኺበሉ ክጠናኽሩ።",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "ክወስዱ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንገዛእ ርእሶም"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ወከፍ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ካብ ⟨את⟩",
+      "marks": "ኣውደይ"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "ኣውደይ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "ክጠናኽሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምብታኽ"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ምብታኽ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እተረኺበሉ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ዝረክብ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብቲ ቦታ"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ምብታክ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:28:23.016909528Z",
+  "model": "glm-5.3"
+}

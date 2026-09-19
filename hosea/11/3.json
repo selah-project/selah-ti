@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኣነ ድማ ንኤፍራይም ክኣቲት ኣሃዞሁ፣ ኣብ ኣእዳዉ ሒዐዮም፣ ንሳቶም ግን ሓንሳቦም ኣይፈልጡን።",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "ክኣቲት ኣሃዞሁ"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ንኤ፵ራይም"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "ሒዐዮም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "ኣእዳዉ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ኣይፈልጡን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "ሓንሳቦም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:09:46.610359351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 7:10",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ንኹሉ ወፈያ እትተወሃበታ ብዘተን ጸሪሕትን፣ ንኹሉ ውላድ ኣሃሮን ክኾን እዩ፣ ነፍሲ ወከፍ ከም ኣሕዋቱ።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "እትተወሃበታ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ብዘተ"
+    },
+    {
+      "surface": "וחרבה",
+      "gloss": "ጸሪሕቲ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ክኸውን እዩ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ወከፍ"
+    },
+    {
+      "surface": "כאחיו",
+      "gloss": "ከም ኣሕዋቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:29:36.870640100Z",
+  "model": "glm-5.3"
+}

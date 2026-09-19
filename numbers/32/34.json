@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ውላድ ጋድ ድማ ⟨את⟩ ዲቦንን ⟨את⟩ ዓታሮትን ⟨את⟩ ዓሮዓርን ሃንጸቑ።",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "ሃንጸቑ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዲቦን"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "ዲቦን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓታሮት"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ዓታሮት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓሮዓር"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "ዓሮዓር"
+    }
+  ],
+  "timestamp": "2026-09-18T22:40:12.340411222Z",
+  "model": "glm-5.3"
+}

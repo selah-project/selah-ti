@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ሕግታተይ እንተ ዝጽልልዮ፣ ትእዛዛተይን ኣይሕሉዮን እንተ ዝኾኑ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ሕግታተይ"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "ዝጽልልዮ"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ትእዛዛተይን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ሕሉዮን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:37.780184683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ዝፈስስ ደም እቲ ሰብ፣ ብሰብ ደሙ ክፍሰስ እዩ፤ እምኒ ብምስሊ ኤሎሂም ⟨את⟩ እቲ ሰብ ገበረ።",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "ዝፈስስ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ብሰብ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ደሙ"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ክፍሰስ እዩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እምኒ"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "ብምስሊ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሰብ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "እቲ ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:33:49.279438853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 31:28",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ካብቶም ናብ ሰራዊት ዝወጹ ተዓጋቲ ውግእ ድማ ንያህዌህ ⟨את⟩ ተቐማጥ ክትእውጅድ፡ ሓደ ነፍሲ ካብ ሓሙሽተ ሚእታ፡ ካብ ሰብን ካብ ከብትን ካብ ኣድጊን ካብ ርእቲን።",
+  "tokens": [
+    {
+      "surface": "והרמת",
+      "gloss": "ክትእውጅድ"
+    },
+    {
+      "surface": "מכס",
+      "gloss": "ተቐማጥ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ተዓጋቲ ውግእ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ውግእ"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "ዝወጹ"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "ናብ ሰራዊት"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "מחמש",
+      "gloss": "ካብ ሓሙሽተ"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "ሚእታ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ካብን"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ከብት"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ካብን"
+    },
+    {
+      "surface": "החמרים",
+      "gloss": "ኣድጊ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ካብን"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ርእቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:41:10.834836036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 66,
+  "translation": "ሰባት ኣብ ርእስና ኣበዝዕካ፤ ኣብ ሓዊን ኣብ ማይን ወዲቕና፣ ንሕና ናብ ርእቢ ኣውጽኣና።",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "ኣበዝዕካ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "ኣብ ርእስና"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "ወዲቕና"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ኣብ ሓዊ"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ኣብ ማይን"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "ኣውጽኣና"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "ናብ ርእቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:03.030659802Z",
+  "model": "glm-5.3"
+}

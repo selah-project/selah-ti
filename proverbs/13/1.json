@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ወዲ ብልሕ ⟨እዩ⟩ ትምህርቲ ኣቦ፤ ሰኪም ግን ትግርጋኔ ኣይሰምዐን።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ብልሕ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ትምህርቲ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "ሰኪም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "ትግርጋኔ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:48:31.126746039Z",
+  "model": "glm-5.3"
+}

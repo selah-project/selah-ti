@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "ንእኩባት ሽግር የበቅል፣ ንኣገልግሎት ናይ ሰብ ኵነን ሳር፣ እኽሊ ካብ ምድሪ ንምውጻእ።",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "የበቅል"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ሽግር"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "ንእኩባት"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "ኵነን ሳር"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "ንኣገልግሎት"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ናይ ሰብ"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ንምውጻእ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:33.081717477Z",
+  "model": "glm-5.3"
+}

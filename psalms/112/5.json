@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 112,
+  "translation": "ጽቡኽ ሰብ ጸጋ ዝሓበን ኣበዳሪ እዩ፤ ነገራቱ ብምጽድቂ ይገዝፎም።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡኽ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ጸጋ ዝሓበን"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "ኣበዳሪ"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "ይገዝፍ"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ነገራቱ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ብምጽድቂ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:42.750520187Z",
+  "model": "glm-5.3"
+}

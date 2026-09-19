@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ነቲ ህመርቶ ⟨את⟩ ⟨מאת⟩ ካብኡ ሰደደ፣ እቲ ማይ ካብ ገጽ ምድቢ ዝተቐለለ ድዩ ንምርኣይ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቢ ህመርቶ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ነቢ ህመርቶ"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨מאת⟩"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ንምርኣይ"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "ዝተቐለለ ድዩ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "እቢ ማይ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድቢ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:35:27.458931457Z",
+  "model": "glm-5.3"
+}

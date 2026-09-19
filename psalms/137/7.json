@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 137,
+  "translation": "ኣስብ፣ ያህዌህ፣ ንውላድ ኤዶም ⟨את⟩ እታ መዓልቲ የሩሻላይም፣ እቶም ዝበሉ፦ ‹ኣብርዩዋ፣ ኣብርዩዋ፣ ክሳብ እቲ መሰረት ኣብ ውሽጣ!›",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ኣስብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ መዓልቲ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "እቶም ዝበሉ"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "ኣብርዩዋ"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "ኣብርዩዋ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "እቲ መሰረት"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብ ውሽጣ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:38:12.792977368Z",
+  "model": "glm-5.3"
+}

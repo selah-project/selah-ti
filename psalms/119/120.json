@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ስጋይ ብድሕቂ ፍርሃትካ ተንቐጠቐጠ፣ ካብ ፍትሓትካ ድማ ደልዩ እየ።",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "ተንቐጠቐጠ"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "ብድሕቂ ፍርሃትካ"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ስጋይ"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "ካብ ፍትሓትካ ድማ"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "ደልዩ እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:57.320703737Z",
+  "model": "glm-5.3"
+}

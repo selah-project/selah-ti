@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ዳዊድ ድማ ብቃል ጋድ፣ እቲ ብስም ያህዌህ ዝተዛረቦ፣ ኮይኑ ወጸ።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ወጸ ድማ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ብቃል"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝተዛረቦ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ብስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:46:00.935429154Z",
+  "model": "glm-5.3"
+}

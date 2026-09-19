@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ረሐብዓም ኣብ የሩሻላይም ነይሩ፣ ከተማታት ንምኽልሊስ ኣብ ይሁዳ ድማ ሃንጸ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ረሐብዓም"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ኣብ የሩሻላይም"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ሃንጸ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ከተማታት"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "ንምኽልሊስ"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ኣብ ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:58:54.838259064Z",
+  "model": "glm-5.3"
+}

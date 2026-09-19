@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ከምኡውን ⟨את⟩ እተን መብራሕቲን እቶም ዓብዮምን ብሕጊ ቅድሚ እቲ ውሽጢ ቀዳማይ ቤት ንኽበዓዩ — ካብ ጽሑቅ ወርቂ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እተን መብራሕቲ"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "መብራሕቲ"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "ዓብዮምን"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "ንኽበዓዩ"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ብሕጊ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "እቲ ውሽጢ ቀዳማይ ቤት"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "ጽሑቅ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:54:52.546598496Z",
+  "model": "glm-5.3"
+}

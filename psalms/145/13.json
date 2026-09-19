@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 145,
+  "translation": "ንጉሥነትካ ንጉሥነት ኩሉ ዘለኣለም ⟨እያ⟩፣ ምምሕዋስካ ድማ ኣብ ኩሉ ትውልሒን ትውልሒን ⟨እያ⟩።",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "ንጉሥነትካ"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ንጉሥነት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "ዘለኣለም"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "ምምሕዋስካ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ትውልሒ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ትውልሒን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:30.959112241Z",
+  "model": "glm-5.3"
+}

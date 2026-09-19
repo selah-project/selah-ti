@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ምስ ደወዕኩ ኤሎሂምኩ ናይ ጽድቒይ ሓበየኒ፤ ኣብ ጸንዒ ስፋሕ ገበርካለይ፤ ሔሴድ ገበረለይን ንልምዲተይን ተረብዕ።",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "ምስ ደወዕኩ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ሓበየኒ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂምኩ"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "ናይ ጽድቒይ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ኣብ ጸንዒ"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "ስፋሕ ገበርካለይ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ሔሴድ ገበረለይ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ተረብዕ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ንልምዲተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:42:31.628017209Z",
+  "model": "glm-5.3"
+}

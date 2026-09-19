@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኣቢምለኽ ግና ናብኣ ኣይተቐረበን፤ ከምዚ እናበለ ድማ፦ «ኣዶናይ፣ ህዝቢ ጽድቂ እውን ክትቅትሎ?» በለ።",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "ኣቢምለኽ ግና"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ተቐረበ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ናብኣ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "ክትቅትሎ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:43:12.294595247Z",
+  "model": "glm-5.3"
+}

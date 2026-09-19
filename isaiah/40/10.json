@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ርአዮ፣ ኣዶናይ ያህዌህ ብኃይሊ ይመጽእ፤ እዱ ድማ ንእሱ ይእዝዞ፤ ርአዮ፣ ዋጋኡ ⟨את⟩ ምስኡ እዩ፤ ገበርታኡ ኣብ ቅድማዊ እዩ።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ርአዮ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "ብኃይሊ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ይመጽእ"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "እዱ ድማ"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "ይእዝዞ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሱ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ርአዮ"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "ዋጋኡ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ዋጋኡ"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "ገበርታኡ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ኣብ ቅድማዊ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:09:54.757749986Z",
+  "model": "glm-5.3"
+}

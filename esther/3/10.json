@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እቲ ንጉስ ድማ ⟨את⟩ እታ ቀለት መሕተት ናይኡ ካብ ኢዱ ኣወጸ፣ ንሳ ድማ ሃባታ ለሃማን ወዲ ህምዳታ እቲ ኣጋጋዊ፣ ንኣይሁድ ወጋእ።",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "ኣወጸ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ቀለት መሕተት ናይኡ"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "እታ ቀለት መሕተት ናይኡ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ሃባታ"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "ለሃማን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "ህምዳታ"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "እቲ ኣጋጋዊ"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "ወጋእ"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ንኣይሁድ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:47:16.572245723Z",
+  "model": "glm-5.3"
+}

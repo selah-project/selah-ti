@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ኣገልጋልቲ እቲ ንጉሥ ሕዝቅያሁ ድማ ናብ ይሽዓይሁ መጹ።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "መጹ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልጋልቲ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉሥ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ሕዝቅያሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ይሽዓይሁ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:07:31.640780827Z",
+  "model": "glm-5.3"
+}

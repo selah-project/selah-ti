@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ንንጉሳት ኣይኮነን ለሙኤል፣ ንንጉሳት ወይኒ ክሰትዩ ኣይኮነን፣ ንሽማታትውን ⟨ስኝታ⟩ ሰኪር።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "ንንጉሳት"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "ለሙኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "ንንጉሳት"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ክሰትዩ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ወይኒ"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "ወንሽማታት"
+    },
+    {
+      "surface": "או",
+      "gloss": "ስኝታ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ሰኪር"
+    }
+  ],
+  "timestamp": "2026-09-19T06:00:55.598681772Z",
+  "model": "glm-5.3"
+}

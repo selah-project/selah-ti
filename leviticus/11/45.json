@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ስለዚ ኣነ ያህዌህ እዩ፣ ካብ ምድሪ ሚጽራይም ⟨את⟩ንስኻትኩም ዝወሰደኩም፣ ንንስኻትኩም ኤሎሂም ክኾነኩም፤ ቅዱሳት ኩንትም፣ ስለዚ ቅዱስ ኣነ እየ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "ዝወሰደኩም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ንስኻትኩም",
+      "marks": "ንስኻትኩም"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "להית",
+      "gloss": "ክኾነኩም"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንንስኻትኩም"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ኩንትም"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:52:15.707206567Z",
+  "model": "glm-5.3"
+}

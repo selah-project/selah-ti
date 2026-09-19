@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ያህዌህ ኣብ ቤት ቅዱስ እቲ ይርከብ፡ ያህዌህ ኣብ ሰማያት ኣብ መንበሩ ይነጥፍ፤ ዓይኑ ይረእዩ፡ ቅርጺ ዓይኑ ውላድ ሰብ ይፈትኑ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስ እቲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ኣብ ሰማያት"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ኣብ መንበሩ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ዓይኑ"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "ይረእዩ"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "ቅርጺ ዓይኑ"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "ይፈትኑ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:58.860325075Z",
+  "model": "glm-5.3"
+}

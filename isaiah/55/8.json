@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 55,
+  "translation": "ምኽንያቱ ምስልታተይ ምስልታትኩም ኣይኮነን፣ መንገድኩምን መንገደይን ኣይኮነን፣ ከም ዝበለ ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንዲቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "ምስልታተይ"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "ምስልታትኩም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ንን"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "መንገድኩም"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "መንገደይ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ዝበለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:17:45.980900919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ዳዊድ ድማ ናብ የሆናታን ተዛረበ፦ «መን ይንግረኒ? ወይ ኣቦኻ ብከይዲ ይመልሰካ?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "የሆናታን"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ይንግረኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "ይመልሰካ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ኣቦኻ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ብከይዲ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:10:01.388553600Z",
+  "model": "glm-5.3"
+}

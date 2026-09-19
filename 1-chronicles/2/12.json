@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ብዕዝ ድማ ⟨את⟩ ዓብድ ሓረገ፤ ዓብድ ድማ ⟨את⟩ ይሽይ ሓረገ።",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "ብዕዝ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ሓረገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓብድ"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ዓብድ"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "ዓብድ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ሓረገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይሽይ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ይሽይ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:28:42.661011756Z",
+  "model": "glm-5.3"
+}

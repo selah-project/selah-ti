@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "ንመምህሩ ዝኾነ፣ ንውላደ ቅራሕ፣ መዝሙር።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንመምህሩ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላደ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ቅራሕ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:00:11.274375087Z",
+  "model": "glm-5.3"
+}

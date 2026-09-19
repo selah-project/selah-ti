@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ነቲ ሃማን ድማ ⟨את⟩ ኣብቲ ዛግ ንማርዱካይ ዝዳለወሉ ኣስረሕዎ፤ ቍጽጸት እቲ ንጉስ ድማ ኸደት።",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "ኣስረሕዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሃማን"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ነቲ ሃማን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "እቲ ዛግ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ዝዳለወሉ"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "ንማርዱካይ"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "ቍጽጸት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "ኸደት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:49:11.774765785Z",
+  "model": "glm-5.3"
+}

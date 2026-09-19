@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ዐይቢ ኣብ ምትኳኅ ንዓይ እዩ፣ ኣንበጻ ኣብ ምስውኣታት።",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "ዐይቢ"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "ኣብ ምትኳኅ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ኣንበጻ"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ኣብ ምስውኣታት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:34:30.204802697Z",
+  "model": "glm-5.3"
+}

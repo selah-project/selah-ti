@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣብ ቀዳማይ ኣጋርሒ፣ ቍርባን ኣብ ዝወርዐሉ እዋን፣ ኣብዚ ማይ ብመገዲ ኤዱም ዝመጽእ ኣሎ፣ እታ ምድሪ ድማ ⟨את⟩ እቲ ማይ ተመልአት።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነበረ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ኣብ ቀዳማይ ኣጋርሒ"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "ኣብ ዝወርዐሉ እዋን"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ቍርባን"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣብዚ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ዝመጽእ"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ብመገዲ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዱም"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ተመልአትድማ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እታ ምድሪ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ማይ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "እቲ ማይ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:15:23.506062100Z",
+  "model": "glm-5.3"
+}

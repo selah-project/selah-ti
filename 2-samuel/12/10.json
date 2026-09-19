@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 12:10",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ድሕራዚ ሰይፍ ካብ ቤትኻ ኽሳብ ዘለኣለም ኣይትወጽእን፣ ምኽንያቱ ኣነ ኣሕሊልኻኒ፣ ሰበይቲ ኡሪሃ እቲ ሕታዊ ንስኻ ናይ ሰበይቲ ንኽትከውን በዚኻ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ድሕራዚ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "ክትወጽእ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "ካብ ቤትኻ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ኽሳብ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እኳ"
+    },
+    {
+      "surface": "בזתני",
+      "gloss": "ኣሕሊልኻኒ"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ወሲኽካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰበይቲ ኡሪሃ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ኡሪሃ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "እቲ ሕታዊ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ንኽትከውን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ናይ ሰበይቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:30:41.648851744Z",
+  "model": "glm-5.3"
+}

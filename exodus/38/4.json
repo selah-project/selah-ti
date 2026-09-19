@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 38:4",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ከምኡውን ንእቲ መስዋዕት ማእጥኽ ስራሕ-መስመር ካብ ናስ፣ ኣብ ታሕቲ ወሰኑ ካብ ታሕቲ ክሳብ ግማዊ ቁመቱ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ንእቲ መስዋዕት"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "ማእጥኽ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ስራሕ"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "መስመር-ተርሒ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ካብ ናስ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ታሕቲ"
+    },
+    {
+      "surface": "כרכבו",
+      "gloss": "ወሰኑ"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "ካብ ታሕቲ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "ግማዊ ቁመቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:43:57.430439388Z",
+  "model": "glm-5.3"
+}

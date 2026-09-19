@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣብ መወዳእታ ናይ ዓሰርተ ዓመታት፣ እቶም እተን ሽሎሞ ⟨את⟩ ቤት ያህዌህን ⟨ואת⟩ ቤቱን ዝበኣሰሉ፣ ኮነ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ኣብ መወዳእታ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እተን"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ዝበኣሰ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት ያህዌህ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:01:15.004011499Z",
+  "model": "glm-5.3"
+}

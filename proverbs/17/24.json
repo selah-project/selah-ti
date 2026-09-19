@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ጥበብ ኣብ ቅድሚ ⟨את⟩ ገጽ እቲ ዝርዓእ ⟨እያ⟩፤ ኣይኒ ሓመድ ድማ ኣብ መወዳእታ ምድሪ ⟨እየን⟩።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገጽ እቲ ዝርድእ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "ዝርድእ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ከምኡውን ኣይኒ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ሓመድ"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "ኣብ መወዳእታ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:50:07.278546013Z",
+  "model": "glm-5.3"
+}

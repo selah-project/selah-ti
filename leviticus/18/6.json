@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ሓደ ሓደ ሰብ ናብ ዝኾነ ስጉምቲ ስጉምቱ ኣይተቓርቡ፣ ዕርኩሲ ንምትእላል ኣይኮነን፤ ኣነ ያህዌህ እየ።",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሓደ ሰብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ስጉምቲ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ስጉምቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "ኣትዱም ትቕረቡን"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "ንምትእላል"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "ዕርኩሲ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:58:48.556918719Z",
+  "model": "glm-5.3"
+}

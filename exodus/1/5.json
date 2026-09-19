@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኩሉ ነፍሲ ካብ ምስሪት ያዕቆቭ ዝወጸት ሰባዓተ ነፍሲ ኮይና፣ ዮሴፍ ድማ ኣብ ሚጽራይም ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይና"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "ዝወጸት"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ካብ ምስሪት"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ሰባዓተ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ዮሴፍ ድማ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ኣብ ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:26:31.393293621Z",
+  "model": "glm-5.3"
+}

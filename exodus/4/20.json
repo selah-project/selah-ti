@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ሞሸ ድማ ⟨את⟩ ሰበይቱን ⟨את⟩ ውላዱን ወሲዱ፣ ኣብ እቲ ኣጋም ሰበሰዮም፣ ናብ ምድሪ ሚጽራይም ተመለሰ፤ ሞሸ ድማ ⟨את⟩ ዓጽ ኤሎሂም ኣብ ኢዱ ወሲዱ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰበይቱ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሰበይቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ውላዱ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "ሰበሰዮም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ እቲ"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "ኣጋም"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ናብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓጽ ኤሎሂም"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ዓጽ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ኣብ ኢዱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:13:38.112942847Z",
+  "model": "glm-5.3"
+}

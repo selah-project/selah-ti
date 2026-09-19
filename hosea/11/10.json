@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "«ኣብ ድሕሪ ያህዌህ ክኾኑ እዮም፤ ከም ኣንበጣ ክጎረምስ እዩ፤ ንሱ ክጎረምስ እዩ ኰኣ፣ ውላድ ካብ ምዕራብ ክሕጕሱ እዮም።»",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "ኣብ ድሕሪ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ክኾኑ"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "ከም ኣንበጣ"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "ክጎረምስ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "ክጎረምስ"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "ክሕጕሱ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ካብ ምዕራብ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:08:35.837355950Z",
+  "model": "glm-5.3"
+}

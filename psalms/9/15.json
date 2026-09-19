@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ስለዚ ኩሉ መስብሕታትካ ኣብ ኣፍራጋት በዓልቲ ጽዮን እነግር፡ ኣብ መድሓኒትካ እደስእም።",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "እነግር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "መስብሕታትካ"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "ኣብ ኣፍራጋት"
+    },
+    {
+      "surface": "בת",
+      "gloss": "በዓልቲ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "እደስእም"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "ኣብ መድሓኒትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:43.740183918Z",
+  "model": "glm-5.3"
+}

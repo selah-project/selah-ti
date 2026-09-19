@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "እንሆ መዓልታት ይመጻሉ፣ ቃል ያህዌህ እዩ፤ ኣነ ⟨את⟩ ስድራ እስራኤልን ⟨ואת⟩ ስድራ ይሁዳን ብዘርኢ ሰብን ብዘርኢ እንስሳን ክዘርእ እየ።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ይመጻሉ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "ክዘርእ እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስድራ እስራኤል"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስድራ ይሁዳ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘርኢ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ዘርኢ ድማ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "እንስሳ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:53:14.082059756Z",
+  "model": "glm-5.3"
+}

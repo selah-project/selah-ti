@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ካህን ድማ ⟨את⟩ ሓደ ናብ ወፈያ ኃጢኣትን ⟨את⟩ ሓደ ናብ ወፈያ ዕላል የገብር፣ ካህን ኣብ ቅድሚ ያህዌህ ነታ ብኣንጻራ ንስርባ ኣርእስታ ይከፋል።",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "የገብር"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓደ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ወፈያ ኃጢኣት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሓደ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ወፈያ ዕላል"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ይከፋል"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ብኣንጻራ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "ስርባ"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "ኣርእስታ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:00:31.158350512Z",
+  "model": "glm-5.3"
+}

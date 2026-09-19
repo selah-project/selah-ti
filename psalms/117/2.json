@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 117,
+  "translation": "ምኽንያቱ ሔሴዱ ብዘይና ⟨ዓቢ⟩ እዩ፤ እሙናውነት ያህዌህ ንዘለኣለም ትጸንሕ እያ፤ ያህ ሸምሑ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ብዘይና"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "እሙናውነት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ንዘለኣለም"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ሸምሑ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:31.917457881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኤሎሂም ⟨את⟩ እታ ምድሪ ረኣየ፤ ኣሎ ድማ ተበደየት፤ ምኽንያቱ ኩሉ ስጋ ⟨את⟩ መገዱ ኣብ ምድሪ በደየ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ምድሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እታ ምድሪ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣሎ ድማ"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "ተበደየት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "በደየ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ስጋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መገዱ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "መገዱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:34:19.646410539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ድማ ⟨את⟩ እቶም ኽሩብታት ብወርቂ ሓሸገ።",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ሓሸገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ኽሩብታት"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ኽሩብታት"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:51:40.945717316Z",
+  "model": "glm-5.3"
+}

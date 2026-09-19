@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 103,
+  "translation": "ከም ዝበለ ርሕቐት ምብራቕ ካብ ምዕራብ፣ ⟨את⟩ ብዓቲና ካብና ሓሪቑ።",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "ከም ዝበለ ርሕቐት"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "ምብራቕ"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "ካብ ምዕራብ"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "ሓሪቑ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብና"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብዓቲና"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ብዓቲና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:13.273157505Z",
+  "model": "glm-5.3"
+}

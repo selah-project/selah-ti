@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 5:12",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ስርሒታት ናይቶም ብሉጻት የብርድ፣ ኢዶም ድማ ብልሓት ኣይፈጽምን።",
+  "tokens": [
+    {
+      "surface": "מפר",
+      "gloss": "የብርድ"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ስርሒታት"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "ብሉጻት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ድማ ኣይ…ን"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "ኣይፈጽምን"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ኢዶም"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "ብልሓት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:05:35.108034572Z",
+  "model": "glm-5.3"
+}

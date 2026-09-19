@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 4:16",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ቆም በለ፣ ኣነ ግን ቅርጹ ኣይፈልጦን፤ ምስሊ ተቐምጠ ኣብ ቅድመ ዓይነይ፤ ማሕበን ድማ ድምጺ ሰምዐ።",
+  "tokens": [
+    {
+      "surface": "יעמד",
+      "gloss": "ቆም በለ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ግን ኣይ…ን"
+    },
+    {
+      "surface": "אכיר",
+      "gloss": "ኣይፈልጦን"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "ቅርጹ"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "ምስሊ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ኣብ ቅድመ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይነይ"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "ማሕበን"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ድምጺ"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ሰምዐ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:01:24.474249137Z",
+  "model": "glm-5.3"
+}

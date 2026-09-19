@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ሹማቕቲ ጸራሕቲ ⟨את⟩ ዮሴፍ ምሳኦም ተኺሎ፣ ⟨את⟩ ኣታቶም ኣገልገሎም፣ መዓልታት ኣብ ሓለዓ ነይሮም።",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "ተኺሎ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ሹማቕቲ"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "ጸራሕቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮሴፍ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ምሳኦም"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "ኣገልገሎም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ነይሮም"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ነይሮም"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "ኣብ ሓለዓ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:01:26.004848028Z",
+  "model": "glm-5.3"
+}

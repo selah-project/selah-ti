@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 98,
+  "translation": "ቈላታት እድ ይበጽሑ፤ ኣብ ሓደ ተራራታት ይዛረቡ።",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "ቈላታት"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "ይበጽሑ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "እድ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ኣብ ሓደ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ተራራታት"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ይዛረቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:54.871735973Z",
+  "model": "glm-5.3"
+}

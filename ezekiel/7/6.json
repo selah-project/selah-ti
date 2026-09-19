@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ዕድሚ በጺሑ እዩ፤ እቲ ዕድሚ በጺሑ እዩ፤ ነታ ሓቂ ኣብ ዝበለ ኮይኑ ኣብኻ ተሓብአ፤ እንሆ ትምጽእ እያ።",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "ዕድሚ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "በጺሑ እዩ፤"
+    },
+    {
+      "surface": "בא",
+      "gloss": "በጺሑ እዩ፤"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "እቲ ዕድሚ"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "ኣብ ዝበለ ኮይኑ ተሓብአ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ኣብኻ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ትምጽእ እያ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:22:34.374912678Z",
+  "model": "glm-5.3"
+}

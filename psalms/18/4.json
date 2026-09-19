@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "እቲ ዝመስገን ያህዌህ ክጽውዖ እየ፣ ካብ ጨቃጭነይ ከኣ ክድሕን እየ።",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "ዝመስገን"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ክጽውዖ እየ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ጨቃጭነይ"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "ክድሕን እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:02.461446465Z",
+  "model": "glm-5.3"
+}

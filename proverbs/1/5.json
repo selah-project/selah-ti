@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ስሉስ ይሰምዕን ትምህርቲ ይውስኽን፣ ብግቡእ ምርዳእ ዘለዎ ድማ ምክርቲ ይረክብ።",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "ይሰምዕ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ስሉስ"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ይውስኽ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ትምህርቲ"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "ብግቡእ ምርዳእ ዘለዎ"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "ምክርቲ"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "ይረክብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:39.430266967Z",
+  "model": "glm-5.3"
+}

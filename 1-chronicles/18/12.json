@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ኣቢሻይ ወዲ ጸርዩያ ኣብ ለዓሊ እቲ ማልሕ ⟨את⟩ ኤዱም ሸሞን-ዓሰርተ ሽሕ በዝሕ።",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "ኣቢሻይ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ጸርዩያ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "በዝሕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤዱም"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዱም"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "ኣብ ለዓሊ"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "እቲ ማልሕ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ሸሞን"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሽሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:10:07.690744727Z",
+  "model": "glm-5.3"
+}

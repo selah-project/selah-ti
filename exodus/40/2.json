@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ኣብ መዓልቲ እቲ ቀዳማይ ወርሒ፣ ኣብ ሓደ ኩሉ ናይ እቲ ወርሒ፣ ⟨את⟩ ማሕደር ድኻም ስብሕ ተቐምጥ።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "እቲ ወርሒ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ቀዳማይ"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ኣብ ሓደ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ናይ እቲ ወርሒ"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "ተቐምጥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማሕደር"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድኻም"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ስብሕ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:47:15.576575482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ንንፋስ ዝቆጻጸር ኣይዘራን፤ ነቶም ደመናት ዝረኣየ ኣይሰጉርን።",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ዝቆጻጸር"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ንንፋስ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "ዘራን"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ዝረኣየ"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "ነቶም ደመናት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "ሰጉርን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:43:54.822355261Z",
+  "model": "glm-5.3"
+}

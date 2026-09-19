@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ከምኡውን ኣብ ዝተኸታተሉ ሰባት ሓደ ሰብ ⟨את⟩ ነቲ ጎረቤቱ ብኸዊት ወይ ብግርግም እንተ ሓዚዑ ኣይሞትን፣ ንኣኽሲ ክቕመጥ ክወድቕ እዩ።",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ከምኡውን እንተ"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "እናተኸታተሉ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "እንተ ሓዚዑ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሓደ ሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ጎረቤቱ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ጎረቤቱ"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ብኸዊት"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "ብግርግም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ...ን"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ይሞት"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ክቕመጥ ይወድቕ"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "ንኣኽሲ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:29:32.710332398Z",
+  "model": "glm-5.3"
+}

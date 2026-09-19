@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 66,
+  "translation": "ባሕሪ ናብ ደረቕ ምድሪ ቀየራ፤ ብቐረብ ብእግሪ ሓለፉ፤ ኣብኡ ንሱ ንሕጎስ።",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "ቀየራ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "ናብ ደረቕ ምድሪ"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "ብቐረብ"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "ሓለፉ"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "ብእግሪ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "ንሕጎስ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ንሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:00.643292209Z",
+  "model": "glm-5.3"
+}

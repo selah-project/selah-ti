@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ሰብ ካብ ጽሩይ ወርቂ ክበርቅዮ እየ፣ ደቂ-ኣዳም ካብ ካተም ኦፊር ክበርቅዮ እየ።",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "ክበርቅዮ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "ካብ ጽሩይ ወርቂ"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ደቂ-ኣዳምን"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ካብ ካተም"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ኦፊር"
+    }
+  ],
+  "timestamp": "2026-09-19T01:48:36.164286126Z",
+  "model": "glm-5.3"
+}

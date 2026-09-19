@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ያህዌህ ብዝፈጸሞ ፍደላ ተፈሊጡ እዩ፤ ኣብ ተግባር ኢዱታቱ እቲ ክፉእ ተሰሪዑ ኣሎ። ሕጊዮን። ስላህ።",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "ተፈሊጡ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍደላ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "ኣብ ተግባር"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ኢዱታቱ"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "ተሰሪዑ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "ሕጊዮን"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:32.770639343Z",
+  "model": "glm-5.3"
+}

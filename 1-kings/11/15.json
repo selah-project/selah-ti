@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ምስ ዝኾነ ዳዊድ ⟨את⟩ ኤዶም፣ ዮኣብ ኣለጋ ሰራዊት ን⟨את⟩ እቶም ዝተቐተሉ ክበርኾም ኣብ ዝወጽእ ነበረ፣ ኩሉ ተባዕታይ ኣብ ኤዶም ቐተለ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "ኣብ ዝኾነ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤዶም"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "ኣብ ዝወጽእ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮኣብ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ኣለጋ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "ንኽበርኾም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ዝተቐተሉ"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "እቶም ዝተቐተሉ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ቐተለ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ተባዕታይ"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "ኣብ ኤዶም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:45:23.370660186Z",
+  "model": "glm-5.3"
+}

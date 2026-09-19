@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ነታ ቤት ⟨את⟩ ንውብነት ብሓበንቲ ዕንጻታት ኣስዒበዳ፣ እቲ ወርቂ ድማ ናይ ፓርዋይም ወርቂ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ኣስዒበዳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነታ ቤት"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ዕንጻት"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "ሓበንቲ"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "ንውብነት"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "እቲ ወርቂ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "ፓርዋይም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:56:39.897043512Z",
+  "model": "glm-5.3"
+}

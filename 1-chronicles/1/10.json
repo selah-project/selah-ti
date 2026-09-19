@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኩሽ ድማ ⟨את⟩ ኒምሮድ ወለዱ፤ ንሱ ኣብ ⟨ዘባይታ⟩ ሓያል ኮይኑ ጀመረ።",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "ኩሽ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኒምሮድ"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "ኒምሮድ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ጀመረ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ሓያል"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ዘባይታ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:28:19.009945327Z",
+  "model": "glm-5.3"
+}

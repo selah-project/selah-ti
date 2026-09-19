@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 9:5",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እቲ ዝህይሮ ኬዊታት እሞ ኣይፈልጡን፡ ⟨אשר⟩ ኣብ ብዝሕኡ ይቕውሮም።",
+  "tokens": [
+    {
+      "surface": "המעתיק",
+      "gloss": "እቲ ዝህይሮ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ኬዊታት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እሞ ኣይ...ን"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ፈልጡ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨אשר⟩"
+    },
+    {
+      "surface": "הפכם",
+      "gloss": "ይቕውሮም"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ኣብ ብዝሕኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:06:37.673433386Z",
+  "model": "glm-5.3"
+}

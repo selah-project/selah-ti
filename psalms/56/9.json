@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 56,
+  "translation": "ንስኻ እቲ ስደተይ በጽሕኻ፤ ኣድማጺይ ኣብ ጠርሙስካ ኣእትዋ — ኣብ መጽሓፍካ የለውን ዶ?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "ስደተይ"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "በጽሕኻ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "ኣእትዋ"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "ኣድማጺይ"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "ኣብ ጠርሙስካ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "የለውን ዶ"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "ኣብ መጽሓፍካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:02:10.588235971Z",
+  "model": "glm-5.3"
+}

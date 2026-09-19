@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 142,
+  "translation": "ነፍሰይ ካብ መታሕቲ ኣውጽኣኒ፤ ስምካ ⟨את⟩ ንምውድእ፤ ጻድቓት ብዛዕባይ ክኸብኡ ይግበሩ፤ ምኽንያቱ ብዛዕባይ ተጎይትካ።",
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "ኣውጽኣኒ"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "ካብ መታሕቲ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "ንምውድእ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስምካ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምካ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ብዛዕባይ"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "ክኸብኡ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ጻድቓት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "ተጎይትካ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ብዛዕባይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:39.104615970Z",
+  "model": "glm-5.3"
+}

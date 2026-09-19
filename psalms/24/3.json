@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "መን ኣብ ኮርባ ያህዌህ ይወጽእ፣ ድማ መን ኣብ ቅዱስ ቦታኡ ይቕመጥ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ይወጽእ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ኣብ ኮርባ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ድማ መን"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ይቕመጥ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ኣብ ቦታ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:46.640834364Z",
+  "model": "glm-5.3"
+}

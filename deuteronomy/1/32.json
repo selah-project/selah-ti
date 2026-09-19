@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ድማ ኣብ እዚ ቃል እዚ ኣብ ያህዌህ ኤሎሂምኩም ኣይተኣማንኩምን።",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "ድማ ኣብ እቲ ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "ዝተኣማኑ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ኣብ ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:45:17.893402763Z",
+  "model": "glm-5.3"
+}

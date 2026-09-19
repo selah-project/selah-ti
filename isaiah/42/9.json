@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "እርኣዩ፣ እቶም ቀዳሞት ነገራት መጻእኦም፣ ሓድሽቲ ነገራት ድማ ቅድሚ ምውዳኦም ንዛሕቲኩም እነግር እየ።",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "እቶም ቀዳሞት ነገራት"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እርኣዩ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "መጻእኦም"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "ሓድሽቲ ነገራት"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "እነግር እየ"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ቅድሚ ምውዳኦም"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "ክበቅሉ"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "ኣሰምዓ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንዛሕቲኩም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:08:57.272693476Z",
+  "model": "glm-5.3"
+}

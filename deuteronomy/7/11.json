@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣንተ ድማ ⟨את⟩ ትእዛዊን ⟨את⟩ ሕግታትን ⟨את⟩ ብዓታትን እቶም ሎሚ ክትገብርዎም ኣነ ዝኣዚዘካ ትሕሉኽ።",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "ትሕሉኽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዊ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ትእዛዊን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሕግታት"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ሕግታትን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ብዓታት"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ብዓታትን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ዝኣዚዘካ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "ክትገብርዎም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:51:30.584106839Z",
+  "model": "glm-5.3"
+}

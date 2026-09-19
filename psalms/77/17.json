@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 77,
+  "translation": "ማይ ረኣዩካ ኤሎሂም፣ ማይ ረኣዩካ፣ ተሰበሩ፤ ተሓባብዓት እውን ተንቐጠቐቱ።",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "ረኣዩካ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "ረኣዩካ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "ተሰበሩ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "ተንቐጠቐቱ"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "ተሓባብዓት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:22.204659250Z",
+  "model": "glm-5.3"
+}

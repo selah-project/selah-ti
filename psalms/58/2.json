@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 58,
+  "translation": "ብሓቂ ብዘይ ቃል ጽድቂ ተዛረብዎ፧ ብቐጥታ ደቂ ሰብ ትፈርድዎ፧",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "ብሓቂ"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ብዘይ ቃል"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "ተዛረብዎ"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ብቐጥታ"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "ትፈርድዎ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ደቂ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:12.959356503Z",
+  "model": "glm-5.3"
+}

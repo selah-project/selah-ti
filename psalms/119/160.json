@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ርእሲ ቃልካ ሓቂ ⟨እዩ⟩፣ ኩሉ ፍደስ ጽድቅካ ንዘለኣለምን ⟨እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ቃልካ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ሓቂ"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "ንዘለኣለምን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍደስ"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ጽድቅካ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:29.426577325Z",
+  "model": "glm-5.3"
+}

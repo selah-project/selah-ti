@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 62,
+  "translation": "ብውከለ ውላድ ኣዳም ባዶነት እዮም፣ ውላድ ሰብ ድማ ሓሶት፤ ኣብ መዛንታት ንምዕራብ ንሳቶም ካብ ባዶነት ንኽብዝሑ ንእሽቶ እዮም።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ብውከለ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ባዶነት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ኣዳም"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "ኣብ መዛንታት"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "ንምዕራብ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "ካብ ባዶነት"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ኩሎም ኣብ ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:17.630755381Z",
+  "model": "glm-5.3"
+}

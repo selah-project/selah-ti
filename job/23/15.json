@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 23:15",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ስለዚ ብፊቱ ድማ እተሓዘኹ፣ እናጠንቀቕኩ ድማ ካብኡ እደኽም።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ብፊቱ ድማ"
+    },
+    {
+      "surface": "אבהל",
+      "gloss": "እተሓዘኹ"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "እናጠንቀቕኩ ድማ"
+    },
+    {
+      "surface": "ואפחד",
+      "gloss": "እደኽም"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:15:27.902813453Z",
+  "model": "glm-5.3"
+}

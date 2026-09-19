@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 102,
+  "translation": "ኣብ ጽዮን ስም ያህዌህ ንምግለጽ፣ ምስገጹን ኣብ የሩሻላይም።",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "ንምግለጽ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ኣብ ጽዮን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "ምስገጹን"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ኣብ የሩሻላይም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:54.415938267Z",
+  "model": "glm-5.3"
+}

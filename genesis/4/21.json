@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ከምኡ ድማ ስም ኣሕዊኡ ዩባል እዩ ነይሩ፤ ንሱ ኣቦ ኩሉ ኪናርን ዑጋብን ተጻዋራት እዩ።",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ስም ድማ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ኣሕዊኡ"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "ዩባል"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "ተጻዋራት"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "ኪናርን"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "ዑጋብን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:31:50.318098406Z",
+  "model": "glm-5.3"
+}

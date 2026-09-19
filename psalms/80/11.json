@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 80,
+  "translation": "ደባታት ብጽልማታ ተሸፈኑ፣ ቅርንጫፋታ ድማ ኣርዛይ ኤል እየን።",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "ተሸፈኑ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ደባታት"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "ጽልማታ"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "ቅርንጫፋታ"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "ኣርዛይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:38.803324440Z",
+  "model": "glm-5.3"
+}

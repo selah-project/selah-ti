@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ያህዌህ ድማ መጸን ተቐመጠን ከም ኣበይቲ ግዜታት ከም እቲ «ሳሙኤል፣ ሳሙኤል» ደወለ። ሳሙኤል ድማ «ተዛረብ፣ ምኽንያቱ ኣገልገላኻ ይሰምዕ እዩ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ደወለ"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "ከም ኣበይቲ"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ግዜታት"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ይሰምዕ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልገላኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:58:21.377640450Z",
+  "model": "glm-5.3"
+}

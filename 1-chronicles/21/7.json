@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ብዓይኒ ኣልኣህይም ብዛዕባ እቲ ነገር እዚ ክፉእ ኮይኑ፣ ድማ ⟨את⟩ እስራኤል መታ።",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ክፉእ ኮይኑ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ብዓይኒ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኣልኣህይም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብዛዕባ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ነገር"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "መታ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T07:45:17.167743516Z",
+  "model": "glm-5.3"
+}

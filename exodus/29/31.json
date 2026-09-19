@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ድማ ⟨ואת⟩ ነቲ ወሃቢ ሙላእቲ ተወስድ፣ ⟨את⟩ ስጋኡ ድማ ኣብ ቅዱስ ቦታ ኣብስሉ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ነቲ ወሃቢ ሙላእቲ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ወሃቢ"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "ሙላእቲ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ተወስድ"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "ኣብስሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስጋኡ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ስጋኡ"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "ኣብ ቦታ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:36:11.007658915Z",
+  "model": "glm-5.3"
+}

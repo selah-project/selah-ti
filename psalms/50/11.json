@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ነፍሳት ኩሉ ከረብታት ይፈልጠን እየ፣ እተን ረማዊ ኣራዊት ቦታ ምሳይ እየን።",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "ይፈልጠን እየ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ነፍሳት"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ከረብታት"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "ከምኡውን እተን ረማዊ ኣራዊት"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ምሳይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:47.453294350Z",
+  "model": "glm-5.3"
+}

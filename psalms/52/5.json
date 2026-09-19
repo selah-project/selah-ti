@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 52,
+  "translation": "ፈተውካ እሞ ነቲ ኽኻልኢ ካብ እቲ ጽቡቕ፣ ነታ ሓሶት ካብ ምዛረብ ጽድቂ። ሰላህ",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ፈተውካ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ኽኻልኢ"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "ካብ እቲ ጽቡቕ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ካብ ምዛረብ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:02:25.460060009Z",
+  "model": "glm-5.3"
+}

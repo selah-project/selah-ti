@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ንዅሉ ሰብ እስራኤል ካብ ተባዕታይ ክሳብ ሰበይቲ ነፍሲ ወከፍ ሰብ ሓደ ንዑስ እኽሊ፣ ኣሽፋርን ኣሽያሻን ኣካፈለ።",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "ኣካፈለ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንዅሉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ካብ ተባዕታይ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ነፍሲ ወከፍ ሰብ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ንዑስ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "ኣሽፋር"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "ኣሽያሻ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:42:30.680836353Z",
+  "model": "glm-5.3"
+}

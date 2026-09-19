@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ምዝራፍ ኣዕይንቲን ስፍሓት ልቢን — ሽራሕ ኃጥኣት ኃጢኣት እያ።",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "ምዝራፍ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ኣዕይንቲ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ስፍሓት…ን"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "ሽራሕ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኃጥኣት"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ኃጢኣት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:52:50.364048214Z",
+  "model": "glm-5.3"
+}

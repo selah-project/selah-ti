@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 15:5",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ጥልሒታት ኸድኣዮም፤ ከም ድንጋይ ኣብ ቐላጣታት ወረዱ።",
+  "tokens": [
+    {
+      "surface": "תהמת",
+      "gloss": "ጥልሒታት"
+    },
+    {
+      "surface": "יכסימו",
+      "gloss": "ኸድኣዮም"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ወረዱ"
+    },
+    {
+      "surface": "במצולת",
+      "gloss": "ኣብ ቐላጣታት"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ድንጋይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:20:39.533248088Z",
+  "model": "glm-5.3"
+}

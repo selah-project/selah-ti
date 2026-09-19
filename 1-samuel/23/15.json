@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ዳዊድ ሻኡል ነፍሱ ⟨את⟩ ንምንዋር ከም ዝወጸ ረኣየ፤ ዳዊድ ድማ ኣብ ምድሪ ጸላእ ዚፍ ኣብ ሓሊባ ተቐሚጡ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ዝወጸ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ንምንዋር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሱ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱ"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ዳዊድ ድማ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድሪ ጸላእ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ዚፍ"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "ኣብ ሓሊባ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:13:34.382220540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ካብቶም ድሃታት ምድሪ ድማ ራብ ጣባሕቲ ንዘፍረስቲ ወይንን ንኣርሰቲ ምድርን ተሪኣዎም።",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "ካብቶም ድሃታት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እታ ምድሪ"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ተሪኣዎም"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ራብ"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ጣባሕቲ"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "ንዘፍረስቲ ወይን"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "ንኣርሰቲ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:40:34.573791876Z",
+  "model": "glm-5.3"
+}

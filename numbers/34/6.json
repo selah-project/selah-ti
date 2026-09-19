@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 34:6",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ነቲ ድንበር ምዕራብ ድማ ቲ ዓቢ ባሕሪ ንኩም ንድንበር እዩ፤ እዚ ንኩም እቲ ድንበር ምዕራብ እዩ።",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "ድንበር"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ምዕራብ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኩም"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ቲ ባሕሪ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "ንድንበር"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኩም"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ድንበር"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ምዕራብ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:43:00.734733546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ነታን ⟨אתה⟩ ⟨ואת⟩ ኩሉን መሳርሒታታ ኣብ መሸለቢ ሓብርቲ ታሕሽ ይሃቡ፣ ኣብ ምስንዳ ድማ ይሃቡ።",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "ይሃቡ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "ነታ (the lampstand of v.9)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ኩሉ መሳርሒታታ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "መሳርሒታታ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "መሸለቢ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ሓብርቲ"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "ታሕሽ"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ይሃቡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "ምስንዳ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:15:15.572679416Z",
+  "model": "glm-5.3"
+}

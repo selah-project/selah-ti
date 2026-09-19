@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "esther 9:32",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እቲ ኣዘዛ እስትር ኸኣ ነዚኦም ነገራት ናይ ፑሪም ኣረጋጸ፣ ኣብ መጽሓፊ ድማ ተጻሕፈ።",
+  "tokens": [
+    {
+      "surface": "ומאמר",
+      "gloss": "እቲ ኣዘዛ ኸኣ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "እስትር"
+    },
+    {
+      "surface": "קים",
+      "gloss": "ኣረጋጸ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ነገራት"
+    },
+    {
+      "surface": "הפורים",
+      "gloss": "ናይ ፑሪም"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ነዚኦም"
+    },
+    {
+      "surface": "ונכתב",
+      "gloss": "ተጻሕፈ"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "ኣብ መጽሓፊ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:51:06.568112893Z",
+  "model": "glm-5.3"
+}

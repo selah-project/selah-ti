@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ወይ እቲ መሰረት ተመክሮ ኣኽሊል፣ ኣኽሊል ዓቓት፣ ኣኽሊል ናይ ዓሰርተ እጥን ኣኽሊል ናይ ሸውዓተ እጥን ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "ወይ እቲ መሰረት"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ኣኽሊል"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "ተመክሮ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ኣኽሊል"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ዓቓት"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ኣኽሊል ናይ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "እጥ"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ወይ ኣኽሊል ናይ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "እጥ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:49:57.844714625Z",
+  "model": "glm-5.3"
+}

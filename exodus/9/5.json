@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ያህዌህ ድማ እዋን ተባርኮ እናበለ፦ «ተኸታይ መዓልቲ ያህዌህ ⟨the⟩ ቃል ነዚ ኣብ ⟨the⟩ ምድሪ ክገብር እዩ።»",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ተባርኮ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "እዋን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ተኸታይ መዓልቲ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ክገብር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ነዚ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:18:14.208516455Z",
+  "model": "glm-5.3"
+}

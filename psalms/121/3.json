@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 121,
+  "translation": "እቲ እገርካ ንምምራቕ ኣይህብን፤ እቲ ዝከላከልካ ኣይተንቓጎሖን።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይህብ"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "ንምምራቕ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "እገርካ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ክተንቓጎሖ"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ዝከላከልካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:30.851743120Z",
+  "model": "glm-5.3"
+}

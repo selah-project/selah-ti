@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 16:15",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ሃጋር ድማ ንኣቭራም ወዲ ወለደቶ፤ ኣቭራም ድማ ነቲ ሃጋር ዝወለዶቶ ወዲ ስም ይሽማዕኤል በሎ።",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደቶ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ሃጋር"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "ንኣቭራም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "በሎ ስም"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ኣቭራም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ዝወለዶቶ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ሃጋር"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ይሽማዕኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T20:39:36.659081781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "መን ⟨את⟩ መንፈስ ያህዌህ መዘነበ፣ ወይ መን ሰብ ምስ ምኽር ናይ ያህዌህ ኮይኑ ነቲ ዝፈልጦ ኣስፍሖ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "መዘነበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንፈስ ያህዌህ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "ምኽር ናይ ያህዌህ"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "ኣስፍሖ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:09:12.511789330Z",
+  "model": "glm-5.3"
+}

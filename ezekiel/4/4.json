@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 4:4",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣትን ንስኻ፣ ብግማዊ ጎንኻ ንኽደ፣ ነቲ ⟨את⟩ ብድልና ናይ ስድራ እስራኤል ኣብ ልዕሊኡ ኣቕሚት፤ ቍጽሪ መዓልታት እቶም ኣብ ልዕሊኡ እትንኽዶሉ፣ ነቲ ⟨את⟩ ብድልኖም ተወክስ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ኣትን ንስኻ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ንኽደ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "צדך",
+      "gloss": "ጎንኻ"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "እቲ ግማዊ"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ኣቕሚት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብድልና"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ብድልና"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊኡ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ቍጽሪ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "እትንኽዶ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊኡ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ተወክስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብድልኖም"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ብድልኖም"
+    }
+  ],
+  "timestamp": "2026-09-19T03:24:42.135444582Z",
+  "model": "glm-5.3"
+}

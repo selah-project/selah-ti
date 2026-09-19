@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 85,
+  "translation": "ሓቂ ካብ ምድሪ ይበቅል፣ ጽድቂ ካብ ሰማያት ይረኣይ እሩቒ።",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "ሓቂ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "ይበቅል"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ካብ ሰማያት"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "ይረኣይ እሩቒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:29.041891403Z",
+  "model": "glm-5.3"
+}

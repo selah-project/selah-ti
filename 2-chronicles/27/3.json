@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ንሱ ⟨את⟩ በር ቤት ያህዌህ እቲ ኣውሳቢ በነበ፣ ኣብ ግንቢ ዓፈል ድማ ብብዙሕ በነበ።",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "በነበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በር ቤት ያህዌህ እቲ ኣውሳቢ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "በር"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "እቲ ኣውሳቢ"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "ኣብ ግንቢ"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "ዓፈል"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "በነበ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ብብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:12:04.889418899Z",
+  "model": "glm-5.3"
+}

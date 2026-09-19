@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 30:2",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "እቲ ንጉሥ ምስ ሰበይታቱን ምስ ኩሉ ጉባኤ ኣብ የሩሻላይም ተማክሮም ኣብ ካልኣይ ወርሕ እቲ ፓሳኽ ንምግበር ወሲኖም።",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "ተማክሮም ወሲኖም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉሥ"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "ምስ ሰበይታቱን"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ምስ ኩሉ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ኣብ የሩሻላይም"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ንምግበር"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "እቲ ፓሳኽ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ኣብ ወርሕ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ካልኣይ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:18:07.513806580Z",
+  "model": "glm-5.3"
+}

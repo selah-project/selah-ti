@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ሔሴድታት ያህዌህ ናብ ዘለኣለም ክዛርብ እየ፤ ኣምንታትካ ንውላድ ውላድ ብገጸይ ክፈልጥ እየ።",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ሔሴድታት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ክዛርብ እየ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "ክፈልጥ እየ"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ኣምንታትካ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ብገጸይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:16.382793276Z",
+  "model": "glm-5.3"
+}

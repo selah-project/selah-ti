@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 92,
+  "translation": "ሔሴድካ ኣብ ቀዳማይ ቀትሪ ንክንነግር፣ ምእማንካን ኣብ ለይታት።",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "ንክንነግር"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ኣብ ቀዳማይ ቀትሪ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሔሴድካ"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "ምእማንካን"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "ኣብ ለይታት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:54.897996227Z",
+  "model": "glm-5.3"
+}

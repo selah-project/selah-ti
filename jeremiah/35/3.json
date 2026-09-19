@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ድማ ⟨את⟩ ያዛነያ ወዲ የርምያሁ ወዲ ሕባጽነያን ⟨את⟩ ሓዎቡን ⟨את⟩ ኩሉ ውላዱን ⟨את⟩ ምሉእ ስድራ ረካብታትን ወሲደ።",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "ወሲደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያዛነያ"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "ያዛነያ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "የርምያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "ሕባጽነያ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሓዎቡ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ሓዎቡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ውላዱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምሉእ ስድራ ረካብታት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ምሉእ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "ረካብታት"
+    }
+  ],
+  "timestamp": "2026-09-19T02:59:56.382755764Z",
+  "model": "glm-5.3"
+}

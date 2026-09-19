@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ሰብ ኣገማ ወይ ወይኒ እንተ ኣብዓለ፣ ⟨את⟩ እቲ እንስሳ ኣስዒቡ ኣብ ኣገማ ካልእ ሰብ እንተ ኣብዓለ ድማ፣ ምርግብ ኣገማኡን ምርግብ ወይኒኡን ይኸፍቱ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "ኣብዓለ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ኣገማ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ወይኒ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ኣስዒቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ እንስሳ"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "እንስሳ"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "ኣብዓለ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ኣብ ኣገማ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ካልእ"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "ምርግብ"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "ኣገማኡ"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "ምርግቡ"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "ወይኒኡ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ይኸፍቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:29:18.639687293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 71,
+  "translation": "«ኤሎሂምይ፣ ካብ ኢድ ክፉእ ኣውጽአኒ፤ ካብ ኣኽሕታ እቲ ጸውዒ ሓያል ኣውጽአኒ።»",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂምይ"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "ኣውጽአኒ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "ካብ ኣኽሕታ"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "ጸውዒ"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "ሓያል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:09.277691405Z",
+  "model": "glm-5.3"
+}

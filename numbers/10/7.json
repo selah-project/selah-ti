@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ነቲ ጉባኤ ⟨את⟩ ኣካቢ ምበሉ እናተቑኣዩ፣ ትሩዓ ግን ኣይትጥቕዑን።",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "ንምኣኻብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ጉባኤ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "እናተቑኣዩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "ትሩዓ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:20:15.136334661Z",
+  "model": "glm-5.3"
+}

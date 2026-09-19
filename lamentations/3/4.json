@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ስጋይን ቆዳይን ኣርጀዎ፣ እቶም ኣጽማትን ድማ በደቑ።",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "ኣርጀዎ"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ስጋይ"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "ቆዳይን"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "በደቑ"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "እቶም ኣጽማትን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:35:09.010712357Z",
+  "model": "glm-5.3"
+}

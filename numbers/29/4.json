@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ድማ ሓደ ኣዕርንቲ ንነቲ ሓደ ጸጋ ፣ ንእቶም ሸውዓተ ጸጋታት።",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "ድማ ኣዕርንቲ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ንነቲ ጸጋ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ነቲ ሓደ"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ንእቶም ሸውዓተ"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ጸጋታት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:37:44.282271192Z",
+  "model": "glm-5.3"
+}

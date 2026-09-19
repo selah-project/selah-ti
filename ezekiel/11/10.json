@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ብሰይፊ ትወድቑ ኢኹም፤ ኣብ ዶባ እስራኤል ⟨אתכם⟩ እፈርድ እየ፤ ከም ዝኾነ ኣነ ያህዌህ እየ ትፈልጡ።",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "ብሰይፊ"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "ትወድቑ ኢኹም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ዶባ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "እፈርድ እየ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ንኹም"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ትፈልጡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:26:19.173671228Z",
+  "model": "glm-5.3"
+}

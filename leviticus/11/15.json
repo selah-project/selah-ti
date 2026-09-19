@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "⟨את⟩ ኩሉ ዑራቢ ንዓይነቱ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ዑራቢ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ዑራቢ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ንዓይነቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:51:56.305092155Z",
+  "model": "glm-5.3"
+}

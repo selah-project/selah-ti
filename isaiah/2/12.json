@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 2:12",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ምኽንያቱ ናይ ያህዌህ ጸባኦት መዓልቲ ኣብ ኩሉ ዝተሓበከን ዕርዮን ትሕቲ ኪሃድእ፣ ኣብ ኩሉ ዝተቐነይን ንሱ ድማ ይተወድቐሉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ናይ ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "ዝተሓበከ"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ዕርዮ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ዝተቐነይ"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "ይተወድቐሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:38:54.539448259Z",
+  "model": "glm-5.3"
+}

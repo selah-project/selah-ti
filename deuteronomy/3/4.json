@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "በዚ እዋንዚ ኸኣ ⟨את⟩ ኩሉ ከተማቱ ተቓተልና፤ ካብኦም ዝወሰድናያ ከተማ ኣይነበረትን፤ ስልሳት ከተማታት፣ ምሉእ ጐደና ኣርጎብ፣ መንግስቲ ዑግ ኣብ ሓባሻን።",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "ተቓተልና"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ከተማቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "ከተማቱ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "በዚ እዋንዚ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነይራ"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "ዝወሰድናያ"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "ካብ ⟨את⟩ ንኣሰርቲ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ስልሳት"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማታት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ምሉእ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ጐደና"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "ኣርጎብ"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "መንግስቲ"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ዑግ"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "ኣብ ሓባሻን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:47:39.594471165Z",
+  "model": "glm-5.3"
+}

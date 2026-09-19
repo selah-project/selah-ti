@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ነፍሲ ወከፍ ⟨את⟩ እኽሊኦም ኣብ ኣርዑቶም ኣጸዓኑ፣ ካብኡ ድማ ከዱ።",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ኣጸዓኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እኽሊኦም"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "እኽሊኦም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "ኣርዑቶም"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ከዱ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ካብኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:04:55.855109745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ብመጀመርታ ኤሎሂም ⟨את⟩ ሰማያትን ⟨את⟩ ምድርን ፈጠረ።",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "ብመጀመርታ"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ፈጠረ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰማያትን"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያትን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምድርን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድርን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:17:00.580075475Z",
+  "model": "glm-5.3"
+}

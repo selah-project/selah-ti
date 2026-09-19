@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ያህዌህ ድማ ኮይኑ ነቲ ንምርኣይ ዝኣወርደ ምስ ረኣየ፣ ኤሎሂም ድማ ካብ ማእከል እቲ ኩሽ ኣስመሰሎ፦ «ሞሸ፣ ሞሸ።» ንሱ ድማ በለ፦ «ኣለኹ።»",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ዝኣወርደ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ንምርኣይ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ኣስመሰሎ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንኡይ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ካብ ማእከል"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "እቲ ኩሽ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞḍ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ኣለኹ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:11:53.079494195Z",
+  "model": "glm-5.3"
+}

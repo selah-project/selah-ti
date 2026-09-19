@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "⟨את⟩ ዓመዲትካ ንኽተወስን ኣይትሕደግ፤ ምድሪ ከምኡውን ኣይትወሰንን፤ ምድሪ ከኣ ብኃጢኣት ክትመልእ እያ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "ኣይትሕደግ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓመዲትካ"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "ዓመዲትካ"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "ንኽተወስን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ከምኡውን ኣይ…ን"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "ኣይትወሰንን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ክትመልእ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ኃጢኣት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:02:58.771346470Z",
+  "model": "glm-5.3"
+}

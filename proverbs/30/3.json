@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ጥበብ ኣይተማሃርኩን፣ ውን እውቀት ቅዱሳት ኣይፈልጥን።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ውን ኣይ…ን"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "ተማሃርኩ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ውን እውቀት"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ኣይፈልጥን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:00:22.196151780Z",
+  "model": "glm-5.3"
+}

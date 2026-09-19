@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 12:15",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ዓብዶን ወዲ ሕለል እቲ ፒራቶናዊ ድማ ሞተ፣ ኣብ ፒራቶን ኣብ ምድሪ ኤፍራይም ኣብ ከረጢ ናይ ኣማለቅ ተቐብአ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "ዓብዶን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "ሕለል"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "እቲ ፒራቶናዊ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ተቐብአ"
+    },
+    {
+      "surface": "בפרעתון",
+      "gloss": "ኣብ ፒራቶን"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ኣብ ከረጢ"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "ናይ ኣማለቅ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:46:32.464125968Z",
+  "model": "glm-5.3"
+}

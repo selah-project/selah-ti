@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ናብ ዘለኣለም ትእዛዛትካ ኣይረስዐን፤ ምኽንያቱ ብኣቶም ሕየኒ።",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ረስዐን"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ትእዛዛትካ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ብኣቶም"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "ሕየኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:43.932678595Z",
+  "model": "glm-5.3"
+}

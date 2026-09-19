@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ዓምራም ድማ ሓብቲኡ ⟨את⟩ ዮኽበድ ነቲ ንሱ ናብ ሰበይቲ ወሲዱ፣ ነቲ ንሱ ድማ ⟨את⟩ ኣሃሮንን ⟨את⟩ ሞሸን ወሊዳ፤ ዓመታት ህይወት ዓምራም ሸውዓተን ሰላስታትን ሚእቲን ዓመት እዮም።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "ዓምራም ድማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮኽበድ"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "ዮኽበዓ"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "ሓብቲኡ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ነቲ ንሱ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ናብ ሰበይቲ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወሊዳ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ነቲ ንሱ ድማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሃሮን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ህይወት"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "ዓምራም"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸውዓተን"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ሰላስታትን"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ሚእቲን"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:12:41.516122309Z",
+  "model": "glm-5.3"
+}

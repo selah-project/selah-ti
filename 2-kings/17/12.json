@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ነቶም ኣማልኽቲ ተገለጸ ተባርኹ፤ ያህዌህ ነይሩ ነይራ ነይሩ 'ነይራ ኣይትገብሩን' ኢሉ ⟨את⟩ እቲ ቃል ዝነገሮም እዩ።",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ተባርኹ"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "ኣማልኽቲ ተገለጸ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ዝበሎ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንኣዕሮም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ትገብሩን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ቃል"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:29:33.457870374Z",
+  "model": "glm-5.3"
+}

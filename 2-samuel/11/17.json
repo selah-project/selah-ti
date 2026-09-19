@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ሰባት እታ ከተማ ወጹኦም፣ ⟨את⟩ ዮኣብ ተቓለሱ፤ ካብ ሰባት ኣገልጋሊ ዳዊድ ወደቑ፣ ኡሪያ ሓዊቲ እውን ሞተ።",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ወጹኦም"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እታ ከተማ"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ተቓለሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮኣብ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮኣብ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ወደቑ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "ኣገልጋሊ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ኡሪያ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ሓዊቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:29:30.454195116Z",
+  "model": "glm-5.3"
+}

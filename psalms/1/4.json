@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "እቶም ኣብያት ግን ከምዚ ኣይኮኑን፤ ከም ስን እዮም እቲ ንፋሲ ዝጐድፎ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "እቶም ኣብያት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ኣብ ዝኾነ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "ከም ስን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "ዝጐድፎ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ንፋሲ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:43:12.329494789Z",
+  "model": "glm-5.3"
+}

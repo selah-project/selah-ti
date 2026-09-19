@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ኣነ ኸኣ ኢዱ ኣብ ባሕሪ ኣቐምጦ፣ ከምኡውን የማናይ ኢዱ ኣብ ቈላታት እዩ።",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ኣቐምጦ"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ኣብ ባሕሪ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "ኣብ ቈላታት"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "የማናይ ኢዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:21.027411356Z",
+  "model": "glm-5.3"
+}

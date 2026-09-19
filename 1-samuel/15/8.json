@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ንኣጋግ ንጉስ ዓማልቅ ሕያው ሒዙ፣ ኩሉ ህዝቢ ድማ ብሕይወት ገበረ —",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "ሒዙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣጋግ"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "ኣጋግ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ዓማልቅ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ እቲ ህዝቢ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "ኣጥፊአ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ብጽምጽ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:06:45.657455097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ቃላት ይርምያሁ ወዲ ሕልቅያሁ ካብ ኣኻናት ዝብዓናቶት እዮም ብምድሪ ንያሚን።",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ይረምያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "ሕልቅያሁ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ኣኻናት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "ብዓናቶት"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ብምድሪ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ንያሚን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:25:38.488389081Z",
+  "model": "glm-5.3"
+}

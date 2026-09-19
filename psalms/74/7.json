@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 74,
+  "translation": "ኣብ ሓዊ ቐረጹ ቅዱስ ቦታኻ፤ ነቲ ማሕደር ናይ ስምኻ ናብ ምድሪ ወሲዱ ሓደጉ።",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "ቐረጹ (ሰደቡ)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ኣብ ሓዊ"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "ቅዱስ ቦታኻ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ናብ ምድሪ"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "ሓደጉ"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ናይ ስምኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:53.429589823Z",
+  "model": "glm-5.3"
+}

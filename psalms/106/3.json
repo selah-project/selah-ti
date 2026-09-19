@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ብጹኣት እዮም ፍትሒ ዝዕተቡ፣ ብኹሉ ግዜ ጽድቒ ዝገብሩ።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ብጹኣት"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ዝዕተቡ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍትሒ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገብር"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ጽድቒ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብኹሉ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ግዜ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:33.997412042Z",
+  "model": "glm-5.3"
+}

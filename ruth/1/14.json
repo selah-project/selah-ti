@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ruth 1:14",
+  "book": "ruth",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ድማ ቐንዲሰን ድምጻን እናበላያ ደረቃን፤ ኣዕርፋሕ ድማ ነታ ስድራ-ሰበይታ ሰበረት፣ ሩት ድማ ኣብኣ ተጣባዓት።",
+  "tokens": [
+    {
+      "surface": "ותשנה",
+      "gloss": "ቐንዲሰን"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "ድምጻን"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "ደረቃን"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደጋጊም"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "ሰበረት"
+    },
+    {
+      "surface": "ערפה",
+      "gloss": "ኣዕርፋሕ"
+    },
+    {
+      "surface": "לחמותה",
+      "gloss": "ነታ ስድራ-ሰበይታ"
+    },
+    {
+      "surface": "ורות",
+      "gloss": "ሩት"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "ተጣባዓት"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:32:57.001499473Z",
+  "model": "glm-5.3"
+}

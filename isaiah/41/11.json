@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 41:11",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ኣሎ፣ ኩሎም ዝጠልፉኻ ይንፈራሉን ይሕፈሩን፤ ከም ⟨ዘይነገር⟩ ኮይኖም፣ ሰባት ተጣላትኻ ድማ ይጠፍኡ።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ይንፈራሉ"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ይሕፈሩን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "הנחרים",
+      "gloss": "ዝጠልፉኻ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣባኻ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ኮይኖም"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "ከም ዘይነገር"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "ይጠፍኡ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "ተጣላትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:09:23.082525399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ያህዌህ ይሓልዎ፣ ዕቁቡ ድማ የብርህ፤ ኣብ ምድሪ ዝበረከት ኮይኑ፣ ናብ ነፍሲ መንእሰያቱ ከይውሃቦ ኣይትሃቦ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "ይሓልዎ"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "ዕቁቡ የብርህ"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "ዝበረከት ኮይኑ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "ከይውሃቦ ትሃቦ"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ናብ ነፍሲ"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "መንእሰያቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:29.696377595Z",
+  "model": "glm-5.3"
+}

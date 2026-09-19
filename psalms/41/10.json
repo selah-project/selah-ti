@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "እኳ እቲ ሰብ ሰላምይ ኣብ ዝተኣማንኩሉ፣ እቲ እኽሊይ ዝነብስ፣ ንኣነ ሒዱ ዓቢ እዩ — ⟨ዕፅጽርይ ኣሕዲሙ ኣብ ኣነ⟩።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እኳ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "ሰላምይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ዝተኣማንኩሉ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ነብስ"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "እኽሊይ"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "ኣዐቢዎ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ኣነ"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ሒዱ ዓቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:11.541140393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ናብኣቶም ተዛረበ፦ «ንላባን ወዲ ናኽውር ⟨את⟩ ተዓውትዎ ደኣ?» ንሳቶም ድማ «ተዓውትናዮ» በሉ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ናብኣቶም"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "ተዓውትዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ላባን"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ላባን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ናኽውር"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "ተዓውትናዮ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:51:29.429688148Z",
+  "model": "glm-5.3"
+}

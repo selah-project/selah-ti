@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ኣስኪቡ ⟨אתו⟩ ኣብ ፈረሳት፣ ንሱ ድማ ኣብ የሩሻላይም ምስ ኣቦታቱ ኣብ ከተማ ዳዊድ ተቐብአ።",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ኣስኪቡ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ንሱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "ፈረሳት"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ተቐብአ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ኣብ የሩሻላይም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ኣቦታቱ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ኣብ ከተማ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:26:52.812594573Z",
+  "model": "glm-5.3"
+}

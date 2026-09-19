@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 38:5",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ኣርባዕተ ቀለበታት ኣብ ኣርባዕተ እቲ ማዕዘናት ናዥ እቲ ናሕስት ስንጭሮ ቐለለ፤ ቤታት ንእቶም ዘበታት ኮይኖም።",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "ቐለለ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "ቀለበታት"
+    },
+    {
+      "surface": "בארבע",
+      "gloss": "ኣብ ኣርባዕተ"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "እቲ ማዕዘናት"
+    },
+    {
+      "surface": "למכבר",
+      "gloss": "ናዥ እቲ ስንጭሮ"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ናሕስት"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ቤታት"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "ንእቶም ዘበታት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:42:34.512763052Z",
+  "model": "glm-5.3"
+}

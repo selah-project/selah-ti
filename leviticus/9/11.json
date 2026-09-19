@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "⟨את⟩ ከሳትን ⟨את⟩ ቆርቆርን ኣብ ቈጽሮ ብሓዊ ኣብ ወጻኢ ኣቢል ቃላት ኣበዝዖ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ከሳት"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ከሳት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቆርቆር"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ቆርቆር"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ኣበዝዖ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ብሓዊ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ኣብ ወጻኢ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ኣቢል ቃላት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:51:46.977495867Z",
+  "model": "glm-5.3"
+}

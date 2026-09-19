@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ኤሎሂም፣ እኡታትካ ረኣዩ — እቶም እኡታት ናይ ኤልይ፣ ንጉሰይ፣ ኣብ ⟨ቅድስና⟩።",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "ረኣዩ"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "እኡታትካ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "እኡታት"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ኤልይ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ንጉሰይ"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ኣብ ቅድስና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:35.383952065Z",
+  "model": "glm-5.3"
+}

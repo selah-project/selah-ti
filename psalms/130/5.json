@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 130,
+  "translation": "ያህዌህ ተጸበየኩ፣ ነፍሲ ድማ ተጸበየት፣ ንቓሉ ድማ ተስፋ ገበርኩ።",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "ተጸበየኩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "ተጸበየት"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "ንቓሉ"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "ተስፋ ገበርኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:07.645112315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ድማ ነቶም ማዕጾት ⟨את⟩ ኣጸንሐ፣ ኣብኦም ኣበዓት ኣቐመጠ፣ ከምኡውን መቕመጫ መግቢ፣ ዘተን ወይኒን።",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ኣጸንሐ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ማዕጾት"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "ነቶም ማዕጾት"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ኣቐመጠ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ኣብኦም"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "ኣበዓት"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "መቕመጫ"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "መግቢ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ዘተን"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ወይኒን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:59:19.312048732Z",
+  "model": "glm-5.3"
+}

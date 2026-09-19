@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ዳዊድ ድማ «ኣባላት ቕይላ ⟨את⟩ ኣነን ⟨ואת⟩ ተጓዓዛይን ናብ ኢድ ሻኡል ክሰርሕዉ ድዮም?» በለ፤ ያህዌህ ድማ «ይሰርሕዉኻ እዮም» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "ክሰርሕዉ ድዮም"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "ኣባላት"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ቕይላ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ኣነ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ተጓዓዛይን"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ተጓዓዛይን"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ናብ ኢድ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "ይሰርሕዉኻ እዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:12:54.280975137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 22:2",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "እቲ ቐንዲት ኣብ ኣይኒ ያህዌህ ገበረ፤ ኣብ ኹሉ መገዲ ዳዊድ ኣቦኡ ከኣ ኰነ ይኸይድ፣ ናብ የማን ወይ ናብ ጸጋም ከኣ ኣይተቐነሰን።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "እቲ ቐንዲት"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ ኣይኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ኰነ ይኸይድ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኹሉ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መገዲ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ተቐነሰ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ናብ የማን"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ወይ ናብ ጸጋም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:35:39.949500048Z",
+  "model": "glm-5.3"
+}

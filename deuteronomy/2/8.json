@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 2:8",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ካብ መኻይናትና ⟨מאת⟩ ውላድ ዒሳው ኣብ ሻዕር ዝቐመጡ ካብ ጎደና ዓረባሃ ካብ ኤላትን ካብ ዕጽዮን ገበርን ተሓለፍና፤ ተመልስና ድማ ብጎደና በረካ ሞኣብ ተሓለፍና።",
+  "tokens": [
+    {
+      "surface": "ונעבר",
+      "gloss": "ተሓለፍና"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨מאת⟩",
+      "marks": "መኻይናትና ውላድ ዒሳው"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "መኻይናትና"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዒሳው"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "ዝቐመጡ"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "ኣብ ሻዕር"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ጎደና"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ዓረባሃ"
+    },
+    {
+      "surface": "מאילת",
+      "gloss": "ካብ ኤላት"
+    },
+    {
+      "surface": "ומעצין",
+      "gloss": "ካብ ዕጽዮን"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ገበር"
+    },
+    {
+      "surface": "ונפן",
+      "gloss": "ተመልስና"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "ተሓለፍና"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ብጎደና"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "በረካ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:47:24.535857383Z",
+  "model": "glm-5.3"
+}

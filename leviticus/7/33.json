@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "እቲ ዝቕርብ ⟨את⟩ ደም ወፈያ ሰላምን ⟨את⟩ ስብን ካብ ውላድ ኣሃሮን፡ ንኡ ጎድን ማእከል ንዕርፂ ክኸውን እዩ።",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "እቲ ዝቕርብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደም"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስብ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ስብ"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ካብ ውላድ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ክኸውን እዩ"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ጎድን"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ማእከል"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "ንዕርፂ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:50:04.396775641Z",
+  "model": "glm-5.3"
+}

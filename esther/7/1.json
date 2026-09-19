@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "እቲ ንጉስን ሃማንን ምስ እስተር እታ ምላኺ ንኺወይቱ መጻእዮም።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጻእዮም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ሃማንን"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ንኺወይቱ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "እስተር"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "እታ ምላኺ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:50:00.900284443Z",
+  "model": "glm-5.3"
+}

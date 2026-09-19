@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣብ ገበያ ኣብ ኸቢብ ማዕዘና እናሓለፈ፣ ነቲ መገዲ ናብ ቤታ ድማ ብዝምድ እናኸደ።",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "እናሓለፈ"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "ኣብ ገበያ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ኣብ ኸቢብ"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ማዕዘና"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ድማ መገዲ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ናብ ቤታ"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "እናኸደ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:44:30.025276462Z",
+  "model": "glm-5.3"
+}

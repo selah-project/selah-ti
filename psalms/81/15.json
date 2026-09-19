@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 81,
+  "translation": "ኣብ ትንሽ ግዜ ተጋዳላንቶም ኣሕዝኖም ነይረ፣ ኣብ ጎረቤቶም ድማ ኢደይ ኣቢሰ።",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "ኣብ ትንሽ ግዜ"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ተጋዳላንቶም"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "ኣሕዝኖም ነይረ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ ጎረቤቶም"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ጠቓይምቶም"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ኣቢሰ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ኢደይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:40.078183209Z",
+  "model": "glm-5.3"
+}

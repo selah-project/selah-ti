@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኣብጽሃን ሞተ፣ ኣብ ቤት ለሕም ድማ ተቐበረ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "ኣብጽሃን"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ተቐበረ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ለሕም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:46:06.757763086Z",
+  "model": "glm-5.3"
+}

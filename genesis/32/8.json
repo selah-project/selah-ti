@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ያዕቆቭ ድማ ብዙሕ ተፈሪሩ ስቓይ በጺሖ፤ ነቲ ህዝቢ እቶም ምስኡ ዝነበሩዎ ⟨את⟩ መንጎታትን ⟨את⟩ ኣብርሂን እቶም ጅምላታትን ንኽልተ ማሕደራት መሓየሾ።",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "ተፈሪሩ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ስቓይ በጺሖ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "መሓየሾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ህዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ምስኡ ዝነበሩዎ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መንጎታት"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "እቶም መንጎታት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብርሂ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "እቶም ኣብርሂ"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "እቶም ጅምላታት"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ንኽልተ"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "ማሕደራት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:54:59.223846980Z",
+  "model": "glm-5.3"
+}

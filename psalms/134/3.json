@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 134,
+  "translation": "ያህዌህ ንስኻ ካብ ጽዮን ክባርከካ፣ እቲ ሰማያትን ምድርን ዝፈጠረ።",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "ንስኻ ክባርከካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ካብ ጽዮን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝፈጠረ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ምድርን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:51.149696006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ዮሴፍ ድማ ዓሰርተ ሓዎት ካብ ሚጽራይም እኽሊ ንኽገዝኡ ወረዱ።",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "ወረዉ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ሓዎት"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ንኽገዝኡ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ካብ ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:04:34.088865550Z",
+  "model": "glm-5.3"
+}

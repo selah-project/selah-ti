@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ምኽንያቱ ኩሉ እስትራዊ ጫካ ናይኩም እዩ፣ እተን ኣራዊት ኣብ ከረብታት ሺሕ ናይኩም እየን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ናይኩም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "እስትራዊ ኣራዊት"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ጫካ"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "እተን ኣራዊት"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "ኣብ ከረብታታት"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:47.453084180Z",
+  "model": "glm-5.3"
+}

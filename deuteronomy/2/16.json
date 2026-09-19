@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ዘመይ ከም እተወደኡ ኵሎም እቶም ተጋዳላይ ሰባት ካብ ውሽጢ እቲ ህዝቢ ኾኑ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ዘመይ ኮይኑ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "እተወደኡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኵሎም"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "እቶም ሰባት"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ተጋዳላይ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ንምውቃዕ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ካብ ውሽጢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:44:52.854748144Z",
+  "model": "glm-5.3"
+}

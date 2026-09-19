@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ኣሎ፣ ነቲ እኽራ ኣበረኸ፣ ማይ ውን ፈሰሰ፣ ተሓዊሱ ዝወርድ ረብሓታት ድማ ተሓውሱ፤ ዳቦ ውን ክሃብ ይኽእል ዶ? ወይ ንሕዝቡ ስጋ ክዳልዎ ይኽእል ዶ?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ኣበረኸ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "እኽራ"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "ፈሰሰ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "ረብሓታት ድማ"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "ተሓውሱ"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "ውን"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ይኽእል ዶ"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ክሃብ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "ክዳልዎ ይኽእል ዶ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ስጋ"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ንሕዝቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:57.101508473Z",
+  "model": "glm-5.3"
+}

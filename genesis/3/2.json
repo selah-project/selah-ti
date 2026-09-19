@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እታ ሰበይቲ ድማ ነቲ ሓያእ በለቶ፦ «ካብ ፍረቲ እቶም ዛፋት እቲ ገነት ንበልዕ ኢና።»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ድማ በለቶ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "እታ ሰበይቲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ሓያእ"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ካብ ፍረቲ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ዛፋት"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "እቲ ገነት"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ንበልዕ ኢና"
+    }
+  ],
+  "timestamp": "2026-09-18T20:32:21.596012047Z",
+  "model": "glm-5.3"
+}

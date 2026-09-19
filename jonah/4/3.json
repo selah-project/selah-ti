@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣብ ዚኣክን፣ ያህዌህ ሆ፣ ነፍሰይ ⟨את⟩ ካብ ኣነ ኣውጣ፤ ምኽንያቱ ሞተይ ካብ ህይወተይ ዝሕለን እዩ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ኣብ ዚኣክን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ኣውጣ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ሆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሰይ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ካብ ኣነ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ዝሕለን"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "ሞተይ"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "ካብ ህይወተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:21:13.447924865Z",
+  "model": "glm-5.3"
+}

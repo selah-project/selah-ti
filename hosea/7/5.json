@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣብ መዓልቲ ንጉስና እቶም ሽፍቶታት ብሙቐት ወይኒ ተሓወሱ፤ ኢዱ ምስ ⟨את⟩ እቶም ዝሓቁፉ ዘረጋገጸ።",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "ንጉስና"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "ተሓወሱ"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ሽፍቶታት"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ሙቐት"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "ወይኒ"
+    },
+    {
+      "surface": "משך",
+      "gloss": "ዘረጋገጸ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ዝሓቁፉ"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "ዝሓቁፉ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:11:00.677005817Z",
+  "model": "glm-5.3"
+}

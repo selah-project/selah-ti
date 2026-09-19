@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 8:1",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ያህዌህ ድማ ናብ የሆሹዋዕ በለ፦ «ኣይትፈርሕን፣ ኣድማውን ኣይትሕዝን፤ ኩሉ ሰብ ሓውዲ ምስ ኣኻ ውሲድ፣ ተንበር፣ ናብ ዓይ ውለ። ርአይ፣ ኣነ ⟨את⟩ ንንጉስ ዓይ ⟨ואת⟩ ንሕዝቢ ኡ ⟨ואת⟩ ንዓዲ ኡ ⟨ואת⟩ ንምድሪ ኡ ኣብ ኢድካ ሃቒበ እየ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ትፈርሕን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣድማውን"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ትሕዝን"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ውሲድ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስ ኣኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ሰብ ሓውዲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ሓውዲ"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "ተንበርውን"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ውለ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ዓይ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ርአይ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ሃቒበ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ኣብ ኢድካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንንጉስ ዓይ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ዓይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ንሕዝቢ ኡ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቢ ኡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ንዓዲ ኡ"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ዓዲ ኡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ንምድሪ ኡ"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ምድሪ ኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:23:29.823981964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ጸልማት ሰደ፣ ነዊሕ ኣጸለመ፤ ⟨את⟩ ቓሉ ድማ ኣይተቓለሉን።",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ሰደ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጸልማት"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "ኣጸለመ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ...ን"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "ኣይተቓለሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቓሉ"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "ቓሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:48.745213332Z",
+  "model": "glm-5.3"
+}

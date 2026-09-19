@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 8:2",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "«ንዓይን ንንጉሳን ከም እተገበርካዮ ንየሪሆን ንንጉሳን ተገበር፤ ጥራይ ኣትሪታን ብሄምታን ንዓኻትኩም ተበዝዑ። ነኻ ንዓዲ ሓባሽ ካብ ድሕሪኣ ኣቐምጥ።»",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ተገበር"
+    },
+    {
+      "surface": "לעי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "ולמלכה",
+      "gloss": "ንንጉሳን"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ዝገበርካዮ"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "ንየሪሆ"
+    },
+    {
+      "surface": "ולמלכה",
+      "gloss": "ንንጉሳን"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "שללה",
+      "gloss": "ኣትሪታን"
+    },
+    {
+      "surface": "ובהמתה",
+      "gloss": "ብሄምታን"
+    },
+    {
+      "surface": "תבזו",
+      "gloss": "ተበዝዑ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንዓኻትኩም"
+    },
+    {
+      "surface": "שים",
+      "gloss": "ኣቐምጥ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ነኻ"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "ሓባሽ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ንዓዲ"
+    },
+    {
+      "surface": "מאחריה",
+      "gloss": "ካብ ድሕሪኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:23:29.824259816Z",
+  "model": "glm-5.3"
+}

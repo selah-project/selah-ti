@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 111,
+  "translation": "ሓይሊ ናይ ስራሕቱ ንዅሉ ሕዝቡ ኣፍለጠ፤ ውርሻ ኣሕዛብ ንምሃቦም።",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "ሓይሊ"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ናይ ስራሕቱ"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ኣፍለጠ"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ንዅሉ ሕዝቡ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ንምሃብ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንሕኦም"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ውርሻ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ኣሕዛብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:10.205551043Z",
+  "model": "glm-5.3"
+}

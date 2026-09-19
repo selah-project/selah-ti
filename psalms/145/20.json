@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 145,
+  "translation": "ያህዌህ ⟨את⟩ ኹሉ ዝፈትዎ ይሓልዎ፣ ⟨ואת⟩ ኹሉ ኣጣራቒ ድማ የጥፍኦም።",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "ይሓልዎ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ ዝፈትዎ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "ዝፈትዎ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ኹሉ ኣጣራቒ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ኣጣራቒ"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "የጥፍኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:53.735284014Z",
+  "model": "glm-5.3"
+}

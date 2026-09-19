@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 24:10",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ድሕሪ ከምዚ ልቢ ዳዊድ ⟨את⟩ ዳዊድን ከም ዝቈጸረ ⟨את⟩ ሕዝቢን በደሎ፤ ዳዊድ ድማ ናብ ያህዌህ፦ «ብዛዕባ ዝገበርኩ ብጣዕሚ ኣመጸእኩ፤ ሕጂ ድማ ያህዌህ ሆይ፣ በጃኻ ⟨את⟩ ኃጢኣት ኣገልጋይካ ኣሓልዮ፣ ምኽንያቱ ብጣዕሚ ዕሽንታይ ገበርኩ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "በደሎ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊድ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ቈጸረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ኣመጸእኩ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ገበርኩ"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "ኣሓልዮ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "በጃኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኃጢኣት"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ኃጢኣት"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልጋይካ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "ዕሽንታይ ገበርኩ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:42:44.271499792Z",
+  "model": "glm-5.3"
+}

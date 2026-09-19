@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ዘርኢኹምን ወይኒኹምን ዎስር ይገብር፣ ንሱራራኡን ንተጠርቑኡን እውን ይሃብ።",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "ዘርኢኹምን"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "ወይኒኹምን"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ዎስር ይገብር"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ይሃብ"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "ንሱራራኡ"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "ንተጠርቑኡን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:58:40.110041884Z",
+  "model": "glm-5.3"
+}

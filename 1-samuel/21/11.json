@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ዳዊድ ምስ ኮደ ኣብ እቲ መዓልቲ ካብ ፊት ሻኡል ተንቀሳቐሰ፣ ናብ ኣኪሽ ንጉስ ጋት ድማ ከደ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተንቀሳቐሰ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ምስ ኮደ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ እቲ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ካብ ፊት"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "ኣኪሽ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ጋት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:13:39.664727032Z",
+  "model": "glm-5.3"
+}

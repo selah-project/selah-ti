@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "እዚ እውን ርኵሰትኡ ኣብ ዝውዕሉ እዩ፦ ስጋኡ ⟨את⟩ ዝውዕሉ ደሪሩ ወይ ንሱ ስጋኡ ካብ ዝውዕሉ ተዓጽዩ — እዚ እዩ ርኵሰትኡ።",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "እዚ እውን"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "ርኵሰትኡ"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "ኣብ ዝውዕሉ"
+    },
+    {
+      "surface": "רר",
+      "gloss": "ደሪሩ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ስጋኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝውዕሉ"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "ዝውዕሉ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "ተዓጽዩ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ስጋኡ"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "ካብ ዝውዕሉ"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "ርኵሰትኡ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:30:42.766548449Z",
+  "model": "glm-5.3"
+}

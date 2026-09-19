@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ዮባብ ድማ ሞተ፤ ካብ ምድሪ እቲ ተማናይ ዝኾነ ሖሳም ኣብ ቦታኡ ነግሠ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "ዮባብ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነግሠ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ኣብ ቦታኡ"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "ሖሳም"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "እቲ ተማናይ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:29:08.798594424Z",
+  "model": "glm-5.3"
+}

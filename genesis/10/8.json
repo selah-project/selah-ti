@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኩሽ ድማ ⟨את⟩ ኒምሮድ ወለዱ፤ ንሱ ድማ ኣብ ምድሪ ጀግና ክኸውን ጀመረ።",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "ኩሽ … ድማ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኒምሮድ"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "ኒምሮድ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ጀመረ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ክኸውን"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ጀግና"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:35:14.083064002Z",
+  "model": "glm-5.3"
+}

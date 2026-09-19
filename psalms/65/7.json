@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 65,
+  "translation": "ኣብ ሓይሉ ኦምታት የብጽሕ፣ ብጽልዋ ተታሒቡ እዩ።",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "የብጽሕ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ኦምታት"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "ኣብ ሓይሉ"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "ተታሒቡ"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "ብጽልዋ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:20.033893081Z",
+  "model": "glm-5.3"
+}

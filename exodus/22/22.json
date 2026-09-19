@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "እንተ ታሕመምካዖ ⟨אתו⟩ ታሕመሙ፣ እንተ ጸወዐ ንዓይ ጸወዑ፣ ሰሚዐ እሰምዐ ጸወዓኡ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ታሕመምካዖ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ታሕመሙ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "ጸወዐ"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "ጸወዑ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰሚዐ"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "እሰምዐ"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "ጸወዓኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:28:05.531124612Z",
+  "model": "glm-5.3"
+}

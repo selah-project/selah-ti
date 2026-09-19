@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 66,
+  "translation": "ብሓቂ ግና ኤሎሂም ሰምዐ፤ ነቲ ድምጺ ናይ ጸሎተይ ኣዘመደ።",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "ብሓቂ ግና"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "ኣዘመደ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ድምጲ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ጸሎተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:34.668996260Z",
+  "model": "glm-5.3"
+}

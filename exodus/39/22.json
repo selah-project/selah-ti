@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ነቲ ⟨את⟩ ልብሲ ናይ ኤፉድ ድማ ገበሩ፣ ስራሕ ሰፍቲ፣ ምሉእ ብሰማያዊ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልብሲ ኤፉድ"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "ልብሲ"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ኤፉድ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ስራሕ"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "ሰፍቲ"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ምሉእ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ሰማያዊ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:45:38.093290979Z",
+  "model": "glm-5.3"
+}

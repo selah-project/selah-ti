@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ውላድ ሓደ ዓመት እዩ ነይሩ ሻኡል ኣብ ንጉስነቱ፣ ክልተ ዓመት ተን ነገሰ ኣብ ላዕሊ እስራኤል።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ሓደ ዓመት"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ኣብ ንጉስነቱ"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ክልተ ተን"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነገሰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T00:04:55.130759967Z",
+  "model": "glm-5.3"
+}

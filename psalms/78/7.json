@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ኣብ ኤሎሂም ተስፋኦም ክገብሩ፣ ግበራት ኤል ከይረስዑ፣ ትእዛዳቱ ክዕተይዎ።",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ክገብሩ"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ኣብ ኤሎሂም"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "ተስፋኦም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ከይ"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "ረስዑ"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "ግበራት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ትእዛዳቱ"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ክዕተይዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:11.655112405Z",
+  "model": "glm-5.3"
+}

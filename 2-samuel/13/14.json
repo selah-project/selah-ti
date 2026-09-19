@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "እምበር ኣብ ቃላ ክሰምዕ ኣይፈቐደን፤ ካዋ ኸኣ ብሓዊ ሓዊራ ኣስገርታን ⟨את⟩ኣ ተኣመረ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "እምበር ...ን"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ኣይፈቐደን"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ክሰምዕ"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "ኣብ ቃላ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ሓዊራ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ካዋ"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "ኣስገርታ"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "ተኣመረ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:30:07.018986525Z",
+  "model": "glm-5.3"
+}

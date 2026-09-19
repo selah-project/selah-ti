@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 49:16",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "ዳን ⟨ነቲ⟩ ሕዝቢኡ ይዳን፣ ከም ሓደ ካብ ወገናት እስራኤል።",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "ዳን"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ይዳን"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቢኡ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ከም ሓደ"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ካብ ወገናት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T21:09:49.823506039Z",
+  "model": "glm-5.3"
+}

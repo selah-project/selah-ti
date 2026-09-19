@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 1:26",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ጸንበረለይ ንስኻ፣ ዓይ ኣሕዋይ ይህንታን፤ ብዙሕ ስጉምቲ ኮይንካ ነይርና፤ ፍቕሪኻ ነይራ ንሕና ዝገረመት፣ ካብ ፍቕሪ ሰበይቲ ዝሓሸ።",
+  "tokens": [
+    {
+      "surface": "צר",
+      "gloss": "ጸንበረ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለይ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ዓይ ኣሕዋይ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ይህንታን"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "ስጉምቲ ኮይንካ ነይርና"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለይ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "נפלאתה",
+      "gloss": "ዝገረመት ነይራ"
+    },
+    {
+      "surface": "אהבתך",
+      "gloss": "ፍቕሪኻ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "ካብ ፍቕሪ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ሰበይቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:20:38.118397866Z",
+  "model": "glm-5.3"
+}

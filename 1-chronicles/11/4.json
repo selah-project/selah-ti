@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ዳዊድን ኩሉ እስራኤልን ናብ የሩሻላይም ከዱ፤ ንሳ ድማ ይቩስ እያ፤ ኣብኡ ድማ እቲ ይቩሳዊ፣ ኣብቲ ምድሪ ዘቐመጡ፣ ነበረ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ከዱ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ድማ ኩሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ንሳ"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "ይቩስ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ኣብኡ ድማ"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "እቲ ይቩሳዊ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ዘቐመጡ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ኣብቲ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:38:21.144564381Z",
+  "model": "glm-5.3"
+}

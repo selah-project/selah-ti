@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 2:21",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ያህዌህ ኤሎሂም ኣብ ልቢ ኣዳም ከባብዲ ድቓም ኣወረደ፤ ንሱ ድማ ተዓበየ፤ ካብ ስንክልታቱ ሓንቲ ወሲዱ፣ ብስጋ ድማ ኣብ ቦታኣ ዓቐጸ።",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ኣወረደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "ከባብዲ ድቓም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልቢ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ኣዳም"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "ተዓበየ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ሓንቲ"
+    },
+    {
+      "surface": "מצלעתיו",
+      "gloss": "ካብ ስንክልታቱ"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "ዓቐጸ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ብስጋ"
+    },
+    {
+      "surface": "תחתנה",
+      "gloss": "ኣብ ቦታኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:31:00.299003495Z",
+  "model": "glm-5.3"
+}

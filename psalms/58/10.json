@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 58,
+  "translation": "ቅድሚ ምስ ስርዓትኹም እቲ ኣጣዕድ ክርድእ ፣ ከም ህያውን ከም ተላዒሉን ብበረና ይሕልሎም።",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ክርድኡ"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "ስርዓትኹም"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "ኣጣዕድ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ህያው"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "በረና"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "ይሕልሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:02:10.864139897Z",
+  "model": "glm-5.3"
+}

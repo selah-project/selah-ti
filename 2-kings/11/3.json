@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ንሱ ድማ ምሳሃ ⟨את⟩ ቤት ያህዌህ ተሓቢኡ ሸሞንተ ዓመታት ነይሩ፣ ዓታልዺሃ ድማ ኣብ ልዕሊ ምድሪ ነገሰት።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ምሳሃ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "ተሓቢኡ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ሸሞንተ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "ዓታልዺሃ"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ነገሰት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:23:21.873297780Z",
+  "model": "glm-5.3"
+}

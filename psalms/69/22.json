@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "ኣብ መግቢ ላእላይ ሃቡኒ፣ ነቲ ዝግሐ ድማ ኮምጽ ኣሳውዑኒ።",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ሃቡኒ"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "ኣብ መግቢ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ላእላይ"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "ነቲ ዝግሐ"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "ኣሳውዑኒ"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ኮምጽ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:25.380980414Z",
+  "model": "glm-5.3"
+}

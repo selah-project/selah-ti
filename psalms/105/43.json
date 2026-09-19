@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ህዝቢኡ ብደስታ ኣውጽአ፣ ⟨את⟩ ተመሪጹ ድማ ብዜማ ኣውጽኦም።",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ኣውጽአ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ህዝቢኡ"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "ብደስታ"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ብዜማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተመሪጹ"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "ተመሪጹ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:17.882302238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ቅሩብ ኢኻ ያህዌህ፣ ኩሉ ትእዛዳትካ ድማ ሓቂ እየን።",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ቅሩብ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኢኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ትእዛዳትካ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ሓቂ እየን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:05.280362037Z",
+  "model": "glm-5.3"
+}

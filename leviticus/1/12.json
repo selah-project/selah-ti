@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ንሱ ናብ ክፍልታቱ ክቕድሖ፣ ⟨את⟩ ርእሱን ⟨את⟩ ስቡዕኡን፤ እቲ ኻህን ድማ ⟨את⟩ እቶም ኣብቲ እንጨይ እቲ ኣብ ቲ ሓዊ እቲ ኣብ መሠወሪ ዝርከብ እናደለ ክደልዮም እዩ።",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "ክቕድሖ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱ"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "ናብ ክፍልታቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ርእሱ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ርእሱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስቡዕኡ"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "ስቡዕኡ"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "እናደለ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ኻህን"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "እንጨይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝርከብ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝርከብ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠወሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:47:47.950146805Z",
+  "model": "glm-5.3"
+}

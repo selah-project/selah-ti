@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ድሕሪ ሞት ኣሕያብ ሞዓብ ኣብ እስራኤል ተቓለለ።",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "ተቓለለ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ኣብ እስራኤል"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ኣሕያብ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:15:04.699819318Z",
+  "model": "glm-5.3"
+}

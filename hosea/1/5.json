@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣብ እቲ መዓልቲ እቲ ⟨ኩነታት ክኸውን⟩ ኣብ ለዓሊ ይዝረኤል ⟨את⟩ ቐስቲ እስራኤል ክሰብር እየ።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ኩነታት ክኸውን"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ እቲ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "ክሰብር እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቐስቲ እስራኤል"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ቐስቲ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ኣብ ለዓሊ"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "ይዝረኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T04:06:46.382051873Z",
+  "model": "glm-5.3"
+}

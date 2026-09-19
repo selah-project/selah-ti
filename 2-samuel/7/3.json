@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ናተን ድማ ንእቲ ንጉስ ተዛረቡ፦ «ኩሉ እቲ ኣብ ልብካ ዘሎ ኸድ ገበር፣ ምኽንያቱ ያህዌህ ምስኻ እዩ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ናተን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዘሎ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ኣብ ልብካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ኸድ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:26:13.102219614Z",
+  "model": "glm-5.3"
+}

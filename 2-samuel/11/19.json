@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ነቲ መልኣኽ እናበለ ኣዘዘ፦ ምስ ወድእካ ⟨את⟩ ኩሉ ቃላት እታ ውግእ፣ ናብ እቲ ንጉስ ምስ ዛረብካ፤",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ኣዘዘ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ መልኣኽ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "እቲ መልኣኽ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "ምስ ወድእካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ቃላት እታ ውግእ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "እታ ውግእ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ንምዛረብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:29:30.454595619Z",
+  "model": "glm-5.3"
+}

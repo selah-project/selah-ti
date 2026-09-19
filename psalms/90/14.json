@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 90,
+  "translation": "ብሔሴድኻ ብቀዳም ኣበይና፣ ኩሉ መዓልታትና እናዛረብን እናደሐንን ኢና።",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "ኣበይና"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ብቀዳም"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሔሴድኻ"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "እንተዛረብ"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "እንተደሐን"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "መዓልታትና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:00.706526932Z",
+  "model": "glm-5.3"
+}

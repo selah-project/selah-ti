@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ብዓሊት ብደበላ ድማ መሪሕዎም ነበረ፤ ኩሉ ለይቲ ድማ ብብርሃን ሓዊ።",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "መሪሕዎም ነበረ"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "ብደበላ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ብዓሊት"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ለይቲ"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ብብርሃን"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:50.089154619Z",
+  "model": "glm-5.3"
+}

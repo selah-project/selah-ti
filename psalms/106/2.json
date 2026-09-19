@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "መን ብቕዓታት ያህዌህ ክዛረብ ይኽእል፧ መን ኹሉ ምስጋናኡ ክሰምዖ ይኽእል፧",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "ክዛረብ"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "ብቕዓታት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "ክሰምዖ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ምስጋናኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:33.997156332Z",
+  "model": "glm-5.3"
+}

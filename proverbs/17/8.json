@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ሹኻር ኣብ ኣይንቲ ባሉይ ከም ውዑይ ጠጠር እዩ፤ ናብ ዝቐንዱ ኩሉ ይዓወት እዩ።",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "ጠጠር"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ውዑይ"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "ሹኻር"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ ኣይንቲ"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ባሉይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ዝቐንዱ"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "ይዓወት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:50:52.072422631Z",
+  "model": "glm-5.3"
+}

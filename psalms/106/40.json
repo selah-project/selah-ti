@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ድማ ኣብ ሕዝቢኡ ቍጥር ያህዌህ በደለ፣ ⟨את⟩ ውርሻኡ ድማ ጸየፎ።",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "በደለ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ቍጥር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "ኣብ ሕዝቢኡ"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "ጸየፎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውርሻኡ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ውርሻኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:07.398979262Z",
+  "model": "glm-5.3"
+}

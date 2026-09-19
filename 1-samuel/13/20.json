@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኵሉ እስራኤል ናብ ፍልስጤም ነፍሲ ወከፍ ⟨את⟩ ማሕረሹን ⟨ואת⟩ እንጋሪኡን ⟨ואת⟩ ከረድሙን ⟨ואת⟩ ማሕረሻኡን ንምቕጥል ወሪዱ።",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "ወሪዱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኵሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "ንፍልስጤም"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "ንምቕጥል"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ወከፍ ሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማሕረሹ"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "ማሕረሹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "እንጋሪኡ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "እንጋሪኡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ከረድሙ"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "ከረድሙ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ማሕረሻኡ"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "ማሕረሻኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:03:23.615691757Z",
+  "model": "glm-5.3"
+}

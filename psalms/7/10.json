@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ንክፉእ ኣጥፍኣት ውዒል፣ ሆ፤ ጻድቅ ከምኡውን ኣጽንዑ፤ ልባትን ኩላዊን ዝፈትን ጻድቕ ኤሎሂም ⟨እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "ውዒል"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ሆ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ንክፉእ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኣጥፍኣት"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "ከምኡውን ኣጽንዑ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቕ"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "ከምኡውን ዝፈትን"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "ልባት"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "ከምኡውን ኩላዊ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቕ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:24.844006169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 4:14",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣብ እቲ መዓልቲ ያህዌህ ⟨את⟩ የሆሹዋዕ ኣብ ኣዕይንቲ ኩሉ እስራኤል ዓቐዮ፤ ኩሎም እስራኤል ድማ ⟨את⟩ የሆሹዋዕ ከም ዝደንጐውዎ ⟨את⟩ ሞሸ ኩሉ መዓልታት ናይ ህይወቱ ደንጐውዎ።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ዓቐዮ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሆሹዋዕ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ ኣዕይንቲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ደንጐውዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "የሆሹዋዕ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ዝደንጐውዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ናይ ህይወቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:15:41.798917104Z",
+  "model": "glm-5.3"
+}

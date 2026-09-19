@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 150,
+  "translation": "ኣመስግኑ ያህ፣ ኣመስግኑ ኤል ኣብ ቅድስትኡ፣ ኣመስግኑዎ ኣብ ረቂዓ ሓይሉ።",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ኣመስግኑ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ኣመስግኑ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "ኣብ ቅድስትኡ"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ኣመስግኑዎ"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "ኣብ ረቂዓ"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "ሓይሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:38:41.394571890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 143,
+  "translation": "ንኣኽረኽበልኩ ኢደይ ናብኻ፤ ነፍሰይ ከም ምድሪ ዝሰኸነት ናብኻ ⟨እያ⟩። ሴላ።",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "ኣበጊዕኩ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ኢደይ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኻ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "ከም ምድሪ"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ዝሰኸነት"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ናብኻ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:56.805659122Z",
+  "model": "glm-5.3"
+}

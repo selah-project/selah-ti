@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 28:23",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "እስሚኒ፣ ቃለይ ክትሰምዑ፤ ሕክሩ ኣእምርኩም፣ ነባረይ ክትሰምዑ።",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "እስሚኒ"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ክትሰምዑ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ቃለይ"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "ሕክሩ ኣእምርኩም"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ክትሰምዑ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ነባረይ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:00:03.067553980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ሰብ ዝሰርቖን ዘኻይዶን ኣብ ኢዱ ዝርከብ ብእምሉ ክቕተል እዩ።",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "ዝሰርቖን"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "ዘኻይዶን"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "ዝርከብ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ኣብ ኢዱ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ብእምሉ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ክቕተል እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:28:05.073041907Z",
+  "model": "glm-5.3"
+}

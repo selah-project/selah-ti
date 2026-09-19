@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ካብ ፍረ ኣፍ ሰብ ብሉጽ ይበልዕ እዩ፤ ነፍሲ ኣይተኣማንቲ ግን ግፍዕ ⟨እያ⟩።",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "ካብ ፍረ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ኣፍ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበልዕ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ብሉጽ"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ኣይተኣማንቲ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ግፍዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:48:31.127074390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ካብ ሕሹይም ድማ ⟨את⟩ ኣቢቱቭን ⟨את⟩ ኤልፓዓልን ወልደ።",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "ካብ ሕሹይም"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወልደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቢቱቭ"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "ኣቢቱቭ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኤልፓዓል"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "ኤልፓዓል"
+    }
+  ],
+  "timestamp": "2026-09-19T07:33:34.055067647Z",
+  "model": "glm-5.3"
+}

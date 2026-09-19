@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣነ ድማ ረኣኹ፣ ነቲ ጥበብ ካብ ስዕቢት ሓልነት ከም ዘለዋ ብዝኾነ፣ ከም ሓልነት ብርሃን ካብ ⟨ጸልማት⟩።",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "ረኣኹ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "ከም ዘለዋ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ሓልነት"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "ንጥበብ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "ስዕቢት"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "ከም ሓልነት"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ጸልማት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:40:28.158270846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 148,
+  "translation": "ኣካባትን ኩሉ ከባብርታትን፣ ኣግራብ ፍረን ኩሉ ኣርዛታትን።",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "ኣካባት"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ከባብርታት"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ኣግራብ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ፍረ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ኣርዛታት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:12.716661124Z",
+  "model": "glm-5.3"
+}

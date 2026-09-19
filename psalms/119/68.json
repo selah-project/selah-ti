@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ጽቡን ኣታ ኮይንካ፣ ጽቡን ኸኣ ተገብርካ፣ ብዓዲናትኻ ኣምሃበኒ።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኣታ"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "ጽቡን ኸኣ ተገብርካ"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ኣምሃበኒ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ብዓዲናትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:36.656310256Z",
+  "model": "glm-5.3"
+}

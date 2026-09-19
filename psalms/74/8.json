@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 74,
+  "translation": "ኣብ ልቦም በላው፦ ‘ንዓቅሞም ብሓባርፍ’፤ ኩሉ መእተዋት ኤል ኣብ ምድሪ ሓዊ ኣእተዉ።",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "በላው"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ኣብ ልቦም"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "ንዓቅሞም"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ብሓባር"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ሓዊ ኣእተዉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "መእተዋት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:53.429815149Z",
+  "model": "glm-5.3"
+}

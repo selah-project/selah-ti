@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ድማ ⟨את⟩ ንሳቶም ኣብ ቅድሚ ኹሎም ኣጾቦም ንምሕረት ሃቦም።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሃቦም"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳቶም"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "ንምሕረት"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሎም"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "ኣጾቦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:58.620114010Z",
+  "model": "glm-5.3"
+}

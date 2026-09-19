@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ድማ ⟨את⟩ ኦፊርን ⟨את⟩ ሕዊላን ⟨את⟩ ዮቫቭን፤ ኩሎም እዚኦም ውላድ ዮቅጣን እዮም።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኦፊር"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ኦፊር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዊላ"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "ሕዊላ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዮቫቭ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "ዮቫቭ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "ዮቅጣን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:27:45.076270701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ወይ ⟨את⟩ ዓታሮት ሾፋንን ⟨את⟩ ያዓዘርን ዮግበሃንን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓታሮት"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ዓታሮት"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "ሾፋን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ያዓዘር"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "ያዓዘር"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "ዮግበሃን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:40:12.340592056Z",
+  "model": "glm-5.3"
+}

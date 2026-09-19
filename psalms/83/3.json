@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 83,
+  "translation": "ስለ፣ እንሆ ተቓወምትካ እዮም ዝሓዙ፣ ከምኡውን ዝጸልዑኻ ርእሶም ቐደሑ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "ተቓወምትካ"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "እዮም ዝሓዙ"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "ንዝጸልዑኻውን"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ቐደሑ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:28.692354600Z",
+  "model": "glm-5.3"
+}

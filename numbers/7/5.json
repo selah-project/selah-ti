@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "⟨את⟩ ካብኦም ተቐብን፣ ⟨את⟩ ኣገልገልቲ ማሕደር ኣኽባር ንምግበር ክኸውኑ፣ ⟨את⟩ ነኦም ነፍሲ ወከፍ ብኣገልገልቱ ናብ ለውያት ትሃብ።",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ተቐብን"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ ካብኦም",
+      "marks": "ካብኦም"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ክኸውኑ"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ንምግበር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣገልገልቲ"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ኣገልገልቲ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ኣኽባር"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ትሃብ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ነኦም",
+      "marks": "ነኦም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ለውያት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ወከፍ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "ኣገልገልቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:15:47.188963712Z",
+  "model": "glm-5.3"
+}

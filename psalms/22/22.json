@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ካብ ኣፍ ኣንበጣ ደግፈኒ፣ ካብ ቀርንቲ ረማታት ድማ መለሰኒ።",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "ደግፈኒ"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "ካብ ኣፍ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ኣንበጣ"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "ካብ ቀርንቲ"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "ረማታት"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "መለሰኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:22.180973996Z",
+  "model": "glm-5.3"
+}

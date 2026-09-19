@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ነቲ ሰብ ድማ ⟨את⟩ ሕዋ ሓብቱ ኣፈለጠ፣ ንሳ ድማ ወሲና ⟨את⟩ ቃይን ወለደት፣ ከምኡውን በለት፦ «⟨את⟩ ምስ ያህዌህ ሓደ ሰብ ገዛእ እየ»።",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "ነቲ ሰብ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ኣፈለጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዋ"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "ሕዋ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሓብቱ"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ወሲና"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃይን"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ቃይን"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "በለት"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "ገዛእ እየ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ምስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:31:23.815356146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "ኣብ መዓልታት ክፉእ ስለ እንታይ እኽእል፧ ዘመኻእለይ ዓመጽ ይኽብበኒ እዩ።",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ስለ እንታይ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "እኽእል"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ኣብ መዓልታት"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ዓመጽ"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "ዘመኻእለይ"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "ይኽብበኒ እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:39.597068986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 136,
+  "translation": "ወገኑ ኣብ ምድረ በዳ ዝመርሕ እዩ፣ እስመ ናብ ዘለኣለም ሔሴዱ እዩ።",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "ዝመርሕ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ወገኑ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድረ በዳ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እስመ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:40.804279173Z",
+  "model": "glm-5.3"
+}

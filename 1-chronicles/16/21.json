@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 16:21",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ሓደ ሰብ ኺጸብዮም ኣይሓደጎምን፣ ብእሶም ንነገስታት ድማ ተዛረቦም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "ሓደገ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ሓደ ሰብ"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "ኺጸብዮም"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "ተዛረቦም"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ብእሶም"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ንነገስታት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:40:14.060141585Z",
+  "model": "glm-5.3"
+}

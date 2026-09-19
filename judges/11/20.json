@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 11:20",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ሲሆን ግን ⟨את⟩ እስራኤል ብድርቂኡ ንኽሓልፍ ኣይተኣማኖን፤ ሲሆን ድማ ⟨את⟩ ኩሉ ህዝቢኡ ኣካልበ፣ ብያህስ ተቐመጡ፣ ምስ እስራኤል ድማ ተቓለሰ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "ተኣማነ"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "ሲሆን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ንኽሓልፍ"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "ብድርቂኡ"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ኣካልበ"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "ሲሆን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ህዝቢኡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ህዝቢኡ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ተቐመጡ"
+    },
+    {
+      "surface": "ביהצה",
+      "gloss": "ብያህስ"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ተቓለሰ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T23:48:48.094561593Z",
+  "model": "glm-5.3"
+}

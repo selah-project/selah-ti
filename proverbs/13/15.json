@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 13:15",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ቅኑዕ ምርዲ ምሕረት ይሃብ፤ መስመር ኣማንታት ግን ዘለኣለማዊ እዩ።",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "ምርዲ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ቅኑዕ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይሃብ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ምሕረት"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "መስመር"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ኣማንታት"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ዘለኣለማዊ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:47:56.832301725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 15:20",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ዓመት ኣብ ዓመት ኣብ ቦታ ዝምርጽ ያህዌህ ንስኻን ስድራኻን ቅድሚ ያህዌህ ኤሎሂምካ ትብላዕዮ።",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ትብላዕዮ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ኣብ ዓመት"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ኣብ ቦታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "ዝምርጽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "ስድራኻን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:56:53.014691208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "ባሪኺ ነፍሲ ያህዌህ ⟨את⟩፤ ያህዌህ ኤሎሂም ብዙሕ ዓቢ ኮይንካ፣ ክብሪን መልክቕሕን ኣልቢስካ።",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "ባሪኺ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "ዓቢ ኮይንካ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "ክብሪን"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "መልክቕሕን"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "ኣልቢስካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:39.433925241Z",
+  "model": "glm-5.3"
+}

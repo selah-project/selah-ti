@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ናይ ውላድ ዮሴፍ፣ ናይ ኤፍራይም ኤልይሻምዕ ወዲ ዕሚሁድ፣ ናይ ምናሸ ግምልኤል ወዲ ፍዳሕጹውር።",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ናይ ውላድ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ናይ ኤፍራይም"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "ኤልይሻምዕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "ዕሚሁድ"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "ናይ ምናሸ"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "ግምልኤል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "ፍዳሕጹውር"
+    }
+  ],
+  "timestamp": "2026-09-18T22:08:54.324000055Z",
+  "model": "glm-5.3"
+}

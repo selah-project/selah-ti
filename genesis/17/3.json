@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኣቭራሃም ድማ ኣብ ገጽኡ ተደረቐ፤ ኤሎሂም ድማ ⟨את⟩ ምስ ንሱ ተዛረበ እናበለ፦",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ተደረቐ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ገጽኡ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ምስ ንሱ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:42:25.104900737Z",
+  "model": "glm-5.3"
+}

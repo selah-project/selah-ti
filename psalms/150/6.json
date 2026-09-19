@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 150,
+  "translation": "ኩሉ ትንፋስ ዘለዎ ያህ ይመስግን፤ ያህ ኣመስግኑ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "ትንፋስ ዘለዎ"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "ይመስግን"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ኣመስግኑ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:38:43.248534016Z",
+  "model": "glm-5.3"
+}

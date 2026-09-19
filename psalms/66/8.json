@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 66,
+  "translation": "ህዝቢታት ንኤሎሂምና በርኹ፤ ቃል ውዳሴኡ ኣሰምዑ።",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "በርኹ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ህዝቢታት"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "ኣሰምዑ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ውዳሴኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:00.643925581Z",
+  "model": "glm-5.3"
+}

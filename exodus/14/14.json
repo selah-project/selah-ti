@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ያህዌህ ንኻትኩም ይቃለው፣ ንስኻትኩም ድማ ትጽምቡ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "ይቃለው"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኻትኩም"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ንስኻትኩምን"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "ትጽምቡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:21:34.421553717Z",
+  "model": "glm-5.3"
+}

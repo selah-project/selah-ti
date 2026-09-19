@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ምስ ፍልስጤማውያን እናተዓገተ ወጸ፤ ሱንቒ ጋት ሰብረ፣ ⟨את⟩ ሱንቒ ያብኔን ⟨את⟩ ሱንቒ ኣሽዶድን፣ ኣብ ኣሽዶድን ኣብ ፍልስጤምን ከተማታት ሃነጸ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ተዓገተ"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "ምስ ፍልስጤማውያን"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "ሰብረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሱንቒ ናይ ጋት"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ሱንቒ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ጋት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሱንቒ ናይ ያብኔ"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ሱንቒ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ያብኔ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሱንቒ ናይ ኣሽዶድ"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ሱንቒ"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "ኣሽዶድ"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "ሃነጸ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ከተማታት"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "ኣብ ኣሽዶድ"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "ኣብ ፍልስጤም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:13:01.189542496Z",
+  "model": "glm-5.3"
+}

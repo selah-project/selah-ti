@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 43:27",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "ኣቦኻ እቲ ቀዳማይ ሓጢዩ እዩ፣ ተርጓሚኻትን ኣብ ትሕቲ በደሉ እዮም።",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "ኣቦኻ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "እቲ ቀዳማይ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ሓጢዩ እዩ"
+    },
+    {
+      "surface": "ומליציך",
+      "gloss": "ተርጓሚኻትን"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "በደሉ እዮም"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ኣብ ትሕቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:50:11.462822888Z",
+  "model": "glm-5.3"
+}

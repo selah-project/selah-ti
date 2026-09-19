@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 59,
+  "translation": "ኤሎሂም ሔሴዱ ቅድሚ ይቐድምኒ፤ ኤሎሂም ኣባይተይ የርእየኒ።",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "ይቐድምኒ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "የርእየኒ"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "ኣባይተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:50.874908663Z",
+  "model": "glm-5.3"
+}

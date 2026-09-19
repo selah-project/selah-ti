@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ካብ ግማዊ ኩባንያ ናይ ምናሴ ⟨את⟩ ታዕናኽን ⟨את⟩ መግራሻን ⟨את⟩ ጋት ሮሞንን ⟨את⟩ መግራሻን — ክልተ ከተማታት።",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "ካብ ግማዊ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ኩባንያ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ናይ ምናሴ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታዕናኽ"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "ታዕናኽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መግራሻ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መግራሻ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጋት ሮሞን"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ጋት"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ሮሞን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መግራሻ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መግራሻ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ከተማታት"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ክልተ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:30:45.051925660Z",
+  "model": "glm-5.3"
+}

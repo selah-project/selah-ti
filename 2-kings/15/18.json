@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 15:18",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ንሱ ድማ እቲ ክፉእ ኣብ ኣዒንቲ ያህዌህ ገበረ፤ ካብ ሓጢያት ያሮብዓም ወዲ ናባት እቶም እተን ⟨את⟩ እስራኤል ዝሓጢአን ኩሉ መዓልታቱ ኣይሰገረን።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "እቲ ክፉእ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ ኣዒንቲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ሰገረን"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "ሓጢያት"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ያሮብዓም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ናባት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እተን"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ዝሓጢአን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "መዓልታቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:28:25.247793881Z",
+  "model": "glm-5.3"
+}

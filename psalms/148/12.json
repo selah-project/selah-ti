@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 148,
+  "translation": "ጽንቒትን ከምኡውን ዓዲታት፣ ሽማግለታት ምስ ቆልዑ።",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "ጽንቒት"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "ዓዲታት"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ሽማግለታት"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ቆልዑ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:12.717413096Z",
+  "model": "glm-5.3"
+}

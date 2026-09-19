@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 30:22",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ኤሎሂም ድማ ንራሕል ዓሰረ፣ ኤሎሂም ምሳኣ ድማ ሰምዐ፣ ማሕደርኣ ከኣ ከፈተ።",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "ዓሰረ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንራሕል"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ንራሕል"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ምሳኣ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ከፈተ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማሕደርኣ"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "ማሕደርኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:50:48.485674802Z",
+  "model": "glm-5.3"
+}

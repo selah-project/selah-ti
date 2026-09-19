@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ሰባት እስራኤል ምስ ብንያም ንውግእ ተወጹ፣ ሰባት እስራኤል ድማ ⟨את⟩ ንሳቶም ንውግእ ኣብ ታሕቲ ግባዕ ተዳለዉ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ተወጹ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ንውግእ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ብንያም"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "ተዳለዉ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳቶም (ብንያም)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ውግእ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ ታሕቲ ድድሊ"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "ግባዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:39:13.196237769Z",
+  "model": "glm-5.3"
+}

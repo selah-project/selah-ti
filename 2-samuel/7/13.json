@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ንሱ ንስምይ ናይ ቤት ኪሃንጽ፣ ኣነ ድማ ⟨את⟩ መንበር ናይ መንግስቲ ንጉሥኡ ክሳብ ዘለኣለም ኪተኸላኸል ኣጸንዕዮ እየ።",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ኪሃንጽ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "ንስምይ"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "ኣጸንዕዮ እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንበር"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "መንበር"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "ናይ መንግስቲ ንጉሥኡ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:25:21.669364246Z",
+  "model": "glm-5.3"
+}

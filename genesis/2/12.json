@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ወርቂ እታ ምድሪ ከኣ ጽቡእ እዩ፤ ኣብኡ በዶልቂን እታ ዕንጻይ ናይ ሻሃምን ኣሎ።",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "ወርቂን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እታ ምድሪ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡእ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "በዶልቂ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ዕንጻይን"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "ናይ ሻሃም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:30:15.918176930Z",
+  "model": "glm-5.3"
+}

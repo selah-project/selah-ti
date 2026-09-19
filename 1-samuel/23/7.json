@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ሻኡል ዳዊድ ናብ ቄይላ ምስ ኣተወ ተነገሮ፤ ሻኡል ድማ «ኤሎሂም ⟨אתו⟩ ኣብ ኢደይ ኣብዚኦም እዩ፣ ኣብ በርን ኣጥራይን ዘላት ከተማ ብዝኣቱ ተዓጽዉ እዩ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ተነገሮ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ለሻኡል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ምስ ኣተወ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ናብ ቄይላ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ኣብዚኦም"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ንሱ (ዳዊድ)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ኣብ ኢደይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያት"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "ተዓጽዉ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ንምእታይ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ኣብ ከተማ"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "በርታት"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "ኣጥራይን"
+    }
+  ],
+  "timestamp": "2026-09-19T00:13:08.848724655Z",
+  "model": "glm-5.3"
+}

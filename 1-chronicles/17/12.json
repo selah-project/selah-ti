@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ንሱ ንኣነ ቤት ይሕንድን፣ ኣነ ድማ ⟨את⟩ ወንበሩ ክሳብ ዘለአለም ኣረጋግጽ።",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ይሕንድን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "ኣነ ድማ ኣረጋግጽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንወንበሩ"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ወንበሩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለአለም"
+    }
+  ],
+  "timestamp": "2026-09-19T09:10:14.020468519Z",
+  "model": "glm-5.3"
+}

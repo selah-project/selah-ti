@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 147,
+  "translation": "እቲ ዝሸፍን ሰማያት ብደመናት፣ እቲ ዝዳልው ንምድሪ ዝናብ፣ እቲ ዝበትን ኣብ ኦምታት ሣሩ።",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "እቲ ዝሸፍን"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "ብደመናት"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "እቲ ዝዳልው"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ንምድሪ"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ዝናብ"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "እቲ ዝበትን"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ኣብ ኦምታት"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ሣሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:05.179049712Z",
+  "model": "glm-5.3"
+}

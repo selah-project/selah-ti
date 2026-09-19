@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ነቲ ሕዝቢ ድማ ⟨את⟩ ዕፉኑ ቅድም ክትሕምቕ ኣንሺዑ፣ ዕፉናቶም ኣብ ልቢሶም ተኣቲቑ ኣብ ትከፈሎም ኣንጊሮም።",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ኣንሺዑ ኣሉታ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ነቲ ሕዝቢ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዕፉኑ"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "ዕፉኑ"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ቅድም ክትሕምቕ"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "ክትሕምቕ"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "ዕፉናቶም"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "ተኣቲቑ ኣሉታ"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "ኣብ ልቢሶም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "ትከፈሎም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:20:49.825011013Z",
+  "model": "glm-5.3"
+}

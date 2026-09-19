@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ነፍሲ ወከፍ ሰብ ካብ ስድራ እስራኤል ውርጭ ወይ በጊዕ ወይ ጠቕል ኣብ ⟨መስፈርቲ⟩ ወይ ካብ መስፈርቲ ንወጻኢ እንተ ኣገዲፉ፣",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ወከፍ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ስድራ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ኣገዲፉ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ውርጭ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "በጊዕ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ጠቕል"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ኣብ መስፈርቲ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ኣገዲፉ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ካብ ውጻኢ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ናብ መስፈርቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:29:49.402425546Z",
+  "model": "glm-5.3"
+}

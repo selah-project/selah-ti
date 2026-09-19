@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 3:22",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እቲ ኣኽሊል እውን ካብ ስርዓ እቲ ምላሕ ኣተየ፣ እቲ ስብኡ ድማ ብስርዓ እቲ ምላሕ ተዓጽወ፣ እቲ ሰይፊ ካብ ከርኑ ስለ ዘይወሰዶ፤ እቲ ፍሽ ድማ ወጺኡ ኣብሉ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ኣተየ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "הנצב",
+      "gloss": "እቲ ኣኽሊል"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ካብ ስርዓ"
+    },
+    {
+      "surface": "הלהב",
+      "gloss": "እቲ ምላሕ"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "ተዓጽወ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "እቲ ስብኡ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ብስርዓ"
+    },
+    {
+      "surface": "הלהב",
+      "gloss": "እቲ ምላሕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "ዘይወሰዶ"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "እቲ ሰይፊ"
+    },
+    {
+      "surface": "מבטנו",
+      "gloss": "ካብ ከርኑ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ወጺኡ ኣብሉ"
+    },
+    {
+      "surface": "הפרשדנה",
+      "gloss": "እቲ ፍሽ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:37:30.634588016Z",
+  "model": "glm-5.3"
+}

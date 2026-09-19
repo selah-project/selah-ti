@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "ኣይትፈርስ፣ ምስ ኣተኻ ⟨את⟩ ኣነ እየ፤ ካብ ምብራቕ ዘርኢኻ ኣእትወ፣ ካብ ምዕራብ ድማ ኣከፋእለኻ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ትፈርስ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ምስ ኣተኻ",
+      "marks": "ምስ ኣተኻ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ካብ ምብራቕ"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ኣእትወ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ዘርኢኻ"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ካብ ምዕራብ"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "ኣከፋእለኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:09:41.243124569Z",
+  "model": "glm-5.3"
+}

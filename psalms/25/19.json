@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ተቓወምቲይ ርኣየ፤ ብዙሓት ስለ ዝኾኑ፣ ብጥምቂ ጥቕዚ ደቂቑ ጸልኣኒ።",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ርኣየ"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ተቓወምቲይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ ዝ"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ብዙሓት እዮም"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "ጥቕዚ ደቂቑ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ጥምቂ"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "ጸልኣኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:19.800312874Z",
+  "model": "glm-5.3"
+}

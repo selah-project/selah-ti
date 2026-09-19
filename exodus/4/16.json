@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ንሱ ድማ ንኻ ኣብ ቅድሚ ህዝቢ ይተዛርብ፤ ንሱ ድማ ንኻ ንኣፍ ክኸውን፣ ንስኻ ድማ ንኡ ንኤሎሂም ትከውን።",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "ይተዛርብ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ክኸውን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክኸውን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "ንኣፍ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ድማ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ትከውን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ንኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:13:25.641143612Z",
+  "model": "glm-5.3"
+}

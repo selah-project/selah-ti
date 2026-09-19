@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "እስራኤል ድማ ⟨את⟩ ውላድ ዮሴፍ ረኣየ፤ «እዚኦም መን እዮም?» በለ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ ዮሴፍ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:08:17.961373348Z",
+  "model": "glm-5.3"
+}

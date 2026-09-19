@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "እቲ ዝተዕወተ ክቕንጠሽ ኣይኽእልን፤ እቲ ዝጎደለ ኸኣ ክቑጸር ኣይኽእልን።",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "ዝተዕወተ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ይኽእልን"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ክቕንጠሽ"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "ዝጎደለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ይኽእልን"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "ክቑጸር"
+    }
+  ],
+  "timestamp": "2026-09-19T06:39:44.113401522Z",
+  "model": "glm-5.3"
+}

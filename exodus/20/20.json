@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ሞሸ ድማ ናብ እቲ ህዝቢ በሎ፦ «ኣይትፈርሕን፤ ኤሎሂም ንምንጻር ⟨אתኩም⟩ ከም ዝመጸ እዩ፣ ከምኡውን ኽብርኡ ኣብ ቅድሚ ገጽኩም ከም እትሃሉ፣ ከይትውደቡ እዩ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ ድማ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ትፈርሕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም ዝኾነ"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "ንምንጻር"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "ምንጻር"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את׊ም⟩",
+      "marks": "ንዓኻትኩም"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ከም ዝመጸ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ከም እትሃሉ"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "ኽብርኡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "ቅድሚ ገጽኩም"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ከይ"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "ትውደቡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:24:20.363754166Z",
+  "model": "glm-5.3"
+}

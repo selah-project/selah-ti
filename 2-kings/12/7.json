@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኣብ ዓመት ዓሰርተ ክልተን ሰለስተን ናይ ንጉሲ የሆኣሽ ድማ ካህናት ⟨את⟩ ምብታኽ ናይ ቤት ኣይጠናኽርን ነይሮም።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ዘይመጸ"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "ኣብ ዓመት"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ንጉሲ"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "የሆኣሽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "ጠናኽሩ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምብታኽ"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ምብታክ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:28:23.017092877Z",
+  "model": "glm-5.3"
+}

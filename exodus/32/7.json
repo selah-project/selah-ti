@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ያህዌህ ድማ ሞሸን ተዛረበ፦ «ኺደካ ወርድ፤ ህዝብካ እቲ ካብ ምድሪ ሚጽራይም ዝወሰድኾ ኸኣ ተበላሸዩ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ኺደካ"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ወርድ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ።"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ተበላሸዩ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ህዝብካ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "ዝወሰድኾ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:38:35.079362599Z",
+  "model": "glm-5.3"
+}

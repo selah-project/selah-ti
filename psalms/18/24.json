@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ምስኻ ብጽድቅ ኰይኔ፣ ካብ ጥፍኣተይ ከኣ ተጠነቕኩ።",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ኰይኔ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ብጽድቅ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስኻ"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "ከኣ ተጠነቕኩ"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "ካብ ጥፍኣተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:48.770856624Z",
+  "model": "glm-5.3"
+}

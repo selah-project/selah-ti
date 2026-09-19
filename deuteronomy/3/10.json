@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኩሉ ከተማታት ⟨እቲ⟩ ሜዳ፣ ኩሉ ጊልዓድን ኩሉ ባሻንን ክሳብ ሳልካሕን እድረዒን፣ ከተማታት ናይ መንግስቲ ዖግ ኣብ ባሻን።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ከተማታት"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "እቲ ሜዳ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉን"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ጊልዓድ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉን"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ባሻን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "ሳልካሕ"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "እድረዒን"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ከተማታት"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "ናይ መንግስቲ"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ዖግ"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "ኣብ ባሻን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:46:03.432197389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "እቲ ሕዝቢ ኣብኡ ብማይ ጸምአ፤ እቲ ሕዝቢ ድማ ኣብ ሞሸ ተጓዓዘ፤ «ስለምንታይ እዚ ንሓንሳብና ካብ ሚጽራይም ኣውጺእካና፧ ብጸምኣ ⟨את⟩ ኣነን ⟨את⟩ ውላደይን ⟨את⟩ እንስሳተይን ንምቅታት» በለ።",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "ጸምአ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ብማይ"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "ተጓዓዘ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ስለምንታይ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "ኣውጺእካና"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ካብ ሚጽራይም"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ንምቅታት"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ኣነ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ውላደይ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እንስሳተይ"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "እንስሳተይ"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "ብጸምኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:24:45.492218811Z",
+  "model": "glm-5.3"
+}

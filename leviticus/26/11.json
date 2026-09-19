@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ማሕደርይ ኣብ ማእከልኩም ኣቕምጠ፣ ነፍሲይ ኣይትጕዕለኩምን እያ።",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ኣቕምጠ"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "ማሕደርይ"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ኣብ ማእከልኩም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "ክትጕዕል"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲይ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ኣኻትኩም",
+      "marks": "ኣኻትኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:08:14.146819212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ኤሎሃይ፣ ብኣኻ ኣበናኹ፤ ኣይሕፉረን፣ ተቓወምተይ ኣይደልዩን ኣባይ።",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሃይ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ብኣኻ"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ኣበናኹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ክሕፉረን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "ይደልዩን"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ተቓወምተይ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ኣባይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:05.582114239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "ኩሉ ብስሚ እተባዕየ፣ ንክብርይ ድማ ፈጠርክዎ፣ ሃንጸክዎ፣ ከምኡውን ገበርክዎ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "እተባዕየ"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ብስሚ"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "ንክብርይ"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "ፈጠርክዎ"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "ሃንጸክዎ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "ገበርክዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:09:41.243548750Z",
+  "model": "glm-5.3"
+}

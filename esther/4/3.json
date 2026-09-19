@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 4:3",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣብ ዝኾነ ምምሕዳርን ምምሕዳርን፣ ኣብ እቲ ቓል እቲ ንጉስን ሕጊኡን ዝበጽሖ ቦታ፣ ዓቢ ሓዘን ኣብ ኣይሁድ ነይሩ፤ ጾምን ብከይቲን ምስቕልልትን ነይሩ፤ ሽኮን ኩርዑን ንብዙሓት ተሓደሰ።",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "ኣብ ዝኾነ"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "ምምሕዳር"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "ንምምሕዳር"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "ודתו",
+      "gloss": "ሕጊኡ"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "ዝበጽሖ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ሓዘን"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "ליהודים",
+      "gloss": "ኣብ ኣይሁድ"
+    },
+    {
+      "surface": "וצום",
+      "gloss": "ጾም"
+    },
+    {
+      "surface": "ובכי",
+      "gloss": "ብከይቲ"
+    },
+    {
+      "surface": "ומספד",
+      "gloss": "ምስቕልልት"
+    },
+    {
+      "surface": "שק",
+      "gloss": "ሽኮ"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "ኩርዑ"
+    },
+    {
+      "surface": "יצע",
+      "gloss": "ተሓደሰ"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "ንብዙሓት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:48:22.318074297Z",
+  "model": "glm-5.3"
+}

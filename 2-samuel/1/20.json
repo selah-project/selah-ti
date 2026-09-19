@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 1:20",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣብ ጋት ኣይትነግሩን፣ ኣብ መስመራት ኣሽቅሎን ኣይተዛርቡን፤ ወንዲትቲ ፍልስጤማውያን ከይሐገሳ፣ ወንዲትቲ እቶም ዘይተሓጸሩ ከይተዓወታ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "ትነግሩ"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "ጋት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תבשרו",
+      "gloss": "ተዛርቡ"
+    },
+    {
+      "surface": "בחוצת",
+      "gloss": "ኣብ መስመራት"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "ኣሽቅሎን"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ከይ"
+    },
+    {
+      "surface": "תשמחנה",
+      "gloss": "ሐገሳ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ወንዲትቲ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤማውያን"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ከይ"
+    },
+    {
+      "surface": "תעלזנה",
+      "gloss": "ተዓወታ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ወንዲትቲ"
+    },
+    {
+      "surface": "הערלים",
+      "gloss": "እቶም ዘይተሓጸሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:21:43.274150983Z",
+  "model": "glm-5.3"
+}

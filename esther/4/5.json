@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 4:5",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "እስትር ድማ ነቲ ሃታኽ ካብ ስቓልቲ እቲ ንጉስ እቲ ኣብ ቅድማኣ ዝተቐሚጡ ኣስማዕቲ፣ ነቲ ሞርዶካይ እንታይ እዚ ዝኾነን ስለ እንታይ እዚ ዝኾነን ንኽፈልጥ ኣዘዘቶ።",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "ኣስማዕቲ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "እስትር"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "ነቲ ሃታኽ"
+    },
+    {
+      "surface": "מסריסי",
+      "gloss": "ካብ ስቓልቲ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "ዝተቐሚጡ"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "ኣብ ቅድማኣ"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "ኣዘዘቶ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ሞርዶካይ"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ንኽፈልጥ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:48:29.201154323Z",
+  "model": "glm-5.3"
+}

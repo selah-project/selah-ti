@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 5:4",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ንሳቶም ድማ ከምዚ በሉና፦ «እቶም ነዚ ሕንጻ ዝሃንዝዎ ተባዕታይ ስሞም እንታይ እዮም?»",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "በሉና"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንንሳቶም"
+    },
+    {
+      "surface": "מן",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "אנון",
+      "gloss": "እዮም"
+    },
+    {
+      "surface": "שמהת",
+      "gloss": "ስሞም"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "እቶም ተባዕታይ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ዝሃንዝዎ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ነዚ"
+    },
+    {
+      "surface": "בנינא",
+      "gloss": "ሕንጻ"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "ዝሃንዝዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:09:37.712303389Z",
+  "model": "glm-5.3"
+}

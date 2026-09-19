@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኣነ ፈለጥኩኻ ኣብ በዳ፣ ኣብ ምድሪ ዝሓበነት።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "ፈለጥኩኻ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ በዳ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "ዝሓበነት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:10:27.943011927Z",
+  "model": "glm-5.3"
+}

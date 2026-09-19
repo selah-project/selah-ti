@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ባሕሪ ይገድዶ እዩ፣ ድማ ኣየብሽንዎ፤ ኩሉ ሩቓታት ድማ የደርቕዎ። ባሳን ደኣለት፣ ከርሚልን ዘበና ልብናን እውን ደኣለት።",
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "ይገድድ"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "የደርቕዎ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "ሩቓታት"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "የደርቕዎ"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "ደኣለት"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ባሳን"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "ከርሚል"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "ዘበና"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ልብና"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "ደኣለት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:27:38.937054260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 4:16",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ክትበልሹን ንዓይ ቅርጺ ምስሊ ዝኾነ ቅርጺ ወዲ ወይ ጓል ክትገብሩን ከይከውን።",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ከይከውን"
+    },
+    {
+      "surface": "תשחתון",
+      "gloss": "ክትበልሹ"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ክትገብሩ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "ቅርጺ"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "ምስሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "ቅርጺ"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ቅርጪት"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ጓል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:48:12.518194100Z",
+  "model": "glm-5.3"
+}

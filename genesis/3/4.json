@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እቲ ሓያእ ድማ ነቲ ሰበይቲ በሎ፦ «ሞት እኳ ኣይትሞቱን፤ ኣየትሞቱን።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ድማ በሎ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "እቲ ሓያእ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት እኳ"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "ትሞቱን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:32:21.596318466Z",
+  "model": "glm-5.3"
+}

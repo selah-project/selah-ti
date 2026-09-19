@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "የሆ ድማ ⟨את⟩ በዓል ካብ እስራኤል ሓደሞ።",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "ሓደሞ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "የሆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በዓል"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "በዓል"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ካብ እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T01:20:19.926692139Z",
+  "model": "glm-5.3"
+}

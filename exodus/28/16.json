@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ኣርባዕተ-ክርንቲ ተዓራቢ ⟨እዩ⟩ ኮይኑ፤ ኣፍደገ ኢድ ንዑሩ፣ ከምኡውን ኣፍደገ ኢድ ስፉሑ።",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "ኣርባዕተ-ክርንቲ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "ተዓራቢ"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "ኣፍደገ ኢድ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ንዑሩ"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ከምኡውን ኣፍደገ ኢድ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ስፉሑ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:33:30.285034943Z",
+  "model": "glm-5.3"
+}

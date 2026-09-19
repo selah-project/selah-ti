@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 2:8",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣብነር ወዲ ነር ድማ፣ ሹም ሰራዊት ናይ ሻኡል ነቲ ⟨את⟩ ኣይሽ-ቦስት ወዲ ሻኡል ሒዙ፣ ናብ ማኽናይም ኣሕሊፉ።",
+  "tokens": [
+    {
+      "surface": "ואבנר",
+      "gloss": "ኣብነር ወዲ ነር ድማ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ ነር"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ነር"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ሹም"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ናይ ሻኡል"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ናይ ሻኡል"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ሒዙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣይሽ-ቦስት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ኣይሽ-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "-ቦስት"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "ኣሕሊፉ"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "ናብ ማኽናይም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:22:12.686242567Z",
+  "model": "glm-5.3"
+}

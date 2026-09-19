@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "ኣነ ያህዌህ እየ፤ ብዘይ ኣነ ካልእ የለን፤ ብዘይኡ ኣምላኽ የለን፤ ንስኻ ኣይተፈልጠኒን እናበልካ ኣዝዕርካ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ድማ የለን"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ካልእ"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ብዘይኡ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኣምላኽ"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "ኣዝዕርካ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "ኣይተፈልጠኒን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:13:48.860055632Z",
+  "model": "glm-5.3"
+}

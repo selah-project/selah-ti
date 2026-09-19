@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 16:2",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ካብ ቤት ኤል ናብ ሉዝ ኮይኑ ወጸ፣ ናብ ወሰን ኣርኪታት ናብ ዓታሮት ድማ ሓለፈ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ቤት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "ናብ ሉዝ"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "ሓለፈ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ወሰን"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "ኣርኪታት"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "ዓታሮት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:27:34.409983775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ብሙሉእ ልበይ ያህዌህ እኣመስግኖ እየ፤ ተኣምርታትካ ብሙሉእ እሰፍሮም እየ።",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "እኣመስግኖ እየ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብሙሉእ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "እሰፍር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ብሙሉእ"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ተኣምርታትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:30.173386765Z",
+  "model": "glm-5.3"
+}

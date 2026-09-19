@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ኩሉ መገደታት ያህዌህ ሔሴድን ሓቂን ⟨እዮም⟩፣ ንዝጠብቑ ኪዳኑን ምስክርታቱን።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "መገደታት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ሓቂ"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "ንዝጠብቑ"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ኪዳኑ"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "ምስክርታቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:22.608011260Z",
+  "model": "glm-5.3"
+}

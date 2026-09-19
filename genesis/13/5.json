@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ከምኡውን ሎጥ፣ ምስ ⟨את⟩ ኣብራሃም እናኸዶ ዝነበረ፣ ፍዱዳትን ከብቲን ድሕረባትን ነይሩዎ።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "ሎጥ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "እናኸዶ ዝነበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብራሃም"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ኣብራሃም"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩዎ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ፍዱዳት"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ከብቲ"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "ድሕረባት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:39:19.318739461Z",
+  "model": "glm-5.3"
+}

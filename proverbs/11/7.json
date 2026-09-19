@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኣብ ሞት ናይ ሰብ ክፉእ ተስፋ ትጠፍእ፣ ተስፋ ናይ ክፉእታት ድማ ተጠፊአ።",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "ኣብ ሞት"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ናይ ሰብ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ትጠፍእ"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "ተስፋ"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "ተስፋ ድማ"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "ናይ ክፉእታት"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "ተጠፊአ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:46:19.136151178Z",
+  "model": "glm-5.3"
+}

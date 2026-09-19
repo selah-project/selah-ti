@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ውልቀኣታት ሰደተት፣ ኣብ ላዕሊ ሓቆራ ቦታታት ከተርታ ትጸውዓለት።",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "ሰደተት"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "ውልቀኣታት"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ትጸውዓለት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "ላዕሊ"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "ሓቆራ ቦታታት"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "ከተርታ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:45:50.026975106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 148,
+  "translation": "ሰብሕዉ ያህ፣ ካብ ሰማያት ሰብሕዉ ⟨את⟩ ያህዌህ፣ ኣብ ልዑላት ሰብሕዉዎ።",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ሰብሕዉ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ሰብሕዉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ሰብሕዉዎ"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "ኣብ ልዑላት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:26.404808885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ንኤልያቅይም ⟨את⟩ እቲ ኣብ ቤት ዘሎ፣ ንሽብና ኸሊመኛን ⟨את⟩ ሽማግለታት ካህናትን ብሰርቢ ተኸዓኑ፣ ናብ ይሽዓያሁ ነቢዪ ወዲ ኣሞጽ ሰደደ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤልያቅይም"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "ኤልያቅይም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "ሽብና"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ኸሊመኛ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሽማግለታት ካህናት"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ሽማግለታት"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "ተኸዓኑ"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "ብሰርቢ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ይሽዓያሁ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነቢዪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ኣሞጽ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:31:23.245316889Z",
+  "model": "glm-5.3"
+}

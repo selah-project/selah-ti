@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እቲ ናይ ዘቡሎን ስድራ፤ ነባዕቲ ዘቡሎን ድማ ኤልያብ ወዲ ሕሎን እዩ።",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ዘቡሎን"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ነባዕቲ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ዘቡሎን"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ኤልያብ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "ሕሎን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:12:06.092525524Z",
+  "model": "glm-5.3"
+}

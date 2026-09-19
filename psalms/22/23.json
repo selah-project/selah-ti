@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ስምካ ንሓዋተይ ኣፍሪ፣ ኣብ መእታ ጉባኤ ድማ ኣመስግንካ እየ።",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "ኣፍሪ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምካ"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "ንሓዋተይ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ መእታ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "ኣመስግንካ እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:22.181193805Z",
+  "model": "glm-5.3"
+}

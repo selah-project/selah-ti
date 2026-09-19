@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 87,
+  "translation": "ዘቐልሉቲን ከም ዝቕልለሉን ኩሉ ምንጪተይ ኣባኻ እዩ ክብሉ እዮም።",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "ዘቐልሉቲን"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "ከም ዝቕልለሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "ምንጪተይ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣባኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:32.840092741Z",
+  "model": "glm-5.3"
+}

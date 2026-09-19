@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "እኳ ኣብ እዚ ኣይንኻ ትኽፈት፣ ⟨את⟩ ንዓንተ ብፍዳ ምስ ንስኻ ትኣቱኒ?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "እኳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "ትኽፈት"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ኣይንኻ"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "ንዓንተ"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "ትኣቱኒ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ብፍዳ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስ ንስኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:04:56.076659987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 15:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ድማ ኣብ ብዙሕነት ክብርኻ እቶም ዝቐንዑዎ ኣወደሕካ፤ ቍጥዓኻ ምስ ምልኣኽካ ከም እኽሊ ወገሖም።",
+  "tokens": [
+    {
+      "surface": "וברב",
+      "gloss": "ድማ ኣብ ብዙሕነት"
+    },
+    {
+      "surface": "גאונך",
+      "gloss": "ክብርኻ"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "ኣወደሕካ"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "እቶም ዝቐንዑዎ"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "ምስ ምልኣኽካ"
+    },
+    {
+      "surface": "חרנך",
+      "gloss": "ቍጥዓኻ"
+    },
+    {
+      "surface": "יאכלמו",
+      "gloss": "ወገሖም"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "ከም እኽሊ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:20:39.533780185Z",
+  "model": "glm-5.3"
+}

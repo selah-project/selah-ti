@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እንታይ ትገብሩ ኣብ መዓልቲ በዓል-ዕለት፣ ኣብ መዓልቲ በዓል ያህዌህ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ትገብሩ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "በዓል-ዕለት"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "በዓል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:11:18.382718838Z",
+  "model": "glm-5.3"
+}

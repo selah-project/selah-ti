@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "እቲ ፈሊስታይ ድማ በለ፦ ኣነ ሎሚ ⟨את⟩ ሰራዊት እስራኤል ኣሕፈንዎም፤ ሓደ ሰብ ሃቡኒ ከምኡን ኣብ ሓደ ንተላላኺ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "እቲ ፈሊስታይ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ኣሕፈንዎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰራዊት እስራኤል"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ሃቡኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሓደ ሰብ"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "ንተላላኺ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ኣብ ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:07:31.973092079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 5:31",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "እቲ ንጉስ ድማ ኣዘዘ፤ ንምስረታ እቲ ቤት ዓቢታት ድንጋይታት፣ ውዑያት ድንጋይታት፣ እተቖረዓድ ድንጋይታት ኣልዓሉ።",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ኣዘዘ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "ኣልዓሉ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ድንጋይታት"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ዓቢታት"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ድንጋይታት"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "ውዑያት"
+    },
+    {
+      "surface": "ליסד",
+      "gloss": "ንምስረታ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "እቲ ቤት"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ድንጋይ"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "ዝተቖረዐ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:51:38.073265664Z",
+  "model": "glm-5.3"
+}

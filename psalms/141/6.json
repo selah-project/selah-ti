@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 141,
+  "translation": "ኣብ ወገን እቲ ዓራት ዳኞም ክወድቑ እዮም፣ ቃላተይ ድማ ክሰምዑ እዮም፤ ስለ ብረትዎ እዮም።",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "ክወድቑ"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ኣብ ወገን"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "ዓራት"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "ዳኞም"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ክሰምዑ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ቃላተይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "ብረትዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:30.246203596Z",
+  "model": "glm-5.3"
+}

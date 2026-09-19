@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 13:22",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኣብ መዓልቲ ውግእ ሰይፍን ነጠላን ኣብ ኢድ ኩሉ እቲ ህዝቢ እቲ ⟨את⟩ ሻኡልን ⟨את⟩ ዮናታንን ዝነበረ ከይተረኽበ፣ ንሻኡልን ንዮናታን ወዲኡን ጥራይ ተረኺቡ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "ውግእ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ከይ"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ተረኽበ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "ነጠላ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ኣብ ኢድ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝነበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሻኡል"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዮናታን"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ዮናታን"
+    },
+    {
+      "surface": "ותמצא",
+      "gloss": "ተረኺቡ ነይሩ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ንሻኡል"
+    },
+    {
+      "surface": "וליונתן",
+      "gloss": "ንዮናታን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:01:34.402417936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ንጉሳት ሰራዊት ይሽራሩ፣ ይሽራሩ፤ እታ ኣብ ቤት ዘላቕቢ ድማ ኣውዳት ትከፍል።",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "ንጉሳት"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "ይሽራሩ"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "ይሽራሩ"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "እታ ዘላቕቢ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "ትከፍል"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ኣውዳት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:12.966757789Z",
+  "model": "glm-5.3"
+}

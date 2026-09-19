@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 8:10",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እዚኦም ድማ እቶም ስዒቡ ኣፈሰግቲ ናይ ንጉሲ ሽሎሞ እዮም፤ ክልተ ሚእቲን ሃምሳን ኣብ ህዝቢ ዝኾኑ መራሕቲ።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ስዒቡ"
+    },
+    {
+      "surface": "הנציבים",
+      "gloss": "ኣፈሰግቲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ናይ ንጉሲ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ሃምሳ"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ክልተ ሚእቲ"
+    },
+    {
+      "surface": "הרדים",
+      "gloss": "መራሕቲ"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "ኣብ ህዝቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:59:48.212266824Z",
+  "model": "glm-5.3"
+}

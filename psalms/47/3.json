@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 47,
+  "translation": "ምኽንያቱ ያህዌህ ዔልዮን ብምዃኑ ይጥረቆም፣ ኣብ ልዕሊ ኩሉ ምድሪ ዓቢ ንጉስ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ዔልዮን"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ይጥረቆም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:00:12.848560788Z",
+  "model": "glm-5.3"
+}

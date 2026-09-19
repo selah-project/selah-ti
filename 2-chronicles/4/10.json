@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ነቲ ባሕሪ ⟨את⟩ ካብ እቲ የማን ጎኒ ንቕድሚት፣ ኣብ ቅድሚ ገማት ኣቕሚጡ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ባሕሪ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ኣቕሚጡ"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "ካብ ጎኒ"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "የማናይቲ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ንቕድሚት"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ገማት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:55:25.821673497Z",
+  "model": "glm-5.3"
+}

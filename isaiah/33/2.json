@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ያህዌህ ሰናይ በለና፣ ነንስኻ ተጸበይና፤ ሓይሊ ብትሕቲ ኩሉ ቀዳሕ ሃበና፣ ከምኡውን ናይና መድሓኒት ኣብ ዕዋር ጸበባ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "ሰናይ በለና"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ነንስኻ"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "ተጸበይና"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ሃበና"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "ሓይሊ"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "ብትሕቲ ኩሉ ቀዳሕ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "ናይና መድሓኒት"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ኣብ ዕዋር"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ጸበባ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:02:43.231376112Z",
+  "model": "glm-5.3"
+}

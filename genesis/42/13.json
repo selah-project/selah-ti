@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 42:13",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "እኳ በሉ፦ «ዓሰርተ-ክልተ ኣካልትኻ ሓውትቲ ኢና፣ ውላድ ሓደ ሰብ ኣብ ምድሪ ከነዓን፤ ከምኡውን እንሆ እቲ ንእሽቶ ⟨את⟩ ምስ ኣቦና ሎሚ ⟨ደሊ⟩፣ እቲ ሓደ ድማ ⟨የለን⟩።»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "እኳ በሉ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ኣካልትኻ"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ሓውትቲ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ኢና"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዓን"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ከምኡውን እንሆ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "እቲ ንእሽቶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምስ ኣቦና"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ኣቦና"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "እቲ ሓደ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "የለን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:03:33.806691292Z",
+  "model": "glm-5.3"
+}

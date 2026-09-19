@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 9:43",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ሞጻ ድማ ኣቦ ⟨את⟩ ቢናዕ እዩ፤ ረፋያ ድማ ወዲኡ፣ ኤልዓሳ ወዲኡ፣ ኣጽል ድማ ወዲኡ እዩ።",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "ሞጻ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቢናዕ"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "ቢናዕ"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "ረፋያ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡ"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "ኤልዓሳ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ኣጽል"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:37:13.992837232Z",
+  "model": "glm-5.3"
+}

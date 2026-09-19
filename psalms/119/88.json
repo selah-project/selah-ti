@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 88,
+  "ref": "psalms 119:88",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ከም ሔሴድኻ ኣሕይወኒ፣ ነቲ ምስክር ናይ ንኣፍኻ ክኽተሎ እየ።",
+  "tokens": [
+    {
+      "surface": "כחסדך",
+      "gloss": "ከም ሔሴድኻ"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "ኣሕይወኒ"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ክኽተሎ እየ"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ምስክር"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ናይ ንኣፍኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:40.835644185Z",
+  "model": "glm-5.3"
+}

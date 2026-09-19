@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ዓሰርተ ኣምባታት ስፍሕቲ እቲ ሰሌዳ እዩ፤ ሓደ ኣምባ ድማ ግማዊ ኣምባ ስፉሕቲ ሓደ ሰሌዳ እዩ።",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ኣምባታት"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ስፍሕቲ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ናይ እቲ ሰሌዳ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ሓደ ኣምባ ድማ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ግማዊ"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ኣምባ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ስፉሕቲ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ናይ እቲ ሰሌዳ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ናይ ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:32:29.924156501Z",
+  "model": "glm-5.3"
+}

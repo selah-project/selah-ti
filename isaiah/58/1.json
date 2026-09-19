@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 58,
+  "translation": "ብቈልቒ ጥሪ ኣይተቓጸል፤ ከም ቀሊላ ድምጺኻ ኣሪም፤ ንሕዝበይ በደሎም ኣፍለጥ፤ ንስድራ ያዕቆቭ ንኃጢኣቶም ኣፍለጥ።",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "ጥሪ"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "ብቈልቒ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "ተቓጸል"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "ከም ቀሊላ"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "ኣሪም"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ድምጺኻ"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "ኣፍለጥ"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "ንሕዝበይ"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "በደሎም"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ንስድራ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ኃጢኣቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:22:40.163355817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ካብ ወፈያ ሰላምታት ናብ ያህዌህ ወፈያ ናይ ሓዊ የቐርብ፦ ⟨את⟩ እቲ ስብሒ ዝሽፍን ⟨את⟩ እቲ ኣኽላፍ፣ ከምኡውን ⟨את⟩ ኹሉ እቲ ስብሒ እቲ ኣብ ልዕሊ እቲ ኣኽላፍ ዘሎ።",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "የቐርብ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ካብ ወፈያ"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ሰላምታት"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ወፈያ ናይ ሓዊ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ናብ ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ስብሒ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "እቲ ስብሒ"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "ዝሽፍን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ኣኽላፍ"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "እቲ ኣኽላፍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ እቲ ስብሒ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "እቲ ስብሒ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዘሎ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "እቲ ኣኽላፍ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:47:31.466928451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ምኽንያቱ ሽድሽ ወርሒ ተቐመጠ ዮኣብ ከምኡውን ኩሉ እስራኤል ኣብኡ፣ ክሳብ ምቕታል ኩሉ ተባዕታይ ኣብ ኤዶም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ሽድሽ"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ወርሒ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮኣብ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ከምኡውን ኩሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "ምቕታል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ተባዕታይ"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "ኣብ ኤዶም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:45:23.371001737Z",
+  "model": "glm-5.3"
+}

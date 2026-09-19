@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 2:12",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እቲ ዕበይታት ኣብ ምድሪ ተራእዩ፣ ዕለት ዜማ በጺሓ፣ ድምጺ ቱርተራ ከምኡውን ኣብ ምድርና ይሰምዕ ኣሎ።",
+  "tokens": [
+    {
+      "surface": "הנצנים",
+      "gloss": "እቲ ዕበይታት"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "ተራእዩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ዕለት"
+    },
+    {
+      "surface": "הזמיר",
+      "gloss": "ዜማ"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "በጺሓ"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ከምኡውን ድምጺ"
+    },
+    {
+      "surface": "התור",
+      "gloss": "ቱርተራ"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ይሰምዕ"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ኣብ ምድርና"
+    }
+  ],
+  "timestamp": "2026-09-19T06:26:22.670325983Z",
+  "model": "glm-5.3"
+}

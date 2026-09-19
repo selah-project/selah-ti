@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ንኩለ ቤተ-መንብር ውላድ እስራኤል ተዛረብ፣ ነኣምሮም ድማ፦ ቅዱሳት ኩኑ፣ ምኽንያቱ ቅዱስ እየ፣ ኣነ ያህዌህ ኤሎሂምኩም።",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩለ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ቤተ-መንብር"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ነኣምሮም እናበልኻ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ነኣምሮም"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ኩኑ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:01:25.271969553Z",
+  "model": "glm-5.3"
+}

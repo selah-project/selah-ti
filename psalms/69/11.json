@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "ድማ ኣብ ጾም ነፍሰይ ተባእኩ፣ ንስዕባት ንኣነ ኮይና።",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "ተባእኩ"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "ኣብ ጾም"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ኮይና"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "ንስዕባት"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:36.268285930Z",
+  "model": "glm-5.3"
+}

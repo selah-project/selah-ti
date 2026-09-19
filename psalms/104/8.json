@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "ኦሮማት ኮነይየን ወጸያ፤ ቈላታት ኮነይየን ወረዱ፤ ናብቲ ንሳቶም ዝመርምርዎ ቦታ እቲ።",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "ኮነይየን ወጸያ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ኦሮማት"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ኮነይየን ወረዱ"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "ቈላታት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "መርምርካ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንሳቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:15.015878364Z",
+  "model": "glm-5.3"
+}

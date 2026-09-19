@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ነፍሲ ምስ ⟨እቲ⟩ ክብርታ ተሰሪጣ እያ፤ ብቃልካ ኣህይወኒ።",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "ተሰሪጣ"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ምስ ክብርታ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "ኣህይወኒ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ብቃልካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:19.064825437Z",
+  "model": "glm-5.3"
+}

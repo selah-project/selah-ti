@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 10:31",
+  "book": "nehemiah",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ከምኡውን ጓልና ንህዝቢ እቲ ምድሪ ኣይንሃብን፣ ከምኡውን ⟨את⟩ ጓልቶም ንውላድና ኣይንወስድን።",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ንሃብ"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "ጓልና"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "ንህዝቢ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እቲ ምድሪ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጓልቶም"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "ጓልቶም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "ንወስድ"
+    },
+    {
+      "surface": "לבנינו",
+      "gloss": "ንውላድና"
+    }
+  ],
+  "timestamp": "2026-09-19T07:23:58.410390212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 114,
+  "translation": "ይሁዳ ንቅዱስኡ መቕደስ ኮይኑ፣ እስራኤል ድማ ምምሕዳሳቱ ኮይኑ።",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ንቅዱስኡ መቕደስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "ምምሕዳሳቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:29.196335633Z",
+  "model": "glm-5.3"
+}

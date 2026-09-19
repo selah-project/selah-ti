@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ነቲ ድማ፦ «ኣይኮነን ጎይታይ፤ ኣገልጋልትካ ንግብሪ ክነውር ኮይና መጺና» በሉ።",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጎይታይ"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "ኣገልጋልትካ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "መጺና"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ክነውር"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ግብሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:02:59.166079264Z",
+  "model": "glm-5.3"
+}

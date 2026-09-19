@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ካብ ናይ ጋድ ኣክልልቲ ድማ ⟨את⟩ ራሞት ኣብ ጊልዓድን ⟨את⟩ ኣብዓትኣን፣ ⟨את⟩ ማኸናይምን ⟨את⟩ ኣብዓትኣን።",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ካብ ናይ ኣክልልቲ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራሞት"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "ራሞት"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "ኣብ ጊልዓድ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብዓትኣ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ኣብዓትኣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ማኸናይም"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "ማኸናይም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብዓትኣ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ኣብዓትኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:33:12.824719781Z",
+  "model": "glm-5.3"
+}

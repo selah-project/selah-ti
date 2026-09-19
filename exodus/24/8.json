@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 24:8",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ሞሸ ድማ ⟨את⟩ ደም ወሲዱ ኣብ ልዕሊ እቲ ሕዝቢ ረጪሑ፦ «እዚ እዩ ደም ኪዳን እታ ያህዌህ ምስ ኩልኹም ኣብ ልዕሊ ኩሉ እዚኦም ቃላት እዚኦም ቀሪጹዎ»።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደም"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ረጪሑ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እዚ እዩ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ቀሪጹዎ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ምስ ኩልኹም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:26:55.798873135Z",
+  "model": "glm-5.3"
+}

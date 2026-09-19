@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ሕጂውን እርኢ፣ ⟨את⟩ ቀዳማይ ፍረ እቲ ምድሪ ኣቲኩኣ፣ እቲ ዝሃቐኒ ያህዌህ፤ ንሱ ድማ ቅድሚ ያህዌህ ኤሎሂምካ ተሪኻፍካ፣ ቅድሚ ያህዌህ ኤሎሂምካ ተሰገድካ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂውን"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እርኢ"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "ኣቲኩኣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቀዳማይ ፍረ"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ቀዳማይ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ፍረ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "እቲ ምድሪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ዝሃቐ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "ተሪኻፍካ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "ተሰገድካ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:05:31.451120423Z",
+  "model": "glm-5.3"
+}

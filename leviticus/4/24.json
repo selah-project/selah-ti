@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኢዱን ኣብ ርእሲ እቲ ጎረባዊ ዀምዑ፣ ኣብቲ ቦታ እተውሓሱ እቲ ⟨את⟩ ውዕል ኣብ ቅድሚ ያህዌህ ውሓስዩ፤ ወፈያ ሓጥያት እዩ።",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ዀምዑ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "እቲ ጎረባዊ"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ውሓስዩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብቲ ቦታ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ኣብቲ ቦታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እተ"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ዝውሓስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ውዕል"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ውዕል"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ወፈያ ሓጥያት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:49:30.934861581Z",
+  "model": "glm-5.3"
+}

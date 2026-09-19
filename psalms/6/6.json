@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኣብ ሞት ሓሳብካ የብሉን፤ ኣብ ሽኦል ድማ መን እዩ ዝመስግነካ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የብሉን"
+    },
+    {
+      "surface": "במות",
+      "gloss": "ኣብ ሞት"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "ሓሳብካ"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "ኣብ ሽኦል"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "ዝመስግነካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኣኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:12.810425534Z",
+  "model": "glm-5.3"
+}

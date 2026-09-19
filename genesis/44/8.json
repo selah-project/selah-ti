@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 44:8",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ኣሎ፧ እቲ እኽሊ ኣብ ኣፎት ኣካላትና እዝረኣይናዮ ካብ ምድሪ ከነዓን ነንኻ መሊስናዮ፤ ከመይ ድማ ካብ ቤት ጎይታኻ እኽሊ ወይ ወርቂ ንስርቕ?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ኣሎ፧"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ…ዝረኣይናዮ"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "ዝረኣይናዮ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ኣብ ኣፎት"
+    },
+    {
+      "surface": "אמתחתינו",
+      "gloss": "ኣካላትና"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "መሊስናዮ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ነንኻ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዓን"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "ከመይ ድማ"
+    },
+    {
+      "surface": "נגנב",
+      "gloss": "ንስርቕ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ቤት"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ጎይታኻ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:03:57.949065415Z",
+  "model": "glm-5.3"
+}

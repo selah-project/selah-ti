@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እቶም ኣገልጋሊ እቲ ንጉሥ ኣብ በረ እቲ ንጉሥ ዝነበሩ ንሞርዶካይ፦ ‹ስለ ምንባባት ⟨את⟩ ትእዛዝ እቲ ንጉሥ ተሓሊፍካ?› በሉ።",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልጋሊ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉሥ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝነበሩ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ኣብ በረ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉሥ"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "ንሞርዶካይ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ስለ ምንባባት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "ተሓሊፍካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዝ እቲ ንጉሥ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉሥ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:47:22.974145812Z",
+  "model": "glm-5.3"
+}

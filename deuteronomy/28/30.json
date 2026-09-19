@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ሰበይቲ ትሳርሕ፣ ኻልእ ሰብ ድማ ክጽብዓ እዩ፤ ቤት ትቐርጽ፣ ኣብኡ ግን ኣትብልን፤ ወይኒ ትተክእ፣ ከምኡውን ኣትጥቀመሉን።",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "ትሳርሕ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ኻልእ"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "ይጽብዓ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ትቐርጽ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ትብላ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ወይኒ"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "ትተክእ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "ኣትጥቀመሉን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:10:05.767351797Z",
+  "model": "glm-5.3"
+}

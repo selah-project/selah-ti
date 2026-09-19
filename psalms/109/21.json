@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "ንስኻ ግን ያህዌህ ኣዶናይ ምስ ኣነ ⟨את⟩ ግበር፣ ንስምካ ስለ፣ ስለ ዝበለ ብጣዕሚ ሔሴድካ፣ ኣድሕኑኒ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ግን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ግበር"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ምስ ኣነ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ን"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምካ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ዝበለ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሔሴድካ"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ኣድሕኑኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:47.304586037Z",
+  "model": "glm-5.3"
+}

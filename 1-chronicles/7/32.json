@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኽበር ድማ ⟨את⟩ ያፍለትን ⟨את⟩ ሽኦመርን ⟨את⟩ ኽታምን ⟨את⟩ ሽዋዓ ሓብቲኦም ወለደ።",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "ኽበር"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያፍለት"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "ያፍለት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሽኦመር"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ሽኦመር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኽታም"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "ኽታም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሽዋዓ"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "ሽዋዓ"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "ሓብቲኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:35:12.307915090Z",
+  "model": "glm-5.3"
+}

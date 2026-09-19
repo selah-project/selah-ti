@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ካብ ኩሎም መምህራተይ ዝያዕ ተረድኤ ነይረ፣ ምኽንያቱ ምስይታትኻ ነቲ ንዓይ ምሕሳብ ⟨እያ⟩።",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "መምህራተይ"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "ተረድኤ ነይረ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ምስይታትኻ"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "ምሕሳብ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:35.903899837Z",
+  "model": "glm-5.3"
+}

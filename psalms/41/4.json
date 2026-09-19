@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ያህዌህ ኣብ ምትሕቲ ሕማቕ ድሕሪቱ ይሰድዖ፤ ኰሎ ትሕቲ ሕማሙ ተቐይርካ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "ድሕሪቱ ይሰድዖ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "ምትሕቲ"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "ሕማቕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኰሎ"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "ተቐይርካ"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "ሕማሙ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:29.696619964Z",
+  "model": "glm-5.3"
+}

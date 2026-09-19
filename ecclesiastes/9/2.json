@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኩሉ ከም ንኩሉ ሓደ ኩነታት እዩ — ንጻድቕን ንኣጣልሓይን፣ ንቅኑዕን ንንጹሕን ንከላሊትን፣ ንዝበዝሕን ንዝኾነ ኣይበዝሕን፤ ከምቲ ቅኑዕ፣ ከምቲ ኃጢኣዊ፤ እቲ ዝምሓል፣ ከም እቲ ማሕሌት ዝፍርሕ።",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "ኩነታት"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ንጻድቕ"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "ንኣጣልሓይን"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "ንቅኑዕ"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "ንንጹሕን"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "ንከላሊትን"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "ንዝበዝሕን"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "ንዝኾነን"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ዝበዝሕ"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "ከምቲ ቅኑዕ"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "ከምቲ ኃጢኣዊ"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "እቲ ዝምሓል"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "ማሕሌት"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ዝፍርሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:44:44.413345251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 147,
+  "translation": "ቁጽር ኮከባት ይቁጽር፣ ንኩሎም ስሞም ድማ ይሰምዮም።",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "ይቁጽር"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ቁጽር"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "ኮከባት"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "ንኩሎም"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ስሞም"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ይሰምዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:12.592146371Z",
+  "model": "glm-5.3"
+}

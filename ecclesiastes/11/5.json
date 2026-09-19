@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ከምዚ ኣይትፈልጥን እንታይ ምዃኑ መንገዲ ንፋሲ፣ ከም ኣጽምኢ ኣብ ጥሪ እትምላእ ከም ዝተዓጽዉ፣ ከምኡ እውን ኣይትፈልጥን ⟨את⟩ ግብሪ ኤሎሂም እቲ ⟨את⟩ ኩሉ ዝገብር።",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ኣይትፈልጥን"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ዝፈልጥ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገዲ"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ንፋሲ"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "ከም ኣጽምኢ"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "ኣብ ጥሪ"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "እትምላእ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ትፈልጥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ግብሪ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ግብሪ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ…ዝ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ዝገብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ኩሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:44:51.362584721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 139,
+  "translation": "ብጸብ ክሳብ ውዱብ ጸብእክዎም፤ ንኣነ ተቓውሞተይ ኮኑ።",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "ክሳብ ውዱብ"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ጸብ"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "ጸብእክዎም"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "ተቓውሞት"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ኮኑ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:19.496209309Z",
+  "model": "glm-5.3"
+}

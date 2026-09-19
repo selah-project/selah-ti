@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "እቲ ሕዝቢ ወጺኡ ⟨את⟩ ሰፈር ኣራም ኣዘምዑ፤ ሓደ ሰኣ ስምን ብሓደ ሽቐል፣ ክልተ ሰኣ ጐረባ ብሓደ ሽቐል ከም ቓል ያህዌህ ኮነ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጺኡ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "ኣዘምዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰፈር ኣራም"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ሰፈር"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "ሓደ ሰኣ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ስምን"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ብሓደ ሽቐል"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "ክልተ ሰኣ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ጐረባ"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ብሓደ ሽቐል"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ከም ቓል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:21:25.370958063Z",
+  "model": "glm-5.3"
+}

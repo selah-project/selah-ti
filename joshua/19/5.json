@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "እውን ጽቅላግ፣ ቤት-ማርካቦትን ሓጽር-ሱሳሕን።",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "እውን ጽቅላግ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ቤት-"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "ማርካቦት"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "ሓጽር-"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "ሱሳሕ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:28:53.308235071Z",
+  "model": "glm-5.3"
+}

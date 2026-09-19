@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ካብ ምድሪ ሚጽራይም ⟨אתכם⟩ ዝወጺእኩም፣ ንንስኻትኩም ኤሎሂም ክኾነኩም — ኣነ ያህዌህ እየ።",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "ዝወጺእኩም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ንስኻትኩም"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ክኾነኩም"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንንስኻትኩም"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:02:06.832542208Z",
+  "model": "glm-5.3"
+}

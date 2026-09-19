@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ዳዊድን ኩሉ ንብርቲ እስራኤልን ⟨את⟩ ታቦት ያህዌህ ኣእቱሎም፣ ብትሪዓትን ብድምጺ ቀርንጽን።",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ዳዊድን"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ንብርቲ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "ኣእቱሎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦት"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ብትሪዓትን"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "ብድምጲ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ቀርንጽ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:42:47.023162663Z",
+  "model": "glm-5.3"
+}

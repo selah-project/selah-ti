@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኣብ ከተማኡ ናብ ኣኻብ ንጉስ እስራኤል መልኣኻት ለኣኺ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ለኣኺ"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "መልኣኻት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ኣኻብ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "ኣብ ከተማኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:44:37.339592703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ቃል ኃጢያት ናይቲ ኣብያት ኣብ ውሽጢ ልበይ እዩ፦ ፍርሒ ኤሎሂም ኣብ ቅድሚ ኣይኒኡ የለን።",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "ቃል (ናይ ራእይ)"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ኃጢያት"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ናይቲ ኣብያት"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ኣብ ውሽጢ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ፍርሒ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ኣይኒኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:08.266899494Z",
+  "model": "glm-5.3"
+}

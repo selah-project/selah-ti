@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ንጐድኹምን ንበዓትኹምን ውን ነፍጡፉ ውሰዱ፣ ከም ዝበልኩም ኪዱ፣ ንና ውን ባረኽቱኒ።»",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ውን"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "ንጐድኹም"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ውን"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "ንበዓትኹም"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ውሰዱ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "ዝበልኩም"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ኪዱ"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "ባረኽቱኒ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ውን"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ንና"
+    }
+  ],
+  "timestamp": "2026-09-18T21:21:27.329190140Z",
+  "model": "glm-5.3"
+}

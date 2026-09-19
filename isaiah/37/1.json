@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ከምኡ ኮይኑ እቲ ንጉስ ሕዝቅያሁ ምስ ሰምዐ፣ ነቲ ⟨את⟩ ኣልባሳቱ በደለ፣ ብሸቃ ተከዘነ፣ ናብ ቤት ያህዌህ ድማ ከደ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ከምኡ ኮይኑ"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ምስ ሰምዐ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ሕዝቅያሁ"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ነቲ በደለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣልባሳቱ"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ኣልባሳቱ"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "ተከዘነ"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "ብሸቃ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:07:37.214632284Z",
+  "model": "glm-5.3"
+}

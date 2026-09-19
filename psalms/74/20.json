@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 74,
+  "translation": "ነቲ ኪዳን ርአይ፤ ምኽንያቱ ጸልማታት ምድሪ ብመቓብር ግፍዲ ተማልኣ።",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "ርአይ"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "ነቲ ኪዳን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ተማልኣ"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "ጸልማታት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "መቓብር"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ግፍዲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:52.501118647Z",
+  "model": "glm-5.3"
+}

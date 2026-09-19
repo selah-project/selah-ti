@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ከም ኣክሊል ማይ ባሕሪ ዝኣክብ እዩ፤ ተሓጎሳት ኣብ ቤት ኣቃቕሕኡ የቐምጥ።",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "ዝኣክብ"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "ከም ኣክሊል"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "የቐምጥ"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "ኣብ ቤት ኣቃቕሕ"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ተሓጎሳት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:19.627514696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "እዚኦም ድማ ኣቦታት ዓይታም እዮም፦ ይዝረኤል፣ ይሽማን ይድባሽን፤ ስም ኣሕቶም ድማ ጸለልፖኒ እያ።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦታት"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "ዓይታም"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "ይዝረኤል"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "ይሽማ"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "ይድባሽ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "ኣሕቶም"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "ጸለልፖኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:32:20.390206680Z",
+  "model": "glm-5.3"
+}

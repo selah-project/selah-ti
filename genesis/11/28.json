@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ሓራን ድማ ኣብ ⟨ቅድሚ⟩ ተራሕ ኣቡኡ፣ ኣብ ምድሪ ምውላዱ፣ ኣብ ኡር ኽሳዲም ሞተ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "ሓራን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ተራሕ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "ምውላዱ"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ኣብ ኡር"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ኽሳዲም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:37:10.258034227Z",
+  "model": "glm-5.3"
+}

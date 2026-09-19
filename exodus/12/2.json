@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "«እዚ ወርሒ ንዓኻትኩም ርእሲ ኣዋርሓት እዩ፤ ቀዳማይ እዩ ንዓኻትኩም ካብ ኣዋርሓት ናይ ዓመት።",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "እዚ ወርሒ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንዓኻትኩም"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ኣዋርሓት"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "ቀዳማይ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንዓኻትኩም"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "ካብ ኣዋርሓት"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ናይ ዓመት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:18:43.855045057Z",
+  "model": "glm-5.3"
+}

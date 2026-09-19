@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "የሆሹዋዕ ⟨את⟩ ኩሉ እዚኦም ነገስታትን ⟨את⟩ ምድሮምን ሓደ ግዜ ሒዙ፣ ምኽንያቱ ያህዌህ ኤሎሂም ናይ ይስራኤል ንይስራኤል ውጊእ ኣካየደ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እዚኦም ነገስታት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "እዚኦም ነገስታት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሮም"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ምድሮም"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "ሒዙ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "ግዜ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ናይ ይስራኤል"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ውጊእ ኣካየደ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ንይስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T23:24:03.673223165Z",
+  "model": "glm-5.3"
+}

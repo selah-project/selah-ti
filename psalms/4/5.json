@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ረጒዙ፣ እንተኾይኩም ኣይትሓጹሩን፤ ኣብ ልብኩም በሉ፣ ኣብ ትሽዓትኩም ድማ ዕቑቑ። ሰላህ።",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "ረጒዙ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣይት"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "ሓጹሩን"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "ኣብ ልብኩም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "ትሽዓትኩም"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "ዕቑቑ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:48.280311140Z",
+  "model": "glm-5.3"
+}

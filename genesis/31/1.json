@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 31:1",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ያዕቆቭ ድማ ⟨את⟩ ቃላት ወልዲ ላቫን ሰምዐ እናብሉ ዝብሉ፦ «ያዕቆቭ ⟨את⟩ ኩሉ ናይ ኣብና ወሲዱ፣ ካብ ናይ ኣብና ድማ ⟨את⟩ ኩሉ እዚ ክብሪ እዚ ገበረ»።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላት"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወልዲ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ላቫን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናብሉ ዝብሉ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ን"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "ናይ ኣብና"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "ናይ ኣብና"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:54:46.222067349Z",
+  "model": "glm-5.3"
+}

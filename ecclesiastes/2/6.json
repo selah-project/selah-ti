@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ማይ ዝሓዙ ብረኽታት ንሓደ ገበርኩ፣ ካባታት ኣጋይሽ ዝተቐልጡ ደን ንኽስሓቡ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "ገበርኩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንሓደ"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ብረኽታት"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "ንኽስሓቡ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ካባታት"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ደን"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "ዝተቐልጡ"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ኣጋይሽ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:40:07.267464576Z",
+  "model": "glm-5.3"
+}

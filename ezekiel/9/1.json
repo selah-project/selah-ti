@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 9:1",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣብ እዝናይ ብዓቢ ድምጺ ተዛረበ ኢሉ፦ እቶም ኣብ ከተማኡ እተቐማጾ ቐረቡ፣ ነፍሲ ወከፍ ሰብ እቲ ኣብ ኢዱ ዘሎ መሳርሒ ናይ ምጥፋእ ምስ ኢዱ ንቕርቡ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ኣብ እዝናይ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጺ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ቐረቡ"
+    },
+    {
+      "surface": "פקדות",
+      "gloss": "እተቐማጾ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ናይ ከተማኡ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ነፍሲ ወከፍ ሰብ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "መሳርሒ"
+    },
+    {
+      "surface": "משחתו",
+      "gloss": "ናይ ምጥፋእ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ምስ ኢዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:28:33.957706055Z",
+  "model": "glm-5.3"
+}

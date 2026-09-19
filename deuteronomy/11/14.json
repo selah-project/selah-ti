@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 11:14",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ንምድርኩም ኣብ እዋኑ ቀዳማይ ዝናብን ዳሕራይ ዝናብን ክሃበኩም እየ፣ እኽልኻን ጸሊምካን ዘይትኻን ትእክብ።",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ክሃበኩም እየ"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ዝናብ"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ምድርኩም"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "ኣብ እዋኑ"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ቀዳማይ ዝናብ"
+    },
+    {
+      "surface": "ומלקוש",
+      "gloss": "ዳሕራይ ዝናብን"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ትእክብ"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "እኽልኻ"
+    },
+    {
+      "surface": "ותירשך",
+      "gloss": "ጸሊምካን"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "ዘይትኻን"
+    }
+  ],
+  "timestamp": "2026-09-19T08:34:36.755928293Z",
+  "model": "glm-5.3"
+}

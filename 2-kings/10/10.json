@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 10:10",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ፍለጡ ሕጂ ከም ካብ ቃል ያህዌህ ናብ ምድሪ ዝወድቕ የለን፣ እቲ ያህዌህ ኣብ ልዕሊ ቤት ኣኻኣብ ዝበሎ፤ ያህዌህ ድማ ⟨את⟩ እቲ ብኢድ ኣገልጋሊ ኤልያሁ ׀ ׋ዝበሎጋን ገበረ።",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "ፍለጡ"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ዝወድቕ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ናብ ምድሪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝበለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ኣኻኣብ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ ድማ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ዝበሎ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ኣገልጋሊ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያሁ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:21:16.390339519Z",
+  "model": "glm-5.3"
+}

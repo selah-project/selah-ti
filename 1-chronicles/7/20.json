@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 7:20",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣንጀታት ኤፍራይም ድማ ሹተላኽ፣ ቤረድ ወዲኡ፣ ታኽት ወዲኡ፣ ኤልዓዳ ወዲኡ፣ ታኽት ወዲኡ።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ኣንጀታት"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "ሹተላኽ"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "ቤረድ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡ"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ታኽት"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡ"
+    },
+    {
+      "surface": "ואלעדה",
+      "gloss": "ኤልዓዳ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡ"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ታኽት"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:34:50.647984616Z",
+  "model": "glm-5.3"
+}

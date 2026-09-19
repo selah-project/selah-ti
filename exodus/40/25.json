@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ነብራቲ ኣብ ቅድሚ ያህዌህ ኣብረሐሎም፣ ከም ዝኣዘዞ ያህዌህ ⟨את⟩ ሞሸ።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ኣብረሐሎም"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "ነብራቲ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም ዝኣዘዞ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ኣዘዞ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:45:11.918261789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ኣብ ቅድሚኦም ሰብ ሰደ፤ ዮስፍ ንባርያ ተሸይጡ።",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ሰደ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ኣብ ቅድሚኦም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ንባርያ"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "ተሸይጡ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮስፍ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:42.734242254Z",
+  "model": "glm-5.3"
+}

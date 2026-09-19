@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 16:24",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ስጋኡ ከኣ ⟨את⟩ ብማይ ኣብ ቅዱስ ቦታ ውላዱ፣ ⟨את⟩ ልብስቱ ከኣ ለበሰ፣ ወጸ ከኣ ⟨את⟩ ውፈያ ዕላቱን ⟨ואת⟩ ውፈያ ናይ ህዝቢን ገበረ፣ ንእግሩ ከኣ ከምኡውን ንህዝቢ ከኣ ሓረየ።",
+  "tokens": [
+    {
+      "surface": "ורחץ",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስጋኡ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ስጋኡ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ብማይ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ኣብ ቦታ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "ለበሰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልብስቱ"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ልብስቱ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውፈያ ዕላቱ"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "ውፈያ ዕላቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ውፈያ ናይ ህዝቢ"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ውፈያ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ናይ ህዝቢ"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ሓረየ"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ንእግሩ"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:01:13.480843720Z",
+  "model": "glm-5.3"
+}

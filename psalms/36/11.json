@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ሔሴድካ ንዝፈልጡኻ ተወሃብ፣ ጽድቂኻ ድማ ንቅኑዓት ልቢ ተወሃብ።",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "ተወሃብ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሔሴድካ"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "ንዝፈልጡኻ"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ጽድቂኻ"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "ንቅኑዓት"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:32.320887251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ስለ ዝተሓገዛ ከም ስዑራዊ ኣንጻ እስራኤል ተቐጢጡ፣ ሕጂ ያህዌህ ከም ኣጉማር ኣብ መስፊሕ ቦታ ክርኣዮም እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "סררה",
+      "gloss": "ስዑራዊት"
+    },
+    {
+      "surface": "סרר",
+      "gloss": "ተቐጢጡ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "ክርኣዮም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ככבש",
+      "gloss": "ከም ኣጉማር"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "ኣብ መስፊሕ ቦታ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:07:54.302635168Z",
+  "model": "glm-5.3"
+}

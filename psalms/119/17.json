@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ስንብት ግበር ንኣገልጋልኻ፣ ንነብርን ቃልኻ ንሕልውን።",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "ስንብት ግበር"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን-"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ንኣገልጋልኻ"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ንነብር"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ንሕልው"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ቃልኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:21.076827826Z",
+  "model": "glm-5.3"
+}

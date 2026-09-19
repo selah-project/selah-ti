@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 12:40",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "እቲ ውላደ እስራኤል ኣብ ሚጽራይም ዝቐመጦ ምንባር ድማ ሸሎስተ ዓመታትን ኣርባዕተ ምእታት ዓመታትን ⟨እዩ⟩ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ומושב",
+      "gloss": "ምንባር"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ዝቐመጦ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ኣብ ሚጽራይም"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሸሎስተ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ምእታት"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:20:01.346896873Z",
+  "model": "glm-5.3"
+}

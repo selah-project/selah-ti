@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 7:4",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "እንተ ተታከልኩ፧ «መዓስ ክቐንጨየ?» እብል፣ ማሕይም ምስ ተመዘነ፣ ብነኽሳት ድማ ክሳብ ምውጻእ ሰሓይ ምሉእ እየ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "ተታከልኩ"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "እብል"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "መዓስ"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ክቐንጨየ"
+    },
+    {
+      "surface": "ומדד",
+      "gloss": "ምስ-ተመዘነ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ማሕይም"
+    },
+    {
+      "surface": "ושבעתי",
+      "gloss": "ምሉእ-እየ-ድማ"
+    },
+    {
+      "surface": "נדדים",
+      "gloss": "ብነኽሳት"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "ምውጻእ-ሰሓይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:06:11.739910138Z",
+  "model": "glm-5.3"
+}

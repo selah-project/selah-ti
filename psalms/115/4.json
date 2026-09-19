@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 115,
+  "translation": "ኣማልክቶም ብጥረብን ብወርቂን እዮም፣ ግብሪ ናይ ኢዳት ሰብ እዩ።",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "ኣማልክቶም"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ጥረብ"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ንወርቂ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ግብሪ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ናይ ኢዳት"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:31.915397257Z",
+  "model": "glm-5.3"
+}

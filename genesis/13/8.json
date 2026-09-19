@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 13:8",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኣብራሃም ድማ ንሎጥ በሎ፦ «ኣይኹን በቲ ደኣ፣ ኣብ መንጎይን ኣብ መንጎኻን፣ ኣብ መንጎ ሓውተይን ሓውትኻን ጸገት ኣይኸውንን፤ ምኽንያቱ ኣሕዋት ኢና።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ኣብራሃም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ሎጥ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "נא",
+      "gloss": "በቲ ደኣ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ይኸውን"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "ጸገት"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ኣብ መንጎይ"
+    },
+    {
+      "surface": "וביניך",
+      "gloss": "ኣብ መንጎኻ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "ሓውተይ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "ሓውትኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ኣሕዋት"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ኢና"
+    }
+  ],
+  "timestamp": "2026-09-18T20:39:19.319356420Z",
+  "model": "glm-5.3"
+}

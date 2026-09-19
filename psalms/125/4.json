@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 125,
+  "translation": "ያህዌህ ሆ፣ ጽቡቕ ግበር ንእቶም ቅኑያት፣ ንእቶም ኣብ ልቦም ተክክለታት ድማ።",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "ጽቡቕ ግበር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "ንእቶም ቅኑያት"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "ንእቶም ተክክለታት"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "ኣብ ልቦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:29.224166004Z",
+  "model": "glm-5.3"
+}

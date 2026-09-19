@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 113,
+  "translation": "ካብ ውዕሊ ጸሓይ ክሳብ መውራዕኣ ስም ያህዌህ ዝተመስገን እዩ።",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "ካብ ውዕሊ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ጸሓይ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "መውራዕኣ"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "ዝተመስገን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:49.481878430Z",
+  "model": "glm-5.3"
+}

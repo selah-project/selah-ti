@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 30:32",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ብኩሉ ስጉልትኻ ሎሚ እሓልፍ፣ ካብኡ ኩሉ ነቐሳን ተረባዊን ዝኾነ በጊዕ፣ ከምኡውን ኩሉ ቡናዊ በጊዕ ኣብ በጊዓት፣ ተረባዊን ነቐሳን ዝኾነ ኣብ ኣጋታት ኣውጽእ፣ ንሳቶም ድማ ክልኢተይ ክኾኑ።",
+  "tokens": [
+    {
+      "surface": "אעבר",
+      "gloss": "እሓልፍ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብኩሉ"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "ስጉልትኻ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ኣውጽእ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "በጊዕ"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "ነቐሳ"
+    },
+    {
+      "surface": "וטלוא",
+      "gloss": "ተረባዊ-ውን"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ-ውን"
+    },
+    {
+      "surface": "שה",
+      "gloss": "በጊዕ"
+    },
+    {
+      "surface": "חום",
+      "gloss": "ቡናዊ"
+    },
+    {
+      "surface": "בכשבים",
+      "gloss": "ኣብ በጊዓት"
+    },
+    {
+      "surface": "וטלוא",
+      "gloss": "ተረባዊ-ውን"
+    },
+    {
+      "surface": "ונקד",
+      "gloss": "ነቐሳ-ውን"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "ኣብ ኣጋታት"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ክኾን"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "ክልኢተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:26:02.070226485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 33:3",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "እውን ህዝቢ ተቐበሎም፤ ኩሉ ቅዱሳቱ ኣብ ኢድካ ኣለዉ፣ ንሳቶም ድማ ኣብ ኣገላቲ ኣቕሚዖም፣ ካብቶም ቃላትካ ይቕበሉ።",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "חבב",
+      "gloss": "ተቐበሎም"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "ቅዱሳቱ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ኣብ ኢድካ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ንሳቶም ድማ"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "ኣቕሚዖም"
+    },
+    {
+      "surface": "לרגלך",
+      "gloss": "ኣብ ኣገላቲ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ይቕበሉ"
+    },
+    {
+      "surface": "מדברתיך",
+      "gloss": "ካብቶም ቃላትካ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:12:19.596082227Z",
+  "model": "glm-5.3"
+}

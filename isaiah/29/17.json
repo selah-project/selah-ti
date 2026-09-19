@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 29:17",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ዓይ፧ ኣይኮነን ንእሽቶ ዝኾነ ግዜ ውሽጣ ኣይኮነን፣ ለባኖን ናብ ካርሚል ክቕየር እዩ፣ ካርሚል ድማ ከም ጫካ ይቑጸር፧",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ዓይ፧ ኣይኮነን"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ውሽጣ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ንእሽቶ"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "ዝኾነ ግዜ ንእሽቶ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ክቕየር"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ለባኖን"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "ናብ ካርሚል"
+    },
+    {
+      "surface": "והכרמל",
+      "gloss": "ካርሚል ድማ"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "ከም ጫካ"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ይቑጸር"
+    }
+  ],
+  "timestamp": "2026-09-19T02:01:05.890170113Z",
+  "model": "glm-5.3"
+}

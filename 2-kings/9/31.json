@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 9:31",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "የሁኣ ድማ ናብ ⟨እቲ⟩ በዓቲ ምስ ኣተየ፣ ንሳ ድማ «ሰላም ኣሎ ዒ ስምሪ፣ ገዳፊ ጎይታኡ?» በለት።",
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "የሁኣ ድማ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ኣተየ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ናብ ⟨እቲ⟩ በዓቲ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "በለት"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "ሰላም ኣሎ"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "ዒ ስምሪ"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ገዳፊ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ጎይታኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:20:24.668921421Z",
+  "model": "glm-5.3"
+}

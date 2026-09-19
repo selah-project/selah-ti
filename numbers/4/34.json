@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 4:34",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ሞሸን ኣሃርንን መራሕቲ እቲ ጉባኤን ነቶም ውላድ ቃህት ⟨את⟩ ብስድራታቶምን ብዓይወት ኣቦታቶምን ቈጸሩ።",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "ቈጸሩ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ኣሃርንን"
+    },
+    {
+      "surface": "ונשיאי",
+      "gloss": "መራሕቲ…ን"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "እቲ ጉባኤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ ቃህት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "ቃህት"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ብስድራታቶም"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ብዓይወት…ን"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ኣቦታቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:13:36.419627767Z",
+  "model": "glm-5.3"
+}

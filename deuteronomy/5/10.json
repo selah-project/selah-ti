@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ብሔሴድ ድማ ንዝፈቱኒ ንሺሕታትን ትእዛዛተይ ንዝሓሉን ይገብር።",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ድማ ይገብር"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ብሔሴድ"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "ንሺሕታት"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ንዝፈቱኒ"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "ንዝሓሉን"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "ትእዛዛተይ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:47:55.120641911Z",
+  "model": "glm-5.3"
+}

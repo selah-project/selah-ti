@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 81,
+  "translation": "ሰምዑ ኣይ ሕዝቢይ፣ ኣነ ክኣልኹ ኣብኩም እየ፤ እስራኤል፣ ነዓይ እንተ ሰምዕኩም!",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዑ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ኣይ ሕዝቢይ"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ክኣልኹ እየ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣብኩም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ሰምዕኩም"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ነዓይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:24.514987955Z",
+  "model": "glm-5.3"
+}

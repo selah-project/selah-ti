@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ምኽንያቻ ንሱ ረሽዓ ዝፈትወ ኤል ኣይኮንካን፤ ክፉእ ምስ ኣታ ክቕመጥ ኣይኽእልን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ዝፈትወ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ረሽዓ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኣታ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "ክሓዝ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉእ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:00:21.033069053Z",
+  "model": "glm-5.3"
+}

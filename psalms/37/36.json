@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ንሱ ሓለፉ ኣብ ዝኾነ ኸኣ የለን፤ ኣነ ሓደኹ ድማ ኣይተረኽቦን።",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "ሓለፉ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣብ ዝኾነ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "ሓደኹ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ኣይተረኽቦን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:55:45.782659605Z",
+  "model": "glm-5.3"
+}

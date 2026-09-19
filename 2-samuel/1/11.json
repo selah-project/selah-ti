@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ዳዊድ ድማ ኣብ ኣልባሳቱ ዐቂቖም በረቐቖም፣ ኩሎም እቶም ሰባት ምስኡ ⟨את⟩ ዝነበሩውን ከምኡ ገበሩ።",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ዐቂቖም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "ኣብ ኣልባሳቱ"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "በረቐቖም"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "እቶም ሰባት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ምስኡ ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T00:21:16.502449143Z",
+  "model": "glm-5.3"
+}

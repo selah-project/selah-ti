@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ናብ እኽራት ⟨את⟩ ንተባርዓ፣ ዘይሚ ኣብ ልዑላ ተኣኪኡ፣ መባ እያ።",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "ተባርዓ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "እኽራት"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "እኽራት"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ተኣኪኡ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ኣብ ልዑላ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይሚ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "መባ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እያ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:46:24.155526100Z",
+  "model": "glm-5.3"
+}

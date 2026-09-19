@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣብ ልብኻ ኢልካ ክትብል ከሎኻ፦ «ሓይሊ ናይ ኢደይን ብጽሒ ናይ ኢደይን ⟨את⟩ ነዚ ንብረት እዚ ገበረለይ።»",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ኢልካ ክትብል"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ኣብ ልብኻ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ሓይሊ ናይ"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "ብጽሒ ናይ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ኢደይ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነዚ ንብረት እዚ"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ነዚ ንብረት"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:53:01.480916809Z",
+  "model": "glm-5.3"
+}

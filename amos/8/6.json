@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 8:6",
+  "book": "amos",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ንድኻታት ብቐረብት፣ ኣዊያን ኣብ ክንዲ ጫማታት ንውዕል፣ ነቲ ተሪፍ ናይ ባር ድማ ንሸውጥ።",
+  "tokens": [
+    {
+      "surface": "לקנות",
+      "gloss": "ንውዕል"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ብቐረብት"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ድኻታት"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ኣዊያን"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ኣብ ክንዲ"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "ጫማታት"
+    },
+    {
+      "surface": "ומפל",
+      "gloss": "ተሪፍ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ባር"
+    },
+    {
+      "surface": "נשביר",
+      "gloss": "ንሸውጥ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:19:04.980623415Z",
+  "model": "glm-5.3"
+}

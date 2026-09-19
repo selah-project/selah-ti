@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 22:12",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "እቲ ንጉስ ድማ ነቲ ካህን ክልቅያ ⟨את⟩፣ ነቲ ወዲ ሽፋን ኣኽቃም ⟨ואת⟩፣ ነቲ ወዲ ሚኪያ ዓክቦር ⟨ואת⟩፣ ነቲ ጸሓፍቲ ሽፋን ⟨ואת⟩፣ ነቲ ኣገልጋሊ እቲ ንጉስ ዓሳያ ⟨ואת⟩ እናበለ ኣዘዞም።",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ኣዘዞም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክልቅያ"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "ክልቅያ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ካህን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣኽቃም"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "ኣኽቃም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "ሽፋን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓክቦር"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "ዓክቦር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "מיכיה",
+      "gloss": "ሚኪያ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሽፋን"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "ሽፋን"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "እቲ ጸሓፍቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓሳያ"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "ዓሳያ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ኣገልጋሊ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:36:40.160706689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 1:8",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "«ጠጕር ዝኾነ ሰብ፣ ኣብ ስብኡ ከምኡውን ቆርበት ዝተኣዘረ እዩ» በሉዎ። ንሱ ድማ «ኤልያሁ እቲ ቲሽባይ እዩ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "በሉዎ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ባዓል"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ጠጕር"
+    },
+    {
+      "surface": "ואזור",
+      "gloss": "ከምኡውን ኣዝሪቲ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ቆርበት"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "ዝተኣዘረ"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "ኣብ ስብኡ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ኤልያሁ"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "ቲሽባይ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:14:56.674388610Z",
+  "model": "glm-5.3"
+}

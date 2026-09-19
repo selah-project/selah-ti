@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኣብ ሳልሳይ ወርሒ፣ ምስ ወጸሉ ውላድ እስራኤል ካብ ምድሪ ሚጽራይም፣ ኣብ እዚ መዓልቲ እዚ ናብ ምድረ-በዳ ሲናይ በጽሑ።",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "ኣብ ወርሒ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ሳልሳይ"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "ምስ ወጸሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "በጽሑ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ምድረ-በዳ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ሲናይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:24:47.144461275Z",
+  "model": "glm-5.3"
+}

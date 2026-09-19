@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ኩሉ ዝጸልኡኒ ኣብ ኣኽብእተይ ብሓባር ይጥራሑ፣ ንዓይ ጕድኣት ንዓይ ይሓስቡ።",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "ብሓባር"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ኣኽብእተይ"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "ይጥራሑ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ዝጸልኡኒ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ይሓስቡ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ጕድኣት"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:13.537622135Z",
+  "model": "glm-5.3"
+}

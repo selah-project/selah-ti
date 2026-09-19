@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 65,
+  "translation": "ነቲ ዓመት ብጽቡእካ ዒሮ ዓዲኻሉ፤ መገዲታትካ ድማ በለጽ ደቂቑ እዮም።",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "ዒሮ ዓዲኻሉ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ነቲ ዓመት"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "ብጽቡእካ"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "ከምኡውን መገዲታትካ"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "ደቂቑ እዮም"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "በለጽ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:10.375324122Z",
+  "model": "glm-5.3"
+}

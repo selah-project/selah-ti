@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 1:8",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "በደል በደለት የሩሻላይም፤ ስለዚ ንነፍሳ ተቐየረት፤ ኩሉ ኣኽቢሩዋ ቐሊሉ ገበርዋ፣ ምኽንያቱ ርኵሰታ ረኣዩ፤ ንሳ ድማ ኣሰቐት፣ ናብ ኣፀምኢ ተመለሰት።",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "በደል"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "በደለት"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚ"
+    },
+    {
+      "surface": "לנידה",
+      "gloss": "ንነፍሳ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ተቐየረት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "מכבדיה",
+      "gloss": "ኣኽቢሩዋ"
+    },
+    {
+      "surface": "הזילוה",
+      "gloss": "ቐሊሉ ገበርዋ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ረኣዩ"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ርኵሰታ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ንሳ"
+    },
+    {
+      "surface": "נאנחה",
+      "gloss": "ኣሰቐት"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ተመለሰት"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ናብ ኣፀምኢ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:37:31.672666163Z",
+  "model": "glm-5.3"
+}

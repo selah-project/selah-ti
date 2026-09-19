@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "ንሰሜን እብል፦ ሃቢ፤ ንደቡብ ድማ፦ ኣይትኽልእን፤ ውላደይ ካብ ረዚን፣ ደቀይ ካብ ዳር ምድሪ ኣእቲዎም።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "እብል"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "ንሰሜን"
+    },
+    {
+      "surface": "תני",
+      "gloss": "ሃቢ"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "ንደቡብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "ትኽልእ"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "ኣእቲዎም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደይ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ካብ ረዚን"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "ደቀይ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ካብ ዳር"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:09:41.243379301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 121,
+  "translation": "ኣሎ — ኣይተንቓጎሖን፣ ድማ ኣይንቐልን፤ እቲ ዝከላከል እስራኤል።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ክተንቓጎሖ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ድማ ኣይ"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "ክንቐል"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ዝከላከል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:30.851951682Z",
+  "model": "glm-5.3"
+}

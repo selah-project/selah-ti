@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ስለ ዝኣይረድእዎን ንጽሑታት ያህዌህን ንተግባር ኢዱታትኡ፣ ያህዌህ ይኽፈሎም እዩ፣ ኣይሃንጾምን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ይረድእዎን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ጽሑታት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ን…ን"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ተግባር"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ኢዱታትኡ"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "ይኽፈሎም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "ይሃንጾምን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:10.502296655Z",
+  "model": "glm-5.3"
+}

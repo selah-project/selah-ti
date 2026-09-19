@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ሽሞኤል ድማ ⟨את⟩ ኩሉ ቃላት እቲ ሕዝቢ ሰምዐ፣ ኣብ እዙታት ያህዌህ ድማ ተዛረቦም።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሽሞኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ቃላት እቲ ሕዝቢ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "ተዛረቦም"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ኣብ እዙታት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:57:35.459725686Z",
+  "model": "glm-5.3"
+}

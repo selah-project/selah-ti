@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ያህዌህ ኤሎሂም ድማ፦ እቲ ሰብ ብባዕሉ ምህላዉ ቕኑዕ ኣይኮነን፤ ከም መሸለቲ ኣብ ቅጽሉ እትርከብ ኣለኹ በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ቕኑዕ"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ምህላዉ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ብባዕሉ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ኣለኹ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "መሸለቲ"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "ኣብ ቅጽሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:24:29.096474909Z",
+  "model": "glm-5.3"
+}

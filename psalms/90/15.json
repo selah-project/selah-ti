@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 90,
+  "translation": "ከምቶም መዓልታት ዝቐጺልካናዮም፣ ከምቶም ዓመታት ክፉእ ረኣይናዮ ኣደሓንና።",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "ኣደሓንና"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "ከም መዓልታት"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "ዝቐጺልካና"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "ረኣይና"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉእ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:00.706749953Z",
+  "model": "glm-5.3"
+}

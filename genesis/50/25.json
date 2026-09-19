@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ዮሴፍ ድማ ⟨את⟩ ውላድ እስራኤል «ኤሎሂም ብሓቂ ክበትኩም እዩ፣ ነቲ ⟨את⟩ ኣጥንትይ ድማ ካብዚ ኣሕውዩ» እናበለ ኣስዓሞ።",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "ኣስዓሞ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ እስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ብሓቂ"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "ክበት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ዓትኩም"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "ኣሕውዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣጥንትይ"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "ኣጥንትይ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ካብዚ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:09:05.739698384Z",
+  "model": "glm-5.3"
+}

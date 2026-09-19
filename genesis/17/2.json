@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኪዳንይ ብመንጎን ብመንጎኻን ክኣቅም፣ ንኣንተውን ⟨את⟩ ብዙሕስ ብዙሕ ኣበዝዕኩኻ።",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ክኣቅም"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳንይ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ብመንጎን"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ብመንጎኻን"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "ኣበዝዕኩኻ"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "ንኣንተ"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "ብዙሕስ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:42:25.104782975Z",
+  "model": "glm-5.3"
+}

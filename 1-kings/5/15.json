@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 5:15",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኽርም ንገስቲ ጾር ⟨את⟩ ኣገልገልቱ ናብ ሽሎሞ ሰደደ፤ ስለ ዝሰምዐ፣ ⟨אתו⟩ ኣብ ቦታ ኣቡኡ ነገስቲ ስለ ዝሒብኑ፣ ኽርም ኩሉ መዓልታት ንዳዊድ ዝፈትወ ስለ ዝነበረ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ኽርም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንገስቲ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ጾር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣገልገልቱ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ኣገልገልቱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ዝሰምዐ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ንሱ ሒብኖ"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "ሒብኖ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ነገስቲ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ቦታ"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "ኣቡኡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ዝፈትወ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ዝነበረ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ኽርም"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ንዳዊድ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "መዓልታት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:50:33.021054981Z",
+  "model": "glm-5.3"
+}

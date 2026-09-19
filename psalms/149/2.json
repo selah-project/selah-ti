@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 149,
+  "translation": "እስራኤል ብፈጣሩ ይደስዑ፤ ውላድ ጽዮን ብንጉስኦም ይሓልቑ።",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ይደስዑ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "ብፈጣሩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "ይሓልቑ"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "ብንጉስኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:11.088618261Z",
+  "model": "glm-5.3"
+}

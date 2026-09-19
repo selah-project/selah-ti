@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ስለዚ ኩሉ ኢዳት ይሕልወን፣ ኩሉ ልቢ ሰብ ድማ ይበርድ።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ኢዳት"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ይሕልወን"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ድማ ኩሉ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "ይበርድ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:47:53.999119982Z",
+  "model": "glm-5.3"
+}

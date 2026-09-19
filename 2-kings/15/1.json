@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 15:1",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ኣብ ዓሰርተ ሸውዓተ ዓመት ናይ የሮብዓም ንጉስ እስራኤል፣ ዓዛርያሕ ወዲ ኣማጽያሕ ንጉስ ይሁዳ ነገሰ።",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ኣብ ዓመት"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "ናይ የሮብዓም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነገሰ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ዓዛርያሕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "ኣማጽያሕ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:27:06.964150402Z",
+  "model": "glm-5.3"
+}

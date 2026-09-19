@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ነፍሰይ ምስ ዝድለበይ ⟨את⟩ ያህዌህ ዝኾነ ዝሓሰብኩ፣ ጸሎተይ ድማ ናብካ ናብ ቅዱስ ቤተ መቕደስካ ኣተየት።",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "ምስ ዝድለበይ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕለይ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "ዝኾነ ዝሓሰብኩ"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ድማ ኣተየት"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብካ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ጸሎተይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ቤተ መቕደስ"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ቅዱስካ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:21:46.394020408Z",
+  "model": "glm-5.3"
+}

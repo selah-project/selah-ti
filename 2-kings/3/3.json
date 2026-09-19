@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እንጂ ኣብ ስዕርቲ የሮብዓም ወዲ ነባት እቶም ዝሰዓርዎ ⟨את⟩ እስራኤል እዚኦም ተጠንቀቐ፣ ካባቶም ኣይሰገረን።",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "እንጂ"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "ኣብ ስዕርቲ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "የሮብዓም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ነባት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ዝሰዓርዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "ተጠንቀቐ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ሰገረ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ካባቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:11:51.074790152Z",
+  "model": "glm-5.3"
+}

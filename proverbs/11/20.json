@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኩራዚ ልቢ ብያህዌህ ጥሕት እዮም፤ ኣብ መገዲ ዝጸንዑ ድማ ሓጐስ ያህዌህ እዮም።",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "ጥሕት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "ኩራዚ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "ሓጐሱ"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "ዝጸንዑ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መገዲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:47:03.389008672Z",
+  "model": "glm-5.3"
+}

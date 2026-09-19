@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ከምኣንታን ⟨ואת⟩ ቤት ጹርን ⟨ואת⟩ ሽውኽሆን ⟨ואת⟩ ዓድላምን ሃንጸ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ቤት ጹር"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ጹር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ሽውኽሆ"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "ሽውኽሆ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ዓድላም"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "ዓድላም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:58:54.839029895Z",
+  "model": "glm-5.3"
+}

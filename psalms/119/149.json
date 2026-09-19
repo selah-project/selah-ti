@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 149,
+  "ref": "psalms 119:149",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኣብ ሔሴድካ ያህዌህ ቓለይ ስምዐ፣ ኣብ ፍርዲካ ኣህይወኒ።",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ቓለይ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ስምዐ"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "ኣብ ሔሴድካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כמשפטך",
+      "gloss": "ኣብ ፍርዲካ"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "ኣህይወኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:05.279642055Z",
+  "model": "glm-5.3"
+}

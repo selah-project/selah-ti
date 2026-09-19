@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 11:15",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ንሉኡ ኻህናት ንኣቀምጻት ንጸባእ መናፍታትን ንጥረ ከደኒታትን ዝገበሮም ኣቐመጠ።",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ኣቐመጠ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሉኡ"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ኻህናት"
+    },
+    {
+      "surface": "לבמות",
+      "gloss": "ንኣቀምጻት"
+    },
+    {
+      "surface": "ולשעירים",
+      "gloss": "ንጸባእ መናፍታትን"
+    },
+    {
+      "surface": "ולעגלים",
+      "gloss": "ንጥረ ከደኒታትን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበሮም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:00:25.284319413Z",
+  "model": "glm-5.3"
+}

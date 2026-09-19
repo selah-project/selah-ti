@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ምቱሸላሕ ድማ ሸውዓትን ሸሞነትን ወዲ ሚዛ ዓመታት ነይሩ፣ ድማ ⟨את⟩ ለመኽ ወለዶ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "ምቱሸላሕ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸውዓትን"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ሸሞነትን"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ወዲ ሚዛ ዓመታት"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ሚዛ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለዶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ለመኽ"
+    },
+    {
+      "surface": "למך",
+      "gloss": "ለመኽ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:33:27.520053788Z",
+  "model": "glm-5.3"
+}

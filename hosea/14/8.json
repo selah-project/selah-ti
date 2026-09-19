@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 14:8",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ኣብ ጽልኡ ዝቐመጡ ይመልሱ፣ ዕንጨርታ የሕይዉ፣ ከም ወንጨርቲ ይበጽሑ፣ መዘኻኸሪኡ ከም ጠሪ ለባኖን።",
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "ይመልሱ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ዝቐመጡ"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "ኣብ ጽልኡ"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "የሕይዉ"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "ዕንጨርታ"
+    },
+    {
+      "surface": "ויפרחו",
+      "gloss": "ይበጽሑ"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "ከም ወንጨርቲ"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "መዘኻኸሪኡ"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "ከም ጠሪ"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ለባኖን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:09:59.867966428Z",
+  "model": "glm-5.3"
+}

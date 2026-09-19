@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ገጾም ካብ ጸሊም ጸለመ፤ ኣብ መንገዳት ኣይተውሰኑን፤ ቆዳኦም ኣብ ልዕሊ እጽንጭልቶም ተጽረየ፣ ደረቐ፣ ከም ዛፍ ኮነ።",
+  "tokens": [
+    {
+      "surface": "חשך",
+      "gloss": "ጸለመ"
+    },
+    {
+      "surface": "משחור",
+      "gloss": "ካብ ጸሊም"
+    },
+    {
+      "surface": "תארם",
+      "gloss": "ገጾም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "נכרו",
+      "gloss": "ተውሰኑ"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "ኣብ መንገዳት"
+    },
+    {
+      "surface": "צפד",
+      "gloss": "ተጽረየ"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "ቆዳኦም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "עצמם",
+      "gloss": "እጽንጭልቶም"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ደረቐ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "ከም ዛፍ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:36:56.020041201Z",
+  "model": "glm-5.3"
+}

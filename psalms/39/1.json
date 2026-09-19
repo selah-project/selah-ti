@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ንመንጋጊ ንይዱቱን ተጻሒፈ፤ መዝሙር ናይ ዳዊድ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንመንጋጊ"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "ንይዱቱን"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:00.684309448Z",
+  "model": "glm-5.3"
+}

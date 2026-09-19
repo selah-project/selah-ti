@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ፓርዖ እናበለ ንውላድ እስራኤል፦ «ኣብ ምድሪ ተባብዩ እዮም፤ እቲ ምድረ በዳ ኣብ ልዕሊኦም ዓጸወ»።",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "ተባብዩ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እዮም"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ዓጸወ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ኣብ ልዕሊኦም"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "እቲ ምድረ በዳ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:27:48.586188844Z",
+  "model": "glm-5.3"
+}

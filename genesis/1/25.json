@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኤሎሂም ድማ ⟨את⟩ ኩርዑ ምድሪ ብጾማ፣ ⟨את⟩ እንሳት ብጾማ፣ ⟨את⟩ ኩሉ ኣዝዮ ምድሪ ብጾማ ገበረ፤ ኤሎሂም ድማ ረኣዮ ጽቡእ ምዃኑ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩርዑ ምድሪ"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ኩርዑ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ብጾማ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እንሳት"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "እንሳት"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ብጾማ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ኣዝዮ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ኣዝዮ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ብጾማ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ረኣዮ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምዃኑ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡእ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:30:09.331967257Z",
+  "model": "glm-5.3"
+}

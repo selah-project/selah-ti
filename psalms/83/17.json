@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 83:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 83,
+  "translation": "ኣፊኦም ብዕርቂ ምልእ፣ ንስምካ ንኽደልዩ ድማ ያህዌህ ሆ።",
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "ምልእ"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ኣፊኦም"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ዕርቂ"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "ንኽደልዩ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:46.935649473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 76,
+  "translation": "ንመቆጻጻሪ ብመሳዊርቲ ኣሕዙብ፣ መዝሙር ንኣሳፍ፣ ዝብል ባሕሲ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንመቆጻጻሪ"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ብመሳዊርቲ ኣሕዙብ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ንኣሳፍ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ዝብል ባሕሲ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:35.481872325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 2:30",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ዮኣብ ድማ ካብ ድሕሪ ኣብነር ተመለሰ፣ ⟨את⟩ ኩሉ እቲ ህዝቢ ኣካኸበ፣ ካብ ኣገልጋሊ ዳዊድ ዘጠም ዓሰርተ ሰብ ጎደሎም፣ ዓሳሔልን ድማ።",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "ዮኣብን"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ካብ ድሕሪ"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ኣብነር"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ኣካኸበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እቲ ህዝቢ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "ጎደሉ"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "ካብ ኣገልጋሊ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ዘጠም"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ዓሳሔልን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ድማ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:23:16.435994216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ሓዊ ካብ ቅድሚ ያህዌህ ወጸት ድማ ⟨אתם⟩ በልዐቶም፣ ብቅድሚ ያህዌህ ድማ ሞቱ።",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "ወጸት"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ካብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "በልዐቶም"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "ነታቶም (ናዳብን ኣቢሁን)"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "ሞቱ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ብቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:55:00.710416234Z",
+  "model": "glm-5.3"
+}

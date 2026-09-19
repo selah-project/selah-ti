@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እዞም ነቶም ንፓርዖ ንጉስ ሚጽራይም ንውላድ ይስራኤል ⟨את⟩ ካብ ሚጽራይም ንምውጻእ ዝዛረቡሉ እዮም፤ ንሱ ሞሸን ኣሃሮንን እዩ።",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "እዞም"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "ዝዛረቡሉ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን-"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ንምውጻእ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ ይስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ካብ ሚጽራይም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ንኣሃሮን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:13:15.857210813Z",
+  "model": "glm-5.3"
+}

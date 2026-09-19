@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 28:15",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ወን ሓደ ወዲ ጣዕሲ ንሓጢያት ወፈያ ንያህዌህ፣ ኣብ ልዕሊ ተቐጣጣይ ዕላሊ ይግበር፣ ወፈያ ወይኒኡ ድማ።",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "ወን ወዲ ጣዕሲ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ናይ ጣዕሲ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ንሓጢያት ወፈያ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ዕላሊ"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "ተቐጣጣይ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ይግበር"
+    },
+    {
+      "surface": "ונסכו",
+      "gloss": "ወን ወፈያ ወይኒኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:37:35.831906397Z",
+  "model": "glm-5.3"
+}

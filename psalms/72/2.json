@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 72,
+  "translation": "ዓመ ብጽድቂ ይዳን፣ ድኻታትኻ ድማ ብፍትሕ።",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "ይዳን"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ዓመ"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ብጽድቂ"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "ድኻታትኻ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ብፍትሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:26.294129648Z",
+  "model": "glm-5.3"
+}

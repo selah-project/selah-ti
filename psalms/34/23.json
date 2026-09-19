@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ያህዌህ ነፍሲ ኣገልጋልቱ ይፈትሕ፤ ኣብኡ ዝተሃለዉ ኩሎም ኣይቕጸሉን።",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "ይፈትሕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ኣገልጋልቱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ቕጸሉን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "ዝተሃለዉ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:52:44.775930263Z",
+  "model": "glm-5.3"
+}

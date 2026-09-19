@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ኣብ ርኽባ ዓራ ምቕመጥ ካብ ሰበይቲ መዛረቢትን ካብ ቤት ሓባርን ዝነብር ብሉጽ እዩ።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ብሉጽ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ምቕመጥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "ርኽባ"
+    },
+    {
+      "surface": "גג",
+      "gloss": "ዓራ"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "ካብ ሰበይቲ"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "መዛረቢት"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ውን ቤት"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ሓባር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:52:01.184330992Z",
+  "model": "glm-5.3"
+}

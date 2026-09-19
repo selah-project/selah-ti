@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ከምኡውን ካብ ወገን ኣሸር ⟨את⟩ ሚሻልን ⟨את⟩ ማዕደራኣን ⟨את⟩ ዓብዱንን ⟨את⟩ ማዕደራኣን።",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ካብ ወገን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ኣሸር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚሻል"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "ሚሻል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ማዕደራኣ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ማዕደራኣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓብዱን"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "ዓብዱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ማዕደራኣ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ማዕደራኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:31:06.784303842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 4:10",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ሞሸ ድማ ንያህዌህ ተዛረበ፦ በዚ ኣዶናይ፣ ኣነ ሰብ ቃላት ኣይኮነን፤ ካብ ትማሊ ጀሚርካ፣ ካብ ኣምሲኡ ጀሚርካ፣ ካብ እቲ ንባርያኻ ምስ ተዛረብካዮ ጀሚርካ እኳ እውን፣ ኣነ ከቢድ ኣፍን ከቢድ ልሳንን እየ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በዚ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ካብ ትማሊ"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "ትማሊ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ካብ ኣምሲኡ"
+    },
+    {
+      "surface": "משלשם",
+      "gloss": "ኣምሲኡ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እኳ እውን"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ካብ እቲ ጀሚርካ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ምስ ተዛረብካዮ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ባርያኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ከቢድ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ኣፍ"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "ከቢድ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ልሳን"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እየ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:14:23.882702239Z",
+  "model": "glm-5.3"
+}

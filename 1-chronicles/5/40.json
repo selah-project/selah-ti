@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ዕዝርያ ድማ ⟨את⟩ ስራያ ወለደ፣ ስራያ ድማ ⟨את⟩ ይሆጽዳቅ ወለደ።",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ዕዝርያ ድማ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስራያ"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "ስራያ"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "ስራያ ድማ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይሆጽዳቅ"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "ይሆጽዳቅ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:31:00.053751689Z",
+  "model": "glm-5.3"
+}

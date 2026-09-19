@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ያህዌህ ድማ ካብ ሚጽራይም ብኢድ ሓያላት፣ ብእዝዒ ዝወረደት፣ ብምርርዓት ዓቢት፣ ብምልክታትን ብተኣምራትን ኣውጽአና።",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "ኣውጸአና"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ካብ ሚጽራይም"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ሓያላት"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "ብእዝዒ"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ዝወረደት"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "ብምርርዓት"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ዓቢት"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "ብምልክታት"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "ብተኣምራት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:04:46.307169095Z",
+  "model": "glm-5.3"
+}

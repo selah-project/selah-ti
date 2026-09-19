@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ንሕና ጠረብናን ኣምርርናን፣ ንስኻ ግን ኣይሓረስካን።",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "ጠረብና"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "ኣምርርናን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "ሓረስካ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:34:31.476092677Z",
+  "model": "glm-5.3"
+}

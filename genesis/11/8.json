@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ያህዌህ ድማ ኣታቶም ⟨את⟩ ካብኡ ኣብ ገጽ ኩሉ ምድሪ በትረፎም፣ ነቲ ከተማ ንኽሃንዱ ደቂ ኣቋሪጾም።",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "በትረፎም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ኣታቶም"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እቲ ምድሪ"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "ደቂ ኣቋሪጾም"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "ንኽሃንዱ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ነቲ ከተማ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:37:39.056728133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ያህዌህ ነፍሲ ቅኑዕ ኣይጠማዕራን፤ ስለምዚ ሓራምቲ ግን ይግደፎም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "ይጠማዕራን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ቅኑዕ"
+    },
+    {
+      "surface": "והות",
+      "gloss": "ከምኡውን ስለምዚ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ሓራምቲ"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "ይግደፎም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:45:51.523801769Z",
+  "model": "glm-5.3"
+}

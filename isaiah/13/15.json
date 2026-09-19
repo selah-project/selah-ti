@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኩሉ ዝርከብ ይተወጋዶ፣ ኩሉ ዝተታሒብ ብሰይፊ ይወድቕ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ዝርከብ"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "ይተወጋዶ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "ዝተታሒብ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ይወድቕ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ብሰይፊ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:48:16.029425315Z",
+  "model": "glm-5.3"
+}

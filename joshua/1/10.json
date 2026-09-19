@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "የሆሹዋዕ ድማ ⟨את⟩ ሸታራት ናይ ⟨እቲ⟩ ሕዝቢ ኣዘዘ እናበለ፦",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ኣዘዘ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሸታራት ሕዝቢ"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "ሸታራት"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ናይ ሕዝቢ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:36:30.295326604Z",
+  "model": "glm-5.3"
+}

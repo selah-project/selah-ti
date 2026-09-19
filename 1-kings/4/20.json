@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ይሁዳን እስራኤልን ብዙሓት፣ ከም እቲ ሑሉ እቲ ኣብ ባሕሪ ዘሎ ብብዝሒ፣ እናበልዑን እናሰትዩን እናደሓሩን እዮም።",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "ከም እቲ ሑሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ብብዝሒ"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "እናበልዑ"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "እናሰትዩ"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "እናደሓሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:49:40.025328831Z",
+  "model": "glm-5.3"
+}

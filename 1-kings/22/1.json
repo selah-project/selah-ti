@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ሰለስተ ዓመታት ነበረ፣ ኣብ መንጎ ኣራምን ኣብ መንጎ እስራኤልን ውግእ የለን።",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ነበረ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ውግእ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ከምኡውን ኣብ መንጎ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T01:14:02.734019070Z",
+  "model": "glm-5.3"
+}

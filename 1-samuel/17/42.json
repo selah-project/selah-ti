@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "እቲ ፍልስጤማዊ ጠመተ፣ ⟨את⟩ ዳዊድ ረኣዮ ድማ ኸቢዱ፤ ስለ ዝነበረ ውላድ፣ ቀይሕ፣ ምስ ውሉድ ምስሊ እዩ።",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "ጠመተ"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "እቲ ፍልስጤማዊ"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊድ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "ኸቢዱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ዝነበረ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "ቀይሕ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ውሉድ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ምስሊ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:09:00.177767440Z",
+  "model": "glm-5.3"
+}

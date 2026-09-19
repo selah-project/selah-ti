@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 53,
+  "translation": "ዝኾነ ምስ ⟨את⟩ ክፉኣት ብቐብሩ ሓሊፉ፣ ⟨את⟩ በዛዛውታን ድማ ኣብ ሞቱ፤ ስለ ዝኾነ ብዝሕ ኣይገበረን፣ ምትንካፍ ድማ ኣብ ኣፉ የለን።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሓሊፉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክፉኣት"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉኣት"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "ብቐብሩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "በዛዛውታን"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "በዛዛውታን"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "ኣብ ሞቱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ብዝሕ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "ድማ ኣይ…ን"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ምትንካፍ"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ኣብ ኣፉ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:18:29.950358034Z",
+  "model": "glm-5.3"
+}

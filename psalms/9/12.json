@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣብ ጽዮን ንዘይነብር ያህዌህ ዝምለኽዋ፣ ብሕዝብታት ተግባራቱ ኣፍሉ።",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ዝምለኽዋ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ንዘይነብር"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "ኣፍሉ"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "ብሕዝብታት"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ተግባራቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:39.264855971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 55,
+  "translation": "ንመሪጽ ዜማ፣ ብኣውዕቲ አብርሂ፣ ትምህርቲ ናይ ዳዊድ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንመሪጽ ዜማ"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ብኣውዕቲ አብርሂ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ትምህርቲ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:00.070073722Z",
+  "model": "glm-5.3"
+}

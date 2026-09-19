@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 14:31",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "እስራኤል ድማ ነቲ ዓብዪ ኢድ ⟨את⟩ እቲ ያህዌህ ኣብ ሚጽራይም ዝገበሮ ረኣዩ፤ ⟨እቲ⟩ ህዝቢ ድማ ነያህዌህ በረሃዮ፤ ኣብ ያህዌህን ኣብ ሞሸ ኣገልገልቱንን ኣመኑ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ረኣዩ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ዓብዪ ኢድ"
+    },
+    {
+      "surface": "היד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ዓብዪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበሮ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ኣብ ሚጽራይም"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "በረሃዮ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויאמינו",
+      "gloss": "ኣመኑ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ኣብ ያህዌህ"
+    },
+    {
+      "surface": "ובמשה",
+      "gloss": "ኣብ ሞሸን"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ኣገልገልቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:21:03.865979689Z",
+  "model": "glm-5.3"
+}

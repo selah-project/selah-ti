@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ያህዌህ ህዝብኻ ⟨את⟩ ኣድን፣ ውርሻኻ ⟨את⟩ ባርኺ፣ ርዓዮምን ክሳብ ዘለኣለም ስኣጎምን።",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "ኣድን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ህዝብኻ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ህዝብኻ"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ባርኺ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውርሻኻ"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ውርሻኻ"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "ርዓዮም"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "ስኣጎም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:55.781576207Z",
+  "model": "glm-5.3"
+}

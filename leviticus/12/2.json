@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 12:2",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ንውላድ እስራኤል ተዛረብ፦ ሰበይቲ ዘርኢ እንተ ተቐብያ ወዲ እንተ ወሊዓቶ፣ ከም መዓልታት ንጽልማት ሕማቓ ከምታ ኣይትንጹሕን፣ ሰባት መዓልታት ኣይትንጹሕን።",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תזריע",
+      "gloss": "ዘርኢ ተቐብያ"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "ወሊዓቶ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "ኸይትንጹሕ ኮይና"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "ከም መዓልታት"
+    },
+    {
+      "surface": "נדת",
+      "gloss": "ንጽልማት"
+    },
+    {
+      "surface": "דותה",
+      "gloss": "ሕማቓ"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "ኣይትንጹሕን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:54:59.538341764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ምስ እቲ ንጉስነት ናይ ርሑብዓም ምስ ተረጋገጸን ንሱውን ምስ ተጠናኸረን፣ ንቶራ ያህዌህ ⟨את⟩ ተሰዊኑ፣ ከምኡውን ኩሉ እስራኤል ምሳኡ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "ምስ ተረጋገጸ"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ንጉስነት"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ርሑብዓም"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "ንሱውን ምስ ተጠናኸረን"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "ተሰዊኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቶራ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ከምኡውን ኩሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምሳኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:01:50.287835641Z",
+  "model": "glm-5.3"
+}

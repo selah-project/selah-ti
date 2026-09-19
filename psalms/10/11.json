@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣብ ልቡ በለ፦ ኤል ረሲኡ፡ ገጹ ሓቢኡ፡ ንዘለኣለም ኣይረኣየን።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ኣብ ልቡ"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "ረሲኡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "ሓቢኡ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ገጹ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ረኣየን"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ንዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:41.701203774Z",
+  "model": "glm-5.3"
+}

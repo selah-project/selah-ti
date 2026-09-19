@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 37:25",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ወድሕሪኡ ⟨את⟩ መስዋእቲ ዕጣን ብዓንዲ ሽቲም ገበረ፤ እጓል ንውሕሰቱ፣ እጓል ንስፍሓቱ፣ ልኡኽ ኮይኑ፣ ክልተ እጓል ኽን ቁመቱ፤ ካብኡ ነቶም ቀርንያቱ ነይሮም።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መስዋእቲ ዕጣን"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መስዋእቲ"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ዕጣን"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ዓንዲ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ሽቲም"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "እጓል"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ንውሕሰቱ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "እጓል"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ንስፍሓቱ"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "ልኡኽ"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "ክልተ እጓል"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ኽን ቁመቱ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነይሮም"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ቀርንያቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:43:07.288937554Z",
+  "model": "glm-5.3"
+}

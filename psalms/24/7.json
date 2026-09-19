@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ኣልዕሉ ርእሲኹም ንስኻትኩም ኣፍራሳት፤ ተወሳእኹምውን ኩሉ ዘመን ኣፍራሳት፤ ንጉስ ናይ ክብሪ ድማ ይኣቱ እዩ።",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ኣልዕሉ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ንስኻትኩም ኣፍራሳት"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "ርእሲኹም"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "ተወሳእኹምውን"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "ኣፍራሳት"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ኩሉ ዘመን"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ይኣቱ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ናይ ክብሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:48.618785375Z",
+  "model": "glm-5.3"
+}

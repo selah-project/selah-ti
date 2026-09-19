@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 74,
+  "translation": "ድሕሪኡ ⟨את⟩ ቍጸራቱ ብሓባር ብሳፉታትን ብመወጣኢታትን ይበትርዎ።",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "ድሕሪኡ"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "ቍጸራቱ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ብሓባር"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "ብሳፉታት"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "ብመወጣኢታትን"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "ይበትርዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:53.429328246Z",
+  "model": "glm-5.3"
+}

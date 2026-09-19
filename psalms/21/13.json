@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ምኽንያቱ ንሳቶም ኮረብታ ትገብሮም፣ ብጠንቁቕትኻ ኣብ ገጾም ትዳሉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "ትገብሮም"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ኮረብታ"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "ብጠንቁቕትኻ"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "ትዳሉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ገጾም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:27.620281824Z",
+  "model": "glm-5.3"
+}

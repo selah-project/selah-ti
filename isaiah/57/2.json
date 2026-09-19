@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 57,
+  "translation": "ሰላም ይኣቱ፣ ኣብ መንበሮም ይዕርፉ፤ ነፍሲ ወከፍ ኣብ ቐጥታኡ ዝኸደ እዩ።",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "ይኣቱ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "ይዕርፉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "መንበሮም"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ዝኸደ"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "ኣብ ቐጥታኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:20:15.994728357Z",
+  "model": "glm-5.3"
+}

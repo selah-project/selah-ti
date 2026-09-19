@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 164,
+  "ref": "psalms 119:164",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኣብ መዓልቲ ሸውዓተ ግዜ ስለ ፍርዲታት ጽድቂኻ መስገንኩኻ።",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "ሸውዓተ ግዜ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "הללתיך",
+      "gloss": "መስገንኩኻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ፍርዲታት"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ጽድቂኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:01.029713935Z",
+  "model": "glm-5.3"
+}

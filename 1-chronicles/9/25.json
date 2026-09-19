@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 9:25",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣሕዎምን ኣብ ዓዲቶም፣ ንሰባት መዓልታት ካብ ግዜ ናብ ግዜ ምስ እዚኦም ብዙርያ ይኣቱ ነይሮም።",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "ኣሕዎምን"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "ኣብ ዓዲቶም"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ንኽኣቱ"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ንሰባት"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "ካብ ግዜ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ግዜ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:37:41.181673059Z",
+  "model": "glm-5.3"
+}

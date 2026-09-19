@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "ምኽንያቱ ስሉሳት ከም ዝሞቱ ይረኣየ፣ ንዑቕን እንስሳን ብሓባር ይጠፍኡ፣ ሃብቶም ንኻልኦት ድማ ይሓልዉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ይረኣየ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ስሉሳት"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "ዝሞቱ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ብሓባር"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ንዑቕ"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "እንስሳን"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ይጠፍኡ"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "ይሓልዉ"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "ንኻልኦት"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ሃብቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:27.420557159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ያህዌህ ድማ ካብ እስራኤል ርእሲን ጭራን ደቀቕን ኣግሞንን ኣብ ሓደ መዓልቲ ቐረጸ።",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "ቐረጰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ካብ እስራኤል"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲን"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "ጭራን"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ደቀቕን"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "ኣግሞንን"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:49:59.543172376Z",
+  "model": "glm-5.3"
+}

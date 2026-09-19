@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ንስኻቶም ድማ ⟨את⟩ ጠላትኩም ተኽተሉ፣ እቶም ድማ ብሰይፊ ቅድሚኹም ኪወድቑ እዮም።",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "ተኽተሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጠላትኩም"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ጠላትኩም"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ኪወድቑ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ቅድሚኹም"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ብሰይፊ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:08:31.395700956Z",
+  "model": "glm-5.3"
+}

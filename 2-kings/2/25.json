@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ካብኡ ድማ ናብ ተራሕ ከርመል ከደ፣ ካብኡ ድማ ናብ ሽምሮን ተመለሰ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራሕ"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "ከርመል"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ካብኡ ድማ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ሽምሮን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:10:46.338054808Z",
+  "model": "glm-5.3"
+}

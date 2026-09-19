@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ከምኡውን ⟨את⟩ ነቶም ኣብ ደጋፍቲ ንጸባኦት ሰማያት ዝሰገዱ፣ ⟨את⟩ ነቶም ዝሰገዱ ነቶም ብያህዌህ ዝቐርሱን ብንጉሶም ዝቐርሱን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ዝሰገዱ"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "ነቶም ዝሰገዱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "ደጋፍቲ"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "ንጸባኦት"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ዝሰገዱ"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "ነቶም ዝሰገዱ"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "ዝቐርሱ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ብያህዌህ"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "ዝቐርሱን"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "ብንጉሶም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:31:45.062506356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "እወ ኤሎሂም ርእሲ ጠላሕቱ ይስብር፤ ተሪብ ርእሲ ኣብ በደሉ ዝመላለስ ንሳቑ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "እወ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "ይስብር"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ጠላሕቱ"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "ላዕሊ ርእሲ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ተሪብ"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "ዝመላለስ"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "ኣብ በደሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:21.140567914Z",
+  "model": "glm-5.3"
+}

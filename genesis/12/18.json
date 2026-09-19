@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 12:18",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ፓርዖ ድማ ነታ ኣቭራሃም ኣስዒቡ፦ «እንታይ እዚ ነገር ንዓይ ገበርካ? ስለመይ ኣይነገርካኒን እታ ሰበይትካ ምዃና?» በሎ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ኣስዒቡ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "ነታ ኣቭራሃም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ገበርካ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ስለመይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "ነገርካኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "ሰበይትካ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ምዃና"
+    }
+  ],
+  "timestamp": "2026-09-19T08:24:20.929039262Z",
+  "model": "glm-5.3"
+}

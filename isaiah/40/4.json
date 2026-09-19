@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ኹሉ ማዕበል ይረፍእ፣ ኩሉ ከረቢን ጀራሓን ድማ ይውሕዙ፤ እቲ ዝተጠብአ ንጽፉሕ ክኸውን እዩ፣ እቶም ከራስታት ድማ ንሸፈታ ክኾኑ እዮም።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "ማዕበል"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "ይረፍእ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ ድማ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ከረቢ"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "ጀራሓ"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "ይውሕዙ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ክኸውን እዩ"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "ዝተጠብአ"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "ንጽፉሕ"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "እቶም ከራስታት"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "ንሸፈታ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:10:33.718932013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 27:26",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ኣብ ብዙሓት ማይ ሰቓቒትኺ ኣእተያ፤ ⟨את⟩ ንስኺ ስንፋር ቀላው ኣብ ልቢ ባሕራት ሰባረኪ።",
+  "tokens": [
+    {
+      "surface": "במים",
+      "gloss": "ኣብ ማይ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "הביאוך",
+      "gloss": "ኣእተያ"
+    },
+    {
+      "surface": "השטים",
+      "gloss": "ሰቓቒትኺ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ንስኺ — ኣብ ትሕቲ ስንፋር ቀላው ዝወረደላ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ስንፋር"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ቀላው"
+    },
+    {
+      "surface": "שברך",
+      "gloss": "ሰባረኪ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ኣብ ልቢ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ባሕራት"
+    }
+  ],
+  "timestamp": "2026-09-19T03:44:28.232138479Z",
+  "model": "glm-5.3"
+}

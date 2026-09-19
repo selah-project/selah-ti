@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ሓደ ኣኽቢ ምስ ዕረፍቲ፣ ካብ ክልተ እዳት ምልእቲ ምስ መከላኸለን ኣስቐይቲ ንፋስን ዝበለጸ እዩ።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ዝበለጸ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ምልእቲ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ኣኽቢ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ዕረፍቲ"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "ካብ ምልእቲ"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "እዳት"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "መከላኸለ"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ኣስቐይቲ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ንፋስ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:40:51.524771905Z",
+  "model": "glm-5.3"
+}

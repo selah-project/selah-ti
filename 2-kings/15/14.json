@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 15:14",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ምናሔም ወዲ ጋዲ ካብ ቲርጻህ ወጺኡ ናብ ሽሞሮን ድማ በጺሑ፣ ⟨את⟩ ሻሎም ወዲ ያቤሽ ኣብ ሽሞሮን ሰቲሩ ቀተሎ ኣብ ድሕሪኡ ከኣ ተነግሰ።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ወጺኡ"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "ምናሔም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "׌ዲ"
+    },
+    {
+      "surface": "מתרצה",
+      "gloss": "ካብ ቲርጻህ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "በጺሑ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ናብ ሽሞሮን"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ሰቲሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሻሎም ወዲ ያቤሽ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሻሎም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "ያቤሽ"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ኣብ ሽሞሮን"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ቀተሎ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ተነግሰ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ኣብ ድሕሪኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:27:59.342230467Z",
+  "model": "glm-5.3"
+}

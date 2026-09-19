@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ነቶም ⟨את⟩ ናብ እቲ ካህን ኪዛርዑ፣ እቲ ካህን ድማ ነቲ ⟨את⟩ ዝኾነ ንወፈያ ሓጢያት ቅዳማይ ይቕርብ፣ ንርእሱ ድማ ⟨את⟩ ኣብ ቅድሚ ኣንገቱ ኪቑረጽ፣ ኣይክፋለምን።",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ኪዛርዑ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ካህን"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ይቕርብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝኾነ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ንወፈያ ሓጢያት"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "ቅዳማይ"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "ይቑርጽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ርእሱ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ርእሱ"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "ኣንገቱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "ይክፋለም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:51:24.420600236Z",
+  "model": "glm-5.3"
+}

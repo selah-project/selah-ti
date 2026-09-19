@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 77,
+  "translation": "ኣጽራይ ኣይኒ ከም ዝቕመጡ ሓዚካዮም፣ ተንቐጥቐጠኩ እየ እኳ ኣይዛረብን እየ።",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "ሓዚካዮም"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "ኣጽራይ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ኣይኒ"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "ተንቐጥቐጠኩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ዛረብን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:56.051775149Z",
+  "model": "glm-5.3"
+}

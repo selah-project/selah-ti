@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ነቲ ማዕተር ድማ ⟨את⟩ ንኽእለታቱ ተኸፋሊዑ፤ ሞሸ ድማ ⟨את⟩ ርእሲኡን ⟨את⟩ ኽእለታትኡን ⟨את⟩ ስቓይኡን ኣብ ሓዊ ኣታሕዩ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ማዕተር"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ነቲ ማዕተር"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "ተኸፋሊዑ"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "ንኽእለታቱ"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ኣታሕዩ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ርእሲኡ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ርእሲኡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኽእለታትኡ"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "ኽእለታትኡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስቓይኡ"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "ስቓይኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:53:06.940111425Z",
+  "model": "glm-5.3"
+}

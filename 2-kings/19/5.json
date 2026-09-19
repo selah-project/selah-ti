@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "እቶም ኣገልጋሊ ንጉስ ሕዝቕያሁ ድማ ናብ የሽዓያሁ መጹ።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "መጹ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልጋሊ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ሕዝቕያሁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "የሽዓያሁ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:31:47.386190396Z",
+  "model": "glm-5.3"
+}

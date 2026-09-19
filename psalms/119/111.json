@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ርድኣትካ ናብ ዘለኣለም ወረደኒ፣ እቶም እሞ ዕገሻ ልቢ እዮም።",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "ወረደኒ"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ርድኣትካ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ዕገሻ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:50.078527532Z",
+  "model": "glm-5.3"
+}

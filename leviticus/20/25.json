@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 20:25",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ንስኻትኩም ኣብ መንጎ ⟨the⟩ እቲ ንጹህ እንስታይን ⟨the⟩ እትሓመቕን፣ ከምኡውን ኣብ መንጎ ⟨the⟩ እትሓመቕ ዑፍን ⟨the⟩ ንጹህን ተለዩ፤ ብእንስታይ፣ ብዑፍ፣ ወይ ብዝኾነ ኣብ ምድሪ ዝሰጉሕ ነገር ⟨את⟩ ነፍሲኩም ኣይትጥፍኡን፤ እቲ ናብኩም ንኽትሓሙ ዝተለየ እዩ።",
+  "tokens": [
+    {
+      "surface": "והבדלתם",
+      "gloss": "ተለዩ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "እንስታይ"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "ንጹህ"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "እትሓመቕ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ከምኡውን ኣብ መንጎ"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ዑፍ"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "እትሓመቕ"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ንጹህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "ኣይትጥፍኡን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሲኩም"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ነፍሲኩም"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "ብእንስታይ"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "ብዑፍ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ብዝኾነ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "ዝሰጉሕ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "הבדלתי",
+      "gloss": "ዝተለየ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ናብኩም"
+    },
+    {
+      "surface": "לטמא",
+      "gloss": "ንኽትሓሙ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:02:48.167811585Z",
+  "model": "glm-5.3"
+}

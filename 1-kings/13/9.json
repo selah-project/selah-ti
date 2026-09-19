@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ስለዚ ብቃል ያህዌህ ⟨אתי⟩ ከምዚ ተኣዚዙኒ ኢሉ፦ «በልዐ ኣይትብልዕን፣ ማይ ኣይትሰትየን፣ ኣብ እቲ ዝኸደካ እቲ መገዲ ከኣ ኣይትምለስን» በለ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ተኣዚዙኒ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ብቃል"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ብቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ተብልዕ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "በልዐ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ተሰተየ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ተምለስ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መገዲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "ኸደካ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:43:36.480737814Z",
+  "model": "glm-5.3"
+}

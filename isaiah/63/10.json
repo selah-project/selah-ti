@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 63:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 63,
+  "translation": "ንሳቶም ግን ኣመጹ፣ ⟨את⟩ መንፈስ ቅዱስኡ ሓዚዎም፤ ንጠላእቲ ኮይኑ ተቐየረሎም፣ ንሱ ድማ ተዓጊቱሎም።",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "ኣመጹ"
+    },
+    {
+      "surface": "ועצבו",
+      "gloss": "ሓዚዎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንፈስ ቅዱስኡ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስኡ"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "ተቐየረ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ሎም"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "ንጠላእቲ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ተዓጊቱ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ምሳኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:22:29.310304275Z",
+  "model": "glm-5.3"
+}

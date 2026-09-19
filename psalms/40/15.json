@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ነፍሰይ ንኽጥፍኡዋ እቶም ዝደልዩ ብሓባር ይሕፉሩን ይጽግሩን፤ ክፉእ ኣብ ደይ እቶም ዝደልዩ ናብ ድሕሪ ይምለሱን ይጸልሙን።",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ይሕፉሩ"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ይጽግሩ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ብሓባር"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "እቶም ዝደልዩ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "ንኽጥፍኡዋ"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "ይምለሱ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ናብ ድሕሪ"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ይጸልሙ"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "እቶም ዝደልዩ"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ክፉእ ኣብ ደይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:53.744969430Z",
+  "model": "glm-5.3"
+}

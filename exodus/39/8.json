@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ነቲ ሕብረት ልቢ ⟨את⟩ ብተዓዊቡ ጽሑፍ ከም ጽሑፍ ኤፑዳ ገበረ፦ ወርቂ፣ ትኩለትን ኣርጋማንን፣ ቀይሕ ትልቲን፣ ዝተሸቐበ ሐርጂን።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕብረት ልቢ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ሕብረት ልቢ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ጽሑፍ"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ተዓዊቡ"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ከም ጽሑፍ"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "ኤፑዳ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ትኩለት"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ኣርጋማን"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ትልቲ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ቀይሕ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ሐርጂ"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ዝተሸቐበ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:45:08.023722602Z",
+  "model": "glm-5.3"
+}

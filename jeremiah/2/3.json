@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ቅዱስ እስራኤል ናይ ያህዌህ ⟨እዩ⟩፣ ቀዳማይ ፍረ ናይ ተረፋቱ ተባዕታይ፤ ኩሉ ዝበልዖ ተኣሚን እዩ፣ እሱር ነቶም ክመጽእ እዩ፣ በለ ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ናይ ያህዌህ"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ቀዳማይ ፍረ"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ናይ ተረፋቱ ተባዕታይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "ዝበልዖ"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ተኣሚን እዩ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "እሱር"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ክመጽእ እዩ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:28:05.114168796Z",
+  "model": "glm-5.3"
+}

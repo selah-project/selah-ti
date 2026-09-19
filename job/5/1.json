@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ሕጂ ጸውዕ — እንተ ኣሎ ዝምልሰልካ? ንመን ካብ ቅዱሳት ድማ ትምለስ?",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "ጸውዕ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "היש",
+      "gloss": "እንተ ኣሎ"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "ዝምልሰልካ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "ትምለስ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:06:32.327727772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "እቲ ነገር ኣብ ዓይኒ እቲ ንጉሥን ኣብ ዓይኒ ኩሉ ጉባኤን ተኸኣለ።",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "ተኸኣለ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ነገር"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ ዓይኒ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉሥን"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ኣብ ዓይኒ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ጉባኤን"
+    }
+  ],
+  "timestamp": "2026-09-19T08:18:07.514338395Z",
+  "model": "glm-5.3"
+}

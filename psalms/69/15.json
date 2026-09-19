@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "«ካብ ሕፍሊ ናጽአኒ፣ ኣይንቐልብሕን፤ ካብ ዝቐንጡኒ ንናጽአኒ፣ ካብ ቐሊሉ ማይ ድማ ወጺኡ ንውጸአኒ።»",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ናጽአኒ"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "ሕፍሊ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "ኣይንቐልብሕን"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "ንናጽአኒ"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "ዝቐንጡኒ"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "ካብ ቐሊሉ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:22.154496543Z",
+  "model": "glm-5.3"
+}

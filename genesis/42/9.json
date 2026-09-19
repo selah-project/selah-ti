@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 42:9",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ዮሴፍ ⟨את⟩ እተን ነቶም ዝራኣዮም ስነ-ቀሲው ተዘከረ፤ ነቶም ድማ፦ «ተመልከትቲ ኢኹም፤ ⟨את⟩ ሓፍረት እቲ ምድሪ ክትርእዩ መጺኹም» በሎም።",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "ተዘከረ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እተን ስነ-ቀሲው"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "እተን ስነ-ቀሲው"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እተን"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "ዝራኣዮም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎም"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ተመልከትቲ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ኢኹም"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ክትርእዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓፍረት እቲ ምድሪ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ሓፍረት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እቲ ምድሪ"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "መጺኹም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:02:59.165847651Z",
+  "model": "glm-5.3"
+}

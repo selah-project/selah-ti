@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "እሞ ኣብ እዚ መዓልቲ እዚ ስሓት ኣብ ልዕለኹም ትግበር ንኽትንጽሑ ካብ ኩሉ ኃጢኣትኹም፤ ኣብ ቅድሚ יהוה ትንጹራት ክትከውኑ ኢኹም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ስሓት ትግበር"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ኣብ ልዕለኹም"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ንኽትንጽሑ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ንኹም",
+      "marks": "ካብ ኩሉ ኃጢኣትኹም"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "ኃጢኣትኹም"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "ትንጹራት ክትከውኑ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:00:45.311783389Z",
+  "model": "glm-5.3"
+}

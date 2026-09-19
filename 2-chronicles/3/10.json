@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣብ ቤት ቅዱስ ኣብ ቅዱሳት ድማ ክልተ ኩሩቤላት ብግብሪ ቅርጺ ገበረ፤ ⟨את⟩ ኩሩቤላት ድማ ብወርቂ ተሸፈኑ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ኣብ ቅዱሳት"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "ኩሩቤላት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ግብሪ"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "ቅርጺ ተስቕሲቑ"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "ተሸፈኑ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ክልተ ኩሩቤላት"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ብወርቂ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:55:38.167683768Z",
+  "model": "glm-5.3"
+}

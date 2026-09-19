@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "እቲ መዓልቲ እዚ ንስኻቶም ኣብ ወርሒ ኣቢብ ትወጹ ኢኹም።",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "እቲ መዓልቲ እዚ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ንስኻቶም"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "ትወጹ ኢኹም"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ኣብ ወርሒ"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "ኣቢብ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:22:28.865947694Z",
+  "model": "glm-5.3"
+}

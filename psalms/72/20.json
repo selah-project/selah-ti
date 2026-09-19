@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 72,
+  "translation": "ተዛዚምወን እየን እተን ትሕቲታት ናይ ዳዊድ ወዲ የሴ።",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "ተዛዚምወን"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "ትሕቲታት"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "የሴ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:46.297468661Z",
+  "model": "glm-5.3"
+}

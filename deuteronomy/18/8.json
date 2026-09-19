@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ክፋል ከም ክፋል ይበልዑ፤ ካብ ዝሸጦ ወጻኢ ብኣቦታት።",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "ክፋል"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "ከም ክ፫ል"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ይበልዑ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ወጻኢ"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "ካብ ዝሸጦ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ኣቦታት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:59:50.225531710Z",
+  "model": "glm-5.3"
+}

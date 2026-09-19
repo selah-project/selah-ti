@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "እቲ ከተማ ከኣ ተታሒብዋ ነይራ፣ ክሳብ ዓሰርተ ሓደ ዓመት ናይ ንጉስ ጽድቕያሁ።",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ኣትያ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እቲ ከተማ"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "ተታሒብዋ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ጽድቕያሁ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:42:32.987199645Z",
+  "model": "glm-5.3"
+}

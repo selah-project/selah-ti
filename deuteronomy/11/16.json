@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 11:16",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ንስኻትኩም ተጠንቐቑ፣ ልብኩም ከይተቓለለኩም ተዘይሩምን ካልኦት ኣማልኽቲ ተገልገልኩምን ንሳቶም ተሰገድኩምን ከይኸውኑ።",
+  "tokens": [
+    {
+      "surface": "השמרו",
+      "gloss": "ተጠንቐቑ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንስኻትኩም"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ከይ"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "ይተቓልለ"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ልብኩም"
+    },
+    {
+      "surface": "וסרתם",
+      "gloss": "ተዘይሩም"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "ተገልገልኩም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኣማልኽቲ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ካልኦት"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "ተሰገድኩም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንሳቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:33:53.192295444Z",
+  "model": "glm-5.3"
+}

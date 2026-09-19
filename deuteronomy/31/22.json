@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ሞሸ ድማ ⟨את⟩ እታ መዝሙር እዚኣ ኣብ እቲ መዓልቲ ጸሓፈ፣ ⟨את⟩ ውላድ እስራኤል ድማ እናተማሃርዎ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ጸሓፈ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ መዝሙር"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "እታ መዝሙር"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚኣ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "እናተማሃርዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T23:14:02.021773156Z",
+  "model": "glm-5.3"
+}

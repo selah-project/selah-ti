@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ነይ ንያህዌህ ኤሎሂምኩም ከምኡ ኣትይቱ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ነይ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ኣትይቱ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:56:57.474814446Z",
+  "model": "glm-5.3"
+}

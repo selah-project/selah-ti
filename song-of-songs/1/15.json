@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣሮ ጽብቕቲ እካዕ ኢኻ፣ ማሕበረይ፣ ኣሮ ጽብቕቲ እካዕ ኢኻ፣ እዝኒኻ ድብዪታት እየን።",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "ኣሮ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ጽብቕቲ እካዕ ኢኻ"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ማሕበረይ"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ኣሮ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ጽብቕቲ እካዕ ኢኻ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "እዝኒኻ"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "ድብዪታት እየን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:26:24.654223078Z",
+  "model": "glm-5.3"
+}

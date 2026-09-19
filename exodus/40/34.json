@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "እቲ ደመና ⟨את⟩ ድኻም ምጉባእ ሓኪሙ፣ ክብሪ ያህዌህ ድማ ⟨את⟩ እቲ ማሕደር ምሊኡ።",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "ሓኪሙ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "እቲ ደመና"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድኻም ምጉባእ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድኻም"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ምጉባእ"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ክብሪ ድማ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ምሊኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ማሕደር"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "እቲ ማሕደር"
+    }
+  ],
+  "timestamp": "2026-09-18T21:46:30.294986402Z",
+  "model": "glm-5.3"
+}

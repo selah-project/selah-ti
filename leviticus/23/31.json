@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 23:31",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ኩሉ ግብሪ ኣይትገብሩን፤ ሕጊ ዘለኣለም ንትውልዳትኩም ኣብ ኩሉ መንበርታትኩም እዩ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ግብሪ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ...ን"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ትገብሩ"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ሕጊ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ንትውልዳትኩም"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "መንበርታትኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:06:34.311225313Z",
+  "model": "glm-5.3"
+}

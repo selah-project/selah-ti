@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ከምኡውን እዚኦም እቶም ስማት ⟨the⟩ ኣባላት እቶም ምስ ንስኻትኩም ⟨את⟩ ኪቐመጡ እዮም፤ ናይ ራኡቤን፣ ኤሊጽሪ ወዲ ሽደያውር።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ከምኡውን እዚኦም"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ስማት"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ኣባላት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ኪቐመጡ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ምስ",
+      "marks": "ንስኻትኩም"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "ናይ ራኡቤን"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "ኤሊጽሪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "ሽደያውር"
+    }
+  ],
+  "timestamp": "2026-09-18T22:09:00.633803121Z",
+  "model": "glm-5.3"
+}

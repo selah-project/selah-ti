@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣሽቶን ድማ ⟨את⟩ ቤት-ራፋን ⟨את⟩ ፓሴኻን ⟨את⟩ ተሕናን ወለደ፤ እቲ ናይ ዓይኒ-ናኽሽ ኣቦ እዩ፤ እዚኦም ሰባት ረኻ እዮም።",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "ኣሽቶን"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት-ራፋ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "ራፋ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ፓሴኻ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ፓሴኻ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ተሕና"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "ተሕና"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ዓይኒ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ናኽሽ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "ረካ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:32:43.167526717Z",
+  "model": "glm-5.3"
+}

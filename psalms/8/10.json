@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ያህዌህ ኣዶናይና፣ ስምካ ኣብ መላእ ምድሪ ብዘይ ምድርኣይ ዓቢ እዩ!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "ኣዶናይና"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ብዘይ ምድርኣይ"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምካ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ መላእ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:00.727036061Z",
+  "model": "glm-5.3"
+}

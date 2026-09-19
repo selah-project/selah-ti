@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 73,
+  "translation": "ኣነ ግና ኩሉ ግዜ ምስ ኣኻ እየ፤ ብኢድ የማንነይ ኸደካኒ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ግና"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ኩሉ ግዜ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስ ኣኻ"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "ኸደካኒ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "የማን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:00.256983365Z",
+  "model": "glm-5.3"
+}

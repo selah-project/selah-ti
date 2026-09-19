@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ኰነ ኸኣ፡ ኣብቲ ንሜራብ ወንሺ ሻኡል ንዳዊድ ⟨את⟩ ንኽትሃብሉ ዝግበር እዋን፡ ንሳ ድማ ንዓድርኤል እቲ ምኽልኻላይ ከም ሰበይቲ ተዋህበቶ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኰነ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ኣብቲ እዋን"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ንኽትሃብሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሜራብ"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ሜራብ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ወንሺ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ንዳዊድ"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ንሳ ድማ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ተዋህበቶ"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "ንዓድርኤል"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "እቲ ምኽልኻላይ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ከም ሰበይቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:11:10.836037644Z",
+  "model": "glm-5.3"
+}

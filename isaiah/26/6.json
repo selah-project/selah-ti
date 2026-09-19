@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "እግሪ ከታሕታታ፣ እግራት ደሃታትን ኣልቦታትን ኣጭቡኡን።",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "ከታሕታታ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "እግሪ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "እግራት"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ደሃታት"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ኣጭቡኡ"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ኣልቦታት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:56:19.076127941Z",
+  "model": "glm-5.3"
+}

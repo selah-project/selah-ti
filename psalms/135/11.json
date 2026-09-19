@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 135,
+  "translation": "ነቲ ሲሕውን ንጉስ ኣሞራይ፣ ነቲ ዓውግ ንጉስ ባሻን፣ ነቲ ኹሉ መንግስታት ከነዓን።",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "ነቲ ሲሕውን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ኣሞራይ"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "ነቲ ዓውግን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "𐠁ንጉስ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ባሻን"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ነቲ ኹሉን"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "መንግስታት"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዓን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:31.748681703Z",
+  "model": "glm-5.3"
+}

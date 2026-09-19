@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 5:2",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "እሞ ይሁዳ ብኣሕዋቱ ዓቢ ኮይኑ ኸደ፣ መሪሕ ኾነ ካብኡ፣ ናይ በኪራ ውርሻ ድማ ንዮሴፍ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ዓቢ ኮይኑ ኸደ"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "ብኣሕዋቱ"
+    },
+    {
+      "surface": "ולנגיד",
+      "gloss": "ንመሪሕ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "והבכרה",
+      "gloss": "ናይ በኪራ ውርሻ"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "ንዮሴፍ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:32:32.049225321Z",
+  "model": "glm-5.3"
+}

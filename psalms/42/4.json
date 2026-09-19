@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ክርሲአይ ኣብ መዓልትን ለይትን ናብዓይ እኽሊ ኮይና ነይራ፣ ኰሎም ብዘለውኒ «ኣበይ እቲ ኤሎሂምካ?» እናበሉኒ።",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "ነይራ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ናብዓይ"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "ክርሲአይ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ኣብ መዓልት"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ንለይት"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "እናበሉ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ኣብዓይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኰሎም"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ብዘለውኒ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ኣበይ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "እቲ ኤሎሂምካ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:47.176585176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ረኣይኩ ⟨את⟩ ኹሉ እቲ ኣብ ትሕቲ ፀሓይ ዝተገበረ ተግባራት፤ እንሆ ኩሉ ስንፍናን ምስዓብ መንፈስን እዩ።",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ረኣይኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "ተግባራት"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "ዝተገበረ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ትሕቲ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሓይ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ስንፍና"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ምስዓብ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:39:44.113177524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 144,
+  "translation": "ናይ ዳዊድ። ብሩኽ ዮ ያህዌህ እቲ እሽቶይ ኣምላኽ፣ እቲ ኢደይ ንውግእ ዝምሃደኒ፣ ጠጕርተይ ድማ ንመዓልቲ ውግእ ዝምሃደኒ።",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ብሩኽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "እሽቶይ ኣምላኽ"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "ዝምሃደኒ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ኢደይ"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "ንውግእ"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "ጠጕርተይ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ንመዓልቲ ውግእ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:20.517777145Z",
+  "model": "glm-5.3"
+}

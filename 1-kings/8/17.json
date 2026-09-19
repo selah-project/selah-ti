@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 8:17",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ምስ ልቢ ዳዊድ ኣቦይ ንስም ያህዌህ ኤሎሂም ይስራኤል ቤት ንኽብኖ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦይ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ንኽብኖ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ንስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T00:55:41.961793581Z",
+  "model": "glm-5.3"
+}

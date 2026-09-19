@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 108,
+  "translation": "ኦ ኤሎሂም፣ ኣብ ላዕሊ ሰማያት ተዓቢ፤ ክብሪኻ ከኣ ኣብ ላዕሊ ኩሉ ምድሪ።",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "ተዓቢ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ከኣ ኣብ ላዕሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ክብሪኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:39.621406822Z",
+  "model": "glm-5.3"
+}

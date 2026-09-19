@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 7:7",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ንኣዳራሽ ዓቢ ኣብ ዝፈርድ ኣብኡ ኣዳራሽ ፍርዲ ኣሰርሖ፤ ብኣርዝ ድማ ተሸፈነ ካብ ምድሪ ክሳብ ምድሪ",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ንኣዳራሽ ዓቢ"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ኣብ ዝፈርድ"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ዝፈርድ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ኣዳራሽ"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ፍርዲ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ኣሰርሖ"
+    },
+    {
+      "surface": "וספון",
+      "gloss": "ተሸፈነ ድማ"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "ብኣርዝ"
+    },
+    {
+      "surface": "מהקרקע",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:52:30.700775297Z",
+  "model": "glm-5.3"
+}

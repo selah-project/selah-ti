@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ነቲ ⟨את⟩ ዘርኢኻ ድማ ከም ክብርቲ ምድሪ ኣገባብዕዎ፤ ሰብ ⟨את⟩ ክብርቲ ምድሪ ክቆጥሮ እንተ ደልዩዎ፣ ኵሉ ዘርኢኻ ክቑጸር እዩ።",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ኣገባብዕዎ ድማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዘርኢኻ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ዘርኢኻ"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "ከም ክብርቲ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ክቆጥሮ እንተ ደልዩዎ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "ክቆጥሮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክብርቲ ምድሪ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ክብርቲ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ኵሉ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ዘርኢኻ"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "ክቑጸር እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:37:25.298236456Z",
+  "model": "glm-5.3"
+}

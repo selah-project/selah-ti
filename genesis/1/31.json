@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኤሎሂም ድማ ⟨את⟩ ኹሉ ዝገበሮ ረኣየ፤ እንሆ ብጣዕሚ ጽቡእ እዩ፤ ድማ በዓልማቲ ኮነ፣ ድማ ደርሆ ኮነ፤ መዓልቲ ሽድሽተ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ ዝገበሮ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝገበሮ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡእ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "በዓልማቲ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ደርሆ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ሽድሽተ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:29:32.883126302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "ጽድቂ ተወዲብካዮ፣ ክፉእ ድማ ሰሓብካዮ፤ ስለዚ ኤሎሂም፣ ኤሎሂምካ፣ ካብ መሓይሻኻ ብዘተ ሓልዮት ቐበነካ።",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ተወዲብካዮ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "ሰሓብካዮ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "ቐበነካ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘተ"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ሓልዮት"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "ካብ መሓይሻኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:00:34.279714226Z",
+  "model": "glm-5.3"
+}

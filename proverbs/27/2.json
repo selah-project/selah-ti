@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ኣጀንቢ ይመስግንካ፣ ንስኻ ግን ኣፍካ ኣይኮነን፤ ረጒድ ይመስግንካ፣ ከኣትትካ ድማ ኣይኮነን።",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "ይመስግንካ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ኣጀንቢ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ኣፍካ"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "ረጒድ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ከኣትትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:58:03.928940122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ገጹን ⟨את⟩ ናብ እቲ ግድግዳ በለሶ፣ ናብ ያህዌህ ድማ ተሰለ፣ ከምዚ ብሎ፦",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "በለሶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገጹን"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ገጹን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "እቲ ግድግዳ"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ተሰለ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ከምዚ ብሎ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:36:37.587895024Z",
+  "model": "glm-5.3"
+}

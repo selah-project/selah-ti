@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "እቲ ሰብ ከም ዝበሎ ዮሴፍ ገበረ፣ እቲ ሰብ ድማ እቶም ተባዕታይ ሰባት ⟨את⟩ ናብ ቤት ዮሴፍ ኣእተዮም።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ዝበሎ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ኣእተዮም"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ተባዕታይ ሰባት"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "እቶም ተባዕታይ ሰባት"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ናብ ቤት"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:04:08.143920216Z",
+  "model": "glm-5.3"
+}

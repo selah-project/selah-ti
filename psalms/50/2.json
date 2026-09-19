@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ካብ ጽሮን፣ ምሉእቲ ብጽቡቕነት፣ ኤሎሂም በረኸተ።",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "ካብ ጽሮን"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "ምሉእቲ"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "ብጽቡቕነት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "በረኸተ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:01:57.342131925Z",
+  "model": "glm-5.3"
+}

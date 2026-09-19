@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ካብ እኽሊ ስጥም ባድታት ተወዳዲርካ፣ ነፍሰን ብወርቂ ⟨את⟩ ኣኽተለን።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ተወዳዲርካ"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "ባድታት"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ናዥ እኽሊ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ስጥም"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ኣኽተለን"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሰን"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ብወርቂ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:31:26.890536886Z",
+  "model": "glm-5.3"
+}

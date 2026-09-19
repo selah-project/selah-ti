@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ኢዮብ ድማ ⟨את⟩ ያህዌህ ተዛረበ እናበሎ፦",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኢዮብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እናበሎ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:26:01.838373208Z",
+  "model": "glm-5.3"
+}

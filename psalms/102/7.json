@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 102,
+  "translation": "ከም ቆራብ ምድረ በዳ ተመሳሰልኩ፣ ከም ኩዝሓ ጥፍኣታት ኮይና።",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "ተመሳሰልኩ"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "ከም ቆራብ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ምድረ በዳ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ኮይና"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "ከም ኩዝሓ"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ጥፍኣታት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:10.923589119Z",
+  "model": "glm-5.3"
+}

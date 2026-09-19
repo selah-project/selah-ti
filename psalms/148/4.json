@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 148,
+  "translation": "ሰማያት ናይ ሰማያት ሰብሕዉዎ፣ እቶም ማይ ኣብ ልዕሊ ሰማያት ዘለዉ ሰብሕዉዎ።",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ሰብሕዉዎ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ሰማያት ናይ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "ማይን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:26.405550101Z",
+  "model": "glm-5.3"
+}

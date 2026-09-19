@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 10:4",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ብጸሓፍን ብወርቂን የብርቕዎ፣ ብመስኒታትን ብሓሙራታትን የጠንክርዎ፣ ድማ ኣይወዓብን።",
+  "tokens": [
+    {
+      "surface": "בכסף",
+      "gloss": "ብጸሓፍ"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "ብወርቂን"
+    },
+    {
+      "surface": "ייפהו",
+      "gloss": "የብርቕዎ"
+    },
+    {
+      "surface": "במסמרות",
+      "gloss": "ብመስኒታት"
+    },
+    {
+      "surface": "ובמקבות",
+      "gloss": "ብሓሙራታትን"
+    },
+    {
+      "surface": "יחזקום",
+      "gloss": "የጠንክርዎ"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "ድማ ኣይ…ን"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "ወዓብ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:37:43.221576713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 17:23",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኣብ መገዲ እታ ወዲ ጓሕሊ ድማ ሞሸ ናብ ድኳን ምስሓት ከደ፤ ኣሰራዕ እውን መርዓ ኣሃሮን ንዓቢ ስድራ ሌዊ በቕለ፣ ደቂ ቐረጸ፣ ኩሉ ኣበቓልቐት በቕለ፣ ድማ ኣመርቲ ኣብ በለ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኰነ"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ካብ መገዲ ወዲ ጓሕሊ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድኳን"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ምስሓት"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣሰራዕ እውን"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "በቕለ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "መርዓ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ንዓቢ ስድራ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ሌዊ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ኣውጽአ"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "ደቂ በቓልቐ"
+    },
+    {
+      "surface": "ויצץ",
+      "gloss": "ኣበቓልቐ"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "ኩሉ ኣበቓልቐት"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "ኣመረተ"
+    },
+    {
+      "surface": "שקדים",
+      "gloss": "ኣመርቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:25:45.850779610Z",
+  "model": "glm-5.3"
+}

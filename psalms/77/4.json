@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 77,
+  "translation": "ኤሎሂም እዘኻዕኩ ድማ ተቓረብኩ፤ እሰብኽኦ እኳ መንፈሰይ ተሰኲራ። ስላሕ።",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "እዘኻዕኩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "ተቓረብኩ"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "እሰብኽኦ"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "ተሰኲራ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "መንፈሰይ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስላሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:35.429445915Z",
+  "model": "glm-5.3"
+}

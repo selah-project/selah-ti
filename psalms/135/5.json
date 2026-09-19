@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 135,
+  "translation": "ኣነ እፈልጥ እየ ከም ያህዌህ ዓቢ እዩ፣ ጎይታና ድማ ካብ ኩሉ ኣማልኽቲ ⟨ዝዓበየ⟩ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "እፈልጥ እየ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "ጎይታናን"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኣማልኽቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:42.665199683Z",
+  "model": "glm-5.3"
+}

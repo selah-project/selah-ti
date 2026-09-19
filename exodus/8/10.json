@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ሓባላት ሓባላት ድማ ብሪሾም ⟨את⟩ እቶም፤ እታ ምድሪ ድማ በደማት።",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "ብሪሾም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ጭጋጋት"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "ሓባላት"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "ሓባላት"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "በደማት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እታ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:16:25.035162996Z",
+  "model": "glm-5.3"
+}

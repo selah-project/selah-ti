@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ብባዕሉ እንተ ኣተየ፣ ብባዕሉ ክውጽእ፤ ሰበይቲ እንተ ኣብያ እዩ፣ ሰበይቱ ድማ ምስኡ ትውጽእ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "ብባዕሉ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ኣተየ"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "ብባዕሉ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ክውጽእ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ኣብያ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "ትውጽእ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሰበይቱ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:29:48.845379161Z",
+  "model": "glm-5.3"
+}

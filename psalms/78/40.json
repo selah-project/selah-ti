@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ኣብ ምድረ ባዕላት ብዙሕ ግዜ ኣመጹሉ፣ ኣብ ጥላብ ምድሪ ድማ ኣስቐገሙዎ!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "ብዙሕ ግዜ"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "ኣመጹሉ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድረ ባዕላት"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "ኣስቐገሙዎ"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "ኣብ ጥላብ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:37.567570357Z",
+  "model": "glm-5.3"
+}

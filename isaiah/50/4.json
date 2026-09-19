@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ኣዶናይ ያህዌህ ቋንቋ ተምሃራት ሃቐኒ፣ ነቲ ዝደኸመ ⟨את⟩ ብቃል ክሓግዞ ክፈልጥ፤ ቅዳም ብቅዳም ኣእታዊ ይንቀሳቕሖ፣ ከም ተምሃራት ክሰምዐ ንነይ ኣእታዊ ይንቀሳቕሖ።",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃቐ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንነይ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ቋንቋ"
+    },
+    {
+      "surface": "למודים",
+      "gloss": "ተምሃራት"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ክፈልጥ"
+    },
+    {
+      "surface": "לעות",
+      "gloss": "ክሓግዝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ዝደኸመ"
+    },
+    {
+      "surface": "יעף",
+      "gloss": "ዝደኸመ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ብቃል"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "ይንቀሳቕሖ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ቅዳም"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ብቅዳም"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "ይንቀሳቕሖ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንነይ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ኣእታዊ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ክሰምዐ"
+    },
+    {
+      "surface": "כלמודים",
+      "gloss": "ከም ተምሃራት"
+    }
+  ],
+  "timestamp": "2026-09-19T02:20:12.470586713Z",
+  "model": "glm-5.3"
+}

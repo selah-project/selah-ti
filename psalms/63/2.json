@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 63,
+  "translation": "ኤሎሂም፣ ኤል እነ ኣብ ቀዳም እደልዩኻ እየ፤ ነፍሲ ብኻ ተጠማት፣ ስጋይ ከኣ ኣብ ምድሪ ደረቕን ድሃርን ብዘይ ማይ ተመንዘረከ።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ኤል እነ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኣብ ቀዳም እደልዩኻ እየ"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": ""
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "ተጠማት"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ብኻ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "ተመንዘረከ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ብኻ"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ስጋይ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "ደረቕ"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "ንድሃርን"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ብዘይ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:42.924549676Z",
+  "model": "glm-5.3"
+}

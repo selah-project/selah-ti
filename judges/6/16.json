@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ያህዌህ ድማ ነታ እናበሎ፦ «ኣነ ምስኻ እንተ ዐለኹ እየ፤ ንምድያም ⟨את⟩ ከም ሓደ ሰብ ትሰትዮ እያ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እናበሎ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ነታ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ ዐለኹ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ኣነ … እየ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስኻ"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "ትሰትዮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድያም"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ምድያም"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ከም ሰብ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:38:48.090725753Z",
+  "model": "glm-5.3"
+}

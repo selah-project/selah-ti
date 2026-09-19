@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 93,
+  "translation": "ምስክርታትኻ ብብዙሕ እናተኣማኑ፣ ቅዱስነት ንቤትኻ ተምስሊ እዩ፣ ያህዌህ፣ ንኩሉ ዘመን።",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "ምስክርታትኻ"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "እናተኣማኑ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብብዙሕ"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "ንቤትኻ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ተምሰሊ እዩ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስነት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ዘመን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:09.230337285Z",
+  "model": "glm-5.3"
+}

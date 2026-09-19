@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ንእቲ ማሕደር ⟨את⟩ እቶም ሰሌዳታት ካብ እኽሊ ሓጅሽ ንቕማት ኮይኖም ዝሓዙ ትገብር ድማ።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ትገብር ድማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ሰሌዳታት"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "እቶም ሰሌዳታት"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ንእቲ ማሕደር"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ካብ እኽሊ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ናይ ሓጅሽ"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ንቕማት ኮይኖም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:32:29.924030566Z",
+  "model": "glm-5.3"
+}

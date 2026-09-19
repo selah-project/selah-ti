@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ነቲ ኢዝበል እናበሉ ሰደቑ፦ «ናቦት ተደቐቐ፣ ሞተ እዩ።»",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ሰደቑ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "ኢዝበል"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበሉ"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "ተደቐቐ"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "ናቦት"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:08:03.670821558Z",
+  "model": "glm-5.3"
+}

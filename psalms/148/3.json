@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 148,
+  "translation": "ፀሓይን በዓሊን ሰብሕዉዎ፣ ኩሉ ከዋኽብቲ ብርሃን ሰብሕዉዎ።",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ሰብሕዉዎ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ፀሓይ"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "በዓሊን"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ሰብሕዉዎ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "ከዋኽብቲ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:26.405329664Z",
+  "model": "glm-5.3"
+}

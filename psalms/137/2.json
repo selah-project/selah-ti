@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 137,
+  "translation": "ኣብ ወረቕሳታት፣ ኣብ መንጎኣን፣ ተኸይልና እቶም በገራትና።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "ወረቕሳታት"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ኣብ መንጎኣን"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "ተኸይልና"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "እቶም በገራትና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:51.451358814Z",
+  "model": "glm-5.3"
+}

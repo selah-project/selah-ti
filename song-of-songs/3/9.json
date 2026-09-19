@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣፕርዮን ንገዛኡ ሽሎሞ ንጉሥ ብዑፍቲ ለባናን ገበረ።",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "ኣፕርዮን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንገዛኡ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "ብዑፍቲ"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "ለባናን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:26:27.614780850Z",
+  "model": "glm-5.3"
+}

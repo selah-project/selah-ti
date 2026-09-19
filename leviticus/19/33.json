@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ከምኡውን ሓደ መርሃብቲ ⟨ምስ ንስኻትኩም⟩ ኣብ ምድርኩም እንተ ነይሩ፣ ንእኡ ኣይትጽንኡዎን።",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ከምኡውን እንተ"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ምስ ንስኻትኩም"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ሓደ መርሃብቲ"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "ኣብ ምድርኩም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ-…ን"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "ትጽንኡዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንእኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:02.069015310Z",
+  "model": "glm-5.3"
+}

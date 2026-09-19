@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ባሕሪ ድዩ እየ፣ ወይስ ባሕሪ ስጉኢ፣ ኣብ ልዕለይ ቁጽጭቲ ከም ትቕምጢ እንተድኣ?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወይስ"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "ባሕሪ ስጉኢ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተድኣ"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ትቕምጢ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕለይ"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "ቁጽጭቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:04:33.099273430Z",
+  "model": "glm-5.3"
+}

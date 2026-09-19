@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 26:13",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ከም ንእሽቶ ከም ዓቢ ንስድራ ኣቦታቶም ዕጣንታት ንበርን በርን ኣወርዱ።",
+  "tokens": [
+    {
+      "surface": "ויפילו",
+      "gloss": "ኣወርዱ"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "ዕጣንታት"
+    },
+    {
+      "surface": "כקטן",
+      "gloss": "ከም ንእሽቶ"
+    },
+    {
+      "surface": "כגדול",
+      "gloss": "ከም ዓቢ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ንስድራ"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ናይ ኣቦታቶም"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "ንበር"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "ንበርን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:49:20.199637956Z",
+  "model": "glm-5.3"
+}

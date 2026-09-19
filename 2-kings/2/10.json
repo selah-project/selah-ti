@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ንሱ ድማ በለ፦ «ደቂቕ ነገር ንምሕቲት ሓተትካ፤ እንተ ረኣይካኒ ተወሲደኒ ⟨את⟩ ካብ ኣኻ፣ ከምኡ ኩነኻ፤ ኣብ ልዕሊ ድማ ኣይክኸውንን።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "ደቂቕ ነገር ሓተትካ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ንምሕቲት"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ረኣይካ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ተወሲደኒ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ተወሲደኒ"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ ካብ ኣኻ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ኩነኻ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንዓኻ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ኣብ ልዕሊ እንተ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ዘይኮነ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክኸውን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:12:29.238432951Z",
+  "model": "glm-5.3"
+}

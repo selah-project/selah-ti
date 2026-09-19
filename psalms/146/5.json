@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 146,
+  "translation": "የቐንየለ እቲ ሓዊሩ ኤሎሂም ያዕቆብ ኣብ መሓድሩ፣ ጽበታ ኣብ ያህዌህ ኤሎሂምኡ ዘለዎ።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "የቐንየለ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "እቲ ዝሓደገ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "בעזרו",
+      "gloss": "ኣብ መሓድሩ"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ጽበታ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ኤሎሂምኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:19.779654662Z",
+  "model": "glm-5.3"
+}

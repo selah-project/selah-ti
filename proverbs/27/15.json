@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 27:15",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ተወጢሕ ማይ ዝንክፍ ኣብ መዓልቲ ዝውረድ፣ ሰበይቲ ናይ ኣኼባ ድማ ከምኣ ⟨እያ⟩።",
+  "tokens": [
+    {
+      "surface": "דלף",
+      "gloss": "ተወጢሕ ማይ ዝንክፍ"
+    },
+    {
+      "surface": "טורד",
+      "gloss": "ዝተወጢሕ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "סגריר",
+      "gloss": "ዝውረድ"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "ሰበይቲ ድማ"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "ናይ ኣኼባ"
+    },
+    {
+      "surface": "נשתוה",
+      "gloss": "ከምኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:58:38.242591962Z",
+  "model": "glm-5.3"
+}

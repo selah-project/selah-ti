@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ንያዕቆቭ ንሕጒ፣ ንይስራኤል ድማ ናይ ዘለኣለም ኪዳን ኣቕረዮ።",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "ኣቕረዮ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ንያዕቆቭ"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "ንሕጒ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ንይስራኤል"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ናይ ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:12.195260236Z",
+  "model": "glm-5.3"
+}

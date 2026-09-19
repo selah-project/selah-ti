@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "እግዚኣብሄር ዝተባረከ እዩ፣ ምስኡ ነቲ ያህዌህ፣ ስለ ዝገበረለይ ሔሴዱ ኣምላዊ ኣብ ቅድሚ ኣንበብቲ ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ዝተባረከ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "ዘምልኮ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ኣብ ቀበሌ"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ኣጥባብ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:01.741349168Z",
+  "model": "glm-5.3"
+}

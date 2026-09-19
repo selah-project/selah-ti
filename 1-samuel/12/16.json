@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 12:16",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ውን ሕጂ ተቐምጡ፣ ⟨את⟩ እቲ ዓቢ ነገር እዚ ርአዩ — ያህዌህ ብቐርባ እያናትኩም ዝገብሮ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ውን"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "ተቐምጡ"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ርአዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ዓቢ ነገር እዚ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ነገር"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገብሮ"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "ብቐርባ እያናትኩም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:02:57.621448256Z",
+  "model": "glm-5.3"
+}

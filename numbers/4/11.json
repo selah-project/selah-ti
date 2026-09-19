@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 4:11",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣብ መስዊን ወርቂ ድማ ልብሲ ሰማያዊ ቀለም ይዘርኣ፣ ⟨אתו⟩ ብመሸለቢ ሓብርቲ ታሕሽ ድማ ይሕክሙዎ፣ ⟨את⟩ ምስንዳቱ እንግዛ ድማ ይቕምጡ።",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መስዊን"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "ይዘርኣ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ልብሲ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ሰማያዊ ቀለም"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "ይሕክሙዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ነታ (the golden altar)"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "ብመሸለቢ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ሓብርቲ"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "ታሕሽ"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ይቕምጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምስንዳቱ"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ምስንዳቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:15:15.572884836Z",
+  "model": "glm-5.3"
+}

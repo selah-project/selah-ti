@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ያህዌህ እጣንይ፣ ግዝኣትይ፣ ኣወጻይ እዩ፤ ኤልይ እዩ፣ ጸጋምይ — ኣብኡ እሓልዎ፤ ጋንታይ፣ ቀርን ድሕነትይ፣ ውቕብትይ እዩ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "እጣንይ"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ግዝኣትይ"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ኣወጻይ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ኤልይ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ጸጋምይ"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "እሓልዎ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ጋንታይ"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "ቀርን"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ድሕነትይ"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ውቕብትይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:02.461238600Z",
+  "model": "glm-5.3"
+}

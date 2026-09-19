@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ግን ናብ ሽኦል ተወርዲኻ፣ ናብ ጥሪት ጉድጓድ ተሳሒብካ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ግን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሽኦል"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "ተወርዲኻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "ጥሪት"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ጉድጓድ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:49:12.653907007Z",
+  "model": "glm-5.3"
+}

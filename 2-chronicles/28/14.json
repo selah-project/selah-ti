@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ነቲ ዓቢ ውጋእ ድማ ⟨את⟩ ነቲ ማረኩቲን ⟨את⟩ ነቲ ዝተበዘዘን ቅድሚ እቶም ኣመናይንን ቅድሚ ኩሉ ስብሰባን ሓዲጎም።",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "ሓዲጎም"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "ነቲ ዓቢ ውጋእ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ማረኩቲ"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "ነቲ ማረኩቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ዝተበዘዘ"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "ነቲ ዝተበዘዘ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "እቶም ኣመናይን"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉን"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "እቲ ስብሰባ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:15:07.418891085Z",
+  "model": "glm-5.3"
+}

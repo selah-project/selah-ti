@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 11:14",
+  "book": "zechariah",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኣነ ድማ ⟨את⟩ ነቲ ካልኣይ ሹካራይ፣ ⟨את⟩ እቲ ሹካራይ ስሙ እስራት ቈረጽኩ፣ ነታ ሓድነት ኣብ መንጎ ይሁዳን ኣብ መንጎ እስራኤልን ንምትሕትት።",
+  "tokens": [
+    {
+      "surface": "ואגדע",
+      "gloss": "ቈረጽኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ካልኣይ ሹካራይ"
+    },
+    {
+      "surface": "מקלי",
+      "gloss": "ሹካራይ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ካልኣይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራት"
+    },
+    {
+      "surface": "החבלים",
+      "gloss": "እስራት"
+    },
+    {
+      "surface": "להפר",
+      "gloss": "ንምትሕትት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓድነት"
+    },
+    {
+      "surface": "האחוה",
+      "gloss": "ሓድነት"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T04:38:01.308737916Z",
+  "model": "glm-5.3"
+}

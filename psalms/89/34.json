@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ነገርግን ሔሴደይ ንብኡ ኣይነቕልሖን፣ ብኣምናተይ እውን ኣይውሕሶን።",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "ሔሴደይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "ኣይነቕልሖን"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ንብኡ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "ኣይውሕሶን"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "ብኣምናተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:17.891745901Z",
+  "model": "glm-5.3"
+}

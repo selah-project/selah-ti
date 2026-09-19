@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኣብ በዓል እቲ ያህዌህ ንሞሸ ኣብ ምድሪ ሚጽራይም ዝዛረበሉ ኮነ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ በዓል"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝዛረበሉ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:13:15.857356444Z",
+  "model": "glm-5.3"
+}

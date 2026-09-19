@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "ንምድሪ ምስ ረኣየ እታ ትሪዕድ፤ ንከረባት ምስ ተታከበ እቶም ይድምኹም።",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "ምስ ረኣየ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ንምድሪ"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "ትሪዕድ"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "ምስ ተታከበ"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "ንከረባት"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "ይድምኹም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:10.248600920Z",
+  "model": "glm-5.3"
+}

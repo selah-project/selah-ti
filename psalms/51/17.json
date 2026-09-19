@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 51,
+  "translation": "ኣዶናይ ኣኽብርተይ ትኽፈት፣ ኣፈይ ድማ ውዒልትካ የመልክት።",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ኣኽብርተይ"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ትኽፈት"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ኣፈይ ድማ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "የመልክት"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ውዒልትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:05.666423343Z",
+  "model": "glm-5.3"
+}

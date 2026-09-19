@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 74,
+  "translation": "ነፍሲ ተርታኻ ነቲ ኵርያ ኣይትህበን፤ ነፍሲ ድኻታትኻ ንዘለኣለም ኣይትረስዓን።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ትህበ"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "ነቲ ኵርያ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "ተርታኻ"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ኵርያ"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "ድኻታትካ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ትረስዕ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ንዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:52.500897791Z",
+  "model": "glm-5.3"
+}

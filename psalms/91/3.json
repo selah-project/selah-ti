@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 91,
+  "translation": "ምኽንዲ ንሱ ካብ መስርዒ ኣውጻጃ ንስኻ የድሕንካ፣ ካብ ኣዋጅ ሕማቕቲ ድማ የድሕንካ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንዲ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "ንስኻ የድሕንካ"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "ካብ መስርዒ"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "ኣውጻጃ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ካብ ኣዋጅ"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ሕማቕቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:15.833906225Z",
+  "model": "glm-5.3"
+}

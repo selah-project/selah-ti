@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 139,
+  "translation": "ንኹለይ ድማ ከመይ ውዑይቲ ሓሳብታትካ እየን፣ ኤል፤ ከመይ ድማ ተዓበየ ድምሮም!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "ንኹለይ ድማ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ከመይ"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "ውዑይቲ"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "ሓሳብታትካ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ከመይ"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "ተዓበዩ"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "ድምሮም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:48.653576140Z",
+  "model": "glm-5.3"
+}

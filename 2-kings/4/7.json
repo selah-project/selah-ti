@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣትያ ነቲ ሰብ ኤሎሂም ነገረቶ፤ ንሱ ድማ «ኺይ፣ ⟨את⟩ ዘት ሸይጦ፣ ⟨את⟩ ዕርዳኺ ኣፍትሒ፣ ንስኺን ውላድኪን ካብቲ ተሪዕኡ እኹይኪ» በላ።",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ኣትያ"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ነገረቶ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ነቲ ሰብ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ኺይ"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "ሸይጦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዘት"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ዘት"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "ኣፍትሒ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዕርዳኺ"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "ዕርዳኺ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ንስኺን"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "ውላድኪ"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "እኹይ"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "ካብቲ ተሪዕኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:43:53.176199078Z",
+  "model": "glm-5.3"
+}

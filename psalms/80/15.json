@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 80,
+  "translation": "ኤሎሂም ጸባኦት፣ በይ ተመለስ፣ ካብ ሰማይ ረኣየን ርአየን፣ ነዚ ዛፍ ወይኒ እዚ ሓበረን።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ተመለስ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "በይ"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ካብ ሰማይ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ርአየ"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "ሓበር"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "ዛፍ ወይኒ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:45.698774115Z",
+  "model": "glm-5.3"
+}

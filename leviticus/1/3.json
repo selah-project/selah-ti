@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ወፈያ ዕላሊ እንተ ኮይኑ ካብ እቲ ከብቲ — ተባዕታይ፣ ብዘይ ጕድሊ — ይቐርብ፤ ናብ በዓት ማሕደር ኣገጣጠም ድማ ንቕበልታኡ ቅድሚ ያህዌህ ⟨את⟩ ንኡ ይቐርቦ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ዕላሊ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ወፈያኡ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "እቲ ከብቲ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ተባዕታይ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ብዘይ ጕድሊ"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "ይቐርቦ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "በዓት"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ኣገጣጠም"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ይቐርብ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንኡ (እቲ ተባዕታይ)"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "ንቕበልታኡ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:47:49.614680208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 17:9",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ተንቢርካ ናብ ጸርፋት ናይ ጽዶን ከይከድካ ኣብኡ ተቐምጥ፤ ኣሎ፣ ኣብኡ ሓደ ሰበይቲ መቓብርቲ ኣዘዝኩ፣ ንኽተሓልወካ።",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "ተንቢርካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ከይከድካ"
+    },
+    {
+      "surface": "צרפתה",
+      "gloss": "ናብ ጸርፋት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ናይ"
+    },
+    {
+      "surface": "לצידון",
+      "gloss": "ጽዶን"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ተቐምጥ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ኣዘዝኩ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሓደ ሰበይቲ"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "መቓብርቲ"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "ንኽተሓልወካ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:04:18.275754280Z",
+  "model": "glm-5.3"
+}

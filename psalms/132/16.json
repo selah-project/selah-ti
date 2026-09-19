@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 132,
+  "translation": "ካህናታታ ከኣ ብከላም የልብሶም፣ ቅዱሳታ ድማ ምዝማዛርብ ይዛርቡ።",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "ካህናታታ"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "የልብሶም"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "ብከላም"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "ቅዱሳታ"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "ምዝማዛርብ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ይዛርቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:00.410004608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "እቲ ድሉይ ኣብ ቅሩቡ ዝሓበኾ እኳ ይጸልእ፣ እቶም ሃብታም ዝፈትውዎ ግን ብዙሓት እዮም።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እኳ"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ኣብ ቅሩቡ ዝሓበኾ"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ይጸልእ"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ድሉይ"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "እቶም ዝፈትውዎን"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ሃብታም"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:49:18.645646485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 9:4",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ያህዌህ ድማ ኣብ መንጎ ማሕደር እስራኤልን ኣብ መንጎ ማሕደር ሚጽራይምን ፍርዲ ኺቐምጥ፤ ካብ ኩሉ ሎም ውላዲ እስራኤል ዝኾነ ነገር ከይሞት።",
+  "tokens": [
+    {
+      "surface": "והפלה",
+      "gloss": "ፍርዲ ኺቐምጥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ንኣቦት ኣብ መንጎ"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ከይ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ኪሞት"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ናይ ውላዲ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ነገር"
+    }
+  ],
+  "timestamp": "2026-09-18T21:17:30.144815440Z",
+  "model": "glm-5.3"
+}

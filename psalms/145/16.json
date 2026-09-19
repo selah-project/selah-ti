@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 145,
+  "translation": "ትኽፈት ⟨את⟩ ኢድኻ፣ ነቲ ሕያው ዅሉ ብሓሳቡ ትሕምም።",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "ትኽፈት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢድኻ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድኻ"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "ትሕምም"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ብሓሳቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:30.960006911Z",
+  "model": "glm-5.3"
+}

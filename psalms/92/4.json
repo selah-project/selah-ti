@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 92,
+  "translation": "ኣብ ኣሥርተ ኣውታር፣ ኣብ ናብልን፣ ምስ ሓጢሕ ዜማ ኣብ ኪኖር።",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ኣሥርተ ኣውታር"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ኣብን"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ናብል"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "ሓጢሕ ዜማ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ኣብ ኪኖር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:54.898392398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ሞሸ ድማ በለ፦ ያህዌህ ከም ׋ነብር፣ እቲ כי ׋ያህዌህ ንይ ׋ዝብለኒ፣ ንኡ ⟨את⟩ ዘረባ ⟨אתו⟩ እተዛረቦ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ከም ዝነብር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ዝብለኒ ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ዝብል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንይ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንኡ ዘረባ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "እተዛረቦ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:12:20.330901564Z",
+  "model": "glm-5.3"
+}

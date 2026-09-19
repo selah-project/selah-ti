@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ኣብ ልዕሊ እቲ ንጹሕ መንሮና ⟨את⟩ ተመብርሕቲ ቅድሚ ያህዌህ ኩሉ ግዜ ይሰርሖ።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "እቲ መንሮና"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "ንጹሕ"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ይሰርሕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተመብርሕቲ"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "ተመብርሕቲ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ኩሉ ግዜ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:07:38.279657349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 7:11",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ሽሎሞ ነቲ ቤት ያህዌህ ⟨את⟩ን ነቲ ቤት እቲ ንጉስ ⟨את⟩ንን ምሉእ ኣወዳደርኦ፤ ኩሉ ኣብ ልቢ ሽሎሞ ኣብ ቤት ያህዌህን ኣብ ቤቱን ንኽግበር ዝበጽሕ ብዓወት ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ኣወዳደርኦ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "ዝበጽሕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ንኽግበር"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ובביתו",
+      "gloss": "ኣብ ቤቱን"
+    },
+    {
+      "surface": "הצליח",
+      "gloss": "ብዓወት"
+    }
+  ],
+  "timestamp": "2026-09-19T08:00:32.024263634Z",
+  "model": "glm-5.3"
+}

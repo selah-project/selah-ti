@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ስሓበኒ ያህዌህ፣ ምኽንያቱ ድኻም እየ፤ ሓውስኒ ያህዌህ፣ ምኽንያቱ እስታተይ ተረብዓታ።",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ስሓበኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "ድኻም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እየ"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "ሓውስኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ተረብዓታ"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "እስታተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:59.098981153Z",
+  "model": "glm-5.3"
+}

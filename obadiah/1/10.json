@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "obadiah 1:10",
+  "book": "obadiah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ስለ ግፍታ ሓውካ ያዕቆቭ ኣፍርሃ ክትሕብኣካ እያ፣ ንስኻ ድማ ናብ ዘለኣለም ተቐጢዕካ ኢኻ።",
+  "tokens": [
+    {
+      "surface": "מחמס",
+      "gloss": "ስለ ግፍታ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ሓውካ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "ትሕብኣካ"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "ኣፍርሃ"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "ተቐጢዕካ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:19:58.623864879Z",
+  "model": "glm-5.3"
+}

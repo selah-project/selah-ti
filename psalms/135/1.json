@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 135,
+  "translation": "ያህ ስብሕ ብሉ፤ ስም ያህዌህን ⟨את⟩ ስብሕ ብሉ፤ ኣገልተኞች ያህዌህ፡ ስብሕ ብሉ።",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ስብሕ ብሉ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ስብሕ ብሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ስብሕ ብሉ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልተኞች"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:39.888978072Z",
+  "model": "glm-5.3"
+}

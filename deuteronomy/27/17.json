@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 27:17",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "እቲ ወሰን ናይ ሓዳሩ ዝህንጽ ክርጉም እዩ፤ ኩሉ ⟨እቲ⟩ ህዝቢ ድማ «ኣሚን» ይብል።",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ክርጉም"
+    },
+    {
+      "surface": "מסיג",
+      "gloss": "ዝህንጽ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ወሰን"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ናይ ሓዳሩ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ድማ ይብል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ኣሚን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:07:23.521174694Z",
+  "model": "glm-5.3"
+}

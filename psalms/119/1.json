@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ሓጐስ ኣሎዮም እቶም ኣብ መንገዶም ፍጹማት፣ እቶም ብቶራ ያህዌህ እተመላለሱ።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ሓጐስ"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "ፍጹማት"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ኣብ መንገዶም"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "እተመላለሱ"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "ብቶራ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:27.808008963Z",
+  "model": "glm-5.3"
+}

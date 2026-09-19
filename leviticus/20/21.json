@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ሰብ እውን ኣሕዋቱ ሰበይቲ እንተ ወሲኹ ⟨את⟩ እታ ምንጪ ናይ ኣሕዋቱ ረጊብቲ ተሓቢኣ እያ፣ እቲ ምሉእ ቁርቂ ናይ ኣሕዋቱ ሓረዮ፤ ዓሚራት ክኸውን እዮም።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ሰብ እውን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ወሲኹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ሰበይቲ ናይ ኣሕዋቱ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ናይ ኣሕዋቱ"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "ምንጪ ረጊብቲ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እያ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ቁርቂ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ናይ ኣሕዋቱ"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ሓረዮ"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "ዓሚራት"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ክኸውን እዮም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:04:53.612571719Z",
+  "model": "glm-5.3"
+}

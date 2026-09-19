@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 33:10",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ንያዕቆቭ ፍርዲታትኻ የምህርዎ፣ ንእስራኤል ቶራኻን የምህርዎ፤ ኣብ ኣፍኻ ጽባእ የቐምጹ፣ ብሙሉእ ወፈያን ኣብ ልዕሊ መሠዊእታኻ።",
+  "tokens": [
+    {
+      "surface": "יורו",
+      "gloss": "የምህርዎ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ፍርዲታትኻ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ንያዕቆቭ"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ቶራኻን"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ንእስራኤል"
+    },
+    {
+      "surface": "יישמו",
+      "gloss": "የቐምጹ"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "ጽባእ"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ኣብ ኣፍኻ"
+    },
+    {
+      "surface": "וכליל",
+      "gloss": "ብሙሉእ ወፈያን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "መሠዊእታኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:11:22.192059814Z",
+  "model": "glm-5.3"
+}

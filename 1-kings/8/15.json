@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኮነ እናበለ፦ ዝተባረኸ ያህዌህ ኤሎሂም የስራኤል፣ እቲ ብኣፉ ⟨את⟩ ዳዊድ ኣበይ ዝዛረበ ብኢዱ ድማ ዝኣከይዱ፦ እና በለ፦",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ዝተባረኸ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የስራኤል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝዛረበ"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ብኣፉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊድ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣበይ"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "ብኢዱ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ዝኣከይዱ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እና በለ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:56:11.458466559Z",
+  "model": "glm-5.3"
+}

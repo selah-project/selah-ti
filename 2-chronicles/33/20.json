@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 33:20",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ማናሸ ምስ ኣቦታቱ ተኣሸኸበ፤ ኣብ ቤቱ ቐበርዎ፤ ኣሞን ወዲ ኣብ ቦታኡ ነገሰ።",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ተኣሸኸበ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ማናሸ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ኣቦታቱ"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ቐበርዎ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ኣብ ቤቱ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሰ"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "ኣሞን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ኣብ ቦታኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:18:20.642966615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 119:59",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "መገደኻተይ ሓሰብኩ፣ እተን ኣእጋረይ ናብ ትምሕደትኻ ምለስኩ።",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "ሓሰብኩ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "መገደኻተይ"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "ምለስኩ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ኣእጋረይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ትምሕደትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:13.021875288Z",
+  "model": "glm-5.3"
+}

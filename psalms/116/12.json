@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 116,
+  "translation": "ንኹሉ መሃይሻቱ ኣብ ልዕለይ እንታይ ክመልስ እየ ንያህዌህ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ክመልስ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "መሃይሻቱ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕለይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:00.595402573Z",
+  "model": "glm-5.3"
+}

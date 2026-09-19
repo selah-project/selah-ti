@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "እቲ ዓሚል ደም ንሱ ⟨את⟩ እቲ ቀቲል ይቕትሖ፤ ምስ ዝረኽቦ ንኡ ይቕትሖ።",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "ዓሚል"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "ይቕትሖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ቀቲል"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "እቲ ቀቲል"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "ምስ ዝረኽቦ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "ይቕትሖ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:43:08.623811763Z",
+  "model": "glm-5.3"
+}

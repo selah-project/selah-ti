@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ንጉሳት ምድሪ ተተሓሑ፣ ለውሑት ድማ ኣቢሎም ኣብ ልዕሊ ያህዌህን ኣብ ልዕሊ ማሺያሕኡን ተኸላኸሉ።",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "ተተሓሑ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ንጉሳት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "ለውሑት ድማ"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "ተኸላኸሉ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ኣቢሎም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ ልዕሊ ድማ"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ማሺያሕኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:42:27.023058985Z",
+  "model": "glm-5.3"
+}

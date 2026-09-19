@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኣቭራሃም ድማ እናኸደን እናዘወተረን ናብ ደቡብ ዘወተረ።",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "ዘወተረ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "እናኸደን"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "እናዘወተረን"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "ናብ ደቡብ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:38:24.310345884Z",
+  "model": "glm-5.3"
+}

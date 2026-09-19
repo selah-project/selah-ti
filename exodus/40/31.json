@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ሞሸን ኣሃሮንን ውላዱን ድማ ካብኡ ⟨את⟩ ኢዶምን ⟨את⟩ እግርቲን ሰቡሑ።",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "ሰቡሑ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢዶም"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ኢዶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እግርቲ"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "እግርቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:45:49.073510887Z",
+  "model": "glm-5.3"
+}

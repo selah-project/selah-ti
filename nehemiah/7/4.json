@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 7:4",
+  "book": "nehemiah",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "እቲ ከተማ ውሽማት ኢድታትን ዓብይቲን እያ፤ እቲ ህዝቢ ግን ኣብ ውሽጣ ትንኽሽቲ እዩ፤ ቤታት ድማ እንተ ተሃንጹ የለዉን።",
+  "tokens": [
+    {
+      "surface": "והעיר",
+      "gloss": "እቲ ከተማ"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "ውሽማት"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ኢድታት"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "ዓብይቲ"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ትንኽሽቲ"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ኣብ ውሽጣ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ቤታት"
+    },
+    {
+      "surface": "בנוים",
+      "gloss": "እንተ ተሃንጹ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:19:20.634866024Z",
+  "model": "glm-5.3"
+}

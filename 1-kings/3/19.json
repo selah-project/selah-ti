@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ውላዲ እዚታ ሰበይቲ ኣብ ለይቲ ሞተ፤ ምኽንያቱ ንሳ ኣብ ልዑሉ ተኺባ ነይራ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ውላዲ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ናይ እታ ሰበይቲ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚታ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ኣብ ለይቲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "ተኺባ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዑሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:47:31.800032921Z",
+  "model": "glm-5.3"
+}

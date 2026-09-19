@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ሽዑ ብሓቂ ኣዒንትኩም ኩሉ ዓቢ ተግባር ያህዌህ ⟨את⟩ ዝገበሮ ርኢወን እየን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ብሓቂ"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ኣዒንትኩም"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ርኢወን እየን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ዓቢ ተግባር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ዓቢ ተግባር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝገበሮ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበሮ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:53:56.088786416Z",
+  "model": "glm-5.3"
+}

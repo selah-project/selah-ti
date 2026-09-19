@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 7:1",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣብ ቀንቲ ሞሸ ነቲ ማሕደር ምስ ወድኣዮ፡ ነኒጹ ቐቢጢዑ፡ ነኒጹ ድማ ⟨את⟩ ማሕደርን ⟨את⟩ ኩሉ መሳርሒኡን፡ ⟨את⟩ መሠዊእቲን ⟨את⟩ ኩሉ መሳርሒኡን፡ ቐቢጢዖም ነኒጾም።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ወድኣዎ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ ቀንቲ"
+    },
+    {
+      "surface": "כלות",
+      "gloss": "ምስ ወድኣዮ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "ንምስራሕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማሕደር"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ነቲ ማሕደር"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "ቐቢጢዑ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ነኒጹ"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ነኒጹ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ቐቢጢዑ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ መሳርሒኡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "መሳርሒኡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መሠዊእቲ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ነቲ መሠዊእቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ መሳርሒኡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "መሳርሒኡ"
+    },
+    {
+      "surface": "וימשחם",
+      "gloss": "ቐቢጢዖም"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ነኒጾም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ቐቢጢዖም ነኒጾም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:15:46.939565714Z",
+  "model": "glm-5.3"
+}

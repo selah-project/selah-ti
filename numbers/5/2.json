@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "⟨את⟩ ውላድ ይስራኤል ተኣዝዝ፤ ካብ ሰፈር ኩሉ ቁሩትን ኩሉ ዝፈስስን ኩሉ ብነፍሲ ዝሕድስን ንኣውጹ።",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "ተኣዝዝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ ይስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ንኣውጹ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ሰፈር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "ቁሩት"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "זב",
+      "gloss": "ዝፈስስ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ዝሕድስ"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ብነፍሲ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:17:40.343251410Z",
+  "model": "glm-5.3"
+}

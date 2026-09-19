@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 8:2",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "«ንኣሃሮን ተዛረብን ንሱ እናበልካዮ፦ ኣብ ትዕውትካ ⟨את⟩ መብራሕ ናብ ቅጽሪ ገጽ ማነራ፣ እቶም ሸምነ መብራሕ ይለጽሉ እዮም።»",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን-"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "እናበልካዮ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "בהעלתך",
+      "gloss": "ኣብ ትዕውትካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መብራሕ"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "መብራሕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ቅጽሪ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "ማነራ"
+    },
+    {
+      "surface": "יאירו",
+      "gloss": "ይለጽሉ እዮም"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሸምነ"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "መብራሕ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:20:50.337595683Z",
+  "model": "glm-5.3"
+}

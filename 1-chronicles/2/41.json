@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሻሉም ድማ ⟨את⟩ ያቃምያህ ወለዶ፣ ያቃምያህ ድማ ⟨את⟩ ኤልይሻማዕ ወለዶ።",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "ሻሉም ድማ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለዶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያቃምያህ"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "ያቃምያህ"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "ያቃምያህ ድማ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ወለዶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤልይሻማዕ"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "ኤልይሻማዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:28:50.636016667Z",
+  "model": "glm-5.3"
+}

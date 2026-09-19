@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኣሰራርሕቲ ኬርሕ ቐረብቱ፣ ካብ ቶራኻ ድማ ርሒቑ እዮም።",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "ቐረብቱ"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "ኣሰራርሕቲ"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ኬርሕ"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "ካብ ቶራኻ"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "ርሒቑ እዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:05.280054152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 8:12",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ከም ዘሎ ገና ኣብ ቐንዲኡ፣ ከይተቐጽሎ፣ ኣብ ቅድሚ ኩሉ ሳር ይሰክርብ።",
+  "tokens": [
+    {
+      "surface": "עדנו",
+      "gloss": "ከም ዘሎ ገና"
+    },
+    {
+      "surface": "באבו",
+      "gloss": "ኣብ ቐንዲኡ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יקטף",
+      "gloss": "ክተቐጽሎ ኣይኮነን"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ሳር"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "ይሰክርብ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:04:24.944229650Z",
+  "model": "glm-5.3"
+}

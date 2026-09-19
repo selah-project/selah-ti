@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ከምኡውን ⟨את⟩ ክልተቲ ኩላይትን ⟨את⟩ እቲ ለብ እቲ ኣብ ላዕለን ዘሎ፣ እቲ ኣብ ልዕሊ እቲ ስቢ ዘሎን፣ ⟨את⟩ እቲ ተወሳኺ ኣብ ልዕሊ እቲ ከበድ ዘሎ፣ ምስ ኩላይት ይእልዋ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ክልተቲ ኩላይት"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ክልተቲ"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ኩላይት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ለብ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "እቲ ለብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "ኣብ ላዕለን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "እቲ ስቢ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ተወሳኺ"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "እቲ ተወሳኺ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "እቲ ከበድ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ኩላይት"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ይእልዋ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:50:12.204808845Z",
+  "model": "glm-5.3"
+}

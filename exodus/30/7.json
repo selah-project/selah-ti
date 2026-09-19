@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 30:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ኣሃሮን ድማ ኣብ ልዕሊኡ እጣን መዓቃት ኣብ ኡሕቱ ኣብ ኡሕቱ ኣብ ዝተኣዘዞ ⟨את⟩ ነቶም መድንጓያት ይብድሓላ።",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ይብድሓል"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊኡ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "እጣን"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "መዓቃት"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ኣብ ኡሕቱ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ኣብ ኡሕቱ"
+    },
+    {
+      "surface": "בהיטיבו",
+      "gloss": "ኣብ ዝተኣዘዞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም መድንጓያት"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "ነቶም መድንጓያት"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "ይብድሓላ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:35:00.405415350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ዳዊድ ድማ ናብ ሓደ ካብቶም ዸጉርቲ ደወሎ፤ «ቅረብ፣ ወርደ ኣብኡ» በሎ። ንሱ ድማ ደቂቑ ድማ፣ ንሱ ድማ ሞተ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ደወሎ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ናብ ሓደ"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "ካብቶም ዸጉርቲ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "גש",
+      "gloss": "ቅረብ"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "ወርደ ኣብኡ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ደቂቑ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:21:54.726067432Z",
+  "model": "glm-5.3"
+}

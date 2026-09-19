@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ያዕቆቭ ኣብ ሚጽራይም እኽሊ ከም ዝርከብ ረኣየ፤ ያዕቆቭ ድማ ንውላዳቱ «እንታይ ኢልኩም ንሓደ ኣብ ሓደ ትረኣዩ?» በሎም።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ዝርከብ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ኣብ ሚጽራይም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "ንውላዳቱ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "እንታይ ኢልኩም"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "ትረኣዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:04:34.088400369Z",
+  "model": "glm-5.3"
+}

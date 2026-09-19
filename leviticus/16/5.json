@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ካብ ⟨את⟩ ጉጅለ ውላድ እስራኤል ክልተ ተቓልሲ ኣጋልቲ ንኽታትን ሓደ ኣኽሊለ ኣጋልን ንዕላን የውርድ።",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "⟨את⟩",
+      "marks": "ጉጅለ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ጉጅለ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "የውርድ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "ተቓልሲ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ኣጋልቲ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ንኽታት"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ኣኽሊለ ኣጋልን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ንዕላ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:59:29.273927080Z",
+  "model": "glm-5.3"
+}

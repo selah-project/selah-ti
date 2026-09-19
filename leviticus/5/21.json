@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 5:21",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ነፍሲ እንተ ደልያ ብያህዌህ ክፍከል ክፍልቲ ኣመጸይታ፣ ኣብ ዝተቓለቦ ወይ ኣብ ምስምማዕ ኢድ ወይ ኣብ ዝሰረቐ ወይ ᕽኣሳቡ ብግፍቲ እናገረፈ ብዛዕባ ኣሳቡ ኣብ ኸይበለ ⟨את⟩ ኣሳቡ፤",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "ደልያ"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ኣመጸይታ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ክፍከል ክፍልቲ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ብያህዌህ"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "ኣብ ኸይበለ"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "ብዛዕባ ኣሳቡ"
+    },
+    {
+      "surface": "בפקדון",
+      "gloss": "ኣብ ዝተቓለቦ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "בתשומת",
+      "gloss": "ኣብ ምስምማዕ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "בגזל",
+      "gloss": "ኣብ ዝሰረቐ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ብግፍቲ እናገረፈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሳቡ"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "ኣሳቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:29:59.963284236Z",
+  "model": "glm-5.3"
+}

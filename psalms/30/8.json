@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ያህዌህ ብቐረባኹም ነቲ ዓብዪ ከተማ ኣብ ልዕሊ ተራራ ኣቕሚድካዮ ነበረ፤ ገጽካ ምስ ሓበንካ ግን ተፈሪርኩ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "ብቐረባኹም"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "ኣቕሚድካዮ ነበረ"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "ነቲ ተራራ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ዓብዪ"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "ሓበንካ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽካ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ነበርኩ"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "ተፈሪርኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:09.918994836Z",
+  "model": "glm-5.3"
+}

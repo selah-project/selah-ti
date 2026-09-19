@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ኣብኡ ድማ መሥዋዕቲ ተኺሉ ንእኡ ኤል ኤሎሂ ኢስራኤል በሎ።",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "ተኺሉ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሥዋዕቲ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእኡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ኢስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T20:52:58.562913240Z",
+  "model": "glm-5.3"
+}

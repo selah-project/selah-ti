@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "እንሆ ኣንጻርካ ዘይብላዕ ብጻሕኹካ፣ ብብርከይን ኣይኮነን፤ ኣብ ምድሪ ዓስቢ ኣጸዓይካ።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "ኣንጻርካ ዘይብላዕ ብጻሕኹካ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ብብርከይን"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "ኣጸዓይካ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ምድሪ ዓስቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:12:16.864431418Z",
+  "model": "glm-5.3"
+}

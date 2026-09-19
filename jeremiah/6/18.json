@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ስለዚ ሰምዑ ኣሕዛባት፣ ጉባኤ ድማ ⟨את⟩ ዝኾነ ኣብ ልዕሎም ኣፍሩ።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ሰምዑ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ኣሕዛባት"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "ኣፍሩ"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝኾነ ኣብ ልዕሎም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ኣብ ልዕሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:33:24.281755412Z",
+  "model": "glm-5.3"
+}

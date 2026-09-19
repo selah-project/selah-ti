@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ድማ ኣብ ልዕሊኦም ⟨את⟩ ሰይፊ፣ ⟨את⟩ ጥረስርነት፣ ⟨ואת⟩ በሽታ እሰይሎም፤ ክሳቢ ካብቲ ምድሪ እቲ ኣነ ዝሃበክዎምን ኣቦታቶምን ክጠፍኡ።",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "እሰይሎም"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ኣብ ልዕሊኦም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰይፊ"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ሰይፊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጥረስርነት"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ጥረስርነት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "በሽታ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "በሽታ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳቢ"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ክጠፍኡ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ዝሃበክዎ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንኣቶም"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "ንኣቦታቶምን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:48:41.363215909Z",
+  "model": "glm-5.3"
+}

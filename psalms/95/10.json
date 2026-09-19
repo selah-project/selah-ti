@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 95,
+  "translation": "ኣርባዕተ ዓመታት ምስ ዘመን እዚ ተቐጻጸፍኩ፣ ነርእዮ ድማ፦ ህዝቢ ዝበላስተ ልቢ እዩ፤ ንሳቶም ኣይፈልጡን መገድተይ።",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "ተቐጻጸፍኩ"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ምስ ዘመን"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ነርእዮ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "ዝበላስተ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ዝፈልጡ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "መገድተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:39.348651451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ቕንጭብ ዝቖርቖር ኣብኡ ይወድቕ፣ ዃድር ዝበጽሕ ድማ ኣፍደገ ይንክፎ።",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ዝቖርቖር"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "ቕንጭብ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ይወድቕ"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "ዃድር ዝበጽሕ ድማ"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ዃድር"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ይንክፎ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ኣፍደገ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:06:39.930166487Z",
+  "model": "glm-5.3"
+}

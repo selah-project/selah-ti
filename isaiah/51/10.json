@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 51,
+  "translation": "ድዩ ንስሂ እያ እታ ባሕሪ ዝሰከረት፣ ማይ ሰሙናይ ጥልቂ፤ እታ ሰሚጥቲ ባሕሪ መገዲ ንዝተሓወዩ ንኽሓልፉ ዝገበረት?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ድዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "ንስሂ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እያ"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "እታ ዝሰከረት"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "ጥልቂ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ሰሙናይ"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "እታ ዝገበረት"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "ሰሚጥቲ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መገዲ"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "ንኽሓልፉ"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "ዝተሓወዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:18:01.526745379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 12:39",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ነቲ ካብ ሚጽራይም ዝወጹዎ ሓመቂ ⟨את⟩ ዓውቂ ዘይተበስባ ጸበጡ፤ ምኽንያቱ ኣይተበስበሰን ነይሩ፡ ምኽንያቱ ካብ ሚጽራይም ተሳሓቑ፡ ክዓንቑ ኣይከእሉን፡ ንጸሎም ድማ መግቢ ኣይገበሩን።",
+  "tokens": [
+    {
+      "surface": "ויאפו",
+      "gloss": "ጸበጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ሓመቂ"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "ነቲ ሓመቂ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "ዝወጹዎ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ካብ ሚጽራይም"
+    },
+    {
+      "surface": "עגת",
+      "gloss": "ዓውቂ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ዘይተበስባ ዘንቀጻት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ተበስበሰ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "גרשו",
+      "gloss": "ተሳሓቑ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ካብ ሚጽራይም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን ድማ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ከእሉ"
+    },
+    {
+      "surface": "להתמהמה",
+      "gloss": "ክዓንቑ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "መግቢ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንጸሎም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:20:01.346698926Z",
+  "model": "glm-5.3"
+}

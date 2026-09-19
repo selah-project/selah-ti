@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 72,
+  "translation": "ነፍሶም ካብ ግፍዲን ብሓይልን የዋጽኦ፣ ደሙም ኣብ ቐደም ኣይንቱ ውዑድ እዩ።",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "ካብ ግፍዲ"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "ብሓይልን"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "የዋጽኦ"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ነፍሶም"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "ውዑድ እዩ"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ደሙም"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ኣብ ቐደም ኣይንቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:27.709733292Z",
+  "model": "glm-5.3"
+}

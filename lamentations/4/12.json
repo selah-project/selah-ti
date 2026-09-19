@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ንጉስቲ ምድሪን ኩሉ ኣቤብቲ ዓለምን ኣብ ኣፍራይ የሩሻላይም ተሳቢን ጸላኢን ኪኣቱ ኣይኣመኑን ነይሮም።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ኣመኑ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ንጉስቲ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ኣቤብቲ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ዓለም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ኪኣቱ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ተሳቢ"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "ጸላኢ"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "ኣብ ኣፍራይ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    }
+  ],
+  "timestamp": "2026-09-19T06:36:09.757702700Z",
+  "model": "glm-5.3"
+}

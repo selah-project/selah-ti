@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ነፍሰይ ዝደልዩ ይንፈሩን ይውረዱን፤ ክብርታት እተባደዩ ድማ ናብ ኣድሮ ኮይኖም ይሕፈሩ።",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ይንፈሩ"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ይውረዱ"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ዝደልዩ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "ይገብዱ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ናብ ኣድሮ"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ይሕፈሩ"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "ዝሕድሩ"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ክብርታት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:55.526631565Z",
+  "model": "glm-5.3"
+}

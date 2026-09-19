@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "እንተ ኣይኮነን ቐን ያህዌህ ጸልማት እሞ ብርሃን ኣይኮነን፣ ጽምኢ እሞ ብርሃናት ኣይትሃብን ንእሽቶ?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "እንተ ኣይኮነን"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጸልማት"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቐን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እሞ ኣይኮነን"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "ጽምኢ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እሞ ኣይትሃብን"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "ብርሃናት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሽቶ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:17:46.131156508Z",
+  "model": "glm-5.3"
+}

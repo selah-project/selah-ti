@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣብ ርእሲ ከረሕታት፣ ኣብ መገዲ፣ ኣብ መእተዊ ናይ መስመራት ተቐሚጣ ኣላ።",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "ኣብ ርእሲ"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "ከረሕታት"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መገዲ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "መእተዊ"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "ናይ መስመራት"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "ተቐሚጣ ኣላ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:45:00.675217295Z",
+  "model": "glm-5.3"
+}

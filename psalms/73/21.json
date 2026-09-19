@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 73,
+  "translation": "ስለዚ ልበይ ተቐጸለ፣ ኩላትን ድማ ተቐሰሓ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "ተቐጸለ"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "ኩላትን"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "ተቐሰሓ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:00.256466846Z",
+  "model": "glm-5.3"
+}

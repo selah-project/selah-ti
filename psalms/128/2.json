@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 128,
+  "translation": "ስኢታ ኣውንጣ ኢድካ ምኽንያቱ ክትበልዕ ኢኻ፤ ዕጉብ ኢኻ፣ ደሓን እውን ንኻ ይኹን።",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "ስኢታ"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "ኣውንጣ ኢድካ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቻ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ክትበልዕ ኢኻ"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "ዕጉብ ኢኻ"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ደሓንን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:35.443768538Z",
+  "model": "glm-5.3"
+}

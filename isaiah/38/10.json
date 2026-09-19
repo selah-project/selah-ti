@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 38:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ኣነ በልኩ፦ ኣብ ⟨ማሕዱድ⟩ መዓልታትኒ ናብ ኣፍራጋት ሽኦል እኸይ፤ ንዝተረፈ ናይ ዓመታትኒ ድማ ተቐኒጰ እየ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "በልኩ"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "ኣብ ⟨ማሕዱድ⟩"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "መዓልታትኒ"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "እኸይ"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "ናብ ኣፍራጋት"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሽኦል"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "ተቐኒጰ እየ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ዝተረፈ"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "ናይ ዓመታትኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:05:57.433792427Z",
+  "model": "glm-5.3"
+}

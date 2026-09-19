@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "haggai 1:10",
+  "book": "haggai",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ስለዚ ስለ ንስኻትኩም ሰማያት ደቂ በረድ ገደባ፣ ምድሪ ድማ ዕድመኣ ገደባት።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ስለ ንስኻትኩም"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "ገደባ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "ደቂ በረድ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ምድሪ ድማ"
+    },
+    {
+      "surface": "כלאה",
+      "gloss": "ገደባት"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ዕድመኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:32:25.259696149Z",
+  "model": "glm-5.3"
+}

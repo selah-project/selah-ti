@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ካብ ጸላእተይ እቶም ንዑራት ድኅረኒ፣ ካብ ኣባጊዓተይ ድማ፣ ምኽንያቱ ካብ ኣነ ንላዕሊ ኰኑ።",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "ድኅረኒ"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "ካብ ጸላእተይ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ንዑራት"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "ከምኡውን ካብ ኣባጊዓተይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "ኰኑ ንላዕሊ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ካብ ኣነ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:52.604143139Z",
+  "model": "glm-5.3"
+}

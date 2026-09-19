@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "እቲ ዝሰምዑ ⟨את⟩ ድምጺ እቲ መልዓሊ ሰምዐ ግን ኣይተጠነቐን፣ ሻይሕ ምስ መጸቶ ወሲዳኦ፣ ደሙ ኣብ ርእሱ ክኸውን እዩ።",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "እቲ ዝሰምዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ድምጺ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጺ"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "እቲ መልዓሊ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "ተጠነቐ"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ምስ መጸቶ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሻይሕ"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "ወሲዳኦ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ደሙ"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "ኣብ ርእሱ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክኸውን እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:48:04.649723124Z",
+  "model": "glm-5.3"
+}

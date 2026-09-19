@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 128,
+  "translation": "ርኣዩ፣ በዚ መገዲ ሰብ ያህዌህ ዝፈሪ ይባረኽ።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ርኣዩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "በዚ መገዲ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ይባረኽ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ዝፈሪ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:35.444182381Z",
+  "model": "glm-5.3"
+}

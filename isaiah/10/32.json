@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "isaiah 10:32",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ገና ሎሚ ኣብ ኖብ ክቕመጥ፤ ነቲ ከሰተ ዓዲ ጽዮን፣ ኮረብቲ የሩሻላይም፣ ኢዱ ይዕንዕ።",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "ገና"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "ኣብ ኖብ"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "ንምቕማጥ"
+    },
+    {
+      "surface": "ינפף",
+      "gloss": "ይዕንዕ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ከሰተ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ዓዲ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "ኮረብቲ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:48:43.506887297Z",
+  "model": "glm-5.3"
+}

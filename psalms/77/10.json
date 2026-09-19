@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 77,
+  "translation": "ኤል ጸጋ ክፍጽም ረስዩ ዲዩ? ብቁርሳሕ ርሕምታቱ ተታሒቱ ዲዩ? ስላህ።",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "ረስዩ ዲዩ"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "ጸጋ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ዲዩ?"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "ተታሒቱ ዲዩ"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ብቁርሳሕ"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "ርሕምታቱ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:50.323257148Z",
+  "model": "glm-5.3"
+}

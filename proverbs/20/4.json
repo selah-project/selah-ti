@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ብጸለምቲ ስሉል ኣይያህሮን፤ ኣብ መርግዒ ድማ ይሓትት — የለን።",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "ብጸለምቲ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ስሉል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "የህር"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "ይሓትት"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "ኣብ መርግዒ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ወይ የለን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:53:11.093304922Z",
+  "model": "glm-5.3"
+}

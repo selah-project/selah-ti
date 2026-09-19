@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ድማ ⟨את⟩ ታድሞር ኣብ ምድረ በዓል ሃንደዮ፣ ከምኡውን ⟨ואת⟩ ኩሉ ከተሳት መኽዘን እቶም ኣብ ሓማት ዝሃንደዮም።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሃንደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታድሞር"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "ታድሞር"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድረ በዓል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ከተሳት መኽዘን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ከተሳት"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "መኽዘን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እተን"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ዝሃንደ"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "ኣብ ሓማት"
+    }
+  ],
+  "timestamp": "2026-09-19T08:01:15.004980137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 102,
+  "translation": "ተስቓርኹ ከም ዑፉ ብብዕቕቲ ኣብ ልዕሊ ዐረባ ኮይና።",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "ተስቓርኹ"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ኮይና"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "ከም ዑፉ"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "ብብዕቕቲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "גג",
+      "gloss": "ዐረባ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:10.923785040Z",
+  "model": "glm-5.3"
+}

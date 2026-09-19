@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 106:21",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ኤል ኣድኀዮም ዘገበረ ኣብ ሚጽራይም ዓቢታት ረሲዮም።",
+  "tokens": [
+    {
+      "surface": "שכחו",
+      "gloss": "ረሲዮም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "מושיעם",
+      "gloss": "ኣድኀዮም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዘገበረ"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ዓቢታት"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ኣብ ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:18.833077948Z",
+  "model": "glm-5.3"
+}

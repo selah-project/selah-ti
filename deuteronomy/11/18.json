@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 11:18",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ነዚኦም ⟨את⟩ ቓላተይ እዚኦም ኣብ ልብኩምን ኣብ ነፍሲኩምን ክትጥሕዝዎም ኢኹማ፣ ነዚኦም ⟨אתם⟩ ኣብ ኢድኩም ንምልክቲ ተሓሪዎም፣ ኣብ መንጎ ኣይንቲኩም እውን ከም ቀረጻ ክኸውኑ ኢኹማ።",
+  "tokens": [
+    {
+      "surface": "ושמתם",
+      "gloss": "ክትጥሕዝዎም ኢኹማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቓላተይ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቓላተይ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ልብኩም"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ እውን"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "ነፍሲኩም"
+    },
+    {
+      "surface": "וקשרתם",
+      "gloss": "ተሓሪዎም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ነዚኦም (ቓላተይ)"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "ንምልክቲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "ኢድኩም"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ክኸውኑ ኢኹማ"
+    },
+    {
+      "surface": "לטוטפת",
+      "gloss": "ንቀረጻ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ኣይንቲኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:53:28.262869314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ንእሽና ዝብል ኣብኡ ተዛረቡ፣ ኣብ ዝተዓወተበት ኩሉ ግበሩ።",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ተዛረቡ ዘመይ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሽና ዝብል ኣብኡ"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ግበሩ ዘመይ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሽና ዝብል ኣብኡ"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ሓሲቡ ዅሉ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኩሉ ብ"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ተዓወትታቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:42.952761480Z",
+  "model": "glm-5.3"
+}

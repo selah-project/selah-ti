@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ሞሸ ድማ ⟨את⟩ እስራኤል ካብ ባሕሪ ሽፋ ኣቐጸሎም፤ ንሳቶም ድማ ናብ ምድረ በዳ ሽዑር ወጹ፤ ብምድረ በዳ ሰለስተ መዓልታት ከዱ፣ ማይ ግን ኣይረኽብዎን።",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "ኣቐጸሎም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞḍ…ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ካብ ባሕሪ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ሽፋ"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ወጹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ምድረ በዳ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ሽዑር"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ከዱ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ብምድረ በዳ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "ረኽብዎ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:19:55.896471961Z",
+  "model": "glm-5.3"
+}

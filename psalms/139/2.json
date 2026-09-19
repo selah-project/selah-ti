@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 139,
+  "translation": "ንስኻ ብዛዕባ ምቕባልን ምትንሳእን ተፈሊጠካኒ፤ ብረቕባ ነባብ ሓሳበይ ተረዲእካዮ።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ተፈሊጠካኒ"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "ምቕባልን"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "ምትንሳእን"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "ተረዲእካዮ"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "ነባብ ሓሳበይ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ብረቕባ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:32.442766852Z",
+  "model": "glm-5.3"
+}

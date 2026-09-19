@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ናይ ዳዊድ። ያህዌህ ምስ ⟨את⟩ ኣባጊያተይ ተኸራከብ፤ ምስ ⟨את⟩ ተዋጋእተይ ድማ ተዋጋ።",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "ተኸራከብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣባጊያተይ"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "ኣባጊያተይ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ተዋጋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተዋጋእተይ"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ተዋጋእተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:55.525527843Z",
+  "model": "glm-5.3"
+}

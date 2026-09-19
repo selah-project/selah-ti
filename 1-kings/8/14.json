@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እቲ ንጉስ ገጹ ቀየረ፣ ነቲ ኹሉ ጉባኤ የስራኤል ⟨את⟩ ተባረኸ፤ ነቲ ኹሉ ጉባኤ የስራኤል እና ቆም ኣሎ።",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ቀየረ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገጹ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ገጹ"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ተባረኸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ ጉባኤ የስራኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የስራኤል"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ነቲ ኹሉ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የስራኤል"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "እና ቆም ኣሎ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:56:11.458257647Z",
+  "model": "glm-5.3"
+}

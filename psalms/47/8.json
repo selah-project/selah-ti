@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 47,
+  "translation": "እሞ ኤሎሂም ንጉስ ⟨ኩሉ⟩ ምድሪ እዩ፤ ዝምሩ ብምርዳእ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ዝምሩ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ብምርዳእ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:00:13.241546186Z",
+  "model": "glm-5.3"
+}

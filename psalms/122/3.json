@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 122,
+  "translation": "የሩሻላይም፣ ከም ከተማ ኣብ ሓደ እትሓድር፣ ተሃንጺ እያ።",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "ተሃንጺ እያ"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "ከም ከተማ"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "እትሓድር"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ናባ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ኣብ ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:32.088963702Z",
+  "model": "glm-5.3"
+}

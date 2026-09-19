@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 75,
+  "translation": "ካብ እታ ዝተቐመጠት ሰዓት ምስ ወሲደ፣ ኣነ ብዝኾነ ማዕረ እናፈረድን እየ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ምስ ወሲደ፣"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "እታ ዝተቐመጠት ሰዓት"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ብዝኾነ ማዕረ"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "እናፈረድን እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:20.880088359Z",
+  "model": "glm-5.3"
+}

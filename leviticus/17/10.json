@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 17:10",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "እቲ ዝኾነ ሰብ ካብ ስድራ እስራኤል ወይ ካብቶም ኣብ መንጎኦም ዝተባእቱ ገዳሲ ዝኾነ ደም እንተ ይብልዕ፣ ኣነ ገጸይ ኣብ ነፍሲ እታ ⟨את⟩ ደም ዝትብልዕቲ ክገብር እየ፣ ነታ ድማ ⟨את⟩ ካብ ህዝባ ክቐርጻ እየ።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እቲ ዝኾነ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ስድራ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ወይ ካብ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "እቲ ገዳሲ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ዝተባእቱ"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "ኣብ መንጎኦም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይብልዕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ክገብር እየ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጸይ"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ኣብ ነፍሲ"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "እታ ዝትብልዕቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነታ ደም"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ነታ ደም"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ክቐርጻ እየ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ነታ (ነፍሲ) ካብ ህዝባ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ካብ መንጎ"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ህዝባ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:01:51.954210809Z",
+  "model": "glm-5.3"
+}

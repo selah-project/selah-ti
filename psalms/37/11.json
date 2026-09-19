@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ተሓቢኡቲ ድማ ነቲ ምድሪ ክወርስዋ እዮም፣ ብብዝሒ ሰላም ኪሕጉሱ ድማ እዮም።",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "ተሓቢኡቲ"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ክወርስዋ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "ኪሕጉሱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዝሒ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:05.582350481Z",
+  "model": "glm-5.3"
+}

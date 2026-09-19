@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ካብ ኩሉ ብዓትተይ ናፍለኒ፤ ሓባይ ውርኽቲ ኣይትገብረኒ።",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ብዓትተይ"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ናፍለኒ"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ውርኽቲ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ሓባይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "ትገብረኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:49.610359648Z",
+  "model": "glm-5.3"
+}

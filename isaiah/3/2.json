@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ናይ ሓይሊ ሰብን ሰብ ቓልሲን፣ ፈራምን ነብዪን ጸራሪን ዓቢ ሰብን።",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "ናይ ሓይሊ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ሰብን"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ቓልሲ"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "ፈራም"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "ነብዪን"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "ጸራሪን"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "ዓቢ ሰብን"
+    }
+  ],
+  "timestamp": "2026-09-19T08:47:25.778144520Z",
+  "model": "glm-5.3"
+}

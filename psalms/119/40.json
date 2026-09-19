@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኣሎኒ፣ ንትእዛዛትኻ ተደሊኹ፣ ኣብ ጽድቂኻ ንህይወት ሓለውኒ።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ኣሎኒ"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "ተደሊኹ"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "ንትእዛዛትኻ"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ኣብ ጽድቂኻ"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "ንህይወት ሓለውኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:41.291205198Z",
+  "model": "glm-5.3"
+}

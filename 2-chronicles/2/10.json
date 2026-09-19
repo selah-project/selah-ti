@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 2:10",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሓውራም ንግስነ ኲር ብጽሑፍ ተዛረበ፣ ናብ ሽሎሞ ድማ ለኣኾ፦ ኣብ ፍቕሪ ያህዌህ ⟨את⟩ ሕዝቡ ንኹም ኣብ ላዕሊኦም ንጉስ ኣቐመጠካ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "ሓውራም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንግስነ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ኲር"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "ብጽሑፍ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ለኣኾ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "באהבת",
+      "gloss": "ኣብ ፍቕሪ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቡ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዚቡ"
+    },
+    {
+      "surface": "נתנך",
+      "gloss": "ኣቐመጠካ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ኣብ ላዕሊኦም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:55:53.938925518Z",
+  "model": "glm-5.3"
+}

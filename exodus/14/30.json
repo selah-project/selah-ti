@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ያህዌህ ድማ ኣብ እቲ መዓልቲ ⟨እቲ⟩ እስራኤል ⟨את⟩ ካብ ኢድ ሚጽራይም ናጸኾ፤ እስራኤል ድማ ንሚጽራይም ⟨את⟩ ኣብ ስሕበት ⟨እቲ⟩ ባሕሪ ሞይቶም ረኣዮም።",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "ናጸኾ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ረኣዩ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚጽራይም"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞይቶም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ስሕበት"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:21:03.865785723Z",
+  "model": "glm-5.3"
+}

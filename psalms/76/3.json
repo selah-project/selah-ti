@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 76,
+  "translation": "ኣብ ሳለም ማሕደሩ ኮይኑ፣ ኣባቢኡ ድማ ኣብ ጽሮን እዩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ ድማ"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "ኣብ ሳለም"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "ማሕደሩ"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "ኣባቢኡ ድማ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ኣብ ጽሮን"
+    }
+  ],
+  "timestamp": "2026-09-19T09:02:49.900013087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ወዲ ሰብ፣ ምስጢር ተዛረብ፣ ኣብ ስድራ እስራኤል ምሳሌ ኣማልእ።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "ተዛረብ"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "ምስጢር"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ኣማልእ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ምሳሌ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T03:33:38.822999878Z",
+  "model": "glm-5.3"
+}

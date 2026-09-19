@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ምኽንያቱ ኣብርኣይ ዝኣውጸናዮም ካብ ምድሪ ሚጽራይም ዝኾኑ ኣብዞም ውላደይ እዮም፤ ከም ምሕደር ኣብዳእ ኣይውንጡን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ውላደይ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እዮም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝኾኑ"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ዝኣውጸናዮም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ካብ ምድሪ ሚጽራይም"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይውንጡን"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "ኣይውንጡን"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "ምሕደር"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ኣብዳእ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:06:51.999668456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ነቲ ናዥ እጣን መሰዊሕ ወርቂ ⟨את⟩ ኣብ ቅድሚ ታቦ ምስክርቲ ተወዲኡ፣ ነቲ ጋሻ ናዥ ኣፍደገ ማሕደር እውን ⟨את⟩ ኣቐምጦ።",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ኣቐምጦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሰዊሕ ወርቂ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሰዊሕ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "ናዥ እጣን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦ"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ምስክርቲ"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ኣቐምጦ እውን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጋሻ ናዥ ኣፍደገ ማሕደር"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ጋሻ"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ናዥ ኣፍደገ"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ማሕደር"
+    }
+  ],
+  "timestamp": "2026-09-18T21:45:47.233423114Z",
+  "model": "glm-5.3"
+}

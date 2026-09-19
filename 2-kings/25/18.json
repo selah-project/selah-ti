@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "እቲ ሹም ተሓኪም ንሸርያሃ ካህን ርእሲ ⟨את⟩፣ ንጸፋንያሁ ካህን ተኻላለውት ድማ ⟨ואת⟩፣ ከምኡውን ነኦም ሰለስተ ዂንቂ ዓቢ ወሲዱ ድማ ⟨ואת⟩።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ሹም"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ተሓኪም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሸርያሃ"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "ሸርያሃ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ጸፋንያሁ"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "ጸፋንያሁ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ተኻላለውት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ሰለስተ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ዂንቂ"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "ዓቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:42:29.366551183Z",
+  "model": "glm-5.3"
+}

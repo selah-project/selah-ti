@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 7:3",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "እቲ ኣፍደግኪ ኩባኢ ኮክብ እዩ፤ ዝተመልበነ ጠሪ ኣይጎድለሉን፤ እቲ ህድማኪ ከም ሕብረ እኽሊ ብሽንሽናት ዝተቐጽለ እዩ።",
+  "tokens": [
+    {
+      "surface": "שררך",
+      "gloss": "እቲ ኣፍደግኪ"
+    },
+    {
+      "surface": "אגן",
+      "gloss": "ኩባኢ"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "ኮክብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ኣይጎድለሉን"
+    },
+    {
+      "surface": "המזג",
+      "gloss": "ዝተመልበነ ጠሪ"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "እቲ ህድማኪ"
+    },
+    {
+      "surface": "ערמת",
+      "gloss": "ሕብረ"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "סוגה",
+      "gloss": "ዝተቐጽለ"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "ብሽንሽናት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:31:42.737208115Z",
+  "model": "glm-5.3"
+}

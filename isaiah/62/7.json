@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 62,
+  "translation": "ንእሱ ድማ ጸላእ ኣይትሃቡን፣ ክሳብ ዝረግጽ፣ ንክሳብ የግብር ⟨את⟩ የሩሻላይም ንምስጋና ኣብ ምድሪ።",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ትሃቡ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ጸላእ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሱ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "ይረግጽ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ንክሳብ"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "የግብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሩሻላይም"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ምስጋና"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:25:05.256163290Z",
+  "model": "glm-5.3"
+}

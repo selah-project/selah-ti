@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 55,
+  "translation": "ስጉምትን ርእዚን ኣብ ውሽጠይ በጺሑኒ፣ ስንቁዕ እውን ደሪሙኒ።",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "ስጉምት"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "ርእዚን"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "በጺሑኒ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ኣብ ውሽጠይ"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "ደሪሙኒ"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "ስንቁዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:37.100932087Z",
+  "model": "glm-5.3"
+}

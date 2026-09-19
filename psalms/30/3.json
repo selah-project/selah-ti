@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ያህዌህ ኤሎሂኻ፣ ናብኻ ተጸለዩኻ፣ ሓዊስካኒ ከውን።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂኻ"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ተጸለዩኻ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኻ"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "ሓዊስካኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:43.458626340Z",
+  "model": "glm-5.3"
+}

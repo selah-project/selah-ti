@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ኣዶናይ ተዛረበ፦ «ካብ ባሻን ክመልስ እየ፣ ካብ ጥልቓት ባሕሪ ክመልስ እየ።»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "ካብ ባሻን"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ክመልስ እየ"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ክመልስ እየ"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "ካብ ጥልቓት"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:21.140792892Z",
+  "model": "glm-5.3"
+}

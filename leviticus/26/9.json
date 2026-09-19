@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ኣነ ድማ ናብ ኣኻትኩም ተመሊሰ ኣበዝየኩም፣ ኣብዛዕብያኩም፣ ኪዳንይ ምስ ኣኻትኩም ኣንብሮ እየ።",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "ተመሊሰ ናብ ኣኻትኩም"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ናብ ኣኻትኩም"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "ኣበዝየኩም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ኣኻትኩም"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ኣብዛዕብያኩም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ኣኻትኩም"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "ኣንብሮ እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኪዳንይ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳንይ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ምስ ኣኻትኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:08:14.146285861Z",
+  "model": "glm-5.3"
+}

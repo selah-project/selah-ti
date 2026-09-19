@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 145,
+  "translation": "ጽቡን እዩ ያህዌህ ንኩሉ፣ ምሕሮቱ ድማ ኣብ ልዕሊ ኩሉ መስራሕቱ ትርከብ።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "ምሕሮቱ-ውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "መስራሕቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:01.757336880Z",
+  "model": "glm-5.3"
+}

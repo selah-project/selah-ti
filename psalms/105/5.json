@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ዕቁታቱ እቲ ዝገበሮ ኣስተውዕሉ፣ ምልክታቱን ቅዋም ኣፉን።",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "ኣስተውዕሉ"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ዕቁታቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበሮ"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "ምልክታቱ"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "ቅዋም"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ኣፉ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:13.923206022Z",
+  "model": "glm-5.3"
+}

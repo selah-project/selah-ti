@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ድማ ⟨את⟩ ቶፈት እታ ኣብ ኣውራ ገበር ውላድ ሕኒን እትርከብ ሓቀነ፤ ሰብ ወዱን ⟨את⟩ ጓልኡን ኣብ ሓዊ ንሞሌኽ ንምስጋእ ኣይካልእዎን።",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "ሓቀነ፤"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቶፈት"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "ቶፈት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እትርከብ"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "ኣብ ኣውራ ገበር"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "ሕኒን"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "ንምስጋእ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወዱ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጓልኡ"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ጓልኡ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ኣብ ሓዊ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ንሞሌኽ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:46:48.922385678Z",
+  "model": "glm-5.3"
+}

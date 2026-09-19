@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ናይ ዓባይ ቁጽዓ ኣብ ወዲ መዓልቲ ይፍለጥ፣ እቲ ብዝም ድማ ውሽጢ ይሓብእ።",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "ዓባይ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ ወዲ መዓልቲ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ይፍለጥ"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "ቁጽዓ"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "ይሓብእ"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ውሽጢ"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ብዝም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:47:08.574673753Z",
+  "model": "glm-5.3"
+}

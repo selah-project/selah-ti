@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "እቲ ዝነበረ ንሱ እዩ እቲ ዝኸውን፤ እቲ ዝተገበረ ንሱ እዩ እቲ ዝክገበር፤ ብትሕቲ ⟨ቲ⟩ ኸምዚ ዝኾነ ሓድሽ ነገር የለን።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ዝነበረ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ዝኸውን"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ከምኡውን እንታይ"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "ዝተገበረ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "ዝክገበር"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ከምኡውን የለን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ሓድሽ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ብትሕቲ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ኸምዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:07:15.479564704Z",
+  "model": "glm-5.3"
+}

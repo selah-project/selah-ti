@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 1:4",
+  "book": "micah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "እተን ከረባት በታትኡ ተሓውሻ፣ እተን ቈላታት ድማ ተበታተና፤ ከም ሳሕ ቅድሚ ሓዊ፣ ከም ማይ ኣብ ምውራድ ዝውዕብ።",
+  "tokens": [
+    {
+      "surface": "ונמסו",
+      "gloss": "ተሓውሻ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ከረባት"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "በታትኡ"
+    },
+    {
+      "surface": "והעמקים",
+      "gloss": "ቈላታት ድማ"
+    },
+    {
+      "surface": "יתבקעו",
+      "gloss": "ተበታተና"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "ከም ሳሕ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ከም ማይ"
+    },
+    {
+      "surface": "מגרים",
+      "gloss": "ዝውዕብ"
+    },
+    {
+      "surface": "במורד",
+      "gloss": "ኣብ ምውራድ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:23:42.168703781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 15:10",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ኣብ ሳልሳይ ወርሕ፣ ኣብ ዓመት ሸሞንተ-ዓሰርተ ናይ መንግስቲ ኣሳ፣ ኣብ የሩሻላይም ተኣከቡ።",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ተኣከቡ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ኣብ የሩሻላይም"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ኣብ ወርሕ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ሳልሳይ"
+    },
+    {
+      "surface": "לשנת",
+      "gloss": "ኣብ ዓመት"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ሸሞንተ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "ናይ መንግስቲ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ኣሳ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:04:06.018982428Z",
+  "model": "glm-5.3"
+}

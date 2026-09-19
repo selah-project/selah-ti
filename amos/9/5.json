@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 9:5",
+  "book": "amos",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ዋላ ኣዶናይ ያህዌህ ጸባኦት እታ ምድሪ እትታኽብ ኣያ ትሕዝን፣ ኩሉ ኣብዛ ዝነብር ድማ ይሓዝን፤ ብሙሉእ ከም ወቕጺ ትወጽእ፣ ከም ወቕጺ ሚጽራይም ትስሕብ።",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "ዋላ ኣዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "הנוגע",
+      "gloss": "ዝታኽብ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ותמוג",
+      "gloss": "ትሕዝን"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "ይሓዝን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ዝነብር"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብዛ"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "ትወጽእ"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "ከም ወቕጺ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ብሙሉእ"
+    },
+    {
+      "surface": "ושקעה",
+      "gloss": "ትስሕብ"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "ከም ወቕጺ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:20:32.581705073Z",
+  "model": "glm-5.3"
+}

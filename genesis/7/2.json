@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 7:2",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ካብ ኩሉ እቲ ንጹሕ እንስሳ ሸውዓተ ሸውዓተ ተውሲድካ — ወዲን ሰበይቱን፤ ካብ እቲ ንጹሕ ዘይኮነ እንስሳ ድማ ክልተ — ወዲን ሰበይቱን።",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "እንስሳ"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "ንጹሕ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ተውሲድካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንዓኻ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ሰበይቱን"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "እንስሳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይ"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "ንጹሕ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ሰበይቱን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:35:17.924270965Z",
+  "model": "glm-5.3"
+}

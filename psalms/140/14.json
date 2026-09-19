@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 140,
+  "translation": "ብሓቂ ጻድቃን ንስምኻ ይዛንኡ፣ ቅኑያት ⟨את⟩ ገጽኻ ይነውሩ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ብሓቂ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ጻድቃን"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "ይዛንኡ"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ንስምኻ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ይነውሩ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ቅኑያት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገጽኻ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:31.749735330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 4:3",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ከኣንቲኺ ከም ገመል ቀይሕ እየን፣ ቃልኺ ውን ጽቡእ እዩ፤ ከም ቅርንጫፍ ሮማን ደረጃኺ ድሕሪ ሽምጥዑኺ እዩ።",
+  "tokens": [
+    {
+      "surface": "כחוט",
+      "gloss": "ከም ገመል"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ቀይሕ"
+    },
+    {
+      "surface": "שפתותיך",
+      "gloss": "ከኣንቲኺ"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "ቃልኺ ውን"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ጽቡእ"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "ከም ቅርንጫፍ"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "ሮማን"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "ደረጃኺ"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "ሽምጥዑኺ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:29:03.412903937Z",
+  "model": "glm-5.3"
+}

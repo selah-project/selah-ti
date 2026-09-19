@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 118,
+  "translation": "እስራኤል ሕጂ ክብል እዩ ከምዚ፦ ናብ ዘለኣለም ሔሴዱ እዩ።",
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "ክብል"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:38.707512623Z",
+  "model": "glm-5.3"
+}

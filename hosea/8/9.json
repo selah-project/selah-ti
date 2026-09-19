@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 8:9",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ምኽንያቱ ንሳቶም ናብ ኣሽሹር ከዱ፣ ከም ደጋፊ ብብሕታዊ ኤፍራይም ኮይኑ ደው እዩ፤ ኤፍራይም ውዕልቲ ተቓሊሱ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ከዱ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣሽሹር"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "ደጋፊ"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "ብብሕታዊ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ኮይኑ ደው እዩ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "התנו",
+      "gloss": "ተቓሊሱ"
+    },
+    {
+      "surface": "אהבים",
+      "gloss": "ውዕልቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:08:30.571460926Z",
+  "model": "glm-5.3"
+}

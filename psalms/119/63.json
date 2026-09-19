@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ሓባር እየ ኩሎም ዝፈርሁኻ ዝኾኑ፣ ከምኡውን ዝዕተዉ ትእዛዋትኻ።",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "ሓባር"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እየ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "ዝፈርሁኻ"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "ከምኡውን ዝዕተዉ"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ትእዛዋትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:54.177279256Z",
+  "model": "glm-5.3"
+}

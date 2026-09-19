@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 61,
+  "translation": "ኣንተ ኤሎሂም ኣዕሊብቲ ጸበበይ ስዓበ፣ ንጸሎተይ ስማዕ።",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "ስማዕ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "ኣዕሊብቲ ጸበበይ"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "ስዓበ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ንጸሎተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:47.366857073Z",
+  "model": "glm-5.3"
+}

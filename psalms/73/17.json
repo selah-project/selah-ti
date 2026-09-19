@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 73,
+  "translation": "ክሳብ እቶም ቅዱሳት ቦታታት ኤል ኣተይ፣ ድሕሪኦም ዝግበር መወዳእታ ንሳቶም ርዱእ ኮይነ።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ኣተይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "ቅዱሳት ቦታታት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "ርዱእ ኮይነ"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "ድሕሪኦም ዝግበር መወዳእታ ንሳቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:17.244794070Z",
+  "model": "glm-5.3"
+}

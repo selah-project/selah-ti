@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እርሻ ሓሊፉ፣ ክራይ ውዒቡ፣ ንሕና ድማ ኣይተድሃንናን።",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "ሓሊፉ"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "እርሻ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ውዒቡ"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ክራይ"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ንሕና ድማ"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ኣይ...ን"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "ተድሃንና"
+    }
+  ],
+  "timestamp": "2026-09-19T02:37:48.841948960Z",
+  "model": "glm-5.3"
+}

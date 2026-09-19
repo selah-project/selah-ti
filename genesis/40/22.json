@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 40:22",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ንሻር ናይቶም ኣፍራሲ ድማ ⟨ואת⟩ ተሰቆሎ፤ ከም ዝፈተሮሎም ዮሴፍ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሻር"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ሻር"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "ናይቶም ኣፍራሲ"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "ተሰቆሎ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "ፈተሮሎም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንኣታቶም"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:58:54.093625182Z",
+  "model": "glm-5.3"
+}

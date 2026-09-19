@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "«ነትራ ድማ ⟨את⟩ በረኻ ኣቭራሃም ዚህብካ፣ ነትራን ንውላድካን ምስ ኣኻ፣ ነቲ ምድሪ መንቐርቕርኻ፣ እታ ኤሎሂም ነቲ ኣቭራሃም ዝሃባቶ፣ ⟨את⟩ ንምድሪ ንብኻ ኽትወርዳ።»",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ዚህብካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ነትራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በረኻ ኣቭራሃም"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "በረኻ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ነትራ"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "ንውላድካ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ምስ ኣኻ"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "ንብኻ ኽትወርዶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "መንቐርቕርኻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ዝሃባቶ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ነቲ ኣቭራሃም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:51:44.377448709Z",
+  "model": "glm-5.3"
+}

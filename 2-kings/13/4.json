@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "የሆኣኻዝ ድማ ኣብ ቅድሚ ያህዌህ ⟨את⟩ ገጽ ሓሸኻ፣ ያህዌህ ድማ ሰምዖ፤ እስራኤል እንተኾይኑ ጸቒጡ ⟨את⟩ ስቓቱ ርኣየ፤ ንጉስ ኣራም ንሳቶም ⟨אתם⟩ እናጸቒጡ እዩ ነይሩ እሞ።",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ሓሸኻ"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "የሆኣኻዝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገጽ ያህዌህ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዖ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ነታ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ…እንተኾይኑ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ርኣየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስቓት እስራኤል"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ጸቒጡ…ስቓት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ…ስለ"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "እናጸቒጡ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ንሳቶም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:26:26.830225234Z",
+  "model": "glm-5.3"
+}

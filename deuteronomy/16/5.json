@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ኣብ ሓደ ካብ በረኻትካ እቲ ያህዌህ ኤሎሂምካ ዝህበካ ዘሎ ዝኾነ ቦታ፣ ⟨את⟩ እቲ ፓስሕ ንምውፋያ ክትኽእል ኣይኮንካን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ክትኽእል"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ንምውፋያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ፓስሕ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "እቲ ፓስሕ"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ኣብ ሓደ"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "ካብ በረኻትካ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ዝህብ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:58:12.340143696Z",
+  "model": "glm-5.3"
+}

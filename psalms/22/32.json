@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ክመጹ እሞ ጽድቑን ነቲ ዝውለድ ብሔር ክነግሩ እዮም፤ ምኽንያቱ ገበረ።",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "ክመጹ"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ክነግሩ"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ጽድቑን"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ነቲ ብሔር"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ዝውለድ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:54.521500722Z",
+  "model": "glm-5.3"
+}

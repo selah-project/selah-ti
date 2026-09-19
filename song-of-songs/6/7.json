@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ከም ቁራጭ ሩሞን ቀርጻኻ ብድሕሪ ሽርሕኻ።",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "ከም ቁራጭ"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "ሩሞን"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "ቀርጻኻ"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "ብድሕሪ"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "ሽርሕኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:28:10.697511076Z",
+  "model": "glm-5.3"
+}

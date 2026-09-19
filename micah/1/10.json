@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣብ ጋት ኣይተዛረብን፣ ኣይተበልኹን፤ ኣብ ቤት ለዓፍራ ኣብ ትኽክል ተኣከብኹ።",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "ኣብ ጋት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "ተዛረብን"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "ኣቢድን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "ተበልኹን"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "ለዓፍራ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ትኽክል"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "ተኣከብኹ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:21:24.707689212Z",
+  "model": "glm-5.3"
+}

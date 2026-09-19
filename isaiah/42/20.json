@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ብዙሓት ነገራት ረኣይካ ኣለ እንተ ዓቢ ግን ኣይተዓቀብካን፤ እታ እንጾራ ኣእዛዊ ኣለዋ ግን ኣይሰምዐትን።",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "ረኣይካ"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ብዙሓት ነገራት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ግን ኣይተዓቀብካን"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ኣይተዓቀብካን"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "እታ እንጾራ ኣእዛዊ"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ኣእዛዊ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ግን"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ኣይሰምዐትን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:11:03.135678991Z",
+  "model": "glm-5.3"
+}

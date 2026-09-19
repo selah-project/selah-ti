@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ንበላዕ ድማ እዚኦም ውላድ ነይሮም፦ ኣዳርን ግራዕን ኣቢሁድን።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ነይሮም"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "ንበላዕ"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "ኣዳር"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "ግራዕ"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "ኣቢሁድ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:34:24.799053229Z",
+  "model": "glm-5.3"
+}

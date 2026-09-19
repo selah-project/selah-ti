@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 45:12",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "ኣነ ምድሪ ገበርኩ፣ ኣብ ልዕሊ ኣኣ ሰብን ፈጠርኩ፤ ኣነ ኢደይ ሰማያት ሰፊሐን፣ ኩሎም ጸባኦም ድማ ኣዘዝኩ።",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ገበርኩ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ወይ ሰብ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ኣብ ልዕሊ ኣኣ"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "ፈጠርኩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ኢደይ"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "ሰፊሐን"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ወይ ኩሎም"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ጸባኦም"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ኣዘዝኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:12:38.060334993Z",
+  "model": "glm-5.3"
+}

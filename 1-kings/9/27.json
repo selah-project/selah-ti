@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 9:27",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ሔራም ድማ ኣብ እቲ ባሕርያት ⟨את⟩ ኣገልገልቲኡ፣ እቶም ባሕሪ ዝፈልጡ ሰባት ኣኻያት፣ ምስ ኣገልገልቲ ሽሎሞ ሰደደ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ሔራም"
+    },
+    {
+      "surface": "באני",
+      "gloss": "ኣብ እቲ ባሕርያት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣገልገልቲኡ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ኣገልገልቲኡ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ኣኻያት"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "ዝፈልጡ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "እቲ ባሕሪ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልገልቲ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:56:39.617204052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 20:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኣብ እቲ ዝንብር እዚኣ ክብሪ፣ ያህዌህ ብኢድ የሸዓያሁ ወዲ ኣሞጽ ተዛረበ እትብል፦ ኺድ፣ ስንጭሮኹ ካብ ወጽሕቲኻ ፍታሕ፣ እታ ጫማኻ ኣቢልካ ካብ እግርኻ ውሰድ። ንሱ ድማ ከምኡ ገበረ፣ ዝንበር ዓራምን ሓራምን ከደ።",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ኣብ እዋን"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "የሸዓያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ኣሞጽ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እትብል"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ኺድ"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "ፍታሕ"
+    },
+    {
+      "surface": "השק",
+      "gloss": "ስንጭሮ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "ወጽሕቲኻ"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "ጫማኻ"
+    },
+    {
+      "surface": "תחלץ",
+      "gloss": "ውሰድዋ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "እግርኻ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ዓራም"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "ሓራም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:52:59.711597006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ድማ ብቑሑ ወርቂ ካብ ውሽጢን ካብ ደገን ኣኽሊሉ፤ ከምኡውን ዙርያኡ ዖሮ ወርቂ ገበረሉ።",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "ኣኽሊሉ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ቑሑ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ውሽጢ"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "ንካብ ደገ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእኡ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ዖሮ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ዙርያኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:42:57.865706602Z",
+  "model": "glm-5.3"
+}

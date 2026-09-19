@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ዝናብኩም ኣብ ግዜኡ ክሃበኩም እዩ፣ እታ ምድሪ ድማ ውፊታ ትህበን፣ ዛፋት እቲ ሰነ ከኣ ፍሮም ይህቡ።",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ክሃበኩም እዩ"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "ዝናብኩም"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "ኣብ ግዜኡ"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ድማ ትህበን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እታ ምድሪ"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ውፊታ"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ከኣ ዛፋት"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "እቲ ሰነ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይህቡ"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ፍሮም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:08:31.220697848Z",
+  "model": "glm-5.3"
+}

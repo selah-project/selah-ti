@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ጠበጠታት ክልተ ሽሕ፣ ቈላብታት ድማ ዓሰርተ፣ ጐረባት ክልተ ሽሕ፣ ተባዕታት ጐረባት ድማ ዓሰርተ።",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "ጠበጠታት"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ክልተ ሽሕ"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "ቈላብታት ድማ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "ጐረባት"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ክልተ ሽሕ"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "ተባዕታት ጐረባት ድማ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዓሰርተ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:54:29.775030045Z",
+  "model": "glm-5.3"
+}

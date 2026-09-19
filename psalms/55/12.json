@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 55,
+  "translation": "ኣጥፍኣት ኣብ መኻነኣ ኣሎ፤ ጭቆናን ብዓቕበትን ካብ ስፍሓኣ ኣይንገልሱን።",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "ኣጥፍኣት"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ኣብ መኻነኣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "ይንገልሱ"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "ካብ ስፍሃኣ"
+    },
+    {
+      "surface": "תך",
+      "gloss": "ጭቆና"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ብዓቕበትን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:47.277245414Z",
+  "model": "glm-5.3"
+}

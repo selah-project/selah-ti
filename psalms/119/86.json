@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኩሉ ትእዛዛትካ ኣምና እዩ፤ ብሓሶት ጀብኑኒ፤ ሓገዘኒ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ትእዛዛትካ"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ኣምና"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ብሓሶት"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "ጀብኑኒ"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "ሓገዘኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:40.834670170Z",
+  "model": "glm-5.3"
+}

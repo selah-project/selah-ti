@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ኣነ «ያህዌህ ርሕረኒ፣ ነፍሲየ ሃንሰኒ፣ ምኽንያቱ ኣብ ኣኽብእትኻ ሓጢአት ገበርኩ» በልኩ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "በልኩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ርሕረኒ"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "ሃንሰኒ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲየ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ሓጢአት ገበርኩ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ኣብ ኣኽብእትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:13.536670610Z",
+  "model": "glm-5.3"
+}

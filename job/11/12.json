@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ባዶ ሰብ ግን ይስብሕ እዩ — ፍሩስ ኣባገላ ሰብ ክውለድ ከሎ።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ሰብ ግን"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "ባዶ"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "ይስብሕ"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ፍሩስ"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "ኣባገላ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "ክውለድ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:07:21.191723450Z",
+  "model": "glm-5.3"
+}

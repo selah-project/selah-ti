@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣብ እታ እዋን ነታ ንኹም እናበልኩ ቐሪብኩ፦ ብባዕለይ ጥራይ ኣይኽእስን ⟨את⟩ ንኹም ንምውሃሕ።",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ቐሪብኩ"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ንኹም"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ኣብ እዋን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበልኩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ኽእስ እየ"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ብባዕለይ ጥራይ"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ንምውሃሕ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንኹም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:44:27.464809537Z",
+  "model": "glm-5.3"
+}

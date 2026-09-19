@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 24:4",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ዘይብሎም ካብ መንገዲ ይሓውሮም፣ ኣብ ሓባር ድማ ድሃታት ምድሪ ይሓቡ።",
+  "tokens": [
+    {
+      "surface": "יטו",
+      "gloss": "ይሓውሮም"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ዘይብሎም"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ካብ መንገዲ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ኣብ ሓባር"
+    },
+    {
+      "surface": "חבאו",
+      "gloss": "ይሓቡ"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ድሃታት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:16:12.204724776Z",
+  "model": "glm-5.3"
+}

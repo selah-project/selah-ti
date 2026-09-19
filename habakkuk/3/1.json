@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ጸሎት ናይ ሓባቅቑ ነቢይ ኣብ ሽጊዮኖት።",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "ጸሎት"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "ናይ ሓባቅቑ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "እቲ ነቢይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "ሽጊዮኖት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:29:30.161709072Z",
+  "model": "glm-5.3"
+}

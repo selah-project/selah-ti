@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 5:10",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "መራሕቲ ይሁዳ ከም ዝውድኡ ዶባ ኮይኖም፤ ኵዓተይ ከም ማይ ኣብ ላዕሎም እኣፍስስ።",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "ኮይኖም"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "መራሕቲ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "כמסיגי",
+      "gloss": "ከም ዝውድኡ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ዶባ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ኣብ ላዕሎም"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "እኣፍስስ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ከም ማይ"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "ኵዓተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:05:40.119846097Z",
+  "model": "glm-5.3"
+}

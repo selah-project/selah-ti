@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ሰብ እንተ ቀዲሰ ⟨את⟩ ቤቱ ቅዱስ ንያህዌህ፣ እቲ ካህን ድማ ኣብ መንጎ ጽቡቕን እኩይን የቐምጦ፤ ከም እቲ ካህን እንተ ተወዳዲሩ ⟨אתו⟩፣ ከምኡ ክቕመጥ እዩ።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "ቀዲሰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "የቐምጦ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ካህን"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡቕ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ን…ን"
+    },
+    {
+      "surface": "רע",
+      "gloss": "እኩይ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "እንተ ተወዳዲሩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "እቲ ካህን"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ካህን"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ክቕመጥ እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:11:38.783634881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ሰበይቲ ብሓዊ ኣክሊል ናይ መሓዝኣ ⟨እያ⟩፤ ዘኣፍርይ ግና ከም ምብራቕ ኣብ ኣጽንእስታቱ ⟨እያ⟩።",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ብሓዊ"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ኣክሊል"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ንመሓዝኣ"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "ከም ምብራቕን"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "ኣብ ኣጽንእስታቱ"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "ዘኣፍርይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:48:08.611255382Z",
+  "model": "glm-5.3"
+}

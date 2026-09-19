@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 78:48",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ከብቲኦም ንበረድ ኣኹኖ፣ መንጎታቶም ድማ ንሳዕረ-ነብሳት ኣተወ።",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "ኣኹኖ"
+    },
+    {
+      "surface": "לברד",
+      "gloss": "ንበረድ"
+    },
+    {
+      "surface": "בעירם",
+      "gloss": "ከብቲኦም"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "መንጎታቶም"
+    },
+    {
+      "surface": "לרשפים",
+      "gloss": "ንሳዕረ-ነብሳት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:19.768234255Z",
+  "model": "glm-5.3"
+}

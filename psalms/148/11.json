@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 148,
+  "translation": "ነገስቲ ምድሪን ኩሉ ህዝብታትን፣ ሹማምቕትን ኩሉ ፈላጭቲ ምድሪን።",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "ነገስቲ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ህዝብታት"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ሹማምቕት"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "ፈላጭቲ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:12.717170727Z",
+  "model": "glm-5.3"
+}

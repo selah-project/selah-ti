@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 59,
+  "translation": "ኣይትቐትሎምን፣ ነፍሲለይ ህዝቢ ኣይይርስዕን፤ ብሓይሊኻ ኣሓዉሮም፣ ኣውርዶም ንስኻ ኣዶናይ ደልትና።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "ትቐትሎም"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ነፍሲለይ"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "ይርስዑ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "ኣሓዉሮም"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "ብሓይሊኻ"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "ኣውርዶም"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "ደልትና"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:50.875127004Z",
+  "model": "glm-5.3"
+}

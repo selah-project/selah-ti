@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 91,
+  "translation": "ምኽንያቱ ኣባይ ተፈተወ፣ ኣድሕኖ እየ፤ ኣረድእዎ እየ፣ ምኽንያቱ ስሜ ኣፈለጠ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ኣባይ"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "ተፈተወ"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "ኣድሕኖ"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "ኣረድእዎ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ኣፈለጠ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ስሜ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:05.932186189Z",
+  "model": "glm-5.3"
+}

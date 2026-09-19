@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 19:21",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኣብ እቲ መዓልቲ ያህዌህ ናብ ሚጽራይም ይፍለጥ፣ ሚጽራይም ድማ ⟨את⟩ ያህዌህ ይፈልጡ፤ ወፈያን መባን ይገብሩ፣ ንያህዌህ እኳዕ ይእዙዙን ይፍጽሙን።",
+  "tokens": [
+    {
+      "surface": "ונודע",
+      "gloss": "ይፍለጥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "ናብ ሚጽራይም"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ይፈልጡ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ እቲ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ይገብሩ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "መባ"
+    },
+    {
+      "surface": "ונדרו",
+      "gloss": "ይእዙዙ"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "እኳዕ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "ይፍጽሙ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:53:07.234727199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 45:15",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "ኩሉ ሓዎቡ ሳሓቖም፡ ኣብ ልዕሊኦም በዛረ፤ ድሕሪ እዚ ሓዎቡ ምስ ⟨את⟩ ኣኾ ተዛረቡ።",
+  "tokens": [
+    {
+      "surface": "וינשק",
+      "gloss": "ሳሓቖም"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ሓዎቡ"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "በዛረ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ኣብ ልዕሊኦም"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ተዛረቡ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ሓዎቡ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ምስ ኣኾ",
+      "marks": "ኣኾ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:07:01.864785970Z",
+  "model": "glm-5.3"
+}

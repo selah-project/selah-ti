@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ልቢ ሓንሳብ ኣብ የማኑ እዩ፤ ልቢ ስዓብ ከኣ ኣብ ጸጸሩ እዩ።",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ሓንሳብ"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "ኣብ የማኑ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ልቢ…ከኣ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ስዓብ"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "ኣብ ጸጸሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:45:59.279936829Z",
+  "model": "glm-5.3"
+}

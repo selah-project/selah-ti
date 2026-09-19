@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ያህዌህ ሰብ ውግእ እዩ፤ ያህዌህ ስሙ እዩ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ውግእ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:22:09.623991757Z",
+  "model": "glm-5.3"
+}

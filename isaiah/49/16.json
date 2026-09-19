@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "ኣሎ፣ ኣብ እዛቶም ኣኻዊ ተቐረጽኩኪ፤ ከላብታትኪ ኣብ ቅድሜይ ኩሉ ግዜ ኣለወን።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "እዛቶም ኣኻዊ"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "ተቐረጽኩኪ"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "ከላብታትኪ"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "ኣብ ቅድሜይ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ኩሉ ግዜ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:14:26.317488220Z",
+  "model": "glm-5.3"
+}

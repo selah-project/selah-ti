@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 34:10",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ንኹምኩም ናይ ቀራብን ወሰን ካብ ሓጸረ-ዔናን ክሳብ ሸፓም ተዓምሩ።",
+  "tokens": [
+    {
+      "surface": "והתאויתם",
+      "gloss": "ተዓምሩ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኹምኩም"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "ናይ ወሰን"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ቀራብን"
+    },
+    {
+      "surface": "מחצר",
+      "gloss": "ካብ ሓጸረ"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "ዔናን"
+    },
+    {
+      "surface": "שפמה",
+      "gloss": "ክሳብ ሸፓም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:42:51.198815424Z",
+  "model": "glm-5.3"
+}

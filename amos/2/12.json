@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "⟨את⟩ ነቲ ናዚራይ ድማ ወይኒ ኣስተይብዎም፡ ነቲ ነብይቲ ድማ እናበልኩም፦ ኣይተነብይዎን።",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "ኣስተይብዎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ናዚራይ"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "ነቲ ናዚራይ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ወይኒ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ነቲ … ድማ"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ነቲ ነብይቲ"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "ኣዘዝኩም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበልኩም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "ተነብይዎን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:12:42.725817436Z",
+  "model": "glm-5.3"
+}

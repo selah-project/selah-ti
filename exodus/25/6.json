@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ዘት ንብርሃን፣ ቅመማት ንዘት ምስምዒን ንእጣን ሽቱን።",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "ዘት"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "ንብርሃን"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ቅመማት"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "ንዘት"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ምስምዒ"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "ንእጣን"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ሽቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:30:42.449869496Z",
+  "model": "glm-5.3"
+}

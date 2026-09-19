@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ዳዊድ ድማ ⟨את⟩ ከደነታት ብርቂ ኣብ ላዕሊ ኣገልጋሊ ሓዳድዓዘር ዝነበሩ ወሲዱ፣ ናብ የሩሻላይም ኣእቲዎም።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከደነታት ብርቂ"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "ከደነታት"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ብርቂ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ዝነበሩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልጋሊ"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ሓዳድዓዘር"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "ኣእቲዎም"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:46:24.234953496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 7:23",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ንኩሉ ሕይወት ኣብ ገጽ ⟨ቲ⟩ ኣዳም ዝነብር ዝነብር ⟨את⟩ ሸፈነ — ካብ ሰብ ክሳብ እንስሳት፣ ክሳብ ኣካላት እትኸሓሹን ክሳብ ዑፋት ሰማያትን፤ ካብ ⟨ቲ⟩ ምድሪ ድማ ተሸፈኑ። ኖን ጥራይን እቶም ምስኡ ኣብ ⟨ቲ⟩ ታቦት ዝነብሩን ኰይኖም ቀሩ።",
+  "tokens": [
+    {
+      "surface": "וימח",
+      "gloss": "ሸፈነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ሕይወት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היקום",
+      "gloss": "ሕይወት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝነብር"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ኣዳም"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ካብ ሰብ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "እንስሳት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ኣካላት እትኸሓሹ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብን"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ዑፋት"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "וימחו",
+      "gloss": "ተሸፈኑ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "וישאר",
+      "gloss": "ቀሩ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖን"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "እቶም ዝነብሩን"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ምስኡ ⟨את⟩"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "ኣብ ታቦት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:34:28.547566350Z",
+  "model": "glm-5.3"
+}

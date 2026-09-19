@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ውላዱ ቶራይ እንተ ዝሓውዮ፣ ብፍርድይን ኣይኺዱን እንተ ዝኾኑ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "ዝሓውዮ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ቶራይ"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "ብፍርድይን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "ኺዱን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:37.779906064Z",
+  "model": "glm-5.3"
+}

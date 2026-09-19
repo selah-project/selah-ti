@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 75,
+  "translation": "ቀርናኹም ንላዕሊ ኣይትሰክሙን፤ ብሓደጋን ኣንጻርን ኣይትዛረቡን።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ኣትሰክሙ"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "ንላዕሊ"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "ቀርናኹም"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "ተዛረቡ"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "ብኣንጻር"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "ምስ ሓደጋ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:24.239960363Z",
+  "model": "glm-5.3"
+}

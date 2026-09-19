@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "እንተ ብቐጥታ ብቃሉ ተሰምዕክምኻ፣ ኩሉ እታ እዛረብ ደው ኢየ ገበርክምኻ፣ ነቲ ⟨את⟩ ጸላእትኻ እተቓወምኩ፣ ነቲ ⟨את⟩ ጸቓሓትኻ እጻወድኩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ብቐጥታ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ተሰምዕ"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ብቃሉ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ተገበር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "እዛረብ"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "እተቓወም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጸላእትኻ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ጸላእትኻ"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "እጻወድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጸቓሓትኻ"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "ጸቓሓትኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:28:43.223414292Z",
+  "model": "glm-5.3"
+}

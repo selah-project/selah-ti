@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "ስም ኤሎሂም ብመዝሙር ኣየኽብር፣ ብምስጋና ከኣ ኣየዓብዮ።",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "ኣየኽብር"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "ብመዝሙር"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "ኣየዓብዮ ከኣ"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ብምስጋና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:15.180894134Z",
+  "model": "glm-5.3"
+}

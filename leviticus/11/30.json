@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "እታ ኣናቕታ፣ እታ ኩኻ፣ እታ ለጠዓ፣ እታ ሕመጥን እታ ተንሸማትን።",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "እታ ኣናቕታ"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "እታ ኩኻ"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "እታ ለጠዓ"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "እታ ሕመጥን"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "እታ ተንሸማትን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:54:25.436460013Z",
+  "model": "glm-5.3"
+}

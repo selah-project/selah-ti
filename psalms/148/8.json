@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 148,
+  "translation": "እሳትን ጠረፍን፣ በረድን ጭጋግን፣ ንፋስ ህቦብ ቃሉ ዝፈጽም።",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "ኰነውን ጠረፍ"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "በረድ"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "ኰነውን ጭጋግ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ንፋስ"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "ህቦብ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝፈጽም"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ቃሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:47.386706123Z",
+  "model": "glm-5.3"
+}

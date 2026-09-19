@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ወይኖምን በረቂቶምን ድማ ተታዮም፣ ኣጽራብቲ ዶባኦም እውን ሰበረ።",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ተታዮም"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "ወይኖም"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "በረቂቶምን"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ሰበረ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ኣጽራብቲ"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ዶባኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:17.320461956Z",
+  "model": "glm-5.3"
+}

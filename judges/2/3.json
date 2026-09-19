@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣነ ድማ እናበልኩ፦ ⟨את⟩ ኦም ካብ ቅድመኹም ኣይውጽኦምን፤ ንኹም ኣብ ጐንኹም ክኾኑ እዮም፣ ኣማልክቶም ድማ ንኹም ንመልል ክኾኑ እዮም ኢለ።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ድማውን"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "እናበልኩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "ኣይውጽኦምን"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ኦም"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "ካብ ቅድመኹም"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ክኾኑ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኹም"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "ኣብ ጐንኹም"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "ኣማልክቶም"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ክኾኑ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኹም"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "ንመልል"
+    }
+  ],
+  "timestamp": "2026-09-18T23:35:43.796424967Z",
+  "model": "glm-5.3"
+}

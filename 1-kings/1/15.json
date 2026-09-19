@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "በት-ሸባዕ ድማ ነቲ ንጉስ ናብ እቲ ክፍሊ ቤት ኣተየት፤ እቲ ንጉስ ድማ ብጣዕሚ ዓቢሩ ነይሩ፣ ኣቪሳግ እታ ሽኦናሚት ድማ ⟨את⟩ እቲ ንጉስ ትገልግል ነይራ።",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ኣተየት"
+    },
+    {
+      "surface": "בת",
+      "gloss": "በት"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸባዕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "እቲ ክፍሊ ቤት"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "እቲ ንጉስ ድማ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ዓቢሩ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "ኣቪሳግ"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "እታ ሽኦናሚት"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "ትገልግል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ንጉስ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:45:07.407318813Z",
+  "model": "glm-5.3"
+}

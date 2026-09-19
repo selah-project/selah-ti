@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ኣርናን ድማ ተመልሱ ⟨את⟩ እቲ መልኣኽ ረኣየ፤ ኣርባዕተ ውላዱ ድማ ምስኡ ተሓቢኦም ነይሮም፤ ኣርናን ድማ እኽሊ ደለቦ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተመልሱ ድማ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ኣርናን"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ መልኣኽ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "እቲ መልኣኽ"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "ኣርባዕተ ድማ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስኡ"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "ተሓቢኦም"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "ኣርናን ድማ"
+    },
+    {
+      "surface": "דש",
+      "gloss": "ደለቦ"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "እኽሊ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:46:00.935859691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 102,
+  "translation": "ናብ ጸሎት እቲ ውሑሽ ተዛረበ፤ ን⟨את⟩ ጸሎቶምን ኣይኣተሎን።",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "ጸሎት"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "እቲ ውሑሽ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ኣተሎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጸሎቶምን"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ጸሎቶምን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:21.192175990Z",
+  "model": "glm-5.3"
+}

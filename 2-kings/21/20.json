@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 21:20",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ኣብ እዝኒ ያህዌህ እቲ ንጥፈእ ገበረ — ከም ዝገበረ ምናሼ ኣቡኡ ከምኡ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "እቲ ንጥፈእ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ እዝኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበረ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሼ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:35:02.709697033Z",
+  "model": "glm-5.3"
+}

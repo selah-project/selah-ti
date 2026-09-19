@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "«ኣዶናይ ያህዌህ ጸባኦት፣ እቶም ዝጽበዩኻ በይ ኣይሕፉኡን፤ ኤሎሂ ናይ እስራኤል፣ እቶም ዝደልዩኻ በይ ኣይዕበዩን።»",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ዝሕፍኡ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በይ"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "ዝጽበዩኻ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "ዝዕበዩ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በይ"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "ዝደልዩኻ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂ ናይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:25.539982097Z",
+  "model": "glm-5.3"
+}

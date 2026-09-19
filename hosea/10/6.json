@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ንሱ ድማ ⟨את⟩ ናብ ኣሽራ ተወሺዱ፣ ኣበል ነቲ ንጉስ ያረብ ኮይኑ፤ ዓቕሊ ኤፍራይም ተቐቢሉ፣ እስራኤል ንኣማኺሩ ይዓቕል።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ናብ ኣሽራ"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "ናብ ኣሽራ"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "ተወሺዱ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ኣበል"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ነቲ ንጉስ"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "ያረብ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ዓቕሊ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ተቐቢሉ"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "ይዓቕልን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "ንኣማኺሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:11:28.538426167Z",
+  "model": "glm-5.3"
+}

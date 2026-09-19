@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ንስኻትኩም ተባዕታት እጽውዕ፣ ቃለይ ድማ ናብ ውላድ ሰብ።",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "ንስኻትኩም"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "ተባዕታት"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "እጽውዕ"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "ቃለይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:45:00.675650696Z",
+  "model": "glm-5.3"
+}

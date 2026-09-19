@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 3:6",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ወን እቲ ዘይወድቕን ዘይስገድን ኣብ እቲ ሰዓቕ ኣብ ውሽጢ እቲ ደቂ እሳት ነድዩ ዘሎ ምድገ ክውየር እዩ።",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ወን እቲ"
+    },
+    {
+      "surface": "די",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ዝወድቕ"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "ዝስገድን"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "שעתא",
+      "gloss": "ሰዓቕ"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "ክውየር"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "ኣብ ውሽጢ"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "ምድገ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "ደቂ እሳት ነድዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:55:39.611085934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 84,
+  "translation": "ከመይ ዝተፈትዩ ማሕደራትካ እዮም፣ ያህዌህ ጸባኦት።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ከመይ"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "ዝተፈትዩ"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "ማሕደራትካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:18.671275066Z",
+  "model": "glm-5.3"
+}

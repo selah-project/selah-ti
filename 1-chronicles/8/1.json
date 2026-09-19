@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ንብንያምን ድማ ⟨את⟩ በላዕ በከራ ወዲኡ ወለዶ፣ ኣሽበል ካልኣይ፣ ኣሕራሕ ሳልሳይ።",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "ንብንያምን"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለዶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በላዕ"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "በላዕ"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "በከራ ወዲኡ"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "ኣሽበል"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ካልኣይ"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "ኣሕራሕ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ሳልሳይ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:34:24.798578549Z",
+  "model": "glm-5.3"
+}

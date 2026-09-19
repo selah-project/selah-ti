@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 39:10",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ድማ ምለኡዎ ብኣርባዕተ መስመራት ዕንድራ፤ መስመር ቀይሓ ዕንድራ፣ ፒተዳ፣ ብረቅታ — እቲ ቀዳማይ መስመር።",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "ምለኡዎ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "መስመራት"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ዕንድራ"
+    },
+    {
+      "surface": "טור",
+      "gloss": "መስመር"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ቀይሓ ዕንድራ"
+    },
+    {
+      "surface": "פטדה",
+      "gloss": "ፒተዳ"
+    },
+    {
+      "surface": "וברקת",
+      "gloss": "ብረቅታ"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "እቲ መስመር"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "እቲ ቀዳማይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:43:03.031081164Z",
+  "model": "glm-5.3"
+}

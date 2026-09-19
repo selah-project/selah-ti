@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 42:12",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ክብሪ ንያህዌህ የድልዩ፤ ምስጋናኡ ድማ ኣብ እቶም ደሴታት ይነግሩ።",
+  "tokens": [
+    {
+      "surface": "ישימו",
+      "gloss": "የድልዩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "ምስጋናኡ"
+    },
+    {
+      "surface": "באיים",
+      "gloss": "ኣብ እቶም ደሴታት"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "ይነግሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:08:57.273310155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 74,
+  "translation": "ኣትኻ ርእሲ ልውያታን ወጊርካ፣ ነቲ ኣብ በዓብሪ ዝነውር ሕዝቢ ከም መግቢ ሃብካዮ።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ኣትኻ"
+    },
+    {
+      "surface": "רצצת",
+      "gloss": "ወጊርካ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "ልውያታን"
+    },
+    {
+      "surface": "תתננו",
+      "gloss": "ሃብካዮ"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ከም መግቢ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ንሕዝቢ"
+    },
+    {
+      "surface": "לציים",
+      "gloss": "ኣብ በዓብሪ ዝነውር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:34.607918074Z",
+  "model": "glm-5.3"
+}

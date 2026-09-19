@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ክሳብ መዓልሲን ካብኡ የይትረፉን፤ ዝንጎሮ ክሳብ መዓልሲን ካብኡ ድማ ኣብ እሳት ተቐቲሉ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "የይ"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "ትረፉ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "መዓልሲ"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "ዝንጎሮ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "መዓልሲ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ኣብ እሳት"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "ተቐቲሉ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:18:15.281461592Z",
+  "model": "glm-5.3"
+}

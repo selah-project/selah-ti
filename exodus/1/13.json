@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ሚጽራይም ድማ ⟨את⟩ ውላድ ይስራኤል ብጽንኩልነት ኣገልገሎም።",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ኣገልገሎም"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ ይስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "ብጽንኩልነት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:10:53.659802960Z",
+  "model": "glm-5.3"
+}

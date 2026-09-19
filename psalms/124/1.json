@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 124,
+  "translation": "መዝሙር ናይ መዓርጉታት፣ ናይ ዳዊድ። ያህዌህ ንሕና እንተ ዘይነበረና፣ እስራኤል ኣብዚ ይብል፦",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ናይ መዓርጉታት"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "እንተ ዘይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ነበረ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ይብል"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ኣብዚ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:00.911636515Z",
+  "model": "glm-5.3"
+}

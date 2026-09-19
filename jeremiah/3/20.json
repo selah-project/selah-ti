@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 3:20",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እወ፣ ከምቲ ሰበይቲ ብሓቂ ብሰብኣኻ ዝተሰርሐት፣ ከምኡ እውን ቤት እስራኤል ብዓይ ተሰሪዓኹም ኢኹም — ንቡር ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "እወ"
+    },
+    {
+      "surface": "בגדה",
+      "gloss": "ተሰርሐት"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "ካብ ሰብኣኻ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "בגדתם",
+      "gloss": "ተሰሪዓኹም"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ብዓይ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ንቡር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:32:50.660394536Z",
+  "model": "glm-5.3"
+}

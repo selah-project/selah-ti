@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "እዚ ስምዑ ኩሉ ህዝብታት፣ ኩሉ ኣባልቲ ዓለም እቲ ሕያው እዋን ተዓዚኑ።",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ስምዑ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ህዝብታት"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "ተዓዚኑ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ኣባልቲ"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "ሕያው እዋን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:00:11.274743949Z",
+  "model": "glm-5.3"
+}

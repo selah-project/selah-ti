@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ቅድሚ ያህዌህ ነቲ ⟨את⟩ ኮረማ ንኽትቑጸሩ ንኹም የዕንንዎ፤ ኣብ መዓልቲ ኣብዛ ሻባት እቲ ኻህን የዕንንዎ።",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "የዕንንዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ኮረማ"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "ነቲ ኮረማ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "ንኽትቑጸሩ ንኹም"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ኣብ መዓልቲ ኣብዛ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ሻባት"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "የዕንንዎ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ኻህን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:04:32.998706108Z",
+  "model": "glm-5.3"
+}

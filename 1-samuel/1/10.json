@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ንሳ ድማ ብመርራ ነፍሲ እናዀነት ኣብ ያህዌህ ተማሕጸነት፤ እናበለቐት እናበከኽት እውን እናበከኽት በከኸት።",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "ንሳ ድማ"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "ብመርራ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "ተማሕጸነት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "እናበከኽት"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "በከኸት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:54:19.634421791Z",
+  "model": "glm-5.3"
+}

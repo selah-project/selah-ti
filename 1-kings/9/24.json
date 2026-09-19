@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 9:24",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ግን ዓይ ፓርዖ ካብ ከተማ ዳዊድ ናብ ቤታ ዝሃነዳ ንኣታ ወሪዳ፤ ኣብኡ ድማ ⟨את⟩ ምሉዓ ሃንዶ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ግን"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ዓይ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ወሪዳ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ካብ ከተማ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ቤታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሃንዶ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ንኣታ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሃንዶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምሉዓ"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "ምሉዓ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:54:42.925840886Z",
+  "model": "glm-5.3"
+}

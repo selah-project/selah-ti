@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 19:17",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ነገሩ ለዳዊድ ተወልወለ፤ ነቲ ⟨את⟩ ኩሉ እስራኤል ሓቦረ፣ ነቲ ዮርዳኖስ ሓለፈ፣ ነቲ ናቦም ከደ፣ ተዳለወን፤ ዳዊድ ንምግጋብ ኣራም ነቲ ሓውቲ ኣደለወ፣ ንሳቶም ድማ ምስኡ ተቓለሱ።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ተወልወለ"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ለዳዊድ"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ሓቦረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እስራኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ሓለፈ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ናቦም"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "ተዳለወን"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "ኣደለወ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ንምግጋብ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ሓውቲ"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ተቓለሱ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:44:02.554567096Z",
+  "model": "glm-5.3"
+}

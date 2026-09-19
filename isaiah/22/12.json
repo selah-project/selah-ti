@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 22:12",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኣዶናይ ያህዌህ ጸባኦት ኣብ እቲ መዓልቲ ንምብካይ፣ ንምስቓይ፣ ንምቅራዕ ከኣ ንምልባብ ማሕጸር ደወለ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ደወለ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "לבכי",
+      "gloss": "ንምብካይ"
+    },
+    {
+      "surface": "ולמספד",
+      "gloss": "ንምስቓይ"
+    },
+    {
+      "surface": "ולקרחה",
+      "gloss": "ንምቅራዕ"
+    },
+    {
+      "surface": "ולחגר",
+      "gloss": "ንምልባብ"
+    },
+    {
+      "surface": "שק",
+      "gloss": "ማሕጸር"
+    }
+  ],
+  "timestamp": "2026-09-19T01:53:43.800016695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ግና ኣነ ብሕይወት እየ፣ ክብሪ ያህዌህ ⟨את⟩ ኩሉ ⟨እቲ⟩ ምድሪ ክመልእ እዩ።",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ግና"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ብሕይወት"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ክመልእ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ⟨እቲ⟩ ምድሪ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨እቲ⟩ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:24:25.986469457Z",
+  "model": "glm-5.3"
+}

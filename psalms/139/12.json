@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 139,
+  "translation": "እምበር ጸልማት ካባኻ ኣይትጸልምእን እዩ፤ ለይቲ ከም መዓልቲ የበርህ እዩ፤ ጸልማት ከም ብርሃን እያ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እምበር"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጸልማት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "ኣይትጸልምእን እዩ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ካባኻ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ለይቲ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ከም መዓልቲ"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "የበርህ እዩ"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "ጸልማት ከም"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "ብርሃን እያ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:41.071527893Z",
+  "model": "glm-5.3"
+}

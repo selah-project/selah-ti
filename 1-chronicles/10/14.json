@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣብ ያህዌህ ድማ ኣይሓተተን፤ ያህዌህ ቀተሎ፣ ⟨את⟩ ⟨ቲ⟩ መንግስቲ ንዳዊድ ወዲ ይሸይ ኣተሓወዋ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ሓተተ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ኣብ ያህዌህ"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ቀተሎ"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ኣተሓወዋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንግስቲ"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "⟨ቲ⟩ መንግስቲ"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ንዳዊድ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ይሸይ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:36:14.746003367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 46,
+  "translation": "ንመራሒ ዝተባረኽ፡ ንውላድ ቓረሕ፡ ብዕልማት፡ መዝሙር።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንመራሒ ዝተባረኽ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ቓረሕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "ዕልማት"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:26.947090777Z",
+  "model": "glm-5.3"
+}

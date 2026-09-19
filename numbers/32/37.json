@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ውላደ ረኡቤን ድማ ⟨את⟩ እሽቦንን ⟨את⟩ ኤልዓለንን ⟨את⟩ ቂርያታይምን ሃንጉሙ።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ረኡቤን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ሃንጉሙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እሽቦን"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "እሽቦን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ን",
+      "marks": "ኤልዓለ"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "ኤልዓለ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ን",
+      "marks": "ቂርያታይም"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "ቂርያታይም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:40:03.774831679Z",
+  "model": "glm-5.3"
+}

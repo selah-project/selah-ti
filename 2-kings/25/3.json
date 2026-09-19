@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ኣብ ዘጠምተ ናይ እቲ ወርሒ እቲ ጥሜት ኣብ ከተማ ኸኣ በዝሒሉ፤ ንሰባት ምድሪ ከኣ ዳቕ የለን።",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "ኣብ ዘጠምተ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ናይ እቲ ወርሒ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "በዝሒሉ"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "እቲ ጥሜት"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ኣብ ከተማ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ከኣ የለን"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቕ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ንሰባት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:42:32.987328932Z",
+  "model": "glm-5.3"
+}

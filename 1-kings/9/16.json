@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ፓርዖ እንጉሲ ሚጽራይም ደወ፣ ⟨את⟩ ግዘር ተቓቐመ፣ ብሓዊ ድማ ኣብርዓኣ፣ ⟨ואת⟩ እቲ ኣብቲ ከተርታ ዝነብር ከነዓኒ ቐተለ፣ ንውዲቱ ድማ ሰበይቲ ሽሎሞ ብስጦታ ሃበኣ።",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "እንጉሲ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ደወ"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ተቓቐመ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ግዘር"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ግዘር"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "ኣብርዓኣ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ብሓዊ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "እቲ ከነዓኒ"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "እቲ ከነዓኒ"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "ዝነብር"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ኣብቲ ከተርታ"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ቐተለ"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ሃበኣ"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "ብስጦታ"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "ንውዲቱ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:57:39.869023280Z",
+  "model": "glm-5.3"
+}

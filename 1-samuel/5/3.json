@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 5:3",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "እቶም ኣሽዶዳውያን ኣብ ቀጺሎ ማዕርያ ተበሩኹሞ፣ ኣሎ ዳጎን ንገጹ ኣብ ምድሪ ተረዲኡ ቅድሚ ታቦት ያህዌህ፤ ነቲ ዳጎን ወሲዶም ናብ ቦታኡ መለስዎ።",
+  "tokens": [
+    {
+      "surface": "וישכמו",
+      "gloss": "ተበሩኹሞ"
+    },
+    {
+      "surface": "אשדודים",
+      "gloss": "እቶም ኣሽዶዳውያን"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ኣብ ቀጺሎ ማዕርያ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ዳጎን"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ተረዲኡ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ንገጹ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ወሲዶም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳጎን"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ዳጎን"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "መለስዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ናብ ቦታኡ"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "ናብ ቦታኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:00:38.552880990Z",
+  "model": "glm-5.3"
+}

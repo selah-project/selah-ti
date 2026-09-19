@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 136,
+  "translation": "እስራኤል ካብ ማእከሎም ኣውጽኡ፤ እስከ ዘለኣለም ሔሴዱ እዩ።",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ኣውጽኡ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "ካብ ማእከሎም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "እስከ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:40.017662767Z",
+  "model": "glm-5.3"
+}

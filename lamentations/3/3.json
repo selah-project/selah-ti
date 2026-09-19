@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ንዓኣ ብሓቂ ተመሊሱ ኢዱ ዓዲሉ ኣሎ ኩሉ እቲ መዓልቲ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ብሓቂ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ንዓኣ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ተመሊሱ"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "ዓዲሉ ኣሎ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "እቲ መዓልቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:35:09.010385614Z",
+  "model": "glm-5.3"
+}

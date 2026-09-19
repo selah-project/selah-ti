@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ያህዌህ ድማ ነይሮም ከም ዝገበሮ ንሲሖንን ንዓጓን፣ ንሃገሮምን ነቶም ኣሞራውያን ነገስቲ እቶም ⟨אתם⟩ ዝጠፍኡ ከምኡ ክገብሮም እዩ።",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ክገብሮም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ነይሮም"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበሮ"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "ንሲሖን"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "ንዓጓ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ነገስቲ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ኣሞራውያን"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "ንሃገሮምን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "ዝጠፍኡ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ንሲሖንን ንዓጓን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:12:46.487969718Z",
+  "model": "glm-5.3"
+}

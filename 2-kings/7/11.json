@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "እቶም ኽታልቲ ድማ ደው እናበሉ ነቲ ቤት እቲ ንጉስ ኣብ ውሽጢ ነገሩ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ደወሩ"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "እቶም ኽታልቲ"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ነገሩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "ኣብ ውሽጢ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:21:40.850809677Z",
+  "model": "glm-5.3"
+}

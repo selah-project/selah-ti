@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ቆዳት ኣውል ብቀይሕቲ ዝተቐብዓን፣ ቆዳት ተኽሽን፣ እዘት ሽታይምን።",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "ቆዳት"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ኣውል"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "ብቀይሕቲ ዝተቐብዓን"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "ቆዳት"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "ተኽሽን"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "እዘት"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ሽታይምን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:38:34.332319071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ታማር ድማ ናብ ቤት ኣምኖን ሓዋ ከደት፤ ንሱ ድማ ተኺለ ነይሩ። ⟨את⟩ ነቲ ሓፍቲ ወሲዳ ኣልባባ፣ ኣብ ቅድሚኡ ተላባበ፣ ⟨את⟩ ነቶም ልብባታት ኣፍልሓ።",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "ከደት"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "ታማር"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "ኣምኖን"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ሓዋ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ተኺለ"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ወሲዳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ሓፍቲ"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "ነቲ ሓፍቲ"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "ኣልባባ"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "ተላባበ"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "ኣብ ቅድሚኡ"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "ኣፍልሓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ልብባታት"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "ነቶም ልብባታት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:29:45.643572222Z",
+  "model": "glm-5.3"
+}

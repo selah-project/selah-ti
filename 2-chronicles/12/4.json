@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ነቶም ከተማታት ምሕደር ናይ ይሁዳ ⟨את⟩ ወሰዶም፣ ክሳብ የሩሻላይም ድማ መጸ።",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "ወሰዶም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተማታት"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ከተማታት"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "ምሕደር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ናይ ይሁዳ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:01:50.288741277Z",
+  "model": "glm-5.3"
+}

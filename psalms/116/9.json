@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 116,
+  "translation": "ኣብ ቅድሚ ያህዌህ ኣብ ምድራት ⟨እቶም⟩ ሕያዋት እኽተይል።",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "እኽተይል"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "ኣብ ምድራት"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "እቶም ሕያዋት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:00.594534167Z",
+  "model": "glm-5.3"
+}

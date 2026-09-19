@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ድማ ⟨אתו⟩ ኣብ ቈላ ናይ ምድሪ ሞኣብ፣ ኣብ ቅድሚ ቤት ፕዑር፣ ቀበረ፤ መቕበርታ እውን የለን ሓደ ሰብ ዝፈልጣ፣ ክሳብ ሎሚ እዚ መዓልቲ።",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "ቀበረ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱ (ሞሸ)"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "ኣብ ቈላ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ናይ ምድሪ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "ፕዑር"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ድማ የለን"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ዝፈልጣ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሓደ ሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መቕበርታ"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "መቕበርታ እውን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ እዚ መዓልቲ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-18T23:13:47.983449512Z",
+  "model": "glm-5.3"
+}

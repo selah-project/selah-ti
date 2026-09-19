@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 111,
+  "translation": "ንተኣማኒታቱ መዘኻኸሪ ገበረ፤ ያህዌህ ሓዋርይን ራሕምን እዩ።",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "መዘኻኸሪ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "ንተኣማኒታቱ"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "ሓዋርይ"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ንራሕም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:25.309075948Z",
+  "model": "glm-5.3"
+}

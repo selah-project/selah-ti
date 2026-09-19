@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ነቲ ሕያው ዑፍ ⟨את⟩ ናብ ወጻኢ ከተር፣ ብቅዓት መስከርቢ ከይድንድን፣ ነቲ ቤት ድማ ይቕረ ይገብር፣ እቲ ቤት ድማ ይጽድቕ።",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "ድንድን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ዑፍ"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "ነቲ ዑፍ"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ወጻኢ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ናይ ከተር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ቅዓት"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "መስከርቢ"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ይቕረ ይገብር"
+    },
+    {
+      "surface": "על",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ይጽድቕ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:56:38.533069055Z",
+  "model": "glm-5.3"
+}

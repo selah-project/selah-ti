@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 12:13",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "በሎኣት በጃኻ ⟨את⟩ ሓብተይ እያ በሊ፤ ንኣነ ብሓበኻ ክጽበየኒን ነፍሰይ በይነኻ ክትነብርን እያ።",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "በሎኣት"
+    },
+    {
+      "surface": "נא",
+      "gloss": "በጃኻ"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ሓብተይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንስኺ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ንምኽንያት ክሳብ"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ክጽበየኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "ብሓበኻ"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "ክትነብርን"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "בגללך",
+      "gloss": "በይነኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:37:48.184268448Z",
+  "model": "glm-5.3"
+}

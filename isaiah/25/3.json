@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 25:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ስለዚ ሓያል ህዝቢ የኽብርውካ፤ ከተማ ናይ ኣሸቃላት ኣህዛብ ይፍርህኻ።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "יכבדוך",
+      "gloss": "የኽብርውካ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ሓያል"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "ኣሸቃላት"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "ይፍርህኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:58:52.657418817Z",
+  "model": "glm-5.3"
+}

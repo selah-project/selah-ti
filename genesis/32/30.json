@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ያዕቆቭ ድማ ሓተቶ፦ «ስምካ ኣረድኣኒ።» ንሱ ድማ በሎ፦ «ስሜ ለምኒ እዚ ትሓትት ኣለኻ?» ኣብኡ ድማ በረኸቶ ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ሓተቶ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ድማ በለ"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ኣረድኣኒ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ለምኒ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምካ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ድማ በሎ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ለምኒ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "ትሓትት ኣለኻ"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "ስሜ"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "በረኸቶ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱ (ያዕቆቭ)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:52:34.549928244Z",
+  "model": "glm-5.3"
+}

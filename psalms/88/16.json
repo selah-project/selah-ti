@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 88,
+  "translation": "ደቂ ቕጨንቕ ኣነ እየ፣ ካብ ንእሽቶይ ጀሚርና እናኾውእ እየ፤ ስንፍኣትኻ ተቓሊለይ፣ ተሓወስኩ እየ።",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "ደቂ ቕጨንቕ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "እናኾውእ"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "ካብ ንእሽቶ"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ተቓሊለይ"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "ስንፍኣትኻ"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "ተሓወስኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:48.207826272Z",
+  "model": "glm-5.3"
+}

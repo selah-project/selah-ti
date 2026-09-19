@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኩሉ ⟨את⟩ ኣብ መዓልታት ሃበልይ ረኣኹ፤ ጻድቕ ኣብ ጽድቁ ዝጠፍእ ኣሎ፣ ክፉዕ ድማ ኣብ ክፉኡ ዝዘርግዖ ኣሎውን።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ረኣኹ"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ኣብ መዓልታት"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "ሃበልይ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቕ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ዝጠፍእ"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "ኣብ ጽድቁ"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ኣሎውን"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉዕ"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "ዝዘርግዖ"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "ኣብ ክፉኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:42:27.790179881Z",
+  "model": "glm-5.3"
+}

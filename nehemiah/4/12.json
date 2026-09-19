@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 4:12",
+  "book": "nehemiah",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "እቶም ሃልዮት ድማ፣ ወዲ ሰብ ሰይፉ ኣብ ወጽኡ እናተሓተነ እናሃለዉ፤ እቲ ኣብ ቀርን እናነፊሱ ድማ ኣብ ኣእዳው ዐለ።",
+  "tokens": [
+    {
+      "surface": "והבונים",
+      "gloss": "እቶም ሃልዮት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ወዲ ሰብ"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ሰይፉ"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "እናተሓተነ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "ወጽኡ"
+    },
+    {
+      "surface": "ובונים",
+      "gloss": "እናሃለዉ"
+    },
+    {
+      "surface": "והתוקע",
+      "gloss": "እቲ እናነፊሱ"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "ኣብ ቀርን"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "ኣብ ኣእዳው"
+    }
+  ],
+  "timestamp": "2026-09-19T07:16:04.158795333Z",
+  "model": "glm-5.3"
+}

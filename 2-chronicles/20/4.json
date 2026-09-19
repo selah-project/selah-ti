@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 20:4",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ይሁዳ ድማ ንያህዌህ ንምላማዕ ተኣኪቦም፤ ካብ ኹሉ ከተራት ይሁዳ እውን ንያህዌህ ⟨את⟩ ንምላማዕ መጹ።",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ተኣኪቦም"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ንምላማዕ"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ካብ ያህዌህ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኹሉ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ከተራት"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "መጹ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ንምላማዕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:09:03.128374263Z",
+  "model": "glm-5.3"
+}

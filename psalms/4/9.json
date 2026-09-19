@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ብሰላም ሓቢርና ኣንቀልዐ እስና ተዘንቢዕ፤ ምኽንያቱ ንስኻ ያህዌህ ጥራይ ብምትካእ ትነብረኒ።",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "ብሰላም"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ሓቢርና"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ኣንቀልዐ"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "ተዘንቢዕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ብምትካእ"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "ትነብረኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:40:35.649765031Z",
+  "model": "glm-5.3"
+}

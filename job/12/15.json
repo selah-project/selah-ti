@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኣርኣያ ነቲ ማይ ይጸልኦ እሞ ይስከሑ፤ ድማ ይለእኦም እሞ ምድሪ ይቕይርዋ።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ኣርኣያ"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "ይጸልኦ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ነቲ ማይ"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ይስከሑ"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ይለእኦም"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "ይቕይርዋ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:08:07.380036923Z",
+  "model": "glm-5.3"
+}

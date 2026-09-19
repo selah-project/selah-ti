@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ነቲ ማዕጻ ድማ ኣብ መንጎ ድኽሞ ስቓሉን መሠዊዕን ኣተወ፣ ኣብኡ ድማ ማይ ንምስባሕ ሃበ።",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ኣተወ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማዕጻ"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ማዕጻ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድኽሞ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ስቓሉ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ኣብ መንጎን"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊዕ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "ንምስባሕ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:45:49.073353661Z",
+  "model": "glm-5.3"
+}

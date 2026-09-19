@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ነቲ ኣብኒ ⟨את⟩ን ነተን እግርቲ ⟨ואת⟩ን ሓጸየ፤ ኣብ ልዕሊ እቲ ወፈያ ንቃትል ድማ ኣብቲ መስዊዕ ኣብዓዮም።",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "ሓጸየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ኣብኒ"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ነቲ ኣብኒ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነተን እግርቲ"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "ነተን እግርቲ"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ኣብዓዮም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "እቲ ወፈያ ንቃትል"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ኣብቲ መስዊዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:29:07.095002647Z",
+  "model": "glm-5.3"
+}

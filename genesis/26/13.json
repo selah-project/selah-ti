@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "እቲ ሰብ ድማ እናዓበየ ከደ፣ እናኸደን እናዓበየን እናቐጸለን፣ ክሳብ ብዙሕ ክዓቢ በጺሑ።",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "እናዓበየ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "እናኸደን"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "እናዓበየን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ክ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ክዓቢ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:47:34.434902343Z",
+  "model": "glm-5.3"
+}

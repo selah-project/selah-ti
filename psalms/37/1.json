@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ናይ ዳዊድ። ብኣስተርሕቲ ኣይትንዘር፣ ኣብ ዝገብርሉ ኣረካ ኣይትቐንዩ።",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ።"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "ትንዘር"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "ብኣስተርሕቲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ትቐንዩ"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "ኣብ ዝገብርሉ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ኣረካ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:38.388072327Z",
+  "model": "glm-5.3"
+}

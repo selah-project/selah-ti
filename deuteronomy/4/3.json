@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 4:3",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣዐይኒኹም እቲ ያህዌህ ብበኣል ፍእዎር ዝገበሮ ⟨את⟩ እቲ ዝገበሮ ረኣያ፤ እስመ ነቲ ሰብ ንበኣል ፍእዎር ዝከደ ያህዌህ ኤሎሂምካ ኻብ መንጎኹም ኣጥፊኡ።",
+  "tokens": [
+    {
+      "surface": "עיניכם",
+      "gloss": "ኣዐይኒኹም"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ረኣያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ዝገበሮ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበሮ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "ብበኣል"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "ፍእዎር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እስመ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ዝከደ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ን"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "በኣል"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "ፍእዎር"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "ኣጥፊኡ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "ኻብ መንጎኹም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:49:33.468300462Z",
+  "model": "glm-5.3"
+}

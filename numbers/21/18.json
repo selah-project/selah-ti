@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 21:18",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "እታ በዓር እቶም ሹማግሌታት ካፈርዋ፣ ኣዋላዲ ህዝቢ ድማ ቈርዓዋ፣ ብተዋሕሶን ብቆራብኖምን፤ ካብ ምድረ በዓር ድማ ናብ ማተና በጽሑ።",
+  "tokens": [
+    {
+      "surface": "באר",
+      "gloss": "እታ በዓር"
+    },
+    {
+      "surface": "חפרוה",
+      "gloss": "ካፈርዋ"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "እቶም ሹማግሌታት"
+    },
+    {
+      "surface": "כרוה",
+      "gloss": "ቈርዓዋ"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "ኣዋላዲ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "במחקק",
+      "gloss": "ብተዋሕሶ"
+    },
+    {
+      "surface": "במשענתם",
+      "gloss": "ብቆራብኖም"
+    },
+    {
+      "surface": "וממדבר",
+      "gloss": "ካብ ምድረ በዓር"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "ማተና"
+    }
+  ],
+  "timestamp": "2026-09-18T22:29:17.096134349Z",
+  "model": "glm-5.3"
+}

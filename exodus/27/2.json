@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 27:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ንቀርንቲ ናይኡ ኣብ ኣርባዕተ ሸነፀታት ናይኡ ትገብር፥ ካብኡ ኢላ ኪኾና እየን እተን ቀርንቲ፥ ንኡ ድማ ብናስ ተሸፍኖ።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ቀርንቲ ናይኡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "ሸነፀታት ናይኡ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ ኢላ"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ኪኾና"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ቀርንቲ ናይኡ"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ድማ ተሸፍኖ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንኡ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ናስ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:32:32.748599172Z",
+  "model": "glm-5.3"
+}

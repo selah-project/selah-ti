@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ብዑል በደል በደልና ኣብኻ፣ ትእዛዛት ⟨את⟩ ብሓፈሻታትን ⟨ואת⟩ ፍትሒታትን እቶም ንሞሸ ኣገልባጭኻ ⟨את⟩ እትእዝዝዎ ዘለኻ ኸይጠብቅናን።",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "ብዑል"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "በደልና"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ኣብኻ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኸይ…ን"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "ጠብቅና"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዛት"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ትእዛዛት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ብሓፈሻታት"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ብሓፈሻታት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ፍትሒታት"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ፍትሒታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "እትእዝዝዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልባጭኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:15:20.913304084Z",
+  "model": "glm-5.3"
+}

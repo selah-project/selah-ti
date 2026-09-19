@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ያህዌህ ተንበር፣ ንገጹ ቅድሚኡ ብምባል ኣውርዶ፤ ነፍሰይ ካብ ረሺዓ ብሽዑርካ ናውጽኣ።",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ተንበር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ቅድሚኡ ብምባል"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ንገጹ"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "ኣውርዶ"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "ናውጽኣ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "ካብ ረሺዓ"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "ብሽዑርካ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:00:17.811740948Z",
+  "model": "glm-5.3"
+}

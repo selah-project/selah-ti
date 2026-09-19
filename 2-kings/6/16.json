@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ድማ በሎ፦ «ኣይትፈርሕ፣ ምኽንያቱ እቶም ⟨את⟩ ምስና ዘለዉ ብዙሓት እዮም፣ ካብቶም ⟨את⟩ ምስኦም ዘለዉ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ትፈርሕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ምስና"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ካብቶም"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ምስኦም ዘለዉ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:18:03.014695254Z",
+  "model": "glm-5.3"
+}

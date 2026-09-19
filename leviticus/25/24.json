@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ኣብ ዅሉ ምድሪ ንብሕቲ ኩነታትኩም፣ ነቲ ምድሪ ምድሂን ህቡ።",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "ኣብ ዅሉ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "ንብሕቲ ኩነታትኩም"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "ምድሂን"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ህቡ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ነቲ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:06:28.512658618Z",
+  "model": "glm-5.3"
+}

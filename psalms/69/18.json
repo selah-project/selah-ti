@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "ገጽካ ካብ ኣገልጋሊኻ ንሓብእ፤ ምኽንያቱ ጸብሒ ኣለኒ፤ ብቕጽበት መልሲ ሃበኒ።",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ሓብእ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽካ"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "ካብ ኣገልጋሊኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ጸብሒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ኣለኒ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ብቕጽበት"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "መልሲ ሃበኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:50.168077448Z",
+  "model": "glm-5.3"
+}

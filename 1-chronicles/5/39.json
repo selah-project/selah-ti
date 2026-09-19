@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ሻሉም ድማ ⟨את⟩ ኽልቅያ ወለደ፣ ኽልቅያ ድማ ⟨את⟩ ዕዝርያ ወለደ።",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "ሻሉም ድማ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኽልቅያ"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "ኽልቅያ"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "ኽልቅያ ድማ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዕዝርያ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ዕዝርያ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:31:00.053533557Z",
+  "model": "glm-5.3"
+}

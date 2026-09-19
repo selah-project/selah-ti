@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ንኹም ጥራይ ዐርየ ካብ ኩሉ ስድራታት ምድሪ፤ ስለዚ ኩሉ ጥፍኣትኹም ኣብ ልዕሊኹም ክቐጥቕጥ እየ።",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንኹም"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ዐርየ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ስድራታት"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "ክቐጥቕጥ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ኣብ ልዕሊኹም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ጥፍኣትኹም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "ጥፍኣትኹም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:14:30.465719749Z",
+  "model": "glm-5.3"
+}

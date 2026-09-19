@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ያህዌህ ድማ ደጊሙ ናብ ኣካዝ ብምባር ተዛረበ።",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "ደጊሙ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ኣካዝ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብምባር"
+    }
+  ],
+  "timestamp": "2026-09-19T01:43:57.948569171Z",
+  "model": "glm-5.3"
+}

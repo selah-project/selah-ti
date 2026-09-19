@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 23:9",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ስለዚ ካብ ርእሲ ኣኽራት እርእዮ ኣሎ፣ ካብ ከባቢታት ድማ እርእዮ ኣሎ፤ ኣሉ፣ ሕዝቢ ብብሕትሉ ዝቐመጥ፣ ኣብ ህዝብታት ድማ ኣይቑጸርን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "ካብ ርእሲ"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "ኣኽራት"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "እርእዮ ኣሎ"
+    },
+    {
+      "surface": "ומגבעות",
+      "gloss": "ንካብ ከባቢታት"
+    },
+    {
+      "surface": "אשורנו",
+      "gloss": "እርእዮ ኣሎ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ኣሉ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "ብብሕትሉ"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ዝቐመጥ"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "ንኣብ ህዝብታት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יתחשב",
+      "gloss": "ይቑጸርን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:33:15.033961623Z",
+  "model": "glm-5.3"
+}

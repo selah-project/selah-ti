@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 83,
+  "translation": "ኣብ ልዕሊ ህዝቢኻ ምኽሪ ሕቡእ እዮም ዝውሕሱ፣ ኣብ ልዕሊ እቶም ተሓቢእትኻውን ድማ እዮም ዝምክሩ።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ህዝቢኻ"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "እዮም ዝውሕሱ"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "ምኽሪ ሕቡእ"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "ንዝምክሩውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "ተሓቢእትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:28.692588727Z",
+  "model": "glm-5.3"
+}

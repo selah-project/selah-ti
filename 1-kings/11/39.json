@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኣነ ድማ ብዛዕባ እዚ ⟨את⟩ ዘርኢ ዳዊድ ክዓቕቖ እየ፣ ግና ኩሉ መዓልታት ኣይኮነን።",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ክዓቕቖ እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዘርኢ ዳዊድ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘርኢ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ብዛዕባ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ግና"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "መዓልታት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:59:08.319834833Z",
+  "model": "glm-5.3"
+}

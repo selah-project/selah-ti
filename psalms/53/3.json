@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 53,
+  "translation": "ኤሎሂም ካብ ሰማያት ኣብ ውላድ ኣዳም ተመልከተ፣ ክርኢ እንተ ዘሎ ምስ ብሂሉ ዝደሊ ⟨את⟩ ኤሎሂም።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ካብ ሰማያት"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "ተመልከተ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ኣዳም"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ክርኢ"
+    },
+    {
+      "surface": "היש",
+      "gloss": "እንተ ዘሎ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ምስ ብሂሉ"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ዝደሊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:30.938944552Z",
+  "model": "glm-5.3"
+}

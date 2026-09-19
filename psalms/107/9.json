@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ምኽንያቱ ነፍሲ እትጸልእ ኣበዝዓ፣ ነፍሲ ድማ እትጠማት ብቕድም ኣመልአ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "ኣበዝዓ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "እትጸልእ"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ነፍሲ ድማ"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "እትጠማት"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ኣመልአ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ብቕድም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:01.837385979Z",
+  "model": "glm-5.3"
+}

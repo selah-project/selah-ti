@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 60,
+  "translation": "ጊልዕድ ናይና እዩ፣ ምናሽህ ናይና እዩ፤ ኤፍራይም ጽንቡት ርእስና እዩ፤ ይሁዳ ኣመላኽቲ ሕጊና እዩ።",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ናይና"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ጊልዕድ"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ንናይናውን"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሽህ"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ኤፍራይምውን"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ጽንቡት"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ርእስና"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "ኣመላኽቲ ሕጊና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:11.292719583Z",
+  "model": "glm-5.3"
+}

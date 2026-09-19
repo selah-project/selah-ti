@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 83,
+  "translation": "ኤሎሂም፣ ስቕታ ናብኻ ኣይግብረልካን፤ ኣይትጸምእን፣ ኤል፣ ኣይትሓልወን።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ስቕታ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ናብኻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ኣይትጸምእን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ንኣይውን"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "ኣይትሓልወን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:28.692108529Z",
+  "model": "glm-5.3"
+}

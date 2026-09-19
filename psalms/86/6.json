@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 86,
+  "translation": "ኣእምይካ ያህዌህ ንስልጣነይ ስምዐ፣ ንዓይ ድማ ንቃል ትሕቲ ልምናታቼ ቀበሎ።",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "ኣእምይካ ስምዐ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ንስልጣነይ"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "ቀበሎ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ንቃል"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "ልምናታቼ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:42.829883548Z",
+  "model": "glm-5.3"
+}

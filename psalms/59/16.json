@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 59,
+  "translation": "ንሳቶም እናዘወተሩ ከባብ ይደልዩ፤ እንተ ኣይበለጹን እናተጋራሩ ይእለሉ።",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "እናዘወተሩ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ከባብ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ኣይበለጹን"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "ይእለሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:03.156302561Z",
+  "model": "glm-5.3"
+}

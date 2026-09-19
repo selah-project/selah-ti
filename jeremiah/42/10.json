@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ኣብ እዚ ምድሪ እዚ ምስ ተመለስኩም እንተ ነብርኩም፣ ንኣኹም ኣበንዕኩምዋ፣ ኣይኣፍልሰኩምን፤ ንኣኹም ኣተክእኩምዋ፣ ኣይኣነቕለኩምን፤ ስለ ዝተሓዘንኩ ነቲ ኣበሳ ኣብ ኣኻትኩም ዝገበርኩዎ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ምስ ተመለስ"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "ነብርኩም"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "ኣበንዕኩምዋ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንኣኹም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "ክኣፍልስ"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "ኣተክእኩምዲ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንኣኹም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "ክኣነቕል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "ዝተሓዘንኩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "እቲ ኣበሳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ዝገበርኩ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ኣብ ኣኻትኩም"
+    }
+  ],
+  "timestamp": "2026-09-19T03:10:12.681395524Z",
+  "model": "glm-5.3"
+}

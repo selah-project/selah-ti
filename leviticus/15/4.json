@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ኩሉ ኣንጻይ እቲ ዝውዕል ኣብኡ እትሽክርክር ርኵሳ እያ፣ ኩሉ ድማ መሳርሒ ኣብኡ እትቕመጥ ርኵሳ እያ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "ኣንጻይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ዝሽክርክር"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "እቲ ዝውዕል"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ርኵሳ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ ድማ"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "መሳርሒ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ዝቕመጥ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ርኵሳ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:30:42.766936728Z",
+  "model": "glm-5.3"
+}

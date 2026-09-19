@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ድንጋያት ሽሃምን ድንጋያት ምዕባይን ንኤፉድን ንኩርኣትን።",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "ድንጋያት"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "ሽሃም"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ድንጋያት"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "ምዕባይ"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "ንኤፉድ"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "ንኩርኣት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:30:42.449997176Z",
+  "model": "glm-5.3"
+}

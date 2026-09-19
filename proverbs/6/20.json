@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ወደይ፣ ትእዛዝ ኣቦኻ ሓሊዉ፣ ቶራ ኣዲኻን ኣትተውጓድን።",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "ሓሊዉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወደይ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ኣቦኻ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣትፈልጦ-ን"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "ኣትተውጓድን"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ኣዲኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:44:47.358417128Z",
+  "model": "glm-5.3"
+}

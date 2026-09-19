@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 102,
+  "translation": "ምኽንያቱ ካብ ላዕሊ ቅዱስኡ ተመልከተ፤ ያህዌህ ካብ ሰማያት ናብ ምድሪ ረኣየ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "ተመልከተ"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ካብ ላዕሊ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስኡ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ካብ ሰማያት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ረኣየ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:21.192655Z",
+  "model": "glm-5.3"
+}

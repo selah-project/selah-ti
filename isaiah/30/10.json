@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ነቶም ንራኢት «ኣይትርኣዩ፣» ነቶም ንምራእዪት ድማ «ኣይተረኣዩ፤ ትኽክልቲ ኣይተዛረቡና፣ ለውጺቲ ዛረቡና፣ ምስምዓት ረኣዩና።» ዝበሉ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ነቶም ዝ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "ንራኢት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "ትርኣዩ"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "ንምራእዪት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "ተረኣዩ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ናትና"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "ትኽክልቲ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ዛረቡ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ናትና"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "ለውጺቲ"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ረኣዩ"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "ምስምዓት"
+    }
+  ],
+  "timestamp": "2026-09-19T02:00:38.819242431Z",
+  "model": "glm-5.3"
+}

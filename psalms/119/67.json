@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ቅድሚ ዝጐድእ ኣነ ተሳስዔ፣ ሕጂ ንቃልኻ ግን ሓዊኹ።",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ዝጐድእ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "ተሳስዔ"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ቃልኻ"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ሓዊኹ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:36.656106862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 13:24",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ሞሸ ድማ ነቲ ኣኽሊል ጋድ፣ ንውላደ ጋድ፣ ንስድራቶም ሃበ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ነቲ ኣኽሊል"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላደ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ንስድራቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:24:32.700762427Z",
+  "model": "glm-5.3"
+}

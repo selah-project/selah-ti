@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 24:16",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "እታ ጓል ድማ ብጣዕሚ ቅኑዕ ምስሊ ዝኾና ድንኩስ ነይራ፤ ሰብ ከኣ ኣይፈልጣን ነይሩ። ንታሕቲ ናብ እቲ ምንጪ ወሪዳ፣ ጸላሊኣ ምልኣት፣ ድማ ደርባ።",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "እታ ጓል"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "ቅኑዕ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ምስሊ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "ድንኩስ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "ፈልጣን"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "ወሪዳ"
+    },
+    {
+      "surface": "העינה",
+      "gloss": "ናብ እቲ ምንጪ"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ምልኣት"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "ጸላሊኣ"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ደርባ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:45:54.117665610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 8:3",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ካብ ውላድ ሸኻንያ፣ ካብ ውላድ ፓሮሽ ዘኻርያ፣ ምስኡ ድማ ብወገን ዝተቐመጹ ተባዕታይ ሽሕ ሰማንተ ወዲ ሃምሳ እዮም።",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "ካብ ውላድ"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "ሸኻንያ"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ካብ ውላድ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ፓሮሽ"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "ዘኻርያ"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ምስኡ"
+    },
+    {
+      "surface": "התיחש",
+      "gloss": "ብወገን ዝተቐመጹ"
+    },
+    {
+      "surface": "לזכרים",
+      "gloss": "ተባዕታይ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ሰማንተ ወዲ ሃምሳ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:13:17.417965933Z",
+  "model": "glm-5.3"
+}

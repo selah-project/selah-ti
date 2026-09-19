@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 115,
+  "translation": "ያህዌህ ዝሓሰበና እዩ፤ ይባርኽ እዩ፣ ⟨את⟩ ስድራ እስራኤል ይባርኽ እዩ፣ ⟨את⟩ ስድራ ኣሃሮን ይባርኽ እዩ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "ዝሓሰበና"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ይባርኽ እዩ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ይባርኽ እዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስድራ እስራኤል"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ይባርኽ እዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስድራ ኣሃሮን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:57.335859629Z",
+  "model": "glm-5.3"
+}

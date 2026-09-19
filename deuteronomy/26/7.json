@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ንሕና ድማ ናብ ያህዌህ፣ ኣምላኽ ኣቦታትና፣ ሰበኽና፤ ያህዌህ ድማ ⟨את⟩ ቓልና ሰምዐ፣ ⟨את⟩ መከራናን ⟨את⟩ ምእዋርናን ⟨את⟩ ግፋወናን ረኣየ።",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "ሰበኽና"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኣምላኽ"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ኣቦታትና"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቓልና"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "ቓልና"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መከራና"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "መከራና"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምእዋርና"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "ምእዋርና"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ግፋወና"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "ግፋወና"
+    }
+  ],
+  "timestamp": "2026-09-18T23:04:46.307015431Z",
+  "model": "glm-5.3"
+}

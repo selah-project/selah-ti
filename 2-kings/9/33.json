@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 9:33",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "በሎ፦ «ኣርዋታ።» ኣርዙአታ ድማ፤ ካብ ደምኣ ናብ እቲ ግንቢ ከምኡውን ናብ እቶም ፈረሳት ተረጊጹ፣ ሓሊሙአታ ድማ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "שמטהו",
+      "gloss": "ኣርዋታ"
+    },
+    {
+      "surface": "וישמטוה",
+      "gloss": "ኣርዙአታ"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "ተረጊጹ"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "ካብ ደምኣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "እቲ ግንቢ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ከምኡውን ናብ"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "እቶም ፈረሳት"
+    },
+    {
+      "surface": "וירמסנה",
+      "gloss": "ሓሊሙአታ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:22:41.450970838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 83,
+  "translation": "ኤሎሃይ ከም ዝኾነ ኩራዕን ከም ኣፍርሲ ቅድሚ ንፋስ ግበሮም።",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሃይ"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "ግበሮም"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "ከም ኩራዕ"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "ከም ኣፍርሲ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ንፋስ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:57.409957582Z",
+  "model": "glm-5.3"
+}

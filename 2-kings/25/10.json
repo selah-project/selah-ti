@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ንኣኳራት የሩሻላይም ኣብ ዙሪያ ⟨ואת⟩ ኩሉ ሰራዊት ኪሳድያይም እቶም ምስ ራብ ጣባሕቲ ዝነበሩ ተሓደሱ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ንኣኳራት የሩሻላይም"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ኣኳራት"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ኣብ ዙሪያ"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "ተሓደሱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ኪሳድያይም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝነበሩ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ራብ"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ጣባሕቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:40:34.573405552Z",
+  "model": "glm-5.3"
+}

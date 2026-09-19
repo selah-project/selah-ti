@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኩሉ ናብ ሓደ ቦታ ይከዳ፤ ኩሉ ካብ እቲ ኣፍርሲ ነይሩ፣ ከምኡውን ኩሉ ናብ እቲ ኣፍርሲ ይመልስ።",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ይከዳ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "እቲ ኣፍርሲ"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "ከምኡውን ኩሉ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ይመልስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "እቲ ኣፍርሲ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:39:51.618026117Z",
+  "model": "glm-5.3"
+}

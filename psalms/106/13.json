@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ብቕልጡኽ ኣጋይሹ ተረስዩ፤ ንምኽሩ ኣይጸንቐይን።",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "ብቕልጡኽ"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "ተረስዩ"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ኣጋይሹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮንን"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "ጸነቐይ"
+    },
+    {
+      "surface": "לעצתו",
+      "gloss": "ንምኽሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:04.062111352Z",
+  "model": "glm-5.3"
+}

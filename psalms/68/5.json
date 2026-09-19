@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ንኤሎሂም ዝሙሩ፣ ነቲ ተቐቢሉ ስሙ ዝሙሩ፤ ነቲ ኣብ እርብዓት ዝኾላ ኣረድኡ፣ ያህ ስሙ እዩ፣ ኣብ ቅድሚኡ ድማ ተዓሩቑ።",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ዝሙሩ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ንኤሎሂም"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ዝሙሩ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "ኣረድኡ"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "ነቲ ዝኾላ"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "ኣብ እርብዓት"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "ተዓሩቑ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ኣብ ቅድሚኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:18.960172678Z",
+  "model": "glm-5.3"
+}

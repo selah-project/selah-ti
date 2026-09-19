@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ድዩ ኣይኮነን? ረኣይ — ካብ ⟨את⟩ יהוה ׌באות ሕዝብታት ንሓዊ እናጓሰሱ፣ ኣሕዛብ ንባዕታዊ ነገር እናሰምዑ ተሓዝኑ።",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ድዩ ኣይኮነን?"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ረኣይ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ካብ ⟨את⟩",
+      "marks": "ያህዌህ ጸባኦት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "ይጓሰሱ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝብታት"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ከምኡውን ኣሕዛብ"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "ን"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ባዕታዊ ነገር"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "ይተሓዝኑ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:27:40.459842820Z",
+  "model": "glm-5.3"
+}

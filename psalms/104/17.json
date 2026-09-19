@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "ኣብኡ ወፍቲ ጥሪብ ይገብሩ፤ ሕሳዕቲ ድማ እቲ ብሮሽታት ቤታ እያ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ኣብኡ ዝኾነት"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "ወፍቲ"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "ጥሪብ ይገብሩ"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "ሕሳዕቲ"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "ብሮሽታት"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ቤታ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:44.216180158Z",
+  "model": "glm-5.3"
+}

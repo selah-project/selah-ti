@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ሞሸ ድማ ንሱን ሽማግለታት እስራኤልን ናብቲ መርፍእ ተመለሱ።",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ተመለሱ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብቲ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "መርፍእ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ሽማግለታት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:24:28.962277999Z",
+  "model": "glm-5.3"
+}

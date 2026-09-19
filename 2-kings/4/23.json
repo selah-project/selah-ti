@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 4:23",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "በለ፦ «ስለምእንታይ ንስኺ ሎሚ ናብኡ ትኸድያ? ወርሒ ኣይኮነን፣ ሻባት እውን ኣይኮነን።» ንሳ ድማ «ሰላም ⟨እዩ⟩» በለት።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ስለምእንታይ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ንስኺ"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ትኸድያ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ናብኡ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ወርሒ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እውን ኣይኮነን"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ሻባት"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "በለት"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:44:15.902724864Z",
+  "model": "glm-5.3"
+}

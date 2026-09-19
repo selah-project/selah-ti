@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 36:11",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ሚካያሁ ወዲ ገማርያሁ ወዲ ሻፓን ድማ ⟨את⟩ ኩሉ ቃላት ያህዌህ ካብ መጽሓፍ ሰምዐ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "ሚካያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "גמריהו",
+      "gloss": "ገማርያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "ሻፓን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ቃላት ያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "መጽሓፍ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:00:35.223797483Z",
+  "model": "glm-5.3"
+}

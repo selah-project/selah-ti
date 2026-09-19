@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኩሉ ያቤሽ ግልዓድ ንዝኾነ ኩሉ ⟨את⟩ እታ ፍልስጢም ንሻኡል ዝገበርዎ ሰምዑ።",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ሰምዑ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "ያቤሽ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ግልዓድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዝገበርዎ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጢም"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ንሻኡል"
+    }
+  ],
+  "timestamp": "2026-09-19T07:37:09.216374652Z",
+  "model": "glm-5.3"
+}

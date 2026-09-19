@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 18:14",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "እስከ ንስኻ ትብሉ፦ ኺድ፣ ንጎይታኻ በሎ፦ እንሆ ኤልያሱ ኣሎ፣ ንሱ ድማ ክቕትለኒ እዩ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ትብሉ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ኺድ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "ንጎይታኻ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያሱ"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "ክቕትለኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:06:45.494138899Z",
+  "model": "glm-5.3"
+}

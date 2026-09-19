@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "«ጓል፣ ስማዒ፣ ረኣዢ፣ እታ እዝንካ ኣዘውቲ፤ ንሕበንኪ ሕዝቢኪን ቤት ኣቦኪን።»",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "ስማዒ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ጓል"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "ረኣዢ"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "ኣዘውቲ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "እታ እዝንካ"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "ንሕበንኪ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ሕዝቢኪ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ኣቦኪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:44.433083882Z",
+  "model": "glm-5.3"
+}

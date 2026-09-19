@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 125,
+  "translation": "ከረባት ኣብ ዙሪያ የሩሻላይም ኣለዉ፤ ያህዌህ ድማ ኣብ ዙሪያ ህዝቡ ካብ ሕጂ ክሳብ ዘለኣለም።",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ከረባት"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ኣብ ዙሪያ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ኣለዉ፤"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ ድማ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ኣብ ዙሪያ"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ህዝቡ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ካብ ሕጂ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:29.223701732Z",
+  "model": "glm-5.3"
+}

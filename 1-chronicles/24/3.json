@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 24:3",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ዳዊድ ድማ ጸዶቅ ካብ ውላድ ኤልዓዛርን ኣሕይሜለኽ ካብ ውላድ ኢታማርን ብኣገልግሎም ብዝኾነ ውሉዶም ክፋሎም።",
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "ክፋሎም"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ጸዶቅን"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "ואחימלך",
+      "gloss": "ኣሕይሜለኽን"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "ኢታማር"
+    },
+    {
+      "surface": "לפקדתם",
+      "gloss": "ብዝኾነ ውሉዶም"
+    },
+    {
+      "surface": "בעבדתם",
+      "gloss": "ብኣገልግሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T09:11:40.904450617Z",
+  "model": "glm-5.3"
+}

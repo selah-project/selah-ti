@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ኣነ ⟨את⟩ ⟨ቲ⟩ ምድሪ እጸልዋ፣ ኣብ ማዕረ ዝቐመጡ ኣጋንንትኹም ድማ ንሳ ክዕመቱ እዮም።",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "እጸልዋ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ቲ⟩ ምድሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ቲ⟩ ምድሪ"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "ክዕመቱ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ኣብ ማዕረ"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ኣጋንንትኹም"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "ዝቐመጡ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:10:21.670819906Z",
+  "model": "glm-5.3"
+}

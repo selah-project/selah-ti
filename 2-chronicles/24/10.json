@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ኹሎም እቶም ስድሳትን ኹሉ እቲ ሕዝቢን ድማ ተዓወቱ፣ ኣእቲዎም ድማ ክሳብ ምዝዛም ናብቲ ታቦት ወረዩ።",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "ተዓወቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "እቶም ስድሳት"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኹልን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ኣእቲዎም"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "ወረዩ"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "ናብቲ ታቦት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "ምዝዛም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:12:17.475146671Z",
+  "model": "glm-5.3"
+}

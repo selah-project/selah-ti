@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 46:2",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 46,
+  "translation": "ኤሎሂም ድማ ኣብ ርኢታት ናይ ⟨እቲ⟩ ለይቲ ናብ ይስራኤል ተዛረበ፦ «ያዕቆብ፣ ያዕቆብ!» እቲ ድማ «እንሆ ኣለኹ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ናብ ይስራኤል"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "ኣብ ርኢታት"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ናይ ለይቲ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረብ እናበለ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እንሆ ኣለኹ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:06:58.747494133Z",
+  "model": "glm-5.3"
+}

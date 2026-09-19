@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ኣብ ህዝብታት ምሳሊ ገበርካና፣ ኣብ ኣህዛብ ድማ ርእሲ ምዝዋር።",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "ገበርካና"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ምሳሊ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ኣብ ህዝብታት"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "ምዝዋር"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "ኣህዛብ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:22.177270778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ያህዌህ ኤሎሂምኪትኪትካ ⟨את⟩ ኲሉ እዚኦም ርጉምታት ኣብ ላዕሊ ተቓውምቲኻን ኣብ ላዕሊ ዘጣሕኑኻን እቶም ዝካተቱካ ይውርሶም።",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ይውርሶም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምኪትካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኲሉ እዚኦም ርጉምታት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኲሉ"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "ርጉምታት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ተቓውምቲኻ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ ላዕሊን"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "ዘጣሕኑኻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝ"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "ዝካተቱካ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:09:33.720264214Z",
+  "model": "glm-5.3"
+}

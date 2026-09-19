@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ን⟨את⟩ ጉርሻታት ውላድ ይስራኤል ሰደደ፣ እሞ ወፈያታት ዓቢ ኣሳለዩ፣ ንያህዌህ ድማ ኣጋማት ከም ወፈያታት ሰላም ዘበሩ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጉርሻታት ውላድ ይስራኤል"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ጉርሻታት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ኣሳለዩ"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ወፈያታት ዓቢ"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ዘበሩ"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "ወፈያታት"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ኣጋማት"
+    }
+  ],
+  "timestamp": "2026-09-19T08:27:07.244255086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 142,
+  "translation": "ቐረብቲ ዓወን ያህዌህ ኣውጽአ፣ ንያህዌህ ቐረብቲ ዓወን ኣሕዮ።",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ቐረብቲ ዓወን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ኣውጽአ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ቐረብቲ ዓወን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ኣሕዮ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:39.407064758Z",
+  "model": "glm-5.3"
+}

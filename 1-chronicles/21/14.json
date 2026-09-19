@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 21:14",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ያህዌህ ድማ ኣብ ይስራኤል ቈርሶ ሃበ፤ ካብ ይስራኤል ድማ ሰባ ሺህ ሰብ ተወደቐ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቈርሶ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ኣብ ይስራኤል"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ተወደቐ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ካብ ይስራኤል"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ሰባ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺህ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:46:26.436105415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኤሎሂም ንውላድ ናይ ሰብ ንኽሓልሉሉ ዝሃቦ ⟨את⟩ እቲ ንግደ ረኣኹ።",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ረኣኹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ንግደ"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "እቲ ንግደ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ናይ ሰብ"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "ንኽሓልሉሉ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:39:17.978502814Z",
+  "model": "glm-5.3"
+}

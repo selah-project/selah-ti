@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 4:1",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ያህዌህ ናብ ሞሸ ተዛረበ፦ ኢሉ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:47:49.340050182Z",
+  "model": "glm-5.3"
+}

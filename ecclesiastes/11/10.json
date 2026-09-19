@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ቅንጭው ካብ ልብኻ ኣሓልዎ፣ ክፉእን ካብ ስጉምኻን ኣሓልዎ፣ ምኽንያቱ ወጻንነትን ጸሊምትን ሃብል እየን።",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "ኣሓልዎ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ቅንጭው"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "ካብ ልብኻ"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "ኣሓልዎ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "ካብ ስጉምኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "ወጻንነት"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "ጸሊምት"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ሃብል"
+    }
+  ],
+  "timestamp": "2026-09-19T06:44:39.221393648Z",
+  "model": "glm-5.3"
+}

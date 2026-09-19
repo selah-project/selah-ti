@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ኢዮብ እውን ድሕሪ ዝኾነ እዚ ምእታይ ዓመታት ከደ፣ ⟨את⟩ ውላዱን ⟨את⟩ ውላድ ውላዱን ኣርባዕተ ትውልድታት ረኣየ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ነይሩ ከደ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኢዮብ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ዝኾነ እዚ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ምእታይ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ወንኣርባዕተ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላዱ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ ውላዱ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "ትውልድታት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:26:00.716880393Z",
+  "model": "glm-5.3"
+}

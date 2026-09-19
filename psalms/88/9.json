@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 88,
+  "translation": "ካባይ ርሒቕካ እቶም ዝፈልጥዎም፤ ንሳቶም ጸርኢ ገበርካኒ፤ ተታኺኡ እየ፣ ኣይወጽእን እየ።",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "ርሒቕካ"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "እቶም ዝፈልጥዎም"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ካባይ"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "ገበርካኒ"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "ጸርኢ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "ተታኺኡ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ኣይወጽእን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:49.106973672Z",
+  "model": "glm-5.3"
+}

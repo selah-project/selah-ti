@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኩሉ እታ ኢድካ እትረኽቦ ንምግባር ብሓይልካ ግበር፤ ምኽንያቱ ግብሪን ሕሳብን ውዱቕን ጥበብን ኣብ ሽኦል የለን፣ እታ ንስኻ ዝከድዶ ኣብኣ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "እትረኽቦ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድካ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ንምግባር"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "ብሓይልካ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ግበር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ግብሪ"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "ሕሳብን"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ውዱቕን"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "ጥበብን"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "ኣብ ሽኦል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ዝከድዶ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ኣብኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:45:15.051767137Z",
+  "model": "glm-5.3"
+}

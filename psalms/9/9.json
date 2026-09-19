@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ንሱ ድማ ንዓለምን ንሕዝብታትን ብጽድቂ ይፈርድ እዩ፣ ብቐንየት ድማ ይዳን።",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ ድማ"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ይፈርድ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ዓለም"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ብጽድቂ"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ይዳን"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ንሕዝብታት"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "ብቐንየት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:39.264062649Z",
+  "model": "glm-5.3"
+}

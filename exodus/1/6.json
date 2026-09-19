@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ዮሴፍ ድማ ሞተ፣ ኩሉ መማሊኡን ኩሉ እቲ ትውልዲ ከምኡውን ሞተ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ ድማ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "መማሊኡ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "ትውልዲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:26:31.393634684Z",
+  "model": "glm-5.3"
+}

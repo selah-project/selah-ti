@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 129,
+  "translation": "ኣብ ኢድ እቲ ሰሪሕ ኣይመልአን፣ ልሑኹ እቲ ዓበይቲ ድማ ኣይመልአን።",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ኣይመልአን"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "ሰሪሕ"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "ልሑኹ እቲ ዓበይቲ"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "ዓበይቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:42.546664619Z",
+  "model": "glm-5.3"
+}

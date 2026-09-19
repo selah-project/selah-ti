@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "ብስለዚ ንስኻ ኤሎሂም ጽንቡዐይ ኢኻ፤ ስለ እንታይ ተወኒ፧ ስለ እንታይ ኣብ ግፃወት ጠሊሚ ተቓጸል እኽድን፧",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ብስለዚ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "ጽንቡዐይ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ስለ እንታይ"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "ተወኒ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ስለ እንታይ"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ተቓጸል"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "እኽድን"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "ኣብ ግፃወት"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ጠሊሚ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:48.080638970Z",
+  "model": "glm-5.3"
+}

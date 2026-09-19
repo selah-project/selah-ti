@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ቕጽቢ ሞኣብ። ኣብ ለይቲ ዓር ናይ ሞኣብ ተወዲኣ ተሓንኮሰት፤ ኣብ ለይቲ ቂር ናይ ሞኣብ ተወዲኣ ተሓንኮሰት።",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ቕጽቢ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ኣብ ለይቲ"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "ለይቲ"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ተወዲኣ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ዓር"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ናይ ሞኣብ"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "ተሓንኮሰት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ኣብ ለይቲ"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "ለይቲ"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ተወዲኣ"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "ቂር"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ናይ ሞኣብ"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "ተሓንከሰት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:52:44.150286734Z",
+  "model": "glm-5.3"
+}

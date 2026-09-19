@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "መከላይ ኣብ ኤሎሂም ⟨እያ⟩፣ ተኣማኒ ብልቢ ዝኣንን መድሓኒ።",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "መከላይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "መድሓኒ"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ተኣማኒ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ብልቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:24.844205233Z",
+  "model": "glm-5.3"
+}

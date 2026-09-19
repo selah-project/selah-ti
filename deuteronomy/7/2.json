@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ያህዌህ ኤሎሂምካ ንሳቶም ኣብ ቅድሚኻ ክሃብካ እንተ ወዲኡ፣ ትሰምዖም፣ ትጥፍኦም ትጥፍኦም፣ ⟨את⟩ን ኣይትቕረቦምን፤ ኪዳን ኣይትቐርጾምን፣ ኣይትሕዞምን።",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "ንሳቶም ክሃብካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ኣብ ቅድሚኻ"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "ትሰምዖም"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "ትጥፍኦም"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "ትጥፍኦም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳቶም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ኣይትቐርጾምን"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ንውን"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "ኣይትሕዞምን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:50:17.548325775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "«እውን ውላድ እስራኤል ⟨את⟩ ፋሲኺታት ⟨ፓሳሕ⟩ ኣብ ዕድሙ ክገብሩ» ኢሉ እናበለ።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ክገብሩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፋሲኺታት"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ፋሲኺታት"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "ኣብ ዕድሙ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:21:10.664999807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ተሓጋርቲ ቈፉ ለይ ቈላት፣ እተን ከም ቶራኻ ኣይኮነን።",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "ቈፉ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለይ"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ተሓጋርቲ"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "ቈላት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እተን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "ከም ቶራኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:40.834031559Z",
+  "model": "glm-5.3"
+}

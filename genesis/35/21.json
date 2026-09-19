@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "እስራኤል ድማ ተጓዓዘ፣ ንዑኡ ማሕደር ካብ ምቕፃሉ ናብ ምግዳል ዕደር ዘረበ።",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "ተጓዓዘ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ዘረበ"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "ማሕደሩ"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "ካብ ምቕፃሉ"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "ናብ ምግዳል"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "ዕደር"
+    }
+  ],
+  "timestamp": "2026-09-18T20:56:35.732639737Z",
+  "model": "glm-5.3"
+}

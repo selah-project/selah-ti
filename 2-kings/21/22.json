@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 21:22",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ያህዌህ ኤሎሂም ናይ ኣቦታቱ ⟨את⟩ ሓደገ፣ ኣብ መገዲ ያህዌህ ድማ ኣይተመላለሰን።",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "ሓደገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም ናይ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ኣቦታቱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ኰይኑ ኣይተመላለሰን"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መገዲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:35:15.645818601Z",
+  "model": "glm-5.3"
+}

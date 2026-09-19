@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ሓይለይን ዝምረይን ያህ እዩ፣ ንኣነ ኮነ መድሓኒ፤ እዚ ኤለይ እዩ፣ ኣመስግኖ፤ ኤሎሂ ኣቦይ፣ ኣዕብየን ኣሪሞ።",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "ሓይለይ"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "ዝምረይን"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "መድሓኒ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ኤለይ"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "ኣመስግኖ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦይ"
+    },
+    {
+      "surface": "וארממנהו",
+      "gloss": "ኣዕብየን ኣሪሞ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:22:09.623854717Z",
+  "model": "glm-5.3"
+}

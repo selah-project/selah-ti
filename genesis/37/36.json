@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "እቶም ማዳናውያን ድማ ⟨את⟩ ንሱ ናብ ሚጽራይም ሸዐቱ፣ ናብ ፖቲፋር፣ ሽምሑ ናይ ፓርዖ፣ ሹም ናይ ተበጻሕቲ።",
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "ማዳናውያን"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "ሸዐቱ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "ፖቲፋር"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "ሽምሑ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ሹም"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "ተበጻሕቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:59:33.832970778Z",
+  "model": "glm-5.3"
+}

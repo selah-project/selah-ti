@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 145,
+  "translation": "ክብሪ መንግስትኻ ይብሉ፣ ቓልበትኻ ድማ ይዛረቡ።",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "መንግስትኻ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ይብሉ"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "ቓልበትኻ-ውን"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ይዛረቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:01.758168268Z",
+  "model": "glm-5.3"
+}

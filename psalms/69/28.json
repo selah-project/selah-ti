@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "ግፍዓት ኣብ ልዕሊ ግፍዓቶም ወስኽ፣ ኣብ ጽድቂኻ ድማ ኣይኣቱን።",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "ወስኽ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ግፍዓት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ግፍዓቶም"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ኣይኣቱን"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ኣብ ጽድቂኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:09.681144136Z",
+  "model": "glm-5.3"
+}

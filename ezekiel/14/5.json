@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ንምኽንያት ነቲ ስዓራ እስራኤል ⟨את⟩ ኣብ ልቦም ከም ዝሕዝዎ፣ እቶም ኩሎም ብጣኦታቶም ካባይ ዝተፈለዩ።",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ንምኽንያት"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "ከም ዝሕዝዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስዓራ እስራኤል"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ስዓራ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ኣብ ልቦም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ዝተፈለዩ"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ካባይ"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "ብጣኦታቶም"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ኩሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:56:35.635669234Z",
+  "model": "glm-5.3"
+}

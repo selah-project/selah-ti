@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 80,
+  "translation": "ያህዌህ ኤሎሂም ጸባኦት፣ መለሶና፤ ገጽኻ ኣብርሃ፣ ንድኅን ድማ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "መለሶና"
+    },
+    {
+      "surface": "האר",
+      "gloss": "ኣብርሃ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽኻ"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "ንድኅን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:09.597006073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 5:19",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ንሱ ድማ ንኣኡ በሎ፦ «ብሰላም ከድ።» ንሱ ድማ ካብ ⟨את⟩ ኡ ሓጺር እርቂ ምድሪ እናኸደ ኸደ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኣኡ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ከድ"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ብሰላም"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ኸደ"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "ካብ ኡ"
+    },
+    {
+      "surface": "כברת",
+      "gloss": "ሓጺር እርቂ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:16:08.946703195Z",
+  "model": "glm-5.3"
+}

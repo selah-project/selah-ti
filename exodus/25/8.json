@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ንኣነ መቕደስ ይገብሩኒ፣ ኣነ ድማ ኣብ መንጎኦም እነብር።",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "ይገብሩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "መቕደስ"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "እነብር"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "ኣብ መንጎኦም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:30:42.450105858Z",
+  "model": "glm-5.3"
+}

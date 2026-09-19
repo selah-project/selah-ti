@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ምስ ኣነ ⟨את⟩ ኣማልኽቲ ብጻይን ኣማልኽቲ ወርቂን ኣይትገብሩን፤ ነራትኩም ኣይትገብሩን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይትገብሩን"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ኣይትገብሩን ትገብሩ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ምስ ኣነ ⟨את⟩",
+      "marks": "ምስ ኣነ (with me)"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኣማልኽቲ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብጻይ"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ኣማልኽቲ…ን"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ትገብሩ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ነራትኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:24:03.945607431Z",
+  "model": "glm-5.3"
+}

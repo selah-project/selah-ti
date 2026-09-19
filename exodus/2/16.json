@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ነቲ ካህን ምድያን ድማ ሸውዓተ ጓልቲ ነበርዎ፤ መጻአዋ፣ ወሲደን፣ ⟨את⟩ መባታት ማይ መሊአዋ ንምስታይ በዓት ኣቦአን።",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "ነቲ ካህን"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ምድያን"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ጓልቲ"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "መጻአዋ"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "ወሲደን"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "መሊአዋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መባታት ማይ"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "መባታት ማይ"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "ንምስታይ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "በዓት"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "ኣቦአን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:11:00.064722871Z",
+  "model": "glm-5.3"
+}

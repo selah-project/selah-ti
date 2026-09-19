@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 22:28",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ህዝቢ ድኻ ⟨את⟩ ትኣድን፣ ዓይናትካ ድማ ኣብ ልዕሊ ኣርዑታት ይወርድዎም።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ህዝቢ ድኻ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ድኻ"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "ትኣድን"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "ከምኡውን ዓይናትካ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "ኣርዑታት"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "ትወርዶም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:42:27.042054576Z",
+  "model": "glm-5.3"
+}

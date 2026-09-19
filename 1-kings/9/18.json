@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ድማ ⟨את⟩ ባዓላትን ⟨את⟩ ታዳሞርን ኣብ በዳ፣ ኣብ ⟨ቲ⟩ ምድሪ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ባዓላት"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "ባዓላት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ታዳሞር"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "ታዳሞር"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ በዳ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:41:08.111498728Z",
+  "model": "glm-5.3"
+}

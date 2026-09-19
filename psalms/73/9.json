@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 73,
+  "translation": "ኣፎም ኣብ ሰማያት ኣቕምጦም፣ ልሳኖምን ኣብ ምድሪ ይሰግሕ እዩ።",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "ኣቕምጦም"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ኣብ ሰማያት"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ኣፎም"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "ልሳኖምን"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "ይሰግሕ እዩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:13.426746532Z",
+  "model": "glm-5.3"
+}

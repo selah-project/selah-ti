@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "እንሆ ኣለኹ — ካብ እቲ ቦታ እቲ ነጸብኩምዎ ⟨אתם⟩ ነቲኡ — ገበርኩምዎ ኣብ ርእስኩም ክብድሕሮ እየ።",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "እንሆ ኣለኹ"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "ኣቐንዕሶም"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "እቲ ቦታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "ነጸብኩምዎ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ነቲኡ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ነቲኡ"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ክብድሕሮ"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "ገበርኩምዎ"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "ኣብ ርእስኩም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:13:30.135122993Z",
+  "model": "glm-5.3"
+}

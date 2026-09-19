@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ሞሸ ድማ ⟨את⟩ ⟨ንእቲ ህዝቢ⟩ ኣብ እቲ መዓልቲ እናበለ ኣዘዘ።",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ኣዘዘ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ እቲ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:04:34.713058159Z",
+  "model": "glm-5.3"
+}

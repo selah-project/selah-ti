@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ያህዌህ ፈትነኒ፣ ከኣ ፍትነኒ፤ ኩላትይን ልበይን ኣፅርዖም።",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "ፈትነኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "ከኣ ፍትነኒ"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "ኣፅርዖም"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ኩላትይ"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ከኣ ልበይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:54.169741909Z",
+  "model": "glm-5.3"
+}

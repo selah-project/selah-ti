@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ዔበር ድማ ኣርባዕተን ሰላሳ ዓመትን ነይሩ፣ ፓለግን ⟨את⟩ ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ዔበር"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ኣርባዕተን"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ሰላሳ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመትን"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፓለግን"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ፓለግ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:58.919680450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 28:19",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ነቲ ስም እቲ ቦታ እቲ ንቤት ኤል በሎ፤ እቲ ስም እቲ ከተማ ግን ቐደሙ ሉዝ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ስም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "እቲ ቦታ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "ግን"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "ሉዝ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እቲ ከተማ"
+    },
+    {
+      "surface": "לראשנה",
+      "gloss": "ቐደሙ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:49:53.235361544Z",
+  "model": "glm-5.3"
+}

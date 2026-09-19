@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 128,
+  "translation": "ውላድ ውላድካ እውን ተረኣይ፤ ሰላም ኣብ ይስራኤል።",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ተረኣይ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ውላድካ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:27.228219924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ድማ ኣብ ንጹልካ ሓሶት ምስክርነት ኣይትዛረብን።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ድማ ኣይ…ን"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ትዛረብ"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ኣብ ንጹልካ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ምስክርነት"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ሓሶት"
+    }
+  ],
+  "timestamp": "2026-09-19T08:34:06.192546560Z",
+  "model": "glm-5.3"
+}

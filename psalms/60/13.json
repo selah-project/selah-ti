@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 60,
+  "translation": "ካብ ጸቕጺ ሓግስና፤ ረድኤት ሰብ ድማ ባዕላ እያ።",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "ሃብ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ረድኤት"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ጸቕጺ"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "ባዕላ"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "መድሓን"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:23.004998112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 91,
+  "translation": "ኣብ ልዕሊ እደታት ይሸክሙኻ፣ እግርኻ ብድንጋይ ከይትሰትር።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "እደታት"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "ይሸክሙኻ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ከይ"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "ትሰትር"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ብድንጋይ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "እግርኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:40.160665273Z",
+  "model": "glm-5.3"
+}

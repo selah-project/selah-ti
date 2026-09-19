@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 81,
+  "translation": "ኣብ ኣንትምኩም ኣምላኽ ረጊብ ከም ዘይንበር ኣይኮነን፤ ንኣምላኽ ረጊብ ከይ ትሰግኡ እውን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ከም ዘይንበር"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣብ ኣንትምኩም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣምላኽ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ረጊብ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ… እውን"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ከይ ትሰግኡ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ንኣምላኽ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ረጊብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:24.515347528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ሞሸ ተቓረበ፣ ናብ ምድሪ ተኣከበ፣ ሰገድ ኣበለ።",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "ተቓረበ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "ተኣከበ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ናብ ምድሪ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ሰገድ ኣበለ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:39:24.952242290Z",
+  "model": "glm-5.3"
+}

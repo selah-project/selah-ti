@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 43:6",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "ድማ ሓደ ካብቲ ቤት ንኣኽ ዝዛረብ ሰምዐኽ፣ ሰብ ንሱ ኣብ ጎና ደዊሉ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "ሰምዐኽ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ዝዛረብ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንኣኽ"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ካብቲ ቤት"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ደዊሉ"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "ኣብ ጎና"
+    }
+  ],
+  "timestamp": "2026-09-19T03:59:42.154668234Z",
+  "model": "glm-5.3"
+}

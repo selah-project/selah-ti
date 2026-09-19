@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ነቶም ኣብዚ ከተማ እዚቲ ⟨את⟩ ዝነብሩ ⟨את⟩ ሰብን ⟨את⟩ እንሳትን ክተታሕኖም እየ፤ ብዓቢ ኣስማት ኪሞትዮም እዮም።",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "ክተታሕኖም እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ኣብዚ ከተማ እዚቲ ዝነብሩ"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ዝነብሩ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሰብ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እንሳት"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "እንሳት"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ብኣስማት"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ኪሞትዮም እዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:52:30.153377673Z",
+  "model": "glm-5.3"
+}

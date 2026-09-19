@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ንዘይጸድቕ ብዙሓት ሕማቓት ኣለዉ፤ እቲ ብያህዌህ ዚኣምን ድማ ሔሴድ ይኽብዎ እዩ።",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "ሕማቓት"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ንዘይጸድቕ"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "እቲ ዚኣምን ድማ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ብያህዌህ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "ይኽብዎ እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:03.494106810Z",
+  "model": "glm-5.3"
+}

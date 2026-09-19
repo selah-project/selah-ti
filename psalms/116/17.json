@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 116,
+  "translation": "ንንስኻ ወፈያ በግ እበውጽእ፣ ብስም ያህዌህ እጸውዕ።",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ንንስኻ"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "እበውጽእ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "በግ"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ብስም-ን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "እጸውዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:57.910414055Z",
+  "model": "glm-5.3"
+}

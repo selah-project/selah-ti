@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 91,
+  "translation": "ካብ ኣብ ጸልማት እናኸደ ካብ ዝዓቢ ሕማቕ በሽታ፣ ካብ ማእሳላዊ ዝዋርድ ውዑይ ድማ ኣይትፍርህን።",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "ካብ ሕማቕ በሽታ"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "ኣብ ጸልማት"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "እናኸደ"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "ካብ ውዑይ"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "ዝዋርድ"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "ማእሳላዊ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:42.943714821Z",
+  "model": "glm-5.3"
+}

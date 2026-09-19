@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ሞሸ ድማ መጸ፣ ንሽማግለ ⟨the⟩ ሕዝቢ ኸኣ ደለዮም፣ ቅድሞም እኳ ⟨את⟩ ኩሉ እቶም ቃላት እዚኦም እቶም ያህዌህ ዝኣዘዞ ኣቕረበሎም።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ደለዮም"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "ነቲ ሽማግለ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ኣቕረበ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ቅድሞም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እቶም ቃላት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ዝኣዘዞ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:25:24.070851511Z",
+  "model": "glm-5.3"
+}

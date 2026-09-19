@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ወይተዛረበኒ ድማ፦ «ወዲ ሰብ፣ ኣብ እግርኻ ተቐምጥ፣ ኣነ ⟨את⟩ ንንስኻ ኣንጸር እየ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ወይተዛረበ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ኣብይ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ተቐምጥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "እግርኻ"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "ኣንጸር"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ንንስኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:20:36.032399027Z",
+  "model": "glm-5.3"
+}

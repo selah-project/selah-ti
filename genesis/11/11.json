@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ሴም ድማ ምስ ወለዱ ⟨את⟩ ኣርፋክሳድ ሓሙሽተ ሚእታይ ዓመት ነይሩ፣ ወዲተታትን ጓልተታትን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ሴም"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ወለዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣርፋክሳድ"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "ኣርፋክሳድ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚእታይ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ወዲተታትን"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ጓልተታትን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:30.255719228Z",
+  "model": "glm-5.3"
+}

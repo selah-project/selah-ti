@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ኣሕኣብ ውን ነቲ ኣብ ልዕሊ ቤቱ ዝነበረ ዓብድያሁ ካዕበ። እቲ ዓብድያሁ ኸኣ ያህዌህ ⟨את⟩ ብጣዕሚ ይኸብር ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ካዕበ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ኣሕኣብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "ዓብድያሁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "ዓብድያሁ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ይኸብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:05:42.062627121Z",
+  "model": "glm-5.3"
+}

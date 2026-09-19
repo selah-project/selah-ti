@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "የሆሹዋዕ ድማ ማኻያት ዕምባባ ገር ንሉ፣ ⟨את⟩ ውላድ እስራኤል ድማ ኣብ እቲ ኮረባ ናይ እቲ ኮብሮ ተኮብሮ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገር ንሉ ድማ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሉ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ማኻያት"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "ዕምባባ"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "ተኮብሮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ እስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "ኮረባ"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "ናይ እቲ ኮብሮ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:19:00.201279632Z",
+  "model": "glm-5.3"
+}

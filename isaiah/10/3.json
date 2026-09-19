@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 10:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣብ መዓልቲ ቅጽሪን ኣብ ብርኩትን — እታ ካብ ርሑቕ ዝመጽእ — እንታይ ተታትዩ? ንመን ትህልዉ ናብ ሓጋዚ? ክብርኩም ድማ ኣበይ ተውሪብኩም?",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ተታትዩ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "פקדה",
+      "gloss": "ቅጽሪ"
+    },
+    {
+      "surface": "ולשואה",
+      "gloss": "ኣብ ብርኩት"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "ካብ ርሑቕ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ዝመጽእ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "תנוסו",
+      "gloss": "ትህልዉ"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "ናብ ሓጋዚ"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "ኣበይ"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "ተውሪብኩም"
+    },
+    {
+      "surface": "כבודכם",
+      "gloss": "ክብርኩም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:50:50.064186383Z",
+  "model": "glm-5.3"
+}

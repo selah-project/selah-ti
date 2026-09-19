@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 146,
+  "translation": "ያህዌህ ኣዐዋት ይኽፈት፣ ያህዌህ ተኩሮም የቐንጺ፣ ያህዌህ ጻድቃት ይፈትው።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "ይኽፈት"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "ኣዐዋት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "የቐንጺ"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "ተኩሮም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ይፈትው"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ጻድቃት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:19.780584814Z",
+  "model": "glm-5.3"
+}

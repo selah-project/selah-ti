@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "መንገድ ሕይወት ትፈልጠኒ እዩ፤ ምስ ⟨את⟩ ገጽኻ ምልእቲ ደስታ ኣሎ፤ ኣብ የማናኻ ድማ ስምምያታት ክሳብ ዘለኣለም ኣለዉ።",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "ትፈልጠኒ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "መንገድ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ሕይወት"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ምልእቲ"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "ደስታ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምስ ገጽኻ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽኻ"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "ስምምያታት"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "ኣብ የማናኻ"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ክሳብ ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:31.286885229Z",
+  "model": "glm-5.3"
+}

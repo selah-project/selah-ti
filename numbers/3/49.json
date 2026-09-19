@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 3:49",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ሞሸ ድማ ናይ ምድሂን ⟨את⟩ ብር ካብ ⟨מאת⟩ እቶም ዝበዝሑ ኣብ ክንዲ ዝተድሕኑ ሎወያት ወሲዱ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብር"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "הפדיום",
+      "gloss": "ናይ ምድሂን"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ካብ ⟨את⟩"
+    },
+    {
+      "surface": "העדפים",
+      "gloss": "እቶም ዝበዝሑ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ክንዲ"
+    },
+    {
+      "surface": "פדויי",
+      "gloss": "ዝተድሕኑ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሎወያት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:12:29.953260736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሰራዊቱን ዝተቐጸሉን ሓሙሽተን ኣርብዓን ሽሕ ሽድሽተ ምዕቲ ሃምሳ እዮም።",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ሰራዊቱን"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ዝተቐጸሉን"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ሓሙሽተን"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ኣርብዓን"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ሽድሽተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ምዕቲ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ሃምሳ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:12:40.568643124Z",
+  "model": "glm-5.3"
+}

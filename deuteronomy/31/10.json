@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ሞሸ ድማ ⟨את⟩ ኣዝዞም እናበለ፦ ኣብ መወዳእታ ኩሉ ሸውዓተ ዓመታት፣ ኣብ ውዱብ ግዜ ናይ ዓመት ምውራይ፣ ኣብ በዓል ዓልሚ።",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ኣዝዞም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቶም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ኣብ መወዳእታ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "ኣብ ውዱብ ግዜ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "ምውራይ"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "ኣብ በዓል"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "ዓልሚ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:13:26.714116052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ስለ መዓልቲን ለይቲን ኢድካ ኣብ ልዕለይ ከቢድ ኮነ፣ እርጭተይ ናብ መድህር በጋ ተቐየረ። ሴላ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "መዓልቲን"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ለይቲን"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "ከቢድ ኮነ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕለይ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድካ"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "ተቐየረ"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "እርጭተይ"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "ናብ መድህር"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "በጋ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:23.463268828Z",
+  "model": "glm-5.3"
+}

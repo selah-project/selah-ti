@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 136,
+  "translation": "መወርስቲ ንእስራኤል ኣገልጋሊኡ፤ ምኽንያቱ ናብ ዘለኣለም ሔሴዱ እዩ።",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "መወርስቲ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ንእስራኤል"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ኣገልጋሊኡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:56.931166974Z",
+  "model": "glm-5.3"
+}

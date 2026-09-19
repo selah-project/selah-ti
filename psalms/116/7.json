@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 116,
+  "translation": "ነፍሲ፣ ናብ ስንብትኪ ውንጪ፣ ምኽንያቱ ያህዌህ ጽቡቕ ገበረልኪ።",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "ውንጪ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "ናብ ስንብትኪ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "ጽቡቕ ገበረ"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "ልኪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:35.950644642Z",
+  "model": "glm-5.3"
+}

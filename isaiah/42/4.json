@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 42:4",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ኣይሓውን፣ ኣይትበልሸን፣ ክሳብ ፍትሕቲ ኣብ ምድሪ ዝቕምጥ፣ ንቶራኡ ድማ ደሴታት ይጽበያኦ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יכהה",
+      "gloss": "ይሓው"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ን፣ ኣይ…ን"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "ይትበልሸ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ዝቕምጥ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍትሕቲ"
+    },
+    {
+      "surface": "ולתורתו",
+      "gloss": "ንቶራኡ"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ደሴታት"
+    },
+    {
+      "surface": "ייחילו",
+      "gloss": "ይጽበያኦ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:11:36.516477634Z",
+  "model": "glm-5.3"
+}

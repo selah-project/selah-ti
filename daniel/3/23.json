@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "daniel 3:23",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እዚኦም ሰለሲቶም ተባዕታት ድማ፣ ሻድራኽ፣ ሜሻኽን ኣበድ ነ጖ን፣ ተሓሰርቲ ኮይኖም ናብ መንጎ እታ ዝሓጐሰት ቈላሕቲ እቲ እሳት ወደቑ።",
+  "tokens": [
+    {
+      "surface": "וגבריא",
+      "gloss": "እቶም ተባዕታት ድማ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "תלתהון",
+      "gloss": "ሰለሲቶም"
+    },
+    {
+      "surface": "שדרך",
+      "gloss": "ሻድራኽ"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "ሜሻኽ"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ወን ኣበድ"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "ነ጖"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ወደቑ"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "ናብ መንጎ"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "ቈላሕቲ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "ዝሓጐሰት"
+    },
+    {
+      "surface": "מכפתין",
+      "gloss": "ተሓሰርቲ ኮይኖም"
+    }
+  ],
+  "timestamp": "2026-09-19T06:56:36.898757269Z",
+  "model": "glm-5.3"
+}

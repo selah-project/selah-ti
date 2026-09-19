@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ኣነ ግን ኣብ ንስኻ ተሓጸብኩ ያህዌህ፤ «ኤሎሃይ ንስኻ ኢኻ» በልኩ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ግን"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ኣብ ንስኻ"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ተሓጸብኩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "በልኩ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሃይ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:38.403650915Z",
+  "model": "glm-5.3"
+}

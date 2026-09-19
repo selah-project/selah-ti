@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ስለ እቲ ኣቭራሃም ንቓለይ ሰምዐ፣ ተኸታኽተይ፣ ትእዛዛተይ፣ ስርዓተይን ቶራተይን ኸይተኸታኰለ።",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ንቓለይ"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "ኸይተኸታኰለ"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "ተኸታኽተይ"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ትእዛዛተይ"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "ስርዓተይ"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "ቶራተይ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:48:16.411208822Z",
+  "model": "glm-5.3"
+}

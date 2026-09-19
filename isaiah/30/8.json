@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ሕጂ እተወ፣ ነዚ ኣብ ሰሌኒ ⟨את⟩ ቅድሚ ንሳቶም ጸሓፋ፣ ወይ ኣብ መጽሓፍ ተቐርጾ፣ ንኻልኣይ መዓልቲ ውን ንምስክርነት ንኽኸውን — ክሳብ ዘለኣለም።",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "እተወ"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "ጸሓፋ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "ሰሌኒ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ቅድሚ ንሳቶም"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ወይ ኣብ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "መጽሓፍ"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "ተቐርጾ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ውን ንኽኸውን"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ንኻልኣይ መዓልቲ"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ወዲኣ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ንምስክርነት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:03:36.724573625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 1:1",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣብ ሓደ ዓመት ናይ ኮረሽ ንጉስ ፓርስ፣ ንቃል ያህዌህ ካብ ኣፍ ይርምያህ ንምፍጻም፣ ያህዌህ ⟨את⟩ መንፈስ ናይ ኮረሽ ንጉስ ፓርስ ኣበገሶ፤ ንሱ ድማ ቃል ኣቢሉ ኣብ ዅሉ መንግስቱ ኣሳለጠ፣ ከምኡውን ብጽሑፍ ንምባል፦",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "ኣብ ዓመት"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "ናይ ኮረሽ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "ፓርስ"
+    },
+    {
+      "surface": "לכלות",
+      "gloss": "ንምፍጻም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "ካብ ኣፍ"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "ይርምያህ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ኣበገሰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንፈስ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "כרש",
+      "gloss": "ኮረሽ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "ፓርስ"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ኣሳለጠ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጺ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ዅሉ"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "መንግስቱ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "במכתב",
+      "gloss": "ብጽሑፍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ንምባል"
+    }
+  ],
+  "timestamp": "2026-09-19T07:06:31.754296800Z",
+  "model": "glm-5.3"
+}

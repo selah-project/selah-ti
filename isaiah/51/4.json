@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 51,
+  "translation": "ንዓይ ኣዳምሱ ሕዝበይ፣ ብሔረይ ድማ ንዓይ ስማዑ፤ ምኽንያቱ ቶራ ካባይ ⟨את⟩ ትውፅእ፣ ፍስሓይ ድማ ንሕዝብቲ ብርሃን ኮይና ብቕልጢፍ ኣካይዳ።",
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "ኣዳምሱ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝበይ"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "ብሔረይ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "ስማዑ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "ካባይ ⟨את⟩",
+      "marks": "ቶራ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ትውፅእ"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "ፍስሓይ"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ንብርሃን"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ንሕዝብቲ"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "ብቕልጢፍ ኣካይዶ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:50:49.102668739Z",
+  "model": "glm-5.3"
+}

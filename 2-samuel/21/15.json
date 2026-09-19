@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ደጊሞም ንእስራኤል ምስ ፍልሰታት ውግእ ነይራ፤ ዳዊድ ድማ ምሲኡ ምስ ኣገልጋሊኡ ወረደ፤ ምስ ፍልሰታት ተቓልሱ፣ ዳዊድ ድማ ደኺመ።",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ነይራ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደጊሞም"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ውግእ"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "ንፍልሰታት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ምስ",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ወረደ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "ኣገልጋሊኡን"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምሲኡ"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ተቓልሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ምስ",
+      "marks": "ፍልሰታት"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልሰታት"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "ደኺመ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:38:48.883339884Z",
+  "model": "glm-5.3"
+}

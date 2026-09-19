@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 71,
+  "translation": "«ንዓይ ስነይ ናይ ገደቢ ማሕደር፣ ኣብ ኩሉ ግዜ ንዝኣቱሉ፤ ንምድሓነኒ ኣዘዝካ፤ ምኽንያቱ ገደበይን ጽርሕ ቤተይን ንስኻ እንተኻ።»",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "ስነይ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ናይ ገደቢ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ንምእታይ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ኣብ ኩሉ ግዜ"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "ኣዘዝካ"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "ንምድሓነኒ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "ገደበይ"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ጽርሕ ቤተይ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:09.277430108Z",
+  "model": "glm-5.3"
+}

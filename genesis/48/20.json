@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 48:20",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "ኣብ እቲ መዓልቲ ድማ ባረኸቖም ኢሉ፦ «ብኻ ይስራኤል ይባርኽ እዩ ኢሉ፦ ኤሎሂም ከም ኤፍራይምን ከም ምናሸን የግበርካ»። ድማ ⟨את⟩ ኤፍራይም ቅድሚ ምናሸ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "ባረኸቖም"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "ኢሉ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ብኻ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ይባርኽ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ"
+    },
+    {
+      "surface": "ישמך",
+      "gloss": "የግበርካ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "כאפרים",
+      "gloss": "ከም ኤፍራይም"
+    },
+    {
+      "surface": "וכמנשה",
+      "gloss": "ከም ምናሸን"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤፍራይም"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሸ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:09:03.233010483Z",
+  "model": "glm-5.3"
+}

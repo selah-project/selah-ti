@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "ሞራን ኣሃሎትን ቅጽያን ኩለን ኣልባሳትካ እየን፤ ካብ ህይክታት ዕጥልቲ እተታተያ መሳቒታት ኣሓጐስካ።",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "ሞራ"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "ኣሃሎት"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "ቅጽያ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩለን"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "ኣልባሳትካ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "ህይክታት"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ዕጥልቲ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "እተታተያ መሳቒታት"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "ኣሓጐስካ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:44.432429206Z",
+  "model": "glm-5.3"
+}

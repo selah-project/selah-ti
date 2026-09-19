@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ያህዌህ ድማ በሎ፦ «ርእዪ ረኣኹ ⟨את⟩ ጥቅትቲ ሕዝበይ ኣብ ምጽራይም ዘሎ፤ በዓይኒ ድማ ⟨את⟩ ቅሳናቶም ካብ ኣፍሓቕቶም ሰምዐ፣ ምኽንያቱ ⟨את⟩ ሕማማቶም ደሊኹ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ድማ በሎ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ርእዪ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ረኣኹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጥቅትቲ ሕዝበይ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ጥቅትቲ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝበይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ምጽራይም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቅሳናቶም"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "ቅሳናቶም"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "ኣፍሓቕቶም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ደሊኹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕማማቶም"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "ሕማማቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:11:54.378209162Z",
+  "model": "glm-5.3"
+}

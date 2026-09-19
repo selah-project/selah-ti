@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኤሎሂም ኣይትሓርምን ፣ ከምኡውን መራሒ ኣብ ህዝብኻ ኣይትትርገምን።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "ትሓርምን"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "መራሒ ውን"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "ኣብ ህዝብኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ትትርገምን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:27:59.318189478Z",
+  "model": "glm-5.3"
+}

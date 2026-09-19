@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ንሳ ድማ ነታይና ንኽትወልድ ⟨את⟩ ኣሕዎ ⟨את⟩ ሄበል ወለደት። ሄበል ድማ በጊያ ዝሰምር ነይሩ፣ ቃይን ድማ ምድሪ ዝሰርሕ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "ነታይና"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "ንኽትወልድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሕዎ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ኣሕዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሄበል"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ሄበል"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ሄበል"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ዝሰምር"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "በጊያ"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "ቃይን ድማ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ዝሰርሕ"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:31:23.815624219Z",
+  "model": "glm-5.3"
+}

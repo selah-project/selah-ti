@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 3:14",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኤሎሂም ድማ ናብ ሞሸ ተዛረበ፦ «እየ ዝእየ»። ድማ ከምዚ በሎ፦ ንውላድ እስራኤል ከምዚ ተዛረብ፦ «እየ ንኹም ሓበኩም»።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "እየ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "እየ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ተዛረብ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "እየ"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ሓበኩም"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ንኹም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:15:01.785821863Z",
+  "model": "glm-5.3"
+}

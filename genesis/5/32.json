@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኖኽ ድማ ወዲ ኽሙሽተ ምአታት ዓመት ኮይኑ፣ ኖኽ ⟨את⟩ ሽም፣ ⟨את⟩ ኻምን ⟨ואת⟩ ይፈትን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖኽ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ኽሙሽተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ምአታት"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖኽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሽም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ሽም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኻም"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ኻም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ይፈት"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ይፈት"
+    }
+  ],
+  "timestamp": "2026-09-19T08:25:42.802915933Z",
+  "model": "glm-5.3"
+}

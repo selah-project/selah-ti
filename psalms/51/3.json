@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 51,
+  "translation": "ኤሎሂም ብሔሴድካ ሓረነኒ፣ ብዝሒ ምሕረትካ ድማ ብዓቕያተይ ኣጥፍእ።",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ሓረነኒ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "ብሔሴድካ"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "ብዝሒ"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ምሕረትካ"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "ኣጥፍእ"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ብዓቕያተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:19.046767089Z",
+  "model": "glm-5.3"
+}

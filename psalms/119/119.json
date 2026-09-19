@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ከም ፍልሻት ነቶም ኩሉ ኣጣራሕቲ ምድሪ ኣብሓሱኻ፤ ስለዚ ወደድኩ ምስክርታትኻ።",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "ከም ፍልሻት"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ኣብሓሱኻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "ኣጣራሕቲ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ወደድኩ"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ምስክርታትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:57.320398995Z",
+  "model": "glm-5.3"
+}

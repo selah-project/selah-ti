@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 30:14",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "«ንደቡባዊ ምድሪ ከረቲ፣ ንትሕቲ ይሁዳን ንደቡባዊ ከለብን ተዘረፍና፤ ⟨את⟩ ጽቅላግ ድማ ብሓዊ ሓደግና።»",
+  "tokens": [
+    {
+      "surface": "אנחנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "פשטנו",
+      "gloss": "ተዘረፍና"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ደቡባዊ"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "ከረቲ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ከምኡውን ን"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ደቡባዊ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ከለብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጽቅላግ"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "ጽቅላግ"
+    },
+    {
+      "surface": "שרפנו",
+      "gloss": "ሓደግና"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ብሓዊ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:18:00.039970853Z",
+  "model": "glm-5.3"
+}

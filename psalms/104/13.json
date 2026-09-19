@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "ከረማት ካብ ማዕበላቱ ይሰቒኦ ኣሎ፤ ምድሪ ኵነን ካብ ፍረታት መስርሕታትካ ተሰቲያ እያ።",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "ይሰቒኦ ኣሎ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ከረማት"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "ካብ ማዕበላቱ"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ካብ ፍረታት"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "መስርሕታትካ"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ተሰቲያ እያ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:33.081355251Z",
+  "model": "glm-5.3"
+}

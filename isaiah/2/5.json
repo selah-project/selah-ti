@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኦ ቤት ያዕቆብ፣ ኪዱ፣ ብብርሃን ያህዌህ ንኺድና።",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ኪዱ"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ንኺድና"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ብብርሃን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:40:06.935929184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 145,
+  "translation": "ሓያል ተርብዒታትኻ ክብሉ እዮም፣ ዓብይነትካ ድማ እነግራ እየ።",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "ሓያል ድልውላት"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "ተርብዒታትኻ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ክብሉ እዮም"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "ዓብይነትካ"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "እነግራ እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:22.060469683Z",
+  "model": "glm-5.3"
+}

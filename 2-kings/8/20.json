@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣብ መዓልታቱ እዶም ካብ ታሕቲ ኢድ ይሁዳ ተበገሰ፣ ንሳቶም ድማ ንጉስ ኣቐሚጦም።",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "ኣብ መዓልታቱ"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ተበገሰ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "እዶም"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ካብ ታሕቲ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ኣቐሚጦም"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:21:34.254839950Z",
+  "model": "glm-5.3"
+}

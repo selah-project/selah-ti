@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "በርበርኩ፣ ተዛረብኩ እውን ኣይኮንኩን፣ ትእዛዛትኻ ንምክልካል።",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "በርበርኩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "ተዛረብኩ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ንምክልካል"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ትእዛዛትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:13.022127226Z",
+  "model": "glm-5.3"
+}

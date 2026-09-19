@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 54:7",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 54,
+  "translation": "ንእሽቶ ኣጽሒማ ሓዲገኹኪ፣ ብዓቢታት ምሕረታት ከኣ እናሰብሕኪ እየ።",
+  "tokens": [
+    {
+      "surface": "ברגע",
+      "gloss": "ኣጽሒማ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ንእሽቶ"
+    },
+    {
+      "surface": "עזבתיך",
+      "gloss": "ሓዲገኹኪ"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "ብምሕረታት"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ዓቢታት"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "እናሰብሕኪ እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:17:24.614702235Z",
+  "model": "glm-5.3"
+}

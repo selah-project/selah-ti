@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ዝገበሮ ነገር ኣብ እዝኒ ያህዌህ ክፉእ ነይሩ፤ ያህዌህ ድማ ⟨אתו⟩ ንእኡ እውን ሞትዎ።",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ክፉእ ነይሩ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ እዝኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞትዎ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ንእኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:01:10.333421497Z",
+  "model": "glm-5.3"
+}

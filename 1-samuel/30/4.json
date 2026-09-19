@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ዳዊድን ህዝቢ ⟨את⟩ ምስ እቶም ዝነበሩዎን ⟨את⟩ ድምፆም ኣሪሞም እናበኹ ክሳብ ክብዕቲ እናዘይብዓል ኣይነበሮምን።",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ኣሪሞም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድን"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝነበሩዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ምስ ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምፆም"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ድምፆም"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "እናበኹ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እናዘይብዓል"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ኣይነበሮምን"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ኣብኦም"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ክብዕቲ"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "ንምብካይ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:18:31.603939294Z",
+  "model": "glm-5.3"
+}

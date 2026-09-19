@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "እዞም ስሞም ድማ እዮም፦ ቤን-ሕር ኣብ ተራራ ኤፍራይም።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እዞም"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "ስሞም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ቤን-"
+    },
+    {
+      "surface": "חור",
+      "gloss": "ሕር"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ኣብ ተራራ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:46:18.927966908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ጸይዮን ብደምታት ይሃንጹ፣ የሩሻላይም ድማ ብዘይግባእ ይሃንጹ።",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "ይሃንጹ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጸይዮን"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "ብደምታት"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "ብዘይግባእ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:20:55.935580946Z",
+  "model": "glm-5.3"
+}

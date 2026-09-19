@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ኣቦትና ኣብ ሚጽራይም ተኣምራትኻ ኣይገበሩን፣ ⟨את⟩ ስፍሓት ሔሴድታትኻ ዘይተዘኻኽርዎን፣ ኣብ ልዕሊ ባሕሪ ኣመጹ — ኣብ ባሕሪ ᡡፍ።",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "ኣቦትና"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ኣብ ሚጽራይም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "ኣይገበሩን"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ተኣምራትኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ዘይተዘኻኽርዎን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስፍሓት ሔሴድታትኻ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ስፍሓት"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "ሔሴድታትኻ"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "ኣመጹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ኣብ ባሕሪ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ᡡፍ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:57.109245621Z",
+  "model": "glm-5.3"
+}

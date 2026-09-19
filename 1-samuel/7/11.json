@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ሰባት እስራኤል ኸኣ ካብ ምጽፋይ ወጹ፣ ፍልስጤማውያን ⟨את⟩ ድማ ተኺቦም ክሳብ ታሕቲ ቤት-ካር ሰበርዎም።",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ወጹ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "ምጽፋይ"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ተኺቦም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍልስጤማውያን"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤማውያን"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ሰበርዎም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ታሕቲ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ቤት-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "ካር"
+    }
+  ],
+  "timestamp": "2026-09-18T23:58:13.615236078Z",
+  "model": "glm-5.3"
+}

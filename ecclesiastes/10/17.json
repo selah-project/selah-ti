@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 10:17",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ዝዕመርኪ ኣትሪ፣ ምድሪ፣ ስለዝኾነ ንሳትኪ ወዲ እዝብታት ንሳትኪ ወንበርታት እውን ኣብ ግዜኡ ንኽእልኡ ይእሉ፣ ብኣክልኢት እሞ ኣብ ስኰት ኣይኮነን።",
+  "tokens": [
+    {
+      "surface": "אשריך",
+      "gloss": "ዝዕመርኪ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "ስለዝኾነ ንሳትኪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "חורים",
+      "gloss": "እዝብታት"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "ንሳትኪ ወንበርታት"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ኣብ ግዜኡ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ይእሉ"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "ብኣክልኢት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እሞ ኣይኮነን"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "ኣብ ስኰት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:42:56.862223064Z",
+  "model": "glm-5.3"
+}

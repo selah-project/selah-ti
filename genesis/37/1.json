@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ያዕቆቭ ድማ ኣብ ምድሪ ናይ መንቐርቐር ኣቡሁ ቈየ፥ ኣብ ምድሪ ከነዓን።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ቈየ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "ናይ መንቐርቐር"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡሁ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዓን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:58:48.675369251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ከምኡውን እዚ ናይ ኣሽም ቶራ እዩ፤ ቅዱስ ቅዱሳት ⟨እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ከምኡውን እዚ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ናይ ኣሽም"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨እዩ⟩"
+    }
+  ],
+  "timestamp": "2026-09-18T21:50:12.204259847Z",
+  "model": "glm-5.3"
+}

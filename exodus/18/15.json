@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ሞሸ ድማ ንሓሙይቱ በለ፦ ሕዝቢ ንኤሎሂም ንኽሓትት ንኣ ይመጽእ እዩ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "ንሓሙይቱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ይመጽእ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንኣ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "ንኽሓትት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:24:59.313784990Z",
+  "model": "glm-5.3"
+}

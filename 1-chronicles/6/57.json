@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ካብ ወረዳ ይስሳካር እውን ⟨את⟩ ቅደሽን ⟨את⟩ ከባቢኣን፣ ⟨את⟩ ዳብራትን ⟨את⟩ ከባቢኣን።",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ካብ ወረዳ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ይስሳካር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅደሽ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅደሽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ከባቢኣ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ከባቢኣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳብራት"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ዳብራት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ከባቢኣ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ከባቢኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:33:46.532985823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 62,
+  "translation": "ንሱ ጥራይ ከዓል እዩን ቤዛዕተይን፣ ምሽገይ እዩ፣ ብዙሕ ኣይንቀጥቐጥን።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ከዓል ናይይ"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ንቤዛዕተይ"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ምሽገይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ኣይንቀጥቐጥን"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:01.597782004Z",
+  "model": "glm-5.3"
+}

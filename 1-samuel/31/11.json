@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ድማ ነቲ ዝገበርዎ ፐሊሽቲም ንሻኡል — እቶም ኣብ ያቤሽ ጊልዓድ ዝነብሩ ⟨את⟩ እቲ ዝገበርዎ ሰምዖም።",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ሰምዑ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ነንሱ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ዝነብሩ"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "ያቤሽ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ጊልዓድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ዝገበርዎ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዝገበርዎ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፐሊሽቲም"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ንሻኡል"
+    }
+  ],
+  "timestamp": "2026-09-19T00:21:15.518269871Z",
+  "model": "glm-5.3"
+}

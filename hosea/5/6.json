@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ብጐደኖምን ብበግሮምን ንያህዌህ ⟨את⟩ ንምንዋሕ ይኸዱ፣ እንተይረኽብዎን፤ ካባቶም ተሓሊሉ።",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "ብጐደኖም"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "ብበግሮምን"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ይኸዱ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ንምንዋሕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እንተይ"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "ይረኽብዎን"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ተሓሊሉ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ካባቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:06:44.859455693Z",
+  "model": "glm-5.3"
+}

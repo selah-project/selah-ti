@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 7:2",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ትእዛዛተይ ሓልዎም ንእነ፣ ቶራይ ድማ ከም ⟨ብርሃን ዒንኻ⟩ ሓልዋ።",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ሓልዎም"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ትእዛዛተይ"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "ንእነ"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "ቶራይን"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "ከም ብርሃን"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ዒንኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:45:25.928085297Z",
+  "model": "glm-5.3"
+}

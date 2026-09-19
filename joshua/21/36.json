@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ከምኡውን ካብ ንስድራ ሮቤን ⟨את⟩ በጸርን ⟨את⟩ መኽደርታኣን ⟨את⟩ ያሕጻን ⟨את⟩ መኽደርታኣን።",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ከምኡውን ካብ ንስድራ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ሮቤን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በጸር"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "በጸር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መኽደርታኣ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መኽደርታኣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ያሕጻ"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "ያሕጻ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መኽደርታኣ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መኽደርታኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:30:15.693772235Z",
+  "model": "glm-5.3"
+}

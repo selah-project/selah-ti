@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ሰይፍ ኣብ ከተማታቱ ይቐልው፤ ኣብ ኣጥራቱ ድማ ይዛኢድ፤ ካብ ምክሮም ድማ ይብላዕ።",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "ይቐልው"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "ኣብ ከተማታቱ"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "ይዛኢድ"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ኣብ ኣጥራቱ"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ይብላዕ"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "ካብ ምክሮም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:10:45.121554061Z",
+  "model": "glm-5.3"
+}

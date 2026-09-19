@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ከታብዩ፣ ከታብዩ ሕዝበይ፣ ኤሎሂምኩም ይብል እዩ።",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "ከታብዩ"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "ከታብዩ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝበይ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ይብል"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:10:33.718292215Z",
+  "model": "glm-5.3"
+}

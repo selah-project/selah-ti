@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ከም ዓባይ ኣብ ምድርካ ተሻጊርካ፣ ወዲተ ታርሺሽ፤ ኣጽባያ ልክዕ የለን።",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "ተሻጊርካ"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ኣብ ምድርካ"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "ከም ዓባይ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ወዲተ"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ታርሺሽ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "ኣጽባያ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ልክዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:45:55.836999367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 64:6",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 64,
+  "translation": "ኣብ ስምካ እትጸውዕ የለን፣ ንኻ ክጽበየሉ እትንቀሳቕስ ውን የለን፣ ምኽንያቱ ኸኣ ገጽኻ ምስ ንሕና ሓቢእካ፣ ኣብ ኢድ ጥፍኣትና ውን ኣብሪሕና።",
+  "tokens": [
+    {
+      "surface": "ואין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "እትጸውዕ"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ኣብ ስምካ"
+    },
+    {
+      "surface": "מתעורר",
+      "gloss": "እትንቀሳቕስ"
+    },
+    {
+      "surface": "להחזיק",
+      "gloss": "ክጽበየሉ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "ሓቢእካ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽኻ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ብዛዕባና"
+    },
+    {
+      "surface": "ותמוגנו",
+      "gloss": "ኣብሪሕና"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ኣብ ኢድ"
+    },
+    {
+      "surface": "עוננו",
+      "gloss": "ጥፍኣትና"
+    }
+  ],
+  "timestamp": "2026-09-19T02:23:14.652871507Z",
+  "model": "glm-5.3"
+}

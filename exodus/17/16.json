@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "በለ ድማ፦ «እኳዕ ኢድ ኣብ ልዕሊ ዙፋን ያህ እያ፣ ንያህዌህ ምስ ዓማለቅ ጦርነት እያ፣ ካብ ትውልዲ ናብ ትውልዲ»።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እኳዕ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כס",
+      "gloss": "ዙፋን"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ጦርነት"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "ምስ ዓማለቅ"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "ካብ ትውልዲ"
+    },
+    {
+      "surface": "דר",
+      "gloss": "ትውልዲ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:23:27.023916854Z",
+  "model": "glm-5.3"
+}

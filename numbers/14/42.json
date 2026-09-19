@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ኣይተዓርቡን፣ እምኒ ያህዌህ ኣብ መንጎኹም የለን፤ ቅድሚ ጸላእትኹም ኣይትሓመሉን።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "ተዓርቡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እምኒ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "ኣብ መንጎኹም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "ትሓመሉ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ጸላእትኹም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:23:59.578894236Z",
+  "model": "glm-5.3"
+}

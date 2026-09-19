@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ኢደይ ድማ ምስ ኣሓረካ ⟨את⟩ ኁምባይ ትረኣየ፣ ገጸይ ግና ኣይረኣየን።",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "ምስ ኣሓረካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢደይ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ኢደይ"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "ትረኣየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኁምባይ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ኁምባይ"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ገጸይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ይረኣየን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:38:01.976915313Z",
+  "model": "glm-5.3"
+}

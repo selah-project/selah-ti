@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኣይፈልጠን፣ ነፍሲይ መሃረብቲ ዓሚናዲብ ተኺኣኒ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ፈልጠን"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲይ"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "ተኺኣኒ"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "መሃረብቲ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ዓሚ"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "ናዲብ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:27:07.865625182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 12:22",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ቃል ኤሎሂም ድማ ነይሩ ናብ ሽምዓያ ሰብ ⟨ድሕቀ-ኤሎሂም⟩ ኢሉ ንኽብል፦",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "ሽምዓያ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ ንኽብል"
+    }
+  ],
+  "timestamp": "2026-09-19T00:59:47.261907856Z",
+  "model": "glm-5.3"
+}

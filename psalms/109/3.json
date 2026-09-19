@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "ንቃላት ጥሕነትን ኣኽብዑኒ፣ ብዘይ ምኽንያት ውጥኑኒ።",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "ንቃላትን"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ጥሕነት"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ኣኽብዑኒ"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "ውጥኑኒ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ብዘይ ምኽንያት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:10.592315629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኤልሸዓ ድማ ንሱ በሎ፦ «ከዲ፣ በለ፦ ሕያው ኣይትኾንን፤ ያህዌህ ድማ ኣርኣየኒ ምኽንያቱ ብእሩይ ክሞት እዩ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ኤልሸዓ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ከዲ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ክትኾን"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "ኣርኣየኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ክሞት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:22:11.808297207Z",
+  "model": "glm-5.3"
+}

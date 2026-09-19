@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ንስኻትኩም እንተ ኣይተሰምዑናን ንተሓጸቡ፣ ናይና ጓል ወሲድና ⟨את⟩ ንከድ ኢና።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እንተ ድኣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ተሰምዑ"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ናብና"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "ንተሓጸቡ"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "ወሲድና"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ናይና ጓል"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "ናይና ጓል"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "ንከድ ኢና"
+    }
+  ],
+  "timestamp": "2026-09-18T20:57:31.836090920Z",
+  "model": "glm-5.3"
+}

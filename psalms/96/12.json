@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 96,
+  "translation": "መስኮብ ይዘፍእ፣ ንሱን ኩሉ ኣብኡ ዘሎ፤ እቲ ግዜ ድማ ኩሉ እሰረት ዱር ይዛምዑ እዮም።",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "ይዘፍእ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "መስኮብ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ንሱን ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዘሎ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "እቲ ግዜ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ይዛምዑ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "እሰረት"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ዱር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:29.252685205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ንሳቶም ድማ ⟨את⟩ ወርቂን ⟨את⟩ ሰማያዊን ⟨את⟩ ጸጉራዊን ⟨את⟩ ቀይሕ ኩንኽኒን ⟨את⟩ ጽሩይ ተማይን ወሲቢኦም።",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "ንሳቶም ድማ"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "ወሲቢኦም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወርቂ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሰማያዊ"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "ሰማያዊ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጸጉራዊ"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "ጸጉራዊ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቀይሕ ኩንኽኒ"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ኩንኽኒ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ቀይሕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጽሩይ ተማይ"
+    },
+    {
+      "surface": "השש",
+      "gloss": "ጽሩይ ተማይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:33:32.129493980Z",
+  "model": "glm-5.3"
+}

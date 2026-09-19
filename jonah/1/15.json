@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ነታሕዩ ⟨את⟩ ዮናስ ሒዞም ናብ እቲ ባሕሪ ወፈቱ፤ እቲ ባሕሪ ድማ ብሓውጽኡ ኣቋረጸ።",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ሒዞም በዝዓዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮናስ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ዮናስ"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "ወፈቶ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "እቲ ባሕሪ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ኣቋረጸ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "እቲ ባሕሪ"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "ብሓውጽኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:22:11.611091973Z",
+  "model": "glm-5.3"
+}

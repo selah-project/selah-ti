@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ኣነ ግን ከም ጐድኢ ኣይሰምዐን፣ ከም ዘይዛረብ ድማ ኣፉ ኣይኽፈትን።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ግን"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "ከም ጐድኢ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ሰምዐን"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "ከም ዘይዛረብ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ኽፈትን"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ኣፉ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:24.741140952Z",
+  "model": "glm-5.3"
+}

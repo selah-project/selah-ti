@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 30:11",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "«ካብ መገዲ ስሕቡ፣ ካብ ገጽታ ተሓቡ፣ ⟨את⟩ ቅዱስ እስራኤል ካብ ቅድሜና ኣብግሕዞ።»",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "ስሕቡ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መገዲ"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "ተሓቡ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ገጽታ"
+    },
+    {
+      "surface": "השביתו",
+      "gloss": "ኣብግሕዞ"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "ካብ ቅድሜና"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅዱስ እስራኤል"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T02:00:38.819442403Z",
+  "model": "glm-5.3"
+}

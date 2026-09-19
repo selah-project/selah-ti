@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 10:10",
+  "book": "zechariah",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ካብ ምድሪ ሚጽራይም የመልሶም እየ፣ ካብ ኣሽሩርን ኣካፍሎም እየ፣ ናብ ምድሪ ግልዒድን ልባኖስን ኣእቶም እየ፣ ⟨ቦታ⟩ ከምኡ ኣይርከብሎምን።",
+  "tokens": [
+    {
+      "surface": "והשיבותים",
+      "gloss": "የመልሶም እየ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ומאשור",
+      "gloss": "ካብ ኣሽሩርን"
+    },
+    {
+      "surface": "אקבצם",
+      "gloss": "ኣካፍሎም እየ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ግልዒድ"
+    },
+    {
+      "surface": "ולבנון",
+      "gloss": "ልባኖስን"
+    },
+    {
+      "surface": "אביאם",
+      "gloss": "ኣእቶም እየ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ከምኡ ኣይ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ይርከብ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንኣንትኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:37:25.197537575Z",
+  "model": "glm-5.3"
+}

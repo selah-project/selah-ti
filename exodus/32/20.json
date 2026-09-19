@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ነቶም ⟨את⟩ እቲ ላሕሚ ዝገበርዎ ወሲዱ፣ ብሓዊ ተባእሉ፣ ክሳብ ዝነጽፍ ኣፍሒዙ፣ ኣብ ገጽ ኩሉ ማይ ደሪዙ፣ ነቶም ⟨את⟩ ውላድ እስራኤል ኸኣ ኣሳዒርዎም ኣሰቲዎም።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ላሕሚ"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "እቲ ላሕሚ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ-"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዝገበርዎ"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "ተባእሉ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ብሓዊ"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "ኣፍሒዙ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ-"
+    },
+    {
+      "surface": "דק",
+      "gloss": "ዝነጽፍ"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "ደሪዙ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ገጽ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ኩሉ ገጽ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ኩሉ ማይ"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ኣሰቲዎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ እስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T21:40:24.916663842Z",
+  "model": "glm-5.3"
+}

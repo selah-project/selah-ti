@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 10:1",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ድሕሪ እዚ ድማ ንጉስ ውላድ ዓሞን ሞተ፣ ሕኑን ድማ ወዱ ኣብ ቦታኡ ነገሰ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ዓሞን"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሰ"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "ሕኑን"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዱ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ኣብ ቦታኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:43:08.032473665Z",
+  "model": "glm-5.3"
+}

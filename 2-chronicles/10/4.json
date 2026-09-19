@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "«ኣቦኻ ⟨את⟩ ቐርበና ኣጸንዐ፤ ሕጂ ስለዚ ካብ ግብሪ ኣቦኻ እታ ኣጸንዕቲን ካብቲ ክቡድ ቐርቢኡ ዝሃበናን ቐሊል ግበር፣ ንሕና ድማ ነኽእለኻ ኢና።»",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "ኣቦኻ"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ኣጸንዐ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቐርበና"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "ቐርበና"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ ስለዚ"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "ቐሊል ግበር"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "ካብ ግብሪ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ኣቦኻ"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "እታ ኣጸንዕቲ"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "ካብቲ ቐርቢኡ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "እቲ ክቡድ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃበና"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ኣብ ልዕልና"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "ነኽእለኻ ኢና"
+    }
+  ],
+  "timestamp": "2026-09-19T08:02:06.031789803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣውን ብሕዝቢ ተበሊጥካ ነቶም ከይትሰደድዎም ምዃንካ።",
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "ኣውን"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "ተበሊጥካ"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "ብሕዝቢ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ከይ"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "ትሰደድዎም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:18:14.484631524Z",
+  "model": "glm-5.3"
+}

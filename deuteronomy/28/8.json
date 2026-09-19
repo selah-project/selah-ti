@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ያህዌህ ⟨את⟩ ምሳኻ ⟨את⟩ በረከት ኣብ ቤት እኽሊኻን ኣብ ኩሉ ምውጻእ ኢድኻን ይኣዝዝ፤ ኣብ ምድሪ እቲ ያህዌህ ኤሎሂምኻ ንስኻ ዝህበካ እውን ይባርክካ።",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "ይኣዝዝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ምሳኻ ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በረከት"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "በረከት"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "ኣብ ቤት እኽሊኻ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "እውን ኣብ ኩሉ"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ምውጻእ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድኻ"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "ይባርክካ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምኻ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ዝህበካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:07:39.021585030Z",
+  "model": "glm-5.3"
+}

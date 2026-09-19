@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ስለ ዝሓረያ ደለዩ፣ ናብ ባሕሪ-ማሕደር ናይ ምድላይኦም ድማ ዓዲሮም።",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "ደለዩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "ዝሓረያ"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ዓዲሮም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "ባሕሪ-ማሕደር"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "ናይ ምድላይኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:38.735932598Z",
+  "model": "glm-5.3"
+}

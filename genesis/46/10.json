@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 46:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 46,
+  "translation": "ውላድ ሽምዑን፡ ይሙኣኤልን ያሚንን ኣሓድን ያኺንን ጸኣሕን ሻኡልን — ወዲ እታ ኩነዓኒት ሰበይቲ — እዮም።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ሽምዑን"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "ይሙኣኤል"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ያሚንን"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "ኣሓድን"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "ያኺንን"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "ጸኣሕን"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ሻኡልን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "እታ ኩነዓኒት ሰበይቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:05:43.460718534Z",
+  "model": "glm-5.3"
+}

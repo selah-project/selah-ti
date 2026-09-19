@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ካብ ኩሉ ከተማታት ይሁዳ ⟨את⟩ ቦታታት ምውርድን ⟨את⟩ ምስልታት ፀሓንን ኣወጸ፤ እቲ መንግስቲ ድማ ኣብ ቅድሜኡ ደቂቑ።",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "ኣወጸ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ከተማታት"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቦታታት ምውርድ"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ቦታታት ምውርድ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምስልታት ፀሓን"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "ምስልታት ፀሓን"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "ደቂቑ"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "እቲ መንግስቲ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ኣብ ቅድሜኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:04:21.225721419Z",
+  "model": "glm-5.3"
+}

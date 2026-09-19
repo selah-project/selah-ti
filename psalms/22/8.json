@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ዝርኣይዎኒ ኩሉ ይሰክሩኒ እዮም፣ ኣንፈቶም ይበሉዑዎ፣ ርእሶም ድማ ይነኽሱ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ዝርኣይዎኒ"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "ይሰክሩኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "ይበሉዕዎ"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "ኣንፈቶም"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "ይነኽሱ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሶም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:46.208381405Z",
+  "model": "glm-5.3"
+}

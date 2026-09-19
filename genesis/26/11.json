@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ኣቢሜሌኽ ድማ ነቶም ህዝቢ ብምሉእ ኣዘዝዎም ኢሉ፦ «ነዚ ሰብ ወይ ሰበይቱ ዝትንክፍ እንተ ወጸ ንሱ ብሞት ይቕጠፍ።»",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ኣዘዝዎም"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ኣቢሜሌኽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ህዝቢ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ብምሉእ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ዝትንክፍ"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ነዚ ሰብ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "ወይ ሰበይቱ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ብሞት"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይቕጠፍ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:46:41.554975566Z",
+  "model": "glm-5.3"
+}

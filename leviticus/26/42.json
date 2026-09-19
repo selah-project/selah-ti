@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ንኪዳንይ ያዕቆቭ ⟨את⟩ ኣዝኪር፣ ከምኡውን ንኪዳንይ ይጽሓቅ ⟨את⟩፣ ከምኡውን ንኪዳንይ ኣቭራሃም ⟨את⟩ ኣዝኪር፣ ምድሪን ኣዝኪር።",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "ኣዝኪር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንኪዳንይ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳንይ"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንኪዳንይ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳንይ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይጽሓቅ"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንኪዳንይ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳንይ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ኣዝኪር"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ምድሪን"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ኣዝኪር"
+    }
+  ],
+  "timestamp": "2026-09-18T22:10:37.862298607Z",
+  "model": "glm-5.3"
+}

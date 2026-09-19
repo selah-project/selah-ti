@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ምኽንያቱ ዮቤል እዩ፤ ቅዱስ ክኸውን ንኹሎምኩም እዩ፤ ካብ እቲ ግባቢ ነቲ ውጤቱ ⟨את⟩ ትበልዑ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "ዮቤስ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ክኸውን"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኹሎምኩም"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "እቲ ግባቢ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ትበልዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ውጤቱ"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ውጤቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:09:36.180441867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ካህናትን ሌዋይምን ተቕደሱ፣ ድማ ⟨את⟩ ህዝቢን ⟨את⟩ ኣፍደራትን ⟨את⟩ ግንቢን ተቕደሱ።",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "ተቕደሱ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ሌዋይምን"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "ተቕደሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ህዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣፍደራት"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ኣፍደራት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ግንቢ"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ግንቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:25:15.071206650Z",
+  "model": "glm-5.3"
+}

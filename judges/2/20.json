@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 2:20",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ድማ ቍጥዐ ያህዌህ ኣብ እስራኤል ተነወረ፤ ከምዚ ኢሉ ድማ በለ፦ ምኽንያቱ እዚ ህዝቢ እዚ ⟨את⟩ ኪዳነይ ዝኣዘዝኩሉ ⟨את⟩ ኣቦቶም ንሓሊፉ፣ ንድምጬን ኣይሰምዐን፤",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ተነወረ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ቍጥዐ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ኣብ እስራኤል"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ንሓሊፉ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኪዳነይ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳነይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ዝኣዘዝኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቦቶም"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ኣቦቶም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ሰምዑ"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "ንድምጬ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:35:35.654681103Z",
+  "model": "glm-5.3"
+}

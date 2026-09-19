@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 61,
+  "translation": "ኣብ ማሕደርኻ ናብ ዘለኣለም እነዳር፣ ኣብ መሸለልቲ ክንፋትኻ ድማ እተሓጽብ። ሰላሕ።",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "እነዳር"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "ኣብ ማሕደርኻ"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "እተሓጽብ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ኣብ መሸለልቲ"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ክንፋትኻ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:26.110643134Z",
+  "model": "glm-5.3"
+}

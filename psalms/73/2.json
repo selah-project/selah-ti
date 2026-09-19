@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 73,
+  "translation": "ኣነ ግና እግረይ ንንእሽቲ ተዘንበየት፣ እቲ እስራተይ ከኣ ተበተነ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ግና"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ንንእሽቲ"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "ተዘንበየት"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "እግረይ"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "ከም ዜብልእ"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ተበተነ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "እቲ እስራተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:51.660433971Z",
+  "model": "glm-5.3"
+}

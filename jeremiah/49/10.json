@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "ምኽንያቱ ኣነ ⟨את⟩ ዒሳው በዓሪኻዮ፣ ⟨את⟩ ምስውሩ ገሊጠ ኣለኹ፤ ክተሓብእ ኣይኽእልን፤ ተሓመሰ ዘርኡ፣ ኣሕዎቱን ጎረቤቱን፣ ንሱ ድማ የለን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "በዓሪኻዮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዒሳው"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዒሳው"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "ገሊጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምስውሩ"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "ምስውሩ"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "ክተሓብእ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ኽእል"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ተሓመሰ"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ዘርኡ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ኣሕዎቱን"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "ጎረቤቱን"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ንሱ ድማ የለን"
+    }
+  ],
+  "timestamp": "2026-09-19T03:14:15.499110366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ካህን ድማ ⟨אתה⟩ ነቲ ሰብቲ ኣንስቲ ክቕርባ ኰይኑ፣ ኣብ ቅድሚ ያህዌህ ክተቕምጣ ገበረ።",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ክቕርባ ኰይኑ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "ነቲ ሰብቲ ኣንስቲ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "ክተቕምጣ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:16:46.272222851Z",
+  "model": "glm-5.3"
+}

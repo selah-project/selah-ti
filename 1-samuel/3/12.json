@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "«ኣብ እቲ መዓልቲ በዚ እቲ ⟨את⟩ ኩሉ እቲ ኣብ ስድራኡ ዝተዛረብኩዎ ኣብ ዓሊ ክተቐንዕሶ እየ — ምስ ዝጅምር ክወድእ እዩ።»",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ እቲ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ክተቐንዕሶ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ዓሊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ዝተዛረብኩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ስድራኡ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ምስ ዝጅምር"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ክወድእ እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:58:21.378034038Z",
+  "model": "glm-5.3"
+}

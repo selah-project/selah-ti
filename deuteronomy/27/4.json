@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ምስ እትሻጥሩ ⟨את⟩ ዮርዳኖስ እዚኦም ድንጋያት እት ኣዘዝኩምዎ ሎሚ ኣብ እቲ ከረ ዒባል ይኸውን፣ ⟨את⟩ ነቶም ድንጋያት ተቐምጡዎምን ብሕጽርሚ ተሓጽርዎምን።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ይኸውን"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "ምስ እትሻጥሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮርዳኖስ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "ተቐምጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ድንጋያት"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "እቶም ድንጋያት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እተን"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ኣዘዝኩ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ንዕኻትኩም"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ኣብ እቲ ከረ"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "ዒባል"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "ተሓጽርዎም"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ነቶም"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "ብሕጽርሚ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:06:41.677045515Z",
+  "model": "glm-5.3"
+}

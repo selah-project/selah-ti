@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 8:2",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እታ ሰበይቲ ተንሰዓት፣ ከም ቃል ሰብያ ኤሎሂም ገበረት፣ ንሳን ስድራብታን ኮይና ኣብ ምድሪ ፍልስጤም ሸውዓተ ዓመታት ተዓገሰት።",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "ተንሰዓት"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "እታ ሰበይቲ"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "ገበረት"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ከም ቃል"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብያ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ከደት"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ንሳ"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "ምስ ስድራብታ"
+    },
+    {
+      "surface": "ותגר",
+      "gloss": "ተዓገሰት"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤም"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:22:36.301831810Z",
+  "model": "glm-5.3"
+}

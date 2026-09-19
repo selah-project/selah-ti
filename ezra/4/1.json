@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 4:1",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ጸላእቲ ይሁዳን ብንያምን፣ ውላድ ስደት ንያህዌህ ኤሎሂም ናይ እስራኤል ቤት እናሃንጹ ምዃኖም ሰምዑ።",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ሰምዑ"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ጸላእቲ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ብንያምን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ስደት"
+    },
+    {
+      "surface": "בונים",
+      "gloss": "እናሃንጉ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T07:10:03.605184699Z",
+  "model": "glm-5.3"
+}

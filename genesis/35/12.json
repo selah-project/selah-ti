@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 35:12",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ነቲ ⟨את⟩ ምድሪ ንኣቭራሃምን ንይጽሓቅን ዝሃብኩዋ ንንስኻ ሃበኻ፤ ነቲ ⟨את⟩ ምድሪ ከኣ ንዘርኢኻ ሓዲርካ እሃብ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ…ዋ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ዝሃብኩ"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ንኣቭራሃም"
+    },
+    {
+      "surface": "וליצחק",
+      "gloss": "ንይጽሓቅን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንንስኻ"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ሃበኻ"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "ንዘርኢኻ"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ሓዲርካ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "እሃብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:57:12.712830693Z",
+  "model": "glm-5.3"
+}

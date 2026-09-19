@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ውላድ እስራኤል ድማ ንሌዋውያን ⟨את⟩ እቶም ከተባት እዚኦምን ⟨את⟩ መርገብታቶምን ሃቡ፣ ከም ׋םኣዘዚ ያህዌህ ብኢድ ሞሸ ብጉላቒ።",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ሃቡ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ንሌዋውያን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ከተባት እዚኦም"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "እቶም ከተባት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ን",
+      "marks": "መርገብታቶም"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "መርገብታቶም"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ዝኣዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "ብጉላቒ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:30:50.551953481Z",
+  "model": "glm-5.3"
+}

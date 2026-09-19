@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ህዝቢ ምድሪ ድማ ኣኽሊል ህዝቢ ይሁዳ ምድሓን ይብርሖ፣ ኣብ ምሃንቕ ድማ ይደክምዎም።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኾነ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "ይብርሖ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ኣኽሊል"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "ይደክምዎም"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ኦም",
+      "marks": "ህዝቢ ይሁዳ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ንምሃንቕ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:10:03.606325371Z",
+  "model": "glm-5.3"
+}

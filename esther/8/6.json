@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እሞ ከመይ እኽእል ነቲ ኣይታ ዝርከብ ⟨את⟩ ህዝበይ ክራእይ፧ ከምኡውን ከመይ እኽእል ኣብ ምጥፋእ መረድኡይ ክራእይ፧",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "ከመይ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "እኽእል"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "ክራእይ"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ኣብ እቲ ኣይታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ዝርከብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ህዝበይ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ህዝበይ"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "ከምኡውን ከመይ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "እኽእል"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "ክራእይ"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "ኣብ ምጥፋእ"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "መረድኡይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:51:59.123874963Z",
+  "model": "glm-5.3"
+}

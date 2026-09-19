@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ሻፎም ኣብ ልቦም ክኣቱ እዩ፣ ቀስትታቶም ድማ ክስበራ እየን።",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "ሻፎም"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ክኣቱ"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ኣብ ልቦም"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "ቀስትታቶም"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "ክስበራ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:47.843164140Z",
+  "model": "glm-5.3"
+}

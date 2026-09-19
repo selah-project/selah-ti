@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ከምኡውን ⟨ואת⟩ ባስማት ጓል ይስማኤል፣ ሓብቲ ንባዮት።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ባስማት"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "ባስማት"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ጓል"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ይስማኤል"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ሓብቲ"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "ንባዮት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:56:48.198352581Z",
+  "model": "glm-5.3"
+}

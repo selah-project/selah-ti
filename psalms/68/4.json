@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ጸድቓት ድማ ይደልዩ፤ ቅድሚ ኤሎሂም ይብሩሕ፤ ብደስታ ይሓጐሱ።",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "ጸድቓት ድማ"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ይደልዩ"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "ይብሩሕ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "ይሓጐሱ"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ብደስታ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:06.648730632Z",
+  "model": "glm-5.3"
+}

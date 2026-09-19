@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ምስ ከምጽ ደም ወፈያይ ኣይትሰድሕን፤ ወፈያ በዓል ፓሳሕ ንሰብር ኣይክቕጽርን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "ትሰድሕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ከምጽ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ወፈያይ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣድማውን ኣይ…ን"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ክቕጽር"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ንሰብር"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "በዓል"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ፓሳሕ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:40:39.599825327Z",
+  "model": "glm-5.3"
+}

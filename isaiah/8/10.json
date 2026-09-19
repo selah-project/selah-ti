@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ምኢድቱ ምኢድት፣ ትበርያት፤ ዛረቡ ቃል፣ ኣይቆምን፤ ስለ ምንባር ኤል ምስና እዩ።",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "ምኢድቱ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ምኢድት"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "ትበርያት"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ዛረቡ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ቆምን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ ምንባር"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ምስና"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T01:44:48.847283306Z",
+  "model": "glm-5.3"
+}

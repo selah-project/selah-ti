@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "እቲ ጻዕራ ኣብ እቶም ሰባት ከቢድ ኩነታት ክኸውን፣ ኣብኡ ድማ ክጽዕሩ፣ ኣብ ናይ ሓሶት ቓላት ድማ ኣይጥቕዑን።",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "ከቢድ ኩነታት ክኸውን"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "እቲ ጻዕራ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "እቶም ሰባት"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ክጽዕሩ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣይኮንን"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ኣይጥቕዑን"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "ኣብ ቓላት"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሓሶት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:12:27.436122881Z",
+  "model": "glm-5.3"
+}

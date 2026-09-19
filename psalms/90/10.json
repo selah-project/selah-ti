@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 90,
+  "translation": "መዓልታት ዓመታትና ሰባ ዓመት እዮም፣ ኣብ ሓይሊ ድማ ሸሞንተ ዓመት፤ ትዕቢቶም ጻንኢትን ኣበሳን እዩ፣ እሞ ብቕልቡ ተቐጺሩ፣ ኰና ንተሓልፍ።",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "ዓመታትና"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ኣብኦም"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ሰባ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ኣብ ሓይሊ ድማ እንተ"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "ብሓይሊ"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "ሸሞንተ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "ትዕቢቶም"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ጻንኢት"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ኣበሳ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "גז",
+      "gloss": "ተቐጺሩ"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "ብቕልቡ"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "ኰና ንተሓልፍ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:47.904877565Z",
+  "model": "glm-5.3"
+}

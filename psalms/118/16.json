@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 118,
+  "translation": "የማን ያህዌህ ተወርየት፤ የማን ያህዌህ ብሓይሊ ተገብራ።",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "የማን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "ተወርየት"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "የማን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ተገብራ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ብሓይሊ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:33.465115651Z",
+  "model": "glm-5.3"
+}

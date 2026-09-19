@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "እቲ ማን ድማ ከም ዘርኢ ቑራቢኻባ እዩ፤ ምስሊ ንእሱ ድማ ከም ምስሊ እቲ በዶላኽ እዩ።",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "እቲ ማን"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "ከም ዘርኢ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ቑራቢኻባ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "ምስሊ ንእሱ"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "ከም ምስሊ"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "እቲ በዶላኽ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:21:21.875589757Z",
+  "model": "glm-5.3"
+}

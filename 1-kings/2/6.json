@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ከም ስምምትኻ ድማ ግበር፣ ነጭ ርእሱ ኣብ ሰላም ናብ ሽኦል ኣይወርድን።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ግበር"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "ከም ስምምትኻ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣብን"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "ኣይወርድን"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "ነጭ ርእሱ"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "ኣብ ሰላም"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ሽኦል"
+    }
+  ],
+  "timestamp": "2026-09-19T00:48:39.557443241Z",
+  "model": "glm-5.3"
+}

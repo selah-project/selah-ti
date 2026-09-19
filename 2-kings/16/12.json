@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "እቲ ንጉስ ካብ ድማስቅ መጸ፤ እቲ ንጉስ ⟨את⟩ መሰዊሕ ረኣየ፣ እቲ ንጉስ ናብ መሰዊሕ ቀረበ፣ ኣብ ላዕሊኡ ድማ ወጸ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "ካብ ድማስቅ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሰዊሕ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሰዊሕ"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "ቀረበ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሰዊሕ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ላዕሊኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:30:59.214930590Z",
+  "model": "glm-5.3"
+}

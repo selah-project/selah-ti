@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 14:14",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ኣቭራም ሓውኡ ምስ ተማእኸለ ሰምዐ፤ ⟨את⟩ ተለማዕድቱ፣ ኣብ ቤቱ ዝተወልዱ፣ ሸሞንተ ዓሰርተ ሰለስተ መቶ ዝኾኑ፣ ወፈተ፤ ክሳብ ዳን ድማ ተከታለሎም።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ኣቭራም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "ተማእኸለ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ሓውኡ"
+    },
+    {
+      "surface": "וירק",
+      "gloss": "ወፈተ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተለማዕድቱ"
+    },
+    {
+      "surface": "חניכיו",
+      "gloss": "ተለማዕድቱ"
+    },
+    {
+      "surface": "ילידי",
+      "gloss": "ዝተወልዱ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ኣብ ቤቱ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ሸሞንተ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መቶ"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "ተከታለሎም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ዳን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:38:52.265122944Z",
+  "model": "glm-5.3"
+}

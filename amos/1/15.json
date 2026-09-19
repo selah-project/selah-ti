@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 1:15",
+  "book": "amos",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ንጉሶም ኣብ ስደት ክኻድ፣ ንሱን ሸማኒቱን ብትኽሃድ፣ በለ ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "ክኻድ"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "ንጉሶም"
+    },
+    {
+      "surface": "בגולה",
+      "gloss": "ኣብ ስደት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "ሸማኒቱን"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ብትኽሃድ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:12:15.810435331Z",
+  "model": "glm-5.3"
+}

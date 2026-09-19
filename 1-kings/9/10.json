@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ድማ ኣብ መወዳእታ ናይ ዓሰርታ ዓመታት ሽሎሞ ⟨את⟩ ክልተ ቤታት — ⟨את⟩ ቤት ያህዌህን ⟨ואת⟩ ቤት እቲ ንጉስን — ምስ ሃነጸ ወጸ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ወጸ (ኮይኑ)"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ኣብ መወዳእታ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዓሰርታ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሃነጸ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክልተ ቤታት"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ቤታት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት ያህዌህ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት እቲ ንጉስ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:55:16.348894212Z",
+  "model": "glm-5.3"
+}

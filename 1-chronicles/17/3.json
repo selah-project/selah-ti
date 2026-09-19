@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኣብቲ ለይቲ እቲኣ ድማ ነይሩ፣ ቃል ኤሎሂም ንናታን በሎ እናበለ፦",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ኣብ ለይቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲኣ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ናታን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:44:36.093305233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ያህዌህ ብጽልሙት ወረደ፣ ምስ ንሱ ኣብኡ ተቐመጠ፣ ብስም ያህዌህ ተጸወዐ።",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ወረደ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "ብጽልሙት"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስ ንሱ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ተጸወዐ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ብስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:39:24.951681418Z",
+  "model": "glm-5.3"
+}

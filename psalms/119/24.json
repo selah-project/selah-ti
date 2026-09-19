@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ከምኡ'ውን መስክርታትኻ መዓስውዒተይ እዮም፣ ሰባት ምክረይ እዮም።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ከምኡ'ውን"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "መስክርታትኻ"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "መዓስውዒተይ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "ምክረይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:33.846034875Z",
+  "model": "glm-5.3"
+}

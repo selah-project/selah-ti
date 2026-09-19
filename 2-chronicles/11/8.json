@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ከምኣንታን ⟨ואת⟩ ጋትን ⟨ואת⟩ ማረሻሕን ⟨ואת⟩ ዚፍን ሃንጸ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ጋት"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ጋት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ማርሻሕ"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "ማርሻሕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ዚፍ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ዚፍ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:58:54.839294126Z",
+  "model": "glm-5.3"
+}

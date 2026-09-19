@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ንኃጢኣት ሰብ ብውልቓት ተኺርካ፤ ከም ጉሕባጺ እቲ ዝፈትዎ ኣሕሊወሉ፤ ብሓቂ ኩሉ ሰብ ጉሕያ እዩ። ሰላሕ።",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "ብውልቓት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ኃጢኣት"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "ተኺርካ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "ኣሕሊወሉ"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "ከም ጉሕባጺ"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "እቲ ዝፈትዎ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ብሓቂ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ጉሕያ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:49.611318507Z",
+  "model": "glm-5.3"
+}

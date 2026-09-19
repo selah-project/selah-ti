@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ሽሎሞ ድማ ናብ ኽርም እናበለ ሰደደ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ኽርም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:50:33.021169670Z",
+  "model": "glm-5.3"
+}

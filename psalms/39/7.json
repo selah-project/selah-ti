@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ብዛዕባ ኩሉ ሰብ ብምስሊ ይነጥፍ፤ ብዛዕባ ብሔበል ⟨ባዶነት⟩ ይጎበኑ፤ ይበክል ኣይፈልጥን ድማ መን ዝኣክብሮም።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ብዛዕባ"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "ብምስሊ"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "ይነጥፍ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ኩሉ ሰብ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ብዛዕባ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ሔበል"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "ይጎበኑ"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "ይበክል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ፈልጥን"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "ዝኣክብሮም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:38.589339088Z",
+  "model": "glm-5.3"
+}

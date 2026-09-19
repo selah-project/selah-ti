@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "⟨את⟩ ክልተ ኩላትን ⟨את⟩ እቲ ኣብ ልዕለን ዘሎ፣ እቲ ኣብ ወገን ዘሎ ስቓትን ⟨את⟩ እቲ ተወሳኺ ኣብ ልዕሊ ኬብዲ ዘሎ፣ ብኩላት ኣብ ጐናኒ ይወግእ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ክልተ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ኩላት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ስቓት"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ስቓት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዘሎ"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "ኣብ ልዕለን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዘሎ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "ወገን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ተወሳኺ"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ተወሳኺ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ኬብዲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ኩላት"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ይወግኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:46:25.966605028Z",
+  "model": "glm-5.3"
+}

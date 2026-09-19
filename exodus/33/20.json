@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ድማ በለ፦ «ን⟨את⟩ ገጽይ ንምርኣይ ኣይትኽእልን፤ ምኽንያቱ እቲ ሰብ ኣይረኣየኒን ኮይኑ ክነብር ኣይኮነን።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ትኽእል"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "ንምርኣይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገጽይ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "ይረኣየኒ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ኮይኑ ክነብር"
+    }
+  ],
+  "timestamp": "2026-09-19T08:26:19.857796480Z",
+  "model": "glm-5.3"
+}

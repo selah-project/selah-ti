@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ከምኡውን ኩሉ መዓልታቱ ኣብ ጸልማት ይበልዕ፣ ጉስቓስ ብዙሕ፣ ሕመሙን ቍጣን።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "መዓልታቱ"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ኣብ ጸልማት"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይበልዕ"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ጉስቓስ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "ሕመሙ"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "ቍጣን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:41:39.437805048Z",
+  "model": "glm-5.3"
+}

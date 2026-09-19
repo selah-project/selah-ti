@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 111,
+  "translation": "እቲ ናይ ኢዱ ስራሕቲ ብጽሕቲን ፍትሕን እየን፤ ትእዛዛቱ ኩሉ እምነት ዘለዎ እዩ።",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "ስራሕቲ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ናይ ኢዱ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ብጽሕቲ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ንፍትሕን"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "እምነት ዘለዎ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "ትእዛዛቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:10.205775321Z",
+  "model": "glm-5.3"
+}

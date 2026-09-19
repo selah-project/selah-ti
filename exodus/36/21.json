@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ዐሰርተ ኣማታት ቍጽሪ እቲ ጽግራ እዩ፣ ሓደ ኣማታ ከምኡውን ግማዊ ኣማታ ድማ ስፉሕታ እቲ ሓደ ጽግራ እያ።",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ዐሰርተ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ኣማታት"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ቍጽሪ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "እቲ ጽግራ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ሓደ ኣማታ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ከምኡውን ግማዊ ኣማታ"
+    },
+    {
+      "surface": "האמה",
+      "gloss": ""
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ስፉሕታ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "እቲ ጽግራ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:42:03.300618591Z",
+  "model": "glm-5.3"
+}

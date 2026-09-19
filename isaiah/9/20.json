@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ምናሴ ⟨את⟩ ኤፍራይምን ክብላ፣ ኤፍራይምን ⟨את⟩ ምናሴን ክብላ፤ ንሳቶም ክልተኦም ኣብ ይሁዳ ኰይኖም። ብኹሉ እዚ ቁጥዕቱ ኣይተመለሰን፤ ኢዱ ድማ ንሳልሳይ ዝተዘርገሐት እያ።",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሴ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤፍራይም"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ኤፍራይምን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምናሴ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሴ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ክልተኦም"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብኹሉ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ቁጥዕቱ"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ንሳልሳይ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ዝተዘርገሐት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:48:02.509401924Z",
+  "model": "glm-5.3"
+}

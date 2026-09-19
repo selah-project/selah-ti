@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እናበሉ እዚ ናብ እቲ ደው በሉ፦ «ቅዱስ ቅዱስ ቅዱስ ያህዌህ ጸባኦት፤ ምልኡ ኩሉ ምድሪ ክብሪኡ እዩ።»",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "ደው በሉ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "እናበሉ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ምልኡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ክብሪኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:46:27.608553937Z",
+  "model": "glm-5.3"
+}

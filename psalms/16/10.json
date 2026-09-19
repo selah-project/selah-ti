@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ምኽንያቱ ነፍሰይ ናብ ሽኦል ኣይትወጽዓን እኻ፣ ቅዱስኻ ድማ ንብኽፋት ክርኢ ኣይትሃቦን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ትወጽእ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ናብ ሽኦል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ትህብ"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "ቅዱስኻ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ንምርኣይ"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ብኽፋት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:31.286529289Z",
+  "model": "glm-5.3"
+}

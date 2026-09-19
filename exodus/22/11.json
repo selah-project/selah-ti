@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "እንተ ተሰሪቑ ተሰሪቐ ካብኡ፣ ንወናኒኡ ይከፍል።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ተሰሪቑ"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "ተሰሪቐ"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ይከፍል"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "ንወናኒኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:27:27.352498826Z",
+  "model": "glm-5.3"
+}

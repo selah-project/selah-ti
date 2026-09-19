@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ምኽንያቱ ኣብ ኤሎሂም ኣይኣመኑን፣ ኣብ መድሓኒቱ ድማ ኣይተማልኡን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ኣመኑ"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ኣብ ኤሎሂም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ድማ ኣይ-…-ን"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ተማልኡ"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "ኣብ መድሓኒቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:54.291706007Z",
+  "model": "glm-5.3"
+}

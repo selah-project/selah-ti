@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ያህዌህ ንፈልጡ፣ ንተኸታተል ኢና ንፈልጥ ⟨את⟩ ያህዌህ፤ ውጻኢቱ ከም ቀዳም ስሩዕ እዩ፤ ከም ዝናብ ንና ክመጽእ እዩ፣ ከም ዝናቢ መወዳእታ ምድሪ ዚዥብ።",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "ንፈልጥ"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "ንተኸታተል"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ንፈልጥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "ከም ቀዳም"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ስሩዕ"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "ውጻኢቱ"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ክመጽእ"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "ከም ዝናብ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንና"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "ከም ዝናቢ መወዳእታ"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ዚዥብ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:06:24.840659571Z",
+  "model": "glm-5.3"
+}

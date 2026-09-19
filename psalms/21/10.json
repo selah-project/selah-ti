@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ከም ምድገ ሓዊ ኣብ እዋን ፊትካ ትገብሮም፤ ያህዌህ ብቁምጡ ይስሕቦም፣ ሓዊ ድማ ይብላዮም።",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "ትገብሮም"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "ከም ምድገ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ኣብ እዋን"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ፊትካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ብቁምጡ"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "ይስሕቦም"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "ይብላዮም"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:41.588917913Z",
+  "model": "glm-5.3"
+}

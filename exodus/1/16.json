@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "«ስቲ ነተን ⟨את⟩ ዕብራይስትያን ትወልዳ፣ ኣብ መንበር ልደት ከም ተራእያን፣ ወዲ እንተ ዀነ ⟨אתו⟩ ኣትግተን፣ ጓል እንተ ዀና ድማ ትነብር» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "ስቲ ትወልዳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዕብራይስትያን"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "ዕብራይስትያን"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "ከም ተራእያን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "መንበር ልደት"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ዀነ"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "ኣትግተን"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንእኡ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "እንተ…ድማ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ጓል"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ዀና"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "ትነብር"
+    }
+  ],
+  "timestamp": "2026-09-18T21:10:53.660567296Z",
+  "model": "glm-5.3"
+}

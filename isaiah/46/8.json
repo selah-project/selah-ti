@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 46:8",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 46,
+  "translation": "እዚ ኣዘኽሩ፣ ከም ተባዕታት ርአይኹም፤ ናብ ልቢ ንምለሱ፣ ተቓላስትቲ።",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "ኣዘኽሩ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "והתאששו",
+      "gloss": "ከም ተባዕታት ርአይኹም"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "ንምለሱ"
+    },
+    {
+      "surface": "פושעים",
+      "gloss": "ተቓላስትቲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:14:08.819051708Z",
+  "model": "glm-5.3"
+}

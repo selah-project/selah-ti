@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 73,
+  "translation": "ከም ሕልሚ ምስ ተሓሪኹ ከምኡ ኣዶናይ ንስኻ ምስ ተንሳእትካ ቅርጺ ሕልሚ ንሳቶም ትዕቕኖም።",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "ከም ሕልሚ"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "ምስ ተሓሪኹ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ምስ ተንሳእትካ"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "ቅርጺ ሕልሚ ንሳቶም"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "ትዕቕኖም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:17.245505531Z",
+  "model": "glm-5.3"
+}

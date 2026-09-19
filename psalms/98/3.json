@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 98,
+  "translation": "ሔሴዱን ኣምንቱን ንስድራ እስራኤል ተዛረከ፤ ኩሉ ውሱናት ምድሪ ⟨את⟩ ድሕንነት ኤሎሂምና ረኣየ።",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ተዛረከ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "ኣምንቱን"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ንስድራ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ውሱናት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድሕንነት"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "ድሕንነት"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:12.883569502Z",
+  "model": "glm-5.3"
+}

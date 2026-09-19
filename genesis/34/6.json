@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ሓሞር ኣቦ ሸከም ድማ ናብ ያዕቆቭ ንኽተዛርብ ⟨אתו⟩ ወጸ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ሓሞር"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ሸከም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ንኽተዛርብ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ያዕቆቭ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:58:01.263308954Z",
+  "model": "glm-5.3"
+}

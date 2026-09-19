@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ድማ ⟨את⟩ ኤፉድ ክገብሩ፦ ወርቂ፣ ሰማያዊን ጸጉራዊን፣ ቀይሕ ኩንኽኒን ተማይ ኣብ ዝተሸምበቐ፣ ስራሕ ሓሳብ ዘለዎ።",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "ክገብሩ ድማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤፉድ"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ኤፉድ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ሰማያዊ"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ጸጉራዊ"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ኩንኽኒ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ቀይሕ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ተማይ"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ኣብ ዝተሸምበቐ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ስራሕ"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ሓሳብ ዘለዎ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:33:32.129760796Z",
+  "model": "glm-5.3"
+}

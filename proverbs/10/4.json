@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "እዲ ሓለብ ኣክሊል ትገብር፤ እዲ ኣሰራርትቲ ግን ትሃብር።",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "ኣክሊል"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "כף",
+      "gloss": "እዲ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ሓለብ"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ከምኡውን እዲ"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "ኣሰራርትቲ"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "ትሃብር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:45:51.524100923Z",
+  "model": "glm-5.3"
+}

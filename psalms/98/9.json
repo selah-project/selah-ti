@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 98,
+  "translation": "ቅድሚ ያህዌህ፣ ምኽንያቱ ንምድሪ ክፈርድ ኮይኑ መጺኡ እዩ፤ ንዓለም ብጽድቂ ይፈርድ እዩ፣ ንኣገላልያት ድማ ብቐጥታ።",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጺኡ እዩ"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ክፈርድ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ንምድሪ"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ይፈርድ እዩ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ንዓለም"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ብጽድቂ"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "ንኣገላልያት ድማ"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "ብቐጥታ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:30.593811255Z",
+  "model": "glm-5.3"
+}

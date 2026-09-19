@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 59,
+  "translation": "«ናይ ኣዝራሪ ኤል፣ ናብካ እዘምር፤ ምኽንያቱ ኤሎሂም ማዕበለ ኣነ፣ ኤል ናይ ሔሴድይ እዩ።»",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "ናይ ኣዝራሪ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብካ"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "እዘምር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ማዕበለ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "ሔሴድይ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:02:30.227721368Z",
+  "model": "glm-5.3"
+}

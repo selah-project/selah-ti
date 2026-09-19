@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ጻድቕ ናብ ዘለኣለም ፈጺሞ ኣይተንቐጠቐጥን፣ ሓራራት ድማ ኣብ ⟨እታ⟩ ምድሪ ኣይነብሩን።",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቕ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ፈጺሞ"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ኣይተንቐጠቐጥን"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ሓራራት ድማ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ይነብሩን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:46:21.995192538Z",
+  "model": "glm-5.3"
+}

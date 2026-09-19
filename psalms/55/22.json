@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 55:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 55,
+  "translation": "ኣፉ ኸም በጠር ቀሊሉ እዩ፤ ልቡ ግን ግጭሚ እዩ። ቃላቱ ካብ ዘት ርእሲ ዝለልዑ እዮም፤ ንሳቶም ግን ዝተሰበሩ ሰይፍ እዮም።",
+  "tokens": [
+    {
+      "surface": "חלקו",
+      "gloss": "ቀሊሉ"
+    },
+    {
+      "surface": "מחמאת",
+      "gloss": "ከም በጠር"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ኣፉ"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "ግን ውሽጢ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "רכו",
+      "gloss": "ዝለልዑ"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ቃላቱ"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ካብ ዘት"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ንሳቶም ግን"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "ዝተሰበሩ ሰይፍ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:02:28.149461134Z",
+  "model": "glm-5.3"
+}

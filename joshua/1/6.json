@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ተዓጻንን ተኣማንን፤ ምኽንያቱ ንህትኻ እዩ ⟨את⟩ እቲ ህዝቢ እዚ ⟨את⟩ እቲ ምድሪ ክትወርሶ፣ እታ ናብ ኣቦታቶም ክሃባዮም ዝሓለውክዋ።",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "ተዓጻን"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "ድማ ተኣማን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንህትኻ"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "ክትወርሶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ህዝቢ እዚ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ምድሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እቲ ምድሪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ዝሓለውክዋ"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "ናብ ኣቦታቶም"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ክሃብ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ነይኖም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:18:11.100761451Z",
+  "model": "glm-5.3"
+}

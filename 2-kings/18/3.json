@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 18:3",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ትኽክል ኣብ ኣይኒ ያህዌህ ገበረ፣ ኩሉ እታ ዳዊድ ኣቦኡ ዝገበሮ ከምኡ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ትኽክል"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ ኣይኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ከም ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበረ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:32:30.847909617Z",
+  "model": "glm-5.3"
+}

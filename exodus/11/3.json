@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ያህዌህ ድማ ⟨את⟩ ጸጋ ህዝቢ ኣብ እዝኒ ምጽራይ ሃቖም፤ እቲ ሰብ ሞሸ እውን ኣብ ምድሪ ሚጽራይም ብዙሕ ዓቢ ነይሩ፣ ኣብ እዝኒ ኣገልገልቲ ፓርዖንን ኣብ እዝኒ ህዝቢን።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሃቖም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጸጋ ህዝቢ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ጸጋ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ እዝኒ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ምጽራይ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ እዝኒ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልገልቲ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ኣብ እዝኒ…ን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:19:05.203117775Z",
+  "model": "glm-5.3"
+}

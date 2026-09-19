@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ኣብ ምርዲእ ኣይደልን እቲ ሓደጋ፣ ንሱ ግን ኣብ ምግላጽ ልቡ ይደሊ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ይደሊ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "እቲ ሓደጋ"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "ኣብ ምርዲእ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ግን"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "ኣብ ምግላጽ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:51:28.909654006Z",
+  "model": "glm-5.3"
+}

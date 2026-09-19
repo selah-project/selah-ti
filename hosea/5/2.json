@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 5:2",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣብ ምጽዓቕ…ን ኣመንዪት ጥልቖም፣ ኣነ ድማ ቅጣት ኩሎም እየ።",
+  "tokens": [
+    {
+      "surface": "ושחטה",
+      "gloss": "ምጽዓቕ…ን"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ኣመንዪት"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "ጥልቖም"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ…ድማ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ቅጣት"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "ኩሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:07:59.986961569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 53,
+  "translation": "ንመምህሪ፣ ኣብ መሕለቒ ማሕላት፣ ትምህርቲ፣ ናይ ዳዊድ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንመምህሪ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ መሕለቒ"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "ማሕላት"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ትምህርቲ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:30.938270110Z",
+  "model": "glm-5.3"
+}

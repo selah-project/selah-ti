@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 5:20",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ያህዌህ ድማ ንሞሸ ተዛረበ እሞ በሎ፦",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እሞ በሎ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:48:41.768440020Z",
+  "model": "glm-5.3"
+}

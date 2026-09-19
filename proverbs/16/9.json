@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ልቢ ሰብ ነቲ መስመሩ ይሓስብ፣ ያህዌህ ግን ነቲ ኣቋርፁ ይሓጽብ።",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ይሓስብ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ነቲ መስመሩ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "ይሓጽብ"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "ነቲ ኣቋርፁ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:49:18.735975139Z",
+  "model": "glm-5.3"
+}

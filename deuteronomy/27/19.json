@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "እቲ ፍትሕ ናይ መራር፣ ውሉድን ተሪፍ ሰበይትን ዝጎትት ክርጉም እዩ፤ ኩሉ ⟨እቲ⟩ ህዝቢ ድማ «ኣሚን» ይብል።",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ክርጉም"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ዝጎትት"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍትሕ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "መራር"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ውሉድ"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "ከምኡውን ተሪፍ ሰበይቲ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ድማ ይብል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ኣሚን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:07:23.521596501Z",
+  "model": "glm-5.3"
+}

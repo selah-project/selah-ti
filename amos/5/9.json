@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "እቲ ሓደጋ ኣብ ልዕሊ ⟨እቲ⟩ ሓያል ዚበርህ እዩ፣ ሓደጋ ድማ ናብ ⟨እቲ⟩ መከላቲ ትመጽእ።",
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "ዚበርህ"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ሓደጋ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ሓያል"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "ሓደጋ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "መከላቲ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ትመጽእ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:18:10.897069724Z",
+  "model": "glm-5.3"
+}

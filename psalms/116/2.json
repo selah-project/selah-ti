@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 116,
+  "translation": "ስለ ዝዘበነ ኣእዛዉ ናብይ ድማ ኣብ መዓልታት እየ ክጽውዖ እየ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ ዝዘበነ ኣእዛዉ ናብይ"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "ዘበነ"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ኣእዛዉ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ናብይ"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "ኣብ መዓልታት እየ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ክጽውዖ እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:22.334802554Z",
+  "model": "glm-5.3"
+}

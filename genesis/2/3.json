@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኤሎሂም ድማ ⟨את⟩ መዓልቲ ሽድሽይ ባረኸ፣ ⟨אתו⟩ ድማ ቀደሶ፤ ምኽንያቱ ኣብኡ ካብ ኩሉ ግዘፉ ኣቐረጸ፣ ነቲ ኤሎሂም ብምፍጣር ዝገበሮ ኩሉ።",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ባረኸ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መዓልቲ ሽድሽይ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ሽድሽይ"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ቀደሶ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ነቲ ሽድሽይ መዓልቲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ኣቐረጸ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "ግዘፉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ብምፍጣር"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ንምግባር"
+    }
+  ],
+  "timestamp": "2026-09-18T20:31:53.841025705Z",
+  "model": "glm-5.3"
+}

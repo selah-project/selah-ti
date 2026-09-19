@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ካብ ጽልምናህ ተኣሳሱሉ ኣብ ፑኖን ተቐመጡ።",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ተኣሳሱሉ"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "ካብ ጽልምናህ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ተቐመጡ"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "ኣብ ፑኖን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:42:09.655272525Z",
+  "model": "glm-5.3"
+}

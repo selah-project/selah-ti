@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ናብ ኤሎሂምና ሰገሕና፣ ኣብ ልዕሊኦም መዓልቲን ለይቲን ብሰንኮም ቆጸራ ሓዲግና።",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "ሰገሕና"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "ሓዲግና"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "ቆጸራ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ኣብ ልዕሊኦም"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ለይቲን"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ብሰንኮም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:18:02.266356140Z",
+  "model": "glm-5.3"
+}

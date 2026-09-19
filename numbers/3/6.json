@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ነቕሓ ⟨את⟩ ስድረ ሌዊ፣ ነቲ ⟨אתו⟩ ኣብ ቅድሚ ኣሃሮን እቲ ኻህን ኣቕርብ፣ ንሶም ድማ ነቲ ⟨אתו⟩ ይገብርዎ።",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "ነቕሓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስድረ ሌዊ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ስድረ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ሌዊ"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "ኣቕርብ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ኣብ ቅድሚ ኣሃሮን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ኻህን"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "ይገብርዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ኣሃሮን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:13:51.173907528Z",
+  "model": "glm-5.3"
+}

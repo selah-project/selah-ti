@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 148,
+  "translation": "ናብ ዘለኣለም ክሳብ ዘለኣለም ድማ ኣቕሚዶም፤ ሕጊ ሃበ፣ ኰነውን ኣይሓልፍን።",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "ድማ ኣቕሚዶም"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ክሳብ ዘለኣለም"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ሕጊ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኰነውን ኣይ"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "ይሓልፍን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:47.386242758Z",
+  "model": "glm-5.3"
+}

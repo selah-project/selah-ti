@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ሓይልኩም ኣብ ባዕሉ ትውደእ፣ ምድሪኩም ⟨את⟩ ውፉያ ኣይትህብን፣ ኣደጊታ ምድሪ እውን ፍሩኡ ኣይህብን።",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "ትውደእ"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ኣብ ባዕሉ"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "ሓይልኩም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ትህብ"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ምድሪኩም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውፉያ"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ውፉያ"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ኣደጊታ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይህብ"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ፍሩኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:10:06.537447386Z",
+  "model": "glm-5.3"
+}

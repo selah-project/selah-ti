@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እቲ ንጉስ ድማ መልሱ በለ፦ «⟨את⟩ እቲ ሕያው ቆላድ ነታ ሃቡዋ፣ ኣይተቐትሉን፤ ንሳ ኣደ እያ።»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መልሶ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ሃቡ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ነታ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሕያው ቆላድ"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "ቆላድ"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ምቕታል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "ተቐትሉን"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ንሳ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ኣደ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:49:08.583990792Z",
+  "model": "glm-5.3"
+}

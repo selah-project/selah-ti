@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ዓሳው ድማ ኣብ በዓቲ ስዒር ተቐመጠ፤ ዓሳው እዩ ኤዶም።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዓሳው ድማ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ኣብ በዓቲ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ስዒር"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዓሳው"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:57:04.618939078Z",
+  "model": "glm-5.3"
+}

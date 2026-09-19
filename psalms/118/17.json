@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 118,
+  "translation": "ኣይሞትን፣ ንሳዕ ክነግር፤ ተግባራት ያህ ክንገር እየ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ኣይሞትን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ንሳዕ"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ክነግር"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "ክንገር"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ተግባራት"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:24.289847646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ኣሎ ኣብ ናብ ቅድሚ እኸዶ — ንሱ የለን፤ ወዲኡ ናብ ድሕሪ እኸዶ ድማ — ኣይርድኦን እየ።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ኣሎ ኣብ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ናብ ቅድሚ"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "እኸዶ"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ንሱ የለን"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "ወዲኡ ናብ ድሕሪ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ድማ ኣይ"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "ይርድኦን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:15:01.934738858Z",
+  "model": "glm-5.3"
+}

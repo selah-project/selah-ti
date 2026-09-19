@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ድማ መሸፈኒ (ካፖረት) ብጽሩይ ወርቂ ትገብር፤ ኩቢት ክልተን ግማዊን ንዑንታኡ፣ ኩቢትን ግማዊን ድማ ንስፍሓቱ ንትርጉም።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "መሸፈኒ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ጽሩይ"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "ኩቢት ክልተ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ግማዊ"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "ንዑንታኡ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ኩቢት"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ግማዊ"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ንስፍሓቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:32:15.960165372Z",
+  "model": "glm-5.3"
+}

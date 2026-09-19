@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 13:12",
+  "book": "nehemiah",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኩሉ ይሁዳ ድማ ነቲ ወፍርቲ ኣስርተ እኽሊን ጸወራ ወይኒን ዘይቲ ዓተርን ናብቶም መኽዘናት ኣእተወ።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ኣእተወ"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ወፍርቲ ኣስርተ"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "והתירוש",
+      "gloss": "ጸወራ ወይኒ"
+    },
+    {
+      "surface": "והיצהר",
+      "gloss": "ዘይቲ ዓተር"
+    },
+    {
+      "surface": "לאוצרות",
+      "gloss": "ናብቶም መኽዘናት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:25:23.923223251Z",
+  "model": "glm-5.3"
+}

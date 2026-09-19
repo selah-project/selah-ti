@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 132,
+  "translation": "ንዓይኒ ምድቅ እንተ ሃብኩ፣ ንብእሲ ዓይኒ ድማ ዓንቀል እንተ ሃብኩ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ሃብኩ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ምድቅ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ንዓይኒ"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "ንብእሲ ዓይኒ"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "ዓንቀል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:13.291270050Z",
+  "model": "glm-5.3"
+}

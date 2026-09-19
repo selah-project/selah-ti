@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 83,
+  "translation": "እሞ ብሓደ ልቢ ብሓባር ተምከሩ፣ ኣኹትካ ኪዳን ተቐብኡ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "ተምከሩ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ብሓባር"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ኣኹትካ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ተቐብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:20.667503741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "የተባረኽ ያህዌህ፣ ኤሎሂም ዓቕሊ እስራኤል፣ ካብ ዘለኣለምን ክሳብ ዘለኣለምን፤ ኣሜን፣ ኣሜን።",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "የተባረኽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ዓቕሊ እስራኤል"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "ካብ ዘለኣለም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ዘለኣለም"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ኣሜን"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ኣሜንውን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:55:16.785013439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ከም ኣዝምያ ኣብ መንጎ ሣሕሲ ይወጽሑ፣ ከም ዓባሻ ዛፋታት ኣብ ትሕቲ ሽቶታት ማይ።",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "ይወጽሑ"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ሣሕሲ"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "ከም ዓባሻ ዛፋታት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ትሕቲ"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "ሽቶታት"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:11:25.913318904Z",
+  "model": "glm-5.3"
+}

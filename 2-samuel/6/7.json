@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 6:7",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ቍጥድ ያህዌህ ኣብ ዑዛ ድማ ተነድደ፤ ኤሎሂም ኣብቲ ቦታ ብኣተሓጋገዙ ገበርዎ ኸኣ፣ ንሱ ድማ ኣብኡ ምስ ታቦት ኤሎሂም ሞተ።",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ተነድደ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ቍጥድ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בעזה",
+      "gloss": "ኣብ ዑዛ"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ገበርዎ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብቲ ቦታ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "השל",
+      "gloss": "ኣተሓጋገዙ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:25:29.264111546Z",
+  "model": "glm-5.3"
+}

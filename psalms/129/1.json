@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 129,
+  "translation": "መዝሙር ናይ ምውሳዕ፦ ብዙሕ ተቓለሱኒ ካብ ንእሽተይነ፣ ይቕጽር እስራኤል ሕጂ ኪብል፦",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ናይ ምውሳዕ"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "ተቓለሱኒ"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ካብ ንእሽተይነ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ኪብል"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ይቕጽር ሕጂ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:57.045940268Z",
+  "model": "glm-5.3"
+}

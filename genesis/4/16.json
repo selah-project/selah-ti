@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ቅያይን ድማ ካብ ቅድመ ያህዌህ ወጸ፤ ኣብ ምድሪ ኖድ፣ ኣብ ቅድምታ ዔደን ነዓቐ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ቅያይን"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ካብ ቅድመ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ነዓቐ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "ኖድ"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "ኣብ ቅድምታ"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ዔደን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:30:33.019601704Z",
+  "model": "glm-5.3"
+}

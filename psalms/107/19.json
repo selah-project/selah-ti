@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ኣብ ጸገም ኣእንዮም ናብ ያህዌህ ደለቑ፣ ካብ ምስዝዋሮም ድማ ሓለዎም።",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "ደለቑ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ኣብ ጸገም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ኣእንዮም"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "ካብ ምስዝዋሮም"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "ሓለዎም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:05.912240569Z",
+  "model": "glm-5.3"
+}

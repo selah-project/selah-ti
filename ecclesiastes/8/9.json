@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ነዚ ⟨את⟩ ኩሉ ረኣኹ፣ ድማ ⟨את⟩ ልበይ ንኩሉ ጕዳይ እቲ ኣብ ታሕቲ ፀሓይ ዝተገበረ ብሃብኩ፤ ግዜ እቲ ሰብ ኣብ ሰብ ንጥፍኣቱ ዝገዝእ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ነዚ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ረኣኹ"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "ድማ ብሃብኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልበይ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ጕዳይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ዝተገበረ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ታሕቲ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሓይ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ግዜ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "ዝገዝእ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ኣብ ሰብ"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ንጥፍኣት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:43:49.851080144Z",
+  "model": "glm-5.3"
+}

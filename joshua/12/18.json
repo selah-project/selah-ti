@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 12:18",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ንጉስ ኣፌቅ ሓደ፣ ንጉስ ላሻሮን ሓደ።",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "אפק",
+      "gloss": "ኣፌቅ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "לשרון",
+      "gloss": "ላሻሮን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:23:51.642187216Z",
+  "model": "glm-5.3"
+}

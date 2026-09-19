@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ለዳዊድ ምስ ተነገረ ⟨את⟩ ኩሉ እስራኤል ሰበሰበ፣ ⟨את⟩ ያርዳን ተሓለፈ፣ ናብ ሔላም መጸ፤ ኣራም ንዳዊድ ንምትጻኣድ ተዳለወ፣ ምስኡ ድማ ተዓጺወ።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ምስ ተነገረ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ለዳዊድ"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ሰበሰበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እስራኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ተሓለፈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያርዳን"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ያርዳን"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "ናብ ሔላም"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "ተዳለወ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ንምትጻኣድ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ተዓጺወ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:28:36.140030087Z",
+  "model": "glm-5.3"
+}

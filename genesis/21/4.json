@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ኣቭራሃም ድማ ⟨את⟩ ይጽሓቅ ወዱኡ ወዲ ሸሞንተ መዓልታት ከም ዝኣዘዞ ⟨אתו⟩ ኤሎሂም ገርመዮ።",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "ገርመዮ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይጽሓቅ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይጽሓቅ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዱኡ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "ሸሞንተ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም ዝኣዘዞ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ኣዘዞ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:43:32.573087758Z",
+  "model": "glm-5.3"
+}

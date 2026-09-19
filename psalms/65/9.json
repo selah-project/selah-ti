@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 65,
+  "translation": "ኣብ ምውዳኣት እቶም ዝነግሱ ብምልክታትካ ይፍርሁ፤ ነቲ ዝወጹሉ ናይ ጸጋምን ናይ ለይቲን ትሓጕሶም።",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "ይፍርሁ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "እቶም ዝነግሱ"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ኣብ ምውዳኣት"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "ብምልክታትካ"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "ነቲ ዝወጹሉ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ናይ ጸጋም"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "ከምኡውን ናይ ለይቲ"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "ትሓጕሶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:10.374227525Z",
+  "model": "glm-5.3"
+}

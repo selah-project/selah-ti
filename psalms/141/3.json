@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 141,
+  "translation": "ኣቐምጥ ያህዌህ ሓደ ምሉእ ቁጸጻሚ ንኣፈይ፣ ኣብ ውሽጢ እቲ ቐሊል ኣንጊርቲ ኣፈተይ ተኸላኽለሉ።",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "ኣቐምጥ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "ሓደ ምሉእ ቁጸጻሚ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ንኣፈይ"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "ተኸላኽለሉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ውሽጢ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "እቲ ቐሊል ኣንጊርቲ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ኣፈተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:59.753014989Z",
+  "model": "glm-5.3"
+}

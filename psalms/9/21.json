@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ያህዌህ ጽምኒ ንእሶም የቕርበሎም፤ ኣሕዛብ ከም ዝኾኑ ሞታት ሰባት ⟨ንሳቶም⟩ ክፈልጡ ግበር። ስብሓ።",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "የቕርብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ጽምኒ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንእሶም"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ክፈልጡ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ኣሕዛብ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሞታት ሰባት"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስብሓ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:13.857217493Z",
+  "model": "glm-5.3"
+}

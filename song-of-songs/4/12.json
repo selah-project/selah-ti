@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ሓብተይ ሓዳሽቲ ከም ኣትክሊት ዝተቓጸለ እያ፣ ምንጪ ዝተቓጸለ፣ ምንጪ ማይ ዝተሓተመ።",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "ኣትክሊት"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "ዝተቓጸለ"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ሓብተይ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ሓዳሽቲ"
+    },
+    {
+      "surface": "גל",
+      "gloss": "ምንጪ"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "ዝተቓጸለ"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "ምንጪ ማይ"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "ዝተሓተመ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:27:04.399420988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ሞጻ ድማ ⟨את⟩ ቢንዓ ወለደ፤ ራፋ ወዱ፣ ኤልዓሳ ወዱ፣ ኣጽል ድማ ወዱ።",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "ሞጻ ድማ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቢንዓ"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "ቢንዓ"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "ራፋ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዱ"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "ኤልዓሳ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዱ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ኣጽል"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:36:24.665050776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ምኽንያቱ ኣብ ሰማያት ተሰተያ ሰይፈይ እያ፤ ኣሎ፣ ንኤዶም ትወርድ፣ ንሕዝቢ ሓደግተይ እውን ንፍርዲ ትወርድ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "ተሰተያ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ኣብ ሰማያት"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "ሰይፈይ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "ትወርድ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ን…እውን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "ሓደግተይ"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ንፍርዲ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:06:14.135557693Z",
+  "model": "glm-5.3"
+}

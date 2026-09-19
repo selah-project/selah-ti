@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 120,
+  "translation": "ብዙሕ ግዜ ነዋየት ንሳ ነፍሲ ምስ ሰላም ዝተቓወመ።",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "ነዋየት"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ንሳ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ዝተቓወመ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:55.142339996Z",
+  "model": "glm-5.3"
+}

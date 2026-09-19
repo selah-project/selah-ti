@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እቶም ድማ ኣብ ቓል ያህዌህ ልቦም ዘይገበሩ፣ ኣብ በዓር ዕዳላቶምን እተሓንበተሉን ዓስቢቦም ሓዲጎም።",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "እቶም ድማ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቦም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ሓዲጎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዕዳላቶምን"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ኣውላድን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እተሓንበተሉን"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "እተሓንበተሉን"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ኣብ በዓር"
+    }
+  ],
+  "timestamp": "2026-09-18T21:18:11.314608977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 86,
+  "translation": "ምኽንያቱ ዓቢ ኣትኻ፣ ዝጌብር ተምሳላዊ ነገራት ኣትኻ፣ ንስኻ ጥራይ ኤሎሂም ኢኻ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኣትኻ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ዝጌብር"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ተምሳላዊ ነገራት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኣትኻ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ንስኻ ጥራይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:27.352134934Z",
+  "model": "glm-5.3"
+}

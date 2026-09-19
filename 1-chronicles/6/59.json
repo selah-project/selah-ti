@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "1-chronicles 6:59",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ካብ ወረዳ ኣሸር እውን ⟨את⟩ ማሻልን ⟨את⟩ ከባቢኣን፣ ⟨את⟩ ዓብዶንን ⟨את⟩ ከባቢኣን።",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ካብ ወረዳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ኣሸር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማሻል"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ማሻል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ከባቢኣ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ከባቢኣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓብዶን"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "ዓብዶን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ከባቢኣ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ከባቢኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:33:46.533624433Z",
+  "model": "glm-5.3"
+}

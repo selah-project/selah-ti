@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 113,
+  "translation": "ንሓጽረቲ ቤት ብደስታ ኣደ ውላድ ኮይና ኣብ ገዛ ዝኣኽራ እዩ፤ ስብሕ ያህ።",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "ዝኣኽራ"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "ሓጽረቲ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ኣደ"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ብደስታ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ስብሕዋ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:14.860380933Z",
+  "model": "glm-5.3"
+}

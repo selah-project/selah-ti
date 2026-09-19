@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ካብ ኤሎሂም ንንእሽቶ ኣሳንድካዮ፣ ብክብሪን ብገጽታን ከም ኣክሊል ኣኽቢርካዮ።",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "ኣሳንድካዮ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ንንእሽቶ"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "ካብ ኤሎሂም"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ብክብሪ"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ብገጽታ"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "ኣኽቢርካዮ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:36.043137668Z",
+  "model": "glm-5.3"
+}

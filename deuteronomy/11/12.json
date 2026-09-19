@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ምድሪ እታ ያህዌህ ኤሎሂምካ ⟨את⟩ እትሓትቶ ብዘለኣለም፤ ኣዒንቲ ያህዌህ ኤሎሂምካ ኣብ ኣታ ኣለዋ፣ ካብ መጀመርታ ዓመት ክሳብ ድሕሪታ ዓመት።",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ይሓትቶ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ኣታ (እታ ምድሪ)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ብዘለኣለም"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ኣዒንቲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብ ኣታ"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "ካብ መጀመርታ"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ድሕሪታ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:51:54.895791383Z",
+  "model": "glm-5.3"
+}

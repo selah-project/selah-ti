@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ድማ ተቐድሶምዎም እሞ ቅዱስ ቅዱሳት ኮይኖም ክኾኑ፤ ኩሉ ዝቕርብ ኣብ ኣንጻሮም ክቕድስ እዩ።",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "ድማ ተቐድሶምዎም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ነኦም (ኣታዊታት)"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "እሞ ኮይኖም"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ዝቕርብ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ኣብ ኣንጻሮም"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "ክቕድስ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:26:40.232911605Z",
+  "model": "glm-5.3"
+}

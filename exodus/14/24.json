@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 14:24",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ድማ ኣብ ሸምጢ እቲ ንጉሆ ኾነ፣ ያህዌህ ብዓምዲ ሓዊን ደቀባትን ናብ ኣሳራሕቲ ሚጽራይም ተዓዘበ፣ ⟨את⟩ ኣሳራሕቲ ሚጽራይም ድማ ኣሰበጠ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኾነ"
+    },
+    {
+      "surface": "באשמרת",
+      "gloss": "ኣብ ሸምጢ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "እቲ ንጉሆ"
+    },
+    {
+      "surface": "וישקף",
+      "gloss": "ተዓዘበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ኣሳራሕቲ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "ብዓምዲ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "ደቀባትን"
+    },
+    {
+      "surface": "ויהם",
+      "gloss": "ኣሰበጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሳራሕቲ ሚጽራይም"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ኣሳራሕቲ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:19:32.658740878Z",
+  "model": "glm-5.3"
+}

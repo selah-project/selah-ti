@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "እቲ ማእከላይ ባሪ ድማ ኣብ ማእከል ⟨ቶም⟩ ጽንጻት ካብ ⟨ቲ⟩ መወዳእታ ናብ ⟨ቲ⟩ መወዳእታ ይሻገር።",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "እቲ ባሪ ድማ"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "ማእከላይ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ ማእከል"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ቶም ጽንጻት"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "ይሻገር"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "ቲ መወዳእታ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "ቲ መወዳእታ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:31:19.905534261Z",
+  "model": "glm-5.3"
+}

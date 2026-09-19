@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 22:24",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኩሉ ክብሪ ናይ ቤት ኣቡኡ — ውላድ ውላዕቲን ቅርንጫፋትን — ኣብኡ ይሰርቡ፤ ኩሉ መሳርሒ ንእሽቶ፣ ካብ መሳርሒ ጽላታት ክሳብ ኩሉ መሳርሒ ጋንናት።",
+  "tokens": [
+    {
+      "surface": "ותלו",
+      "gloss": "ይሰርቡ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    },
+    {
+      "surface": "הצאצאים",
+      "gloss": "ውላድ ውላዕቲ"
+    },
+    {
+      "surface": "והצפעות",
+      "gloss": "ቅርንጫፋት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "መሳርሒ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ንእሽቶ"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "ካብ መሳርሒ"
+    },
+    {
+      "surface": "האגנות",
+      "gloss": "ጽላታት"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "መሳርሒ"
+    },
+    {
+      "surface": "הנבלים",
+      "gloss": "ጋንናት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:56:10.120316692Z",
+  "model": "glm-5.3"
+}

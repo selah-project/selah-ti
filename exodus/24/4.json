@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ሞሸ ድማ ኩሉ ቃላት ያህዌህ ⟨את⟩ ጸሓፈ፤ ብማዕጺ ቀዲሱ ኣብ ትሕቲ እቲ ኦም ማሕደር ሃንጸ ከምኡውን ነቲ ክልተ ወስተ ኩለታት እስራኤል ክልተ ወስተ ቁራዊት ሰርሑ።",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ጸሓፈ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "ቀዲሱ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ብማዕጺ"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ሃንጸ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሰዊ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ትሕቲ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "እቲ ኦም"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ወስተ"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ቁራዊት"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "ነቲ ክልተ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ወስተ"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ኩለታት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T21:29:25.831851736Z",
+  "model": "glm-5.3"
+}

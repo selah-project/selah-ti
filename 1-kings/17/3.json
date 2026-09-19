@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 17:3",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "«ካብዚ ኢል፣ ነኻ ምብራቕ ተወደብ፣ ብለይ ኽሪት እቲ ኣብ ቅድሚ ያርዳን ዘሎ ተሓብእ።»",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ኢል"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ካብዚ"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "ተወደብ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ነኻ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ምብራቕ"
+    },
+    {
+      "surface": "ונסתרת",
+      "gloss": "ተሓብእ"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ብለይ"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "ኽሪት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ያርዳን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:03:36.099216730Z",
+  "model": "glm-5.3"
+}

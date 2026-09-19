@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zephaniah 1:17",
+  "book": "zephaniah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣጽንዖት ንሰብ ክገብር ኣለኹ፣ ከም ዓብዊልን ክኸዱ፣ ምኽንያቱ ንያህዌህ በደልዎ፤ ደሞም ከም እኽሊ ድማ ይቕበእ፣ ስጋኦም ከም ገላሊን።",
+  "tokens": [
+    {
+      "surface": "והצרתי",
+      "gloss": "ኣጽንዖት ክገብር ኣለኹ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ንሰብ"
+    },
+    {
+      "surface": "והלכו",
+      "gloss": "ክኸዱ"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "ከም ዓብዊልን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "በደልዎ"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "ድማ ይቕበእ"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ደሞም"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "ከም እኽሊ"
+    },
+    {
+      "surface": "ולחמם",
+      "gloss": "ስጋኦምን"
+    },
+    {
+      "surface": "כגללים",
+      "gloss": "ከም ገላሊን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:29:09.683160604Z",
+  "model": "glm-5.3"
+}

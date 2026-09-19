@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ከምኡውን እዚኦም እዮም እቶም ፍትሕታት፣ እቶም ኣብ ቅድሚኦም ክትቐምጦም እትኽእል።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ከምኡውን እዚኦም"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "እቶም ፍትሕታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ክትቐምጦም"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ኣብ ቅድሚኦም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:29:48.844938496Z",
+  "model": "glm-5.3"
+}

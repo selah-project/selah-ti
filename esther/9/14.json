@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እቲ ንጉስ ድማ ከምኡ ንምግባር በለ፤ ሕጊ ድማ ኣብ ሱሳን ተወሃበት፤ ⟨את⟩ ዓሰርተ ውላድ ሃማን ድማ ኣብ እቲ ኣጋይሽ ተሓንጹሉ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "ንምግባር"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "ተወሃበት"
+    },
+    {
+      "surface": "דת",
+      "gloss": "ሕጊ"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "ኣብ ሱሳን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓሰርተ ውላድ ሃማን"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሃማን"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "ተሓንጹሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:51:45.213170081Z",
+  "model": "glm-5.3"
+}

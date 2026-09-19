@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ንሱ ድማ እታ ዓይኑ ኣንሺዑ ⟨את⟩ እተን ሰበይቲን ⟨את⟩ እቶም ውላድን ረኣየ፤ «እዚኦም ንስኻ መን እዮም?» በለ። ንሱ ድማ «እቶም ውላድ ኤሎሂም ⟨את⟩ ዓብድካ ዝጸገዮም እዮም» በለ።",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ኣንሺዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓይኑ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ዓይኑ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እተን ሰበይቲ"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "እተን ሰበይቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ውላድ"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "እቶም ውላድ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "እቶም ውላድ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ጸገዮም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓብድካ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ዓብድካ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:53:37.158881217Z",
+  "model": "glm-5.3"
+}

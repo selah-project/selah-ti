@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 8:5",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እቲ ኣግራርኻ ሾምሮን ተሓቒቑ እዩ፤ ቑጠራተይ ኣብ ኣንበሮም ተነዊኡ እዩ፤ ክሳብ መዓስ፧ ንጹርነት ኣይኽእሉን።",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "ተሓቒቡ እዩ"
+    },
+    {
+      "surface": "עגלך",
+      "gloss": "እቲ ኣግራርኻ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ሾምሮን"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ተነዊኡ እዩ"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ቑጠራተይ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ኣብ ኣንበሮም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "መዓስ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "ኽእሉን"
+    },
+    {
+      "surface": "נקין",
+      "gloss": "ንጹርነት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:10:50.304517508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣብ ጊብዖን ያህዌህ ኣብ ሕልም ናይ ⟨ቲ⟩ ለይቲ ንሽሎሞ ተራእየ፤ ኤሎሂም ድማ «ሓተት፣ እንታይ ክሃበካ እዩ» በለ።",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "ኣብ ጊብዖን"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ተራእየ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "ኣብ ሕልም"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ናይ ለይቲ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ሓተት"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ክሃበካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:47:30.440752378Z",
+  "model": "glm-5.3"
+}

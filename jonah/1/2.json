@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ተንበር፣ ናብ ነነዌ ⟨እታ⟩ ዓቢቲ ቕጻቕ ከይድ፣ ኣብ ልዕሊኣ ተዛረብ፣ ምኽንያቱ ክፉእኦም ናብ ቅድሜይ ወጺኡ ኣሎ።",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "ተንበር"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ከይድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ነነዌ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨እታ⟩ ቕጻቕ"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ዓቢቲ"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ተዛረብ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ኣብ ልዕሊኣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ወጺኡ ኣሎ"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "ክፉእኦም"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ናብ ቅድሜይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:22:29.524295368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 132,
+  "translation": "እንሆ ሰምዕናቶ ኣብ ኤፍራታሕ፣ ረኺብናቶ ኣብ መዓርቓት ⟨ዱር⟩።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "ሰምዕናቶ"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "ኣብ ኤፍራታሕ"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "ረኺብናቶ"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "ኣብ መዓርቓት"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ዱር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:26.836887437Z",
+  "model": "glm-5.3"
+}

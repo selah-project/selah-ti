@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ንጉስ እስራኤል ድማ «ኣሃህ! ያህዌህ ነዚ ሰለስተቲ ንጉሳት ⟨את⟩ ንኽህቦም ኣብ ኢድ ሞዓብ ጻወዮም» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ኣሃህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ጻወየ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "ንሰለስተቲ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ንጉሳት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ንኽህቦም"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብ ኢድ ሞዓብ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ኣብ ኢድ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:14:16.797203880Z",
+  "model": "glm-5.3"
+}

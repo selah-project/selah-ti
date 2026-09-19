@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 147,
+  "translation": "ዓቢ እዩ ኣዶናይና፣ ብዙሕ ንኽእለት፤ ንብዝሕኡ ድማ ቁጽሪ የብሉን።",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "ኣዶናይና"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ንኽእለት"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "ንብዝሕኡ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የብሉን"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ቁጽሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:05.178241094Z",
+  "model": "glm-5.3"
+}

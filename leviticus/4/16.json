@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "እቲ ዝተቐብአ ኻህን ካብ ደም እቲ ፈረስ ናብ ድኽሪ ስብሓ ኪእትዎ።",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ኪእትዎ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ኻህን"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "ዝተቐብነ እቲ ማሺያሕ"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ካብ ደም"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "እቲ ፈረስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድኽሪ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ስብሓ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:49:14.181140109Z",
+  "model": "glm-5.3"
+}

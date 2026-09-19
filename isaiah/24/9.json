@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ብዜማ ወይን ኣይሰተዩን፤ ንዝሰትዎ ድማ ሱካር ቱሕቲ እዩ።",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "ብዜማ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "ክሰቱ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ወይን"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "ቱሕቲ እዩ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ሱካር"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "ንዝሰትዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:56:27.441596578Z",
+  "model": "glm-5.3"
+}

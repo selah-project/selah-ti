@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ከም ወዳ ከም ሓው ንኣነ ተዘዋዋርኩ፣ ከም ቀባር ኣደ ተቓሕስኩ ተኣንኩ።",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "ከም ወዳ"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "ከም ሓው"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "ተዘዋዋርኩ"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "ከም ቀባር"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ኣደ"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ተቓሕስኩ"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "ተኣንኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:03.808764510Z",
+  "model": "glm-5.3"
+}

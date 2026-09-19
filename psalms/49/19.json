@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "ምኽንያቱ ነፍሱ ኣብ ሕይወቱ ይባርኾ፣ ሰባት ድማ ይደግፉኻ፣ ንርእስኻ ምትሓው እንተ ኣብኣይካ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱ"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "ኣብ ሕይወቱ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ይባርኽ"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "ሰባት ይደግፉኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "ምትሓው"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:39.361240560Z",
+  "model": "glm-5.3"
+}

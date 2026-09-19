@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ኣብ ስምዓ እንታይ ውርኻት ኣሎ፣ ምስ ዝወርድ ናብ ቕበር እንታይ ንጹር ኣሎ? እቲ ክብር ክመስግነካ ይኽእል ድዩ? እቲ ሓቂኻ ክነግር ይኽእል ድዩ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ውርኻት"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "ኣብ ስምዓ"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "ምስ ዝወርድ እየ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ቕበር"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "ክመስግነካ ድዩ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ክብር"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "ክነግር ድዩ"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ሓቂኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:23.235435854Z",
+  "model": "glm-5.3"
+}

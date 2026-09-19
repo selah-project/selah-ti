@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "መዝሙር ናይ ዳዊድ። ያህዌህ፣ መን ኣብ ድኳንካ ይሓልው፧ መን ኣብ ከርተ ቅድስናኻ ይነብር፧",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ይሓልው"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "ኣብ ድኳንካ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ይነብር"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ኣብ ከርተ"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ቅድስናኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:23.010133497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "habakkuk 3:3",
+  "book": "habakkuk",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኤሎሃ ካብ ተማን መጸ፣ ቅዱስ ድማ ካብ ታላይ ፓራን። ሰላህ። ክብሪኡ ሰማያት ሸፈነ፣ ምስጋኣኡ ድማ እታ ምድሪ ምልኣ።",
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "ኤሎሃ"
+    },
+    {
+      "surface": "מתימן",
+      "gloss": "ካብ ተማን"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "ቅዱስ ድማ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ካብ ታላይ"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "ፓራን"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ሸፈነ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ክብሪኡ"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "ምስጋኣኡ ድማ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ምልኣ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እታ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:29:30.162470124Z",
+  "model": "glm-5.3"
+}

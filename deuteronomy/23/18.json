@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ካብ ወንዲስት እስራኤል ⟨ቅዱሳዊት ዓመንቲ⟩ ኣይንተሓሕሽን፣ ካብ ደቃ እስራኤል ድማ ⟨ቅዱስ ዓመን⟩ ኣይከውንን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ኣይንተሓሕሽን"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "ቅዱሳዊት ዓመንቲ"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ካብ ወንዲስት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ድማ ኣይ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ኣይከውንን"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ ዓመን"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ካብ ደቃ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T23:05:23.834102296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 6:2",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ነቲ ቤት ድማ እቲ ንጉስ ሽሎሞ ንያህዌህ ዝሃነዞ፣ እታ ንጽንኢ ስልሳ ኩቢት እያ፣ እታ ስፉሕና ድማ ዕስራ ኩቢት፣ እታ ልዑልና ድማ ሰላሳ ኩቢት እያ።",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "ነቲ ቤት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ዝሃነዞ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ስልሳ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ኩቢት"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "እታ ንጽንኢ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ወይ ዕስራ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "እታ ስፉሕና"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ወይ ሰላሳ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ኩቢት"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "እታ ልዑልና"
+    }
+  ],
+  "timestamp": "2026-09-19T00:49:57.239557621Z",
+  "model": "glm-5.3"
+}

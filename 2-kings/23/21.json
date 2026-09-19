@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 23:21",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "እቲ ንጉስ ኸኣ ⟨את⟩ ኹሉ ህዝቢ እናበለ ኣዘዘ፦ «ከምቲ ኣብ መጽሓፍ ኪዳን እዚ ዝተጻሕፈ፣ ንያህዌህ ኤሎሂምኩም ⟨את⟩ ፋሲካ ግበሩ።»",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ኣዘዘ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ ህዝቢ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ግበሩ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ፋሲካ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "ከምቲ ዝተጻሕፈ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "መጽሓፍ"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:37:13.760104393Z",
+  "model": "glm-5.3"
+}

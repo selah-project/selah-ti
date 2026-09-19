@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ብብዛዕባ ርእሱ ኪቐመጥን ኪስምዕን እዩ፣ ምኽንያቱ על ኣቕሚዱ ኣሎ ኣብ ልዕሊኡ።",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "ኪቐመጥ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "ብብዛዕባ ርእሱ"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "ኪስምዕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "ኣቕሚዱ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:35:28.218568218Z",
+  "model": "glm-5.3"
+}

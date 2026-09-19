@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 2:10",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ማእዘን ናይ መሕበር ርኡቤን ኣብ ደቡብ ብሰራዊቶም ክኸውን፤ ናይ ውላድ ርኡቤን ሓለቓ ኤልዪጹር ወዲ ሽደይኣር እዩ።",
+  "tokens": [
+    {
+      "surface": "דגל",
+      "gloss": "ማእዘን"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ናይ መሕበር"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ርኡቤን"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ኣብ ደቡብ"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "ብሰራዊቶም"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ሓለቓ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ናይ ውላድ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ርኡቤን"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "ኤልዪጹር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "ሽደይኣር"
+    }
+  ],
+  "timestamp": "2026-09-18T22:12:22.027722853Z",
+  "model": "glm-5.3"
+}

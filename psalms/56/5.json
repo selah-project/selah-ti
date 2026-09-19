@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 56,
+  "translation": "ብኤሎሂም ቃሉ እኣመስግን፣ ብኤሎሂም ኣተኣማንኩ፤ ሥጋ እንታይ ክገብረኒ ኣይፈርሕን።",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "ብኤሎሂም"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "እኣመስግን"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ቃሉ"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ብኤሎሂም"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ኣተኣማንኩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይን"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ኣይፈርሕን"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ክገብረኒ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:18.410592347Z",
+  "model": "glm-5.3"
+}

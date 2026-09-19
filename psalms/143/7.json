@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 143,
+  "translation": "ብቕጽልካ ተዛረበኒ ያህዌህ፤ መንፈሰይ ተዛዊሩ ⟨እዩ⟩፤ ገጽካ ካባይ ኣይተሓብየኒ፤ ከም እቶም ናብ ጉልቢት ዝወርዱ ምስ እከውን እየ።",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "ብቕጽልካ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ተዛረበኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "ተዛዊሩ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "መንፈሰይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ኣይተሓብየኒ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽካ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ካባይ"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "ምስ እከውን እየ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "ዝወርዱ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ጉልቢት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:56.805896671Z",
+  "model": "glm-5.3"
+}

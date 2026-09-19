@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ምስክሪ ስሉሕ ኣይምርሕን፤ ኣበሳታት ዝወፍስ ኣይድሕን።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ምስክሪ"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "ስሉሕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ይምርሕ"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "ወፍስ"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ኣበሳታት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ይድሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:53:00.500617523Z",
+  "model": "glm-5.3"
+}

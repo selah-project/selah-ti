@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ኣትኻ ድማ ንውላድ የስራኤል ⟨את⟩ ትእዝዝ፤ ንመብራሕ ኩሉ ግዜ ማስኑር ንምዕቃብ ዝተሸመቐ ንጹህ ዘት ዓደይ ናብኻ ይወስዱ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ኣትኻ"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "ትእዝዝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ የስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "የስራኤል"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ይወስዱ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኻ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘት"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ዓደይ"
+    },
+    {
+      "surface": "זך",
+      "gloss": "ንጹህ"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "ዝተሸመቐ"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ንመብራሕ"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "ንምዕቃብ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ማስኑር"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ኩሉ ግዜ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:26:29.778144326Z",
+  "model": "glm-5.3"
+}

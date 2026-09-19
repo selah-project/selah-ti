@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "«ኣኽማኖት ብዙሕ ተሓቐውኒ፤ ካብ ቶራኻ ግን ኣይተዘንገዕን።»",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "ኣኽማኖት"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "ተሓቐውኒ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "ካብ ቶራኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "ተዘንጊዐ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:20.055674394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ኢድካ ኩሎም ተቓወምቲኻ ትረኺብ፣ የማንካ ዝጸልዑኻ ትረኺብ።",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "ትረኺብ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድካ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ተቓወምቲኻ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "የማንካ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ትረኺብ"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "ዝጸልዑኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:41.588565814Z",
+  "model": "glm-5.3"
+}

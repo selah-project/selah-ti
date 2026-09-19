@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 19:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኣእማነታኣ ኮይና ተረጒጣ፤ ኩሉ ተገብሪ ደመወዝ ነፍሲ ዘጭንቐት ኮይና።",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ኮይና"
+    },
+    {
+      "surface": "שתתיה",
+      "gloss": "ኣእማነታኣ"
+    },
+    {
+      "surface": "מדכאים",
+      "gloss": "ተረጒጣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ተገብሪ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ደመወዝ"
+    },
+    {
+      "surface": "אגמי",
+      "gloss": "ዘጭንቐት"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:53:03.177981999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 1:10",
+  "book": "habakkuk",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "«ንሱ ድማ ኣብ ንጉሳት ይሰቓይ እዩ፤ ሸማኒት ተሳቐ ንኡ እዮም፤ ንሱ ንኩሉ መከላከሊ ይሰቓቕ እዩ፤ ጭቂ ድማ እናወሰኸ ይሕዝኣዶ እዩ።»",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ ድማ"
+    },
+    {
+      "surface": "במלכים",
+      "gloss": "ኣብ ንጉሳት"
+    },
+    {
+      "surface": "יתקלס",
+      "gloss": "ይሰቓይ"
+    },
+    {
+      "surface": "ורזנים",
+      "gloss": "ከምኡውን ሸማኒት"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "ተሳቐ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "መከላከሊ"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ይሰቓቕ"
+    },
+    {
+      "surface": "ויצבר",
+      "gloss": "እናወሰኸ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ጭቂ"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "ይሕዝኣዶ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:00:17.201636220Z",
+  "model": "glm-5.3"
+}

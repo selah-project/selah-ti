@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 83,
+  "translation": "ኣብ ዓይን-ዶኣር ተሰዓሩ፤ ንምድሪ ድብል ኮይኖም።",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "ተሰዓሩ"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ኣብ ዓይን"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "ዶኣር"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ኮይኖም"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "ድብል"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "ንምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:57.500774428Z",
+  "model": "glm-5.3"
+}

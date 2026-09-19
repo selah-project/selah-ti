@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 22:11",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ማልኣኽ ያህዌህ ድማ ካብ ሰማያት ኣጸይሙ «ኣቭራሃም፣ ኣቭራሃም!» በሎ። ንሱ ድማ «እንሆ ኣለኹ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ኣጸይሙ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንኣቭራሃም"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ማልኣኽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እንሆ ኣለኹ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:25:27.448260374Z",
+  "model": "glm-5.3"
+}

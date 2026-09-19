@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ሃማን ኸኣ ሞርዶካይ ንእኡ ኣይተንበረን፣ ኣይሰገደሉን እናበለ ምስ ረኣየ፣ ሃማን ብቁስቲ ተመልአ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ምስ ረኣየ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሃማን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም ዝበለ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ሞርዶካይ"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "ኣይተንበረን"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "ኣይሰገደሉን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእኡ"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ተመልአ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሃማን"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ቁስቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:48:52.504631050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 46:3",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 46,
+  "translation": "ሕዝቢ ⟨ቲ⟩ ምድሪ ኣብ ወርደ ⟨ቲ⟩ ኣፍደገ ኣብ ሻባታትን ኣብ ወርሒታትን ብዛዕባ ያህዌህ እናሰገዱ እዮም።",
+  "tokens": [
+    {
+      "surface": "והשתחוו",
+      "gloss": "እናሰገዱ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣብ ወርደ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ኣፍደገ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "בשבתות",
+      "gloss": "ኣብ ሻባታት"
+    },
+    {
+      "surface": "ובחדשים",
+      "gloss": "ኣብ ወርሒታት"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ብዛዕባ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:03:46.637113450Z",
+  "model": "glm-5.3"
+}

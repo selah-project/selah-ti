@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ንኤሎሂም ኣምስግና ኣቕርብ፣ ንኤል ዔልዮን ድማ ቓላት ኪዳንካ ኣፍጽም።",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "ኣቕርብ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ንኤሎሂም"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ኣምስግና"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "ኣፍጽም"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "ንኤል ዔልዮን"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "ቓላት ኪዳንካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:00:30.123918994Z",
+  "model": "glm-5.3"
+}

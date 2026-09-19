@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "በጃ ከምኡውን ቅኑዕ እዩ ያህዌህ፤ ስለዚ ኣብ ⟨መገዲ⟩ ሓጢያተኛታት የምህር።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "በጃ"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ከምኡውን ቅኑዕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚ"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "የምህር"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ሓጢያተኛታት"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መገዲ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:54.827854568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣሰሪብ እዩን ዝኽህድን፤ ካብኡ ፍርዱን ኣክብርቱን ይውጹእ እዩ።",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "ኣሰሪብ"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ድማ ዝኽህድን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "ፍርዱ"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "ኣክብርቱን"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ይውጹእ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:00:40.194736857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ንስንትኹም ድማ ⟨את⟩ እዚ ቃል እዚ ከም ሕጊ ንዓኹምን ንወዳኹምን ክሳብ ዘለኣለም ተዓቂቡ።",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ተዓቂቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃል"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "ከም ሕጊ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንዓኹም"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "ንወዳኹምን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:19:59.157173593Z",
+  "model": "glm-5.3"
+}

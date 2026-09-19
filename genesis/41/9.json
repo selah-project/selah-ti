@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ሻር መስቲ ድማ ንፓርዖ ተዛረበ ኢሉ፦ «እተፈላለዩ ጥፍኣተይ ሎሚ እነ እየ የዘንብ።»",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ ድማ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ሻር"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "መስቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ን",
+      "marks": "ፓርዖ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጥፍኣተይ"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "ጥፍኣተይ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እነ"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "የዘንብ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:01:51.745748607Z",
+  "model": "glm-5.3"
+}

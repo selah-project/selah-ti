@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ንሳቶም ተቐጢሎም ወደቑ፣ ንሕና ድማ ቐሊጠና ተቐመጥና።",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "ተቐጢሎም"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ወደቑ"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "ቐሊጠና"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "ተቐመጥና"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:24.689537651Z",
+  "model": "glm-5.3"
+}

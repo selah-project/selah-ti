@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ሓደ ትልሒ ትኸይጥ፣ ካልኣይ ትልሒ ትመጽእ፣ ምድሪ ግን ናብ ዘለኣለም ትቕፅል።",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ሓደ ትልሒ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ትኸይጥ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ካልኣይ ትልሒ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ትመጽእ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ምድሪ ግን"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ትቕፅል"
+    }
+  ],
+  "timestamp": "2026-09-19T06:39:15.582223532Z",
+  "model": "glm-5.3"
+}

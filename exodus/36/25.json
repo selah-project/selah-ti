@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ንካልኣይቲ ጽንፈ ናይቲ ማሕደር ነቲ ንጽንፈ ሰሜን ዝጽንዕ ድማ ዕሰርተ ጽራሒታት ገበረ።",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "ንካልኣይቲ ጽንፈ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ናይቲ ማሕደር"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ካልኣይቲ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ንጽንፈ ዝጽንዕ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ሰሜን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዕሰርተ"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "ጽራሒታት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:41:38.370126184Z",
+  "model": "glm-5.3"
+}

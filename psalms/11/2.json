@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ምኽንያቱ ኣሮ፡ እቶም ሓራማት ቐስቲ እናተዳለው፡ ኣብ ገመድ እቲ ቐስቲ ስንጭሮም ኣዳለው፡ ኣብ ጸልማት ነቶም ተኣማንቲ ልቢ ንኺውርዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ኣሮ"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "እቶም ሓራማት"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "እናተዳለው"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ቐስቲ"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "ኣዳለው"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "ስንጭሮም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ገመድ እቲ ቐስቲ"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "ንኺውርዩ"
+    },
+    {
+      "surface": "במו",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "ጸልማት"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "ነቶም ተኣማንቲ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:58.859666558Z",
+  "model": "glm-5.3"
+}

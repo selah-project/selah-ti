@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ነቶም የሁዲታት ብርሃን፣ ሓሴትን ሓጐስን ክብሪን ድማ ነይራ።",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "ነቶም የሁዲታት"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነይራ"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "ሓሴትን"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "ሓጐስን"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "ክብሪን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:50:14.110345329Z",
+  "model": "glm-5.3"
+}

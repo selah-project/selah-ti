@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "ዮስፍ ነቶም ኀብቱ በሎሎም፦ «ናባይ ቅረቡ በጃኹም።» ኮይኖም ቅረቡ፤ ንሱ ድማ ከምዚ በለ፦ «ኣነ ዮስፍ ኀብኩም እየ፣ ነቲ ⟨את⟩ ናብ ሚጽራይም ዝሸጥኩምዎ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮስፍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ኀብቱ"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "ቅረቡ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "በጃኹም"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ናባይ"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "ቀረቡ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮስፍ"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ኀብኩም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "ሸጥኩም"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ናብ ሚጽራይም ዝሸጥኩምዎ"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ናብ ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:08:23.933072512Z",
+  "model": "glm-5.3"
+}

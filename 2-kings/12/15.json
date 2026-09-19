@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ምኽንያቱ ንእቶም ተጋደልቲ ናይቲ ስራሕ ይህብዎ ነይሩ፣ ብኡ ድማ ⟨את⟩ ቤት ያህዌህ ኣሓወኑ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "ንተጋደልቲ"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ናይቲ ስራሕ"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "ይህብዎ"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "ኣሓወኑን"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ብኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት ያህዌህ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:26:21.129908231Z",
+  "model": "glm-5.3"
+}

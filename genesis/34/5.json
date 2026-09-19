@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ያዕቆቭ ድማ ንሱ ⟨את⟩ ዲና ዓዲኡ ከም ዝኣሕጸባ ሰምዐ፤ ውላደኡ ድማ ⟨את⟩ መንጎኡ ኣብ ወደቃ ነይሮም፤ ያዕቆቭ ድማ ክሳብ ምርኣዮም ዝም በለ።",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "ያዕቆቭ ድማ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ከም ዝኣሕጸባ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዲና"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "ዲና"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ዓዲኡ"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ውላደኡ ድማ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነይሮም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንጎኡ"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "መንጎኡ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ኣብ ወደቃ"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "ዝም በለ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ ድማ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "באם",
+      "gloss": "ምርኣዮም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:58:01.263088098Z",
+  "model": "glm-5.3"
+}

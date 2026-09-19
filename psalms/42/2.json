@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ከምቲ ኣጋዝል በቲ ወንዚ ማይ እናሓፈሰ ደረቁ፣ ከምኡ ነፍሰይ ናብኻ ትሓፍስ ኤሎሂም።",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "ከምቲ ኣጋዝል"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "እናሓፈሰ ደረቑ"
+    },
+    {
+      "surface": "על",
+      "gloss": "በቲ"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "ወንዚ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ትሓፍስ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኻ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:47.176054898Z",
+  "model": "glm-5.3"
+}

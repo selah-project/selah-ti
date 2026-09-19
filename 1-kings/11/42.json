@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 11:42",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "እቶም መዓልታት ሽሎሞ ኣብ የሩሻላይም ንኹሉ እስራኤል ኮይኑ ዝነገሰሉ ኣርባዕተ ዓመት እየን።",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "እቶም መዓልታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝነገሰሉ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ዝነገሰሉ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ኣብ የሩሻላይም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:58:23.263374789Z",
+  "model": "glm-5.3"
+}

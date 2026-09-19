@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 8:8",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ሞሸን ኣሃሮንን ካብ ፓርዖ ወጹ፤ ሞሸ ድማ ብዛዕባ እቶም ኣብ ፓርዖ ዝገበሮም ጥንጭራት ናብ ያህዌህ ጸወዐ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጹ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ኣሃሮንን"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ካብ ፓርዖ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "ጸወዐ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብዛዕባ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ጉዳይ"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ጥንጭራት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ዝገበሮም"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ንፓርዖ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:16:57.352810496Z",
+  "model": "glm-5.3"
+}

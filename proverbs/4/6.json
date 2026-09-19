@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣይተውጽኣን፣ ነማ ትሓልወካ ድማ፤ ኣፍቐራ፣ ነማ ትሕልወካ ድማ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "ትውጽኣ"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "ትሓልወካ"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ኣፍቐራ"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "ትሕልወካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:41:42.146663343Z",
+  "model": "glm-5.3"
+}

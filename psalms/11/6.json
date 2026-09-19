@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኣብ ልዕሊ ክፉኣት መርመራትን እሳትን ጥዑራትን ዘይትረፍዓ ንፋስን ከም ኣካፋይ ኩሳቶም ይኣውዕል።",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "ይኣውዕል"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉኣት"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "መርመራት"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "ጥዑራት"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ንፋስ"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "ዘይትረፍዓ"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ኣካፋይ"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "ኩሳቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:20.629072699Z",
+  "model": "glm-5.3"
+}

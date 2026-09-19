@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ነቲ ⟨אתו⟩ ዘይተቲ ምቕባን-ቅዱስ፣ ሽትሕቲ ዝተሓወሰት፣ ስራሕ ሽትሓቢ ክኸውን ትገብርዎ፤ ዘይተቲ ምቕባን-ቅዱስ ክኸውን እዩ።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ዘይተቲ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይተቲ"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ምቕባን"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ሽትሕቲ"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "ዝተሓወሰት"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ስራሕ"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ሽትሓቢ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይተቲ"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ምቕባን"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክኸውን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:36:41.433475605Z",
+  "model": "glm-5.3"
+}

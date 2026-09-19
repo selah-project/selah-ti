@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 118,
+  "translation": "ኣብ ያህዌህ ንምጽናን ካብ ኣብ ኣውራ ምትእኽኻል ብዝለጸ እዩ።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ብዝለጸ"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "ንምጽናን"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ኣብ ያህዌህ"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ምትእኽኻል"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "ኣብ ኣውራታት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:11.105292003Z",
+  "model": "glm-5.3"
+}

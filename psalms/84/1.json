@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 84,
+  "translation": "ንብዓል ተማሕዚል ዜማ ኣብ ሓጊታይት፣ ንውላድ ቆራሕ መዝሙር።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንብዓል ተማሕዚል"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "ሓጊታይት"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ቆራሕ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:18.670962292Z",
+  "model": "glm-5.3"
+}

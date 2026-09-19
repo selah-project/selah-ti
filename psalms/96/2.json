@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 96,
+  "translation": "ንያህዌህ ዝሙሩ፣ ስሙ ባርኽዎ፣ ካብ መዓልቲ ናብ መዓልቲ ድሕንነቱ ኣውጽኡ።",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ዝሙሩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ባርኽዎ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ኣውጽኡ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ካብ መዓልቲ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ናብ መዓልቲ"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "ድሕንነቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:40.887857499Z",
+  "model": "glm-5.3"
+}

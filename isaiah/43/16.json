@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "ከምዚ በለ ያህዌህ፣ ኣብ ባሕሪ መገዲ ዝህብ፣ ኣብ ሓያላት ማይታት ከኣ መስመር ዝገብር።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "ዝህብ"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ኣብ ባሕሪ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መገዲ"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ኣብ ማይታት ከኣ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ሓያላት"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "መስመር"
+    }
+  ],
+  "timestamp": "2026-09-19T02:09:57.742666685Z",
+  "model": "glm-5.3"
+}

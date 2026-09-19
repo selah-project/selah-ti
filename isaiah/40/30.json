@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ወጻዊያት ይሓጽሩን ይነክሱን፣ መዓልቲ ድማ ብምትንክልኩም ይኽስሉ።",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "ይሓጽሩን"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ወጻዊያት"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "ይነክሱን"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "ብምትንክልኩም"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ይኽስሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:09:35.827754747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ውልባት ወርቂ ሰላሳ፣ ውልባት ብጸረ ካልኣይ ዓይነት ኣርባዕተ ሚእቲ ወይ ዓሰርተ፣ ካልኦት ቱሕቱሓት ሽሕ።",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "ውልባት"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሰላሳ"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "ውልባት"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብጸረ"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "ካልኣይ ዓይነት"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚእቲ"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "ወይ ዓሰርተ"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "ቱሕቱሓት"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ካልኦት"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሽሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:04:10.239330773Z",
+  "model": "glm-5.3"
+}

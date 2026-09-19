@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ሞሸ ድማ ⟨את⟩ ኣሃሮንን ⟨ואת⟩ ውላዱቱን ቐረበ፣ ⟨את⟩ ነፍሲ ወከፎም እውን ብማይ ሓጸበ።",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ቐረበ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሃሮን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ውላዱቱ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱቱ"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "ሓጸበ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ነፍሲ ወከፎም"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ብማይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:53:36.738664482Z",
+  "model": "glm-5.3"
+}

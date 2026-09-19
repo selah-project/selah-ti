@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 13:16",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ደቂ እስራኤል ድማ ካብ ቅድሚ ይሁዳ ኮቱ፤ ኤሎሂም ድማ ንኣኾም ኣብ ኢዶም ሃቖም።",
+  "tokens": [
+    {
+      "surface": "וינוסו",
+      "gloss": "ኮቱ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ደቂ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ካብ ቅድሚ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ሃቖም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ኣብ ኢዶም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:04:48.178721580Z",
+  "model": "glm-5.3"
+}

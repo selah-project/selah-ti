@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 81,
+  "translation": "ካብ ጭንቃሮ ክንዱ ኣወጽኩ፤ ኢዳቱ ካብ ጋሮ ደለየ።",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "ኣወጽኩ"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "ካብ ጭንቃሮ"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ክንዱ"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ኢዳቱ"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "ካብ ጋሮ"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "ደለየ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:26.109843216Z",
+  "model": "glm-5.3"
+}

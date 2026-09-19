@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "በልዓም ⟨את⟩ ኣዒንቱ ኣቕኒፉ ⟨את⟩ እስራኤል ብኩላዊታቱ እናተቐመጠ ረኣየ፣ መንፈስ ኤሎሂም ድማ ኣብ ልዕሊኡ መጸአት።",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ኣዒንቱ ኣቕኒፉ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "በልዓም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣዒንቱ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ኣዒንቱ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "እናተቐመጠ"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "ብኩላዊታቱ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "መጸአት"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊኡ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:33:56.724935793Z",
+  "model": "glm-5.3"
+}

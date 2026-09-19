@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ናብ ውላዱ በለን፦ «ኣበይ እዩ? ስለመይ ከምዚ ነቲ ሰብ ተሪፍኩምዎ? ዕደድዎ፣ ቂምጢ ክብላስ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "ኣበይ እዩ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ስለመይ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "ተሪፍኩምዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ሰብ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "ዕደድዎ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ክብላስ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ቂምጢ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:28:19.262551643Z",
+  "model": "glm-5.3"
+}

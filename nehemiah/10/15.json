@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ርእሲ እቲ ህዝቢ ድማ ዝኾኑ፦ ፓርዕሽ፣ ፓኽት ሞዓብ፣ ዒላም፣ ዛቱኣ፣ ባኒ።",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ፓርዕሽ"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "ፓኽት"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ዒላም"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ዛቱኣ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ባኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:22:56.075971468Z",
+  "model": "glm-5.3"
+}

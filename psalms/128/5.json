@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 128,
+  "translation": "ያህዌህ ካብ ጽዮን ይባርኽካ፤ ኩሉ መዓልታት ህይወትካ ብጽቡን የሩሻላይም ረኣይ።",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "ይባርኽካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ካብ ጽዮን"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ረኣይ"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ብጽቡን"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ህይወትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:27.227738958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ንእሽተኦም ድማ ናብ መቕጾ ሰለስተ መዓልታት ኣከቦም።",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ኣከቦም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ንእሽተኦም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "መቕጾ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:03:03.978312586Z",
+  "model": "glm-5.3"
+}

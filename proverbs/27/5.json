@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ምግርሒ እትረኣየ ካብ ፍቕሪ እትተሓበነ ዕላል እያ።",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ዕላል"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ምግርሒ"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "እትረኣየ"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "ፍቕሪ"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "እትተሓበነ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:58:46.686804571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ንጉስ ማቀዳ ሓደ፤ ንጉስ ቤት ኤል ሓደ፤",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "ማቀዳ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:23:46.067127036Z",
+  "model": "glm-5.3"
+}

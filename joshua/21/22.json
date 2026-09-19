@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "⟨את⟩ ቅብጽይምን ⟨את⟩ ዶባኣን ⟨את⟩ ቤት ሖሮንን ⟨את⟩ ዶባኣን — ኣርባዕተ ከተማታት።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቅብጽይም"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "ቅብጽይም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዶባኣ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ዶባኣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት ሖሮን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "ሖሮን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዶባኣ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ዶባኣ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ከተማታት"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ኣርባዕተ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:38:09.687894533Z",
+  "model": "glm-5.3"
+}

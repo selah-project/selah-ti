@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "«እዚ እኩርኪ እዩ፣ ናይ መስፍኢኪ ኣሃታ ⟨את⟩ ካብተይ — በዓል ያህዌህ — ስለ ዘንጸልምካኒ ⟨את⟩ ኣነን ኣብ ሲስኦ ድማ ተኣማንካ።»",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "እኩርኪ"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ኣሃታ"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "ናይ መስፍኢኪ"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ ካብተይ",
+      "marks": "ናይ መስፍኢኪ ኣሃታ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "በዓል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ስለ ዝ-"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "ዘንጸልምካኒ"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ኣነ"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "ተኣማንካ"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "ኣብ ሲስኦ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:39:53.204552716Z",
+  "model": "glm-5.3"
+}

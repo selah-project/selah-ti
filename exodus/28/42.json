@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 28:42",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ንሳቶም ኩርዕ በርን ክትገብረሎም፣ ቆላላ ስጉምቲ ክሸፍኑ፣ ካብ ማዕጸን ክሳብ ክንፍላይ ክኹኑ።",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ክትገብረሎም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "ኩርዕ"
+    },
+    {
+      "surface": "בד",
+      "gloss": "በርን"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "ክሸፍን"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ቆላላ"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "ስጉምቲ"
+    },
+    {
+      "surface": "ממתנים",
+      "gloss": "ካብ ማዕጸን"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "ירכים",
+      "gloss": "ክንፍላይ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ክኹኑ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:34:19.315014214Z",
+  "model": "glm-5.3"
+}

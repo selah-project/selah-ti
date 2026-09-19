@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 4:16",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ድማ ⟨את⟩ እቲ ሓመምታት፣ ⟨את⟩ እቲ መርፍዪታት፣ ⟨את⟩ እቲ ማእሰርታት፣ ⟨את⟩ ኩሉ ነቲ ኣቕሓቱን ኹራም ኣቡኡ ንነጋሽ ሽሎሞ ንቤት ያህዌህ ካብ ዝተፀርነቐ ነሓስ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሓመምታት"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "እቲ ሓመምታት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መርፍዪታት"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "እቲ መርፍዪታት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ማእሰርታት"
+    },
+    {
+      "surface": "המזלגות",
+      "gloss": "እቲ ማእሰርታት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "ነቲ ኣቕሓቱን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "ኹራም"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ንነጋሽ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ንቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ነሓስ"
+    },
+    {
+      "surface": "מרוק",
+      "gloss": "ዝተፀርነቐ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:55:35.615668333Z",
+  "model": "glm-5.3"
+}

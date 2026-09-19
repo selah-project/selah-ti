@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 31:34",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ራሕል ድማ ⟨את⟩ ተራፊማት ሒዛ ኣብ ሰገራ እቲ ጀምል ኣቕሚቓ ተቐምጠት፤ ላባን ⟨את⟩ ኩሉ እቲ ዓዲ ምስ ወጸዎ ግን ኣይረኽቦን።",
+  "tokens": [
+    {
+      "surface": "ורחל",
+      "gloss": "ራሕል ድማ"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "ሒዛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተራፊማት"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "ተራፊማት"
+    },
+    {
+      "surface": "ותשמם",
+      "gloss": "ኣቕሚቓ"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "ኣብ ሰገራ"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "እቲ ጀምል"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ተቐምጠት"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "וימשש",
+      "gloss": "ምስ ወጸዎ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ላባን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እቲ ዓዲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "እቲ ዓዲ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ግን ኣይ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ረኽቦን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:54:13.581804331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 86,
+  "translation": "ኣብ መዓልቲ ጸገሜቼ ክጸውዐካ እየ፣ ምኽንያቱ ኣብ ትመልሰኒ እንተኻ።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "ጸገሜቼ"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "ክጸውዐካ እየ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ትመልሰኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:42.830079678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 55,
+  "translation": "ኣእምይኒ ኤሎሂም ንቕዳሴይ፣ ካብ እቲ ልምና ድማ ኣይትሓበን።",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "ኣእምይኒ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ንቕዳሴይ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "ኣይትሓበን"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "ካብ እቲ ልምና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:00.070413667Z",
+  "model": "glm-5.3"
+}

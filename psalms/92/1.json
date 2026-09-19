@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 92,
+  "translation": "መዝሙር፣ ዝማሬ፣ ንመዓልቲ ሻባት።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ዝማሬ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ንመዓልቲ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ሻባት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:54.897069358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ሰለስተ ግዜ ኣብ ዓመት ኩሉ ተባዕታይካ ንገጽ ⟨את⟩ ኣዶናይ ׋ህዌህ ኤሎሂም እስራኤል ይረኣየ።",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ግዜ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ኣብ ዓመት"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ይረኣየ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "ተባዕታይካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንገጽ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ንገጽ"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T21:38:39.250143863Z",
+  "model": "glm-5.3"
+}

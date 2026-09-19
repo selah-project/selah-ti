@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ሰብ ⟨את⟩ ስምያ ኣቡኡ ኣይወስድን፣ ከምኡውን ክንቢ ኣቡኡ ኣይገልጽን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይን"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ወስድ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስምያ ኣቡኡ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ስምያ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይን"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "ይገልጽ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ክንቢ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:05:39.535408938Z",
+  "model": "glm-5.3"
+}

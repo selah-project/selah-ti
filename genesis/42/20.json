@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ነቲ ንእሽቲ ወዲኹም ድማ ⟨את⟩ ናባይ ኣእቱ፤ ቃላትኹም ድማ ይእመን፣ ንስኩም ድማ ኣይትሞትን። ንሳቶም ድማ ከምኡ ገበሩ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ንእሽቲ ወዲኹም"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ወዲኹም"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ንእሽቲ"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "ኣእቱ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ናባይ"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "ይእመን"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "ቃላትኹም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "ትሞትን"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:03:03.978866403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "ስለዚ ያህዌህ ከምዚ በለ፦ እንሆ ናይቲ ጠንካራ ምስራቕ ይወሰድ እዩ፣ ናይቲ ጨካኪ ምልኪኹ ድማ ይድሕን እዩ፤ ምስ ⟨את⟩ ዘይተቓለልኪ ድማ ኣነ እተቓለል እየ፣ ⟨את⟩ ውላድኪ ድማ ኣነ እኣድን እየ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "ምስራቕ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ጠንካራ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ይወሰድ"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "ምልኪኹ ድማ"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "ጨካኪ"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ይድሕን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዘይተቓለልኪ"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "ዘይተቓለልኪ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "እተቓለል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድኪ"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ውላድኪ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "እኣድን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:16:40.305628220Z",
+  "model": "glm-5.3"
+}

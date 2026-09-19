@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "«ንኹሉ ስብሓት እስራኤል ዛርዉ እናበልኩም፦ ኣብ ዓሰርተይ ናይ እዚ ወርሒ ዓዲ ሰብ ⟨את⟩ በጊዕ ንዓይ ኣቦታት ይወስዱ፤ ⟨את⟩ በጊዕ ንሓደ ሓድሽቲ።",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "ዛርዉ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ስብሓት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበልኩም"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "ኣብ ዓሰርተይ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ናይ ወርሒ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ይወስዱ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንዓዮም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "በጊዕ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ንዓይ ኣቦታት"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "ኣቦታት"
+    },
+    {
+      "surface": "שה",
+      "gloss": "በጊዕ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ንሓደ ሓድሽቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:18:43.855239721Z",
+  "model": "glm-5.3"
+}

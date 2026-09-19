@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 75,
+  "translation": "ንዝመርሕ ኣይትሓድግ፣ መዝሙር ናይ ኣሳፍ፣ ዝበለ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንዝመርሕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ትሓድግ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ናይ ኣሳፍ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ዝበለ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:20.879564577Z",
+  "model": "glm-5.3"
+}

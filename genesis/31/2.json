@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ያዕቆቭ ድማ ⟨את⟩ ገጽ ላቫን ረኣየ፤ ኣሎ፣ ከም ትማሊን ክሳብ ትሪዮሽን ከም ዝነበረ ምስኡ ኣይኮነን።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገጽ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ላቫን"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስኡ"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "ከም ትማሊ"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ክሳብ ትሪዮሽ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:54:46.222306855Z",
+  "model": "glm-5.3"
+}

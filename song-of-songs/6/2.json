@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 6:2",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እቲ ዓመድይ ናብ እቲ ገነቱ ወረደ፣ ናብ መዓርግቲ እቲ ሽቱ፣ ኣብ እተን ገነታት ንምላሲን ሾሻናትን ንምእቲያ።",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "እቲ ዓመድይ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ወረደ"
+    },
+    {
+      "surface": "לגנו",
+      "gloss": "ናብ እቲ ገነቱ"
+    },
+    {
+      "surface": "לערוגות",
+      "gloss": "ናብ መዓርግቲ"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "እቲ ሽቱ"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "ንምላሲ"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "ኣብ እተን ገነታት"
+    },
+    {
+      "surface": "וללקט",
+      "gloss": "ንምእቲያን"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "ሾሻናት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:28:15.514354Z",
+  "model": "glm-5.3"
+}

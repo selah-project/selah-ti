@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኣብ ቤት ምዝዋርይ ትእዛዛትካ ብዛርያት ኮኑ ንገርነይ።",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "ብዛርያት"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ኮኑ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንገርነይ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ትእዛዛትካ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "ምዝዋርይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:24.803624406Z",
+  "model": "glm-5.3"
+}

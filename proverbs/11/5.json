@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ጽድቂ ናይ ሙሉእ መገዱ ትቐናሕ፣ ብክፉእኡ ድማ እቲ ክፉእ ይወድቕ።",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ናይ ሙሉእ"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "ትቐናሕ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "መገዱ"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "ብክፉእኡ ድማ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ይወድቕ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "እቲ ክፉእ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:46:19.135245263Z",
+  "model": "glm-5.3"
+}

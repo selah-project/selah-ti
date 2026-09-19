@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ነቲ ንጉስ ድማ ⟨את⟩ ገጹ ሸፈነ፣ ነቲ ንጉስ ድማ ብድምጺ ዓቢ ቐለዐ፦ «ወደይ ኣብሽሎም፣ ኣብሽሎም ወደይ፣ ወደይ፣ ወደይ።»",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ነቲ ንጉስ"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "ሸፈነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገጹ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ገጹ"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "ቐለዐ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ነቲ ንጉስ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ብድምጺ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወደይ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ኣብሽሎም"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ኣብሽሎም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወደይ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወደይ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:41:30.959989579Z",
+  "model": "glm-5.3"
+}

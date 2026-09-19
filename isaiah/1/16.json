@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ሕጸቡ፣ ንጹሃት ኩኑ፤ ኣርቕቱ እቲ ክፉእ ኩነታትኩም ካብ ቅድሚ ዓይኒ፤ ኣቁሙ ክፉእ ምግባር።",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "ሕጸቡ"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "ንጹሃት ኩኑ"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "ኣርቕቱ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "ኩነታትኩም"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ካብ ቅድሚ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኒ"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "ኣቁሙ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ክፉእ ምግባር"
+    }
+  ],
+  "timestamp": "2026-09-19T01:39:56.463737561Z",
+  "model": "glm-5.3"
+}

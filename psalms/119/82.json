@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ዓይንተይ ንቃልካ ተወዲዓ፤ እናበልኩ «መዓስ ተጸናናኒ?»።",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "ተወዲዓ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይንተይ"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "ንቃልካ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበልኩ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "መዓስ"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "ተጸናናኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:06.242023501Z",
+  "model": "glm-5.3"
+}

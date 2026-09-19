@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኮይኑ ለይቲ ነይራ፣ ኮይኑ ጸላሊ ነይራ — ሓሙሽተ ቐትሪ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ለይቲ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ጸላሊ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ቐትሪ"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "ሓሙሽተ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:30:09.331660139Z",
+  "model": "glm-5.3"
+}

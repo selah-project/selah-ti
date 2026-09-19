@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ከምኡውን ጋርያት ጸጉር መስተያት ንድኽቢ ኣብ ልዕሊ እቲ ማሕደር ክኸውን ትገብር፤ ዓሰርተሓደ ጋርያት ⟨אתם⟩ ትገብር።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ከምኡውን ትገብር"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ጋርያት"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ጸጉር መስተያት"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "ንድኽቢ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "እቲ ማሕደር"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ዓሰርተሓደ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ጋርያት"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ዓሰርተሓደ ጋርያት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:32:18.249860095Z",
+  "model": "glm-5.3"
+}

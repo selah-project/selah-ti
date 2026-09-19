@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "እቲ ንጉስ በለ፣ ሓደ ሳጹን ገበሩ፣ ኣብ ኣፍርገ ቤት ያህዌህ ኣብ ውጻኢ ኣቐምጡዎ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ሳጹን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "ኣቐምጡዎ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ኣብ ኣፍርገ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "ኣብ ውጻኢ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:10:53.722836935Z",
+  "model": "glm-5.3"
+}

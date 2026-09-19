@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 55,
+  "translation": "ጥፍኣታት ንውሓጠም ይወርዱ ሽኦል ብህይወት፣ ምኽንያቱ ክፉእታት ኣብ መንበሮምን ኣብ መንጎኦምን እዩ።",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "ጥፍኣታት"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ንውሓጠም"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ይወርዱ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሽኦል"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ብህይወት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "ክፉእታት"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "ኣብ መንበሮም"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "ኣብ መንጎኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:02:09.035044145Z",
+  "model": "glm-5.3"
+}

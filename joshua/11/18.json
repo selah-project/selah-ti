@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ብዙሓት መዓልታት የሆሹዋዕ ⟨את⟩ ኩሉ እዚኦም ነገስቲ ውግእ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እዚኦም ነገስቲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ነገስቲ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ውግእ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:26:01.310536046Z",
+  "model": "glm-5.3"
+}

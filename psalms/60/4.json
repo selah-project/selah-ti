@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 60,
+  "translation": "ነቲ ምድሪ ኣንቀጠቕጥና፣ ሰቓዋ፣ ሓንሰቓታ ሓወዮ፣ ምኽንያቱ እትሓብን እያ።",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "ኣንቀጠቕጥና"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "ሰቓዋ"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "ሓወዮ"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "ሓንሰቓታ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "እትሓብን እያ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:30.747901723Z",
+  "model": "glm-5.3"
+}

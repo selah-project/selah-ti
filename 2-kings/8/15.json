@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 8:15",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣብ መዓልቲ መግደፉ ድማ ሕዛኤል ሓጹር ወሲዱ ኣብ ማይ ተሰሪዑ ኣብ ልዕሊ ገጹ ወጊሩ ኮነ፤ ⟨ንሱ⟩ ሞተ፣ ሕዛኤል ድማ ኣብ ቦታኡ ነገሰ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ኣብ መዓልቲ መግደፉ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "המכבר",
+      "gloss": "ሓጹር"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "ተሰሪዑ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ኣብ ማይ"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "ወጊሩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ገጹ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሰ"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "ሕዛኤል"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ኣብ ቦታኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:45:55.839845137Z",
+  "model": "glm-5.3"
+}

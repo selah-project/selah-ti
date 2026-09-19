@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ኣብ ያህዌህ ነፍሰይ ትትሓሉ፤ ውሑሳት ይሰምዑን ደልዩን።",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "ኣብ ያህዌህ"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ትትሓሉ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ይሰምዑ"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ውሑሳት"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ደልዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:44.783267188Z",
+  "model": "glm-5.3"
+}

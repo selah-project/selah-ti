@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ኣስቲርዎም ድማ፣ ነቶም እዚኦም ቃላት ⟨את⟩ ተዛረቦም።",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "ኣስቲርዎም"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረቦም"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ንኣቶም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እዚኦም ቃላት"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:03:57.948725120Z",
+  "model": "glm-5.3"
+}

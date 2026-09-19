@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 97,
+  "translation": "እቶም ሰማያት ጽድቑ ኣወሩ፣ ኩሉ ኣህዛብ ድማ ክብሩ ረኣዩ።",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "ኣወሩ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "እቶም ሰማያት"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ጽድቑ"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ረኣዩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ክብሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:20.563970623Z",
+  "model": "glm-5.3"
+}

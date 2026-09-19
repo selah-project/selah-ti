@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "«ሕጂ ድማ፣ ብሓቂ እዩ፣ ኣነ ወዲ-ዓሚን እየ፣ ግን ውን ካብኣይ ዝቐረበ ወዲ-ዓሚን ኣሎ።»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ ድማ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "ብሓቂ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እምኒ"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ወዲ-ዓሚን"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ግን ውን"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ወዲ-ዓሚን"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ዝቐረበ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ካብኣይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:31:53.678337491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "እቶም ሚጽራይም ኣባዓትና ⟨אתנו⟩ ኣሕደስዎም፣ ዓቕንቶምና፣ ድማ ከባብነታት ክብደታት ኣቕሐብቱና።",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "ኣሕደስዎም"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨אתנו⟩",
+      "marks": "ኣባዓትና"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "እቶም ሚጽራይም"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "ዓቕንቶምና"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ኣቕሐብቱና"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ኣብ ልዕሊና"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ከባብነታት"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ክብደታት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:04:46.306860510Z",
+  "model": "glm-5.3"
+}

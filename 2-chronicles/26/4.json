@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 26:4",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ኣብ ቐርቢ ያህዌህ ቅኑዕ እቲ ዝኾነ ገበረ፣ ኣቦኡ ኣምጻያሃው ከም ዝገበረ ኩሉ ከምኡ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ቅኑዕ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ ቐርቢ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ከም ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበረ"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "ኣምጻያሃው"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:12:00.395671752Z",
+  "model": "glm-5.3"
+}

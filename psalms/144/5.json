@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 144,
+  "translation": "ያህዌህ ሰማይታትካ ኣዘንብድን ውረድ፤ ነቶም እርሻታት ተንኪስን ክሳቕዑ ገበርዎም።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הט",
+      "gloss": "ኣዘንብድ"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ሰማይታትካ"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "ውረድ"
+    },
+    {
+      "surface": "גע",
+      "gloss": "ተንኪስ"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "ነቶም እርሻታት"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "ክሳቕዑ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:47.188044926Z",
+  "model": "glm-5.3"
+}

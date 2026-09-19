@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 4:7",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ቐንዲ ነገር ጥበብ እያ፤ ጥበብ ተዓግት፣ ኣብ ኩሉ ንብሓዊኻ ድማ ርድኣ ተዓግት።",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ቐንዲ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ተዓግት"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "ንብሓዊኻ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ተዓግት"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ርድኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:41:42.146928412Z",
+  "model": "glm-5.3"
+}

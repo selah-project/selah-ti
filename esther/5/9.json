@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 5:9",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ሃማን ኣብ እቲ መዓልቲ ዕሉልን ብቅኑዕ ልቢን ኸደ፤ ሃማን ድማ ምስ ረኣየ ⟨את⟩ ሞርዱካይ ኣብ ኣፍደገ እቲ ንጉስ፣ ኮይኑ ኣይቆምን ካብኡ ኣይተንቐጠቐጠን፣ ሃማን በዳ ተመልአ ንሞርዱካይ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ኸደ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሃማን"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "ዕሉል"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ቅኑዕ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "וכראות",
+      "gloss": "ምስ ረኣየ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሃማን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞርዱካይ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ሞርዱካይ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ኣብ ኣፍደገ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "קם",
+      "gloss": "ቆም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "זע",
+      "gloss": "ተንቐጠቐጠ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ተመልአ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሃማን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ሞርዱካይ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "በዳ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:47:11.830272678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 7:37",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ከምዚ ገበረ ⟨את⟩ ዓሰርተ ⟨ቲ⟩ ማዕጸናት፤ ሓደ ውሽጣዊ ቅርጺ፣ ሓደ መስፈሪ፣ ሓደ ቅርጺ ንኩሎም ነይሩ።",
+  "tokens": [
+    {
+      "surface": "כזאת",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓሰርተ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ቲ ማዕጸናት"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "ውሽጣዊ ቅርጺ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "መስፈሪ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "קצב",
+      "gloss": "ቅርጺ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "לכלהנה",
+      "gloss": "ንኩሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:52:24.800761222Z",
+  "model": "glm-5.3"
+}

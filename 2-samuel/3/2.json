@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ንዳዊድ ውላድ ተወሊዑ ኣብ ከሽሮን፤ ቐዳማይ ወዲኡ ድማ ኣምኖን ነይሩ ናይ ኣኪኖዓም እታ ይጽረኤላይት።",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "ተወሊዑ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ንዳዊድ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "ኣብ ከሽሮን"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "ቐዳማይ ወዲኡ"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "ኣምኖን"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "ናይ ኣኪኖዓም"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "ይጽረኤላይት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:22:01.961611495Z",
+  "model": "glm-5.3"
+}

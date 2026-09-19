@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ነባር ኣተዊት ግብዐን ሰምዑ ⟨את⟩ እቲ ዝገበረ የሆሹዋዕ ንእርኢኾን ንእዓይን።",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "ነባር ኣተዊት"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ግብዐን"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ሰምዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ዝገበረ የሆሹዋዕ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበረ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "ንእርኢኾ"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "ንእዓይ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:21:35.076602926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ንጉስ እስራኤል ናብ እቲ ቦታ ዝበሎ ሰብ ኤሎሂም ሰዓበ፣ ኣስጠንቐቐ ድማ ኣብኡ ተጠንቐቐ — ሓደ ኣይኮነን፣ ክልተ እውን ኣይኮነን።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰዓበ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "እቲ ቦታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ዝበሎ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "ኣስጠንቐቐ"
+    },
+    {
+      "surface": "ונשמר",
+      "gloss": "ተጠንቐቐ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እውን ኣይኮነን"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ክልተ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:18:24.737989621Z",
+  "model": "glm-5.3"
+}

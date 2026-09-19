@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "የሆሳፍጥ ድማ «ቃል ያህዌህ ⟨את⟩ ምስኡ ኣሎ» በለ፤ ንጉስ እስራኤልን የሆሳፍጥን ንጉስ ኤዶምን ድማ ናብኡ ወረዱ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "የሆሳፍጥ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ቃል ያህዌህ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "ወረዱ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ናብኡ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "የሆሳፍጥ…ን"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ንጉስ…ን"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:14:16.797672345Z",
+  "model": "glm-5.3"
+}

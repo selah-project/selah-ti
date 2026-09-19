@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 4:2",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ንውላድ እስራኤል ተዛረብ ኢሉ፦ ነፍሲ ካብ ኩሉ ትእዛዳት ያህዌህ እተን ክኾና ዘይኮና ብስሕባ እንተ ኣመኽተት፡ ካብኣተን ሓደን እንተ ገበረት።",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "ኣመኽተት"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "ብስሕባ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ትእዛዳት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እተን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይትግበራን"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "ክኾና"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ገበረት"
+    },
+    {
+      "surface": "מאחת",
+      "gloss": "ሓደን"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "ካብኣተን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:47:49.340417019Z",
+  "model": "glm-5.3"
+}

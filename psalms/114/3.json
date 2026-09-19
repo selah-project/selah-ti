@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 114,
+  "translation": "ባሕሪ ረኣየን ሰሓረ፣ ዮርዳኖስ ድማ ናብ ኣድማስ ተመሊሱ።",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ሰሓረ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "ተመሊሱ"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "ናብ ኣድማስ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:29.196573811Z",
+  "model": "glm-5.3"
+}

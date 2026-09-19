@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 71,
+  "translation": "ኤሎሂም ኣይርሕቐኒ፤ ኤሎሂም ንሕግዚኣብሄር ናብ ሓገዘተይ ብቕጽበት ና።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ኣይርሕቐኒ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ኣብ ዛዕባኽ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም ንሕግዚኣብሄር"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ናብ ሓገዘተይ"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "ብቕጽበት ና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:55.828537845Z",
+  "model": "glm-5.3"
+}

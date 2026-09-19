@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 91,
+  "translation": "ኣብ ሕብእቲ ኤል ዔልዮን ዝውዕል፣ ኣብ ጽልማት ሻዳይ ይሓደር።",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "ዝውዕል"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ኣብ ሕብእቲ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ኤል ዔልዮን"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ኣብ ጽልማት"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ሻዳይ"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "ይሓደር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:15.832991230Z",
+  "model": "glm-5.3"
+}

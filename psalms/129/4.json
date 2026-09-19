@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 129,
+  "translation": "ያህዌህ ጻድቕ እዩ፤ እቲ ገመድ ናይ ክፉኣት ቐጸሖ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቕ"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "ቐጸሖ"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "ገመድ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ናይ ክፉኣት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:57.046793588Z",
+  "model": "glm-5.3"
+}

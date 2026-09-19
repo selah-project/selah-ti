@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "ንኡ ከም ልብሲ ዝሸፍኖ፣ ከም ማእዘን ድማ ኩሉ ግዜ ዝታሕባ ትኹን።",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "ትኹን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "ከም ልብሲ"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "ዝሸፍን"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "ከም ማእዘን"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ኩሉ ግዜ"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "ዝታሕባ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:02.708573988Z",
+  "model": "glm-5.3"
+}

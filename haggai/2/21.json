@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ንዘሩባቨል ለካልኣይ ይሁዳ ብምባል ነብር፦ ኣነ ⟨את⟩ ሰማያትን ⟨את⟩ ምድርን ኣብ ክኣክል እየ።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ነብር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "ዘሩባቨል"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "ለካልኣይ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብምባል"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ኣብ ክኣክል እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰማያትን"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያትን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምድርን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድርን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:30:33.678405301Z",
+  "model": "glm-5.3"
+}

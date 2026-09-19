@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ሓደ ካብ መንጎት፣ ብዘይ ጉድነት፣ ወዲ፣ ውሉድ ሓደ ዓመት ንዓይኩም ይኸውን፤ ካብ ተላያት ወይ ካብ ኣጠሊ ተቐብሉ።",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "ሓደ ካብ መንጎት"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ብዘይ ጉድነት"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ውሉድ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ሓደ ዓመት"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይኸውን"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንዓይኩም"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ተላያት"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ወይ ካብ"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ኣጠሊ"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ተቐብሉ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:20:05.228210619Z",
+  "model": "glm-5.3"
+}

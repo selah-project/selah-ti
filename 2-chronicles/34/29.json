@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "እቲ ንጉስ ደው በሎ፣ ⟨את⟩ ኹሉ ሽማግለ ይሁዳን የሩሻላይምን ኣካየደ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ደው በሎ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ኣካየደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ ሽማግለ ይሁዳን የሩሻላይምን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ሽማግለ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "የሩሻላይም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:22:47.632325538Z",
+  "model": "glm-5.3"
+}

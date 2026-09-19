@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 13:2",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "«ንርኻ ሰባት ስዒብ፣ ነቲ ኣነ ዝሃቦ ናብ ውላድ ያዕቆቭ ⟨את⟩ ምድሪ ከነኣን ከይርኣዩ ኣስዓቡ፤ ሓደ ሰብ፣ ሓደ ሰብ ንስድራ ኣቦኡ ብነጐዳ ኮይኖም ኩሉ ኣመሓያሪ ካብኦም ምሉእ ብምሉእ ተወከል።",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ስዒብ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንርኻ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "ከይርኣዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ ከነኣን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነኣን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ዝሃቦ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ናብ ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሓደ ሰብ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሓደ ሰብ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ብነጐዳ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ንስድራ ኣቦኡ"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "ተወከል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ኣመሓያሪ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ካብኦም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:22:38.772545225Z",
+  "model": "glm-5.3"
+}

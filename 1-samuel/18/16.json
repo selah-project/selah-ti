@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ንኹሉ እስራኤልን ይሁዳን ድማ ⟨את⟩ ዳዊድ ይፈቱን ነይሮም፤ ምኽንያቱ ንሱ ኣብ ቅድሞም ወጺኡ ኣቢሉ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ይፈቱን ነይሮም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊድ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "ወጺኡ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ኣቢሉ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ኣብ ቅድሞም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:09:00.432512564Z",
+  "model": "glm-5.3"
+}

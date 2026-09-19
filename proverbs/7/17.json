@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣጽራዐይ ብሞራ ብኣህላምን ብቒንሞንን ጠረን ኣበለሉ።",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "ጠረን ኣበለሉ"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ኣጽራዐይ"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ሞራ"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "ኣህላም"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "ቒንሞንን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:45:09.540897860Z",
+  "model": "glm-5.3"
+}

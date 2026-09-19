@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "אהרן ወላዱን ⟨את⟩ ስጋ እቲ ወሃቢን ⟨ואת⟩ እቲ ኣብ ዘምቢል ዘሎ ሕብስትን ኣብ ኣፍቲ ድንቁር ምላሻት ይብልዑ እዮም።",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "ይብልዑ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "אהרן"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ወላዱን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስጋ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ስጓ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "እቲ ወሃቢ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ሕብስት"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "ሕብስት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ…ዘሎ"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "ኣብ ዘምቢል"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣፍቲ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንቁር"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ምላሻት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:36:11.007794488Z",
+  "model": "glm-5.3"
+}

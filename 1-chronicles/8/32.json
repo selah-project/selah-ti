@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 8:32",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ሚቅሎት ድማ ⟨את⟩ ሽምዓ ወለዲ፤ እዚኦም ድማ ብትሕቲ መሓያሾም ኣብ የሩሻላይም ምስ መሓያሾም ነይሮም።",
+  "tokens": [
+    {
+      "surface": "ומקלות",
+      "gloss": "ሚቅሎት"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለዲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሽምዓ"
+    },
+    {
+      "surface": "שמאה",
+      "gloss": "ሽምዓ"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ድማ እዚኦም"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ብትሕቲ"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "መሓያሾም"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ነይሮም"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ኣብ የሩሻላይም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "መሓያሾም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:34:57.651208107Z",
+  "model": "glm-5.3"
+}

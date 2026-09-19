@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እቲ ሕዝቢ ሰብ ብሰብን ሰብ ብሓዱሽኡን ክጥቐን እዩ፤ እቲ ወጥሒ ኣብ እቲ ሽማግለ ክዕብዩ እዩ፣ እቲ ዝተንንቐ ኣብ እቲ ክቡር ክትሕተት እዩ።",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "ክጥቐን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ብሰብ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ሰብን"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "ብሓዱሽኡ"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "ክዕብዩ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "እቲ ወጥሒ"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "ኣብ እቲ ሽማግለ"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "ንእቲ ዝተንንቐን"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "ኣብ እቲ ክቡር"
+    }
+  ],
+  "timestamp": "2026-09-19T01:41:31.953031926Z",
+  "model": "glm-5.3"
+}

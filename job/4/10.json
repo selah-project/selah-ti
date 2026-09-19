@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣዝማዕ ኣንበሳ፣ ቓል ኣንበሳ ሓያል፣ እርባታት ኣንበሳ ንእሽተት ድማ ተሰብሩ።",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "ኣዝማዕ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ኣንበሳ"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "ኣንበሳ ሓያል"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "እርባታት"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "ኣንበሳ ንእሽተት"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "ተሰብሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:04:29.401813875Z",
+  "model": "glm-5.3"
+}

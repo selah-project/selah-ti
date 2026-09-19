@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣኖሽ ድማ እታ ⟨את⟩ ቅይናን ወሊዱ ድሕሪኡ ሸሞንተ ዓመትቲን ሸውዓተ ሚእታትን ነይሩ፡ ደቂ-ተባዕታትን ደቂ-ኣንስትን ወሊዱ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ኣኖሽ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ድሕሪኡ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ወሊዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅይናን"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "ቅይናን"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመትቲ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚእታት"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመትቲ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወሊዱ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ደቂ-ተባዕታት"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ደቂ-ኣንስት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:29:39.451950053Z",
+  "model": "glm-5.3"
+}

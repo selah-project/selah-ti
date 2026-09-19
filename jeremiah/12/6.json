@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 12:6",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ስለዚ ሓውታትኻን ስድራ ኣቦኻን እዮም ሓራይ ኣቢሎም፤ ንሳቶም ውን ብድምጺ ዓቢ ብድሕሪኻ ቐርቑ፤ ኣብኦም ኣይተኣማን፣ ስለ ዝዛረቡኻ ቃላት ደሉቃት እዮም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "-ውን"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ሓውታትኻ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ንስድራ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ኣቦኻ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "-ውን"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ሓራይ ኣቢሎም"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣብኻ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "-ውን"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ቐርቑ"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ብድሕሪኻ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ብድምጺ ዓቢ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ-"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "ተኣማን"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ኣብኦም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ዝዛረቡ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "ቃላት ደሉቃት"
+    }
+  ],
+  "timestamp": "2026-09-19T02:41:45.408803040Z",
+  "model": "glm-5.3"
+}

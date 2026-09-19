@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ዘራኡ ናብ ዘለኣለም እስዕቦ፣ ወንበርኡን ከም መዓልታት ሰማያት እውን።",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "እስዕቦ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ዘራኡ"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "ወንበርኡን"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "ከም መዓልታት"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:37.779599227Z",
+  "model": "glm-5.3"
+}

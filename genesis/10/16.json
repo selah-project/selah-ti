@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ከምኡውን ⟨את⟩ እቲ የቡሳይን ⟨את⟩ እቲ ኣሞራይን ⟨את⟩ እቲ ጊርጋሻይን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ከምኡውን ⟨את⟩",
+      "marks": "እቲ የቡሳይ"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "እቲ የቡሳይን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ኣሞራይ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "እቲ ኣሞራይን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ጊርጋሻይ"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "እቲ ጊርጋሻይን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:28.488531400Z",
+  "model": "glm-5.3"
+}

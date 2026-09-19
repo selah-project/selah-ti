@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ስሉል ክፉእ ረኣየ ድማ ተሓበየ፤ ቀሊላት ሓለፉን ተገበረሎምን።",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "ስሉል"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "ተሓበየ"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "ንቀሊላት"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ሓለፉ"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "ተገበረሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:53:50.582752732Z",
+  "model": "glm-5.3"
+}

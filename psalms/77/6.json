@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 77,
+  "translation": "ዝሓለፉ መዓልታት፣ ዓመታት ዘለዓለማት እስብ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "እስብ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ዝሓለፉ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ዘለዓለማት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:56.052088063Z",
+  "model": "glm-5.3"
+}

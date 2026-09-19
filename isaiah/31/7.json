@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 31:7",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "እሞ ኣብ እቲ መዓልቲ ነፍሲ ወከፍ ሰብ ኣማልኽቲ ብርኡን ኣማልክቲ ወርቂኡን እቶም ኢድኹም ገበርዎም ንኹም ናብ ኃጢኣት ዝኾኑ ይጥፍኡ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ימאסון",
+      "gloss": "ይጥፍኡ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ወከፍ ሰብ"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "ኣማልኽቲ"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "ብርኡ"
+    },
+    {
+      "surface": "ואלילי",
+      "gloss": "ኣማልክቲ"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "ወርቂኡ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ገበርዎም"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኹም"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "ኢድኹም"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ናብ ኃጢኣት"
+    }
+  ],
+  "timestamp": "2026-09-19T02:01:39.081059977Z",
+  "model": "glm-5.3"
+}

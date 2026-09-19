@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ነቲ እትንደፍ ቅጽሊ ትፈርሃዮ፧ ድማ ⟨את⟩ ደረቂት ቐረጽ ትሓትቶ፧",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "ነቲ ቅጽሊ"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "እትንደፍ"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "ትፈርሃዮ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ደረቂት ቐረጽ"
+    },
+    {
+      "surface": "קש",
+      "gloss": "ቐረጽ"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ደረቂት"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ትሓትቶ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:08:53.937412256Z",
+  "model": "glm-5.3"
+}

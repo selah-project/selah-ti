@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣብ ልዕሊ ኣንገትና ተደራራቕና፣ ኣዝይና፣ ንሕና ድማ ዕረፍቲ ኣይተዋሕለናን።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "ኣንገትና"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "ተደራራቕና"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "ኣዝይና"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "ተዋሕለ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    }
+  ],
+  "timestamp": "2026-09-19T06:38:34.949515019Z",
+  "model": "glm-5.3"
+}

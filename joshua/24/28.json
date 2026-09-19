@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "የሆሹዋዕ ድማ ⟨את⟩ እቲ ሕዝቢ ነፊሩ፣ ነፍሲ ወከፍ ናብ ውርሻኡ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ነፊሩ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ወከፍ"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "ናብ ውርሻኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:37:36.935741238Z",
+  "model": "glm-5.3"
+}

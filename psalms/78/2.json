@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ኣፌ ብመሳል እኩፈቶ፣ ምስጢራት ካብ ቀደም ዝነበሩ ኣበዝሖም።",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "እኩፈቶ"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "ብመሳል"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ኣፌ"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "ኣበዝሖም"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "ምስጢራት"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ቀደም"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:39.232119188Z",
+  "model": "glm-5.3"
+}

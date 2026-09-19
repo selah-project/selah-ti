@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ናይ ዳዊድ። ያህዌህ ብርሃነይን ሓውነተይን እዩ፤ ኣነ ንመን እፈርር፧ ያህዌህ ማእዘን ሕይወተይ እዩ፤ ብመን ክጽንቕ እየ፧",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ብርሃነይ"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "ሓውነተይን"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "ንመን"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "እፈርር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ማእዘን"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ሕይወተይ"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "ብመን"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "ክጽንቕ እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:01:32.338085342Z",
+  "model": "glm-5.3"
+}

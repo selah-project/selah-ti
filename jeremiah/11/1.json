@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ነቲ ቓል እቲ ናብ ይርምያሁ ካብ ያህዌህ ⟨את⟩ ዝኾነ እናበለ፦",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ነቲ ቓል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ይርምያሁ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ካብ ⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበል"
+    }
+  ],
+  "timestamp": "2026-09-19T02:38:19.136653143Z",
+  "model": "glm-5.3"
+}

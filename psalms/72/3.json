@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 72,
+  "translation": "ኩርያት ንሕዝቢ ሰላም ይሸክማ፣ ኮረባት ድማ ብጽድቂ።",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "ይሸክማ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ኩርያት"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ንሕዝቢ"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "ኮረባት"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "ብጽድቂ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:26.294391015Z",
+  "model": "glm-5.3"
+}

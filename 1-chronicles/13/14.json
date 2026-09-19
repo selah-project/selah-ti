@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ታቦት ኤሎሂም ድማ ምስ ቤት ዓበድ ኤዶም ኣብ ቤቱ ሰለስተ ወርሒታት ተቐመጠት፤ ያህዌህ ድማ ⟨את⟩ ቤት ዓበድ ኤዶምን ⟨את⟩ ኩሉ ዝኾነ ዘለዎን ባረከ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ዓበድ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ኤዶም"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ኣብ ቤቱ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ወርሒታት"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ባረከ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ዓበድ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ኤዶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ዘለዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:39:57.686726848Z",
+  "model": "glm-5.3"
+}

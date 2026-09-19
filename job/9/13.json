@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 9:13",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኤሎሃ ቍጠቑጡ ኣይቕይርን፣ ኣብ ታሕቲኡ ኣገዳሲ ራሃብ ተደቐኑ።",
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "ኤሎሃ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ይቕይር"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ቍጠቑጡ"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "ኣብ ታሕቲኡ"
+    },
+    {
+      "surface": "שחחו",
+      "gloss": "ተደቐኑ"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ኣገዳሲ"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "ራሃብ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:06:12.775734288Z",
+  "model": "glm-5.3"
+}

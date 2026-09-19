@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 135,
+  "translation": "ደመናት ካብ ጽርሒ ምድሪ የውጽእ፣ መብራሕቲ ንቐትሪ ይገብር፣ ንፋስ ካብ ኣትኩባቱ የውጽእ።",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "የውጽእ"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "ደመናት"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ካብ ጽርሒ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "መብራሕቲ"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "ንቐትሪ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ይገብር"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "የውጽእ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ንፋስ"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "ካብ ኣትኩባቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:42.665903670Z",
+  "model": "glm-5.3"
+}

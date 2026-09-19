@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እወ፣ ከምዚ ምዃኑ እፈልጥ እየ፤ ግና ሰብ ምስ ኤል ከመይ ክቕደስ ይኽእል፧",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "እወ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "እፈልጥ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ግና ከመይ"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "ክቕደስ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T06:06:39.920124195Z",
+  "model": "glm-5.3"
+}

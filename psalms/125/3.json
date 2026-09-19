@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 125,
+  "translation": "እሞ ዕንቅርቒር ናይ እቲ ክፉእ ኣብ ላዕሊ ውሳኔ እቶም ጻድቓን ኣይድሕንን፣ እቶም ጻድቓን ኣብ ክፉእ ኢዶም ከይዘርጉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ድሕንን"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ዕንቅርቒር"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ናይ እቲ ክፉእ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "ውሳኔ"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "እቶም ጻድቓን"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ከይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "ዘርጉ"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "እቶም ጻድቓን"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "ኣብ ክፉእ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ኢዶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:29.223956044Z",
+  "model": "glm-5.3"
+}

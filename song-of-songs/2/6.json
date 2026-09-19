@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ጸላእቱ ትሕቲ ርእሰይ እዩ፣ የማናኡ ድማ ይጥቕበኒ።",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "ጸላእቱ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "ርእሰይ"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "የማናኡ"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "ይጥቕበኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:27:29.149080478Z",
+  "model": "glm-5.3"
+}

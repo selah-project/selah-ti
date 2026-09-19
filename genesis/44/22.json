@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ንጎይታይ ነበልና፦ «እቲ ቑልጭቕጭል ⟨את⟩ ኣቡኡ ክተውግዞ ኣይኽእልን፤ ⟨את⟩ ኣቡኡ ክተውግዝ እንተ ወዲኡ ድማ ይሞት።»",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "ነበልና"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጎይታይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ይኽእል"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "እቲ ቑልጭቕጭል"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "ክተውግዞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቡኡ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ክተውግዝ እንተ ወዲኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቡኡ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ይሞት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:04:01.023511010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 1:25",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ድማ ነዊሐ ነቲ ኢደይ ኣብ ልዕሊኻ፣ ነቲ ረኽሲኻ ድማ ከም ማጽራኢ እትቕንዐ፣ ነቲ ብዕራይኻ ድማ ኩሉ እነሕውሶ።",
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "ነዊሐ እየ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ነቲ ኢደይ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ኣብ ልዕሊኻ"
+    },
+    {
+      "surface": "ואצרף",
+      "gloss": "እትቕንዐ እየ"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ከም ማጽራኢ"
+    },
+    {
+      "surface": "סיגיך",
+      "gloss": "ነቲ ረኽሲኻ"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "እነሕውሶ እየ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בדיליך",
+      "gloss": "ብዕራይኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:40:24.480014081Z",
+  "model": "glm-5.3"
+}

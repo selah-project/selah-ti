@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ናብ ዘለኣለም ዘርኢኻ ኣኽንዮ ኣለኹ፣ ንውልቀ-ዘመንን ንውልቀ-ዘመንን ዓቕበ ትንቢትኻ እኳ ሓንጸት። ሴላህ።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "ኣኽንዮ ኣለኹ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ዘርኢኻ"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "ሓንጸት"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ንውልቀ-ዘመን"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ንውልቀ-ዘመንን"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ዓቕበ ትንቢትኻ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:21.095044632Z",
+  "model": "glm-5.3"
+}

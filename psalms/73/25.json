@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 73,
+  "translation": "ኣብ ሰማያት መን ኣሎኒ፧ ምስ ንስኻ ድማ ኣብ ምድሪ ዝኾነ ኣይደልዩኒን።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ኣሎኒ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ኣብ ሰማያት"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ምስ ንስኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ዝደልዩኒ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:35.961105713Z",
+  "model": "glm-5.3"
+}

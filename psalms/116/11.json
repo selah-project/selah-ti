@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 116,
+  "translation": "ኣነ ኣብ ቕልጣተይ በልኩ፦ «ኵሉ ሰብ ሓሶት እዩ»።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "በልኩ"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "ኣብ ቕልጣተይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኵሉ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ሓሶት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:00.595141486Z",
+  "model": "glm-5.3"
+}

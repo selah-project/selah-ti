@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ቤት ብተራሕቐታት ገበረ፡ ካብ ልዕሊ ኩሉ ሕዝቢ ድማ ⟨את⟩ ኻህናት ገበረ፡ እቶም ካብ ውላድ ሌዊ ዘይነበሩ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "במות",
+      "gloss": "ብተራሕቐታት"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ኻህናት"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "ካብ ዓዲኣት"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነበሩ"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ካብ ውላድ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ሌዊ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:00:39.830571221Z",
+  "model": "glm-5.3"
+}

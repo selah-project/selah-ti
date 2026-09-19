@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣብ መንፈስካ ንኽትበርሕ ኣይትብል፤ ምኽንያቱ ቍጣ ኣብ ሕዝቢ ኣረውቲ ትቐመጥ እያ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "ብቕጽበት ተቓልሕ"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "ኣብ መንፈስካ"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "ንኽትበርሕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ቍጣ"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "ኣብ ሕዝቢ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ኣረውቲ"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ትቐመጥ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:41:44.865019785Z",
+  "model": "glm-5.3"
+}

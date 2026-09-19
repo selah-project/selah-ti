@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ያህዌህ ⟨እዩ⟩ ኣካፋል ናይ ወፍሪይን ንጹርይን፤ ንስኻ ድማ ማዕረይ ትዕቅቦ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ኣካፋል"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "ናይ ወፍሪይ"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "ንጹርይን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ ድማ"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "ትዕቅቦ"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "ማዕረይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:59.407206457Z",
+  "model": "glm-5.3"
+}

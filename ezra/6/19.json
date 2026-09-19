@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ውላድ ስደት ድማ ኣብ ኣርባዕተ ወይ ዓሰርተ ናይ ቀዳማይ ወርሕ ⟨את⟩ ፓሳሕ ኣካይዱ።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ኣካይዱ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ስደት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፓሳሕ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ፓሳሕ"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ወይ ዓሰርተ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ናይ ወርሕ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ቀዳማይ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:09:42.854651846Z",
+  "model": "glm-5.3"
+}

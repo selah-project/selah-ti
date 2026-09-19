@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ድማ ⟨את⟩ ሌዋውያን ሒዐካቶም ኣብ ክንዲ ኩሉ በኲር ኣብ ውላድ እስራኤል።",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "ድማ ሒዐካቶም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሌዋውያን"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሌዋውያን"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ክንዲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "በኲር"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "ኣብ ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:21:10.007946242Z",
+  "model": "glm-5.3"
+}

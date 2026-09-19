@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ከም ጽድቅኻ ፍረደኒ ያህዌህ ኤሎሃይ፣ ኣይይሓጉሉን ንዓይ።",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "ፍረደኒ"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "ከም ጽድቅኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሃይ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ይሓጉሉ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:26.498707916Z",
+  "model": "glm-5.3"
+}

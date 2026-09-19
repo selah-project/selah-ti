@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "እቲ ሰሚዕና ዝፈልጥናዮ፣ ኣቦትና ድማ ንሕና ነገርዎም።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "ሰሚዕና"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "ዝፈልጥናዮ"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "ኣቦትናን"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ነገርዎም"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:39.232425048Z",
+  "model": "glm-5.3"
+}

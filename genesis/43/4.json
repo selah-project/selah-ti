@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "ኣሕና ⟨את⟩ ምስና እንተ ለኣኽካዮ፣ ንወርድን ንኣኻ እኽሊ ነውዓይን።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ፈቐድካ"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ለኣኽካዮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሕና"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ኣሕና"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ምስና",
+      "marks": "ምስና"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "ንወርድ"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "ነውዓይ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኣኻ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "እኽሊ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:04:10.279407002Z",
+  "model": "glm-5.3"
+}

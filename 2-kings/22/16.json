@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 22:16",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "«ከምዚ በለ ያህዌህ፦ እንሆ፣ ኣብ እዚ ቦታ እዚ ንኹሉ ቃላት እቲ መጽሓፍ እቲ ንጉስ ይሁዳ ዝነበቦ፣ ኣብ ልዕሊ ኣባሓቱ እውን፣ ⟨את⟩ ኩሉ ቃላት እቲ መጽሓፍ ክፉእ ነገር ኣእታ እየ።»",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እንሆ ኣለኹ"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ኣእታ እየ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉእ ነገር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "እቲ ቦታ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ ልዕሊ እውን"
+    },
+    {
+      "surface": "ישביו",
+      "gloss": "ኣባሓቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "እቲ መጽሓፍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ዝነበቦ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:47:35.952390221Z",
+  "model": "glm-5.3"
+}

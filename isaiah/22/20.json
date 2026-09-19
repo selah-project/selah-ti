@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 22:20",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኣብ እቲ መዓልቲ ከኣ ነቲ ኣገልጋልይ ንኤልያቅም ወዲ ሕልቅያው ብምጽዋዕ እየ።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ኪኸውን"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "ክጽዋዖ"
+    },
+    {
+      "surface": "לעבדי",
+      "gloss": "ነቲ ኣገልጋልይ"
+    },
+    {
+      "surface": "לאליקים",
+      "gloss": "ንኤልያቅም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "ሕልቅያው"
+    }
+  ],
+  "timestamp": "2026-09-19T01:56:02.567085937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ሰማያት ንላዕሊ፣ ምድሪ ንብሌት፣ ልቢ ንገሶም ድማ የብሉን ምልማድ።",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "ንላዕሊ"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ምድሪ ድማ"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "ንብሌት"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ልቢ ድማ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ንገሶም"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የብሉን"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "ምልማድ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:56:52.882226161Z",
+  "model": "glm-5.3"
+}

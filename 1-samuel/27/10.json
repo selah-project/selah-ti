@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ኣኪሽ ድማ «ሎሚ ዶ ኣይጥቐኩምን?» በሎ፤ ዳዊድ ድማ «ኣብ ንግብ ይሁዳ፣ ኣብ ንግብ ያርሓምኤላይት፣ ኣብ ንግብ ቅይኒ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "ኣኪሽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ዶ…ኣይ…ን"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "ጥቐኩም"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ንግብ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ…ን"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ንግብ"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "ያርሓምኤላይት"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ንግብ"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "ቅይኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:17:39.818218381Z",
+  "model": "glm-5.3"
+}

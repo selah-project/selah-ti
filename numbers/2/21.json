@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 2:21",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሰራዊቱን ብዝተቐመጡ ድማ ክልተን ሰለስተን ውሽጢ ሽሕን ክልተ ሽሕን እዮም።",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ሰራዊቱን"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ብዝተቐመጡ ድማ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ክልተን"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ሰለስተን"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ውሽጢ ሽሕን"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ክልተ ሽሕን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:12:02.617023277Z",
+  "model": "glm-5.3"
+}

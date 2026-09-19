@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 107:36",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ኣብኡ ድማ ኣጎዳኛት ኣቕምጹ፣ ከተማ ንምንባር ድማ መርሕሉ።",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "ኣቕምጹ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "רעבים",
+      "gloss": "ኣጎዳኛት"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "መርሕሉ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "ንምንባር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:09.886802884Z",
+  "model": "glm-5.3"
+}

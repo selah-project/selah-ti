@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 115,
+  "translation": "ስድራ ኣሃሮን ብያህዌህ ተኣማኑ፤ ሓገዝኦምን ብርኪኦምን ንሱ እዩ።",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ተኣማኑ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ብያህዌህ"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ሓገዝኦም"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "ብርኪኦምን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:57.335412050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 31:26",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "«ነዚ መጽሓፍ ቶራ ውሰዱ፣ ⟨את⟩ ነዚ ኣብ ጎኒ ታቦት ኪዳን ያህዌህ ኤሎሂምኩም ድማ ኣንተዮ፤ ⟨את⟩ ኣብ ውሽጥኩም ንዘለኣለም ከም ምስክሪ ይኹን።",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "ውሰዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መጽሓፍ ቶራ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "መጽሓፍ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ነዚ"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ኣንተዮ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብ ጎኒ ታቦት"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "ኣብ ጎኒ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ይኹን።"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብ ውሽጥኩም"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣብ ውሽጥኩም"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ንዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:13:08.223593825Z",
+  "model": "glm-5.3"
+}

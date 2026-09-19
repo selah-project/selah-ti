@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ናብ እምባ እተው፣ ኣብ ጭቃ ተሓብእ፣ ካብ ፍርሂ ያህዌህ ከምኡውን ካብ ክብሪ ጽዕቖኡ።",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "እተው"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ናብ እምባ"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "ተሓብእ"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "ኣብ ጭቃ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ካብ ፍርሂ"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ፍርሂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "ከምኡውን ካብ ክብሪ"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "ጽዕቖኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:38:54.539159162Z",
+  "model": "glm-5.3"
+}

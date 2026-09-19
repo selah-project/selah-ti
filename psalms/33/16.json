@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ብብዙሕ ሓይሊ ንጉስ የብሉን ዝድሕን፣ ጠንካራ ድማ ብብዙሕ ኃይል ኣይድንን።",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "የብሉን"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "ዝድሕን"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ብብዙሕ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ሓይሊ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ጠንካራ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "ይድንን"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ብብዙሕ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ኃይል"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:09.294010243Z",
+  "model": "glm-5.3"
+}

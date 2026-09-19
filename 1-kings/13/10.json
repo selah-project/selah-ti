@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኣብ ካልእ መገዲ ድማ ኸደ፣ ናብ ቤት ኤል ዝኣተወሉ እቲ መገዲ ከኣ ኣይተመለሰን።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ኸደ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መገዲ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ካልእ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መገዲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ኣተወ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T08:43:36.481185602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 138,
+  "translation": "ጸገም ብውሽጢ እንተ ኣተኹ ትህሉኒ፤ ኣብ ልዕሊ ቍጥዓ ኣጋንንተይ ትለኣያ ኢድኻ፣ የማናይካ ድማ ትድሕነኒ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ኣተኹ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ብውሽጢ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ጸገም"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "ትህሉኒ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ቍጥዓ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ኣጋንንተይ"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "ትለኣያ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድኻ"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "ትድሕነኒ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "የማናይካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:00.770104810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "እዚኦም ምዕራፋት ያህዌህ፣ ቅዱሳት ጉባኤታት እዮም፣ እቶም ⟨את⟩ ኣብ ዓዲኦም ክትጽውዑሉም እትኽእሉ።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "ምዕራፋት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "ጉባኤታት"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "ክትጽዋዑሉም እትኽእሉ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብ ዓዲኦም"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "ኣብ ዓዲኦም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:05:00.385827860Z",
+  "model": "glm-5.3"
+}

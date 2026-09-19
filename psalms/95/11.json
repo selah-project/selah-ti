@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 95,
+  "translation": "ስለዚ ኣብ ቍጣይ በዓይ በይነኹ፦ ናብ ዕረፊተይ ኣይኣቱን።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "በዓይ በይነኹ"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "ኣብ ቍጣይ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "ኣቱን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "ዕረፊተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:39.348858967Z",
+  "model": "glm-5.3"
+}

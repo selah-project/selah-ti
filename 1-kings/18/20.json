@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ሽዑ ለኣኾም ኣካብ ኩሉ ውላድ ይስራኤል፣ ኣክብደንውን ⟨את⟩ ነቢያት ነይሮም ኣብ ተራሕቡ ከርመል።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ለኣኾም"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ኣካብ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ኣክብደንውን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቢያት"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ነቢያት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነይሮም ኣብ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራሕቡ"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "ከርመል"
+    }
+  ],
+  "timestamp": "2026-09-19T01:08:03.314161725Z",
+  "model": "glm-5.3"
+}

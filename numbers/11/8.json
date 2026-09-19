@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 11:8",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "እቲ ህዝቢ ተወዓዓለ፣ ኣክቢቡ ድማ፣ ኣብ ረሃይቲ ተሃሒኑ ወይ ኣብ ምድህሳ ተረጊጹ፣ ኣብ ጥላሕ ሰቲዩ፣ ⟨אתו⟩ ዕገታት ኣቢሉ ገበረ፤ ጣዕሙ ድማ ከም ጣዕም ስሙዕቲ ዘይቲ እዩ።",
+  "tokens": [
+    {
+      "surface": "שטו",
+      "gloss": "ተወዓዓለ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "ולקטו",
+      "gloss": "ኣክቢቡ"
+    },
+    {
+      "surface": "וטחנו",
+      "gloss": "ተሃሒኑ"
+    },
+    {
+      "surface": "ברחים",
+      "gloss": "ኣብ ረሃይቲ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "דכו",
+      "gloss": "ተረጊጹ"
+    },
+    {
+      "surface": "במדכה",
+      "gloss": "ኣብ ምድህሳ"
+    },
+    {
+      "surface": "ובשלו",
+      "gloss": "ሰቲዩ"
+    },
+    {
+      "surface": "בפרור",
+      "gloss": "ኣብ ጥላሕ"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ዕገታት"
+    },
+    {
+      "surface": "עגות",
+      "gloss": "ዕገታት"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "ጣዕሙ"
+    },
+    {
+      "surface": "כטעם",
+      "gloss": "ከም ጣዕም"
+    },
+    {
+      "surface": "לשד",
+      "gloss": "ስሙዕቲ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ዘይቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:21:21.875787913Z",
+  "model": "glm-5.3"
+}

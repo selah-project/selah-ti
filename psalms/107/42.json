@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ቅኑዓት ይረኣዩን ይደልዩን፣ ኵሉ ኲነት ድማ ኣፉን ዕጸወ።",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "ይረኣዩን"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ቅኑዓት"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ይደልዩን"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኵሉ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ኲነት"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "ዕጸወ"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ኣፉን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:58.882004766Z",
+  "model": "glm-5.3"
+}

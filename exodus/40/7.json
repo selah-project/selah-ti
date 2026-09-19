@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ነቲ ተሳቒ ⟨את⟩ ኣብ መንጎ ድኻም መወዓውዓን ነቲ መሰዊሕን ኣቐምጦ፣ ኣብኡ ንሳ ማይ ኣቐምጦ።",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ኣቐምጦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተሳቒ"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ተሳቒ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድኻም"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መወዓውዓ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ኣብ መንጎ እውን"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ነቲ መሰዊሕ"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ኣቐምጦ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:45:47.233885572Z",
+  "model": "glm-5.3"
+}

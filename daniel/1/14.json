@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ንኣቶም ነቲ እዚ ቃል ሰምዐ፣ ድማ ዓሰርተ መዓልታት እናፈተነ ኣሰረ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንኣቶም"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ነቲ ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "እናፈተነ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ዓሰርተ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:49:49.538613393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 77,
+  "translation": "ሔሴዱ ንዘለኣለም ተኺሱ ዲዩ? ቃሉ ንልደትን ልደትን ተማልኣ ዲዩ?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "ተኺሱ ዲዩ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ንዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ተማልኣ ዲዩ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ቃሉ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ንልደትን"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ልደትን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:50.322910568Z",
+  "model": "glm-5.3"
+}

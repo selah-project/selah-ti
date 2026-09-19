@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ዳዊድ ድማ ኣብኻ ንምዛረብ ውን እንታይ ይውስኽ? ንስኻ ድማ ⟨את⟩ ኣገልጋዊኻ ኣፈልጠካ ኣዶናይ ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "ውን እንታይ"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ይውስኽ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ንምዛረብ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ኣብኻ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ድማ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ኣፈልጠካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣገልጋዊኻ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልጋዊኻ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:26:22.483536118Z",
+  "model": "glm-5.3"
+}

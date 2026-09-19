@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 13:12",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ብልሽትያ ናይ እፍራይም ተታሒቡ ኣሎ፣ ሓጢያቱ ድማ ተሓቢኡ ኣሎ።",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "ተታሒቡ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ብልሽትያ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "እፍራይም"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "ተሓቢኡ"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ሓጢያቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:09:09.479137184Z",
+  "model": "glm-5.3"
+}

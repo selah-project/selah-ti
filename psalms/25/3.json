@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ከምኡውን ኩሎም ተስፋውትኻ ኣይሕፉሩን፤ እቶም ኣመንዲጊታት ብዘይ ምኽንያት ክሕፉሩ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "ተስፋውትኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ሕፉሩን"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ክሕፉሩ"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "ኣመንዲጊታት"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ብዘይ ምኽንያት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:05.582404314Z",
+  "model": "glm-5.3"
+}

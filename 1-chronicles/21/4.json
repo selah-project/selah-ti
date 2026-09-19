@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ቃል እቲ ንጉስ ድማ ኣብ ዮዋብ ኣሸነወ፤ ዮዋብ ድማ ተወጺኡ ኣብ መላእ ይስራኤል ዞረ፣ ናብ የሩሻላይም ድማ መጸ።",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ኣሸነወ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮዋብ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ተወጺኡ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮዋብ"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "ዞረ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ መላእ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ናብ የሩሻላይም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:45:36.381996127Z",
+  "model": "glm-5.3"
+}

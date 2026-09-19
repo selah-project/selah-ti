@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 40:11",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "እቲ ኩስ ፓርዖ ኣብ ኢደይ ነይሩ፤ ⟨את⟩ እታ ወይኒ ወሰኹ፣ ናብ ኩስ ፓርዖ ⟨אתם⟩ ወጸኹ፣ ⟨את⟩ እቲ ኩስ ድማ ኣብ ገጽ ኢድ ፓርዖ ሃብኩ።",
+  "tokens": [
+    {
+      "surface": "וכוס",
+      "gloss": "እቲ ኩስ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ኣብ ኢደይ"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "ወሰኹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ወይኒ"
+    },
+    {
+      "surface": "הענבים",
+      "gloss": "እታ ወይኒ"
+    },
+    {
+      "surface": "ואשחט",
+      "gloss": "ወጸኹ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ንእሶም (እታ ወይኒ)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "ኩስ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ሃብኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ኩስ"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "እቲ ኩስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ገጽ ኢድ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:00:04.058886218Z",
+  "model": "glm-5.3"
+}

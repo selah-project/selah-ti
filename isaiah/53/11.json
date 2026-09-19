@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 53:11",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 53,
+  "translation": "ካብ ጻዕቃ ነፍሱ ኪረኣይ፣ ኪሕመን፤ ብፍልጠቱ ድማ ኣገልጋሚ ብጽድቂ ናይለይ ንብዙሓት ኪጽድቖም፣ ኣበይቲኦም ከኣ ንሱ ኪሰብሮም።",
+  "tokens": [
+    {
+      "surface": "מעמל",
+      "gloss": "ካብ ጻዕቃ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ኪረኣይ"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ኪሕመን"
+    },
+    {
+      "surface": "בדעתו",
+      "gloss": "ብፍልጠቱ"
+    },
+    {
+      "surface": "יצדיק",
+      "gloss": "ኪጽድቖም"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ብጽድቂ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልጋሚ ናይለይ"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "ንብዙሓት"
+    },
+    {
+      "surface": "ועונתם",
+      "gloss": "ኣበይቲኦም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "יסבל",
+      "gloss": "ኪሰብሮም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:18:29.950840676Z",
+  "model": "glm-5.3"
+}

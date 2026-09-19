@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ምስ ንጹር ንሱር ኮይንካ ትንጹር፣ ምስ ዝተበጣበጠ ድማ ኣብኡ ትተብተብ።",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "ንጹር"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "ትንጹር"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ንምስ እውን"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ዝተበጣበጠ"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "ትተብተብ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:18.374048374Z",
+  "model": "glm-5.3"
+}

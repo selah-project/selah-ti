@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "እቲ ውላድ ዓበየ ድማ ተገምለ፤ ኣቭራሃም ኣብ ዕለት ምገምሊ ⟨את⟩ ይጽሓቅ ዓቢ ምግቢ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "ዓበየ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "እቲ ውላድ"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "ተገምለ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ምግቢ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ ዕለት"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "ምገምሊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይጽሓቅ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይጽሓቅ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:43:42.808536519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "⟨את⟩ ነቶም ስዕርታቶም ከይኣመድዎም፣ ነቶም ንርእሶም ናብ መሸለምቲ ተቓልዩ።",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ከይኣመድዎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ስዕርታቶም"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ነቶም ስዕርታቶም"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ተቓልዩ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "ናብ መሸለምቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:37.734152263Z",
+  "model": "glm-5.3"
+}

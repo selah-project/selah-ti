@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "obadiah 1:19",
+  "book": "obadiah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ወላደይ ተዋረሱ ደቡባውያን — ⟨את⟩ ተራራ ዔሳው — እቶም ኣብ ረባ ዝኾኑ — ⟨את⟩ ፍልስጤም፣ ተዋረሱ ⟨את⟩ ገጽታ ኤፍራይምን ⟨את⟩ ገጽታ ሽማሮንን፣ ብንያም ድማ ⟨את⟩ ጊልዓድ።",
+  "tokens": [
+    {
+      "surface": "וירשו",
+      "gloss": "ተዋረሱ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ደቡባውያን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "הר"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዔሳው"
+    },
+    {
+      "surface": "והשפלה",
+      "gloss": "ኣብ ረባ ዝኾኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "פלשתים"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤም"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "ተዋረሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "שדה"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ገጽታ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "שדה"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ገጽታ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ሽማሮን"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ብንያም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "הגלעד"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ጊልዓድ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:19:58.795528791Z",
+  "model": "glm-5.3"
+}

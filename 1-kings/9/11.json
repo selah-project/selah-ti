@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 9:11",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ሕራም ንጉስ ጽር ሽሎሞ ብኣጋብቲ ኣርዙንን ብኣጋብቲ በሮሽንን ብወርቂን፣ ንዅሉ ዝደለዮ ሓጊዞ፤ ድሕሪኡ እቲ ንጉስ ሽሎሞ ንሕራም ዓሰርታ ከተማታት ኣብ ምድሪ ገሊላ ሃበ።",
+  "tokens": [
+    {
+      "surface": "חירם",
+      "gloss": "ሕራም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ጽር"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ሓጊዞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሽሎሞ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "ብኣጋብቲ"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ኣርዙን"
+    },
+    {
+      "surface": "ובעצי",
+      "gloss": "እናብኣጋብቲ"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "በሮሽን"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "እናብወርቂ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንዅሉ"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "ዝደለዮ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ድሕሪኡ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "לחירם",
+      "gloss": "ንሕራም"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዓሰርታ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማታት"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "הגליל",
+      "gloss": "ገሊላ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:55:16.349163193Z",
+  "model": "glm-5.3"
+}

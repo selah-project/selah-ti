@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ነታ ማሕደር ⟨את⟩ ነቲ ኣብ ከረብ ዝረኣይካዮ ቅጥላ ከም ዝኾነ ኣቐንዕሳ።",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "ኣቐንዕሳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማሕደር"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "ከም ቅጥላ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "ዝረኣይካዮ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ኣብ ከረብ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:32:39.179185192Z",
+  "model": "glm-5.3"
+}

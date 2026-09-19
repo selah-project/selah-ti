@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "እስራት ሞት ዘበዩኒ፣ ወንዚታት ብሊያል እውን ኣስፈሩኒ።",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "ዘበዩኒ"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "እስራት"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "ወንዚታት እውን"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ብሊያል"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "ኣስፈሩኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:33.043371805Z",
+  "model": "glm-5.3"
+}

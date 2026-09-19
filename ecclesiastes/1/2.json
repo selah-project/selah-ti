@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ሓበል ናይ ሓበላት፣ ኢሉ ቆሄለት በለ፤ ሓበል ናይ ሓበላት — ኩሉ ሓበል እዩ።",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "ሓበል"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ናይ ሓበላት"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ፤ ኢሉ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ቆሄለት"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ሓበል"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ናይ ሓበላት"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ሓበል እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:39:15.581828199Z",
+  "model": "glm-5.3"
+}

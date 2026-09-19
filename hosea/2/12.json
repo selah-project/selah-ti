@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣብዚ እዋን እዚ ድማ ⟨את⟩ ውሽጣዋታኣ ኣብ ቅድሚ ኣይታታ መሃባታ የብርህኣ፤ ሓደ ሰብ ድማ ካብ ኢደይ ኣይደሕንዋን።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ኣብዚ እዋን እዚ"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "የብርህኣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውሽጣዋታኣ"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "ውሽጣዋታኣ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ኣብ ቅድሚ ኣይታታ"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "መሃባታ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ሓደ ሰብ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "ደሕንዋን"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ካብ ኢደይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:06:24.645706742Z",
+  "model": "glm-5.3"
+}

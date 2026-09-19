@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 74,
+  "translation": "ትምህርቲ ናይ ኣሳፍ። እንታይ ምኽንያት ኤሎሂም ናብ ዘለኣለም ግደፍና? በዓትካ ኣብ ጐልጐል መጥመቢኻ ብዝትጽሕይ እያ።",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "ትምህርቲ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ናይ ኣሳፍ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "እንታይ ምኽንያት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "ግደፍና"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "እትጽሕይ"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "በዓትካ"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "ኣብ ጐልጐል"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "መጥመቢኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:40.651456514Z",
+  "model": "glm-5.3"
+}

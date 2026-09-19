@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ከም ደጋ ካብ ኢድ ⟨እቲ ሓውዩ⟩ ነጻ ኣውጽአ፣ ከም ዑፍ ካብ ኢድ ⟨እቲ መርበቢ ዑፍቲ⟩ ነጻ ኣውጽአ።",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "ነጻ ኣውጽአ"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "ከም ደጋ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "ከም ዑፍ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "መርበቢ ዑፍቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:44:08.978924990Z",
+  "model": "glm-5.3"
+}

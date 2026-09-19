@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "እቶም ሚጽራይም ኣነ ያህዌህ እየ እምበር ኢሎም ክፈልጡ፣ ምስ ኣረዝነ ኢደይ ንሚጽራይም፣ እናወጻኩ ድማ ናይ እስራኤል ውላድ ⟨את⟩ ካብ ውሽጦም።",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ክፈልጡ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "እቶም ሚጽራይም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እምበር"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "ምስ ኣረዝነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢደይ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ኢደይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "እናወጻኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ እስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "ካብ ውሽጦም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:12:17.100302540Z",
+  "model": "glm-5.3"
+}

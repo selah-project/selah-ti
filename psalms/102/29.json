@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 102,
+  "translation": "ውላድ ኣገልጋሊኻ ይነብሩ፣ ዘርኦም ኣብ ቅድሚኻ ይኽወን።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ኣገልጋሊኻ"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "ይነብሩ"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "ዘርኦም"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ኣብ ቅድሚኻ"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ይኽወን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:39.835733418Z",
+  "model": "glm-5.3"
+}

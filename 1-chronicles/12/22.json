@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 12:22",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "እቶም ድማ ምስ ዳዊድ ኣብ ልዕሊ እቲ ጉጅለ ዘለባታት ሓጊዞም፣ ምኽንያቱ ኩሎም ጽቡቓት ጋንታ እናኾኑ፣ ኣብ ⟨ቲ⟩ ሰራዊት ኣለቶት ኮይኖም።",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "እቶም ድማ"
+    },
+    {
+      "surface": "עזרו",
+      "gloss": "ሓጊዞም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "ቲ ጉጅለ ዘለባታት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ጽቡቓት"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ጋንታ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ኮይኖም"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ኣለቶት"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "ኣብ ሰራዊት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:40:39.458950848Z",
+  "model": "glm-5.3"
+}

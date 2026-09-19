@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኣብኡ ኣይሕፉርን፣ ምስ ዝረኣየ ኩሉ ትእዛዛትኻ።",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ሕፉር"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "ምስ ዝረኣየ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ትእዛዛትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:53.184250121Z",
+  "model": "glm-5.3"
+}

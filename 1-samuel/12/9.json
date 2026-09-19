@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ያህዌህ ኤሎሂምናቶም ⟨את⟩ ረስቱ፡ ንሳቶም ድማ ኣብ ኢድ ሲስራ ሹም ሰራዊት ናይ ሓጹር፡ ኣብ ኢድ ፍልስጢምን ኣብ ኢድ ንጉስ ሞዓብን ወፈየዮም፤ እቶም ድማ ምሳቶም ተዓጊቶም።",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "ረስቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ኤሎሂምናቶም"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "ወፈየዮም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳቶም"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ኣብ ኢድ"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "ሲስራ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ሹም"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ሓጹር"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ኣብ ኢድ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጢም"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ኣብ ኢድ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ተዓጊቶም"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ምሳቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:02:55.121227549Z",
+  "model": "glm-5.3"
+}

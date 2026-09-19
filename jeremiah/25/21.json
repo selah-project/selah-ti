@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ንኣዶም ⟨את⟩፣ ንሞኣብ ⟨ואת⟩ን ንውላደ ዓሞን ⟨ואת⟩ን።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣዶም"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኣዶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩ን",
+      "marks": "ሞኣብ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩ን",
+      "marks": "ውላደ ዓሞን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ዓሞን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:48:26.720313812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 10:9",
+  "book": "zechariah",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣብ ህዝቢታት ኣዝዮም፣ ኣብ ሩባቕ ምድራት ድማ ያዘኻኽርዎ እዮም፣ ምስ ⟨את⟩ ውላዶም ይነብሩ፣ ይመልሱ እዮም።",
+  "tokens": [
+    {
+      "surface": "ואזרעם",
+      "gloss": "ኣዝዮም"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "ኣብ ህዝቢታት"
+    },
+    {
+      "surface": "ובמרחקים",
+      "gloss": "ኣብ ሩባቕ ምድራት"
+    },
+    {
+      "surface": "יזכרוני",
+      "gloss": "ያዘኻኽርዎ እዮም"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "ይነብሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላዶም"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ምስ ውላዶም"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ይመልሱ እዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:37:25.196973351Z",
+  "model": "glm-5.3"
+}

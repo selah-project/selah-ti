@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ንሱ ምስ ድሕሪኡ ኤሎን ዘቡላይ ⟨את⟩ እስራኤል ፈረደ፤ ⟨את⟩ እስራኤል ዓሰርተ ዓመታት ፈረደ።",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ፈረደ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ምስ ድሕሪኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "ኤሎን"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "ዘቡላይ"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "ፈረደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:46:06.757907740Z",
+  "model": "glm-5.3"
+}

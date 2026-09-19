@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ነቲ ውላድ ጓል ⟨את⟩ ኣርባዕተ ግዜ ይከፍል፤ ነቲ ቃል ⟨את⟩ እዚ ስለ ዝገበረን ስለ ዘይሓዘን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ውላድ ጓል"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "ነቲ ውላድ ጓል"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ይከፍል"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "ኣርባዕተ ግዜ"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ቃል"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ነቲ ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ንስን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይ"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "ሓዘ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:30:49.720185180Z",
+  "model": "glm-5.3"
+}

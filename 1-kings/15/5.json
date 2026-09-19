@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ምኽንያቱ ዳዊድ ⟨את⟩ ⟨ብዝብዝ⟩ ቅኑዕ ኣብ ኣይነታት ያህዌህ ገበረ፣ ካብ ኩሉ እትን ዘኣዘዞ ድማ ኣይተዛረበን ኩሉ መዓልታት ህይወቱ፣ ጥራይ ኣብ ቃል ኡርያ እቲ ሕታዊ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅኑዕ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ቅኑዕ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ ኣይነታት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እትን"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ዘኣዘዞ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ህይወቱ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ኣብ ቃል"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ኡርያ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "እቲ ሕታዊ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:04:27.139760267Z",
+  "model": "glm-5.3"
+}

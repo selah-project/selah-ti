@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ኣህዉን ክትጽውዑኒ ⟨אתי⟩ ትከዱን ንኣነ ተስገሩን እምዒልኩም እየ።",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "ክትጽውዑ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩",
+      "marks": "-ኒ (ንዓይ)"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "ትከዱ"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "ተስገሩ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "እምዒል"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ንዓኻትኩም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:53:43.922909852Z",
+  "model": "glm-5.3"
+}

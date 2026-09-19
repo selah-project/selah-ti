@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 121,
+  "translation": "ያህዌህ ውጻትካን መእተውኻን ይኸልሉ፤ ካብ ሕጂ ክሳብ ዘለኣለም።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ይኸልሉ"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "ውጻትካ"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "መእተውኻን"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ካብ ሕጂ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:52.470222634Z",
+  "model": "glm-5.3"
+}

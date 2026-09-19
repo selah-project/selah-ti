@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "እቲ ዕኩብ ኣብ ልዕልታት ብዙሓት ተዋሕበ፣ ኰነን ሃብታማት ኣብ ታሕቲ ይቐመጡ።",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ተዋሕበ"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "እቲ ዕኩብ"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "ኣብ ልዕልታት"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "ኰነን ሃብታማት"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "ኣብ ታሕቲ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ይቐመጡ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:06:41.506264255Z",
+  "model": "glm-5.3"
+}

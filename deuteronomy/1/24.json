@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ወጊዞም ናብ ከርኒ ወዓሉ፣ ክሳብ ለዓሊ ኣሽኮል ኣተዩ፣ ነታ ⟨את⟩ ዓወትዋ።",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "ወጊዞም"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ወዓሉ"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "ናብ ከርኒ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ኣተዩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ለዓሊ"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "ኣሽኮል"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "ዓወትዋ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ነታ (እቲ ምድሪ — ኣንስታይ ቅጥያ)"
+    }
+  ],
+  "timestamp": "2026-09-18T22:45:06.940514721Z",
+  "model": "glm-5.3"
+}

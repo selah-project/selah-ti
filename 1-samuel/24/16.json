@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ያህዌህ ወዲና ኮይኑ ኣብ መንጎናን ኣብ መንጎኻን ይፍረድ፣ ይረኣየ፣ ⟨את⟩ ኽሳበይ ይኽርር፣ ካብ ኢድካ ድማ ይሕርዐኒ።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "ወዲና"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ይፍረድ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ኣብ መንጎና"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ኣብ መንጎኻ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ይረኣየ"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "ይኽርር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኽሳበይ"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ኽሳበይ"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "ይሕርዐኒ"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ካብ ኢድካ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:12:44.870128777Z",
+  "model": "glm-5.3"
+}

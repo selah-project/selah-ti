@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 52,
+  "translation": "ኣብ ዘመጸ እቲ ኤዶማይ ዶእግን ንሻኡል ኸኣ ኣስዓረዮን፣ ነቲ ኸኣ በሎ፦ «ዳዊድ ናብ ቤት ኣሕይሞልክ መጸ።»",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "ኣብ ዘመጸ"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "ዶእግ"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "ኤዶማይ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ኣስዓረዮን"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ንሻኡል"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "ኣሕይሞልክ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:02:47.764047221Z",
+  "model": "glm-5.3"
+}

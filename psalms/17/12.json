@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "መሳልኡ ከም ኣናት ንምምላዕ ይጸበይ፣ ከምኡውን ከም ንእሽተ ኣናት ኣብ ምስትርታት ይቐመጥ።",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "መሳልኡ"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "ከም ኣናት"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "ይጸበይ"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "ንምምላዕ"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "ከምኡውን ከም ንእሽተ ኣናት"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ይቐመጥ"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ኣብ ምስትርታት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:16.256337240Z",
+  "model": "glm-5.3"
+}

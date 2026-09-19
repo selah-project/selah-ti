@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 94,
+  "translation": "ኣብ ላዕሊ ነፍሲ እቲ ጻድቅ ብሓባር ይቕረቡ እዮም፣ ንደም ንጹሕ ድማ ይኣልይዎ እዮም።",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "ብሓባር ይቕረቡ እዮም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቅ"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ንጹሕ"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "ይኣልይዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:52.820888904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣቢሜለኽ ኣብ ኣሩማ ተቐመጠ፤ ዘቡል ድማ ⟨את⟩ ጋዕልን ⟨ואת⟩ ኣሕዋቱን ካብ ምቕመጥ ኣብ ሽኬም ኣብሊጎም።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ኣቢሜለኽ"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "ኣብ ኣሩማ"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "ኣብሊጎም"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "ዘቡል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጋዕል"
+    },
+    {
+      "surface": "געל",
+      "gloss": "ጋዕል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሕዋቱ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ኣሕዋቱ"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "ካብ ምቕመጥ"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "ኣብ ሽኬም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:43:32.450622445Z",
+  "model": "glm-5.3"
+}

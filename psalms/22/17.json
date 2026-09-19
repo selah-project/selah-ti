@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ምኽንያቱ ከም ከልባት ኣከባቢይ ዞሩኒ፣ ጉጅሌ ኣጥፊኣት ድማ በጽሑኒ፤ ንኢዳተይን ንእገረይን ኸም ኣንበሳ ⟨ይነጽሑኒ⟩።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ኣከባቢይ ዞሩኒ"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "ከልባት"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ጉጅሌ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ኣጥፊኣት"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "በጽሑኒ"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "ኸም ኣንበሳ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ንኢዳተይ"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "ንእገረይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:14.081592714Z",
+  "model": "glm-5.3"
+}

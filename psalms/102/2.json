@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 102,
+  "translation": "ያህዌህ ትሕትናይ ስምዐ፣ ጽወዓተይን ናብኻ ይበጽሕ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ስምዐ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ትሕትናይ"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "ጽወዓተይን"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኻ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ይበጽሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:35.554321623Z",
+  "model": "glm-5.3"
+}

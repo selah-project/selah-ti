@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ያህዌህ ድማ ⟨את⟩ ልቢ ፓርዖ ኣጸንአ፣ ንኣቶም ኣይሰምዐን፣ ከም ዝተዛረቦ ያህዌህ ናብ ሞሸ።",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ኣጸንአ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልቢ ፓርዖ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ንኣቶም"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝተዛረቦ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:28:27.024666760Z",
+  "model": "glm-5.3"
+}

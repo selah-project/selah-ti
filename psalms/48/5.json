@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "ምኽንያቱ ኣንሃ እቶም ነገስቲ ተራኺቦም ኣቢሎም ሓለፉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ኣንሃ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "እቶም ነገስቲ"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "ተራኺቦም"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ሓለፉ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ኣቢሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:18.737669994Z",
+  "model": "glm-5.3"
+}

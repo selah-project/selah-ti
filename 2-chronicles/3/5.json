@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ነታ ዓቢቲ ቤት ⟨את⟩ ብኣጽር ቑርጭ ሸፈነ፣ ድማ ብጽቡእ ወርቂ ሸፈና፣ ኣብ ልዕሊኣ ድማ ደቀባትን ዛግምቲን ኣውጽአ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነታ ዓቢቲ ቤት"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ዓቢቲ"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "ሸፈነ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ኣጽር"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "ቑርጭ"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "ሸፈና"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡእ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ኣውጽአ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊኣ"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "ደቀባት"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "ዛግምቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:56:39.896703497Z",
+  "model": "glm-5.3"
+}

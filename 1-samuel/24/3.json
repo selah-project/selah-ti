@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ሻኡል ምስ ኩሉ እስራኤል ሰለስተ ሺሕ ተመሪጹ ተባዕታይ ወሲዱ፣ ንዳዊድን ተባዕቱን ሰባትን ኣብ ገጽ እርብቲ ዓበይቲ እርቢ ንምድላይ ከደ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሺሕ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ተባዕታይ"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "ተመሪጹ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ምስ ኩሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ንምድላይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊድ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ተባዕቱን ሰባትን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "እርብቲ"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "ዓበይቲ እርቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:40:28.339785490Z",
+  "model": "glm-5.3"
+}

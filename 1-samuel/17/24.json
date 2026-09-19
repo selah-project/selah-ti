@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኩሉ ሰብ እስራኤል ምስ ረኣዩ ⟨את⟩ እቲ ሰብ ካብ ገጹ ኮይኖም ሰደዉ ብጣዕሚ ድማ ተፈሪሮም።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "ምስ ረኣዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሰብ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ሰደዉ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ካብ ገጹ"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ተፈሪሮም"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:08:27.647461412Z",
+  "model": "glm-5.3"
+}

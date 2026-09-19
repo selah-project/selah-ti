@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 20:13",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኣብ ልዕሊኣ ይሕምማ፣ ኣይተሓወነን፣ ኣብ ውሽጢ ኣፉ ድማ ተቖልላ ኣብ ዝበለ ትጸብቓ።",
+  "tokens": [
+    {
+      "surface": "יחמל",
+      "gloss": "ይሕምማ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ኣብ ልዕሊኣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יעזבנה",
+      "gloss": "ኣይተሓወነን"
+    },
+    {
+      "surface": "וימנענה",
+      "gloss": "ትጸብቓ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ ውሽጢ"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "ኣፉ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:14:12.066256429Z",
+  "model": "glm-5.3"
+}

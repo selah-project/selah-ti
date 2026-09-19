@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኣቭራሃም ካብኡ ናብ ምድሪ ናብዓቕ ኮይኑ ከደ፣ ኣብ መንጎ ቅዴሽን ሽውርን ተቐመጠ፣ ኣብ ግራር ድማ ደግን ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ናብ ምድሪ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ናብዓቕ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዴሽ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ንሽውርን"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ሽውር"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "ደግን"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "ኣብ ግራር"
+    }
+  ],
+  "timestamp": "2026-09-18T20:43:12.294057077Z",
+  "model": "glm-5.3"
+}

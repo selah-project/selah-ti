@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 94,
+  "translation": "መን ምስ እቶም ክፉኣት ንኣነ ኪተሪቕ እዩ? መን ምስ ሰሪቲ ክፉእ ንኣነ ኪቐልሕ እዩ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ኪተሪቕ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ክፉኣት"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "ኪቐልሕ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ሰሪቲ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ክፉእ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:55.793952989Z",
+  "model": "glm-5.3"
+}

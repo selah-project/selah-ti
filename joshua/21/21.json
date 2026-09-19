@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 21:21",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ሃቑሉም ንእቶም ⟨את⟩ ከተማ መሸለቲ እቲ ቀታሊ ⟨את⟩ ሽክምን ⟨את⟩ ዶባኣን ኣብ ተራር ኤፍራይም፣ ⟨את⟩ ግዛርን ⟨את⟩ ዶባኣን እዮም።",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ሃቑሉም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንእቶም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተማ መሸለቲ እቲ ቀታሊ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "መሸለቲ"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "እቲ ቀታሊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሽክም"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ሽክም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዶባኣ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ዶባኣ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ኣብ ተራር"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ግዛር"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ግዛር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዶባኣ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ዶባኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:38:09.687295176Z",
+  "model": "glm-5.3"
+}

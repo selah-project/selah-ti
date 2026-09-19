@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 11:35",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ነቲ ንጉሥነት ኻብ ኢድ ወዱ ወሲዶ እየ፣ ንዓኻ ከኣ ⟨את⟩ ዓሰርተ ኩዕላት ሃቢደ እየ።",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "ወሲዶ"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ነቲ ንጉሥነት"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ኻብ ኢድ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዱ"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "ሃቢዋ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንዓኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓሰርተ ኩዕላት"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "ኩዕላት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:00:31.427766575Z",
+  "model": "glm-5.3"
+}

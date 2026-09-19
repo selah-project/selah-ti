@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 80,
+  "translation": "ቅርንጫፋታ ክሳብ ባሕሪ ወፊና፣ ቐንዲሳታ ድማ ናብ እቲ ቈላት።",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "ወፊና"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "ቅርንጫፋታ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ንናብ"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ቈላት"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "ቐንዲሳታ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:38.803530139Z",
+  "model": "glm-5.3"
+}

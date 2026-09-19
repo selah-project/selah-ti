@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ስም ኤሎሂምና እንተ ዘንቀልናዮን፣ ኣእዳዊና ናብ ኤል ዝወጸዕ እንተ ኣበዘሓናዮን፣",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "ዘንቀልናዮን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "ኣበዘሓናዮን"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "ኣእዳዊና"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ናብ ኤል"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ዝወጸዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:27.736814170Z",
+  "model": "glm-5.3"
+}

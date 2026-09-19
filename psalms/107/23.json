@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ኣብ ኣንፈት ናብ ባሕሪ ዝወርዱ፣ ኣብ ብዙሕ ማይ ዝገብሩ ውዕዊ እዮም።",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "ዝወርዱ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ናብ ባሕሪ"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "ኣብ ኣንፈት"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ዝገብሩ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ውዕዊ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ኣብ ማይ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:24.063855483Z",
+  "model": "glm-5.3"
+}

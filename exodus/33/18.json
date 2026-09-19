@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ንሱ ድማ በለ፦ «በጃኻ ⟨את⟩ ክብሪኻ ኣርኣየኒ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ኣርኣየኒ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "በጃኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክብሪኻ"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "ክብሪኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:27:10.089304443Z",
+  "model": "glm-5.3"
+}

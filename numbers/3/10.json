@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ንኣሓሮንን ⟨את⟩ ንውላዱን ትቕጽር፤ ካህንነቶምን ⟨את⟩ ይጽበይዎ፤ ዝቐረበ ዘመዳዊ ድማ ይቕተል።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሓሮን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሓሮን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ውላዱ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ትቕጽር"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "ይጽበይዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ካህንነቶም"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "ካህንነቶም"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "ዘመዳዊ"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ዝቐረበ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይቕተል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:13:07.874629861Z",
+  "model": "glm-5.3"
+}

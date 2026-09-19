@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 10:29",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ሞሸ ድማ «ከምዚ ተዛረብካ፤ ገጽካ ክገጽረኒ ደገም ኣይውስኽን» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ተዛረብካ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ውስኽ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደገም"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "ክረኣየ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽካ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:15:45.599395509Z",
+  "model": "glm-5.3"
+}

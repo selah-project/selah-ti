@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 25:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ውላድ ሚድያን ድማ ዓይፋን፣ ዓፈርን፣ ሕኖኽን፣ ኣቢዳዕን፣ ኤልዳዕን፤ ኩሎም እዚኦም ውላድ ቐጥራ እዮም።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ሚድያን"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ዓይፋ"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ዓፈር"
+    },
+    {
+      "surface": "וחנך",
+      "gloss": "ሕኖኽ"
+    },
+    {
+      "surface": "ואבידע",
+      "gloss": "ኣቢዳዕ"
+    },
+    {
+      "surface": "ואלדעה",
+      "gloss": "ኤልዳዕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "ቐጥራ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:48:23.663834736Z",
+  "model": "glm-5.3"
+}

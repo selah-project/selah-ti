@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ሚጻል ድማ ⟨את⟩ ዳዊድ ብትሕቲ እቲ መስኮን ኣወረዶ፤ ንሱ ድማ ከደ፣ ሰዓረ፣ ንጸጋም ድማ ወጸ።",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "ኣወረዶ"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "ሚጻል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊድ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ብትሕቲ፣ ብድሕሪ"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "እቲ መስኮን"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ሰዓረ፣ ኣምልሐ"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ንጸጋም ወጸ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:10:34.756854645Z",
+  "model": "glm-5.3"
+}

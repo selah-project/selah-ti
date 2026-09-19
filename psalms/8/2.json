@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ያህዌህ ኣዶናይና፣ ከመይ ብዙሕ ዝተመስገነ ስምካ ኣብ ኩሉ ምድሪ፣ እቲ ዝቐረጸካ ክብሪኻ ኣብ ልዕሊ ሰማያት ዝሃብካዮ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "ኣዶናይና"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ከመይ"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ብዙሕ ዝተመስገነ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምካ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝቐረጸካ"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ዝሃብካዮ"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ክብሪኻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:43:13.888982108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ከምኡ ገበሮም፤ ካብ ኢድ ውላድ እስራኤል ⟨את⟩ ናውቖም፤ ኣይቐተልዎምን።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንኣቶም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "ናውቖም"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቶም"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "ቐተልዎም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:20:05.745540476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ድማ ⟨את⟩ ሓደ ካብ ተራ-ወፍቲ ወይ ካብ ውላድ እንቁብልቲ ክገብር፣ ከምቲ ኢዱ እትበትን እዩ።",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ድማ ክገብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓደ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "ተራ-ወፍቲ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "እንቁብልቲ"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "እትበትን"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:55:47.454563423Z",
+  "model": "glm-5.3"
+}

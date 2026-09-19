@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ያዕቆቭ ድማ ኤሎሂም ምስኡ ⟨את⟩ ኣብኡ እትተዛረቦ እቲ ቦታ ስም ቤት ኤል በለ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ሰይም በለ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስም እቲ ቦታ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "እቲ ቦታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ምስ ንሱ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T20:57:07.812115373Z",
+  "model": "glm-5.3"
+}

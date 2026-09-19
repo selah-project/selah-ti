@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ብፍጹም እታ ምድሪ ትባድድን ብፍጹም ትሓረብን፣ ምኽንያቱ ያህዌህ ⟨את⟩ ነቲ ቓል እዚ ተዛረቡ።",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "ብፍጹም ትባድድ"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "ትባድድ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እታ ምድሪ"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "እናትሓረብ ብፍጹም"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "ትሓረብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ቓል"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ነቲ ቓል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:58:41.531375235Z",
+  "model": "glm-5.3"
+}

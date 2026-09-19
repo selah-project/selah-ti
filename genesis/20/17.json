@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኣቭራሃም ናብ ኤሎሂም መለመነ፤ ኤሎሂም ድማ ⟨את⟩ ኣቢሜለኽን ⟨ואת⟩ ሰበይቱን ኣገልቲኡን ሓወዮ።",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "መለመነ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ናብ ኤሎሂም"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ሓወዮ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቢሜለኽ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ኣቢሜለኽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሰበይቱ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሰበይቱ"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "ኣገልቲኡ"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "ወሊዱ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:42:43.692139820Z",
+  "model": "glm-5.3"
+}

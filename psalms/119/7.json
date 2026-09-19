@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኣመስግነካ ብቐኒ ልቢ፣ ምስ ዝተማሃርኹ ፍርዲ ጽድቂኻ።",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ኣመስግነካ"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "ብቐኒ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "ምስ ዝተማሃርኹ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ፍርዲ"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ጽድቂኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:53.184475028Z",
+  "model": "glm-5.3"
+}

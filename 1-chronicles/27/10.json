@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 27:10",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "እቲ ሸውዓተይ ንእቲ ሸውዓተይ ወርሕ ሕለስ እቲ ፓሎናይ ካብ ውላድ ኤፍራይም እዩ ነይሩ፤ ኣብ መስመር ወገኑ ድማ ዓሰርተ ወን ኣርባዕተ ሽሕ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "השביעי",
+      "gloss": "እቲ ሸውዓተይ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ንእቲ ወርሕ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ሸውዓተይ"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ሕለስ"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "እቲ ፓሎናይ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ መስመር"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "ወገኑ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ወን ኣርባዕተ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሽሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:50:32.800421539Z",
+  "model": "glm-5.3"
+}

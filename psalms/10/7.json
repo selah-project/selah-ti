@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣፉ ብመዛረብን ብዝሓተትን ብተናጋርን ተመልአቱ እዩ፤ ትሕቲ ቀለይቱ ድማ ጕዳላን ኲናትን ተሓቢኡ እዩ።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "መዛረብ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ኣፉ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ተመልአቱ"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "ብዝሓተት"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "ብተናጋር"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "ቀለይቱ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ጕዳላ"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ኲናት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:59.992056865Z",
+  "model": "glm-5.3"
+}

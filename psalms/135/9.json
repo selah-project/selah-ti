@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 135,
+  "translation": "ኣምላትታትን ተኣምራትን ኣብ መንጎ ሚጽራይም ተላእኩ፣ ኣብ ፓርዖ ድማ ንኹሉ ኣገልጋሊኡ።",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ተላእኩ"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "ኣምላትታት"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "ተኣምራትን"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "ኣብ ፓርዖ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ድማ ንኹሉ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ኣገልጋሊኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:31.747954736Z",
+  "model": "glm-5.3"
+}

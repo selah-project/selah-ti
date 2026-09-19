@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ሰብ ብዓመጽ ኣይተሓልወን፤ ኩርባ ናይ ጻድቓን ግና ፈጺሙ ኣይተሓወሰን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ተሓልወ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "ብዓመጽ"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "ኩርባን"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ጻድቓን"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ፈጺሙ"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ተሓወሰ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:48:08.610935762Z",
+  "model": "glm-5.3"
+}

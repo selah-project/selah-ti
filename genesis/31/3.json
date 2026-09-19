@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ያህዌህ ድማ ናብ ያዕቆቭ ተዛረበ፦ «ናብ ምድሪ ኣቦትካን ናብ ቦታ ልደትካን ተመለስ፤ ኣነ ድማ ምስኻ እንተኾይኔ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ተመለስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "ኣቦትካ"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "ቦታ ልደትካ"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "እንተኾይኔ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:54:46.222440751Z",
+  "model": "glm-5.3"
+}

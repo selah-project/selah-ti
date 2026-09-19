@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኩሎም ካብ ሕጌትካ ዝጠፍኡ ጠሊእካዮም፣ ምኽንያቱ ኣብዓታቶም ⟨ሓሶት እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "ጠሊእካዮም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "ዝጠፍኡ"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "ካብ ሕጌትካ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "ኣብዓታቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:57.320079864Z",
+  "model": "glm-5.3"
+}

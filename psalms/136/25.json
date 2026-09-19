@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 136,
+  "translation": "ንኹሉ ስጋ እኽሊ ዝህብ እዩ፤ ሔሴዱ ናብ ዘለኣለም እዩ።",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ዝህብ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ስጋ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እዩ፤"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:23.997218065Z",
+  "model": "glm-5.3"
+}

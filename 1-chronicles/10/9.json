@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 10:9",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ነብሲምዎ፣ ርእሱን ⟨את⟩ መሳርሒቱን ⟨את⟩ ወሲዶም፣ ብምድሪ ፍልስጢም ሸነኽ ኩሉ ሰደዱ፣ ንጣላቶም ⟨את⟩ ነገርቲ ኣመልክቱ፣ ንህዝቢን ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "ויפשיטהו",
+      "gloss": "ነብሲምዎ"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ርእሱን"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ርእሱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መሳርሒቱን"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "መሳርሒቱን"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ሰደዱ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ብምድሪ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጢም"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ሸነኽ ኩሉ"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "ነገርቲ ንምስሓብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጣላቶም"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ጣላቶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ህዝቢን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:37:09.215374374Z",
+  "model": "glm-5.3"
+}

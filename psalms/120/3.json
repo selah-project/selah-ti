@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 120,
+  "translation": "እንታይ ኪሃበካ እዩ፣ ከምኡውን እንታይ ኪውስኸለካ፣ ኣወዳድባ ልሳን።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ኪሃበካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ከምኡውን እንታይ"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ኪውስኸለካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ልሳን"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ኣወዳድባ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:19.904625073Z",
+  "model": "glm-5.3"
+}

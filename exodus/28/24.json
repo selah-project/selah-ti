@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ድማ ⟨את⟩ እተኣ ክልተ ገመዳት ናይ እቲ ወርቂ ኣብ ልዕሊ እተኣ ክልተ ቁንያናት ናብ ዓንዲታት እቲ ጉርጓሜ ትቕምጥ።",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ትቕምጥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እተኣ ክልተ ገመዳት"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "ገመዳት"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ናይ እቲ ወርቂ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "እተኣ ቁንያናት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ዓንዲታት"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "እቲ ጉርጓሜ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:34:12.566308755Z",
+  "model": "glm-5.3"
+}

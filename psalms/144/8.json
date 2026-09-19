@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 144,
+  "translation": "ኣፋታቶም በደል ዝዛረብ፣ የማናቶም ድማ የማን ሓሶት እያ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ኣፋታቶም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝዛረብ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "በደል"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "የማናቶም"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "የማን"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሓሶት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:47.188924159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ቃልካ ብዙሕ ተጽራዒ ⟨እዩ⟩፤ ኣገልጋሊኻን ድማ ደልዩ።",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "ተጽራዒ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ቃልካ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "ኣገልጋሊኻን"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ደልዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:09.180245967Z",
+  "model": "glm-5.3"
+}

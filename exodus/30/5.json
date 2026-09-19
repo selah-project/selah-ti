@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ነቶም ኣባጽራት ብዕጨት ሽታ ትገብር፣ ⟨את⟩ ነቶም ኣባጽራት ብወርቂ ትሓብሶም።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ኣባጽራት"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ነቶም ኣባጽራት"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ዕጨት"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ሽታ"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ትሓብሶም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ኣባጽራት"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:35:00.405009818Z",
+  "model": "glm-5.3"
+}

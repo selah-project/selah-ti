@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 55,
+  "translation": "ልበይ ኣብ ውሽጠይ ይሰበር፣ ትርኽባት ሞት ድማ ኣብ ላዕለይ ወሪዱ።",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ይሰበር"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ኣብ ውሽጠይ"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "ትርኽባት ድማ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ወሪዱ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ላዕለይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:37.100527114Z",
+  "model": "glm-5.3"
+}

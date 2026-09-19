@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ነቲ ውላዳቱ እናበለ «ንኣይ ⟨את⟩ እቲ ኣጋዝ ስለይዎ» ተዛረበ፤ ንሳቶም ድማ ሰለይዎ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዳቱ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "ስለይዎ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ኣጋዝ"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "ኣጋዝ"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "ሰለይዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:58:51.183133428Z",
+  "model": "glm-5.3"
+}

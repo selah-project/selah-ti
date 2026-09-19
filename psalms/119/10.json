@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ብኩሉ ልበይ ደለይኩኻ፣ ካብ ትእዛዛትካ ኣይተሓዝኒን።",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ብኩሉ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "ደለይኩኻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "ተሓዝኒ"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "ካብ ትእዛዛትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:46.665280484Z",
+  "model": "glm-5.3"
+}

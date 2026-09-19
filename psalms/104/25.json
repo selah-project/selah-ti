@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "እዚ ባሕርቲ ዓቢን ንኢድታት ሰፊሕን እዩ፤ ኣብኡ እተመላለሳ እንስሳታት ዘይተባህለ ብዝሒ ኣለዋ — ንእሽተት እንስሳታት ምስ ዓባታት።",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕርቲ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ሰፊሕን"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ንኢድታት"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "እተመላለሳ እንስሳታት"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ዘይተባህለ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ብዝሒ"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "እንስሳታት"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "ንእሽተት"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ዓባታት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:22:10.562082379Z",
+  "model": "glm-5.3"
+}

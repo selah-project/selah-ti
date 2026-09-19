@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ተጓዓዝቲ ባዶ ጥምቃም ጠለኹ፤ ኣነ ድማ ኣብ ያህዌህ ኣመንኩ።",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "ጠለኹ"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "ተጓዓዝቲ"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "ናይ ባዶነት"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ጥምቃም"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ኣመንኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:52:19.388210455Z",
+  "model": "glm-5.3"
+}

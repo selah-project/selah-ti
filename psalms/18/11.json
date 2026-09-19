@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ኣብ ኩሩብ ተበጻሕዎ በረርዎ፣ ኣብ ክንፊ ንፋስ ድማ በረረ።",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "ተበጻሕዎ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "ኩሩብ"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "በረርዎ"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "በረረ ወሪዱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ክንፊ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ንፋስ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:03.815399105Z",
+  "model": "glm-5.3"
+}

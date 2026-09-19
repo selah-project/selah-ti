@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኣብኡ ድማ ⟨את⟩ ታቦት ዋሒጠ፣ ኣብኡ እትርከብ ኪዳን ያህዌህ ዝበዝሖ ምስ ውላድ እስራኤል።",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "ዋሒጠ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦት"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እት"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ እትርከብ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ዝበዝሖ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T07:55:57.737896702Z",
+  "model": "glm-5.3"
+}

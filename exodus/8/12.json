@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ያህዌህ ድማ ናብ ሞሸ በለ፦ «ናብ ኣሃሮን በለ፦ ነቲ ⟨את⟩ ኣምሓርካ ኣውራዕ፣ ⟨את⟩ እታ ኣፍሰ ምድሪ ምስ ወጸርካ፣ ኣብ መላእ ምድሪ ሚጽራይም ኮይኑ ክኸውን እዩ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ኣውራዕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣምሓርካ"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "ኣምሓርካ"
+    },
+    {
+      "surface": "והך",
+      "gloss": "ምስ ወጸርካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣፍሰ ምድሪ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ኣፍሰ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ክኸውን እዩ"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "ቁንንያት"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ መላእ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:16:25.035514396Z",
+  "model": "glm-5.3"
+}

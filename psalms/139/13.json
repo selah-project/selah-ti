@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 139,
+  "translation": "ምኽንያቱ ንስኻ ኩርያተይ ፈጠርካ፣ ኣብ ማሕፀን ኣደይ ሰፊንካኒ እወ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "ፈጠርካ"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ኩርያተይ"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "ሰፊንካኒ"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "ኣብ ማሕፀን"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ኣደይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:32.392915133Z",
+  "model": "glm-5.3"
+}

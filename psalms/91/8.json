@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 91,
+  "translation": "ብኣይንኻ ጥራይ ትረኣዮ፣ ኩነታት ክፉእ ሰባት ትረኣይ።",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ብኣይንኻ"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "ትረኣዮ"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "ኩነታት ናይ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉእ ሰባት"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ትረኣይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:42.944154647Z",
+  "model": "glm-5.3"
+}

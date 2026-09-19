@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "እንተ ተረባዕ ተረባዐ ካብኡ፣ ከም ምስክር የብዕዎ፤ እቲ ተረባዕቲ ኣይከፍልን።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ተረባዕ"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "ተረባዐ"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "የብዕዎ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ምስክር"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "እቲ ተረባዕቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ይከፍልን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:27:27.352618823Z",
+  "model": "glm-5.3"
+}

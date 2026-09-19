@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ዳዊድ ንሱን ተባዕታቱን ኣብ ጠዓሚ ናብ ምድሪ ፍልሻውያን ንምምላስ ኣብ ንግሆ ተበለዑ፤ ፍልሻውያን ድማ ናብ ይስረኤል ወጹ።",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ኣብ ንግሆ ተበለዑ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ተባዕታቱን"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ንምእታይ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ኣብ ጠዓሚ"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ንምምላስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልሻውያን"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ፍልሻውያን ድማ"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ወጹ"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "ይስረኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T00:16:34.060166828Z",
+  "model": "glm-5.3"
+}

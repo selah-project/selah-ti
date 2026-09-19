@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ሃማን ግን ዓቕቦ ዞሞ ናብ ዓዲ እኻዒ መጸ፣ ሰደቐ ድማ ኣእቲዑ ነቶም ውዕላቱን ⟨את⟩ ዘረሽ ሻዕበኡን።",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "ዓቕቦ ዞሞ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሃማን"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ዓዲ እኻዒ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደቐ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ኣእቲዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውዕላቱ"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "ውዕላቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዘረሽ"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "ዘረሽ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሻዕበኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:47:11.830861348Z",
+  "model": "glm-5.3"
+}

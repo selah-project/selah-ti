@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሰራዊቱን ብዝተቐመጡ ድማ ክልተን ሰለስተን ውሽጢ ሽሕን ኣርባዕተ ሽሕን እዮም።",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ሰራዊቱን"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ብዝተቐመጡ ድማ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ክልተን"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ሰለስተን"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ውሽጢ ሽሕን"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሽሕን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:12:02.617412115Z",
+  "model": "glm-5.3"
+}

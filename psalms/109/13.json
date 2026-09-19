@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "መወዳእታኡ ንምጥፋእ ኩን፤ ኣብ ትውልዊ ካልእ እቲ ስሞም ክጥፋእ።",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ኩን"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "መወዳእታኡ"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "ንምጥፋእ"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ኣብ ትውልዊ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ካልእ"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "ክጥፋእ"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ስሞም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:54.104250476Z",
+  "model": "glm-5.3"
+}

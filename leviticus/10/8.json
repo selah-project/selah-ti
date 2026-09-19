@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ያህዌህ ድማ ንኣሃሮን ተዛረበ ኢሉ፦",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:53:52.867565923Z",
+  "model": "glm-5.3"
+}

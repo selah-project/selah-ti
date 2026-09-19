@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ትራድ ኣቡኡ ይርግሞ፣ ኣደኡ ድማ ⟨את⟩ ኣይባርኾን።",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ትራድ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ይርግሞ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣደኡ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ኣደኡ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ባርኾ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:58:43.065738398Z",
+  "model": "glm-5.3"
+}

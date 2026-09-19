@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ተዓዚብኩም ክትገብሩ ከም እቲ ያህዌህ ኤሎሂምኩም ⟨אתכם⟩ ዝኣዘዞ፣ ናብ የማንን ናብ ጸጸርን ከይትምልኡ።",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ተዓዚብኩም"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ክትገብሩ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም እቲ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ዝኣዘዞ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ንንስኻትኩም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "ከይትምልኡ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "የማን"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "ጸጸርን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:48:26.333832962Z",
+  "model": "glm-5.3"
+}

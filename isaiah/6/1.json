@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኣብ ዓመት ሞት ንጉስ ዓዚያሁ ኣዶናይ ⟨את⟩ ተቐሚጡ ኣብ ልዕሊ ዙፋን ሎፍቲ ከምኡውን ዝተዓረፈ ረኣኹ፣ እሙኒሱ ድማ ⟨את⟩ እቲ ማሕደር ዝመልእ ነበረ።",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ኣብ ዓመት"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "ዓዚያሁ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ረኣኹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣዶናይ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ተቐሚጡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ዙፋን"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ሎፍቲ"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ከምኡውን ዝተዓረፈ"
+    },
+    {
+      "surface": "ושוליו",
+      "gloss": "እሙኒሱ"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "ዝመልእ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ማሕደር"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "እቲ ማሕደር"
+    }
+  ],
+  "timestamp": "2026-09-19T01:46:27.607926362Z",
+  "model": "glm-5.3"
+}

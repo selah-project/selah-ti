@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 19:26",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኣልማለኽን፣ ዓማዓድን፣ ምሻኣልን፤ ነቲ ኽርምል ናብ ባሕሪ በጺሑ፣ ነቲ ሽእኽሮር-ሊብናት ድማ በጺሑ።",
+  "tokens": [
+    {
+      "surface": "ואלמלך",
+      "gloss": "ኣልማለኽን"
+    },
+    {
+      "surface": "ועמעד",
+      "gloss": "ዓማዓድን"
+    },
+    {
+      "surface": "ומשאל",
+      "gloss": "ምሻኣልን"
+    },
+    {
+      "surface": "ופגע",
+      "gloss": "በጺሑ"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "ነቲ ኽርምል"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "ናብ ባሕሪ"
+    },
+    {
+      "surface": "ובשיחור",
+      "gloss": "ነቲ ሽእኽሮር"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "ሊብናት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:29:56.061299562Z",
+  "model": "glm-5.3"
+}

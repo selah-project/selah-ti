@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ንሱ ድማ «ናብ ንጉልባር» በለ፤ «ብቃልኻ ክኸውን፤ ያህዌህ ኤሎሂምና ዝመሳልኽ ከም ዘይኮነ ንበይኑ ክትፈልጥ» ድማ በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "ናብ ንጉልባር"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ብቃልኻ ክኸውን"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ንበይኑ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ክትፈልጥ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን ዝመሳልኽ"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "ከም ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    }
+  ],
+  "timestamp": "2026-09-18T21:16:57.352467057Z",
+  "model": "glm-5.3"
+}

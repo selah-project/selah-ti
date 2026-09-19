@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣዳም ድማ ደጋማ ⟨את⟩ ሰበይቱ ሓበየ፤ ንሳ ድማ ወዲ ወለደት፣ ⟨את⟩ ንስሙ ድማ ሸት በለቶ፤ «ኤሎሂም ንኣነ ኣብ ክንዲ ሔበል ካልእ ዘርኢ ሃቐኒ» ስለ ዝበለት፣ ምኽንያቱ ቅይን ቐተሎ።",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ሓበየ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ኣዳም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደጋማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰበይቱ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሰበይቱ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደት"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "በለቶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንስሙ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ንስሙ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ሸት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "«"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ሃቐ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘርኢ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ካልእ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ክንዲ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ሔበል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ቐተሎ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ቅይን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:29:49.543262965Z",
+  "model": "glm-5.3"
+}

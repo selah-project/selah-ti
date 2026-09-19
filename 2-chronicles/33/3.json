@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 33:3",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ደጊሙ ⟨את⟩ እቶም በማታት እቲ ኣቡኡ ካልዕ ዝነቐሎም ቐረጸ፣ ንባዓላት መሥወሕቲ ኣቐሚጡ፣ ኣሽራት ገበረ፣ ንኹሉ ጸባኦት ሰማያት ድማ ሰገደ፣ ነቶም እውን ⟨את⟩ ኣገለበጠ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ደጊሙ"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ቐረጸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም በማታት"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "በማታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "ዝነቐሎም"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ካልዕ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ኣቐሚጡ"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "መሥወሕቲ"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "ንባዓላት"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "אשרות",
+      "gloss": "ኣሽራት"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ሰገደ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "ኣገለበጠ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:18:40.296943493Z",
+  "model": "glm-5.3"
+}

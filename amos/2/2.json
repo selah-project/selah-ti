@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 2:2",
+  "book": "amos",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሓዊ ኣብ ሞኣብ ክልእክን ነቶም ቤት-መንግስታት ቀሪዮት ትብልኦን፤ ሞኣብ ኣብ ዕቡይ ቃል፣ ኣብ ቅጽለ ድምጺ ማንዳርካ ትሞት።",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ክልእክ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "במואב",
+      "gloss": "ኣብ ሞኣብ"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ትብልኦን"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "ቤት-መንግስታት"
+    },
+    {
+      "surface": "הקריות",
+      "gloss": "ቀሪዮት"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ትሞት"
+    },
+    {
+      "surface": "בשאון",
+      "gloss": "ኣብ ዕቡይ ቃል"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ኣብ ቅጽለ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ድምጺ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ማንዳርካ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:15:18.539768198Z",
+  "model": "glm-5.3"
+}

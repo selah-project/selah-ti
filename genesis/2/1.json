@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሰማያትን ምድርን ከምኡውን ኩሉ ሰራዊቶምን ተፈጸመ።",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "ተፈጸመ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያትን"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ሰራዊቶምን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:31:53.840457918Z",
+  "model": "glm-5.3"
+}

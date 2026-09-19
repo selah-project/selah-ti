@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ነቲ ዝበልዖ ድማ በደሑ ይስዕብ፣ እምኒ ⟨את⟩ ቅዱስ ያህዌህ ስለ ዝበረኸየ፣ እታ ነፍሲ ከኣ ካብ ህዝባ ክትቕረብ ኣላ።",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "ነቲ ዝበልዎ"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "በደሑ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ይስዕብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እምኒ ስለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅዱስ ያህዌህ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ዝበረኸየ"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ክትቕረብ ኣላ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "እታ ነፍሲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ከኣ"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "ካብ ህዝባ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:00:54.261393129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "ናብ ምሳሌ ኣዝኣማኡ እደንግጠለ ብቅንያር እውን ትርጉሜ ክፍትዎ እዩ።",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "እደንግጠለ"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "ናብ ምሳሌ"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "ኣዝኣማኡ"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ክፍትዎ እዩ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ብቅንያር"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "ትርጉሜ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:39.596715561Z",
+  "model": "glm-5.3"
+}

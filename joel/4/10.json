@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 4:10",
+  "book": "joel",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ነቶም ምስርትኹም ንሰይፋት ተቓትዑ፤ ነቶም መቕጢዕትኹም ንርማት ተቓትዑ፤ እቲ ሓዱሽ «ኣብርህ እየ» ይብል።",
+  "tokens": [
+    {
+      "surface": "כתו",
+      "gloss": "ተቓትዑ"
+    },
+    {
+      "surface": "אתיכם",
+      "gloss": "ምስርትኹም"
+    },
+    {
+      "surface": "לחרבות",
+      "gloss": "ንሰይፋት"
+    },
+    {
+      "surface": "ומזמרתיכם",
+      "gloss": "ወን መቕጢዕትኹም"
+    },
+    {
+      "surface": "לרמחים",
+      "gloss": "ንርማት"
+    },
+    {
+      "surface": "החלש",
+      "gloss": "እቲ ሓዱሽ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ይብል"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ኣብርህ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:12:39.893805556Z",
+  "model": "glm-5.3"
+}

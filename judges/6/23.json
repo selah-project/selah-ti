@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ያህዌህ ድማ ንሱ፦ «ሰላም ንዓኻ፤ ኣይትፍርሕ፣ ኣይትሞትን።» በሎ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንዓኻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ትፍርሕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ትሞትን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:38:46.679566287Z",
+  "model": "glm-5.3"
+}

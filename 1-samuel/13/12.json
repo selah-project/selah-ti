@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 13:12",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "እሞ «ፍልስጤማውያን ሕጂ ንኣነ ናብ ገልገል ይወርዱ እዮም፣ ገጽ ያህዌህ ኣይሰገደን፣ ደው ኢለ ስለ ዝበልኩ ነቲ ወፈያ ደቂቕ ኣወጸ።",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "እሞ ዝበልኩ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ይወርዱ እዮም"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤማውያን"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ናብ ገልገል"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "ሰገደን"
+    },
+    {
+      "surface": "ואתאפק",
+      "gloss": "ደው ኢለ"
+    },
+    {
+      "surface": "ואעלה",
+      "gloss": "ኣወጸ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ነቲ ወፈያ ደቂቕ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:01:53.218907522Z",
+  "model": "glm-5.3"
+}

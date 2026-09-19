@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 1:9",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ከምኡ ድማ ንኤልያሁ ሓደ መኮናን ሓሙሽተ ምስ ሓሙሽትኡ ሰደደ፤ እቲ ድማ ናብኡ ወጸ፤ ኣረኣእያ፣ ንሱ ኣብ ርእሲ ⟨እቲ⟩ ከተማ ተቐመጠ፤ ነቲ ድማ ተዛረቦ፦ «ሰብ ኤሎሂም፣ እቲ ንጉስ በለ፦ ወርድ።»",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንኤልያሁ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "መኮናን"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "וחמשיו",
+      "gloss": "ምስ ሓሙሽትኡ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ናብኡ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣረኣእያ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "እቲ ከተማ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረቦ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "ወርድ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:13:40.566136753Z",
+  "model": "glm-5.3"
+}

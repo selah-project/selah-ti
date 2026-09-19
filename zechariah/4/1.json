@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 4:1",
+  "book": "zechariah",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "እቲ ምስ ኣነ ዝዛረበ ⟨እቲ⟩ መልኣኽ ደገመ፣ ከም ሰብ ካብ ድቃሱ እናተንቐሐ ኣነቓዕኒ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ደገመ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "መልኣኽ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ዝዛረበ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ምስ ኣነ"
+    },
+    {
+      "surface": "ויעירני",
+      "gloss": "ኣነቓዕኒ"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ከም ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "ዝተንቐሐ"
+    },
+    {
+      "surface": "משנתו",
+      "gloss": "ካብ ድቃሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:35:22.726665268Z",
+  "model": "glm-5.3"
+}

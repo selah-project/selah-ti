@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 2:17",
+  "book": "ruth",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣብ ሽንቐርቲ ክሳብ ምሸት ተላቕጠት፣ ⟨את⟩ ዝለቐጠትሉ ድማ ደቐረት፣ እቲ ዝርካሥ ድማ ከም ሓደ ኣይፋ ገብሳ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ותלקט",
+      "gloss": "ተላቕጠት"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ኣብ ሽንቐርቲ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ምሸት"
+    },
+    {
+      "surface": "ותחבט",
+      "gloss": "ደቐረት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝለቐጠትሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "ለቐጠትሉ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "כאיפה",
+      "gloss": "ከም ሓደ ኣይፋ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ገብሳ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:06:57.586562503Z",
+  "model": "glm-5.3"
+}

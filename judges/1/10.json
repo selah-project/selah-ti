@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ይሁዳ ድማ ኣብ ሕብሮን ዝነብር ከነዓይ ከደ፤ (ስም ሕብሮን ቅድሚ ሕጂ ቅርያት ኣርባዕ ነይሩ)፤ ⟨את⟩ ሸሸይን ⟨ואת⟩ ኣሕማንን ⟨ואת⟩ ተልማይን ሓንቐፉ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ከነዓይ"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "ዝነብር"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "ኣብ ሕብሮን"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ሕብሮን"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ቅድሚ ሕጂ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ቅርያት"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ኣርባዕ"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ሓንቐፉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሸሸይ"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "ሸሸይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ኣሕማን"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "ኣሕማን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ተልማይ"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "ተልማይ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:33:11.572680911Z",
+  "model": "glm-5.3"
+}

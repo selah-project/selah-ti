@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 10:11",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣብ ዝኾነ፣ ኣብ ካልኣይ ዓመት፣ ኣብ ካልኣይ ወርሕ፣ ኣብ ዓሰርተ ቐዳማት ወርሕ እቲ ደመና ካብ ማሕደር እቲ ምስክርታ ወጸ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኣብ ዝኾነ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ኣብ ዓመት"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ካልኣይ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ኣብ ወርሕ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ካልኣይ"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "ዓሰርተ ቐዳማት"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ወርሕ እቲ"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "እቲ ደመና"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "እቲ ምስክርታ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:19:11.504643426Z",
+  "model": "glm-5.3"
+}

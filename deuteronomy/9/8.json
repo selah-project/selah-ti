@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣብ ሕወርብ እውን ⟨את⟩ ያህዌህ ተጣዒእኩምዎ፤ ያህዌህ ድማ ብዓኻትኩም ተቐጸለ ንምጥፋእኩም።",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "ኣብ ሕወርብ እውን"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "ተጣዒእኩምዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "ተቐጸለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ብዓኻትኩም"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "ንምጥፋእኩም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንዓኻትኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:53:30.200673892Z",
+  "model": "glm-5.3"
+}

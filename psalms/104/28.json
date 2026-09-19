@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "ትህቦም ድማ ይሰብስቡ፤ ኢድኻ እትኽፈት ድማ ብበጃ ይምላኡ።",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "ትህብ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንኣኾም"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "ይሰብስቡ"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "እትኽፈት"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድኻ"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "ይምላኡ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "በጃ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:22:10.562920473Z",
+  "model": "glm-5.3"
+}

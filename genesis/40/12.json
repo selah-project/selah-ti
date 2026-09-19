@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ዮሴፍ ድማ ነበለዎ፦ «እዚ ትርጓማኡ ⟨እዩ⟩፦ እቶም ሰለስተ ቅርንጫት ሰለስተ መዓልታት እዮም።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ነበለዎ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "ትርጓማኡ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "እቶም ቅርንጫት"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እዮም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:00:04.059046028Z",
+  "model": "glm-5.3"
+}

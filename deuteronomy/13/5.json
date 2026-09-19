@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኣብ ድሕሪ ያህዌህ ኤሎሂምኩም ትከዱ፣ ⟨את⟩ ንያህዌህ ትፈርርዎ፣ ⟨את⟩ ትእዛዳቱን ትሓልዎ፣ ኣብ ቃሉ ትሰምዑ፣ ⟨את⟩ ንያህዌህ ትገብርዎ፣ ብያህዌህ ክትጽንሑ ኢኹም።",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "ኣብ ድሕሪ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ትከዱ"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንያህዌህ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ትፈርርዎ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዳቱን"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ትእዛዳቱ"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ትሓልዎ"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "ኣብ ቃሉ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ትሰምዑ"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንያህዌህ"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "ትገብርዎ"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "ብያህዌህ"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "ትጽንሑ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:58:42.727565912Z",
+  "model": "glm-5.3"
+}

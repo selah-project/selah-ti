@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 5:10",
+  "book": "micah",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ከተራት ምድሪኻ እናሓጸር እየ፣ ኩሉ ምሕባራትኻ እውን እናሓደግን እየ።",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "እናሓጸር"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ከተራት"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ምድሪኻ"
+    },
+    {
+      "surface": "והרסתי",
+      "gloss": "እናሓደግ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "ምሕባራትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:20:53.779505544Z",
+  "model": "glm-5.3"
+}

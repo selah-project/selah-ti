@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 24:13",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ሞሸ ድማ ተኣሰረ፣ ኣገልጋሉ የሆሹዋዕ እውን፤ ሞሸ ድማ ናብ ተራራ ኤሎሂም ወጸ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተኣሰረ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "ኣገልጋሉ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራራ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:27:03.957864208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ከም ኣንተታ ኣብ ተሸፈኑ ኣብ መሸለቲ ሓሚቑ፡ ንኽሓትፍ ድኹም ሓሚቑ፡ ድኹምን ኣብ ዝስሕቦ ኣብ መርበቡን ይሓትፍ።",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "ሓሚቑ"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "ኣብ መሸለቲ"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "ከም ኣንተታ"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "ኣብ ተሸፈኑ"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "ሓሚቑ"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "ንኽሓትፍ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ድኹም"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "ይሓትፍ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ድኹምን"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "ኣብ ዝስሕቦ"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "ኣብ መርበቡን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:41.700378741Z",
+  "model": "glm-5.3"
+}

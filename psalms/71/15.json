@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 71,
+  "translation": "ኣፈይ ጽድቂኻ ይኽብር፣ ኩሉ መዓልቲ መድሕንኻ እዩ፤ ምኽንያቱ እውን ቁጽራቱ ኣይፈልጥን።",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ኣፈይ"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ይኽብር"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ጽድቂኻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "መድሕንኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ኣይፈልጥን"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "ቁጽራቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:53.477645065Z",
+  "model": "glm-5.3"
+}

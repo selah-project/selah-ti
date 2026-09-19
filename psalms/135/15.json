@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 135,
+  "translation": "ኣማልኽቲ ኣህዛብ ጠረቕን ወርቂን እዮም፣ እቲ ስራሕ ኢዳት ሰብ።",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "ኣማልኽቲ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ጠረቕን"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ወርቂን"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ስራሕ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ኢዳት"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:40.608925608Z",
+  "model": "glm-5.3"
+}

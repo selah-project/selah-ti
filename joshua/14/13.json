@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "የሆሹዋዕ ድማ ባረኾ፤ ንኽልዕብ ወዲ ይፉኔ ⟨את⟩ ሕብሮን ብውርሻ ሃቦ።",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "ባረኾ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕብሮን"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ሕብሮኟ... "
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ንኽልዕብ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ይፉኔ"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ብውርሻ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:24:16.849554943Z",
+  "model": "glm-5.3"
+}

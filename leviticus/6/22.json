@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኩሉ ተባዕታይ ኣብ ካህናት ⟨את⟩ ክብላኣ ይኽእል፤ ቅዱስ ቅዱሳት ⟨እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ተባዕታይ"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "ኣብ ካህናት"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይብላኣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ወፈያ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:47:59.691547935Z",
+  "model": "glm-5.3"
+}

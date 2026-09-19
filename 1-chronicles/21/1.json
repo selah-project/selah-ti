@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ሳጥን ድማ ኣብ ይስራኤል ንላዕሊ ቆሙ፣ ⟨את⟩ ዳዊድ ድማ ንኸቆጽር ⟨את⟩ ይስራኤል ኣኽዱ።",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ቆሙ"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "ሳጥን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "ኣኽደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊድ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "ንኸቆጽር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T07:45:36.380783304Z",
+  "model": "glm-5.3"
+}

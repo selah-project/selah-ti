@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 8:20",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ያህዌህ ድማ ⟨את⟩ ቃሉ ዝዛረቦ ኣንበቶ፤ ኣነ ድማ ኣብ ቦታ ዳዊድ ኣቦይ ተኣሚነ፣ ከም ዝበሎ ያህዌህ፣ ኣብ ዙፋን ይስራኤል ተቐመጥኩ፣ እቲ ቤት ንስም ያህዌህ ኤሎሂም ይስራኤል ድማ በንኩ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ኣንበቶ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃሉ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ቃሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝዛረቦ"
+    },
+    {
+      "surface": "ואקם",
+      "gloss": "ተኣሚነ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ቦታ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦይ"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "ተቐመጥኩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ዙፋን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝበሎ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "በንኩ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "እቲ ቤት"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ንስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T00:55:41.962504276Z",
+  "model": "glm-5.3"
+}

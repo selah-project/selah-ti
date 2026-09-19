@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "⟨ኣሳ⟩ ድማ ⟨את⟩ ቅዱሳት ናይ ኣቦኡን ቅዱሳቱን ናብ ቤት ያህዌህ ኣእተወ፣ ጸሊምን ወርቂን መሳብብቲን።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ኣእተወ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅዱሳት ናይ ኣቦኡን ቅዱሳቱን"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ቅዱሳት ናይ ኣቦኡ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "ቅዱሳቱን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ጸሊም"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ወርቂን"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "መሳብብቲን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:03:58.968149432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 80,
+  "translation": "ገፍና ካብ ሚጽራይም ኣውጺእካ፣ ኣሕዋት ኣባሪርካ፣ ነታ ተበኢትኻ።",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "ገፍና"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ካብ ሚጽራይም"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "ኣውጺእካ"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "ኣባሪርካ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ኣሕዋት"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "ተበኢትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:38.802788504Z",
+  "model": "glm-5.3"
+}

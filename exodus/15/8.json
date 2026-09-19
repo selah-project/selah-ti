@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 15:8",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ድማ ብመንፈስ ኣፍኻ ማይ ተረኣብዮም፤ እቶም ዝፈስሑ ከም ናይ ወድቒ ተቐምጡ፤ ጥልሒታት ኣብ ልቢ ባሕሪ ተቐዘሩ።",
+  "tokens": [
+    {
+      "surface": "וברוח",
+      "gloss": "ድማ ብመንፈስ"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "ኣፍኻ"
+    },
+    {
+      "surface": "נערמו",
+      "gloss": "ተረኣብዮም"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "נצבו",
+      "gloss": "ተቐምጡ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "נד",
+      "gloss": "ናይ ወድቒ"
+    },
+    {
+      "surface": "נזלים",
+      "gloss": "ዝፈስሑ"
+    },
+    {
+      "surface": "קפאו",
+      "gloss": "ተቐዘሩ"
+    },
+    {
+      "surface": "תהמת",
+      "gloss": "ጥልሒታት"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ኣብ ልቢ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:20:39.534019342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ቅዱሳተይ ኣሕተውን፣ ትኹላተይ ድማ ⟨את⟩ ሻባታተይ ሓንከሰን።",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "ቅዱሳተይ"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "ኣሕተውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሻባታተይ"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "ሻባታተይ"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "ሓንከሰን"
+    }
+  ],
+  "timestamp": "2026-09-19T03:35:34.492496324Z",
+  "model": "glm-5.3"
+}

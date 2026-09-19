@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣብ ቀዳማይ ተበገሱ፣ እቲ ጸሓይ ድማ ኣብ እቲ ማይ ምስ ወጸት ሞኣብ ካብ ቀንዲ ⟨את⟩ እቲ ማይ ከም ደም ቀይሕ ረኣዩ።",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "ተበገሱ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ኣብ ቀዳማይ"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "እቲ ጸሓይ"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "ወጸት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "እቲ ማይ"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ረኣዩ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ካብ ቀንዲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ማይ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "እቲ ማይ"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "ቀይሓት"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "ከም ደም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:15:44.771005253Z",
+  "model": "glm-5.3"
+}

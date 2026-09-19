@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 92,
+  "translation": "ምኽንያቱ ኣረኣእያ ኣበይትካ፣ ያህዌህ፤ ምኽንያቱ ኣረኣእያ ኣበይትካ ይጠፍኡ እዮም፤ ኩሉ ውለታት ኲናት ድማ ይፍንጨሩ እዮም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ኣረኣእያ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ኣበይትካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ኣረኣእያ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ኣበይትካ"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ይጠፍኡ"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "ይፍንጨሩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ውለታት"
+    },
+    {
+      "surface": "און",
+      "gloss": "ኲናት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:33.773283141Z",
+  "model": "glm-5.3"
+}

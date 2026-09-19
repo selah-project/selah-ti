@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኤሎሃይ፣ ብቀትሪ እደው ኣይተረድእን፣ ብለይቲ ድማ ድሽነት የብለይን።",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሃይ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "እደው"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ብቀትሪ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይተረድእን"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ኣይተረድእን"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ብለይቲ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "የብለይን"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ድሽነት"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ኣባኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:11.334986515Z",
+  "model": "glm-5.3"
+}

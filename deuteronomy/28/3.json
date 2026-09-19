@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ተባርኽቲ ንስኻ ኣብ ከተማ፣ ተባርኽቲ ንስኻ ኣብ መስከርቢ እውን።",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ተባርኽቲ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ኣብ ከተማ"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ተባርኽቲ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ኣብ መስከርቢ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:08:26.671446619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 25:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ነፍሲኡ ኣብ በጃ ተቐመጣ፣ ዘርኡ ድማ ነቲ ምድሪ ይወርስ።",
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሲኡ"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ኣብ በጃ"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "ተቐመጣ"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ዘርኡ ድማ"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "ይወርስ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ነቲ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:33.374366513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ኣብ ክንፈት ኤፑዳ ኣቢሎም ኣቐምጦም፣ ከም ኣኽሊል ማሕደር ንውላድ እስራኤል፣ ከምቲ ያህዌህ ⟨את⟩ ሞሸ ዝኣዘዞ እዩ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ኣቐምጦም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ኣኽሊል"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "ክንፈት"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ኤፑዳ"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ኣኽሊል"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ዝኣዘዞ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:45:08.023588565Z",
+  "model": "glm-5.3"
+}

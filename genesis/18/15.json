@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ሰራ ድማ «ዘይተሓቐኹን» እናትብል ኣኽያ፣ ስለ ዝበደረት። ንሱ ድማ «ኣይኮነን፣ ተሓቐኽካ እዩ» በለ።",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "ኣኽያ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ሰራ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናትብል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይ…ን"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "ዘተሓቐኹን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ዝበደረት"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ኣብ ክንዲ"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "ተሓቐኽካ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:25:12.825048684Z",
+  "model": "glm-5.3"
+}

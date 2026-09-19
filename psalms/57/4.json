@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 57,
+  "translation": "⟨ኤሎሂም⟩ ካብ ሰማይ ይልእክን የድሕነኒ፤ ነቲ ዝነፍስ ኣብ ድሕሪይ ዝገሃሮ ይኹርፎ። ስላህ። ኤሎሂም ሔሴዱን ሓቂኡን ይልእክ።",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ይልእክ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ካብ ሰማይ"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "የድሕነኒ"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ዝገሃሮ"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "ዝነፍስ ኣብ ድሕሪይ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስላህ"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ይልእክ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "ሓቂኡን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:09.764972895Z",
+  "model": "glm-5.3"
+}

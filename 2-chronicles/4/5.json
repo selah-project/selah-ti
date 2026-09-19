@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 4:5",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ወድቡ ሓደ ጠፍሒ ኢድ ነይሩ፣ ጭፍሪኡ ድማ ከም ገጽያ ጭፍሪ ኩስ ከም ፍሉጽ ዛፉሪ ተገበረ፤ ባታት ሰለስተ ሽሕ ይሓዝ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ועביו",
+      "gloss": "ወድቡ"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "ጠፍሒ ኢድ"
+    },
+    {
+      "surface": "ושפתו",
+      "gloss": "ጭፍሪኡ"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ከም ዝተገበረ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ጭፍሪ"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "ኩስ"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "ፍሉጽ"
+    },
+    {
+      "surface": "שושנה",
+      "gloss": "ዛፉሪ"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "ዝሓዝ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ባታት"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "יכיל",
+      "gloss": "ይሓዝ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:55:13.631559696Z",
+  "model": "glm-5.3"
+}

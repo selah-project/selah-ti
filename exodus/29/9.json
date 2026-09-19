@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 29:9",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ድማ ንኣሕሮንን ንውላዱቱምን ⟨את⟩ ማእዘን ሓጐድካ፣ ኮፍያ ድማ ነኦም ተኣምርካ፤ ካህንነት ናይ ዘለኣለም ሕጊ ኮይና ነኦም ትኸውን፣ ኢድ ኣሕሮንን ኢድ ውላዱቱምንውን ተኣዊጅካ።",
+  "tokens": [
+    {
+      "surface": "וחגרת",
+      "gloss": "ሓጐድካ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ማእዘን"
+    },
+    {
+      "surface": "אבנט",
+      "gloss": "ማእዘን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሕሮን"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ውላዱቱምን"
+    },
+    {
+      "surface": "וחבשת",
+      "gloss": "ተኣምርካ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ነኦም"
+    },
+    {
+      "surface": "מגבעת",
+      "gloss": "ኮፍያ"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ትኸውን"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ነኦም"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "ካህንነት"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "ናይ ሕጊ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    },
+    {
+      "surface": "ומלאת",
+      "gloss": "ተኣዊጅካ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሕሮን"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ኢድን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱቱም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:34:45.933684902Z",
+  "model": "glm-5.3"
+}

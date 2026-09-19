@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ዳዊድ ሰምዐ፡ ⟨את⟩ ዮኣብን ⟨את⟩ ምሉእ ሰራዊት እቶም ሓያላትን ሰደደ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮኣብ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮኣብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምሉእ ሰራዊት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ምሉእ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "እቶም ሓያላት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:46:39.788044029Z",
+  "model": "glm-5.3"
+}

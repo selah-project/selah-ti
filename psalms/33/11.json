@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ምክሪ ያህዌህ ናብ ዘለኣለም ትቐመጥ፣ ሓሳባት ልቡ ናብ ትውልዂን ትውልዂን ይጸንሓ።",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "ምክሪ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ትቐመጥ"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ሓሳባት"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ናብ ትውልዂን"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ትውልዂን"
+    }
+  ],
+  "timestamp": "2026-09-19T09:01:32.252978945Z",
+  "model": "glm-5.3"
+}

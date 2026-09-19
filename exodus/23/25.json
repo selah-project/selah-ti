@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ያህዌህ ኤሎሂምኩም ⟨את⟩ ተቐቢልኩም፣ ⟨את⟩ እኽሊኻን ⟨את⟩ ማይኻን ይባርኽ፣ ሕማምን ካብ ማእከልኻን እናወግደ እየ።",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "ተቐቢልኩም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ይባርኽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እኽሊኻ"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "እኽሊኻ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ማይኻ"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "ማይኻ"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "እናወግደ"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "ሕማም"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "ካብ ማእከልኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:29:51.619286643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "גורל ኣብ ሕፅሮ ይተባእት፡ ንሱ ድማ ኩሉ ፍርዲ ናብያ ካብ ያህዌህ እዩ።",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "ኣብ ሕፅሮ"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "ይተባእት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ቈልቕላ (እቲ ምልክት ዝተዋሕበሉ)"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "እቲ ቈልቕላ"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ካብ ያህዌህ ድማ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "ፍርዲ ናብያ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:48:35.983343451Z",
+  "model": "glm-5.3"
+}

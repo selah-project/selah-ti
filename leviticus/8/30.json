@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 8:30",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ሞሸ ድማ ካብ ቅታል ምስቓልን ካብቲ ኣብ መስዋእቲ ዝነበረ ደምን ወሲዱ ኣብ ኣሃሮን፣ ኣብ ልብስታቱን ኣብ ውላዱቱን ኣብ ልብስቲ ውላዱቱን ምስ ንሱ ረጨሖ፤ ንኣሃሮንን ⟨את⟩ ልብስታቱን ⟨את⟩ ውላዱቱን ⟨את⟩ ልብስቲ ውላዱቱን ምስ ንሱ ቀደሰ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ካብ ቅታል ምስቓል"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ናይ ምስቓል"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "እቲ ደም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝነበረ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መስዋእቲ"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "ረጨሖ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ልብስታቱ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱቱ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ልብስቲ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱቱ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ምስ ⟨את⟩"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ቀደሰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሃሮን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልብስታቱ"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ልብስታቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ውላዱቱ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ልብስቲ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ልብስቲ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱቱ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ምስ ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-18T21:52:52.618794101Z",
+  "model": "glm-5.3"
+}

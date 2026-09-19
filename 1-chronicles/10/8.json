@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣብ መዓልቲ መጋገሚኡ ፍልስጤማውያን ንምንጻሕ ⟨את⟩ ልሙታት ኮይኖም መጹ፣ ኣብ ተራራ ጊልቦዓ ዝወደቑ ⟨את⟩ ሻኡልን ⟨ואת⟩ ውላዱን ረኺቦም።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ኣብ መዓልቲ መጋገሚኡ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "መጹ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤማውያን"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "ንምንጻሕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልሙታት"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "እቶም ልሙታት"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ረኺቦም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሻኡል"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ውላዱ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "ዝወደቑ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ኣብ ተራራ"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "ጊልቦዓ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:38:18.098116236Z",
+  "model": "glm-5.3"
+}

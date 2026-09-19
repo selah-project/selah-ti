@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ወዲ ደቅር፣ ኣብ ማቅዥን ኣብ ሻዕልቢምን ኣብ ቤት-ሸመሽን፣ ከምኡውን ኤሎን ቤት-ሕናን።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "ደቅር"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "ኣብ ማቅዥ"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "ኣብ ሻዕልቢምን"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ኣብ ቤትን"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ሸመሽ"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "ኤሎንን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ሕናን"
+    }
+  ],
+  "timestamp": "2026-09-19T00:45:07.670109396Z",
+  "model": "glm-5.3"
+}

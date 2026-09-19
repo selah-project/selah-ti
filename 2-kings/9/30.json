@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 9:30",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "የሁኣ ድማ ናብ ይዝረዐል ከደ፤ ኢዝበል ድማ ሰምዐት፤ ብፉኽ ኣዐይና ዓቐደት፣ ⟨את⟩ ርእሳ ሓጸበት፣ እሞ ብቐርበት እቲ መስኮት ደለበት።",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "የሁኣ"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "ናብ ይዝረዐል"
+    },
+    {
+      "surface": "ואיזבל",
+      "gloss": "ኢዝበል ድማ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ሰምዐት"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "ዓቐደት"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "ብፉኽ"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "ኣዐይና"
+    },
+    {
+      "surface": "ותיטב",
+      "gloss": "ሓጸበት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ርእሳ"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "ርእሳ"
+    },
+    {
+      "surface": "ותשקף",
+      "gloss": "ደለበት"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ብቐርበት"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "እቲ መስኮት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:20:24.668714744Z",
+  "model": "glm-5.3"
+}

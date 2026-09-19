@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "ኣብ ክንዲ ፍቕርይ ተቓለሱኒ፤ ኣነ ድማ ጸሎት እየ።",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ክንዲ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ፍቕርይ"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "ተቓለሱኒ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ጸሎት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:10.592512248Z",
+  "model": "glm-5.3"
+}

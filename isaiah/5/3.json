@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣብዚ ሕጂ ኣተዋላዒ የሩሻላይምን ሰባት ይሁዳን፣ ብመንጎኒን ብመንጎ ወይናይን ኣቱ ፈርድዎ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ኣብዚ ሕጂ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ኣተዋላዒ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "ፈርድዎ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ኣቱ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ብመንጎኒ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ብመንጎ"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "ወይናይ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:46:32.941038340Z",
+  "model": "glm-5.3"
+}

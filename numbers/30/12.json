@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 30:12",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ሰብኣ ክኣ ሰምዑ፣ ዝም ብምባልላ እንተ ተጸበየ፣ ⟨את⟩ ኣኺ እንተ ዘይኣግዲሉዋ፣ ኩሎም ቃላት ኪዳንኣ ይቕመጡ፣ ኩሉ ድማ ኣገዳሲ እታ ኣብ ነፍሳ ዝተኣሰረት ይቕመጥ።",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "ሰምዑ"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ሰብኣ"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "ዝም በለ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ንኣታ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይ"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "ኣግዲሉዋ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ኣኺ"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "ይቕመጡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "ቃላት ኪዳንኣ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "ኣገዳሲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ዝተኣሰረት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "ነፍሳ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ይቕመጥ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:40:19.771319054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "«ስምዑ ሕዝቢይ፣ ኣነ ኽተዛረብ እየ፤ እስራኤል፣ ኣብ ልዕልካ ኽኣትውን እየ፤ ኤሎሂም፣ ኤሎሂምካ ኣነ እየ።»",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "ስምዑ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቢይ"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ኽተዛረብ እየ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ኽኣትውን እየ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣብ ልዕልካ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:06.919243200Z",
+  "model": "glm-5.3"
+}

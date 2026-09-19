@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 85,
+  "translation": "ያህዌህ ሔሴድኻ ርኣየና፣ ትሕኤትኻ ድማ ሃበና።",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "ርኣየና"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሔሴድኻ"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "ትሕኤትኻን"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ሃበና"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:25.232071861Z",
+  "model": "glm-5.3"
+}

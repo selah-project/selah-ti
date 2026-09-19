@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ውላድ እስራኤል ድማ ኣብ ግልገል ሰፈሩ፣ ⟨את⟩ ፋሲካ ኣብ ዓሰርተ ኣርባዕተ መዓልቲ ወርሒ ኣብ ምስጢ ኣብ ዑዳታት የሪኮ ኸውን ኣድረዮም።",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "ሰፈሩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "ኣብ ግልገል"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ኣድረዮም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፋሲካ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ፋሲካ"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ወርሒ"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ኣብ ምስጢ"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "ኣብ ዑዳታት"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "የሪኮ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:15:32.241538272Z",
+  "model": "glm-5.3"
+}

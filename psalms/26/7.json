@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ቓል ምስጋና ንምስማዕ፣ ብዙሕ ተኣምራትኻን ንምዝርዝር።",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "ንምስማዕ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ብቓል"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ምስጋና"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "ንምዝርዝር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ተኣምራትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:49.288388265Z",
+  "model": "glm-5.3"
+}

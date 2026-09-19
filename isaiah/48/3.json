@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 48:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "እተን ቀዳማይ ነገራት ካብ ቀደም ሓበርኩ፡ ካብ ኣፍይ ወጹ፡ ድማ ሰሚዖሎም፡ ብስዑት ገበርኩ፡ ነገራት ድማ መጻእዮም።",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "እተን ቀዳማይ ነገራት"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ካብ ቀደም"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ሓበርኩ"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "ካብ ኣፍይ"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ወጹ"
+    },
+    {
+      "surface": "ואשמיעם",
+      "gloss": "ሰሚዖሎም"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ብስዑት"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ገበርኩ"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "መጻእዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:12:59.558969094Z",
+  "model": "glm-5.3"
+}

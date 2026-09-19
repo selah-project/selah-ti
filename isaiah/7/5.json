@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 7:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ስለ ዝሓሰቡ ኣብ ላዕልኻ ክፉእ ምክር ኣርምን ኤፍራይምን ወዲ ረማልያሁን፣ እናበሉ፦",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "ሓሰቡ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ኣብ ላዕልኻ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣርም"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ወዲ…ን"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "ረማልያሁ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:43:50.092953033Z",
+  "model": "glm-5.3"
+}

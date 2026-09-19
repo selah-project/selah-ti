@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "እቲ ብሃብታም ኣይብዝሕን፣ እቲ ድኽነታም ከኣ ካብ ግማዊ ሽቕል ኣይንእሽን፣ ንምሃብ ⟨את⟩ ቍርባን ያህዌህ፣ ንምሕጻን ነፍሲኩም።",
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "እቲ ብሃብታም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ይብዝሕ"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "እቲ ድኽነታም ከኣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "ይንእሽ"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "ካብ ግማዊ"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "ሽቕል"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ንምሃብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቍርባን ያህዌህ"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "ቍርባን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ንምሕጻን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ነፍሲኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:36:49.780416875Z",
+  "model": "glm-5.3"
+}

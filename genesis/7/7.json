@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኖኅ ድማ፣ ውላዱን ሰበይቱን ሰበይቲ ውላዱን ምሲኡ ናብ ⟨እታ⟩ ታቦት ኣተዩ፣ ብምኽንያት ማይ ናይ ⟨እቲ⟩ ሙሉት።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ኣተዩ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖኅ ድማ"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ውላዱን"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ሰበይቱን"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ሰበይቲ ውላዱን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ምሲኡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ብምኽንያት"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ሙሉት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:34:24.518801469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 20:20",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኣነ ድማ ናብ ጐኑ ሰለስተ ሳሕቲ ከም ካብ ዝዕቡድ ንኣነ ክስዕበለይ ክደልዮ እየ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "ሳሕቲ"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "ናብ ጐኑ"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "ክደልዮ"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ክስዕበለይ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "ከም ናብ ዕቡድ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:11:13.963954470Z",
+  "model": "glm-5.3"
+}

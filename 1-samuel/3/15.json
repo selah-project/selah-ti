@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ሽሞኤል ኰይኑ ተኪሉ ክሳብ ብሌዓቲ ተኺሉ፥ ⟨את⟩ ኩርያት ቤት ያህዌህ ኽፈተ። ሽሞኤል ድማ ነቲ ⟨את⟩ ራእይ ንዔሊ ክነግር ይሕዝን ነይሩ።",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ተኪሉ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሽሞኤል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ብሌዓቲ"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ኽፈተ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩርያት"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ኩርያት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "ሽሞኤል ድማ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ይሕዝን"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "ክነግር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ራእይ"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "ራእይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ዔሊ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:58:26.113813029Z",
+  "model": "glm-5.3"
+}

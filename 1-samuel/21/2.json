@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 21:2",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ዳዊድ ድማ ናብ ኖብ፣ ናብ ኣሕሚለኽ እቲ ካህን መጸ፤ ኣሕሚለኽ ንዳዊድ ኣብ ምትንኻፉ ተኣኸበ፣ ነታ ንሱ በሎ፦ «መዓ ንስኻ ብውልቅኻ፣ ሰብ ⟨את⟩ ምስ ኣተኻ የለን?»",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ድማ መጸ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "ናብ ኖብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "ኣሕሚለኽ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ካህን"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "ተኣኸበ"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "ኣሕሚለኽ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ኣብ ምትንኻፉ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ንዳዊድ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ነታ ንሱ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "መዓ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ብውልቅኻ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ምስ ኣተኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:12:59.029623363Z",
+  "model": "glm-5.3"
+}

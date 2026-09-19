@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 4:9",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ሓብተይ ሓዳሽቲ፣ ልበይ ሰርቕኪዶ፣ ብሓደ ካብ ዓይንትኪ ልበይ ሰርቕኪዶ፣ ብሓደ ጐንጺ ካብ ክንፈኪ።",
+  "tokens": [
+    {
+      "surface": "לבבתני",
+      "gloss": "ልበይ ሰርቕኪዶ"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ሓብተይ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ሓዳሽቲ"
+    },
+    {
+      "surface": "לבבתיני",
+      "gloss": "ልበይ ሰርቕኪዶ"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ብሓደ"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "ካብ ዓይንትኪ"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ብሓደ"
+    },
+    {
+      "surface": "ענק",
+      "gloss": "ጐንጺ"
+    },
+    {
+      "surface": "מצורניך",
+      "gloss": "ካብ ክንፈኪ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:27:04.397864601Z",
+  "model": "glm-5.3"
+}

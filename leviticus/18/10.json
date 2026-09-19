@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ድሉይነት ወዲቲ ወድኻ ወይ ወዲቲ ወዲትካ — ድሉይነታን ኣይትገልጸን፣ ምኽንያቱ እዚኦም ድሉይነትካ እዮም።",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ድሉይነት"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ወዲቲ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ወድኻ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ወዲቲ"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "ወዲትካ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ትገልጸን"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "ድሉይነታን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንዲ ምኽንያቱ"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "ድሉይነትካ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እዮም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:58:49.090623564Z",
+  "model": "glm-5.3"
+}

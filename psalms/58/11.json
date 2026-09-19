@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 58,
+  "translation": "ጽድቃዊ ስለ ዝረኣየ ተባዓታይ ደስ ይብሉ፤ ነቲ ክፉእ ኣገርጕሹ ብደም ይሓጽብ።",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ደስ ይብሉ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጽድቃዊ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ ዝ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ተባዓታይ"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "ኣገርጕሹ"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "ይሓጽብ"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ብደም"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "እቲ ክፉእ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:02:10.864377377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ብኣኽሊተይ ንኹሉ ፍርዲ ኣፍካ ቐረጽኩ።",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "ብኣኽሊተይ"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "ቐረጽኩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ፍርዲ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ኣፍካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:05.544870602Z",
+  "model": "glm-5.3"
+}

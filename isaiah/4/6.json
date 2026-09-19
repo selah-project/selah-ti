@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ድማ ዓርቢ ንጽላም መዓልታዊ ካብ በዝሒ፣ ንመሻሪን ንምሕባርን ካብ ዝንባርን ካብ ዝናብን ትኽውን።",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "ድማ ዓርቢ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ትኽውን"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "ንጽላም"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "መዓልታዊ"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ካብ በዝሒ"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "ንመሻሪ ድማ"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "ንምሕባር ከኣ"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "ካብ ዝንባር"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "ከምኡውን ካብ ዝናብ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:43:39.135494375Z",
+  "model": "glm-5.3"
+}

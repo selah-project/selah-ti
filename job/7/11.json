@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 7:11",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣነ እኳ ኣፈይ ኣይክዓጽዎን፤ ኣብ ጽቕጽቲ መንፈሰይ ክዛረብ እየ፤ ኣብ መራር ነፍሰይ ክገልጸ እየ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እኳ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אחשך",
+      "gloss": "ክዓጽዎ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ኣፈይ"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "ክዛረብ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ኣብ ጽቕጽቲ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "መንፈሰይ"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ክገልጸ"
+    },
+    {
+      "surface": "במר",
+      "gloss": "ኣብ መራር"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:04:33.099044192Z",
+  "model": "glm-5.3"
+}

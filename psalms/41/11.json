@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ንስኻ ግን ያህዌህ፣ ስለ ኣነ ምሕረት ግበረኒ፣ ነስእንዮ ድማ ነኣቶም ክኣክሎም እየ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ግን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ስለ ኣነ ምሕረት ግበረኒ"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "ነስእንዮ"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "ደጊሙ ክኣክሎም እየ"
+    },
+    {
+      "surface": "לה᝝",
+      "gloss": "ነኣቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:11.541357058Z",
+  "model": "glm-5.3"
+}

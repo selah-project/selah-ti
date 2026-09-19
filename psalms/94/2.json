@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 94,
+  "translation": "ኣርገ፣ ዳኝ ምድሪ፤ ኣብ ልዕሊ ኣሕዙቃት ካልኣይ ተወልደ።",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "ኣርገ"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ዳኝ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ካልኣይ ተወልደ"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "ካልኣይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "ኣሕዙቃት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:29.039016464Z",
+  "model": "glm-5.3"
+}

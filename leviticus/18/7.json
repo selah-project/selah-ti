@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ዕርኩሲ ኣቦኻን ዕርኩሲ ኣደኻን ኣትዱም ኣይትገልጹን፤ ኣደኻ እያ — ዕርኩሳ ኣይትገልጸን።",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ዕርኩሲ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ኣቦኻ"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "ዕርኩሲ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ኣደኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ኣትዱም ትገልጽን"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ኣደኻ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እያ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ትገልጸን"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ዕርኩሳ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:58:48.557079017Z",
+  "model": "glm-5.3"
+}

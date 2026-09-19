@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 6:13",
+  "book": "micah",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኣነ ድማ ኣብ ምቃወስካ ኣሕማምኩ፣ ንስኻ ኣብ ምውድቐትካ ስለ ኃጢኣትካ።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "החליתי",
+      "gloss": "ኣሕማምኩ"
+    },
+    {
+      "surface": "הכותך",
+      "gloss": "ኣብ ምቃወስካ"
+    },
+    {
+      "surface": "השמם",
+      "gloss": "ኣብ ምውድቐትካ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "ኃጢኣትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:25:38.293126234Z",
+  "model": "glm-5.3"
+}

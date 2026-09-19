@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 20:27",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ሰብ ወይ ሰበይቲ ኣውቑ ወይ ይዳዓኒ ⟨in⟩ ኣብኦም ስለ ዝሃልዎ ሞት ይቕጠሉ፤ ⟨אתם⟩ ብዕበን ይሕመሙዎም፣ ደሞም ኣብኦም እዩ።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ ዝ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ዝሃልዎ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ኣብኦም"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "ኣውቑ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "ידעני",
+      "gloss": "ይዳዓኒ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ይቕጠሉ"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ብዕበን"
+    },
+    {
+      "surface": "ירגמו",
+      "gloss": "ይሕመሙዎም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ደሞም"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ደሞም"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ኣብኦም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:02:48.168660155Z",
+  "model": "glm-5.3"
+}

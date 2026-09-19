@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 83,
+  "translation": "ዝማሬ መዝሙር ናይ ኣሳፍ።",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ዝማሬ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ናይ ኣሳፍ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:28.691760900Z",
+  "model": "glm-5.3"
+}

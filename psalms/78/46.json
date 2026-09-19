@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 78:46",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ንሑሽር እኽሊኦም ሃበ፣ ንሓባብ ድማ ጽንዓቶም ኣተወ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "לחסיל",
+      "gloss": "ንሑሽር"
+    },
+    {
+      "surface": "יבולם",
+      "gloss": "እኽሊኦም"
+    },
+    {
+      "surface": "ויגיעם",
+      "gloss": "ጽንዓቶም"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "ንሓባብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:19.767687284Z",
+  "model": "glm-5.3"
+}

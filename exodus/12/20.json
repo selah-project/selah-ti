@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኩሉ ምሕመት ኣይትበልዑን፤ ኣብ ኩሉ መንበርትኩም ማጽኦ ትበልዑ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "ምሕመት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ትበልዑ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "መንበርትኩም"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ትበልዑ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ማጽኦ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:27:44.489241072Z",
+  "model": "glm-5.3"
+}

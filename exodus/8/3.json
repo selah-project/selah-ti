@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እቶም ሓረምታት ድማ ብስውር ኣሃዞም ከምኡ ገበሩ፣ ⟨את⟩ ንእቶም ጎረጎርቲ ኣብ ልዕሊ ምድሪ ሚጽራይም ኣወጹን።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ገበሩ ድማ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "እቶም ሓረምታት"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "ብስውር ኣሃዞም"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ኣወጹ ድማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንእቶም ጎረጎርቲ"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "እቶም ጎረጎርቲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:17:31.703457209Z",
+  "model": "glm-5.3"
+}

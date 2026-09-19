@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ድማ ማሕርፎት ደለዩን ደቐቑን፣ ቤታት ውን ኣውጹ፤ ሰብን ቤቱን፣ ሰብን ውርሻኡን ውን ቐጹሉ።",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "ድማ ደለዩ"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "ማሕርፎት"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "ውን ደቐቑ"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "ውን ቤታት"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "ውን ኣውጹ"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "ውን ቐጹሉ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "ውን ቤቱ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ውን ሰብ"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "ውን ውርሻኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:24:18.105674340Z",
+  "model": "glm-5.3"
+}

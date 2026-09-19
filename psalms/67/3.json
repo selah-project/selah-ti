@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 67,
+  "translation": "መገዲኻ ኣብ ምድሪ፣ ምድሓንካ ኣብ ኩሉ ሕዝብታት ንክፍለጥ።",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "ንክፍለጥ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "መገዲኻ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ሕዝብታት"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "ምድሓንካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:12.795012793Z",
+  "model": "glm-5.3"
+}

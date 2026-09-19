@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "እቲ ንጉስ ን⟨את⟩ ህዝቢ ብከፊት መለሰ፣ ነቲ ⟨את⟩ ምኽር ኣቦታት ዝምከርዎ ድማ ተሓዲጉ።",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መለሰ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ህዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ብከፊት"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ተሓዲጉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምኽር"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ምኽር"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ኣቦታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "ዝምከርዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:01:10.386958048Z",
+  "model": "glm-5.3"
+}

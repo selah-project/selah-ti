@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 120,
+  "translation": "ኣነ ሰላም እየ፤ እኳ ምስ እዛረብ ግን ንሳቶም ንጋገ ኮይኖም።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "እኳ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ምስ እዛረብ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ንጋገ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:55.142544997Z",
+  "model": "glm-5.3"
+}

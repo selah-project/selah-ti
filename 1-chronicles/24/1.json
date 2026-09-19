@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ንወደ ኣሃሮን ክፋልታቶም፦ ወደ ኣሃሮን ናዳብን ኣቢሁውን፣ ኤልዓዛርን ኢታማርን እዮም።",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ንወደ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "ክፋልታቶም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወደ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ናዳብ"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ኣቢሁውን"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ኢታማርን"
+    }
+  ],
+  "timestamp": "2026-09-19T09:11:11.960649397Z",
+  "model": "glm-5.3"
+}

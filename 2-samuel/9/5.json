@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ንጉስ ዳዊድ ድማ ሰዓበ፡ ካብ ቤት ማኪር ወዲ ዓሚኤል፡ ካብ ሎ-ደባር ድማ ኣምጣዖ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰዓበ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "ኣምጣዖ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ቤት"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ማኪር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "ዓሚኤል"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "ካብ ሎ-ደባር"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ደባር"
+    }
+  ],
+  "timestamp": "2026-09-19T00:26:33.113725188Z",
+  "model": "glm-5.3"
+}

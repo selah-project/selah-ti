@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 88,
+  "translation": "ምስ እቶም ናብ ⟨ቲ⟩ ባድያ ዝወርዱ ተቑጸርኩ፤ ከም ተባዕታዊ ዓቕሚ ዘይብሉ ኮይነ እየ።",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "ተቑጸርኩ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ዝወርዱ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ባድያ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ኮይነ እየ"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "ከም ተባዕታዊ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ዘይብሉ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ዓቕሚ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:35.233763099Z",
+  "model": "glm-5.3"
+}

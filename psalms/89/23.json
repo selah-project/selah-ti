@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ተቓላልሕቲ ኣይገብርዎን፣ ወዲ ክፉእን ኣይቐጽሮን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ገብርዎ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ተቓላልሕቲ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ዎ"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "ቐጽሮ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:26.189015222Z",
+  "model": "glm-5.3"
+}

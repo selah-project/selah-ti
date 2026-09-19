@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ያህዌህ ድማ ⟨את⟩ ድምጺ ቃላትኩም ሰምዐ፣ ተቓወሞን ተሓለየን እናበለ፦",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምጺ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጺ"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "ቃላትኩም"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "ተቓወሞ"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ተሓለየ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:46:15.498865283Z",
+  "model": "glm-5.3"
+}

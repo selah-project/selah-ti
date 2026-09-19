@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ንእስራኤል ምስ ኣሕየ ድማ፣ ይሆናታን ወዲ ሽምዓ ዳዊድ ሓው ሓደጎ።",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "ምስ ኣሕየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ሓደጎ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ይሆናታን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "ሽምዓ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ሓው"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:45:39.854585786Z",
+  "model": "glm-5.3"
+}

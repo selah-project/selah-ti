@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ያህዌህ ድማ ንምናሴን ንህዝቡን ተዛረቦም፣ ንሳቶም ግን ኣይሰምዑን።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረቦም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሴ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ን…ን"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ህዝቡ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "ሰምዑ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:17:25.355836680Z",
+  "model": "glm-5.3"
+}

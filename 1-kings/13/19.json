@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ንሱ ድማ ተመለሰ ምስ⟨את⟩ኡ፣ ኣብ ገዛኡ ኦም በልዐ፣ ማይን ሰተየ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ምስ ንሱ"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "በልዐ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ኦም"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ኣብ ገዛኡ"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "ሰተየ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:00:15.808967831Z",
+  "model": "glm-5.3"
+}

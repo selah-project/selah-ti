@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ውላድ ሕት ድማ ⟨את⟩ ኣቭራሃም እናተዛረብዎ በሉዎ።",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "እናተዛረብዎ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ሕት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቭራሃም"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብምባል"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡሱ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:45:04.012424273Z",
+  "model": "glm-5.3"
+}

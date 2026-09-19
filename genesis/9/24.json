@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኖሕ ካብ ወይኑ ተቐዳሕ፣ ⟨את⟩ ዝገበረሉ ንእሽተ ወዲኡ ድማ ፈለጠ።",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "ተቐዳሕ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖሕ"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "ካብ ወይኑ"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ፈለጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝገበረሉ ንእሽተ ወዲኡ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረሉ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ንእሽተ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:34:09.024576922Z",
+  "model": "glm-5.3"
+}

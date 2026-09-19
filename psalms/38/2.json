@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ያህዌህ፣ ብቁጥዓትካ ኣይትግሓደኒ፣ ብውሽጣትካ ድማ ኣይተውሕሰኒ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "ብቁጥዓትካ"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "ኣይትግሓደኒ"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "ብውሽጣትካ"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "ኣይተውሕሰኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:32.547773110Z",
+  "model": "glm-5.3"
+}

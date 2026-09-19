@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "እዚ ሕዝቢ እዚ ንራይ መስልኩ፡ ምስጋናይ ይነግሩ እዮም።",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "መስልኩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንራይ"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ምስጋናይ"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ይነግሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:10:39.390191914Z",
+  "model": "glm-5.3"
+}

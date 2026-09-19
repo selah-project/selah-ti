@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 30:13",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ኣብ የሩሻላይም ብዙሕ ህዝቢ ንምግባር ⟨את⟩ ዓቢ ማጽዋ ኣብ ካልኣይ ወርሒ ተኣከበ፣ ብዙሕ ዝበለ ብዙሕ ዝበለ ብምስምዕ ህዝቢ።",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "ተኣከበ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ንምግባር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓቢ ማጽዋ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ማጽዋ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ኣብ ወርሒ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ካልኣይ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ብዙሕ ዝበለ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ ዝበለ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:19:15.590787907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ንኣኽርያ ⟨את⟩ ኣብ ሃገራት ኣብ ዝወድእክዎን ኣብ ሃገራት ኣብ ዝዘርዓዮን፣ ኣነ ያህዌህ ከም ዝኾን ክፍለጡ እዮም።",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ክፍለጡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "ኣብ ምወዳአይ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ንኣኽርያ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ኣብ ሃገራት"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "ኣብ ምዘርዓይ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ንኣኽርያ"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "ኣብ ሃገራት"
+    }
+  ],
+  "timestamp": "2026-09-19T03:29:38.257513199Z",
+  "model": "glm-5.3"
+}

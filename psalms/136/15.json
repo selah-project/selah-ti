@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 136,
+  "translation": "ፓርዖ ድማ ሰራዊቱን ኣብ ባሕሪ ሱፍ ኣርዲኑ፣ እስመ ናብ ዘለኣለም ሔሴዱ እዩ።",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "ኣርዲኑ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "ሰራዊቱን"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ኣብ ባሕሪ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ሱፍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እስመ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:40.803914362Z",
+  "model": "glm-5.3"
+}

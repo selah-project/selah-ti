@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ብብቕዓት ጥራይ ጣራ ይህብ፤ ምስ ⟨את⟩ ተማኺሮት ግን ጥበብ ትርከብ።",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "ብብቕዓት"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይህብ"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "ጣራ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ተማኺሮት"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "ተማኺሮት"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:47:05.555253804Z",
+  "model": "glm-5.3"
+}

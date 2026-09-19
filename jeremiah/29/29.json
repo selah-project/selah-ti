@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ጽፍኒያ ካህን እቲ ⟨את⟩ ጽሑፍ እዚ ኣብ እዝኒ ይርምያሁ ነቢዪ ኣንበቦ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ኣንበቦ"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "ጽፍኒያ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ጽሑፍ እዚ"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "እቲ ጽሑፍ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ኣብ እዝኒ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ይርምያሁ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነቢዪ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:56:56.056601899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "እንተ ድኣ ⟨את⟩ መስክ ኣይደጊሞን፣ ወይ እንተ ⟨את⟩ መስክ ንኻልእ ሰብ እንተ ወፊዑ፣ ደግያስ ኣይይደገምን።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እንተ ድኣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ደጊሞን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መስክ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "መስክ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ወይ እንተ"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "ወፊዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መስክ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "መስክ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ንሰብ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ኻልእ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ይይደገምን"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደግያስ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:11:38.689258095Z",
+  "model": "glm-5.3"
+}

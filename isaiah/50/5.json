@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ኣዶናይ ያህዌህ እዛዓ ንኣነ ከፈተ፤ ኣነ ድማ ኣይኣመጸኩን፣ ንድሕሪት ድማ ኣይተመለስኩን።",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ከፈተ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "እዛዓ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "ኣመጸኩ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ንድሕሪት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "ተመለስኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:19:54.631051960Z",
+  "model": "glm-5.3"
+}

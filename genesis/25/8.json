@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ኣቭራሃም ድማ ተደንገፈን ሞተን፣ ኣብ ጽቡቕ ብስዓት፣ ዑሳን ምልኡን ኮይኑ፣ ናብ ህዝቡ ተኣከበ።",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "ተደንገፈ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "ኣብ ብስዓት"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ጽቡቕ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ዑሳን"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ምልኡ"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ተኣከበ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "ህዝቡ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:47:37.992789204Z",
+  "model": "glm-5.3"
+}

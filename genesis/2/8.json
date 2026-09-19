@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ያህዌህ ኤሎሂም ገነት ኣብ ዓዲን ካብ ምብራቕ ዓጸወ፣ ኣብኡ ድማ ⟨את⟩ እቲ ሰብ ዝነጽሮ ኣቕሚዑ።",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "ዓጸወ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "גן",
+      "gloss": "ገነት"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "ኣብ ዓዲን"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ካብ ምብራቕ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ኣቕሚዑ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሰብ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ነጽሮ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:30:30.715869412Z",
+  "model": "glm-5.3"
+}

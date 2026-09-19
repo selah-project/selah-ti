@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 21:21",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "እስራኤል ድማ ናብ ሲሕን ንጉስ ናይ ኣሞራይ ተራእዪታት ምስ እትብል ለኣኾ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ለኣኾ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ተራእዪታት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "ሲሕን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ናይ ኣሞራይ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ምስ እትብል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:30:59.535453111Z",
+  "model": "glm-5.3"
+}

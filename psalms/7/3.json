@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ከም ኣንበጣ ነፍሰይ ንኽሽንጩ ከይግበር፣ ዝበትርክትን ዘይኣድሕንን እያ ።",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ከይግበር"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "ንኽሽንጩ"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "ከም ኣንበጣ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ዝበትርክት"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ዘይኣድሕንን"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ዘያድሕን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:52.617078500Z",
+  "model": "glm-5.3"
+}

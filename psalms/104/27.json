@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "ኩሎም ኣብ ኣኻ ይጸበዩ፣ ኣቕሓኦም ኣብ ግዜኡ ንኽትህቦም።",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ኣብ ኣኻ"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "ይጸበዩ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ንኽትህብ"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ኣቕሓኦም"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "ኣብ ግዜኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:22:10.562704646Z",
+  "model": "glm-5.3"
+}

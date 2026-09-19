@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኣቦኣ ንኣ ንኡ ክሃባ ብምሉእ እንተ ውዒሉ፣ ከም ገዝሲ ድንግላት ቐንዲ ክቖርዝ እዩ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ውዒሉ"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "ክውዓል"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ኣቦኣ"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "ንኣ ክሃባ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ቐንዲ"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "ክቖርዝ"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "ከም ገዝሲ"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "ናይ ድንግላት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:28:26.871911129Z",
+  "model": "glm-5.3"
+}

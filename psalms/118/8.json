@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 118,
+  "translation": "ንምትእኽኻብ ብያህዌህ ካብ ምትእኽኻብ ብሰብ ዝሓሸ እዩ።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ዝሓሸ"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "ንምትእኽኻብ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ብያህዌህ"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ካብ ምትእኽኻብ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ብሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:57.834209796Z",
+  "model": "glm-5.3"
+}

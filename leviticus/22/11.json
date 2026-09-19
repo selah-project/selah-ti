@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 22:11",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ካህን ግን ብገንዘቡ ሰብ እንተ ወንጠፈ፣ ንሱ ኣብ እኡ ይብልዕ፤ ኣብ ቤቱ ዝተወለዱ እውን ኣብ ሓብቲ እቲ ካህን ይብልዑ።",
+  "tokens": [
+    {
+      "surface": "וכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "እንተ ወንጠፈ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "קנין",
+      "gloss": "ውንጪ"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "ብገንዘቡ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይብልዕ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብ እኡ"
+    },
+    {
+      "surface": "ויליד",
+      "gloss": "ዝተወለዱ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ኣብ ቤቱ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ይብልዑ"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "ኣብ ሓብቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:24.762474602Z",
+  "model": "glm-5.3"
+}

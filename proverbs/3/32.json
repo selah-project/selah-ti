@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እሞ እቲ ዘይተሓተተ ንያህዌህ ርኵርቕ ⟨እዩ⟩፤ ⟨את⟩ ትኽክለኛታት ድማ ስዉእቱ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ርኵርቕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "ዘይተሓተተ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ምስ",
+      "marks": "ምስ ትኽክለኛታት"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ትኽክለኛታት"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "ስዉእቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:43:12.772113187Z",
+  "model": "glm-5.3"
+}

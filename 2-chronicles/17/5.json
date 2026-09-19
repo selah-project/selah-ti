@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 17:5",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ያህዌህ ድማ ⟨את⟩ እቲ መንግስቲ ብኢዱ ኣረጋገጸ፤ ኩሉ ይሁዳ ድማ ንየሆሹዋጥ በጺሕቲ ሃቦ፤ ንሱ ድማ ብብዙሕ ሃብቲን ክብሪን ነይሩ ነይሩሉ።",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "ኣረጋገጸ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ መንግስቲ"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "እቲ መንግስቲ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ብኢዱ"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ሃቡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "በጺሕቲ"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "ንየሆሹዋጥ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ነይሩሉ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ሃብቲ"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ክብሪን"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ብብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:05:45.176912884Z",
+  "model": "glm-5.3"
+}

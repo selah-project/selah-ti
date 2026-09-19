@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣብ ኹሉ ድንቅ እስራኤል ወዲቐት ጽቡቕቲ መርሓቱ፤ ኣቢሸግ ሽነምያይት ድማ ⟨את⟩ ረኣዩ፣ ድማ ነቲ ንጉስ ⟨את⟩ ኣእተዋቶም።",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "መርሓቱ"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "ወዲቐት"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ጽቡቕቲ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኹሉ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ድንቅ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ረኣዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቢሸግ"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "ኣቢሸግ"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "ሽነምያይት"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ኣእተዉ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ንጉስ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ነቲ ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:44:52.973911699Z",
+  "model": "glm-5.3"
+}

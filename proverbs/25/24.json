@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ኣብ ማዕድ ጣራ ምቕመጥ ካብ ምስ ኣካይድቲ ሰበይቲን ምስ ቤት ሓባርን ይበልጽ እዩ።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ይበልጽ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ምቕመጥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "ማዕድ"
+    },
+    {
+      "surface": "גג",
+      "gloss": "ጣራ"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "ካብ ሰበይቲ"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "ኣካይድቲ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ቤትን"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ሓባር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:55:50.229407321Z",
+  "model": "glm-5.3"
+}

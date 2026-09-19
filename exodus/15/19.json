@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 15:19",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "«ምኽንያቱ ፓርዖ ምስ መካይኡን ሓጺሩቡታቱን ኣትዩ ናብ ባሕሪ ያህዌህ ድማ ⟨את⟩ ማይ ባሕሪ ኣብ ልዕሊኦም መለሶ፤ ውላድ ይስራኤል ድማ ኣብ መንጎ ባሕሪ ኣብ ደረቐ ምድሪ ከደዎ።»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ኣትዩ"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "ምስ መካይኡ"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "ሓጺሩቡታቱን"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ናብ ባሕሪ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "መለሶ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "ኣብ ልዕሊኦም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማይ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ከደዎ"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "ኣብ ደረቐ ምድሪ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:21:48.805870992Z",
+  "model": "glm-5.3"
+}

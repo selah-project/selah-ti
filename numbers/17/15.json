@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኣሕራም ድማ ናብ ሞሸ ናብ ኣፍቲ ድንኳን መራሕቲ ተመለሰ፤ እታ ምትካልን ተዓጸወት።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሕራም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣፍቲ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መራሕቲ"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "እታ ምትካልን"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "ተዓጸወት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:27:22.901345120Z",
+  "model": "glm-5.3"
+}

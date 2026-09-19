@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "መርፍኢን ንጥሪ ወይኒን ኣይመግብዎምን፤ ድኽሚራ ድማ ክትብሎም ተቓሊሳ እያ።",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "መርፍኢ"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "ንጥሪ ወይኒ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "ኣይመግብዎምን"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "ድኽሚራ"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "ተቓሊሳ እያ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ክትብሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:10:23.467222851Z",
+  "model": "glm-5.3"
+}

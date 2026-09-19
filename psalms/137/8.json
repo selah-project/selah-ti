@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 137,
+  "translation": "ጓል ባብል፣ እታ ክትጠፍእ ዘላቶ፦ ብሓጐስ እዩ እቲ ዚኸፍለካ ⟨את⟩ ግብርኻ፣ ከም እትገብርዎና!",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "ጓል"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባብል"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "እታ ክትጠፍእ ዘላቶ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ብሓጐስ"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "ዚኸፍለካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ግብርኻ"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "ግብርኻ"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "እትገብርዎ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:38:12.793310957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ማርዮት ⟨את⟩ ኣማርያህ ወለደ፣ ኣማርያህ ድማ ⟨את⟩ ኣኺቶብ ወለደ።",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "ማርዮት"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣማርያህ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ኣማርያህ"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "ኣማርያህ ድማ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣኺቶብ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ኣኺቶብ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:31:38.868759839Z",
+  "model": "glm-5.3"
+}

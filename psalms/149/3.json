@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 149,
+  "translation": "ስሙ ብማሕዮል ይስብሑ፤ ብከበሮን በገናን ንኡ ይዝምርዎ።",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ይስብሑ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "ብማሕዮል"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ብከበሮ"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ንበገና"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ይዝምርዎ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:11.088882422Z",
+  "model": "glm-5.3"
+}

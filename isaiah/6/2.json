@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 6:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ሽራፋት ካብ ላዕሊኡ ንቑሉ ነበሩ፤ ሽዱሽተ ክንፍቲ ንሓደ፣ ብክልተ ገጹ ይሽፍን፣ ብክልተ እግሩ ይሽፍን፣ ብክልተ ድማ ይበዝዝ።",
+  "tokens": [
+    {
+      "surface": "שרפים",
+      "gloss": "ሽራፋት"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ንቑሉ"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ካብ ላዕሊ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ኡ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ሽዱሽተ"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ክንፍቲ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ሽዱሽተ"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ክንፍቲ"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ንሓደ"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "ብክልተ"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ይሽፍን"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ገጹ"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "ብክልተ"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ይሽፍን"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "እግሩ"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "ብክልተ"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "ይበዝዝ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:46:27.608252128Z",
+  "model": "glm-5.3"
+}

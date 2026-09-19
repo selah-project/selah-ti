@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኦም ሰብ ⟨את⟩ ሰበይቲ ኣቡኡ ዝሰክብ እንተ ኰነ፣ ርክባ ኣቡኡ ሓበረ፤ ክልተኦም ሞት ይቕተሉ፣ ደምኦም ኣብዮም እዩ።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ኦም ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ዝሰክብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰበይቲ ኣቡኡ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ርክባ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ሓበረ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ይቕተሉ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ክልተኦም"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ደምኦም"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ኣብዮም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:58.500124707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 75,
+  "translation": "ሓመድና ነንስኻ ኤሎሂም፣ ሓመድና፣ ስምካ ድማ ቐሪቡ እዩ፤ ድንቅታትካ ይኽብሩ።",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "ሓመድና"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ነንስኻ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "ሓመድና"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "ቐሪቡ እዩ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምካ"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ይኽብሩ"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ድንቅታትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:20.879872113Z",
+  "model": "glm-5.3"
+}

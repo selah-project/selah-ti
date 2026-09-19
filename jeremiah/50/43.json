@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 50:43",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ሰምዐ ንጉስ ባቢሎን ⟨את⟩ ሰምዓኦም፣ ኢዱን ወደቐ፤ ጸንቆቕ ወሲዱቶ፣ ሓሚሽቲ ከም ዘልውለት።",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባቢሎን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰምዓኦም"
+    },
+    {
+      "surface": "שמעם",
+      "gloss": "ሰምዓኦም"
+    },
+    {
+      "surface": "ורפו",
+      "gloss": "ኢዱን ወደቐ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ኢዱን"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ጸንቆቕ"
+    },
+    {
+      "surface": "החזיקתהו",
+      "gloss": "ወሲዱቶ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ሓሚሽቲ"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "ከም ዘልውለት"
+    }
+  ],
+  "timestamp": "2026-09-19T03:16:00.553889109Z",
+  "model": "glm-5.3"
+}

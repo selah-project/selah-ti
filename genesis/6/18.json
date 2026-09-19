@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ንኪዳንይ ምስ ንስኻ ⟨את⟩ ክኣትን እየ፤ ንስኻ፣ ደቃኻ፣ ሰበይትኻን ሰበይቲ ደቃኻን ምስ ንስኻ ⟨את⟩ ናብ ታባ ተኺእካ ኢኻ።",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "ክኣትን እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኪዳንይ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳንይ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ምስ ንስኻ"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ተኺእካ ኢኻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ታባ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ደቃኻ"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "ሰበይትኻ"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ደቃኻ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ምስ ንስኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:35:45.700390764Z",
+  "model": "glm-5.3"
+}

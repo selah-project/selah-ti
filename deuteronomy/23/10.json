@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ምስ ትወጽእ ጉጅለ ንጠባይታትካ፣ ካብ ኩሉ ክፉእ ነገር ትትሓዝ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ትወጽእ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ጉጅለ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ጠባይታትካ"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "ትትሓዝ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉእ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:03:57.879407188Z",
+  "model": "glm-5.3"
+}

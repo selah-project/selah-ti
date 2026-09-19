@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 35:12",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ኣብኡ እኳ ይጸውዑ፣ ከሞ ኣይምልሶን፣ ስለ ትሕቲ ኣጥፍኣት።",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "יצעקו",
+      "gloss": "ይጸውዑ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ከሞ ኣይ-…-ን"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ይምልሶ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ኣጥፍኣት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:20:58.516790538Z",
+  "model": "glm-5.3"
+}

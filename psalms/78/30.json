@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ካብ ትእምምቶም ኣይተፈልዩን፤ ገና መግቢ ኣብ ኣፎም ነይሩ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "ተፈልዩ"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "ካብ ትእምምቶም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ገና"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "መግቢ"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ኣብ ኣፎም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:50.273920773Z",
+  "model": "glm-5.3"
+}

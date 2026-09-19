@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 127,
+  "translation": "ብሓፈሻ እቲ ሰብ እቲ ኣስፓቱ ⟨את⟩ ብእዚኦም ዝኣመልአ እዩ፤ ምስ ኣጋንንቲ ኣብ ኣፍደገ ምስ ዛረቡ ኣይጽምጹን እዮም።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ብሓፈሻ"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ዝኣመልአ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣስፓቱ"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "ኣስፓቱ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ብእዚኦም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ይጽምጹን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ ምስ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ዝዛረቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣጋንንቲ"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "ኣጋንንቲ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ኣብ ኣፍደገ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:27.520407899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 74,
+  "translation": "እዚ ኣስዝን፤ ጠሊ ያህዌህ ሓረዮ፣ ህዝቢ ንፉዕ ድማ ስምካ ኣፍቒዱ።",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ኣስዝን"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ጠሊ"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ሓረዮ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ህዝቢን"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ንፉዕ"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ኣፍቒዱ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:52.500664782Z",
+  "model": "glm-5.3"
+}

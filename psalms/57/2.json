@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 57,
+  "translation": "ሓረከኒ ኤሎሂም፣ ሓረከኒ፤ ምኽንያቱ ኣብ ንስኻ ነፍሰይ ተሓገሰት፣ ኣብ ጥላሕ ክንፋትካ እተሓገስ እየ፣ ክሳብ ዝቕጽል እተን ኣጋጋእቲ።",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ሓረከኒ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ሓረከኒ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣብ ንስኻ"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "ተሓገሰት"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "ኣብ ጥላሕ"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ክንፋትካ"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "እተሓገስ እየ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ዝቕጽል"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ኣጋጋእቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:09.764546689Z",
+  "model": "glm-5.3"
+}

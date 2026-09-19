@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 4:7",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ሽሎሞ ድማ ዓሰርተ ክልተ ተቐማጦት ኣብ ልዕሊ ኩሉ እስራኤል ነበሮ፤ ⟨את⟩ እቲ ንጉስን ⟨את⟩ ቤቱን ይመግቡ ነበሩ፤ ወርሒ ኣብ ዓመት ኣብ ሓደ ንምምጋብ ይከውን ነበረ።",
+  "tokens": [
+    {
+      "surface": "ולשלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "ተቐማጦት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "וכלכלו",
+      "gloss": "ይመግቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ንጉስ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ወርሒ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ኣብ ዓመት"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይከውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "לכלכל",
+      "gloss": "ንምምጋብ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:46:18.927815759Z",
+  "model": "glm-5.3"
+}

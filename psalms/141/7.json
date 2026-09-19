@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 141,
+  "translation": "ከም ዝቖረዓ ወይ ዝፈልስ ኣብ ምድሪ፣ ኣጽምና ኣብ ኣፍ ሽኦል ተበታተነ።",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "ዝቖረዓ"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "ወይ ዝፈልስ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "ተበታተነ"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "ኣጽምና"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ኣብ ኣፍ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሽኦል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:30.246413626Z",
+  "model": "glm-5.3"
+}

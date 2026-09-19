@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 101,
+  "translation": "ንዳዊድ መዝሙር። ሔሴድን ብጽሕን እደርም፤ ንድኻ ያህዌህ እዘምር።",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ንዳዊድ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ብጽሕን"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "እደርም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንድኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "እዘምር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:36.685749022Z",
+  "model": "glm-5.3"
+}

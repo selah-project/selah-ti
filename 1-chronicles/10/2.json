@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ፍልስቲም ድሕሪ ሻኡልን ድሕሪ ውላዱን ኣኽተዩ፤ ፍልስቲም ድማ ⟨את⟩ ዮናታንን ⟨את⟩ ኣቢናዳብን ⟨את⟩ ማልኪሹዓን ውላደ ሻኡል ቐተሎም።",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "ኣኽተዩ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስቲም"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ድሕሪን"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ቐተሉ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስቲም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮናታን"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ዮናታን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቢናዳብ"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "ኣቢናዳብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ማልኪሹዓ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ማልኪ"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "ሹዓ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    }
+  ],
+  "timestamp": "2026-09-19T07:39:34.751728652Z",
+  "model": "glm-5.3"
+}

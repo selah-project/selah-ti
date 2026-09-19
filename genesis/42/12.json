@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ነቶም ድማ፦ «ኣይኮነን፤ ንሓቂ ⟨את⟩ ሓፍረት እቲ ምድሪ ክትርእዩ ኢኹም መጺኹም» በሎም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎም"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ንሓቂ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ሓፍረት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እቲ ምድሪ"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "መጺኹም"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ክትርእዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:02:59.166358932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ወሲዱ ድማ ⟨את⟩ መመስከርቲ ናብ ታቦት ሃበ፣ ⟨את⟩ ኣንጻይ ኣብ ልዕሊ ታቦት ኣተወ፣ ⟨את⟩ ማኅፈት ኣብ ልዕሊ ታቦት ካብ ላዕሊ ሃበ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መመስከርቲ"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "መመስከርቲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ኣተወ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣንጻይ"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ኣንጻይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማኅፈት"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ማኅፈት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ካብ ላዕሊ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:46:52.668962370Z",
+  "model": "glm-5.3"
+}

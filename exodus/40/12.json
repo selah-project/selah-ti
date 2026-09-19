@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ቐሪብካ ድማ ⟨את⟩ ኣሃሮንን ⟨את⟩ ውላዱን ናብ ኣፍደገ ድንኳን ስብሓት፣ ሓጸርካ ድማ ⟨את⟩ ብማይ።",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "ቐሪብካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሃሮን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ውላዱ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣፍደገ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ስብሓት"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ሓጸርካ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ንኣሃሮንን ውላዱን"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ብማይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:46:17.553872214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ብርሃናኡ ኣቆርዕካ፣ ዙፋኑን ናብ ምድሪ ወርዊርካዮ።",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "ኣቆርዕካ"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "ብርሃናኡ"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "ዙፋኑን"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ናብ ምድሪ"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "ወርዊርካዮ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:04.850425010Z",
+  "model": "glm-5.3"
+}

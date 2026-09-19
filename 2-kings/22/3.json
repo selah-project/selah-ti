@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 22:3",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኣብ ሸሞነዘሰራ ዓመት ናይ ንጉስ ዮሽያሁ ኸኣ ነገረ፤ እቲ ንጉስ ነቲ ጸሓፊ ⟨את⟩ ሻፓሕ፣ ወዲ ኣጽልያሁ ወዲ ምሽለም፣ ናብ ቤት ያህዌህ ሰደዱ ነብሉ ንምባል።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነገረ"
+    },
+    {
+      "surface": "בשמנה",
+      "gloss": "ኣብ ሸሞነ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ዘሰራ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ናይ ንጉስ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ዮሽያሁ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ሰደዱ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሻፓሕ"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "ሻፓሕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אצליהו",
+      "gloss": "ኣጽልያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "ምሽለም"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "እቲ ጸሓፊ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ነብሉ ንምባል"
+    }
+  ],
+  "timestamp": "2026-09-19T01:35:39.949826512Z",
+  "model": "glm-5.3"
+}

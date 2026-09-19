@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ንቍጠቐኡ ገጽታ ዘጻሕፈሉ መስመር ኣጻሕፈ፤ ነፍሶም ካብ ሞት ኣይሓበነን፣ ህይወቶም ድማ ንወበለሽ ኣረኽቡ።",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "ኣጻሕፈ"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "መስመር"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "ንቍጠቐኡ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ሓበነን"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ካብ ሞት"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ነፍሶም"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "ህይወቶምን"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ንወበለሽ"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "ኣረኽቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:48.860233186Z",
+  "model": "glm-5.3"
+}

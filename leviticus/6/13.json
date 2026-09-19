@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 6:13",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እዚ ወፈያ ኣሕሮንን ውላዱን እዩ፣ እቲ ኣብ መዓልቲ ⟨אתו⟩ ምቕባኡ ንያህዌህ ኺቐርብ፦ ዓሰርተ ክፍሊ ኤፋ ስኒ እኽሊ፣ መባ ናይ ዘለኣለም እዩ፤ ግማዲ ብማዕራን ግማዲ ብምሸትን።",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሕሮን"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ውላዱን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ኺቐርብ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "ምቕባኡ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሕሮን"
+    },
+    {
+      "surface": "עשירת",
+      "gloss": "ዓሰርተ ክፍሊ"
+    },
+    {
+      "surface": "האפה",
+      "gloss": "ኤፋ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ስኒ እኽሊ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "መባ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ናይ ዘለኣለም"
+    },
+    {
+      "surface": "מחציתה",
+      "gloss": "ግማዲ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ብማዕራ"
+    },
+    {
+      "surface": "ומחציתה",
+      "gloss": "ግማዲ"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ብምሸት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:49:27.989616547Z",
+  "model": "glm-5.3"
+}

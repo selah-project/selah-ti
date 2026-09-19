@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 18:9",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ከምኡ'ውን ኣብ እቲ ሰዓት ብዛዕባ ህዝቢን ብዛዕባ ውን መንግስቲን ንምሃንጽልን ንምትክልን ክዛረብ እየ።",
+  "tokens": [
+    {
+      "surface": "ורגע",
+      "gloss": "ኣብ እቲ ሰዓት"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ክዛረብ እየ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብዛዕባ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ውን ብዛዕባ"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "መንግስቲ"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "ንምሃንጽል"
+    },
+    {
+      "surface": "ולנטע",
+      "gloss": "ውን ንምትክል"
+    }
+  ],
+  "timestamp": "2026-09-19T02:45:04.657915464Z",
+  "model": "glm-5.3"
+}

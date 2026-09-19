@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኣብኡ በዚሒኡ ኣብቲ መዓልቲ ያህዌህ ⟨את⟩ ውላድ እስራኤል ብሓያላቶም ብሰራዊቶም ካብ ምድሪ ሚጽራይም ኣውጺኦም።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "በዚሒኡ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ኣብቲ መዓልቲ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ኣውጺኦም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ እስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "ሓያላቶም ብሰራዊቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:19:07.789829787Z",
+  "model": "glm-5.3"
+}

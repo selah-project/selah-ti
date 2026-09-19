@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ብበረድ ደቀቕቲኦም ቐተለ፣ ዛጣቶም ድማ ብቐረባ ኣጥፍአ።",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "ቐተለ"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "ብበረድ"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "ደቀቕቲኦም"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "ዛጣቶም"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "ብቐረባ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:19.767967440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 28:8",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ናብ ሽኦል የውርድካ፤ ኣብ ልቢ ባሕርታት ካብ ዝተቖሰፉ ሞትቲ ትሞት።",
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "ናብ ሽኦል"
+    },
+    {
+      "surface": "יורדוך",
+      "gloss": "የውርድካ"
+    },
+    {
+      "surface": "ומתה",
+      "gloss": "ትሞት"
+    },
+    {
+      "surface": "ממותי",
+      "gloss": "ሞትቲ"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ዝተቖሰፉ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ኣብ ልቢ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ባሕርታት"
+    }
+  ],
+  "timestamp": "2026-09-19T03:43:38.043402773Z",
+  "model": "glm-5.3"
+}

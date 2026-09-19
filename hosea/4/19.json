@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ንፋሲ ኣብ ክንፋታ ⟨את⟩ ኣኽብራታ ኣሎ፤ ካብ መሥዋዕታቶም ድማ ይውረያ እዮም።",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "ኣኽብራታ ኣሎ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ንፋሲ"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ኣባንታ — ኣብ ክንፋታ ተታሒባ"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "ኣብ ክንፋታ"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ይውረያ እዮም"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "ካብ መሥዋዕታቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:04:33.146470208Z",
+  "model": "glm-5.3"
+}

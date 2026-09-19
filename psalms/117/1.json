@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 117,
+  "translation": "ኩሉ ኣሕዛብ ያህዌህ ⟨את⟩ ይሸምሑ፤ ኩሉ ህዝቢታት ድማ ይሸምሕዎ።",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ይሸምሑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ኣሕዛብ"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "ይሸምሕዎ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "ህዝቢታት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:31.917032513Z",
+  "model": "glm-5.3"
+}

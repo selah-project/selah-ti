@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ብኡ ነቲ ⟨את⟩ ድንቕላብ ናይ ስቓለን ⟨ואת⟩ ታቦት ምስክርታን ትቐብኖ።",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ትቐብኖ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ብኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድንቕላብ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንቕላብ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ናይ ስቓለ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ታቦት"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ምስክርታ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:36:41.433739697Z",
+  "model": "glm-5.3"
+}

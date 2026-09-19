@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኦም ሰብ ⟨את⟩ ጓል ወዲኡ ዝሰክብ እንተ ኰነ፣ ክልተኦም ሞት ይቕተሉ፤ ተባጥሶ ገበሩ፣ ደምኦም ኣብዮም እዩ።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ኦም ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ዝሰክብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጓል ወዲኡ"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ጓል ወዲኡ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ይቕተሉ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ክልተኦም"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ተባጥሶ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ደምኦም"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ኣብዮም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:58.500279349Z",
+  "model": "glm-5.3"
+}

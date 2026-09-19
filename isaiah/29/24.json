@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 29:24",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ኣብ መንፈስ ዘይተቓለሉ ኣስተባባዕነት ይፈልጡ፣ ዝቆጹ ድማ ትምህርቲ ይመሃሩ።",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ይፈልጡ"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "ዘይተቓለሉ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ኣስተባባዕነት"
+    },
+    {
+      "surface": "ורוגנים",
+      "gloss": "ዝቆጹ"
+    },
+    {
+      "surface": "ילמדו",
+      "gloss": "ይመሃሩ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ትምህርቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:01:39.609305071Z",
+  "model": "glm-5.3"
+}

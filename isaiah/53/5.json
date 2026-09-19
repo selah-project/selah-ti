@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 53:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 53,
+  "translation": "ንሱ ድማ ብሓጢያትና ተቐጺሩ፣ ብበደላትና ተረቒቡ፤ ናይ ሰላምና ቅጣት ኣብ ልዕሊኡ ነይሩ፣ ብሕማቓቱ ድማ ንሕና ተጠገዕና።",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ ድማ"
+    },
+    {
+      "surface": "מחלל",
+      "gloss": "ተቐጺሩ"
+    },
+    {
+      "surface": "מפשענו",
+      "gloss": "ብሓጢያትና"
+    },
+    {
+      "surface": "מדכא",
+      "gloss": "ተረቒቡ"
+    },
+    {
+      "surface": "מעונתינו",
+      "gloss": "ብበደላትና"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ቅጣት"
+    },
+    {
+      "surface": "שלומנו",
+      "gloss": "ናይ ሰላምና"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊኡ"
+    },
+    {
+      "surface": "ובחברתו",
+      "gloss": "ብሕማቓቱ"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "ተጠገዕና"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    }
+  ],
+  "timestamp": "2026-09-19T02:17:31.496604861Z",
+  "model": "glm-5.3"
+}

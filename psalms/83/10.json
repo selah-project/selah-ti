@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 83,
+  "translation": "ከም ምድያም ግበረን፤ ከም ሲስራ፣ ከም ያቢን ኣብ ማይ-ጐድኒ ቅሾን።",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ግበረን"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ሎም"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "ከም ምድያም"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "ከም ሲስራ"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "ከም ያቢን"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ኣብ ማይ-ጐድኒ"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "ቅሾን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:57.500522420Z",
+  "model": "glm-5.3"
+}

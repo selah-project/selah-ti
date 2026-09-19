@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኖኽ ድማ ተወጸ፣ ውላዱቱን ሚስቱን ሉዓላት ውላዱቱን ምስኡ ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ተወጸ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖኽ"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ውላዱቱን"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ሚስቱን"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ሉዓላት"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱቱ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ምስኡ ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-18T20:35:21.918257999Z",
+  "model": "glm-5.3"
+}

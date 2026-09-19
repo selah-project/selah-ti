@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ብያህዌህ ሓተተሉ፣ መግቢ ሃበሉ፣ ⟨את⟩ ስዒር ጎልያት ፍልስጢማዊ እውን ሃበሉ።",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ሓተተሉ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሽቶይ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ብያህዌህ"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "መግቢ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሽቶይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስዒር ጎልያት"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ስዒር"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "ጎልያት"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ፍልስጢማዊ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሽቶይ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:13:38.812340935Z",
+  "model": "glm-5.3"
+}

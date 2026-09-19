@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ነቲ ክፉእ ድማ ኤሎሂም በለ፦ «እንታይ ኣሎካ ንሕግታተይ ክትዛረብ፧ ቓል ኪዳንይ ድማ ኣብ ኣፍኻ ክተዓውት፧»",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "ነቲ ክፉእ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ኣሎካ"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "ክትዛረብ"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "ሕግታተይ"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "ክተዓውት"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ቓል ኪዳንይ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ኣፍኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:00:30.124422312Z",
+  "model": "glm-5.3"
+}

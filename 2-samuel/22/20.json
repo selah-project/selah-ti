@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ናብ ስፍሕታ ኣውጺኣኒ ⟨את⟩፤ ረዲአኒ፣ ምኽንያቱ ንኣነ ደለኒ።",
+  "tokens": [
+    {
+      "surface": "וציא",
+      "gloss": "ኣውጺኣኒ"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "ናብ ስፍሕታ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ኣነ"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "ረዲአኒ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ደለኒ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ንኣነ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:42:09.851149186Z",
+  "model": "glm-5.3"
+}

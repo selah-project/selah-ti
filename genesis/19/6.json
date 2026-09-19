@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ሎጥ ድማ ወጸ ናብኦም ናብ ኣፍደገ እቲ በር፣ እቲ በር ድማ ኣብ ድሕሪኡ ዓቐጸ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ናብኦም"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ሎጥ"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "ናብ ኣፍደገ እቲ በር"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "እቲ በር"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ዓቐጸ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ኣብ ድሕሪኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:42:23.584470505Z",
+  "model": "glm-5.3"
+}

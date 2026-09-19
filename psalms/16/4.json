@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ኣሳቓይቶም ንእቶም ኣብ ካልእ ዝተቐጽሉ ይብዝሑ፤ መስዋእቲ ደም ኣብ ኣማልኽቶም ኣይተኸፍኦን፣ ኣስማቶም ድማ ⟨את⟩ ኣብ ከምብይ ኣይወሰድን።",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "ይብዝሑ"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "ኣሳቓይቶም"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ንካልእ"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "ዝተቐጽሉ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "ተኸፍኦን"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "መስዋእቶም"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ካብ ደም"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ወሰድን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣስማቶም"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "ኣስማቶም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ከምብይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:04.556432757Z",
+  "model": "glm-5.3"
+}

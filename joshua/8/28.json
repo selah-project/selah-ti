@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 8:28",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "የሆሹዋዕ ድማ ⟨את⟩ ኣይ ሰዓረዋ፣ ከላላ ናይ ዘለኣለም ጥፍኣት ክሳብ ሎሚ እዚ መዓልቲ እዚ ገበረዋ።",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "ሰዓረዋ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣይ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "וישימה",
+      "gloss": "ገበረዋ"
+    },
+    {
+      "surface": "תל",
+      "gloss": "ከላላ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ናይ ዘለኣለም"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ጥፍኣት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ እዚ መዓልቲ እዚ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:20:32.951797046Z",
+  "model": "glm-5.3"
+}

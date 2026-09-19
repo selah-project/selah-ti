@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ህክምቲ ርዱዓት መገዶም ምርዳእ እዩ፤ ምሃድ ኣምሃድቲ ግን ምዃት እዩ።",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "ህክምቲ"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ርዱዕ"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "ምርዳእ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "መገዱ"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "ምሃድ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ኣምሃድቲ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ምዃት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:48:40.886422787Z",
+  "model": "glm-5.3"
+}

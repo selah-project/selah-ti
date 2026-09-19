@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ናብ ኣነ ተወፅእ፣ ስደተይ ድማ ስዓበኒ፣ ምኽንያቱ ብቻይን ድኹስን እየ።",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "ተወፅእ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ናብ ኣነ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ስዓበኒ ድማ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "ብቻይ"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ድኹስን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:33.375097042Z",
+  "model": "glm-5.3"
+}

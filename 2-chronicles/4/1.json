@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ወዲ ድማ ማሕደር ናይ ናሕሲ ገበረ፤ ንኣማ ዕስራ ኩሉ ርዝኑ፣ ንኣማ ዕስራ ስፍሓቱ፣ ንኣማ ድማ ዓሰርተ ቁመቱ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ናይ ናሕሲ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዕስራ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ንኣማ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ርዝኑ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ንኣማ ዕስራ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ኣማ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ስፍሓቱ"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ንኣማ"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ቁመቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:57:16.736467811Z",
+  "model": "glm-5.3"
+}

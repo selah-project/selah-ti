@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ያህዌህ ኤሎሂም ድማ ነቲ ሰብ ኣዘዞ ኢሉ፦ «ካብ ኩሉ ኦም ናይ እታ ገነት ክትብል ትብል።»",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ኣዘዞ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ኦም"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ናይ እታ ገነት"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ክትብል"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ትብል"
+    }
+  ],
+  "timestamp": "2026-09-18T20:30:45.809865536Z",
+  "model": "glm-5.3"
+}

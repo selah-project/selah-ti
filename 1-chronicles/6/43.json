@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ከምኡውን ⟨את⟩ ሕለንን ምስ ሜዳታታን፣ ⟨את⟩ ዲቢርን ምስ ሜዳታታን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሕለን"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "ሕለን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሜዳታታ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ሜዳታታ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዲቢር"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "ዲቢር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሜዳታታ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ሜዳታታ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:33:39.057568148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 22:3",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ዳዊድ ድማ ንቈርሸላት ኣፍርሻት ቐረጻታትን ንተማዕዳታትን ብብዙሕ ብርቱኳት ኣዳለዎ፤ ሓሙሽታ ድማ ብብዙሕ ክብደት የብላን።",
+  "tokens": [
+    {
+      "surface": "וברזל",
+      "gloss": "ብርቱኳት"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ብብዙሕ"
+    },
+    {
+      "surface": "למסמרים",
+      "gloss": "ንቈርሸላት"
+    },
+    {
+      "surface": "לדלתות",
+      "gloss": "ኣፍርሻት"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ቐረጻታት"
+    },
+    {
+      "surface": "ולמחברות",
+      "gloss": "ንተማዕዳታት"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ኣዳለዎ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ሓሙሽታ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ብብዙሕ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የብላን"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "ክብደት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:46:28.332738421Z",
+  "model": "glm-5.3"
+}

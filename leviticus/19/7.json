@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኣብ ሳልሳይ መዓልቲ ⟨እንተ⟩ ክንበላ ተበሊዓ እንተ ዝኾነ፣ ርኽብ እዩ፣ ኣይውዕልን እዩ።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "ክንበላ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ተበሊዓ እንተ ዝኾነ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ሳልሳይ መዓልቲ"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "ርኽብ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ውዕልን እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:00:54.261242190Z",
+  "model": "glm-5.3"
+}

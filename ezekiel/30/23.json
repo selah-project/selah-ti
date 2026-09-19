@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 30:23",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ከምኡውን ⟨את⟩ ሚጽራይም ኣብ ህዝብታት ክሰናብጥ እየ፣ ኣብ ሃገራት ድማ ክዘርፎም እየ።",
+  "tokens": [
+    {
+      "surface": "והפצותי",
+      "gloss": "ክሰናብጥ እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚጽራይም"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ኣብ ህዝብታት"
+    },
+    {
+      "surface": "וזריתם",
+      "gloss": "ክዘርፎም እየ"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "ኣብ ሃገራት"
+    }
+  ],
+  "timestamp": "2026-09-19T03:50:21.790183310Z",
+  "model": "glm-5.3"
+}

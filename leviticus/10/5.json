@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ቀረቡን ድማ ብልሳኖም ናብ ወጻዕ ናይ እቲ ሰፈር ኣውጽኡዎም፣ ከም ዝበሎ ሞሸ።",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "ቀረቡን"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "ኣውጽኡዎም"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "ብልሳኖም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ወጻዕ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ናይ እቲ ሰፈር"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝበሎ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:53:52.866959304Z",
+  "model": "glm-5.3"
+}

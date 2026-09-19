@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ኣነ ግን ብጽድቒይ እኽደ፣ ናድኒ ከምኡውን ስዒበኒ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ግን"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "ብጽድቒይ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "እኽደ"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "ናድኒ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ስዒበኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:37.935195759Z",
+  "model": "glm-5.3"
+}

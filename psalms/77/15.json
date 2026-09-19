@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 77,
+  "translation": "ንስኻ እቲ ኤል ተኣማኒነታት ዝገብር፣ ኣብ ህዝብታት ሓይሊኻ ኣፍለጥካ።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "האל",
+      "gloss": "እቲ ኤል"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገብር"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "ተኣማኒነታት"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "ኣፍለጥካ"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "ኣብ ህዝብታት"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ሓይሊኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:00.371458730Z",
+  "model": "glm-5.3"
+}

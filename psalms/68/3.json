@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ከም ዝተሓብለ ጸላእ ተሓብለ፣ ከም ዝተባርረ ስል ካብ ቅድሚ ሓዊ፣ ኣረኣእያ ካብ ቅድሚ ኤሎሂም ይጠፍኡ።",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "ከም ዝተሓብለ"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ጸላእ"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "ተሓብለ"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "ከም ዝተባርረ"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "ስል"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ካብ ቅድሚ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ይጠፍኡ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኣረኣእያ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ካብ ቅድሪ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:06.648502233Z",
+  "model": "glm-5.3"
+}

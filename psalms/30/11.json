@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ስምዕ ያህዌህ፣ ርሕረኒ፤ ያህዌህ፣ ሓጋዚ ኩነኒ።",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ስምዕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ከምኡውን ርሕረኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ኩን"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ሓጋዚ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:23.235792144Z",
+  "model": "glm-5.3"
+}

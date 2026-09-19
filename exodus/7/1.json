@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ያህዌህ ድማ ናብ ሞሸ በለ፦ ርኣይ፣ ንስኻ ንፓርዖ ኣምላኽ ገበርኩኻ፣ ኣሃሮን ድማ ሓውካ ነብዪኻ ክኸውን እዩ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ርኣይ"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ገበርኩኻ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኣምላኽ"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ንፓርዖ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ሓውካ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክኸውን"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "ነብዪኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:15:00.241622494Z",
+  "model": "glm-5.3"
+}

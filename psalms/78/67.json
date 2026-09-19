@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "እቲ ማሕደር ዮሴፍ ዲሉ ምሳሕ፣ እቲ ወገን ኤፍራይምን ኣይመርጾን።",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "ምሳሕ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ኣብ ማሕደር"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "ንወገን"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "መርጸ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:34.335079542Z",
+  "model": "glm-5.3"
+}

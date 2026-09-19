@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ከሉብ ድማ፣ ናይ ሹኻ ኣሕዋቱ ን⟨את⟩ መሕር ወለደ፤ ንሱ ኣቦ ኣሽቶን እዩ።",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "ከሉብ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ናይ ሹኻ ኣሕዋቱ"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "ሹኻ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሕር"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "መሕር"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "ኣሽቶን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:32:43.167222324Z",
+  "model": "glm-5.3"
+}

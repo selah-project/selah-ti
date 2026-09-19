@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "እታ ናይ ዕፉር ከይሽን ኣይተወደአትን፣ እታ ናይ ዘት ስኒ እውን ኣይጎደለትን፣ ብቓል ያህዌህ ከም ዝዛረቦ ብኢድ ኤልያሁ።",
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "ከይሽን"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "እታ ናይ ዕፉር"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "ተወደአትን"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "እታ ናይ ዘት ስኒ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ናይ ዘት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ጎደለትን"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ብቓል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ከም ዝ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዛረቦ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያሁ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:03:55.622060743Z",
+  "model": "glm-5.3"
+}

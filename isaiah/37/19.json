@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ከምኡውን ⟨את⟩ ኣማልክቶም ኣብ ሓዊ ኣእቱዎም፤ እስመ ኣማልክቲ ኣይኮኑን፣ እንተ ዘይኮይኑ ብኢድታት ሰብ ዝተገበሩ እኽሊን ውልቂን እዮም፤ ስለዚ ኣጥፊኦምዎም።",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ኣእቱዎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣማልክቶም"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ኣማልክቶም"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ኣብ ሓዊ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እስመ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮኑን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኣማልክቲ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ ዘይኮይኑ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ዘይኮይኑ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ዝተገበሩ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ብኢድታት"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ውልቂን"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "ኣጥፊኦምዎም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:06:49.685363404Z",
+  "model": "glm-5.3"
+}

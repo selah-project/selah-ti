@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 3:7",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ነታ ቤት ⟨את⟩ ነቶም ጽላታትን መእተይታትን ክሳባትኣን ኣፍተታትኣን ብወርቂ ሸፈነ፣ ኣብ እተኣ ክሳባት ድማ ኩሩቤም ቐረጸ።",
+  "tokens": [
+    {
+      "surface": "ויחף",
+      "gloss": "ሸፈነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነታ ቤት"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "הקרות",
+      "gloss": "ጽላታት"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "መእተይታት"
+    },
+    {
+      "surface": "וקירותיו",
+      "gloss": "ክሳባትኣ"
+    },
+    {
+      "surface": "ודלתותיו",
+      "gloss": "ኣፍተታትኣ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "ቐረጸ"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "ኩሩቤም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "እተኣ ክሳባት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:56:39.897292935Z",
+  "model": "glm-5.3"
+}

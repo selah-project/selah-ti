@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "«ንስኻ ንስሐደግ!» በሎ፤ ንሱ ድማ ኢዱ ወጸሉ እንጌሮ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "ንስሐደግ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ወጸሉ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "እንጌሮ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:16:08.380179110Z",
+  "model": "glm-5.3"
+}

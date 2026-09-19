@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 96,
+  "translation": "ኣብ ኣህዛብ «ያህዌህ ነገሰ» ብሉ፤ እቲ ዓለም ድማ ይቕመጥ፣ ኣይተንቐለቐን፤ ኣብ ጽድቂ ሕዝባት ይፈርድ እዩ።",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ብሉ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ኣብ ኣህዛብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነገሰ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ይቕመጥ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ዓለም"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ይተንቐለቐ"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ይፈርድ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝባት"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "ኣብ ጽድቂ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:29.252238673Z",
+  "model": "glm-5.3"
+}

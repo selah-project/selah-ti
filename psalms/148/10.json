@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 148,
+  "translation": "እንስሳታትን ኩሉ ብሕቶትን፣ ኣራዊት ዝንቀሳቐሱን ወፍቲ ክንፊን።",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "እንስሳታት"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ብሕቶት"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ኣራዊት ዝንቀሳቐሱ"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "ወፍቲ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ክንፊ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:12.716964120Z",
+  "model": "glm-5.3"
+}

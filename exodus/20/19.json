@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ናብ ሞሸ እናበሉ፦ «ንስኻ ተዛረበና፣ ንሰምዕ፤ ኤሎሂም ኰይኑ ኣይዛረበናን፣ ከይንሞት ኢና።»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "እናበሉ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ምና"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "ንሰምዕ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ዛረበ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ምና"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ከይንሞት"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "ንሞት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:24:20.363574938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ስለ ሰላም ኣይዛረቡን፣ ንሰኣይቲ ምድሪ ድማ ቃላት ብውሽጢ ይሓስቡ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ይዛረቡ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "ሰኣይቲ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "ብውሽጢ"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "ይሓስቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:14.549034869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ናይ ዳዊድ መዝሙር። ምድሪን ምልእታኣን ንያህዌህ ⟨እያ⟩፣ ዓለምን ኣብኣ ዝነውርዎን።",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "ምልእታኣን"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ዓለም"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ዝነውርዎን"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:46.640257288Z",
+  "model": "glm-5.3"
+}

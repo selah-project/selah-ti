@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 20:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ሕጂ ኣይ ፈሊጠ እየ ከም ያህዌህ ንማሺያሕኡ የድሕን፤ ካብ ሰማያት ቅዱስኡ ይመልሶ፣ ብዓበይቲ ሓይሊ ኢድ የማናኡ የድሕን።",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ፈሊጠ እየ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "የድሕን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ማሺያሕኡ"
+    },
+    {
+      "surface": "יענהו",
+      "gloss": "ይመልሶ"
+    },
+    {
+      "surface": "משמי",
+      "gloss": "ካብ ሰማያት"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስኡ"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "ብዓበይቲ ሓይሊ"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "ምድሓን"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ኢድ የማናኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:18.606464515Z",
+  "model": "glm-5.3"
+}

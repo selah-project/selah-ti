@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ያህዌህ ድማ ናብ ሻሙኤል በለ፦ «ንድምጺ ቲ ሕዝቢ፣ ንኹሉ ዝብሉኻ ስማዕ፤ ምኽንያቱ ⟨את⟩ ንኣኻ ኣይሓደርዎን፣ ⟨את⟩ ንዓይ ሓደርዎ፣ ካብ ምንጉስ ኣብ ልዕሊኦም።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሻሙኤል"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ስማዕ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ንድምጺ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ንቲ ሕዝቢ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ዝብሉኻ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ንኣኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ንኣኻ"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "ሓደሩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ንዓይ"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "ሓደሩ"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "ካብ ምንጉስ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ኣብ ልዕሊኦም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:59:24.451169182Z",
+  "model": "glm-5.3"
+}

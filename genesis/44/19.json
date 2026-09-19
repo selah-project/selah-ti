@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "«ጎይታ ⟨את⟩ ዓማውቱ ሓተቶም ኢሉ፦ ኣቦ ወይ ሓው ኣለኹም ድዩ?»",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ጎይታ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ሓተቶም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓማውቱ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ዓማውቱ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ኣለ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንስኻትኩም"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ሓው"
+    }
+  ],
+  "timestamp": "2026-09-18T21:05:24.542683776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ውላደ ኣሃሮን ኣካልትኡ ⟨את⟩ ነቶም ቍራቓት፣ ⟨את⟩ ነቲ ርእሲን ⟨את⟩ ነቲ ጥቡእን ኣብ ልዕሊ እቶም ሽግርቲ ዝርከባ ኣብ ልዕሊ እቲ ሓዊ ዝውሃብ ኣብ ልዕሊ መሠወኪ ዝርከብ የቐምጡ።",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "የቐምጡ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ኣካልትኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ቍራቓት"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "ነቶም ቍራቓት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ርእሲ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ነቲ ርእሲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ጥቡእ"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "ነቲ ጥቡእ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "እቶም ሽግርቲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "እቲ ሓዊ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠወኪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:46:49.347912907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 132,
+  "translation": "ክሳብ እንተ ረኺብኩ ቦታ ንያህዌህ፣ ማሕደር ንያዕቆቭ ጠንካራ።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "እንተ ረኺብኩ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "ንያዕቆቭ ጠንካራ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:26.836508237Z",
+  "model": "glm-5.3"
+}

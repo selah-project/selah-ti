@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 23:6",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ኣቢያታር ወዲ ኣሕሜለክ ናብ ዳዊድ ናብ ቄይላ ብዝሰርሕ እዋን፣ ኤፉድ ምስ ኢዱ ወሪዱ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "בברח",
+      "gloss": "ብዝሰርሕ እዋን"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "ኣቢያታር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "ኣሕሜለክ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ቄይላ"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ኤፉድ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ወሪዱ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ምስ ኢዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:13:08.848513368Z",
+  "model": "glm-5.3"
+}

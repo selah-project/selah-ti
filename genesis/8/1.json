@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኤሎሂም ንኖኅ ዘኻኺሩ፣ ⟨את⟩ ኩሉ ሕያውን ⟨את⟩ ኩሉ እንስሳ እቶም ⟨את⟩ ምስኦ ኣብ መርከብ ዝነበሩ፣ ኤሎሂም ድማ ንፋስ ኣብ ልዕሊ ምድሪ ኣስተሓለወ፣ ማይ ድማ ደቐቑ።",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "ዘኻኺሩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኖኅ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖኅ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ሕያው"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እንስሳ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "እንስሳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ምስኦ"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "ኣብ መርከብ"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ኣስተሓለወ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ንፋስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "ደቐቑ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ማይ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:35:31.043462211Z",
+  "model": "glm-5.3"
+}

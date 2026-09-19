@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 55,
+  "translation": "ኣሎ፣ ንኣህዛብ ምስክር ሃብክዎ፣ ንኣህዛብ ከኣ ኣመሓዳሪን ዝኣዝዝን።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ምስክር"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "ንኣህዛብ"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "ሃብክዎ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ኣመሓዳሪ"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "ከምኡውን ዝኣዝዝ"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ንኣህዛብ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:18:53.171349131Z",
+  "model": "glm-5.3"
+}

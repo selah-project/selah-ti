@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "⟨את⟩ እቶም ህዝብታት ኣይሰደድዎምን ነበሩ፣ እቶም ያህዌህ ነቶም እተዛረቦም ዝነበሩ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "ሰደድዎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ህዝብታት"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "እቶም ህዝብታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እተዛረቦም ዝነበሩ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ነቶም እተዛረቦም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ነቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:37.733632951Z",
+  "model": "glm-5.3"
+}

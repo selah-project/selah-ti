@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 134,
+  "translation": "መዝሙር ናይ መዓርገታት። ኣረኣእያ፣ ኩሉ ኣገልጋሊ ያህዌህ፣ እቶም ኣብ ቤት ያህዌህ ኣብ ለይትታት ኮይኖም ዝቐልጡ፣ ⟨את⟩ ያህዌህ ባረኽዎ።",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ናይ መዓርገታት"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ኣረኣእያ"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ባረኽዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልጋሊ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ኮይኖም ዝቐልጡ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "ኣብ ለይትታት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:51.148998235Z",
+  "model": "glm-5.3"
+}

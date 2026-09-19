@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 99,
+  "translation": "ኣብ ኣምዳ ደቀቕ ነኦም ተዛረበ፤ ምስክትታቱ ሓለዉ፣ ሕጊን ሃቦም።",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "ኣብ ኣምዳ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ደቀቕ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ነኦም"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ሓለዉ"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "ምስክትታቱ"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "ሕጊን"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ነኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:56.062576395Z",
+  "model": "glm-5.3"
+}

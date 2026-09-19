@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ንሱ ድማ ብዛዕባ እዚ ኣቢርያካ፣ ንሓይሊይ ⟨את⟩ ንኽርእየካ፣ ስምይ ድማ ኣብ መላለይ ምድሪ ንኽውደስ ብዛዕባ እዚ ኣቢርያካ።",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ንሱ ድማ"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ብዛዕባ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "ኣቢርያካ"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ብዛዕባ"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "ንኽርእየካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓይሊይ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ሓይሊይ"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ስምይ ድማ ን"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ንኽውደስ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ስምይ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ መላለይ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:16:53.188164982Z",
+  "model": "glm-5.3"
+}

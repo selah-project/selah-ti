@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 9:3",
+  "book": "zechariah",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ጽሮ ከኣ ንገዛ መከላ ሓንጺራ፣ ብር ከም አራዊ ኣኽቲበት፣ ወርቂን ከም ጭትሊ ጎድንዮታት ኣክቲበት።",
+  "tokens": [
+    {
+      "surface": "ותבן",
+      "gloss": "ሓንጺራ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ጽሮ"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "መከላ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ንገዛ"
+    },
+    {
+      "surface": "ותצבר",
+      "gloss": "ኣክቲበት"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "ከም አራዊ"
+    },
+    {
+      "surface": "וחרוץ",
+      "gloss": "ወርቂን"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "ከም ጭትሊ"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "ጎድንዮታት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:36:20.915905346Z",
+  "model": "glm-5.3"
+}

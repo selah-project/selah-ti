@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 118,
+  "translation": "ያህዌህ ኣብሉት ሰዓላተይ ኣብ ዝቕመጡ ንኣነ ይኹን፣ ንኣነ ድማ ነቶም ዘመንቑኒ ክረኣየ እየ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "ኣብሉት ሰዓላተይ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ንኣነ ድማ"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ክረኣየ"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "ነቶም ዘመንቑኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:57.834002351Z",
+  "model": "glm-5.3"
+}

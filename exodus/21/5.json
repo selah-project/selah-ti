@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "እንተ እቲ ኣገልገልቲ ብግልጺ እናበለ በለ፦ «ንጎይተይ፣ ⟨את⟩ ሰበይተይን ⟨את⟩ ውላደይን ኣፍቀርኩ፤ ናጻ ኣይወጸን።»",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "እቲ ኣገልገልቲ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ኣፍቀርኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጎይተይ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጎይተይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰበይተይ"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "ሰበይተይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ውላደይ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "ናጻ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:27:18.160035029Z",
+  "model": "glm-5.3"
+}

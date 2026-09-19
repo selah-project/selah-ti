@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ውን ንምሃብ ትምህርቲ ⟨את⟩ ውላድ ይስራኤል ⟨את⟩ ኩሉ ⟨እቶም⟩ ትእዛዛት ዝዛረቦም ያህዌህ ብኢድ ሞሸ።",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "ንምሃብ ትምህርቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ ይስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ትእዛዛት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "⟨እቶም⟩ ትእዛዛት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዛረበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ንኣስቶም"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:53:31.251661398Z",
+  "model": "glm-5.3"
+}

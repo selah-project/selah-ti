@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እቶም ሰባትካ ዕጉባት እዮም፣ እዞም ኣገልገልትካ እዚኦም እናተቐመጡ ኣብ ቅድሚኻ ኩሉ ግዜ እናሰምዑ ⟨את⟩ ጥበብካ ዕጉባት እዮም።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ዕጉባት"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "ሰባትካ"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "ዕጉባት-ን"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ኣገልገልትካ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "እናተቐመጡ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ኣብ ቅድሚኻ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ኩሉ ግዜ"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "እናሰምዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጥበብካ"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ጥበብካ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:02:27.609399133Z",
+  "model": "glm-5.3"
+}

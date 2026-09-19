@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ሳልሞን ድማ ⟨את⟩ ቦዓዝ ወልዱ፣ ቦዓዝ ድማ ⟨את⟩ ዓበድ ወልዱ።",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "ሳልሞን ድማ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወልዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቦዓዝ"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ቦዓዝ"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "ቦዓዝ ድማ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወልዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓበድ"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ዓበድ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:30:05.170764091Z",
+  "model": "glm-5.3"
+}

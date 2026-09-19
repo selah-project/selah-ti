@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 9:5",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "መጸ፤ ኣብዚ ኣጃብቲ ሰራዊት ተቐሚጦም ነበሩ። «ኣጃብት፣ ቃል ኣሎኒ ንዓኻ» በለ፤ የሆሹዋዕ ድማ «ካብና ኩሎም ናብ መን?» በለ፤ ንሱ ድማ «ንዓኻ ኣጃብት» በሎ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣብዚ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ኣጃብቲ"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "ተቐሚጦም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ኣሎኒ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ንዓኻ"
+    },
+    {
+      "surface": "השר",
+      "gloss": "ኣጃብት"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "מכלנו",
+      "gloss": "ካብና ኩሎም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ንዓኻ"
+    },
+    {
+      "surface": "השר",
+      "gloss": "ኣጃብት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:20:11.334114993Z",
+  "model": "glm-5.3"
+}

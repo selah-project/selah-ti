@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 118,
+  "translation": "ኤልይ ንስኻ እኽ፣ ኤሎሃይ ኣደምዐኻ፤ ኤሎሃይ ኣምዓብኻ።",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "ኤልይ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "ኣደምዐኻ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሃይ"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ኣምዓብኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:32.539613069Z",
+  "model": "glm-5.3"
+}

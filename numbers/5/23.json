@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ነብዪዋን ⟨את⟩ እዞም ኣላሉታት እዚኦም ኣብ መጽሓፍ ይጽሓፎም፣ ኣብ ቅሩብ ማይ'ውን የሕርሶም።",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "ይጽሓፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንቲ ኣላሉታት"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "ኣላሉታት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዞም"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ነብዪዋን"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "ኣብ መጽሓፍ"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "የሕርስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "ቅሩብ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:16:03.855541003Z",
+  "model": "glm-5.3"
+}

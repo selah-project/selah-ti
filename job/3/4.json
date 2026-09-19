@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እቲ መዓልቲ ጸልማት ኩነታት ይኹን፣ ኤሎሃ ካብ ላዕሊ ኣይድልዮ፣ ብርሃን እውን ኣብ ላዕሊኡ ኣይብርሃን።",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "እቲ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ኡ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ይኹን"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጸልማት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "ኣይድልዉ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ኤሎሃ"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ካብ ላዕሊ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እውን ኣይ"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "ኣይብርሃን"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ላዕሊኡ"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "ብርሃን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:01:41.554235345Z",
+  "model": "glm-5.3"
+}

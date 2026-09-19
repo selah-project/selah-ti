@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 63,
+  "translation": "ስኢና ዘዝክረካ ኣብ ውሽጢ ኣልጋኦ፣ ኣብ መርበብ ለይቲ ድማ ኣኽንየ ብኻ እየ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ስኢና"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "ዘዝክረካ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "ኣልጋኦ"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "ኣብ መርበብ ለይቲ"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "ኣኽንየ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ብኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:57.633914345Z",
+  "model": "glm-5.3"
+}

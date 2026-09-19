@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ከም እቲ ዘይሰምዕ ሰብ ኮይነ፣ ኣብ ኣፉ ኸኣ መልሲ የብሉን።",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ኮይነ"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ከም እቲ ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዕ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የብሉን"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ኣብ ኣፉ"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "መልሲ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:24.741395684Z",
+  "model": "glm-5.3"
+}

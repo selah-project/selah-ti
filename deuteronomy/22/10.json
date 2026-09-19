@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ብሓባር ብሓባር ብብሬን ብኣጋልን ኣይትሓርስን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ትሓርስ"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "ብብሬ"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "ብኣጋል"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ብሓባር"
+    }
+  ],
+  "timestamp": "2026-09-18T22:59:59.279615904Z",
+  "model": "glm-5.3"
+}

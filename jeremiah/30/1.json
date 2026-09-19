@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "እቲ ቃል እቲ ናብ ይርምያሁ ካብ ⟨את⟩ ያህዌህ ዝኾነ፣ ንምንግር ዝበለ፦",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ቃል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ይርምያሁ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ንምንግር"
+    }
+  ],
+  "timestamp": "2026-09-19T02:56:07.153185665Z",
+  "model": "glm-5.3"
+}

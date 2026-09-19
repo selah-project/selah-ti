@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 94,
+  "translation": "ዙፋን ኣጥፍኣት ምስ ኣኻ ይተሓላልን — ኣብ ልዕሊ ሕጊ ኣጥፍኣት ዝፈጥሕ?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "ምስ ኣኻ ይተሓላልን"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ዙፋን"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ኣጥፍኣት"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ዝፈጥሕ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ኣጥፍኣት"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ሕጊ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:20.211162557Z",
+  "model": "glm-5.3"
+}

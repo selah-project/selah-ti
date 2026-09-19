@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ነቲ ቀለቡታቱ ⟨את⟩ ኣብቲ ቀበትታት ኪኣቱ ኣሎ፤ ነቶም ቀለቡታት ኣብ ክልተ ጎናዊ እቲ መሥዋዕቲ ቤት ኮይኖም፣ ኣብ ምሸጦ ⟨את⟩ ንሱ ይኹኑ።",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "ኪኣቱ ኣሎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ቀለቡታቱ"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ቀለቡታቱ"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "ኣብቲ ቀበትታት"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ኮይኖም"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ነቶም ቀለቡታት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "ጎናዊ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "እቲ መሥዋዕቲ ቤት"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "ኣብ ምሸጦ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:31:37.609022943Z",
+  "model": "glm-5.3"
+}

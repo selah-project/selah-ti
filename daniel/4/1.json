@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣነ ንቡካድነጽር ኣብ ቤተይ ሰላም ዝበለ ነይሩኒ፣ ኣብ ቤተ መንግስተይ ድማ ዝተሓጸበ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "ንቡካድነጽር"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "ሰላም ዝበለ"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "ነይሩኒ"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "ኣብ ቤተይ"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "ዝተሓጸበ"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "ኣብ ቤተ መንግስተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:57:09.488151170Z",
+  "model": "glm-5.3"
+}

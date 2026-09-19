@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "«ነቲ ህዝቢ ድማ ተዛረቡ፦ ተሻግሩ፣ ⟨את⟩ ⟨ቲ⟩ ከተር ድማ ኣዙሩ፣ እቶም ዝተጠነሰሱ ድማ ኣብ ቅድሚ ታቦት ያህዌህ ክሻግሩ እዮም።»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ተዛረቡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ተሻግሩ"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "ኣዙሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተር"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተር"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "እቶም ዝተጠነሰሱ"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ክሻግር"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:17:35.801004898Z",
+  "model": "glm-5.3"
+}

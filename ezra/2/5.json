@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ውላድ ኣራሕ፣ ሰባ ሚእታት ሸሞንተን ሸውዓትን።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ኣራሕ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሰባ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚእታት"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ሸሞንተን"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ሸውዓትን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:03:46.388271714Z",
+  "model": "glm-5.3"
+}

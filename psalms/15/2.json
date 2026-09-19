@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ዘይጥፍኡ ዝኼነ፣ ጽድቂ ዝገብር፣ ሓቂ ኣብ ልቡ ዝዛረብ —",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ዝኼነ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ዘይጥፍኡ"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ዝገብር"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ዝዛረብ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ሓቂ"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "ኣብ ልቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:23.010738232Z",
+  "model": "glm-5.3"
+}

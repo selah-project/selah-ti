@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "እዚ ትውልቪ እዚ ዝደለይዎን ገጽካ ዝደለዩን እዩ፤ እዚ ያዕቆቭ እዩ። ሰላህ።",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ትውልቪ"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ዝደለይዎ"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ዝደለዩ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽካ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:48.618442636Z",
+  "model": "glm-5.3"
+}

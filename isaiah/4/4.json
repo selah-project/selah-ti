@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ምስ ዝሓጽብ ኣዶናይ ⟨את⟩ ሑሳብ ወድቲ ጽሮን፣ ⟨ואת⟩ ደም የሩሻላይም ድማ ብመንፈስ ፍዳን ብመንፈስ ሓዊን ካብ ማእከላ ክሰምር እዩ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "ዝሓጽብ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሑሳብ ወድቲ ጽሮን"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "ሑሳብ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ወድቲ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽሮን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ደም የሩሻላይም"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "ክሰምር"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "ካብ ማእከላ"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ብመንፈስ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍዳ"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "ብመንፈስን"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ሓዊ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:44:17.331076427Z",
+  "model": "glm-5.3"
+}

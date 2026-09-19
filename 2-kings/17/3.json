@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 17:3",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኣብ ልዕሊ ንሱ ደረገ ሽልማንኣስር ንጉስ ኣሽውር፣ ሖሸዕ ድማ ኣገልጋሊ ኮይኑ ነበረ፣ ወፈያ ከኣ ይብክል ነበረ ንእሱ።",
+  "tokens": [
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊ ንሱ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ደረገ"
+    },
+    {
+      "surface": "שלמנאסר",
+      "gloss": "ሽልማንኣስር"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣሽውር"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ ነበረ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሱ"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "ሖሸዕ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ኣገልጋሊ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ይብክል ነበረ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሱ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ወፈያ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:31:39.958523697Z",
+  "model": "glm-5.3"
+}

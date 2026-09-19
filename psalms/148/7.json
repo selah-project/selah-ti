@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 148,
+  "translation": "ካብ ምድሪ ያህዌህ ⟨את⟩ ምሰጉ፤ ታናይናትን ኹሉ ጥላይታትን።",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ምሰጉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "ታናይናት"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኰነውን ኹሉ"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "ጥላይታት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:47.386430297Z",
+  "model": "glm-5.3"
+}

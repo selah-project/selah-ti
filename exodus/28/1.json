@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 28:1",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ንስኻ ድማ ነቲ ኣሕዋትካ ኣሕሮን ⟨את⟩ ውላዱን ምስ እኳ ናብኻ ካብ ውሽጢ ውላደ እስራኤል ንኽካሑኑ ለይ ተወሊዥካ፤ ኣሕሮን፣ ናዳብን ኣብያሁን፣ ኤልዓዛርን ኢትራምን፣ ውላደ ኣሕሮን።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ተወሊዥካ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሕሮን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሕሮን"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ኣሕዋትካ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ውላዱ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ምስ ⟨את⟩ እኳ"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ካብ ውሽጢ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "ንኽካሑን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለይ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሕሮን"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ናዳብ"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ኣብያሁን"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ኢትራምን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሕሮን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:33:39.288628238Z",
+  "model": "glm-5.3"
+}

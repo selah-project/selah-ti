@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ሞሸ ነቶም ⟨את⟩ ኩሉ እዚኦም ቃላት ንኩሉ እስራኤል ምሉእ በለ ኮይኑ ተዛረቦም።",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ምሉእ በለ ኮይኑ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ክዛረብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T23:12:13.982426713Z",
+  "model": "glm-5.3"
+}

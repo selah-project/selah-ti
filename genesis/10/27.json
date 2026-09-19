@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ድማ ⟨את⟩ ሓዶራምን ⟨את⟩ ኡዛልን ⟨את⟩ ዲቅላን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሓዶራም"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ሓዶራም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኡዛል"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ኡዛል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዲቅላ"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "ዲቅላ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:25.713918150Z",
+  "model": "glm-5.3"
+}

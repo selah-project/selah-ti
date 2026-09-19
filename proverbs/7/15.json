@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ስለዚ ንምላስኻ ወጹኩ፤ ገጽካ ንምድለይ እኳ ረኺበካ።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚ"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "ወጹኩ"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "ንምላስኻ"
+    },
+    {
+      "surface": "לשחר",
+      "gloss": "ንምድለይ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽካ"
+    },
+    {
+      "surface": "ואמצאך",
+      "gloss": "ረኺበካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:44:40.252924991Z",
+  "model": "glm-5.3"
+}

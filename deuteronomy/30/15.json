@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ርኢ፣ ሎሚ ⟨את⟩ ህይወትን ⟨את⟩ በጺሕን ⟨את⟩ ሞትን ⟨את⟩ እስክትኣትን ኣብ ቅድሚኻ ነይረ እየ እለካ።",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ርኢ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ነይረ እየ እለካ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ኣብ ቅድሚኻ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ህይወት"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ህይወት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "በጺሕ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "በጺሕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሞት"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እስክትኣት"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "እስክትኣት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:09:32.518557284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣገልጋልቲ ኣብ ኩርናዕ ሮጹኡ ረኣኹ፣ ንሳቶም ድማ ሹማግልቲ ከም ኣገልጋልቲ ኣብ ምድሪ እናኸዱ ረኣኹ።",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ረኣኹ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ኣገልጋልቲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ኩርናዕ"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "ሹማግልቲ ድማ"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "እናኸዱ"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "ከም ኣገልጋልቲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:06:39.929800070Z",
+  "model": "glm-5.3"
+}

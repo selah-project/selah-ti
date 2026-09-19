@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ዓበድ ድማ ⟨את⟩ ይሽይ ወልዱ፣ ይሽይ ድማ ⟨את⟩ ዳዊድ ወልዱ።",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "ዓበድ ድማ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወልዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይሽይ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ይሽይ"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "ይሽይ ድማ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወልዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊድ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:30:05.171562996Z",
+  "model": "glm-5.3"
+}

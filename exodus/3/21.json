@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ነዚ ህዝቢ እዚ ኣብ እዝኒ ሚጽራይም ⟨את⟩ በርኪ ክውህብ እየ፤ ኾነ እሞ ምስ ትኸዱውን ባዶ ኣይትኸዱን።",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ክውህብ እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በርኪ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "በርኪ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ እዝኒ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ኾነ እሞ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "ትኸዱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ትኸዱ"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ባዶ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:12:25.785346180Z",
+  "model": "glm-5.3"
+}

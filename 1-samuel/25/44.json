@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 25:44",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ሻኡል ድማ ⟨את⟩ ሚካል ጓሉ፣ ሰበይቲ ዳዊድ፣ ለፓልቲ ወዲ ላይሽ፣ ናይ ጋሊም ዝኾነ፣ ሃቈ።",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃቈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚካል"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "ሚካል"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ጓሉ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "לפלטי",
+      "gloss": "ለፓልቲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ליש",
+      "gloss": "ላይሽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "מגלים",
+      "gloss": "ናይ ጋሊም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:16:16.922355457Z",
+  "model": "glm-5.3"
+}

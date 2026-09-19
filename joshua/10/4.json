@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "«ውለዑ ናብዓይ ሓግዙኒን ንኽንትንክፍ ⟨את⟩ ግባዐን፣ ምኽንያቱ ምስ ዮሆሹዋዕን ⟨את⟩ ውላድ እስራኤልን ሰላም ገበረት።»",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "ውለዑ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ናብዓይ"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "ሓግዙኒን"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "ንኽንትንክፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ግባዐን"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ግባዐን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "ሰላም ገበረት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮሆሹዋዕ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ዮሆሹዋዕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ እስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T23:23:32.215933806Z",
+  "model": "glm-5.3"
+}

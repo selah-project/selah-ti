@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 47,
+  "translation": "ያዕቆቭ ድማ ⟨את⟩ ፓርዖ ባረኾ፣ ካብ ቅድሚ ፓርዖ ድማ ወጸ።",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ባረኾ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፓርዖ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ካብ ቅድሚ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:06:16.820456001Z",
+  "model": "glm-5.3"
+}

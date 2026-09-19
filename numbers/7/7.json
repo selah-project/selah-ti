@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "⟨את⟩ ክልተ መካይታትን ⟨ואת⟩ ኣርባዕተ በቅቲን ንውላድ ጌርሾን ብኣገልገልቶም ሃቖም።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክልተ መካይታት"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "መካይታት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ኣርባዕተ በቅቲ"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "በቅቲ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃቖም"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ጌርሾን"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ብኣገልገልቶም"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "ኣገልገልቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:15:47.189521929Z",
+  "model": "glm-5.3"
+}

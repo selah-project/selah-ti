@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 102,
+  "translation": "ምኽንያቱ መዓልታተይ ከም ድኽነት ⟨ተወደኣ⟩፤ እቶም ጥዕናተይ ድማ ከም እቲ ማዕጺ ተበንጸቱ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ተወደኣ"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "ከም ድኽነት"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "መዓልታተይ"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "ጥዕናተይውን"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "קד",
+      "gloss": "ማዕጺ"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "ተበንጸቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:04:10.064276858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ያህዌህ ድማ ምስ ⟨את⟩ ዮሴፍ ነይሩ፤ ዝተዓወተ ሰብ ድማ ኮይኑ፣ ኣብ ቤት ጎይታኡ እቲ ሚጽራይ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮሴፍ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "ዝተዓወተ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ጎይታኡ"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "እቲ ሚጽራይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:01:53.368562555Z",
+  "model": "glm-5.3"
+}

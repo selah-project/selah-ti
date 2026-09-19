@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ነቲ ⟨את⟩ በዓቲ ከተማን ⟨את⟩ ግባታታን ብኣቢኡ ንካልዕ ወዲ የፉኔ ኣብ ንብረቱ ሃቑ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ በዓቲ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "በዓቲ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ናይ ከተማ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ግባታታ"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "ግባታታ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ሃቑ"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ንካልዕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "የፉኔ"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "ኣብ ንብረቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:30:07.868671926Z",
+  "model": "glm-5.3"
+}

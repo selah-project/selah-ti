@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 1:10",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኤልያሁ ድማ መልሱ ንእቲ መኮናን ናይ ሓሙሽተ ተዛረቦ፦ «ሰብ ኤሎሂም እንተ ዀንኩ፣ ካብ ሰማያት ሓዊ ወሪዱ ⟨את⟩ ንታኻን ⟨ואת⟩ ሓሙሽትካን ይብላዕ።» ካብ ሰማያት ድማ ሓዊ ወሪዱ ⟨את⟩ ነቶን ⟨ואת⟩ ሓሙሽትኡን በላዐ።",
+  "tokens": [
+    {
+      "surface": "ויענה",
+      "gloss": "መልሱ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያሁ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረቦ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "שר",
+      "gloss": "መኮናን"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "ናይ ሓሙሽተ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ዀንኩ"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "ወሪዱ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ይብላዕ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ንታኻ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሓሙሽትካ"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "ሓሙሽትካ"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "ወሪዱ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "በላዐ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሓሙሽትኡ"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "ሓሙሽትኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:13:40.566452532Z",
+  "model": "glm-5.3"
+}

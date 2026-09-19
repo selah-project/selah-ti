@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 86:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 86,
+  "translation": "ምልክቲ ሓንሳብ ምስ ኣኒ ግበር፣ ከምኡውን እቶም ጠሊመይኒ ይረኣዩን ይዕፈሩን፣ ምኽንያቱ ንስኻ ያህዌህ ሰዓብካኒ ድማ ሓጸንካኒ ኢኻ።",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ግበር"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ምስ ኣኒ"
+    },
+    {
+      "surface": "אות",
+      "gloss": "ምልክቲ"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "ንሓንሳብ"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ይረኣዩን"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "እቶም ጠሊመይኒ"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ይዕፈሩን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עזרתני",
+      "gloss": "ሰዓብካኒ"
+    },
+    {
+      "surface": "ונחמתני",
+      "gloss": "ሓጸንካኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:10.838618705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ውላድ ያዋን ድማ፦ ኤልያሻ፣ ትርሲሻ፣ ኪቲም እንትሮዳኒምን።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ውላድ…ድማ"
+    },
+    {
+      "surface": "יון",
+      "gloss": "ያዋን"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "ኤልያሻ፣"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "ትርሲሻ፣"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "ኪቲም"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "እንትሮዳኒምን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:27:31.777756185Z",
+  "model": "glm-5.3"
+}

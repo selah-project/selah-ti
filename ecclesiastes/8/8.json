@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ሰብ መንፈስ ንክታን ⟨את⟩ እቲ መንፈስ ዝገዝኦ የለን፤ ኣብ መዓልቲ ሞት'ውን ስልጣን የለን፤ ኣብ ምሕናፍ'ውን ውዕዊ የለን፤ ክፉእ ድማ ኣባልቱን ⟨את⟩ ኣይዕቅቦን።",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "ዝገዝእ"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ብመንፈስ"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "ንክታን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ መንፈስ"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "እቲ መንፈስ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ድማ የለን"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "ስልጣን"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "እቲ ሞት"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ድማ የለን"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "ውዕዊ"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "ኣብ ምሕናፍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ድማ ኣይ"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ይዕቅብ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣባልቱ"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ኣባልቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:43:43.178151735Z",
+  "model": "glm-5.3"
+}

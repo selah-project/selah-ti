@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 66,
+  "translation": "ብሩኽ ኤሎሂም፣ እቲ ጸሎተይን ሔሴዱን ካባይ ⟨את⟩ ንዘይኣዘወተን።",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ብሩኽ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ እ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይን"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ኣዘወተ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ጸሎተይ"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "ሔሴዱን"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "ካባይ ⟨את⟩",
+      "marks": "ካባይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:34.669219561Z",
+  "model": "glm-5.3"
+}

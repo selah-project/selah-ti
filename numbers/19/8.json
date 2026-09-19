@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "እቲ ዝቐጽሓ ኣባኣ ⟨את⟩ ድማ ክንዲኡ ብማይ ይኣጽብ፣ ስጋኡ እውን ብማይ ይውሕል፣ ክሳብ ⟨እቲ⟩ ቋርሲ ኣይንጹርን እዩ።",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "እቲ ዝቐጽሓ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ኣባኣ"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ይኣጽብ"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ክንዲኡ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ብማይ"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ይውሕል"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ስጋኡ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ብማይ"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ኣይንጹርን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "እቲ ቋርሲ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:29:57.500170210Z",
+  "model": "glm-5.3"
+}

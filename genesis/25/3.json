@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ያቅሸን ድማ ሼባን ⟨את⟩ ዴዳንን ሓበዮም፣ ውላድ ዴዳን ድማ ኣሽራይምን ለቱሻይምን ለኡማይምን ነበሩ።",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "ያቅሸን"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ሓበዮም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሼባ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ሼባ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዴዳን"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "ዴዳን"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "ዴዳን"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነበሩ"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "ኣሽራይም"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "ለቱሻይም"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ለኡማይም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:48:23.663697487Z",
+  "model": "glm-5.3"
+}

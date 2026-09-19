@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ነቲ ኣንቀጺ ሽሽ፡ ቲ ፈውሮታት እተኣከቡ ቲ ቀሞዓት ሽሽ፡ ቲ ሱሪታት ብሩኽ ሽሽ ምውታይ ድማ ኣብኡ ኣተዮም።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ኣንቀጺ"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ነቲ ኣንቀጺ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ሽሽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቲ ፈውሮታት ቲ ቀሞዓት"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "ቲ ፈውሮታት"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "እተኣከቡ ቲ ቀሞዓት"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ሽሽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቲ ሱሪታት"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "ቲ ሱሪታት"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "ብሩኽ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ሽሽ"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ምውታይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:45:05.982398481Z",
+  "model": "glm-5.3"
+}

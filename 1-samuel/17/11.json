@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ሻኡልን ኩሉ እስራኤልን ⟨את⟩ እቶም ቃላት እቲ ፈሊስታይ እዚኦም ሰምዖሞም፣ ተሰቓዩ ድማ ብጣዕሚ ፈሩ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዖሞም"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላት"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "እቲ ፈሊስታይ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "ተሰቓዩ"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ፈሩ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:07:31.973258246Z",
+  "model": "glm-5.3"
+}

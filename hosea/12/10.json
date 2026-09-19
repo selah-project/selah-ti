@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኣነ ድማ ያህዌህ ኤሎሂምካ ካብ ምድሪ ሚጽራይም እየ፤ ገሩ ኣብ ድኻሳት ከም መዓልታት በዓል ኣብሓልኻ እየ።",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ገሩ"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "ኣብሓልኻ እየ"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "ኣብ ድኻሳት"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "ከም መዓልታት"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "በዓል"
+    }
+  ],
+  "timestamp": "2026-09-19T04:09:47.679065631Z",
+  "model": "glm-5.3"
+}

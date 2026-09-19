@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 145,
+  "translation": "ጸጋማን ምሕረታማን እዩ ያህዌህ፣ ኣይቐልዐን፣ ዓቢ ድማ ሔሴድ።",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "ጸጋማ"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ምሕረታማ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ኣይቐልዐን"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ንቁጥዐ"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:22.061007016Z",
+  "model": "glm-5.3"
+}

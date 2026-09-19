@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ሃገር ኩርቡ ገጽ ዘላት፣ ንዓቢ ገጽ ኣይትቐብን፣ ንንእሽቶ ድማ ኣይትሓንን።",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "ሃገር"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ኩርቡ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ኣይትቐብን"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "ንዓቢ"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ንንእሽቶ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "ኣይትሓንን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:10:11.974551263Z",
+  "model": "glm-5.3"
+}

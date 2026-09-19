@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ስለዚ ምስ ጽቡእ በረኻታት ተቐዲምካዮ፣ ንርእሱ ዓዱ ካብ ብርሃኒ ወርቂ ኣቲኻዮ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "ተቐዲምካዮ"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "በረኻታት"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡእ"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "ኣቲኻዮ"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "ንርእሱ"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ዓዱ"
+    },
+    {
+      "surface": "פז",
+      "gloss": "ብርሃኒ ወርቂ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:31.528059105Z",
+  "model": "glm-5.3"
+}

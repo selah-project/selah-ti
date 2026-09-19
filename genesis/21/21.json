@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 21:21",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ኣብ በዳ ፓራን ድማ ተቐመጠ፣ ኣዶኡ እውን ካብ ምድሪ ሚጽራይም ብኡ ሰበይቲ ወሲዳት።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ በዳ"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "ፓራን"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ወሲዳት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ብኡ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ኣዶኡ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:44:49.004110508Z",
+  "model": "glm-5.3"
+}

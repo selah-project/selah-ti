@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 9:15",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣብ መዓልቲ ማሕደር ምስ ተቐምጠ፣ ⟨את⟩ ማሕደር እቲ ደመና ሰደየ፣ እቲ ማሕደር ናይ ምስክርቲ ዝኾነ ድንኳን፤ ኣብ ምሸት ድማ ከም ምርኣይ ሓዊ ንማሕደር እናሃለወ ክሳብ ቀዳም ይከውን ነይሩ።",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ምስ ተቐምጠ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማሕደር"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ሰደየ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "እቲ ደመና"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማሕደር"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "ናይ ድንኳን"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ምስክርቲ"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "ኣብ ምሸት"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ይከውን ነይሩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "ከም ምርኣይ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ቀዳም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:20:24.927557012Z",
+  "model": "glm-5.3"
+}

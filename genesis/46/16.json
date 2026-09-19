@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 46,
+  "translation": "እቶም ውላድ ጋድ ጽፍዮን፣ ሕጊ፣ ሹኒ፣ ኤጽቦን፣ ዔሪ፣ ኣሮዲን ኣርኤሊን እዮም።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "እቶም ውላድ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "ጽፍዮን"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "ሕጊ"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "ሹኒ"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "ኤጽቦን"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ዔሪ"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "ኣሮዲን"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "ኣርኤሊን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:05:58.639990995Z",
+  "model": "glm-5.3"
+}

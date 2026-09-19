@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ሕዝቢካ ብዘይ ሃብቲ ኣሸጐ፣ ብዋጋኦም ድማ ኣይወሳኸልካን።",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "ኣሸጐ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ሕዝቢካ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ብዘይ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ሃብቲ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "ወሳኸለ"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "ብዋጋኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:22.176724504Z",
+  "model": "glm-5.3"
+}

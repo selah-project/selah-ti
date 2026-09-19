@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ንጉስ ኣራም ኣንጻር ሞተ፣ ወዲ ኣንጻር ብንሃዳድ ድማ ኣብ ቦታኡ ነገሰ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "ኣንጻር"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሰ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ብንሃዳድ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ኣብ ቦታኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:26:14.359792610Z",
+  "model": "glm-5.3"
+}

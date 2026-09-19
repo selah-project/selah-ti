@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 9:9",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ዓሽ፣ ክሲልን ክማሕን ከምኡውን ክብርቲ ደቡብን ዘይፈጥር እዩ።",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ዘይፈጥር"
+    },
+    {
+      "surface": "עש",
+      "gloss": "ዓሽ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ክሲል"
+    },
+    {
+      "surface": "וכימה",
+      "gloss": "ክማሕን"
+    },
+    {
+      "surface": "וחדרי",
+      "gloss": "ክብርቲ"
+    },
+    {
+      "surface": "תמן",
+      "gloss": "ደቡብ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:05:20.928538296Z",
+  "model": "glm-5.3"
+}

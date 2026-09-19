@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 47,
+  "translation": "⟨ንሱ⟩ ህዝብታት ትሕቲና የዓቢ፣ ኣህዛብ ኣብ ትሕቲ እግርና ድማ የወርዶም።",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "የዓቢ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ህዝብታት"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "ትሕቲና"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ትሕቲ"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "እግርና"
+    }
+  ],
+  "timestamp": "2026-09-19T09:00:12.848937822Z",
+  "model": "glm-5.3"
+}

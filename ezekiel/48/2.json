@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "ኣብ ዶብ ዳን ጥራይ፣ ካብ ምብራቓይ ወገን ክሳብ ምዕራባይ ወገን፣ ኣሸር ሓደ እዩ።",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ዶብ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ዳን"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ካብ ወገን"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ምብራቕ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ወገን"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ምዕራብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ኣሸር"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:03:48.738814116Z",
+  "model": "glm-5.3"
+}

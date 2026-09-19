@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሰራዊቱን ቁጽሪ ዝተቐመጦምን ኣርባዕተን ሓምሻን ውሽጢ ኣርባዕተ ምዕባት እዮም።",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ሰራዊቱን"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "ቁጽሪ ዝተቐመጦምን"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ኣርባዕተን"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ሓምሻን"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ውሽጢ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ምዕባት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:12:06.092369695Z",
+  "model": "glm-5.3"
+}

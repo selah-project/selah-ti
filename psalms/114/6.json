@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 114,
+  "translation": "እቶም ከረባት ከም ኣኻት ሮከዮም፣ እተን ንእሽተ ከረባት ከም ውሉዓት ጠጠራ ሮከየን።",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "እቶም ከረባት"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "ሮከዮም"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "ከም ኣኻት"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "እተን ንእሽተ ከረባት"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "ከም ውሉዓት"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ጠጠራ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:45.211167436Z",
+  "model": "glm-5.3"
+}

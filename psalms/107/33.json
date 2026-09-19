@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ቕርባት ማይ ናብ ምድረ-በዳ ይገብር፣ ኣፍልታት ማይ ድማ ናብ ምድሪ ጽምኢ።",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "ይገብር"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ቕርባት ማይ"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "ናብ ምድረ-በዳ"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "ኣፍልታታት ድማ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "ናብ ምድሪ ጽምኢ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:09.885980576Z",
+  "model": "glm-5.3"
+}

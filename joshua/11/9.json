@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "የሆሹዋዕ ነቒ ከም ዝበሎ ያህዌህ ገበሮም፤ ⟨את⟩ ፈረሳቶም ሓንቐሎምን ⟨את⟩ መሃንዙምን ብሓዊ ጨወዮም።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንእሶም"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ዝበሎ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፈረሳቶም"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "ፈረሳቶም"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "ሓንቐሎም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መሃንዙምን"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "መሃንዙምን"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ጨወዮም"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ብሓዊ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:25:38.154749085Z",
+  "model": "glm-5.3"
+}

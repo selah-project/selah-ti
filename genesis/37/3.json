@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "እስራኤል ድማ ⟨את⟩ ዮሴፍ ካብ ኩሉ ውላዱ ብዝበዝሕ ዐደዎ፥ ምኽንያቱ ወዲ ዝሓለ ዕድመ ንኣቱ እዩ ነይሩ፤ ንኣቱ ድማ ልብሲ ፓስሞታት ገበረሉ።",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "እስራኤል ድማ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ዐደዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮሴፍ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ዝሓለ ዕድመ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኣቱ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ገበረሉ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኣቱ"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ልብሲ"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "ፓስሞታት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:58:48.675929354Z",
+  "model": "glm-5.3"
+}

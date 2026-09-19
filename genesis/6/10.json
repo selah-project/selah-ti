@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኖኅ ሰለስተ ውላድ ወሊዱ፤ ⟨את⟩ ሸም፣ ⟨את⟩ ሕምን ⟨ואת⟩ ያፈትን።",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ወሊዱ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖኅ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሸም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ሸም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕም"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ሕም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ያፈት"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ያፈት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:34:19.646157622Z",
+  "model": "glm-5.3"
+}

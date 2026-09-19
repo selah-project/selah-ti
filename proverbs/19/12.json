@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 19:12",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ቍጥር ንጉስ ከም ጭማቢ ኩርያል እዩ፤ በርኪኡ ኸኣ ከም ሰቓይ ኣብ ልዕሊ ሣር።",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "ጭማቢ"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "ከም ኩርያል"
+    },
+    {
+      "surface": "זעף",
+      "gloss": "ቍጥር"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "ከም ሰቓይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ሣር"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "በርኪኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:52:14.526440051Z",
+  "model": "glm-5.3"
+}

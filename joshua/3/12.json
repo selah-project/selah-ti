@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 3:12",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ሕጂ ድማ ንዓኹም ካብ ኩዳናት እስራኤል ተሓደሰት ዓሰርተ ክልተ ሰባት ነሲቡኹም — ናይ ኩዳን ሓደ ሰብ፣ ናይ ኩዳን ሓደ ሰብ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ ድማ"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ነሲቡኹም"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንዓኹም"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ተሓደሰት"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ክልተ ሰባት"
+    },
+    {
+      "surface": "משבטי",
+      "gloss": "ካብ ኩዳናት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "ናይ ኩዳን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:15:33.420677537Z",
+  "model": "glm-5.3"
+}

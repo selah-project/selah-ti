@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 3:3",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ስምጡ ኤሎሂም ቅድሚ ምውድኡ፣ ሽምዌል ኣብ ቤት ያህዌህ፣ ኣብ ኡ ታቦት ኤሎሂም ዝነበረሉ፣ ተኺሉ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "ስምጡን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "ምውድኡ"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "ሽምዌልን"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ተኺሉ ነይሩ"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝኾነ ኣብ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብ ኡ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:57:38.210966220Z",
+  "model": "glm-5.3"
+}

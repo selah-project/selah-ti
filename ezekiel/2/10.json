@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ነቲ ማንጎላ ⟨את⟩ ኣብ ቅድማይ ወስኸራ፣ ንሳ ድማ ኣብ ቅድምን ኣብ ድሕሪትን ተጽሒባ እያ፣ ኣባኣ ድማ ኣዘናት፣ ጭንቀትን ውድቀትን ተጽሒብ እዩ።",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "ወስኸራ"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ማንጎላ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድማይ"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ንሳ"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "ተጽሒባ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ኣብ ቅድም"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "ኣብ ድሕሪት"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "ተጽሒብ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ኣባኣ"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "ኣዘናት"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "ጭንቀት"
+    },
+    {
+      "surface": "והי",
+      "gloss": "ውድቀት"
+    }
+  ],
+  "timestamp": "2026-09-19T03:21:01.427885500Z",
+  "model": "glm-5.3"
+}

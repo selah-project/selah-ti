@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ያህዌህ ነኦም ኣብ ቅድምኩም ክሃበኩም እዩ፤ ንስኻትኩም ድማ ነኦም ከም ኵሉ ትእዛዝ ዝኣዘዝኩም ⟨את⟩ ኢኹም ክትገብርዎም ኢኹም።",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "ክሃቦም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ኣብ ቅድምኩም"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ትገብርዎም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ነኦም"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ከም ኵሉ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "እቲ ትእዛዝ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ዝኣዘዝኩ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንስኻትኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:14:03.128934139Z",
+  "model": "glm-5.3"
+}

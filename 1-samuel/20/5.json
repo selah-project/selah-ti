@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 20:5",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ዳዊድ ድማ ንየሆናታን ተዛረበ፦ «ርእይ፣ ጽባሕ ሓድሽ ወርሒ እዩ፣ ኣነ ድማ ምስ እቲ ንጉስ እናበልዐ ክቕመጥ እየ፤ ንገረፍና ስዒብኒ፣ ክሳብ ሳልሳይ ምሸት ኣብ በረኻ ክሕበን እየ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "የሆናታን"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ርእይ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ሓድሽ ወርሒ"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ጽባሕ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ክቕመጥ"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "እቐመጥ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ንኽብልዕ"
+    },
+    {
+      "surface": "ושלחתני",
+      "gloss": "ስዒብኒ"
+    },
+    {
+      "surface": "ונסתרתי",
+      "gloss": "ክሕበን እየ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ኣብ በረኻ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "እቲ ምሸት"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "ሳልሳይ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:12:44.044175800Z",
+  "model": "glm-5.3"
+}

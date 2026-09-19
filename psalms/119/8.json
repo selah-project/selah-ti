@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "⟨את⟩ ሕግታትኻ ክኣብድ፣ ኣይተውግአኒን ክሳብ ዝያዳ!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕግታትኻ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ሕግታትኻ"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ክኣብድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ተውግአኒ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ዝያዳ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:53.184747850Z",
+  "model": "glm-5.3"
+}

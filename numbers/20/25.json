@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኣሃሮንን ⟨את⟩ ወዲኡ ኤልዓዛርን ውን ⟨ואת⟩ ወሲድካ፣ ንኣሃሮንን ንኤልዓዛርን ⟨אתם⟩ ነቲ ከረ ሆር ኣሪዎም።",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ወሲድካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሃሮን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ኤልዓዛር"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡ"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "ኣሪዎም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ንኣሃሮንን ንኤልዓዛርን"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ሆር"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "እቲ ከረ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:30:46.168054371Z",
+  "model": "glm-5.3"
+}

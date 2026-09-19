@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣብ መንገድ፣ ኣብ ማሕደር ድማ፣ ያህዌህ ተራኸቦ፣ ክቐትሎ ድማ ደለየ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኣጋጣሚ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መንገድ"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "ኣብ ማሕደር"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "ተራኸቦ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "ደለየ"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ክቐትሎ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:13:07.929519064Z",
+  "model": "glm-5.3"
+}

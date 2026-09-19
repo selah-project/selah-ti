@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ያህዌህ ድማ ኣብ ሽሎሞ ተቐጸለ፣ ምኽንያቱ ልቡ ካብ ያህዌህ ኤሎሂም እስራኤል — ነቲ ክልተ ግዜ ዝተራእዮ — ተቐየረ።",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "ተቐጸለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "ኣብ ሽሎሞ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ተቐየረ"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "ዝተራእዮ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ክልተ ግዜ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:58:21.401400984Z",
+  "model": "glm-5.3"
+}

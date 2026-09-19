@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "«ንሓልፈ በለኒ ክርኢ ⟨את⟩ እታ ጽቡኣት ምድሪ እትርከብ ኣብ ንረፋት ዮርዳኖስ፣ እቲ ብሩኽ ኽታቢ እዚ ኣብ ንረፋት ዮርዳኖስ፣ እቲ ዓቢ ኽታቢ እዚኣ ሎለብኖን።»",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "ንሓልፈ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "በለኒ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ክርኢ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ጽቡኣት ምድሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ጽቡኣት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እትርከብ"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ኣብ ንረፋት"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "እቲ ኽታቢ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ብሩኽ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "ሎለብኖን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:47:32.145473103Z",
+  "model": "glm-5.3"
+}

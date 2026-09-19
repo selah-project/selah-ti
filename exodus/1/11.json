@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣብ ልዕሊኡ ሹማቓት ተግባራት ኣቐሚዎም፤ ብጽንኩሮም ንኹሉ ክጸልእዎ ንምግበር፤ ንፓርዖ ድማ ከተማታት መኽዘን ⟨את⟩ ፒቶምን ⟨את⟩ ራዓምሰስን ሃንጸቱ።",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ኣቐሚዎም"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊኡ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ሹማቓት"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "ተግባራት"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ንምግበር"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "ክጸልእዎ"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "ብጽንኩሮም"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ሃንጸቱ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ከተማታት"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "መኽዘን"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ንፓርዖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፒቶም"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "ፒቶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ራዓምሰስ"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "ራዓምሰስ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:10:01.760984848Z",
+  "model": "glm-5.3"
+}

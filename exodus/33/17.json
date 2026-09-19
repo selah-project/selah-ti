@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ያህዌህ ድማ ንሞሸ በለ፦ «እቲ ዝተዛረብካዮ ⟨את⟩ ቃል እዚ እውን ክገብረሉ እየ፤ ምኽንያቱ ኣብ ዓይንተይ ጸጋ ረኺብካ፣ ብስምከ ድማ ኣፍልጠካ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃል"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ዝተዛረብካዮ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ክገብረሉ እየ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "ረኺብካ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ጸጋ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ ዓይንተይ"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "ኣፍልጠካ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ብስም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:27:02.541389065Z",
+  "model": "glm-5.3"
+}

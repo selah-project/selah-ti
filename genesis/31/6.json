@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ንስኻትኪን ተፈልጠን፦ ኣነ ብኩሉ ሓይለይ ⟨את⟩ ኣቦኩም ኣገልገልኩ።",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ንስኻትኪን"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "ተፈልጠን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብኩሉ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ሓይለይ"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "ኣገልገልኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቦኩም"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "ኣቦኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:55:35.574687605Z",
+  "model": "glm-5.3"
+}

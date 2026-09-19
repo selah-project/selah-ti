@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 11:9",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "«እዚ በዚ ኩሉ እቲ ኣብ ማይ ዘሎ ብሉ፤ ኩሉ እቲ ኽርኢንን ቅርፊትን ኣብ ማይ፣ ኣብ ባሕርታትን ኣብ ሩባትን ዘለዎ፣ ⟨את⟩ እዚቶም ክትብሉዎ ኢኻሞ።»",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እዚ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ብሉ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ኣብ ማይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ናብኡ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ኽርኢን"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ቅርፊትን"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ኣብ ማይ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ኣብ ባሕርታት"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "ኣብ ሩባትን"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እዚቶም"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ብሉ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:52:18.315979570Z",
+  "model": "glm-5.3"
+}

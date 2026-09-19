@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 21:10",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ነቲ ካህን ዓቢ ካብ ሓዎቡ፣ ዝተበኽለሉ ኣብ ልዕሊ ስንታኡ ዘት ምቕባእን ዝሞላዎ ⟨את⟩ ኢዱ ነቲ ልባሳት ንምልባስን፣ ⟨את⟩ ስንታኡ ኣይፍታዕን፣ ልባሳቱ ድማ ኣይሰብርን።",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "ነቲ ካህን"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "ካብ ሓዎቡ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יוצק",
+      "gloss": "ይተበኽል"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ስንታኡ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘት"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ናይ ምቕባእ"
+    },
+    {
+      "surface": "ומלא",
+      "gloss": "ዝሞላዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢዱ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "ללבש",
+      "gloss": "ንምልባስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ልባሳት"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "እቶም ልባሳት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስንታኡ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ስንታኡ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יפרע",
+      "gloss": "ይፍታዕን"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "ልባሳቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יפרם",
+      "gloss": "ይሰብርን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:47.173022579Z",
+  "model": "glm-5.3"
+}

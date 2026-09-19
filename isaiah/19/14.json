@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ያህዌህ ኣብ ውሽጣኣ መንፈስ ጥምቂ በደለ፣ ንሚጽራይም ⟨את⟩ ኣብ ኩሉ ግብሩ ከም ምዝንጋዕ ሰከር ኣብ ስጉሑ ኣታሕዮ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "በደለ"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ኣብ ውሽጣኣ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "ጥምቂ"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "ኣታሕዮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚጽራይም"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "ግብሩ"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "ከም ምዝንጋዕ"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "ሰከር"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "ኣብ ስጉሑ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:53:39.923520509Z",
+  "model": "glm-5.3"
+}

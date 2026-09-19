@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ብሓበኣ ንኣቭራም ጽቡዕ ገበረሉ፤ ንእሱ ድማ ጠጦታትን ከብቲን ኣጋዝቲን ኣገልገልቲን ኣገልጋልቲን ኣጋዝቲ ኣንስቲን ጀምላትን ኾነሉ።",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "ንኣቭራም"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "ጽቡዕ ገበረሉ"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "ብሓበኣ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኾነሉ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሱ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ጠጦታት"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ከብቲ"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "ኣጋዝቲ"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "ኣገልገልቲ"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "ኣገልጋልቲ"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "ኣጋዝቲ ኣንስቲ"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "ጀምላት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:37:48.184885197Z",
+  "model": "glm-5.3"
+}

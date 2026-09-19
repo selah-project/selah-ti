@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 6:34",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "መንፈስ ያህዌህ ድማ ለቢሱ ⟨את⟩ ግድዕዋን፣ ኣብ ቀርንጓዕ ድማ ኣወጸ፣ ኣብይዓዘር ድማ ካብ ድሕሪኡ ተዛረበ።",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לבשה",
+      "gloss": "ለቢሰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ግድዕዋን"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "ግድዕዋን"
+    },
+    {
+      "surface": "ויתקע",
+      "gloss": "ኣወጸ"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "ኣብ ቀርንጓዕ"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "ኣብይዓዘር"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ካብ ድሕሪኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:39:15.905313443Z",
+  "model": "glm-5.3"
+}

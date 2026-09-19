@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እኳ ስጋ ምስ ነፍሱ — ደሙ — ኣይትበልዑን።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "እኳ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ስጋ"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ምስ ነፍሱ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ደሙ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ትብልዑን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:34:11.924982176Z",
+  "model": "glm-5.3"
+}

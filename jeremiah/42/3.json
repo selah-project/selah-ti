@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "«ያህዌህ ኤሎሂምካ መገዲ እንከይንከድዋ ንሕና ⟨את⟩ ይነግረና፣ ብዛዕበሉውን ⟨את⟩ ነገር እንከይንገብርዎ።»",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ይነግረና"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መገዲ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "መገዲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንከይ"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ንከድዋ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነገር"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንከይ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ንገብርዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:06:26.479719414Z",
+  "model": "glm-5.3"
+}

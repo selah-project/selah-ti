@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ያዕቆቭ ንራኸል ሸውዓተ ዓመታት ኣገልገለ፤ ኣብ ዓይኒኡ ብፍቕሩ ⟨את⟩ ንሳ ከም ገሊኣት መዓልታት ኮነ።",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "ኣገልገለ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "ንራኸል"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ኣብ ዓይኒኡ"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "ከም መዓልታት"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "ገሊኣት"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "ብፍቕሩ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:50:08.574805755Z",
+  "model": "glm-5.3"
+}

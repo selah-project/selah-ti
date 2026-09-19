@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ድቃስ ንዓይንታትካ ኣይትሃብ፣ ጽምቢ ድቃስ እውን ንብርቕታት ዓይንካ ኣይትሃብን።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ትሃብ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ድቃስ"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "ንዓይንታትካ"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "ጽምቢ ድቃስ"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "ንብርቕታት ዓይንካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:43:22.620550698Z",
+  "model": "glm-5.3"
+}

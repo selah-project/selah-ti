@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 3:13",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኢዱን ኣብ ርእሱ ዳልዋ ኮይኑ፣ ቅድሚ ድኻም ምልኻይ ድማ ሰበሖ፣ ደቀ ኣሃሮን ድማ ⟨את⟩ ደሙን ኣብ ⟨the⟩ መሠወሪ ብዙርያ ይተንክፍዎ።",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ዳልዋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢዱን"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ርእሱ"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ሰበሖ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድኻም"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ምልኻይ"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ይተንክፍዎ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ደቀ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደሙን"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ደሙን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠወሪ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ብዙርያ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:29:46.588085588Z",
+  "model": "glm-5.3"
+}

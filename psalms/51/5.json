@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 51,
+  "translation": "ምኽንያቱ ኣብ ብደተይ ኣነ እፈልጥ፣ ንጥፍኣተይ ድማ ኩሉ ግዜ ቅድሚ ኣነ ትርከብ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ብደተይ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "እፈልጥ"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "ንጥፍኣተይ"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "ቅድሚ ኣነ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ኩሉ ግዜ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:26.071126304Z",
+  "model": "glm-5.3"
+}

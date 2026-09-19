@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ከሳታት ስሙዓት ውዕልቲ ይሰርጹ፤ ልቢ ስዕርታት ግን ከምኡ ኣይኮነን።",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ከሳታት"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ስሙዓት"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "ይሰርጹ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ውዕልቲ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ልቢ ግን"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ስዕርታት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ ኮነን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:49:11.779720467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኣገልጋሊኻ ኣነ እየ፤ ኣስረድደኒ፣ እሞ ትምሕይታትኻ ⟨እፈልጥ⟩።",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልጋሊኻ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ እየ"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "ኣስረድደኒ"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "ከምኡውን እፈልጥ"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ትምሕይታትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:59.146940111Z",
+  "model": "glm-5.3"
+}

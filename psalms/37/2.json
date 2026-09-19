@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "እምበለ እቶም ከም ሣር ብቕልጡፍ ይተቐርጹ ኮይኖም፣ ከም ለመላይ ደሻዕ ድማ ይሸመምቱ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እምበለ"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ከም ሣር"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ብቕልጣፍ"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "ይተቐርጹ"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "ከም ለመላይ"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ደሻዕ"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "ይሸመምቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:38.388405288Z",
+  "model": "glm-5.3"
+}

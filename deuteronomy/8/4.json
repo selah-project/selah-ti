@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኪስልታኻ ካብ ልዕሊኻ ኣይወፈነትን፣ እግርኻ ከምኡውን ኣይተበገሰትን — እዚ ኣርባዕተ ዓመታት።",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "ኪስልታኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "ኣይወፈነትን"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "ካብ ልዕሊኻ"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "እግርኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "ኣይተበገሰትን"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:54:30.959576719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ኣታልያ ⟨את⟩ ድምጺ ህዝቢ እቶም ዝነጽሩን ⟨את⟩ ንጉስ ዝሰጐሙን ሰምዐት፣ ናብ ህዝቢ ኣብ ቤት ያህዌህ መጸት።",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "ሰምዐት"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "ኣታልያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምጺ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጺ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "ዝነጽሩ"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "ዝሰጐሙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንጉስ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "መጸት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:10:53.463081386Z",
+  "model": "glm-5.3"
+}

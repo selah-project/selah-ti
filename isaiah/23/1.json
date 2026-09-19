@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ስቓይ ጾር። ኣንቀላዕዑ መርከባት ተርሴስ፣ ምኽንያቱ ካብ ቤትን ካብ መእተዊን ⟨ተዓቂበት⟩ ኮይና፣ ካብ ምድሪ ኪቲም ንኣስርተን ⟨ተፈልጠት⟩ እየን።",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ስቓይ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ጾር"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "ኣንቀላዕዑ"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "መርከባት"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ተርሴስ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ተዓቂበት"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ቤት"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ካብ መእተዊ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "ኪቲም"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "ተፈልጠት"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ንኣስርተን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:58:33.917529037Z",
+  "model": "glm-5.3"
+}

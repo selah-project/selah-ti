@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ቐስቱ ዘረበ፣ ከም መርመር ናይ ስርሒ ኮይኑ ኣቕሚጠኒ።",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ዘረበ"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "ቐስቱ"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "ኣቕሚጠኒ"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "ከም መርመር"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ናይ ስርሒ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:34:30.205222266Z",
+  "model": "glm-5.3"
+}

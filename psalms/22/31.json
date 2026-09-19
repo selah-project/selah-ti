@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ወዲ ዘርኢ ክገልግሖ እዩ፤ ንኣዶናይ ነቲ ወዲ ወድይ ይንገር።",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "ወዲ ዘርኢ"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "ክገልግሖ"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ይንገር"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ንኣዶናይ"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ነቲ ወዲ ወድይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:54.521300471Z",
+  "model": "glm-5.3"
+}

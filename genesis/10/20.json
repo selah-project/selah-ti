@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "እዚኦም ውላድ ካም እዮም፣ ነታቶም ስድርታቶም፣ ነታቶም ቋንቋታቶም፣ ኣብ ምድሮም፣ ኣብ ህዝብታቶም።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ካም"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ነታቶም ስድርታቶም"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "ነታቶም ቋንቋታቶም"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "ኣብ ምድሮም"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "ኣብ ህዝብታቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:29.774820307Z",
+  "model": "glm-5.3"
+}

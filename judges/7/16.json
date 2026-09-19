@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 7:16",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ነቶም ሰለስተ ምዕቲ ሰባት ⟨את⟩ ኣብ ሰለስተ ርእሳት መቕደሐ፣ ኣብ ኢድ ኩሎም ድማ ቃንዓትን ባዕዳት ጓዳትን፣ ኣብ ውሽጢ እተን ጓዳት ድማ ሽዑራት ሃቈ።",
+  "tokens": [
+    {
+      "surface": "ויחץ",
+      "gloss": "መቕደሐ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰለስተ ምዕቲ እቶም ሰባት"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ምዕቲ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቶም ሰባት"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "ርእሳት"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሃቈ"
+    },
+    {
+      "surface": "שופרות",
+      "gloss": "ቃንዓት"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ኣብ ኢድ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "וכדים",
+      "gloss": "ጓዳት"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "ባዕዳት"
+    },
+    {
+      "surface": "ולפדים",
+      "gloss": "ሽዑራት"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ ውሽጢ"
+    },
+    {
+      "surface": "הכדים",
+      "gloss": "እተን ጓዳት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:44:01.322696191Z",
+  "model": "glm-5.3"
+}

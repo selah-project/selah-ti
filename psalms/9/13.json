@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ምኽንያቱ ነቲ ዝደለይ ደም ⟨את⟩ ንሳቶም ኣስዘኾም፤ ኣይረስዐን እቲ ጽዑቕ ድኻታት።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ዝደልይ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳቶም"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ኣስዘኾም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "ረስዐን"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "ጽዑቓት"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ድኻታት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:43.739624095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "እኳ ድማ ⟨את⟩ ቁመታት በጠሰዮም፣ ⟨את⟩ ኣሸራታት ቐረጾም፣ ⟨את⟩ ቦታኦም ድማ ብኣጽምቲ ሰባት ምልእቶ።",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "በጠሰዮም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቁመታት"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "ቁመታት"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ቐረጾም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሸራታት"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ኣሸራታት"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ምልእቶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቦታኦም"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "ቦታኦም"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ኣጽምቲ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰባት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:39:07.129921053Z",
+  "model": "glm-5.3"
+}

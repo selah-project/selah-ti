@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "ምኽንያቱ እቲ ሔሴድ ⟨ንምግበር⟩ ኣይዝከረን፤ ኰይኑ ደቂ-ሰብ ድኻን ጥንቁቕን ብርዝን ልቢ ደሪሉ ንምቅተል ኣድወ።",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨እቲ ዝ⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ዝከር"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ንምግበር"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "ኣድወ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ደቂ-ሰብ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ድኻ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ንጥንቁቕ"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "ንብርዝን"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "ንምቅተል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:54.105063773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ካብ ላዕሊ ሰደበኒ፣ ብዛዕባ ወሲዱኒ፣ ካብ ብዙሓት ማይ ኣውጺኣኒ።",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ሰደበኒ"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ካብ ላዕሊ"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "ወሲዱኒ"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "ኣውጺኣኒ"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "ካብ ማይ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:52.603815906Z",
+  "model": "glm-5.3"
+}

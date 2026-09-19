@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 7:15",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ክልተ ኣምዳት ነሓስ ቐረጸ፤ ቁመት ሓደ ዓምዒ ሸሞንተ ዓሰርተ ለጋዕን ኮይኑ፣ ገመድ ክልተ ዓሰርተ ለጋዕ ድማ ካልኣይቲ ዓምዒን ⟨את⟩ ከቢባቶ።",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "ቐረጸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክልተ ኣምዳት"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ኣምዳት"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ነሓስ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ሸሞንተ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ለጋዕ"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "ቁመት"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "ዓምዒ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "וחוט",
+      "gloss": "ገመድን"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ለጋዕ"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "ከቢበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ካልኣይቲ ዓምዒ"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "ዓምዒ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ካልኣይቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:52:47.488727252Z",
+  "model": "glm-5.3"
+}

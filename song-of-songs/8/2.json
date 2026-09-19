@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እመርሐካ፣ ናብ ቤት ኣደይ እኣእትዩካ፤ ትምሃረኒ፤ ቅመም ዘለዎ ሓርማዝን ሮማናይይ ጭራይን እሰቲየካ።",
+  "tokens": [
+    {
+      "surface": "אנהגך",
+      "gloss": "እመርሐካ"
+    },
+    {
+      "surface": "אביאך",
+      "gloss": "እኣእትዩካ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ኣደይ"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "ትምሃረኒ"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "እሰቲየካ"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "ሓርማዝ"
+    },
+    {
+      "surface": "הרקח",
+      "gloss": "ቅመም ዘለዎ"
+    },
+    {
+      "surface": "מעסיס",
+      "gloss": "ጭራይ"
+    },
+    {
+      "surface": "רמני",
+      "gloss": "ሮማናይይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:32:53.079971288Z",
+  "model": "glm-5.3"
+}

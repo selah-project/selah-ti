@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ጻድቂ ኢኻ ያህዌህ፣ እትኣ እውን ⟨እዩ⟩ ብጽድቂ ምስለይታኻ።",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቂ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኢኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "እትኣ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ምስለይታኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:09.179466614Z",
+  "model": "glm-5.3"
+}

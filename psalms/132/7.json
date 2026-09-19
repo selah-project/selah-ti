@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 132,
+  "translation": "ንኣቱ ናብ ማሕደርታቱ፣ ንስግድ ኣብ ቅድሚ መንበር እግራቱ።",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "ንኣቱ"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "ናብ ማሕደርታቱ"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "ንስግድ"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "ኣብ ቅድሚ መንበር"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "እግራቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:26.837156068Z",
+  "model": "glm-5.3"
+}

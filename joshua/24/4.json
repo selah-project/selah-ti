@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ንይጽሓቅ ድማ ⟨את⟩ ያዕቆቭን ⟨את⟩ ዓሳውን ሃብኩ፣ ንዓሳው ድማ ⟨את⟩ ከሰለ ስዒር ንምውነኡ ሃብኩዎ፣ ያዕቆቭን ውላዱን ድማ ናብ ሚጽራይም ወረዱ።",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "ሃብኩ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ንይጽሓቅ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያዕቆቭ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓሳው"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዓሳው"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ሃብኩ"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "ንዓሳው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከሰለ ስዒር"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ከሰለ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ስዒር"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ንምውነኡ"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ነታ ከሰለ ስዒር"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ውላዱን"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ወረዱ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:35:23.079350482Z",
+  "model": "glm-5.3"
+}

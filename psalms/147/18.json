@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 147,
+  "translation": "ቃሉ ይለኣኽዎን ይሓውሶም፤ ንፋሱ የንፍስ ድማ ማይ ይፈስስ።",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ይለኣኽ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ቃሉ"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "ይሓውሶም"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "የንፍስ"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ንፋሱ"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "ይፈስስ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:20.605095007Z",
+  "model": "glm-5.3"
+}

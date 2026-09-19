@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ምሳኦምን ምስ ኣማልኽቶምን ኪዳን ኣይትገብርን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ክትቐርብ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ምሳኦም"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "ምስ ኣማልኽቶምን"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ኪዳን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:27:18.069043078Z",
+  "model": "glm-5.3"
+}

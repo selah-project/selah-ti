@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 57,
+  "translation": "ልበይ ድሉይ እዩ ኤሎሂም፣ ልበይ ድሉይ እዩ፤ እደሊ እየ ነዳዲን ዜማን።",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ድሉይ እዩ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ድሉይ እዩ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ነዳዲ እደሊ እየ"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ዜማን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:09.552329654Z",
+  "model": "glm-5.3"
+}

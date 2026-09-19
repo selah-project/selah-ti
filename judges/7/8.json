@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 7:8",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "እቶስ ድማ እቲ ሕዝቢ ⟨את⟩ ኣባገ ብኢዶም ወሲዱ፣ ⟨את⟩ ሾፌራቶምን፤ ኩሉ ሰብ እስራኤል ድማ ነብሱ ነብሱ ናብ ዓጻኡ ሰደዖ፤ እቶስ ሰለስተ ሚኢት ተባዕታይ ድማ ኣቐይሮም፤ ሰራዊት ሚድያን ድማ ብታሕቲ ኣብ ለውሒ ነይሩሉ።",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣባገ"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "ኣባገ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ብኢዶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሾፌራቶም"
+    },
+    {
+      "surface": "שופרתיהם",
+      "gloss": "ሾፌራቶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ ሰብ እስራኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ሰደዖ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነብሱ"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "ናብ ዓጻኡ"
+    },
+    {
+      "surface": "ובשלש",
+      "gloss": "ንእቶም ሰለስተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚኢት"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ተባዕታይ"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "ኣቐይሮም"
+    },
+    {
+      "surface": "ומחנה",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ሚድያን"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ብታሕቲ"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ኣብ ለውሒ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:40:50.545999045Z",
+  "model": "glm-5.3"
+}

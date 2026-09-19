@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ንምውላድ ሰዓት ኣሎ፣ ከምኡውን ንምውጋእ ሰዓት፤ ንምዝራዝ ሰዓት፣ ከምኡውን እቲ ዝተዘራ ንምቕየር ሰዓት።",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ሰዓት"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "ንምውላድ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ከምኡውን ሰዓት"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ንምውጋእ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ሰዓት"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "ንምዝራዝ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ከምኡውን ሰዓት"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "ንምቕየር"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "ዝተዘራ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:40:01.009557896Z",
+  "model": "glm-5.3"
+}

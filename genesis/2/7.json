@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ያህዌህ ኤሎሂም ⟨את⟩ እቲ ሰብ ካብ ክብርቲ ምድሪ ነጽሮ፣ ኣብ ኣፍንጫኡ መንፈስ ህይወት ድማ ኣፍንዩ፣ እቲ ሰብ ነፍሲ ህይወት ዘላ ኮይኑ።",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "ነጽሮ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሰብ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ክብርቲ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "ኣፍንዩ"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "ኣብ ኣፍንጫኡ"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ህይወት"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ህይወት ዘላ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:30:30.715686273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ሚጽራይማውያን ⟨אתך⟩ ምስ ረኣይዎ እዚኣ ሰበይቱ እያ ክብሉ እዮም፤ ይቐትሉኒ እዮም፣ ንስኺ ድማ ⟨אתך⟩ ይኣብዝዑኻ እዮም።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ክኸውን እዩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ምስ ረኣይዎ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "ንስኺ"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "ሚጽራይማውያን"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ክብሉ እዮም"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሰበይቱ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚኣ"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "ይቐትሉኒ እዮም"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ንኣነ"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩",
+      "marks": "ንስኺ"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ይኣብዝዑኻ እዮም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:38:24.311107217Z",
+  "model": "glm-5.3"
+}

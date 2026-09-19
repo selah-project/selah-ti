@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ምዝሞር ናይ ዳዊድ፣ ኣብ ዝሰዓረ ካብ ፊት ኣብሳሎም ውዲኡ።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ምዝሞር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "ኣብ ዝሰዓረ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ካብ ፊት"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ኣብሳሎም"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ውዲኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:38.365457997Z",
+  "model": "glm-5.3"
+}

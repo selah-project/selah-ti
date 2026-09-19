@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እታ ንግስቲ ሽባ ድማ ⟨את⟩ ጥበብ ሽሎሞን ንእቲ ቤት እቲ ዝሃነጾ ረኣየት።",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ረኣየት"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ንግስቲ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ሽባ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጥበብ"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ንእቲ ቤት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ዝሃነጾ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:02:54.752286810Z",
+  "model": "glm-5.3"
+}

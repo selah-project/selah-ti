@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 73,
+  "translation": "ከምዚ በዚ እንተ በልኩ፣ ኣሎ፣ ነቲ ወገን ውላድካ በደንኩ ኾነ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "በልኩ"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ክሓብር"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ወገን"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ውላድካ"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "በደንኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:16.773320942Z",
+  "model": "glm-5.3"
+}

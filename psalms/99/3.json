@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 99,
+  "translation": "ንስምካ ይዝምሩ፤ ዓቢን ተረድኣዊን ቅዱስ እዩ።",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ይዝምሩ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ንስምካ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ተረድኣዊ ድማ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:52.752280601Z",
+  "model": "glm-5.3"
+}

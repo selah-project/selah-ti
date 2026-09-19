@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ኩሉ ሳሕሪ ኣብ ምድሮም በልዐ፣ ምርቲ ምድቶም እውን በልዐ።",
+  "tokens": [
+    {
+      "surface": "ואוכל",
+      "gloss": "በልዐ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ሳሕሪ"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "ኣብ ምድሮም"
+    },
+    {
+      "surface": "ואוכל",
+      "gloss": "በልዐ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ምርቲ"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "ምድቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:17.321053Z",
+  "model": "glm-5.3"
+}

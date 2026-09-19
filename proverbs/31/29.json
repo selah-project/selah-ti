@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 31:29",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "«ብዙሓት ወንጾት ብሓዊ ገበራ፣ ንስኺ ግን ንኩለን በጺሕኪያ።»",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ወንጾት"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ገበራ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ብሓዊ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ንስኺ ግን",
+      "marks": "ንስኺ (ኣገላልጻ ተባዕታዊ ካልኣይ ሰብ — pronoun፣ DOM ኣይኮነን)"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "በጺሕኪያ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን-ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "ኩለን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:00:49.427420839Z",
+  "model": "glm-5.3"
+}

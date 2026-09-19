@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ብኣንጻሮምን ብበደልኦምን ከም ዝኾነ ⟨את⟩ ገበርክሎም፣ ገጸይ ኣብ ሎም ሓቢነ።",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "ብኣንጻሮም"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "ብበደልኦም"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ገበርኩ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ሎም"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "ሓቢነ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጸይ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ኣብ ሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T03:55:21.123789654Z",
+  "model": "glm-5.3"
+}

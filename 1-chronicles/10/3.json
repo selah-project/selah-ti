@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "እቲ ምግቃም ኣብ ላዕሊ ሻኡል ኣበየ፤ ወኪልቲ ቐሰም ብቐሰም ረኺብዎ፣ ካብቶም ወኪልቲ ቐሰም ድማ ደኣመ።",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "ኣበየ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "እቲ ምግቃም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "ረኺብዎ"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "ወኪልቲ ቐሰም"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "ብቐሰም"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "ደኣመ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "እቶም ወኪልቲ ቐሰም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:39:34.751984361Z",
+  "model": "glm-5.3"
+}

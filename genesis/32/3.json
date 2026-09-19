@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 32:3",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ያዕቆብ ምስ ረኣዮም «እዚ ሰራዊት ኤሎሂም እዩ» በለ፤ ንስም እቲ ቦታ እታ ማሕናይም በይኑ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "ראם",
+      "gloss": "ረኣዮም"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "በይኑ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ንስም"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "እቲ ቦታ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "ማሕናይም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:54:54.311338135Z",
+  "model": "glm-5.3"
+}

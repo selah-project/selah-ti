@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ስለ እቲ ንጉሥ ኣብ ያህዌህ ይኣምን፣ ብሔሴድ ናይ ልዕሊ ኩሉ ድማ ኣይንቐጻጸርን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉሥ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ይኣምን"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ኣብ ያህዌህ"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "ብሔሴድ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ናይ ልዕሊ ኩሉ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ኣይንቐጻጸርን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:19.934657140Z",
+  "model": "glm-5.3"
+}

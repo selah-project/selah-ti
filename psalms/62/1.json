@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 62,
+  "translation": "ንዝኣዘዞ፣ ኣብ ዓዲ ይዱቱን፣ መዝሙር ናይ ዳዊድ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንዝኣዘዞ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ዓዲ"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "ይዱቱን"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:01.597268140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ስለዚ እሓውት ኣለኹ፣ ተነጸርኩ፣ ኣብ ነብሪን ራሕታን።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚ"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "እሓውት ኣለኹ"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "ተነጸርኩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ነብሪ"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "ራሕታ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:06:31.104288091Z",
+  "model": "glm-5.3"
+}

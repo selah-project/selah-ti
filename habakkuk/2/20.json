@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ያህዌህ ድማ ኣብ ቤት መቕደስ ቅዱስኡ ኣሎ፤ ⟨ኣሕልዉ!⟩ ቅድሚኡ ኩሉ ⟨እቲ⟩ ምድሪ።",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ ድማ"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "ኣብ ቤት መቕደስ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስኡ"
+    },
+    {
+      "surface": "הס",
+      "gloss": "ኣሕልዉ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ቅድሚኡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:26:33.444332621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኤልያስ ድማ ⟨את⟩ ኣድርቱ ወሲዱ ተዳለወ፣ ⟨את⟩ እቲ ማይ በታ፤ እቲ ማይ ድማ ንዚኣን ንቲኣን ተከፈለ፣ ክልተኦም ድማ ኣብ ጠርሙሳ ሓለፉ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲደ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣድርቱ"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "ኣድርቱ"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "ተዳለወ"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "በታ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ማይ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "እቲ ማይ"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "ተከፈለ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ንዚኣ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ወይ ንቲኣ"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "ሓለፉ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ክልተኦም"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "ኣብ ጠርሙሳ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:13:20.284323568Z",
+  "model": "glm-5.3"
+}

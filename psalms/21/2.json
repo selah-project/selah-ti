@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ያህዌህ ብሓይልካ እቲ ንጉስ ደስ ኣቢሉ፣ ብምድሓንካ እንታይ ብዙሕ ተደሰየ!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "ብሓይልካ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ደስ ኣቢሉ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "ብምድሓንካ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "ተደሰየ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:31.527642677Z",
+  "model": "glm-5.3"
+}

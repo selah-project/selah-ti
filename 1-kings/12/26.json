@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 12:26",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ያረብዓም ድማ ኣብ ልቡ በለ፦ «ሕጂ እቲ መንግስቲ ናብ ቤት ዳዊድ ክመልስ እዩ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ያረብዓም"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ኣብ ልቡ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ክመልስ"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "እቲ መንግስቲ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ናብ ቤት"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:59:36.163440851Z",
+  "model": "glm-5.3"
+}

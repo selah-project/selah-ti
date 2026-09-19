@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ወዲ ሔሴድ፣ ኣብ ኣሩቦት፤ ሶኮን ኩሉ ምድሪ ሕፈርን ናይኡ እዩ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "ኣብ ኣሩቦት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ናይኡ"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "ሶኮ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉን…ን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "ሕፈር"
+    }
+  ],
+  "timestamp": "2026-09-19T00:45:07.670398005Z",
+  "model": "glm-5.3"
+}

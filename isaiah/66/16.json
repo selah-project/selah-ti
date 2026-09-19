@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 66,
+  "translation": "ምኽንያቱ ያህዌህ ብሓዊ ይዳንን እዩ፣ ብሰይፉ ድማ ⟨את⟩ ኩሉ ሥጋ፤ ተቐተሉት ናይ ያህዌህ ድማ ብዙሓት እዮም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ብሓዊ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "ይዳንን"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "ብሰይፉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ሥጋ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ብዙሓት እዮም"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ተቐተሉት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:28:20.406598418Z",
+  "model": "glm-5.3"
+}

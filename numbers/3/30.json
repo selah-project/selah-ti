@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ነጋዲ ቤት ኣቦ ንስድራታት ቅሃታውያን ድማ ኤሊጽፓን ወዲ ዓዚኤል እዩ።",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "ነጋዲ ድማ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "ንስድራታት"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "እቶም ቅሃታውያን"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "ኤሊጽፓን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ዓዚኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:13:33.367869930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ዓብደኻ ድማ ኣብ ማእከል ህዝብኻ ዝመርጻዮ ኣሎ — ብዙሕ ህዝቢ፣ ካብ ብዝሒ ክቑጸርን ክቕደምን ዘይክእል።",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "ዓብደኻ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ ማእከል"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ህዝብኻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "ዝመርጻዮ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "ክቕድም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ክቑጸር"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ካብ ብዝሒ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:47:30.441424657Z",
+  "model": "glm-5.3"
+}

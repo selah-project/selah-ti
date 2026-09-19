@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ሳራ ድማ ነቲ ንኣቭራሃም ዝበከረትሉ ናይ ሀጋር እታ ሚጽራይታይት ወዲ ⟨את⟩ ረኣየቶ፣ እሞ ንሱ ይሳካዕ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ረኣየቶ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ሳራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወዲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ሀጋር"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "ሚጽራይታይት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝበከረትሉ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "በከረት"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ንኣቭራሃም"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "ይሳካዕ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:44:09.793961967Z",
+  "model": "glm-5.3"
+}

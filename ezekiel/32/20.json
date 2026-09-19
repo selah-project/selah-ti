@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 32:20",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ኣብ መኻከን ተቓተዑ ሰይፊ ይወድቁ፣ ሰይፊ ተወሃበቶ፣ ስሓብዋን ⟨את⟩ ንኣኣን ምስ ኩሉ ብዙሕነታዋን።",
+  "tokens": [
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ መኻከን"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ተቓተዑ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፊ"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ይወድቁ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፊ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ተወሃበቶ"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "ስሓብዋ"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ንኣኣን ምስ ኩሉ ብዙሕነታዋ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ምስ ኩሉ"
+    },
+    {
+      "surface": "המוניה",
+      "gloss": "ብዙሕነታዋ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:46:44.557444256Z",
+  "model": "glm-5.3"
+}

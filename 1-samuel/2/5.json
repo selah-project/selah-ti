@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 2:5",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ዝሰበዩ ንእኽሊ ተቐጣሉ፣ እቶም ዝጠሓመቱ ድማ ኣብኩሩ፤ ክሳብ እታ ዓጀባ ሸውዓተ ወለደት፣ እታ ብዙሕ ውላድ ዘላ ድማ ኣምለለት።",
+  "tokens": [
+    {
+      "surface": "שבעים",
+      "gloss": "ዝሰበዩ"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "ንእኽሊ"
+    },
+    {
+      "surface": "נשכרו",
+      "gloss": "ተቐጣሉ"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "እቶም ዝጠሓመቱ"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "ኣብኩሩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "እታ ዓጀባ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ወለደት"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "ורבת",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "ኣምለለት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:54:31.301611387Z",
+  "model": "glm-5.3"
+}

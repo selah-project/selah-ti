@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እናተውሳነ እትዝከር ነፍሲይ ኣብ ዓዲያ ትወድቕ።",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "እናተውሳነ"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "እትዝከር"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "ኣብ ዓዲያ ትወድቕን"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልበይ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:34:48.727695793Z",
+  "model": "glm-5.3"
+}

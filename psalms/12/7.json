@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ቃላት ያህዌህ ንጹር ቃላት እየን፤ ከም ብር ኣብ ምድሪ ተሪጢኡ ሰቡዕ ግዜ ዝተወስከ ከምኡ እዩ።",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "ንጹር"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "ተሪጢኡ"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "ዝተወስከ"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "ሰቡዕ ግዜ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:57.832664759Z",
+  "model": "glm-5.3"
+}

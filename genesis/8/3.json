@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ማይ ካብ ልዕሊ ምድሪ ኣብ ምኻድ ኣብ ምምላስ ተመለሱ፣ ኣብ መወዳእታ ሃምሳን ሚኢታ መዓልታት ድማ ማይ ቐንሱ።",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ተመለሱ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ካብ ልዕሊ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ኣብ ምኻድ"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ኣብ ምምላስ"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "ቐንሱ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ኣብ መወዳእታ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ሃምሳ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ሚኢታ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልታት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:35:31.044016657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "እንተ ኣይሰምዐንን ስጉ ኣይተባበንን ግና፣ ጥፕኣቱ ይሸክም።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ይሰምዖ"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "ስጉ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "ይተባበ"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ይሸክም"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ጥፕኣቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:01:15.594869304Z",
+  "model": "glm-5.3"
+}

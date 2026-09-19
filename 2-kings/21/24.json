@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ህዝቢ ምድሪ ንኹሎም እቶም ንእሲ እቲ ንጉስ ኣሞን ዝተሓቡ ⟨את⟩ ቐተሎም፣ ህዝቢ ምድሪ ድማ ⟨את⟩ ዮስያ ወዲ ንሱ ኣብ ቦታኡ ኣነገሑ።",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ቐተሎም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሎም እቶም ተሓቡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሎም"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "እቶም ተሓቡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ንእሲ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "ኣሞን"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "ኣነገሑ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮስያ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ዮስያ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲ ንሱ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ኣብ ቦታኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:35:15.646155962Z",
+  "model": "glm-5.3"
+}

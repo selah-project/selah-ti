@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "⟨את⟩ ⟨ቲ⟩ ኣገሩ ትግፊዑ፤ እቲ ዝኾነ ኣብኻ ⟨את⟩ ሓውኻ ድማ ኢድኻ ትውድቖ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣገሩ"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "ኣገሩ"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "ትግፊዑ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ከምኡውን እቲ ዝ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ኣብኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓውኻ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ሓውኻ"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "ትውድቖ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:57:36.282998111Z",
+  "model": "glm-5.3"
+}

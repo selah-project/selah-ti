@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 20:12",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "የሆናታን ድማ ናብ ዳዊድ ተዛረበ፦ «ያህዌህ፣ ኤሎሂም እስራኤል፣ ንጽቢት ኣብዚ እዋን ወይ ኣብ ታሕቲ ሳልሳይ ⟨את⟩ ኣቦይ ምስ ሓቲተ፣ ኣብ ዳዊድ ጽቡእ እንተ ዀይኑ፣ ነቲ እውን ኣይሰድኣኻን፣ ⟨את⟩ ኣውራጂኻ እውን ኣይሓባረካን።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "የሆናታን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "אחקר",
+      "gloss": "ምስ ሓቲተ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቦይ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦይ"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "ኣብዚ እዋን"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ንጽቢት"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "ሳልሳይ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡእ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ሰደኣ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኻ"
+    },
+    {
+      "surface": "וגליתי",
+      "gloss": "ሓባረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣውራጂኻ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ኣውራጂኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:10:01.388844653Z",
+  "model": "glm-5.3"
+}

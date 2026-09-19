@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ስውር ያህዌህ ንዝፈርዎ ይኾን፣ ኪዳኑ ድማ ንምርዳኦም ይሃቦም።",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "ስውር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ንዝፈርዎ"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "ኪዳኑ ድማ"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "ንምርዳኦም ይሃቦም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:33.374685294Z",
+  "model": "glm-5.3"
+}

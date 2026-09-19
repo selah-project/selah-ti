@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 12:2",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ጥዕጳ ዝጥቀሙ፣ ብየማን ኢድን ብጸገም ኢድን፣ ብዕንጻታትን ብቀስታትን ብጥዕጳ ዝተኮስሱ፣ ካብ ሓዎታት ሻኡል ናይ ብንያም እዮም።",
+  "tokens": [
+    {
+      "surface": "נשקי",
+      "gloss": "ዝጥቀሙ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ጥዕጳ"
+    },
+    {
+      "surface": "מימינים",
+      "gloss": "ብየማን ኢድ"
+    },
+    {
+      "surface": "ומשמאלים",
+      "gloss": "ብጸገም ኢድን"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "ብዕንጻታት"
+    },
+    {
+      "surface": "ובחצים",
+      "gloss": "ብቀስታትን"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "ብጥዕጳ"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "ካብ ሓዎታት"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "ናይ ብንያም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:38:55.942908732Z",
+  "model": "glm-5.3"
+}

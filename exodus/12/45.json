@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ተቓለሳይን ተቀጣሪን ካብኡ ኣይብሉን።",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "ተቓለሳይ"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ተቀጣሪን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይብልዕ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ካብኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:20:23.708527820Z",
+  "model": "glm-5.3"
+}

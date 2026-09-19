@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ንርእስኻ ተቐንዕስ ከም እትረስዕ ⟨את⟩ ያህዌህ ኤሎሂምካ፣ ብዘይ ምሕላው ትእዛዛቱን ፍታዋቱን ሕግታቱን እቶም ኣነ ሎሚ ዝኣዝዘካ።",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "ንርእስኻ ተቐንዕስ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ከም እትረስዕ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ትረስዕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ከይ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ምሕላው"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ትእዛዛቱ"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "ፍታዋቱን"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ሕግታቱን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ዝኣዝዘካ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:51:10.661850760Z",
+  "model": "glm-5.3"
+}

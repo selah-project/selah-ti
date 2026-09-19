@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ምሳኩም ⟨את⟩ ድማ ነፍሲ ወከፍ ሓደ ሰብ ብነገዱ ክኸውን — ሰብ ርእሲ ናይ ቤት ኣቦታቱ ንሱ።",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ ምሳኩም"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ክኸውኑ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ወከፍ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ብነገዱ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ናይ ቤት"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ኣቦታቱ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:12:09.468146280Z",
+  "model": "glm-5.3"
+}

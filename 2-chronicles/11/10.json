@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ከምኡውን ⟨את⟩ ጽርዓህን ⟨את⟩ ኣይሎንን ⟨את⟩ ኽብሮንን፣ እቶም ኣብ ይሁዳን ኣብ ብንያምን ዝኾኑ፣ ዝተጸንዓዑ ከተማታት።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጽርዓህ"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "ጽርዓህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣይሎን"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "ኣይሎን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኽብሮን"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ኽብሮን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝኾኑ"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ኣብ ይሁዳ"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "ኣብ ብንያምን"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ከተማታት"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "ዝተጸንዓዑ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:59:19.311783593Z",
+  "model": "glm-5.3"
+}

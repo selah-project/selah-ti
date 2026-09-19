@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joel 1:11",
+  "book": "joel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣርሶተ ምድር ተሓጐሱ፤ ጋበንቲ ኣወጉ ስለ ስንጭሮን ስለ ገመልን፤ ምኽንያቱ ኣርሳዕ ገምበላ ተሓደሰ።",
+  "tokens": [
+    {
+      "surface": "הבישו",
+      "gloss": "ተሓጐሱ"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "ኣርሶተ ምድር"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "ኣወጉ"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "ጋበንቲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "ስንጭሮ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "ገመል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ተሓደሰ"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ኣርሳዕ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ገምበላ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:12:19.591140120Z",
+  "model": "glm-5.3"
+}

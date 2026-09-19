@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ነቲ ማእከላይ እተራ ⟨את⟩ ገበረ፣ ኣብ ውሽጢ እቶም ጽግርቲ ካብ እቲ ዓንዲ ክሳብ እቲ ዓንዲ ንኽእልዮ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እተራ"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "እተራ"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "ማእከላይ"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "ንኽእልዮ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ ውሽጢ"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ጽግርቲ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "ዓንዲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "ዓንዲ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:27:47.234995004Z",
+  "model": "glm-5.3"
+}

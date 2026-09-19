@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 94,
+  "translation": "ያህዌህ ንኣነ ሓያል ምስታፍ ኮይኑ ⟨ነይሩ⟩፣ ኤሎሃይ ድማ ውቕል መሸፈኒ እዩ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "ሓያል ምስታፍ"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ኤሎሃይ"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ውቕል"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "መሸፈኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:52.821199932Z",
+  "model": "glm-5.3"
+}

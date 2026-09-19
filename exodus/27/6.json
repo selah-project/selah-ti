@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ቀለቡታት ናይ እጽሪ ሽታ ንእቲ መሥዋዕቲ ቤት ግበር፤ ነቶም ⟨את⟩ ብሓሊበስቲ ሓልሶም።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ግበር"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "ቀለቡታት"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ንእቲ መሥዋዕቲ ቤት"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "ናይ ቀለቡታት"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "እጽሪ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ሽታ"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ሓልሶም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ሓሊበስቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:31:37.608868580Z",
+  "model": "glm-5.3"
+}

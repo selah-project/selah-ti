@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ዳዊድ ⟨את⟩ ኤሎሂም ንእቲ ወዲ ሓቲቶ፤ ዳዊድ ድማ ጾም ዓጸመ፣ ኣትዩ ድማ ደኣለ፣ ኣብ ምድሪ ድማ ተንበረ።",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "ሓቲቶ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂም"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ን"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "እቲ ወዲ"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "ዓጸመ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ጾም"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ኣትዩ"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "ደኣለ"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "ተንበረ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ኣብ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:29:32.886970351Z",
+  "model": "glm-5.3"
+}

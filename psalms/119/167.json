@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 167,
+  "ref": "psalms 119:167",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ነፍሲ ምስክርታትኻ ሓለወት፣ ኣነ ድማ ብዙሕ እደስዮም እየ።",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "ሓለወት"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ምስክርታትኻ"
+    },
+    {
+      "surface": "ואהבם",
+      "gloss": "ኣነ ድማ እደስዮም"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:44.960536517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 17:10",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "የሆሹዋዕ ድማ ከም እተዛረቦ ሞሸ፣ ምስ ዓማላቅ ንኽትታሕብ ገበረ፤ ሞሸን ኣሃሮንን ሑርን ድማ ናብ ርእሲ እቲ ከረብ ወጸዎም።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "እተዛረቦ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ንኽትታሕብ"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "ምስ ዓማላቅ"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "ሞሸን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "ሑርን"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ወጸዎም"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "ከረብ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:24:52.858523961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 2:24",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ድሕሪ ሞት ሕጽሮን ኣብ ኻለብ እፍራታ ድማ ኣቢያ ሰበይቲ ሕጽሮን ⟨את⟩ ኣሽሑር ኣቦ ተቕዋዓ ወለደትሉ።",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ሕጽሮን"
+    },
+    {
+      "surface": "בכלב",
+      "gloss": "ኣብ ኻለብ"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "እፍራታ"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ሕጽሮን"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ኣቢያ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኣኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሽሑር"
+    },
+    {
+      "surface": "אשחור",
+      "gloss": "ኣሽሑር"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "ተቕዋዓ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:30:30.580607844Z",
+  "model": "glm-5.3"
+}

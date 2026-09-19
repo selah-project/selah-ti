@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 53,
+  "translation": "ኩሉ ተመለሰ፣ ሓባር ኮይኖም ኣብሓቱ፣ ጽቡቕ ዝገብር የለን፣ እንከኣ ሓደ እውን የለን።",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "סג",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ሓባር ኮይኖም"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "ኣብሓቱ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገብር"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡቕ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እንከኣ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ እውን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:30.939174558Z",
+  "model": "glm-5.3"
+}

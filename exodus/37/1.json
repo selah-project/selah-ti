@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ከምኡ ድማ ቤጽልኤል ⟨את⟩ ታቦት ካብ እኽሊ ሻትቲም ገበረ፤ ክልተ ኣማታትን ግማዊን ርዝንኡ፣ ሓደ ኣማን ግማዊን ስፍሕኡ፣ ሓደ ኣማን ግማዊን ቁመቱ እዩ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "ቤጽልኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንታቦት"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ካብ እኽሊ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ሻትቲም"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "ክልተ ኣማታት"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ንግማዊ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ርዝንኡ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ሓደ ኣማ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ንግማዊ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ስፍሕኡ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ሓደ ኣማ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ንግማዊ"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ቁመቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:42:57.865411009Z",
+  "model": "glm-5.3"
+}

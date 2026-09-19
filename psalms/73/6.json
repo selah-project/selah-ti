@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 73,
+  "translation": "ስለዚ ሓቅል-ኣንገት ኮይኑ ስጉኡ ይሓቅሎም፤ ጅማዝ ከም ልብሲ ድማ ይሽፍኖም።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "ይሓቅሎም"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "ስጉኡ"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "ይሽፍን"
+    },
+    {
+      "surface": "שית",
+      "gloss": "ልብሲ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ጅማዝ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ንኣቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:24.938474060Z",
+  "model": "glm-5.3"
+}

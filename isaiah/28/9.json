@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "⟨את⟩ መን እዩ ፍልጠት የምሃብ፣ ⟨את⟩ መን እዩ ተዛረብቲ የርድእ፧ ንዝተወጢዑ ካብ ወተት፣ ንዝተሓረዉ ካብ ጡታት።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መን"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "የምሃብ"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ፍልጠት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መን"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "የርድእ"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "ተዛረብቲ"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "ዝተወጢዑ"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ካብ ወተት"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "ዝተሓረዉ"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "ካብ ጡታት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:57:42.320614303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 18:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ሞሸ ድማ ንኣባዩ ንምርካብ ወጸ፣ ሰገደ፣ ኣፋሲ ሀበዮ፣ ሰብ ንመሓይሉ ንሰላም ሓተቱ፣ ናብ ውሽጢ ዕመት ድማ ኣተዩ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ንምርካብ"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "ኣባዩ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ሰገደ"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ኣፋሲ-ሀበዮ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "ሓተቱ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ንመሓይሉ"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ንሰላም"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ኣተዩ"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "ዕመት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:24:05.171028483Z",
+  "model": "glm-5.3"
+}

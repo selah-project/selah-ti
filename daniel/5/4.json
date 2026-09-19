@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ጸላም ሰተዩ፣ ኣማልኽቲ ወርቂን ጠርቢን ናስሲን ብረትን ግንጭልን ውዑያን ድማ ኣመስገኑ።",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "ሰተዩ"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "ጸላም"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "ድማ ኣመስገኑ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ንኣማልኽቲ"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "ጠርቢ"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "ናስሲ"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "ብረት"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "ግንጭል"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "ውዑያን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:56:01.402950646Z",
+  "model": "glm-5.3"
+}

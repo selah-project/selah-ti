@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "የሆሹዋዕ ድማ ኣብ ትሕቲ ተንቢሽ ⟨את⟩ እስራኤል ብኩነታቱ ኣቐረቦ፤ ኩነት ይሁዳ ድማ ተዓዘየ።",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ተንቢሽ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ኣብ ትሕቲ"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "ኣቐረበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "ብኩነታቱ"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ተዓዘየ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ኩነት"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:21:55.275973634Z",
+  "model": "glm-5.3"
+}

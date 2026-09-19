@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ምኽንያቱ ኣታ ክብሪ ዓቕሚና ኢኻ፣ ብስምዕትኻ ድማ ቐርና ተውሲኻት።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "ዓቕሚና"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኣታ ኢኻ"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "ብስምዕትኻ"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "ተውሲኻት"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "ቐርና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:32.215521787Z",
+  "model": "glm-5.3"
+}

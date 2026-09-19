@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ጽፑራ ድማ ሓደ ሽር ሒዣ ቐረጠት ⟨את⟩ ኣድሕነት ወዲኣ ተቐራበዓ ንእግርኡ፤ «ብሓቂ ዓሙቕ ደም ንስኻ ንኣነ» በለት።",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "ሒዣ"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "ጽፑራ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ሽር"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "ቐረጠት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣድሕነት ወዲኣ"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "ኣድሕነት"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ወዲኣ"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "ተቐራበዓ"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "ንእግርኡ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "በለት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ብሓቂ"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ዓሙቕ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:13:37.726123904Z",
+  "model": "glm-5.3"
+}

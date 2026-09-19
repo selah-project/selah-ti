@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ተሸካሚ መሳርሒኡ ሻኡል ምስ ሞተ ምስ ረኣየ፣ ንሱ እውን ኣብ ልዕሊ ሰይፉ ወደቐ ከምኡውን ምስኡ ሞተ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ተሸካሚ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "መሳርሒኡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም ዝ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ወደቐ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ሰይፉ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:24:04.531775871Z",
+  "model": "glm-5.3"
+}

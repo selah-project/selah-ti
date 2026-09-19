@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እቶም እጽይታት ድማ ነቲ በርቆ በሉ፦ «ኒ፣ ⟨את⟩ ንስኺ ብዓቐን ኣብ ልዕሊና ተኻይዲ።»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "እቶም እጽይታት"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "ነቲ በርቆ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ኒ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንስኺ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ብዓቐን ተኻይዲ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ኣብ ልዕሊና"
+    }
+  ],
+  "timestamp": "2026-09-18T23:42:04.514356437Z",
+  "model": "glm-5.3"
+}

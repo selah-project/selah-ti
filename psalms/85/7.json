@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 85,
+  "translation": "ኣይኮነን ኣንተ ትምለስና ነፍሲና ትሕያወና፧ ህዝብኻ ድማ ብኻ ይሕገሱ።",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኣንተ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ትምለስ"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "ትሕያወና"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ህዝብኻ ድማ"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ይሕገሱ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ብኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:25.231817059Z",
+  "model": "glm-5.3"
+}

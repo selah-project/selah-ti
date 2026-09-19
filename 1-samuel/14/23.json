@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ያህዌህ ድማ ⟨את⟩ እስራኤል ኣብ እቲ መዓልቲ ኣድሕኖ፤ ⟨እቲ⟩ ኲናት ድማ ብስቕቲ ⟨את⟩ ቤት ኣወን ሓሊፉ።",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "ኣድሕኖ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "ኲናት ድማ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ሓሊፉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት ኣወን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "און",
+      "gloss": "ኣወን"
+    }
+  ],
+  "timestamp": "2026-09-19T00:06:02.203583655Z",
+  "model": "glm-5.3"
+}

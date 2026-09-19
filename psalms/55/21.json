@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 55,
+  "translation": "ኣብ ሰላምቱ ዝነበሩ ኢዱቱ ሰዓረ፤ ኪዳኑ ከኣ ሓረሮ።",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ሰዓረ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ኢዱቱ"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "ኣብ ሰላምቱ"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ሓረሮ"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ኪዳኑ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:02:28.149128034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ሒዖም ⟨את⟩ እቲ ለጋም ኣሻገሮም፣ ዝኾነ ዝነበሮ ድማ ⟨את⟩ ኣሻገረ።",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "ሒዖም"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "ኣሻገሮም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ለጋም"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "እቲ ለጋም"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ኣሻገረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝኾነ ዝነበሮ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ዝነበሮ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:53:28.798897352Z",
+  "model": "glm-5.3"
+}

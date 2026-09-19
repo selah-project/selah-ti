@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 28:10",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ኣብ ክፉእ መገዲ እቶም ቅኑያት ዘሓይሽ፣ ንሱ በይኑ ኣብ ቈፋዩ ይውደቅ፤ እቶም ውሉᓓት ድማ ጽቡእ የውርስዎ።",
+  "tokens": [
+    {
+      "surface": "משגה",
+      "gloss": "ዘሓይሽ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ቅኑያት"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መገዲ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "בשחותו",
+      "gloss": "ኣብ ቈፋዩ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ በይኑ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ይውደቅ"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "እቶም ውሉᓓት"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "የውርስዎ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡእ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:58:36.984192615Z",
+  "model": "glm-5.3"
+}

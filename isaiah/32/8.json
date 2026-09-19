@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "እቲ ክቡር ግን ክቡራት ነገራት የምክር፣ ነቶም ክቡራት ነገራት እኳ የቕመጥ።",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "እቲ ክቡር ግን"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "ክቡራት ነገራት"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "የምክር"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ እኳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "ክቡራት ነገራት"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "የቕመጥ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:02:12.706342016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 20:41",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ድማ ተሓጸበ፣ እቲ ኣፍሪ ካብ ኣዕይንቱ ወጸ፣ መልከተ እስራኤል ድማ ⟨את⟩ ንሱ ካብ ነብዪታት ምዃኑ ረገጸ።",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "ተሓጸበ"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ኣፍሪ"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "እቲ ኣፍሪ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ኣዕይንቱ"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "ረገጸ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱ ነብዪ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "መልከተ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "ካብ ነብዪታት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:06:45.182443673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣብ ድሕሪኡ ውላድ እስራኤል ክምለሱ፣ ያህዌህ ኤሎሂምኩም ⟨את⟩ ዳዊድ ንጉሶምን ⟨ואת⟩ ክደልዩ፣ ናብ ያህዌህ ናብ ብጽቡኡ ክፈሩ ኣብ መወዳእታ መዓልታት።",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "ኣብ ድሕሪኡ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ክምለሱ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "ክደልዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ ኤሎሂምኩም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ኤሎሂምኩም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ዳዊድ ንጉሶም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "ንጉሶም"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "ክፈሩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "ብጽቡኡ"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "ኣብ መወዳእታ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "መዓልታት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:04:15.297890920Z",
+  "model": "glm-5.3"
+}

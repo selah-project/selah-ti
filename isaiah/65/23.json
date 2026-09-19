@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 65:23",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 65,
+  "translation": "ብዘይ ጠቕም ኣይጸንኑን፣ ንስጉምት ድማ ኣይወልዱን፤ ከመይሲ ዘርኢ ኣብራኹቲ ያህዌህ እዮም፣ ከምኡውን ውላዶም ⟨ምሳኦም⟩ ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "ይጸንኑ"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ብዘይ ጠቕም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ከምኡውን ኣይ"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ይወልዱ"
+    },
+    {
+      "surface": "לבהלה",
+      "gloss": "ንስጉምት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከመይሲ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘርኢ"
+    },
+    {
+      "surface": "ברוכי",
+      "gloss": "ኣብራኹቲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እዮም"
+    },
+    {
+      "surface": "וצאצאיהם",
+      "gloss": "ከምኡውን ውላዶም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ምሳኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:25:36.380852969Z",
+  "model": "glm-5.3"
+}

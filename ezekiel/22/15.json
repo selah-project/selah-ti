@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 22:15",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኣብ መንጎ ኣህዛብ ⟨את⟩ ክሰድደካ እየ፣ ኣብ ምድራት ክፈንጭኻ እየ፣ ርኵሰትኻ ድማ ካባኻ ክዓግት እየ።",
+  "tokens": [
+    {
+      "surface": "והפיצותי",
+      "gloss": "ክሰድደካ እየ"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "ንኻ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ኣብ መንጎ ኣህዛብ"
+    },
+    {
+      "surface": "וזריתיך",
+      "gloss": "ክፈንጭኻ"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "ኣብ ምድራት"
+    },
+    {
+      "surface": "והתמתי",
+      "gloss": "ክዓግት እየ"
+    },
+    {
+      "surface": "טמאתך",
+      "gloss": "ርኵሰትኻ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ካባኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:41:56.408095434Z",
+  "model": "glm-5.3"
+}

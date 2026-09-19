@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣብ እቲ መዓልቲ ቅንጪ ያህዌህ ንሓበያን ንክብሪን ክኸውን እዩ፣ እቲ ፍሩት ምድሪ ድማ ንዝደሓነ እስራኤል ንምዕባይን ንተዓጅቦትን ክኸውን እዩ።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክኸውን እዩ"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "ቅንጪ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "ንሓበያ"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "ንክብሪን"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "እቲ ፍሩት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "ንምዕባይ"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "ንተዓጅቦትን"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "ንዝደሓነ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T01:44:17.330641420Z",
+  "model": "glm-5.3"
+}

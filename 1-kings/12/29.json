@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "እቲ ሓደ ⟨את⟩ ብቤት ኤል ኣብሮ፡ ⟨ואת⟩ እቲ ሓደ ድማ ኣብ ዳን ደለዮ።",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ኣብሮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሓደ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "እቲ ሓደ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ብቤት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "እቲ ሓደ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "እቲ ሓደ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ደለዮ"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "ኣብ ዳን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:00:39.830071535Z",
+  "model": "glm-5.3"
+}

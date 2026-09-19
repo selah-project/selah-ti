@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 7:14",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "እቶም ማንድራኮታት ሽቶ ሃቑ፤ ኣብ ኣፍታትና ድማ ኩሉ ምርጊማት፣ ሓዱሳት ከምኡውን ብሉጻት፣ ኣለው፤ ሓፍተይ፣ ኩሉ ንስኻ ሓቢርኩሉ ኣለኹ።",
+  "tokens": [
+    {
+      "surface": "הדודאים",
+      "gloss": "እቶም ማንድራኮታት"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ሃቑ"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "ሽቶ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ድማ ኣብ"
+    },
+    {
+      "surface": "פתחינו",
+      "gloss": "ኣፍታትና"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "ምርጊማት"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ሓዱሳት"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "ብሉጻት"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ሓፍተይ"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "ሓቢርኩሉ ኣለኹ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:30:30.701260483Z",
+  "model": "glm-5.3"
+}

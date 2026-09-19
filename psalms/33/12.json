@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ዝምሃላት እያ እታ ሃገር ኤሎሂምኣ ያህዌህ ዝኾና፣ እቲ ህዝቢ ናብ ውርሻ ንእሱ ዝኸረጸ።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ዝምሃላት"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "እታ ሃገር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ኤሎሂምኣ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ኸረጸ"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ናብ ውርሻ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:01:32.253292418Z",
+  "model": "glm-5.3"
+}

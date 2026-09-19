@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ብላቅ ድማ ኣብኣትቲን ሰብቕቕን ወፈየ፤ ንቢልዓምን ነቶም ሹማቓል ምስ ⟨את⟩ ዝነበሩ ካብኡም ሰዓቐ።",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "ወፈየ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ብላቅ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ኣብኣትቲ"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ሰብቕቕን"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ሰዓቐ"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "ንቢልዓም"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "ንቶም ሹማቓልን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ምሶም (ምስ ንሱ)"
+    }
+  ],
+  "timestamp": "2026-09-18T22:32:30.331311863Z",
+  "model": "glm-5.3"
+}

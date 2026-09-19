@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ኣቡኡን ኣደኡን ይዕድሞ ድማ ነቲ ወዲ፣ ናብ ሽማሓት ከተርኡን ናብ ኣፍ ዓዲ ከባቢኡን ኣቢሎም ⟨אתו⟩ የውጽእዎ፤",
+  "tokens": [
+    {
+      "surface": "ותפשו",
+      "gloss": "ይዕድሞ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ነቲ ወዲ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ኣደኡን"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "የውጽእዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ነቲ ወዲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ሽማሓት"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ከተርኡ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ናብን"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ኣፍ ዓዲ"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "ከባቢኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:01:54.971023611Z",
+  "model": "glm-5.3"
+}

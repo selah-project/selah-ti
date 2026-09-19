@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "ጸሓይ ኣብ ትወጽእ እዋን እቶም ⟨ንሳቶም⟩ ይእኪቡ፣ ኣብ ማዕረቦም ድማ ይተኛዩ።",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "ኣብ ትወጽእ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ጸሓይ"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "ይእኪቡ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "ማዕረቦም"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "ይተኛዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:32.505998581Z",
+  "model": "glm-5.3"
+}

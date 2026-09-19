@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ጽቡን ንቅዓትን ፍልጠትን ኣምሃበኒ፣ እሞ ኣብ ትእዛዛትኻ ኣመንኩ።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡን"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "ንቅዓት"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ፍልጠትን"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ኣምሃበኒ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "ኣብ ትእዛዛትኻ"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "ኣመንኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:36.655848219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 40:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ጽድቅኻ ኣብ ውሽጥ ልበይ ኣይሓበንኩን፤ ታሕቲኻ ንመድሃኒትኻ ድማ ተዛረብኩ፤ ሔሴድኻን ሓቂኻን ነቲ ዝበዝሕ ጉባኤ ኣይሓበንኩን።",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "ጽድቅኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "ሓበንኩን"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ ውሽጥ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ታሕቲኻ"
+    },
+    {
+      "surface": "ותשועתך",
+      "gloss": "ንመድሃኒትኻ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ተዛረብኩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "ሓበንኩን"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሔሴድኻ"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ሓቂኻ እውን"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "ነቲ ጉባኤ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ዝበዝሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:47.470619284Z",
+  "model": "glm-5.3"
+}

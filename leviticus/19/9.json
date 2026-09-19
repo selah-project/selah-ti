@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኣብ ምኽሳብኹም ⟨את⟩ ሓርስቲ ምድርኩም ኩርናይ በዓዲኹም ብሙሉእ ኣይተሓርሱን፣ ወጽኢት ሓርስቲኹም እውን ኣይተላብዑን።",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "ኣብ ምኽሳብኹም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓርስቲ ምድርኩም"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ሓርስቲ"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ምድርኩም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "ብሙሉእ ኣይተሓርሱን"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ኩርናይ"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "በዓዲኹም"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "ምኽሳብ"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "ወጽኢት"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "ሓርስቲኹም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "ኣይተላብዑን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:00:30.794950861Z",
+  "model": "glm-5.3"
+}

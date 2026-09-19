@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 103,
+  "translation": "ማልኣኽቱ ያህዌህ ኣብሩኩ፣ እቶም ጠንካራት ሓይሊ ቃሉ ዝፈጽሙ፣ ድምጺ ቓሉ እናሰምዑ።",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "ኣብሩኩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "ማልኣኽቱ"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "ጠንካራት"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ሓይሊ"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ዝፈጽሙ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ቃሉ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ንምስማዕ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ንድምጲ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ቃሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:42.005463316Z",
+  "model": "glm-5.3"
+}

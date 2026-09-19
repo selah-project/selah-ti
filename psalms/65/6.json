@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 65:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 65,
+  "translation": "ብርህባት ብጽድቂ ትመልሰና ኣሎኻ ኤሎሂም ናይ መድሓኒትና፣ ካብ ንስኻ ተስፋ ኩሉ ዓድብቲ ምድሪን ባሕርታት ሩቓትን እዮም።",
+  "tokens": [
+    {
+      "surface": "נוראות",
+      "gloss": "ብርህባት"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ብጽድቂ"
+    },
+    {
+      "surface": "תעננו",
+      "gloss": "ትመልሰና"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "ናይ መድሓኒትና"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ተስፋ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "ዓድብቲ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "וים",
+      "gloss": "ባሕርታትን"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "ሩቓት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:20.033620119Z",
+  "model": "glm-5.3"
+}

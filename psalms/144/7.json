@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 144,
+  "translation": "ኢድኻትካ ካብ ላዕሊ ምለኽ፤ ካብ ብዙሓት ማይታት፣ ካብ ኢድ ውሉያት ውላድ ኣውጽአኒን ናጻኣኒን።",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ምለክ"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ኢድኻትካ"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ካብ ላዕሊ"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "ናጻኣኒን"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ኣውጽአኒን"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "ካብ … ማይታት"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ውሉያት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:47.188671313Z",
+  "model": "glm-5.3"
+}

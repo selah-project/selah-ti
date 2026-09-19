@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "እቲ ጻድቕ ብጥበብ ቤት ክፉእ ይግምት፤ ክፉኣት ናብ ጥፍኣት የብልጾም እዩ።",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "ብጥበብ ይግምት"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቕ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ነቤት"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "የብልጾም"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉኣት"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ናብ ጥፍኣት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:52:01.185128932Z",
+  "model": "glm-5.3"
+}

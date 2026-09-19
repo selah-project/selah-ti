@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 81,
+  "translation": "ዝማሬ ኣስዓሩ፣ በገና ሃቡ፤ እታ ጽቡቕ ከተራ ምስ ንቤል።",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ኣስዓሩ"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ዝማሬ"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "ሃቡ"
+    },
+    {
+      "surface": "תף",
+      "gloss": "በገና"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "ከተራ"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ጽቡቕ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ንቤል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:10.110687720Z",
+  "model": "glm-5.3"
+}

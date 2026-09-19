@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ንሳ ኣብ ሰማይ መን ከም ያህዌህ ይተማንል? ኣብ ውላድ ኣማልኺቲ እኳ መን ከም ያህዌህ ይመሳሰል?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ንሳ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "ኣብ ሰማይ"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ይተማንል"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ከም ያህዌህ"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "ይመሳሰል"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ከም ያህዌህ"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "ኣብ ውላድ"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "ኣማልኺቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:21.095724103Z",
+  "model": "glm-5.3"
+}

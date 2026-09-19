@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ድማ ⟨את⟩ እቶም መንበሮታት ገበረ፣ ⟨את⟩ እቲ መስቢያት እውን ኣብ ልዕሊ እቶም መንበሮታት ገበረ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መንበሮታት"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "እቶም መንበሮታት"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መስቢያት"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "እቲ መስቢያት"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "እቶም መንበሮታት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:55:35.615110745Z",
+  "model": "glm-5.3"
+}

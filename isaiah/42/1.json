@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 42:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "«እንሆ ኣገልባጺይ እዚ እዘኻኦ፣ ተመርጺይ ነፍሲ ወከፍትዮ ተረኺባ እያ፤ መንፈሰይ ሂብኩ ኣብ ልዕሊኡ እየ፣ ንሕዝብታት ፍትሕቲ የውጽእ።»",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልባጺይ"
+    },
+    {
+      "surface": "אתמך",
+      "gloss": "እዘኻኦ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "ተመርጺይ"
+    },
+    {
+      "surface": "רצתה",
+      "gloss": "ተረኺባ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲ ወከፍትዮ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ሂብኩ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "መንፈሰይ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊኡ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍትሕቲ"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "ንሕዝብታት"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "የውጽእ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:11:36.515865914Z",
+  "model": "glm-5.3"
+}

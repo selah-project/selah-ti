@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ንቕሕ፣ ምኽንያቱ ነቲ ነገር ኣብኣካ እዩ፤ ንሕና ድማ ምሳኻ ኢና፤ እተንክልካ ግበር።",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "ንቕሕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ኣብኣካ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ነቲ ነገር"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ንሕና ድማ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምሳኻ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "እተንክልካ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ግበር"
+    }
+  ],
+  "timestamp": "2026-09-19T07:11:54.342447190Z",
+  "model": "glm-5.3"
+}

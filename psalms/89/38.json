@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ከም ጨረቓ ናብ ዓለም ዝቕየር፣ ኣብ ሰማይ ዘሎ ምስዒ እውን ኣረኣእያ እዩ። ሰላህ።",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "ከም ጨረቓ"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ዝቕየር"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ናብ ዓለም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ምስዒ እውን"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "ኣብ ሰማይ"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "ኣረኣእያ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:18.047913202Z",
+  "model": "glm-5.3"
+}

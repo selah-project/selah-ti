@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 142,
+  "translation": "መንፈሰይ ኣብ ልዕለይ ምስ ተሓወሰት፣ ንስኻ ግን መገዲ ኣለኹ ትፈልጥ፣ ኣብ እዚ እቲ ዝኽይ እነብር ዘሎኹ ኣብ መገዲ መልህቕ ሓውሽሉ።",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "ምስ ተሓወሰት"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕለይ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "መንፈሰይ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ግን"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ትፈልጥ"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "መገዲ ኣለኹ"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "ኣብ መገዲ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "እቲ ዝኽይ እነብር ዘሎኹ"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ሓውሽሉ"
+    },
+    {
+      "surface": "פח",
+      "gloss": "መልህቕ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:39.407583093Z",
+  "model": "glm-5.3"
+}

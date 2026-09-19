@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 143,
+  "translation": "ብሔሴድካ ተቓላስቲይ ተወጽኦም፤ ኣገላቲ ነፍሲይ ኩሎም ሓዲግካ፤ ምኽንያቱ ኣነ ኣገልጋይካ እየ።",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "ብሔሴድካ"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "ተወጽኦም"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ተቓላስቲይ"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "ሓዲግካ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "ኣገላቲ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልጋይካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:21.793107104Z",
+  "model": "glm-5.3"
+}

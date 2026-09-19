@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 118,
+  "translation": "ዘምዑኒ እኳውን ዘምዑኒ፤ ብስም ያህዌህ እነጥፍኦም እየ።",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "ዘምዑኒ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እኳውን"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ዘምዑኒ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ብስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "እነጥፍኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:11.105812292Z",
+  "model": "glm-5.3"
+}

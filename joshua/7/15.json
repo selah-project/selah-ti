@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 7:15",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "እቲ ሔረም ዝተዓዘዞ ድማ ብሓዊ ይትሓደድ — ⟨את⟩ ንኡን ⟨את⟩ ኩሉ እቲ ናቱ ዝኾነ — ስለ ዝሓለፈ ⟨את⟩ ኪዳን ያህዌህ፣ ከምኡውን ስለ ዝገበረ ስድነት ኣብ እስራኤል።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "הנלכד",
+      "gloss": "ዝተዓዘዞ"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "ሔረም"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ይትሓደድ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ብሓዊ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንኡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ናቱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ሓለፈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኪዳን"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ከምኡውን ስለ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ስድነት"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ኣብ እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T23:21:55.275833381Z",
+  "model": "glm-5.3"
+}

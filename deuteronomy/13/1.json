@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "⟨את⟩ ኩሉ ቃል እቲ ኣነ ዝእዝዞ ንኣኹም ነቱ ተጠንቐቑ ንብሉ፤ ኩም ኣብ ልዕሊኡ ኣይትውስክን፣ ካብኡ ድማ ኣይትጐድልን።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ዝእዝዞ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንኣኹም"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ነቱ"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ተጠንቐቑ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ንብሉ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ትውስክን"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊኡ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "ትጐድልን"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:58:55.570253362Z",
+  "model": "glm-5.3"
+}

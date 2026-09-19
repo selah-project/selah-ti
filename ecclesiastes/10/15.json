@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "እቲ ዕደኣ ናይ እቶም ሰብዑት ይዓርዎ፤ እሞ ናብ ከተማ ክኸይድ ኣይፈሊጡን።",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "ዕደኣ"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "ናይ እቶም ሰብዑት"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "ይዓርዎ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ኣይፈሊጡን"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ክኸይድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:08:11.947495771Z",
+  "model": "glm-5.3"
+}

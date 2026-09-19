@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 16:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ወንበር ብሔሴድ ተዳልወ፣ ንሱ ድማ ኣብ ልዑሉ ብሓቂ፣ ኣብ ድንኳን ዳዊድ፣ ስርዓት እናፈረደን እናደለለን፣ ጽድቂ እናበሓሸን ይቕመጥ።",
+  "tokens": [
+    {
+      "surface": "והוכן",
+      "gloss": "ተዳልወ"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "ብሔሴድ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ወንበር"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ይቕመጥ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዑሉ"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ብሓቂ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ኣብ ድንኳን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "እናፈረደ"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "እናደለለ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ስርዓት"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "እናበሓሸ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:54:58.439834149Z",
+  "model": "glm-5.3"
+}

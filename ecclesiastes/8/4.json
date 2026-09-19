@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣብ ዘን ቃል ንጉስ ስልጣን ኣሎ፤ መን እውን ንኡ «እንታይ ተገብርካ?» ክብሎ?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "ኣብ ዘን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "ስልጣን"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "መን እውን"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ክብሎ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ተገብርካ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:43:17.039675022Z",
+  "model": "glm-5.3"
+}

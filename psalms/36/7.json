@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ጽድቂኻ ከም ከረብታት ኤል እያ፤ ፍርዲኻ ዓቢ ጥምስ እዩ፤ ሰብን እንስሳን ያህዌህ ትኣሱ እያ።",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "ጽድቂኻ"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "ከም ከረብታት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "ፍርዲኻ"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "ጥምስ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "እንስሳን"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "ትኣሱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:12.029974942Z",
+  "model": "glm-5.3"
+}

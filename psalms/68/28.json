@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 68:28",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ኣብኡ ብንያሚን ንእሽቶ ይግዛዮም፣ መራሕቲ ይሁዳ ምስ ስብሰቦም፣ መራሕቲ ዘቡሎን፣ መራሕቲ ንፍታሊ።",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ብንያሚን"
+    },
+    {
+      "surface": "צעיר",
+      "gloss": "ንእሽቶ"
+    },
+    {
+      "surface": "רדם",
+      "gloss": "ይግዛዮም"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "መራሕቲ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "רגמתם",
+      "gloss": "ስብሰቦም"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "መራሕቲ"
+    },
+    {
+      "surface": "זבלון",
+      "gloss": "ዘቡሎን"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "መራሕቲ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ንፍታሊ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:35.384964427Z",
+  "model": "glm-5.3"
+}

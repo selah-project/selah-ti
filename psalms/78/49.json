@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ሓዊ ቍጠቐኡ ኣብ ውሽጦም ልኣኸ፤ ብዓቲ፣ ምዝዋርን ጭንቀትን፣ ብምልእኻ ናይ ምልኣኽቲ ብዃት።",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ልኣኸ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ኣብ ውሽጦም"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ቍጠቐኡ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ብዓቲ"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "ምዝዋርን"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "ጭንቀትን"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "ብምልእኻ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ናይ ምልኣኽቲ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ብዃት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:48.859788959Z",
+  "model": "glm-5.3"
+}

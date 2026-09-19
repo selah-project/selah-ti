@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ዓዙባሕ ሞተት፤ ካልብ ድማ ንኤፍራት ⟨את⟩ ወሲዱ፣ ንሑርን ⟨את⟩ ወለደትሉ።",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "ሞተት"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "ዓዙባሕ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእኡ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ካልብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤፍራት"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "ኤፍራት"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሑር"
+    },
+    {
+      "surface": "חור",
+      "gloss": "ሑር"
+    }
+  ],
+  "timestamp": "2026-09-19T07:29:52.946701185Z",
+  "model": "glm-5.3"
+}

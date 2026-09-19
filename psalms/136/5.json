@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 136,
+  "translation": "ሰማያት ብምርዳእ ንዝገብር፣ ምኽንያቱ ናብ ዘለኣለም ሔሴዱ እዩ።",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "ንዝገብር"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "ብምርዳእ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:48.184099887Z",
+  "model": "glm-5.3"
+}

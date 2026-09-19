@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ከምኡውን ⟨את⟩ ኣምላኾም ኣብ ሓዊ ኣታዕቦም፣ ስለዚ ኣምላኽ ኣይኮኑን፣ ግና ክብሪ ኢድ ሰብ፣ እኽሊን ድንጋይን እዮም፤ ስለዚ ኣጠፍእዎም።",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "ኣታዕቦም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣምላኾም"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ኣምላኾም"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ኣብ ሓዊ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኣምላኽ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ግና"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ግና"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ድንጋይን"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "ኣጠፍእዎም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:36:17.168070390Z",
+  "model": "glm-5.3"
+}

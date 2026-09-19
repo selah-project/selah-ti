@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ማኻድ ኣብ ጉርሐትኻ ኣቐምጥ፣ እንተ ባዕል ነፍሲ ኮንካ።",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ኣቐምጥ"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "ማኻድ"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "ኣብ ጉርሐትኻ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ባዕል"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኮንካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:56:07.828805762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "«ስለ ግፍዲ ድኹማትን ስለ ጉስቐት ኣልቦታትን ሕጂ እነብዕ እየ» በለ ያህዌህ፤ «ነቲ ዝተማጽእ ኣብ ደህንነት ክህቦ እየ።»",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "ግፍዲ"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ድኹማት"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "ጉስቐት"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ኣልቦታት"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "እነብዕ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ክህቦ"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "ደህንነት"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "ዝተማጽእ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:57.832376710Z",
+  "model": "glm-5.3"
+}

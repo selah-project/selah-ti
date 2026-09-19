@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ተቐሚጥካን ኣብ ዝወጥኻን ኣብ ዝኣቱኻን ዓወትኩ፣ ብዛዕባይ ⟨את⟩ ዝነበረካ ንዓይ ድማ ዓወትኩ።",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "ተቐሚጥካ"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "ኣብ ዝወጥኻ"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "ኣብ ዝኣቱኻ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ዓወትኩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዝነበረካ (התרגזך — ምስዓርካ)"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "ዝነበረካ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንዓይ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:05:09.204532399Z",
+  "model": "glm-5.3"
+}

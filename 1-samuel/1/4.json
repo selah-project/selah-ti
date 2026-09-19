@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ነይሩ ነቲ መዓልቲ ኣልቃና ወፈየ፤ ነፕንና ሰበይቱ ነፍሲ ወከፍ ነቶም ወላደን ወይተን ወደተን ክፋላት ሃበ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ነቲ መዓልቲ"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "ወፈየ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ኣልቃና"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "ነፕንና"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሰበይቱ"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ነፍሲ ወከፍ ነቶም"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ወላደን"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "ወይተን ወደተን"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "ክፋላት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:57:06.827466508Z",
+  "model": "glm-5.3"
+}

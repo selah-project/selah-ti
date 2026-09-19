@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኤሎሂም ነቲ ረብሒ ምድሪ በሎ፤ ነቲ ኣኽቢብ ማይ ድማ ባሕርታት በሎ፤ ኤሎሂም ድማ እቲ ጽቡእ ምዃኑ ረኣየ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "ነቲ ረብሒ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "ነቲ ኣኽቢብ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ባሕርታት"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡእ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:29:55.932796048Z",
+  "model": "glm-5.3"
+}

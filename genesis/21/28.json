@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ኣቭራሃም ድማ ⟨את⟩ ሸውዓተ ውላድ ማንበብ ኩበርታ ብብዛዕባ ጥራይ ኣቕሚጡ።",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "ኣቕሚጡ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሸውዓተ ውላድ ማንበብ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "ውላድ ማንበብ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ኩበርታ"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "ብብዛዕባ ጥራይ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:43:09.786791322Z",
+  "model": "glm-5.3"
+}

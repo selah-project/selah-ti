@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ከምኡ'ውን ሰበርቲ ተቐመጡ ብዓይ ተዛረቡ፤ ኣገልጋሊኻ ግን ኣብ ብሕታውኻ ይዛረብ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ከምኡ'ውን"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ተቐመጡ"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ሰበርቲ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ብዓይ"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "ተዛረቡ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልጋሊኻ"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "ይዛረብ ነይሩ"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "ኣብ ብሕታውኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:33.845847406Z",
+  "model": "glm-5.3"
+}

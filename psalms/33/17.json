@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ሓሶት እዩ ፈረስ ንድሕነት፣ ኣብ ብዙሕ ኃይሉ ድማ ኣይይሓልውን።",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ፈረስ"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "ንድሕነት"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "ኣብ ብዙሕ"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ኃይሉ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ይሓልውን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:34.538094193Z",
+  "model": "glm-5.3"
+}

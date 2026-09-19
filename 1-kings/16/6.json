@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 16:6",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ባዕሻ ምስ ኣቦታቱ ተኣኺቡ ኣብ ትርጻ ተቐብአ፤ ወዲኡ ኤላ ድማ ኣብ ቦታኡ ነገሰ።",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ተኣኺቡ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ባዕሻ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ኣቦታቱ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ተቐብአ"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "ኣብ ትርጻ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሰ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ኤላ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ኣብ ቦታኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:04:28.085788784Z",
+  "model": "glm-5.3"
+}

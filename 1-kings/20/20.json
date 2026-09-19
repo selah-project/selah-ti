@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ነፍሲ ወከፍ ነቲ ተቓልዑኡ ሰበሮ፤ ኣራም ድማ ሰደተ፣ እስራኤል ኣሕዊሱ ድማ፤ ቤን-ሓዳድ ንሱውን ኣብ ፈረስ ምስ ፈረሰኛታት ሓለቐ።",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "ሰበሮ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ወከፍ"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "ነቲ ተቓልዑኡ"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ሰደተ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "ኣሕዊሱ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ሓለቐ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ቤን-ሓዳድ"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ቤን-ሓዳድ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "ፈረስ"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "ምስ ፈረሰኛታት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:08:36.581939796Z",
+  "model": "glm-5.3"
+}

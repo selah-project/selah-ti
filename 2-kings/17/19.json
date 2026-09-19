@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ይሁዳ ውን ⟨את⟩ ትእዛዛት ያህዌህ ኤሎሂምና ኣይተዓዘቦን፣ ኣብ ሕግታት እስራኤል ዝገበርዎ ከደ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ውን"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ኣይተዓዘቦን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዛት"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ትእዛዛት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "ኣብ ሕግታት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዝገበርዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:32:39.675587787Z",
+  "model": "glm-5.3"
+}

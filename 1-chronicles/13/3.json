@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ነቲ ⟨את⟩ ታቦት ኤሎሂምና ናብና ንምለስዓ፣ ምኽንያቱ ኣብ መዓልታት ሻኡል ኣይደለይናን።",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "ንምለስዓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦት"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ናብና"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "ደለይና"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ኣብ መዓልታት"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    }
+  ],
+  "timestamp": "2026-09-19T07:42:58.211657905Z",
+  "model": "glm-5.3"
+}

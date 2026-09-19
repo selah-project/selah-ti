@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ነቶም ንውላድኻ ብዝተዛረብካዮም ተዛረቦም፤ ኣብ ቤትካ ምስ ተቐመጥካ፣ ኣብ መገዲ ምስ ከድካ፣ ምስ ተኺልካ ከምኡውን ምስ ተነሰኻ ኪዛረቦም ኣሎኻ።",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "ተዛረቦም (ብዝድገም)"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ንውላድኻ"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ትዛረቦም ኣሎኻ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "ምስ ተቐመጥካ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ኣብ ቤትካ"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "ምስ ከድካ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መገዲ"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "ምስ ተኺልካ"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "ምስ ተነሰኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:47:58.804389005Z",
+  "model": "glm-5.3"
+}

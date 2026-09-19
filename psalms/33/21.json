@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "እሞ ኣብ ኑህ ልብና ይሓሸብ እዩ፣ እሞ ኣብ ቅዱስ ስሙ ተባብዓና ኢና።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብ ኑህ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ይሓሸብ እዩ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ልብና"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ኣብ ስም"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስ ናይኡ"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "ተባብዓና ኢና"
+    }
+  ],
+  "timestamp": "2026-09-19T04:52:37.413881388Z",
+  "model": "glm-5.3"
+}

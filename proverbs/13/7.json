@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ዘሎ ዝዓቢ ነገር ዝበለጸ ውኽን የለዎን እዩ፤ ዘሎ ዝጾሮ ዝበሃል ውኽን ብዙሕ ሃብቲ ኣለዎ።",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ዘሎ"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "ዝዓቢ ዝበለጸ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ወይስ የለዎን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ዝዀነ"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "ዝጾሮ ዝበሃል"
+    },
+    {
+      "surface": "והון",
+      "gloss": "ሃብቲ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:47:02.455085404Z",
+  "model": "glm-5.3"
+}

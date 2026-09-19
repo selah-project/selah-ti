@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ኣብ ጸገምኦም ድማ ናብ יהוה ደለዩ፤ ካብ ብጽሕኦም እውን ወጺእዎም።",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "ደለዩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ኣብ ጸገምኦም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንኣታቶም"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "ካብ ብጽሕኦም"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "ወጺእዎም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:21.789449282Z",
+  "model": "glm-5.3"
+}

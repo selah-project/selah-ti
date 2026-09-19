@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኣቦ ወለድቲ ነቶም ሽመጻት በለ፦ «⟨את⟩ ዓብይ ናብ እዚ ሰብ ነዚ ኣሰርኩ፣ ንሱ ድማ ጠለኣ።»",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ወለድቲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ሽመጻት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓብይ"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ዓብይ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ኣሰርኩ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ናብ ሰብ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ነዚ"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "ጠለኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:03:44.215241355Z",
+  "model": "glm-5.3"
+}

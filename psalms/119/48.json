@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኢደይ ነቲ ኣዘዛትካ ናብኣቶም እናበገስኩ እየ፣ እቶም ዝፈተውኩ፣ ኣብ ሕግታትኻ ድማ እናሓሰብኩ እየ።",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "እናበገስኩ እየ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ኢደይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ኣዘዛትካ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ፈተውኩ"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "እናሓሰብኩ እየ"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "ኣብ ሕግታትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:41.216581060Z",
+  "model": "glm-5.3"
+}

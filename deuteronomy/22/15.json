@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኣቦ ወለድቲ ንጓልን ኣደኣን ወሲዶም፣ ነቲ ⟨את⟩ ዝርኣን ናይታ ወለድቲ ናብ ሽመጻት ከተር ኣብ ኣፍደገ ኣውጺኦም።",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ወሲዶም"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ወለድቲ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ኣደኣ"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "ኣውጺኦም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝርኣን"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "ዝርኣን"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ወለድቲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ሽመጻት"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተር"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "ኣብ ኣፍደገ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:03:44.215076027Z",
+  "model": "glm-5.3"
+}

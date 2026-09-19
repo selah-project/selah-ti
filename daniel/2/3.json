@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ነቶም ድማ እቲ ንጉስ ከምዚ በሎ፦ «ትሕተይቲ ስነ-ሕልም ረኣኹ፣ መንፈስከውን ተነቕቡ እየን፣ እቲ ሕልም ⟨את⟩ ንኽፈልጥ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ትሕተይቲ ስነ-ሕልም"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ረኣኹ"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "ተነቕቡ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "መንፈስከውን"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ንኽፈልጥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሕልም"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "እቲ ሕልም"
+    }
+  ],
+  "timestamp": "2026-09-19T06:51:54.959413386Z",
+  "model": "glm-5.3"
+}

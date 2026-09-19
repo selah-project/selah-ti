@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ያህዌህ ኤሎሂም ድማ ንኣዳም ካብ ገነት ዕድን ናብቲ ካብኡ እትወሰድ ምድሪ ንኽሰርሕ ⟨את⟩ ምድሪ ወጸዮ።",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "ወጸዮ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ካብ ገነት"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ዕድን"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ንኽሰርሕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "እትወሰድ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ካብኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:32:26.103594473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "እቲ ቅያትን ⟨את⟩ እታ ርኣሕማን ⟨את⟩ እቲ ሸላኽን።",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "እቲ ቅያትን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ርኣሕማ"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "እታ ርኣሕማ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሸላኽ"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "እቲ ሸላኽ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:55:29.783111040Z",
+  "model": "glm-5.3"
+}

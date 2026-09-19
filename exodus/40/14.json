@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ውላዱን ⟨את⟩ ትቐርቦ፣ ኩትኖት እውን ⟨את⟩ ትለብሶም።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ውላዱ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "ትቐርቦ"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "ትለብሶም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ውላዱ"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ኩትኖት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:46:14.634913984Z",
+  "model": "glm-5.3"
+}

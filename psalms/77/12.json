@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 77,
+  "translation": "ብተግባራት ያህ እኣስተውሕጥ እየ፤ እሞ ብቀደም ድንቃትኻ እኣስተውሕጥ እየ።",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "እኣስተውሕጥ እየ"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "ብተግባራት"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "እኣስተውሕጥ እየ"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ብቀደም"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "ድንቃትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:50.323682307Z",
+  "model": "glm-5.3"
+}

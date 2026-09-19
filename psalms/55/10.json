@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 55,
+  "translation": "ኣዶናይ፣ ውሕለሎም፣ ቛላቶም ክፋልቱ — እሞ ጽልኋን ግጭቲን ኣብ ከተማ ረኣኹ።",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "ውሕለሎም"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ክፋልቱ"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ቛላቶም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ረኣኹ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ጽልኋ"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "ግጭቲን"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ኣብ ከተማ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:47.276769337Z",
+  "model": "glm-5.3"
+}

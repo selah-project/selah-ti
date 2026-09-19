@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 3:1",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኑኻድነጽር እቲ ንጉስ ቅርጺ ወርቂ ኮይኑ ሎሚቱ ስዒርተ ኣማትን ስፍሕቱ ሽድሽተ ኣማትን ዘለዎ ገበረ፤ ኣብ ሸለባ ዱራ ኣብ ቈራብ ባቢሎን ድማ ኣቕሚጹ።",
+  "tokens": [
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "ኑኻድነጽር"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "צלם",
+      "gloss": "ቅርጺ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "דהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "רומה",
+      "gloss": "ሎሚቱ"
+    },
+    {
+      "surface": "אמין",
+      "gloss": "ኣማት"
+    },
+    {
+      "surface": "שתין",
+      "gloss": "ስዒርተ"
+    },
+    {
+      "surface": "פתיה",
+      "gloss": "ስፍሕቱ"
+    },
+    {
+      "surface": "אמין",
+      "gloss": "ኣማት"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ሽድሽተ"
+    },
+    {
+      "surface": "אקימה",
+      "gloss": "ኣቕሚጹ"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "ኣብ ሸለባ"
+    },
+    {
+      "surface": "דורא",
+      "gloss": "ዱራ"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "ኣብ ቈራብ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባቢሎን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:56:34.771634213Z",
+  "model": "glm-5.3"
+}

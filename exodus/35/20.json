@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ኩሉ ጉባኤ ውላደ እስራኤል ኸኣ ካብ ቅድሚ ሞሸ ወጹ።",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ወጹ ኸኣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ካብ ቅድሚ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:39:23.616100339Z",
+  "model": "glm-5.3"
+}

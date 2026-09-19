@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 60,
+  "translation": "ኣህዛብ ናብ ብርሃንኪ ይከዱ፣ ነገስታት ድማ ናብ ስብሓት ምውላድ ጸሓይኪ።",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "ይከዱ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "ናብ ብርሃንኪ"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "ነገስታት"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "ናብ ስብሓት"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "ምውላድ ጸሓይኪ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:23:03.001521414Z",
+  "model": "glm-5.3"
+}

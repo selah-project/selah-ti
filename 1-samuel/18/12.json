@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ሻኡል ድማ ካብ ቅድሚ ዳዊድ ፈሪሉ፣ ስለ ያህዌህ ምስኡ ነይሩ፣ ካብ ሻኡል ድማ ተሓሊፉ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ፈሪሉ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ካብ ቅድሚ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስኡ"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ተሓሊፉ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:09:28.931185182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 76:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 76,
+  "translation": "ኣመሓዳሪት መንፈስ ይቁረጽ፤ ንነገስቲ ምድሪ ዝኣስፈር እዩ።",
+  "tokens": [
+    {
+      "surface": "יבצר",
+      "gloss": "ይቁረጽ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "ኣመሓዳሪት"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ዝኣስፈር"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "ንነገስቲ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:27.789409548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 82,
+  "translation": "ኣይፈልጡን፣ ኣይረድእን፣ ኣብ ጸልማት ይነጊሱ እዮም፤ ኩሉ መሰረታት ምድሪ ይንዘላ እዩ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ይፈልጡን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ይረድእን"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "ኣብ ጸልማት"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ይነጊሱ እዮም"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "ይንዘላ እዩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "መሰረታት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:47.230663167Z",
+  "model": "glm-5.3"
+}

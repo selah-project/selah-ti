@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 24:1",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ኣብ መዓልታቱ ንቡኻድነጽር ንጉስ ባቢሎን ወጸ፣ የሆይቂም ድማ ብዝተሓለወ ሰለስተ ዓመታት ኣገልጋሊ ኮይኑ ነይሩ፤ ድሕሪኡ ተመሊሱ ኣብ እኡ ኣመጽአ።",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "ኣብ መዓልታቱ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "ንቡኻድነጽር"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባቢሎን"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሱ"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "የሆይቂም"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ኣገልጋሊ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተመሊሱ"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "ኣመጽአ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብ እኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:40:59.648073403Z",
+  "model": "glm-5.3"
+}

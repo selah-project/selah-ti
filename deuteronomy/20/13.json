@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ያህዌህ ኤሎሂምካ ኣብ ኢድካ ክሃበካ እዩ፣ ትቐትል ⟨את⟩ ተባዕታይ ኩሉ ብዓይኒ ሰይፊ።",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "ክሃበካ እዩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ኣብ ኢድካ"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "ትቐትል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተባዕታይ ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "ተባዕታይ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ዓይኒ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፊ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:01:26.090666415Z",
+  "model": "glm-5.3"
+}

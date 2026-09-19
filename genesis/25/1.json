@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ኣቭራሃም ድማ ደጊሙ ሰበይቲ ኣመርያ፣ ስምኣ ትበሃል ቀጥራ።",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ደጊሙ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ኣመርያ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ስምኣ ትበሃል"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "ቀጥራ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:48:23.663136406Z",
+  "model": "glm-5.3"
+}

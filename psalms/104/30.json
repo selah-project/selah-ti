@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "መንፈስካ ምስ ለኣኺልካ ይፈጠሩ፣ ኣገጽ ምድሪን ድማ ትሓድስ።",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "ምስ ለኣኺልካ"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "መንፈስካ"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "ይፈጠሩ"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "ትሓድስ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ኣገጽ"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ምድሪን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:10.248081328Z",
+  "model": "glm-5.3"
+}

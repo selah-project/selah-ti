@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 4:7",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣብ ቐላ ቅዪሾን ናብኻ ⟨את⟩ ሲስራ ሻር ጸባኦት ያቪን፣ ⟨ואת⟩ ተሽከልካቱን ⟨ואת⟩ ህዝቢኡን እስሓብኻሎም እየ፣ ኣብ ኢድካ ከኣ እህቦ እየ።",
+  "tokens": [
+    {
+      "surface": "ומשכתי",
+      "gloss": "እስሓብኻሎም እየ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ቐላ"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "ቅዪሾን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሲስራ"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "ሲስራ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ሻር"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ያቪን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ተሽከልካቱ"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ተሽከልካቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ህዝቢኡ"
+    },
+    {
+      "surface": "המונו",
+      "gloss": "ህዝቢኡ"
+    },
+    {
+      "surface": "ונתתיהו",
+      "gloss": "እህቦ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ኣብ ኢድካ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:39:05.868397401Z",
+  "model": "glm-5.3"
+}

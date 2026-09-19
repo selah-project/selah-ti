@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ተቓወሞተይ ናብ ኣቃልቲ ምስ ተመልሱ፡ ካብ ቅድሚኻ ይስሓቡን ይጠፍኡን።",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "ምስ ተመልሱ"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ተቓወሞተይ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ናብ ኣቃልቲ"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ይስሓቡ"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "ይጠፍኡ"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ካብ ቅድሚኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:30.173875066Z",
+  "model": "glm-5.3"
+}

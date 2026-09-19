@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 63,
+  "translation": "ስለምንታይ እዩ ልብስኻ ቀይሕ ዝኾነ፣ ልብስታትኻ ድማ ከም ኣብ ገበያ ወይኒ ዝደርኾ?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "ስለምንታይ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ቀይሕ"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "ልብስኻ"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "ልብስታትኻ"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "ከም ዝደርኾ"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "ኣብ ገበያ ወይኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:21:24.176068105Z",
+  "model": "glm-5.3"
+}

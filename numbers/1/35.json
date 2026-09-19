@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "እቶም ተቐጻጸሮም ናይ ወገን ምናሸ ክልተን ሰላሳይን ሺሕን ክልተ ሚኢትን እዮም።",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ተቐጻጸሮም"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ናይ ወገን"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሸ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ክልተን"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ሰላሳይን"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺሕ"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ንክልተ ሚኢት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:09:34.133133526Z",
+  "model": "glm-5.3"
+}

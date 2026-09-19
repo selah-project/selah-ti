@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 26:15",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ህዝቢ ወሲኹኻ ያህዌህ፣ ህዝቢ ወሲኹኻ፤ ክብሪ ኣሕዚንካ፣ ኩሉ ዓድብታት ምድሪ ስፋሕካ።",
+  "tokens": [
+    {
+      "surface": "יספת",
+      "gloss": "ወሲኹኻ"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יספת",
+      "gloss": "ወሲኹካ"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "ክብሪ ኣሕዚንካ"
+    },
+    {
+      "surface": "רחקת",
+      "gloss": "ስፋሕካ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "ዓድብታት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:56:50.437157993Z",
+  "model": "glm-5.3"
+}

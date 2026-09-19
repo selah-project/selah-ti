@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 5:10",
+  "book": "amos",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣብ ⟨በዓቲ⟩ እቲ ዚዝግብ ይቕጸሉ፣ እቲ ኣብ ብጽሕና ዚዛረብ ድማ ይጥልምዎ።",
+  "tokens": [
+    {
+      "surface": "שנאו",
+      "gloss": "ይቕጸሉ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ኣብ በዓቲ"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "እቲ ዚዝግብ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "እቲ ዚዛረብ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ኣብ ብጽሕና"
+    },
+    {
+      "surface": "יתעבו",
+      "gloss": "ይጥልምዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:18:10.897472462Z",
+  "model": "glm-5.3"
+}

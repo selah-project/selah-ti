@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ድማ በሎ፦ በይነይ ቐበልኩ፣ ንጉስ-ቃል ያህዌህ እዩ፤ ስለ ዝገበርካዮ ⟨את⟩ ነገር ዚን፣ ኣይተዓጸይካን ⟨את⟩ ወድኻ ⟨את⟩ ብቻ ዝኾነ ወድኻን።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "በይነይ"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ቐበልኩ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ንጉስ-ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ስለ ዝኺየለሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ዝገበርካዮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነገር ዚን"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ዚን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "ተዓጸይካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወድኻ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ወድኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብቻ ዝኾነ ወድኻ"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "ብቻ ዝኾነ ወድኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:45:30.430126555Z",
+  "model": "glm-5.3"
+}

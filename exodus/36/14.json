@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 36:14",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ብጸጉሪ ኣዝጊ ንድኻም ኣብ ላዕሊ እቲ ማሕደር መጋረፊታት ገበረ፤ ዓሰርተ ሓደ መጋረፊታት ⟨את⟩ኦም ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "መጋረፊታት"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ኣዝጊ"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "ንድኻም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "እቲ ማሕደር"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ዓሰርተ-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-ሓደ"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "መጋረፊታት"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ኦም",
+      "marks": "እቶም መጋረፊታት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:43:24.946523954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "ጸልማት ትቕምጥ፤ ለይቲ ክኸውን እዩ፤ ኣብኡ ኩሉ ኣራዊት ገዛ ይዘውር።",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "ትቕምጥ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጸልማት"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ክኸውን"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ለይቲ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "ይዘውር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ኣራዊት"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ገዛ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:44.216968311Z",
+  "model": "glm-5.3"
+}

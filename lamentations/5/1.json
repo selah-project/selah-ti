@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ያህዌህ ኣስተውሕፍ እንታይ ኮነና፣ ተወከልና ረኣየ ⟨את⟩ ውርደትና።",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ኣስተውሕፍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ተወከል"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውርደትና"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "ውርደትና"
+    }
+  ],
+  "timestamp": "2026-09-19T06:38:42.520017181Z",
+  "model": "glm-5.3"
+}

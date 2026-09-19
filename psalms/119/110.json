@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኣባጊያት ሽንቐር ሓረዩለይ፣ ኣነ ግን ካብ ትእዛዛትካ ኣይተሓለወን።",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "ሓረዩ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኣባጊያት"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ሽንቐር"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "ካብ ትእዛዛትካ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "ተሓለወን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:50.078203093Z",
+  "model": "glm-5.3"
+}

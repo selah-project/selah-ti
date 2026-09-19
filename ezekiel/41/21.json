@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 41:21",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ኣምዳታት እቲ ሃይካል ሚዛናዊ ነይረን፣ ቅድሚ ⟨ቲ⟩ ቅዱስ ቦታ ድማ እቲ ምስሊ ከም ⟨ቲ⟩ ምስሊ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ההיכל",
+      "gloss": "እቲ ሃይካል"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "ኣምዳታት"
+    },
+    {
+      "surface": "רבעה",
+      "gloss": "ሚዛናዊ"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "እቲ ቅዱስ ቦታ"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "እቲ ምስሊ"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "ከም እቲ ምስሊ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:56:01.304639105Z",
+  "model": "glm-5.3"
+}

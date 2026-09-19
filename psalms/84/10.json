@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 84,
+  "translation": "መከላና ኣሎና — ኤሎሂም ርኣይ፣ ነቲ ገጽ ናይ ማሺያሕካ እውን ሓሊዉ ኣርኢ።",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "መከላና"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ርኣይ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "ሓሊዉ ኣርኢ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "ማሺያሕካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:52.625916288Z",
+  "model": "glm-5.3"
+}

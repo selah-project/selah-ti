@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ምብራሆም ብሓርሙዛ እደያለይ፣ ንጥፍኣቶም ድማ ብወፈያታት እደያለይ።",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "እደያለይ"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ብሓርሙዛ"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "ምብራሆም"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "ብወፈያታት"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ንጥፍኣቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:17.891372639Z",
+  "model": "glm-5.3"
+}

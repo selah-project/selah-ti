@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ንዚዝምር ኣብ ሸምንተይ ⟨ኣብ ሽምንታይ ዝተባህለ⟩፡ መዝሙር ናይ ዳዊድ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንዚዝምር"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "ሸምንተይ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:49.251862045Z",
+  "model": "glm-5.3"
+}

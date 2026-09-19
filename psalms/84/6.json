@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 84,
+  "translation": "ደስ ዝበለሉ ሰብ ሓይሊ ንሱ ኣብኣኻ ዝኾነ እዩ፤ መገዛት ኣብ ልቦም ኣለዉ።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ደስ ዝበለሉ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "ሓይሊ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣብኣኻ"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "መገዛት"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "ኣብ ልቦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:01.947927276Z",
+  "model": "glm-5.3"
+}

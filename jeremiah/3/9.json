@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ብቐሊሉ ናይ ኣመንዲጋርኣ ኮይኑ ነቲ ምድሪ ⟨את⟩ ኸሓረት፣ ምስ ⟨את⟩ ድንጋይን ምስ ⟨את⟩ ኦምን ድማ ኣመንዲገረት።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "ብቐሊሉ"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "ናይ ኣመንዲጋርኣ"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "ኸሓረት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ምድሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ነቲ ምድሪ"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "ኣመንዲገረት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድንጋይ"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ድንጋይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኦም"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:49:25.568341682Z",
+  "model": "glm-5.3"
+}

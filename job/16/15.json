@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 16:15",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ኣብ ስጋይ ጋርበት ሰፊርኩ፣ ቀርንቲይ ኣብ ኣፍርስ ድማ ኣብሓይን።",
+  "tokens": [
+    {
+      "surface": "שק",
+      "gloss": "ጋርበት"
+    },
+    {
+      "surface": "תפרתי",
+      "gloss": "ሰፊርኩ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "גלדי",
+      "gloss": "ስጋይ"
+    },
+    {
+      "surface": "ועללתי",
+      "gloss": "ኣብሓይን"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "ኣብ ኣፍርስ"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "ቀርንቲይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:11:01.713957649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "እታ መዃረሪን እታ ደረቕቲን ትደስይ፤ እታ ጥላቢ ከኣ ትሕጎስ ከም ሮዝ ኮይና ትፈሪሕ።",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "ትደስይ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "እታ መዃረሪ"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "ከምኡውን እታ ደረቕቲ"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ትሕጎስ"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "እታ ጥላቢ"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "ትፈሪሕ"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "ከም ሮዝ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:05:01.937191520Z",
+  "model": "glm-5.3"
+}

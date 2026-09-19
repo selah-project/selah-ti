@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ናብ ቤት ጣዕሳ ድማ ኣይትእቶን፣ ምስ ንሶም ⟨את⟩ ንኽትነግዝ፣ ንምብላዕን ንምስተይን።",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ቤት…ን"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ጣዕሳ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ኣትው"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ንኽትነግዝ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ንሶም"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ንምብላዕ"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "ንምስተይ…ን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:40:46.117712616Z",
+  "model": "glm-5.3"
+}

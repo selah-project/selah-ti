@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ነይሩ ድማ ንእቲ ከምኡ፤ እቲ ህዝቢ ድማ ⟨אתו⟩ ኣብ ኣፍ በር ደረቦ፣ ሞተ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ ድማ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእቲ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "ደረቦ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ኣብ ኣፍ በር"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:21:38.174846841Z",
+  "model": "glm-5.3"
+}

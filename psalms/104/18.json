@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "እቶም ምሉእቲ ከረታት ንጋዛት እዮም፤ እቶም ውሕጣት ድማ ንጋዝዓት መሸገራ እዮም።",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "ከረታት"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "ምሉእቲ"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "ንጋዛት"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "ውሕጣት"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "መሸገራ"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "ንጋዝዓት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:44.216529393Z",
+  "model": "glm-5.3"
+}

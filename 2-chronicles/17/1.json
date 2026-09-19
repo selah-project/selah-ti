@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 17:1",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "የሆሹዋዕ ድማ ወዲኡ ኣብ ክንደኡ ነገሰ፣ ኣብ ልዕሊ እስራኤል ድማ ተጸንአ።",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሰ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ኣብ ክንደኡ"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "ድማ ተጸንአ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T08:04:26.497983722Z",
+  "model": "glm-5.3"
+}

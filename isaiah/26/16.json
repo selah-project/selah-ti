@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ያህዌህ፣ ኣብ ጸገ ደልዩኻ፤ ሓጺር ጸሎት በረከቶም፣ ምዃኡ ምግዳስካ ኣብዚ ኰይኑ እዩ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ኣብ ጸገ"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "ደልዩኻ"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "በረከቶም"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "ሓጺር ጸሎት"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "ምግዳስካ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ኣብዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:56:50.437285813Z",
+  "model": "glm-5.3"
+}

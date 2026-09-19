@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 143,
+  "translation": "ምኽንያቱ ተጋዳላይ ነፍሰይ ተሓቲኡ፣ ህይወተይ ንምድሪ ኣሽጐያ፣ ኣብ ጸልማታት ከም ሞታት ዘለኣለም ኣሓዲሩኒ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ተሓቲኡ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ተጋዳላይ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ኣሽጐያ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ንምድሪ"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "ህይወተይ"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "ኣሓዲሩኒ"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "ኣብ ጸልማታት"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "ከም ሞታት"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:23.643875954Z",
+  "model": "glm-5.3"
+}

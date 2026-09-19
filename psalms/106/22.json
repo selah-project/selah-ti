@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ተገርምታት ኣብ ምድሪ ሕም፣ ኣስፍርታት ኣብ ላዕሊ ባሕሪ ሱፍ።",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "ተገርምታት"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ሕም"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "ኣስፍርታት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ሱፍ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:18.833352516Z",
+  "model": "glm-5.3"
+}

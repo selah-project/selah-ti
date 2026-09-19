@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "«ከም እኽሊ ኣብ ቅድሚ ንፋስ ይኹኑ፣ መልኣኽ ያህዌህ ድማ ዲጊሕዎም።»",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ይኹኑ"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "ከም እኽሊ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ንፋስ"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "መልኣኽን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "ዲጊሕዎም"
+    }
+  ],
+  "timestamp": "2026-09-19T09:01:31.016819057Z",
+  "model": "glm-5.3"
+}

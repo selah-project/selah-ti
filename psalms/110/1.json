@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 110,
+  "translation": "ናይ ዳዊድ መዝሙር። ንኣዶናይ ብያህዌህ ተባህለ፦ «ኣብ የማንኻ ኣብዓት፤ ክሳብ ዝገብረልካ ነቶም መናእስይካ ኣፍልጭ ንእግርካ።»",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ተባህለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ብያህዌህ"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ንኣዶናይ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ኣብዓት"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "ኣብ የማንኻ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ዝገብረልካ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "መናእስይካ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ኣፍልጭ"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "ንእግርካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:59.916250808Z",
+  "model": "glm-5.3"
+}

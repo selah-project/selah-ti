@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-samuel 13:34",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኣብይሽሎም ድማ ሰሓበ፤ እቲ ወዲ ጠባይ ⟨את⟩ ኣይኡ ኣልዓለ፣ ረኣየ፣ ኣሎእ ህዝቢ ብዙሕ ካብ መገዲ ንድሕሪቱ ካብ ጐን እቲ ከሰደ ከይዱ ኣሎ።",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "ሰሓበ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ኣብይሽሎም"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ኣልዓለ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "እቲ ወዲ"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "ጠባይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣይኡ"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "ኣይኡ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣሎእ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ከይዱ ኣሎ"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ካብ መገዲ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ንድሕሪቱ"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "ካብ ጐን"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "እቲ ከሰደ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:30:44.111683345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ኩሎም ይምልሱኻ እናበሉ፦ «ንስኻ'ውን ከምና ተሓወስካ፤ ንሕና ድማ ተመሳሳይ ኮይንካ» ኢሎም።",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ይምልሱኻ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "እናበሉ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ንስኻ'ውን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "ተሓወስካ"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "ከምና"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "ተመሳሳይ ኮይንካ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:47:54.716706921Z",
+  "model": "glm-5.3"
+}

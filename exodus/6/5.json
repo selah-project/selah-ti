@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ከምኡውን ኣነ ኣሰምዐ ን⟨את⟩ ጩኸት ውላድ ይስራኤል እቶም ሚጽራይም ከም ብርኩት ዝገይርዎም፣ ን⟨את⟩ ኪዳንይ ድማ ተዛረዐኩ።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ኣሰምዐ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጩኸት"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "ጩኸት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "ዝገይርዎም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ውላድ ይስራኤል"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "ተዛረዐኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኪዳንይ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳንይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:15:34.036744419Z",
+  "model": "glm-5.3"
+}

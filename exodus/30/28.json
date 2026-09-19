@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ነቲ ⟨ואת⟩ መስዊሕ ናይ ወፈያን ⟨ואת⟩ ኩሉ ቱሕፋቱን ⟨ואת⟩ እቲ ጽራሪን ⟨ואת⟩ መሰረቱን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "መስዊሕ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መስዊሕ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ናይ ወፈያ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ኩሉ ቱሕፋቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ቱሕፋቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ጽራሪ"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "እቲ ጽራሪ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "መሰረቱ"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "መሰረቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:36:41.434040109Z",
+  "model": "glm-5.3"
+}

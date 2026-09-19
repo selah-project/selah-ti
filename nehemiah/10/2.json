@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣብ ዝተሓቱሙ ድማ ንሕምያ ሃቲርሻታ ወዲ ሕኻልያ፣ ጽድቅያን ነይሮም።",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ ዝተሓቱሙ"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "ዝተሓቱሙ"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "ንሕምያ"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "ሃቲርሻታ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "ሕኻልያ"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "ጽድቅያን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:22:14.030363325Z",
+  "model": "glm-5.3"
+}

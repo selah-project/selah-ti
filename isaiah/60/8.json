@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 60,
+  "translation": "እዚኦም መን እዮም፧ ከም ደመና ኪበርሁ እዮም፣ ከም ድምባት ናብ መስኮታቶም።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "ከም ደመና"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "ኪበርሁ"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "ከም ድምባት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "መስኮታቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:22:31.557007428Z",
+  "model": "glm-5.3"
+}

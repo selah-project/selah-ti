@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ኩሉ ዝቐትል ነፍሲ ብኣፎት ሰማዕቲ ⟨את⟩ እቲ ቐታለሕ ይቐተል፤ ሓደ ሰማዕት ግን ንነፍሲ ንሞት ኣይመስክምን።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ዝቐትል"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ብኣፎት"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ሰማዕቲ"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "ይቐተል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ቐታለሕ"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "እቲ ቐታለሕ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ሰማዕት ድማ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ይመስክምን"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ንነፍሲ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ንሞት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:43:53.028473167Z",
+  "model": "glm-5.3"
+}

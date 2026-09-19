@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "habakkuk 1:16",
+  "book": "habakkuk",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ስለዚ ነቲ መርበቡ ይቕርብ ውዕል፣ ነቲ ሓበርታ ዓሣ ድማ ይትንክስ፤ ኣራዊት ስለ ዝኾነ ሓዊሩ ወፍረ፣ መግቢ ድማ ምብዝሕ እዩ።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יזבח",
+      "gloss": "ይቕርብ ውዕል"
+    },
+    {
+      "surface": "לחרמו",
+      "gloss": "ነቲ መርበቡ"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ይትንክስ"
+    },
+    {
+      "surface": "למכמרתו",
+      "gloss": "ነቲ ሓበርታ ዓሣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ ዝ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ኣራዊት"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ወፍረ"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "ሓዊሩ"
+    },
+    {
+      "surface": "ומאכלו",
+      "gloss": "መግቢ"
+    },
+    {
+      "surface": "בראה",
+      "gloss": "ምብዝሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:26:08.040242686Z",
+  "model": "glm-5.3"
+}

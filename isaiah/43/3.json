@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "«ምኽንያቱ ኣነ ያህዌህ ኤሎሂምካ፣ ቅዱስ እስራኤል፣ መድሓኒኻ እየ፤ ንስውኣትኻ ሚጽራይም ሃብኩ፣ ኩሽን ሰባን ኣብ ቦታኻ።»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "መድሓኒኻ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ሃብኩ"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "ንስውኣትኻ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ኩሽ"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "ሰባ"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "ኣብ ቦታኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:12:08.391042161Z",
+  "model": "glm-5.3"
+}

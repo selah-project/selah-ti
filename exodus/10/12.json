@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 10:12",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ያህዌህ ድማ ንሞሸ «ኢድካ ንምድሪ ሚጽራይም ንጸንሐር ዘርጊሃ፣ እሞ እቲ ጸንሐር ንምድሪ ሚጽራይም ኪወጽእ፣ ብዝኾነ ኸኣ ⟨את⟩ ኩሉ እሽክሊ እታ ምድሪ፣ ⟨את⟩ ኩሉ እቲ በረዶ ዝሓደጎ ኪብልዕ» በሎ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ዘርጊሃ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድካ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "בארבה",
+      "gloss": "ንጸንሐር"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ኪወጽእ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ኪብልዕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እሽክሊ እታ ምድሪ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "እሽክሊ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እታ ምድሪ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እቲ በረዶ ዝሓደጎ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ዝሓደጎ"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "በረዶ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:18:45.280293459Z",
+  "model": "glm-5.3"
+}

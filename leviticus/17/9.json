@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ናብ ኣፍደገ ማሕደር ኣኼባ ንያህዌህ ንምግባር ⟨את⟩ ኣይኣቱን፤ እቲ ሰብ እቲ ካብ ህዝቢኡ ይቑረጥ።",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣፍደገ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ኣኼባ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "የኣትዮ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ንምግባር"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ (ወፈያ)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "ይቑረጥ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "ካብ ህዝቢኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:01:51.953853542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 18:8",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ብወለድ ኣይህብን፣ ብቐረባ ድማ ኣይወስድን፣ ካብ ኣፍልጦ ኢዱ ይመለስ፣ ስርዓት ሓቂ ኣብ መንጎ ሰብን ሰብን ይገብር።",
+  "tokens": [
+    {
+      "surface": "בנשך",
+      "gloss": "ብወለድ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ህብን"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "ብቐረባ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ወስድን"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "ካብ ኣፍልጦ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ይመለስ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ስርዓት"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ሓቂ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ይገብር"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብን"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ሰብን"
+    }
+  ],
+  "timestamp": "2026-09-19T03:33:38.187080780Z",
+  "model": "glm-5.3"
+}

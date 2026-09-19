@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ያህዌህ ገጹ ናብ ንስኻ ይስብሕ፣ ንስኻ ድማ ሰላም ይሃበካ።",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "ይስብሕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ገጹ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብ ንስኻ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ይሃበካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:14:33.509695111Z",
+  "model": "glm-5.3"
+}

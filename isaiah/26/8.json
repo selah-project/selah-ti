@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ውን ኣብ መገዲ ትኽክልትኻ ያህዌህ ተጸበናኻ፤ ንስምኻን ንትዝኻን ተደላይቲ ናይ ነፍሲና እዩ።",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ውን"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "መገዲ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ትኽክልትኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "ተጸበናኻ"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ንስምኻ"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "ንትዝኻን"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "ተደላይቲ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲና"
+    }
+  ],
+  "timestamp": "2026-09-19T01:56:19.076407468Z",
+  "model": "glm-5.3"
+}

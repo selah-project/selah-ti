@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ናይ ዳዊድ፣ ኣብ ዝቐየረ በዚኡ ኣብ ቅድሚ ኣቢሜሌኽ፣ ንሱ ድማ ኣሳሕቦ ኸደ።",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "ኣብ ዝቐየረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በዚኡ"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "በዚኡ እቲ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ኣቢሜሌኽ"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "ኣሳሕቦ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ኸደ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:44.782691090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ኣገጻ ያህዌህ ኣብ እቶም ክፉእ ዝገብርዎ ⟨እዩ⟩፣ ትዝኾም ካብ ምድሪ ንምግዳፍ።",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "ኣብ ዝገብርዎ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "ንምግዳፍ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ትዝኾም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:30.179687304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ስንጢት ንስንጢት፣ ንጉርሻ ንንጉርሻ፣ ምልቢያ ንምልቢያ።",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "ስንጢት"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ን"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "ስንጢት"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ንጉርሻ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ን"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ንጉርሻ"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "ምልቢያ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ን"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "ምልቢያ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:28:09.086587656Z",
+  "model": "glm-5.3"
+}

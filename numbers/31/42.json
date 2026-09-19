@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ካብ ግማዊ ወልደ እስራኤል ድማ — እቲ ሞሸ ካብ እቶም ሰባት እቶም ዝዓብዩ ዝኸፈሎ —",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "ካብ ግማዊ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወልደ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "ዝኸፈሎ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "እቶም ሰባት"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "እቶም ዝዓብዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:39:15.164533812Z",
+  "model": "glm-5.3"
+}

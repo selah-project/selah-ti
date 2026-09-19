@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ምኽንያቱ ንቅዱስ ⟨את⟩ ቃሉ ኣኽበረ፣ ⟨את⟩ ኣቭራሃም ኣገልጋሊኡ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ኣኽበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅዱስ ቃሉ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃሉ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቭራሃም"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ኣገልጋሊኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:17.882061336Z",
+  "model": "glm-5.3"
+}

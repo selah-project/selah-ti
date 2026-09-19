@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "⟨את⟩ ርእሲ ውላድ ጌርሾን ከምኡውን ንሳቶም ብዓይኖት ኣቦኦም ብስድራታቶም ተውሕድ።",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "ተውሕድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ርእሲ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ጌርሾን"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ብዓይኖት"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ኣቦኦም"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ብስድራታቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:14:14.336957289Z",
+  "model": "glm-5.3"
+}

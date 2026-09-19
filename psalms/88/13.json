@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 88,
+  "translation": "ኣብ ጸልማት ተኣማኒትኻ ክፍለጥ ይኽእል ድዩ፣ ድማን ጽድቂኻ ኣብ ምድሪ ምስውእ ክፍለጥ ይኽእል ድዩ?",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "ክፍለጥ ድዩ"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ኣብ ጸልማት"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "ተኣማኒትኻ"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ጽድቂኻ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "ምስውእ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:48.207076885Z",
+  "model": "glm-5.3"
+}

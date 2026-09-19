@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ዘበልሓይ ቅዱሳት ኣይብልዕ፤ ኣብ ስድራ ካህን ዝተቐምጠ መራሒትን ተተገብረ ሰብን ቅዱሳት ኣይብልዑን።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ዘበልሓይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይብልዕ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "መራሒት"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ተተገብረ ሰብ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይብልዑ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱሳት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:24.762302080Z",
+  "model": "glm-5.3"
+}

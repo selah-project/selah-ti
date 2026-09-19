@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "«ኣብ ኣፍሪቂ ዝቐመጡ ብዛዕባይ ይዛረቡ፣ ኣነ ድማ ናይ ጠጅ ሰተይቲ ወጾት ኮይነ እየ።»",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "ይዛረቡ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ብዛዕባይ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ዝቐመጡ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ኣፍሪቂ"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "ወጾት"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "ሰተይቲ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ጠጅ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:22.153886360Z",
+  "model": "glm-5.3"
+}

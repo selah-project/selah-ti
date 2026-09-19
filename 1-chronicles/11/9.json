@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ዳዊድ እናኸዶ እናዓቢ ኸወን ነይሩ፤ ያህዌህ ጸባኦት ድማ ምስኡ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "እናኸዶ"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "እናዓቢ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:37:16.641095666Z",
+  "model": "glm-5.3"
+}

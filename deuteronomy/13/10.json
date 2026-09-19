@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኣብ ዘይቲ ክትገድሎ ኣይትፈትን — ክትቕትሎ ክትቕትሎ ኢልካ፣ ኢድካ ኣብ ቅድሚ ኹሉ ኣብ ሞት ንእሽቶ ክትከውን እያ፣ ኢድ ኹሉ ሕዝቢ ድማ ኣብ ድሕሪት።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ኣብ ዘይቲ"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ክትቕትል"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "ክትቕትሎ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድካ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ክትከውን እያ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "ኣብ ቅድሚ ኹሉ"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ንሞት ንእሽቶ"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ኢድ ድማ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "ኣብ ድሕሪት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:55:15.996496724Z",
+  "model": "glm-5.3"
+}

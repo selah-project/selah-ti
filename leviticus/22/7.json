@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "እቲ ፀሓይ ምስ ኣተት፡ ንሱ ድማ ምስ ተጽንዑን ካብቶም ቅዱሳት ይብልዕ፤ ንሱ መግቢ እዩ እምኒ።",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ምስ ኣተት"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "እቲ ፀሓይ"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ተጽንዑን"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይብልዕ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እምኒ"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "መግቢ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:03.127092167Z",
+  "model": "glm-5.3"
+}

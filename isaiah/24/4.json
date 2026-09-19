@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ተሓዘትን ወደቐትን እታ ምድሪ፤ ተደክመትን ወደቐትን እታ ዓለም፤ እቶም ልዑላት ህዝቢ ምድሪ እውን ተደክሙ።",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "ተሓዘት"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ወደቐት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እታ ምድሪ"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "ተደክመት"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ወደቐት"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "እታ ዓለም"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "ተደክሙ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ልዑላት"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:58:41.531544056Z",
+  "model": "glm-5.3"
+}

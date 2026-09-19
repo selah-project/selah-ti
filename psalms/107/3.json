@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ካብ ምድራት ድማ ኣከቦም፣ ካብ ምብራቕን ካብ ምዕራብን፣ ካብ ሰሜንን ካብ ባሕርን።",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "ካብ ምድራት ድማ"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "ኣከቦም"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ካብ ምብራቕ"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ካብ ምዕራብን"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ካብ ሰሜን"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ካብ ባሕርን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:55.432919810Z",
+  "model": "glm-5.3"
+}

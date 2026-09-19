@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 2:9",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣፍቂቐይ ⟨እዩ⟩ ከም ጸባብያ ወይ ከም በግሳት ኣይላት፤ እንሆ እዚ ⟨ንሱ⟩ ካብ ድሕሪ ኩልላትና ተቐሚጡ፣ ካብቲ መስኮታት ይረኣይ፣ ካብቲ መርበብ ድማ ይጥብሕ።",
+  "tokens": [
+    {
+      "surface": "דומה",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ኣፍቂቐይ"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "ንጸባብያ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ንበግሳት"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "ኣይላት"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "ተቐሚጡ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ካብ ድሕሪ"
+    },
+    {
+      "surface": "כתלנו",
+      "gloss": "ኩልላትና"
+    },
+    {
+      "surface": "משגיח",
+      "gloss": "ይረኣይ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "החלנות",
+      "gloss": "መስኮታት"
+    },
+    {
+      "surface": "מציץ",
+      "gloss": "ይጥብሕ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "החרכים",
+      "gloss": "መርበብ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:26:22.669538396Z",
+  "model": "glm-5.3"
+}

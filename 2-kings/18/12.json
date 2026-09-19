@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 18:12",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ምኽንያቱ ኣብ ቃል ያህዌህ ኤሎሂም ናይኦም ኣይሰምዑን፣ ንኪዳናን ⟨את⟩ ኩሉ ዝኣዘዞ ሞሸ ኣገልጋዒ ያህዌህን ኣሻጊሮም፤ ኣይሰምዑን፣ ኣይገበርን።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ሰምዑን"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ኣብ ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ኤሎሂም ናይኦም"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "ኣሻጊሮም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኪዳና"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ንኪዳና"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ኣዘዞ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ኣገልጋዒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ሰምዑን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ገበርን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:30:02.247286884Z",
+  "model": "glm-5.3"
+}

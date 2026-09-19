@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "⟨את⟩ ንሳቶም ትፈርድ ድዩ፣ ትፈርድ ድዩ ወዲ ሰብ? ⟨את⟩ ስዕባት ኣቦታቶም ኣፍልጦም።",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "ትፈርድ ድዩ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ንሳቶም"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "ትፈርድ ድዩ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስዕባት"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ስዕባት"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ኣቦታቶም"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "ኣፍልጦም"
+    }
+  ],
+  "timestamp": "2026-09-19T03:36:53.408558323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ምድረ-በዳ ናብ በዓታት ማይ ይገብር፣ ምድሪ ጽምኢ ድማ ናብ ኣፍልታታት ማይ።",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "ይገብር"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ምድረ-በዳ"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "ናብ በዓታት"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ምድሪ ድማ"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "ጽምኢ"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "ናብ ኣፍልታታት"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:09.886594600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ኣብ እቲ እዋን እቲ ይሁዳ ካብ ⟨את⟩ ኣሕዋቱ ወሪዱ ናብ ሰብ ዓዱላማይ ከደ፤ ስሙ ድማ ሕራ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ኣብ እቲ እዋን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ወሪዱ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ካብ ⟨את⟩",
+      "marks": "ኣሕዋቱ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ኣሕዋቱ"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "ዓዱላማይ"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "ሕራ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:59:30.760160226Z",
+  "model": "glm-5.3"
+}

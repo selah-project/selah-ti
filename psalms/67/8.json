@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 67,
+  "translation": "ኤሎሂም ይባርኽና፣ ኩሉ መወዳእታታት ምድሪ ⟨אתו⟩ ይፈርሑ።",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "ይባርኽና"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ይፈርሑ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ መወዳእታታት ምድሪ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "መወዳእታታት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:20.378456450Z",
+  "model": "glm-5.3"
+}

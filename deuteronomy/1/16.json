@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣነ ድማ ⟨את⟩ ዳኛታትኩም ኣብ እቲ እዋን እናበልኩ ኣዘዝኩ፦ ኣብ መንጎ ሓዎትኩም ዝተሰምዑ፣ ኣብ መንጎ ሰብን ሓዉን ስደተኛኡን ብጽድቂ ፈረዱ።",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "ኣዘዝኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳኛታትኩም"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "ዳኛታትኩም"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ኣብ እዋን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበልኩ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ዝተሰምዑ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ሓዎትኩም"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "ፈረዱ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ከምኡውን ኣብ መንጎ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ሓዉ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ከምኡውን ኣብ መንጎ"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "ስደተኛኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:46:42.742682120Z",
+  "model": "glm-5.3"
+}

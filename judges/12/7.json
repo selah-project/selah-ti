@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ይፍታሕ ድማ ⟨את⟩ እስራኤል ሽድሕ ዓመታት ዳነ፤ ይፍታሕ ኤል ጊልዓድላይ ድማ ሞተ፣ ኣብ ከተሳት ጊልዓድ ድማ ተቐብረ።",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ዳነ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ይፍታሕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ሽድሕ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ይፍታሕ"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "ኤል ጊልዓድላይ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ተቐብረ"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "ኣብ ከተሳት"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ጊልዓድ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:47:21.109499617Z",
+  "model": "glm-5.3"
+}

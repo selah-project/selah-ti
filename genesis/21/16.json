@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 21:16",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ከደት፣ ንሳ ካብ ርእሱ ነዊሕ ኮይና ከም ልኢኽ ቀሳሕ ንርሕቐት ተቐመጠት፣ ምኽንያቱ «ናብ ሞት ኡቲ ወዲ ኣይረኣየን» እናበለት፤ ካብ ርእሱ ተቐመጠት፣ ድማ ⟨את⟩ ቓላኣ ኣሪዛ በኸተ።",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "ከደት"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ተቐመጠት"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ንሳ"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ካብ ርእሱ"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "ነዊሕ ኮይና"
+    },
+    {
+      "surface": "כמטחוי",
+      "gloss": "ከም ልኢኽ ቀሳሕ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ቀሳሕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "እናበለት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ረኣየን"
+    },
+    {
+      "surface": "במות",
+      "gloss": "ናብ ሞት"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ኡቲ ወዲ"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ተቐመጠት"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ካብ ርእሱ"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "ኣሪዛ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቓላኣ"
+    },
+    {
+      "surface": "קלה",
+      "gloss": "ቓላኣ"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "በኸተ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:44:26.621699769Z",
+  "model": "glm-5.3"
+}

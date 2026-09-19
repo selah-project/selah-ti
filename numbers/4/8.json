@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣብ ላዕሊኦም ልክዲ ተወጽዒ ቀይሕ የስፋሕዎ፣ ካብ ሽፋን ቆርበት ተሓሺ ⟨אתו⟩ ይሽፍኖ፣ ⟨את⟩ ኣጽራቒቱ ድማ የቐምጡ።",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "የስፋሕዎ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ኣብ ላዕሊኦም"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ልክዲ"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ተወጽዒ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ቀይሕ"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "ይሽፍኖ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ኡ (እቲ ኣብ ላዕሊ ዘሎ እቲ ጠረጴዛ ስርዓቱ)"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "ብሽፋን"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ቆርበት"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "ተሓሺ"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "የቐምጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣጽራቒቱ"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ኣጽራቒቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:14:27.382044353Z",
+  "model": "glm-5.3"
+}

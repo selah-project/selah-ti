@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 1:27",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ረብሓኹም ከም ህቦብላ ምስ መጸት፣ መጥፋዕታኹም ከም ከዋኽብቲ ኮይና ምስ በጺሓ፣ ስቓትን ጥሜትን ምስ ወረደላኹም፤",
+  "tokens": [
+    {
+      "surface": "בבא",
+      "gloss": "ምስ መጸት"
+    },
+    {
+      "surface": "כשאוה",
+      "gloss": "ከም ህቦብላ"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "ረብሓኹም"
+    },
+    {
+      "surface": "ואידכם",
+      "gloss": "መጥፋዕታኹም"
+    },
+    {
+      "surface": "כסופה",
+      "gloss": "ከም ከዋኽብቲ"
+    },
+    {
+      "surface": "יאתה",
+      "gloss": "ምስ በጺሓ"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "ምስ ወረደላኹም"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ኣብ ልዕሊኹም"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ስቓትን"
+    },
+    {
+      "surface": "וצוקה",
+      "gloss": "ጥሜትን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:51.318178358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 102,
+  "translation": "ምኽንያቱ ኣገልበጭትካ ሕድርታን ደሊዮም፣ ⟨את⟩ ክብርታንን ⟨את⟩ ይቐንስዋያ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "ደሊዮም"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ኣገልበጭትካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕድርታን"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "ሕድርታን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ክብርታን"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "ክብርታን"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "ይቐንስዋያ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:05.248449241Z",
+  "model": "glm-5.3"
+}

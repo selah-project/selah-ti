@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ወጺኦምውን ነቲ ምድሪ ⟨את⟩ ተዳለዉ፣ ካብ ምድረ ጸይን ክሳብ ረሖብ፣ ናብ ⟨ምእታት⟩ ሓማት።",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ወጹ"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "ተዳለዉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ምድሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ነቲ ምድሪ"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ካብ ምድረ"
+    },
+    {
+      "surface": "צן",
+      "gloss": "ጸይን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ረሖብ"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "ምእታት"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ሓማት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:22:17.313421675Z",
+  "model": "glm-5.3"
+}

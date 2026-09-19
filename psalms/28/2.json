@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ናብ ኣኻ ምስ እበልዓ፣ ናብ ቅዱስኻ ውሽጢ ⟨ዲቢር⟩ ኢደይ ምስ ኣርኣያ፣ ድምጺ ልመናተይ ስማዕ።",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ስማዕ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጺ"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ልመናተይ"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "ምስ እበልዓ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብ ኣኻ"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "ምስ ኣርኣያ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ኢደይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "ውሽጢ ⟨ዲቢር⟩"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ቅዱስኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:52:45.909780366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ብልሃ ድማ ኣብ በዓል ኮይና ንያዕቆቭ ወዲ ወለደት።",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ኣብ በዓል ኮይና"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "ብልሃ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደት"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ንያዕቆቭ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:51:14.013840931Z",
+  "model": "glm-5.3"
+}

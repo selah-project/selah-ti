@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 1:3",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣብ ሳልሳይ ዓመት ንግስነቱ፣ ሓይሊ ፓረስን ማዲን — እቶም ሃፓርተሚምን ሹማት እቶም ንግስታትን — ኣብ ቅድሚኡ ንኹሎም ሹማቱን ኣገልገልቱን ብዓል ገበረ።",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ኣብ ዓመት"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ሳልሳይ"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "ንግስነቱ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ብዓል"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ሹማቱ"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "ኣገልገልቱ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ሓይሊ"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "ፓረስ"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "ማዲ"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "ሃፓርተሚም"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ሹማት"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "እቶም ንግስታት"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ኣብ ቅድሚኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:48:30.140072679Z",
+  "model": "glm-5.3"
+}

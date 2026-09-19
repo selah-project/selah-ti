@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 108,
+  "translation": "ሞኣብ እንጌሪ ምስልታይ እዩ፤ ኣብ ልዕሊ ኤዶም ጫማይ እደቕን ነይረ፤ ኣብ ልዕሊ ፈለስት ድማ እኣውቐይ።",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "እንጌሪ"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "ምስልታይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "እደቕን"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "ጫማይ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "ፈለስት"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "እኣውቐይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:59.233067604Z",
+  "model": "glm-5.3"
+}

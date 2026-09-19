@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 6:26",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እዚ ኣሃሮንን እዚ ሞሸን እዮም፣ እቶም ያህዌህ ነኮም «ንውላድ ይስራኤል ⟨את⟩ ብሰራዊቶም ካብ ምድሪ ሚጽራይም ኣውጹዎም» ዝበሎም።",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "እዚ … እዮም"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "ንሞሸን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም … ዝበሎም"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በሎም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ነኮም"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "ኣውጹዎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ ይስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ-"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "ሰራዊቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:13:15.857039827Z",
+  "model": "glm-5.3"
+}

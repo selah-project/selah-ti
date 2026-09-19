@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ምኽንያቱ ያህዌህ ኤሎሂምኩም እቲ ምስኩም ዝኾነ ንኻንትኩም ምስ መርበብኩም ክቃለል ⟨את⟩ ንኻንትኩም ክድሕነኩም ⟨እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "እቲ ዝኾነ ምስኩም"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ምስኩም"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ክቃለል"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኻንትኩም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "መርበብኩም"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "ክድሕነኩም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንኻንትኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:00:57.614515933Z",
+  "model": "glm-5.3"
+}

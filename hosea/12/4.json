@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኣብ ማሕጸን ⟨את⟩ ኣሕዋኡ ኣብ ውኽብልቱ ደረቦ፣ ኣብ ሓያሉ ድማ ⟨את⟩ ኤሎሂም ተዓወተ።",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "ኣብ ማሕጸን"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ደረቦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሕዋኡ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ኣሕዋኡ"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "ኣብ ሓያሉ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ተዓወተ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:10:15.822799909Z",
+  "model": "glm-5.3"
+}

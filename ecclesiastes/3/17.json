@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣነ ኣብ ልብይ በልኩ፦ ኤሎሂም ⟨את⟩ እቲ ጻድቅን ⟨את⟩ እቲ ክፉእን ይፈርድ እዩ፤ ምኽንያቱ ንኩሉ ምስብታይ ዕዋት ኣሎ፣ ከምኡውን ኣብ ኩሉ ስራሕ ኣብኡ።",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "በልኩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "ኣብ ልብይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ጻድቅ"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "እቲ ጻድቅ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ክፉእ"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "እቲ ክፉእ"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ይፈርድ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ዕዋት"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ምስብታይ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ከምኡውን ኣብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "እቲ ስራሕ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:39:51.617138574Z",
+  "model": "glm-5.3"
+}

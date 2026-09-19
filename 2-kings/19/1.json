@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኣብ ምስምዑ ንጉስ ሕዝቅያሁ፣ ኣልባሳቱን ⟨את⟩ በቐየ፣ ብሰርቢ ተኸዓነ፣ ናብ ቤት ያህዌህ ከደ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ኣብ ምስምዑ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ሕዝቅያሁ"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "በቐየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣልባሳቱን"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ኣልባሳቱን"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "ተኸዓነ"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "ብሰርቢ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:31:23.245053567Z",
+  "model": "glm-5.3"
+}

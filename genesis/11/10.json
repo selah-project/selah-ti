@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "እዚኦም ትውልዳት ሴም እዮም፤ ሴም ወዲ ምእታይ ዓመት ኮይኑ፣ ክልተ ዓመት ምስ ማዕበል ⟨את⟩ ኣርፋክሳድ ወለደ።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ትውልዳት"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ሴም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ሴም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ምእታይ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣርፋክሳድ"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "ኣርፋክሳድ"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "ክልተ ዓመት"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ማዕበል"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:30.255517929Z",
+  "model": "glm-5.3"
+}

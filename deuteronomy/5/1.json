@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 5:1",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ሞሸ ንኹሉ እስራኤል ተዛረቦም ከምዚ ኣብሎም፦ «ስምዑ እስራኤል፣ ⟨את⟩ ትእዛዛትን ⟨ואת⟩ ፍዳታትን፣ እቶም ኣነ ኣብ ኣእዳውትኩም ሎሚ እዘርዮም፣ ተማሑዎምን ⟨אתם⟩ ተዓርቡን ክትገብርዎም።»",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ተዛረቦም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ኣብሎም"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ንኣቱም"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ስምዑ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዛትን"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ትእዛዛት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ፍዳታትን"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ፍዳታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዘርዮ"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "ኣብ ኣእዳውትኩም"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    },
+    {
+      "surface": "ולמדתם",
+      "gloss": "ተማሑዎምን"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ክትገብርዎም"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "ተዓርቡን"
+    },
+    {
+      "surface": "לעשתם",
+      "gloss": "ክትገብርዎም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:48:31.873540599Z",
+  "model": "glm-5.3"
+}

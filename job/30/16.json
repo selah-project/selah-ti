@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 30:16",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ኣብዚ ሕጂ ድማ ነፍሰይ ኣብ ልዕለይ ትትሓብእ እያ፤ መዓልታት ጸብጻብ ይሓዙኒ እየን።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ኣብዚ ሕጂ ድማ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕለይ"
+    },
+    {
+      "surface": "תשתפך",
+      "gloss": "ትትሓብእ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "יאחזוני",
+      "gloss": "ይሓዙኒ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ጸብጻብ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:18:47.549585913Z",
+  "model": "glm-5.3"
+}

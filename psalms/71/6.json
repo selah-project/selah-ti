@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 71,
+  "translation": "ኣብ ልዕሊኻ ካብ ማሕጻር ተሰማዕኩ፤ ካብ ከረጢ ኣደይ ንስኻ በጊዕካኒ ወጺእካኒ፤ ኣብ ልዕሊኻ ዝግበር ምስጋናይ ኩሉ ግዜ እዩ።",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "ኣብ ልዕሊኻ"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "ተሰማዕኩ"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ካብ ማሕጻር"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "ካብ ከረጢ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ኣደይ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "በጊዕካኒ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣብ ልዕሊኻ"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ምስጋናይ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ኩሉ ግዜ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:30.309563621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezekiel 20:42",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኣብ ዘእቲኹምሉ ⟨את⟩ ናብ ምድቲ ይስራኤል፣ ናብቲ ምድሪ እቲ ⟨את⟩ ኢድ ኣርሬኩሉ ነታ ⟨את⟩ ንምውሃብ ንኣቦታትኩም፣ ያህዌህ ኣነ እየ ትፈልጡ ኢኹም።",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "ትፈልጡ ኢኹም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בהביאי",
+      "gloss": "ኣብ ዘእቲኹምሉ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ዓትኩም",
+      "marks": "ዓትኩም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ምድቲ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብቲ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ኣርሬኩሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢድ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ኢድይ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ንምውሃብ"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ነታ",
+      "marks": "ነታ ምድሪ"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "ንኣቦታትኩም"
+    }
+  ],
+  "timestamp": "2026-09-19T03:37:40.317475169Z",
+  "model": "glm-5.3"
+}

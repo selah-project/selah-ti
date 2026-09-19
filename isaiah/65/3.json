@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 65,
+  "translation": "እቲ ህዝቢ ኣብ ገጽይ ልሙድ ⟨את⟩ንኣነ ዚሓዝዎ፣ ኣብ ቋቕመታት ይበዝሑ፣ ኣብ ኣጥራጽ ድማ ዕጣን የቕርቡ።",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "ዚሓዝዎ"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ንኣነ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽይ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ልሙድ"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "ይበዝሑ"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "ኣብ ቋቕመታት"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ዕጣን የቕርቡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "ኣጥራጽ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:27:09.062902384Z",
+  "model": "glm-5.3"
+}

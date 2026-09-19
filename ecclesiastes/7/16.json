@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ብዙሕ ጻድቕ ኣይትኹንን፣ ዝያዳ ድማ ብጥበብ ኣይተውሕጦን፤ ስለመይ ክትጠፍእ፧",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ትኹን"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቕ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣይን"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "ኣይተውሕጦን"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ዝያዳ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ስለመይ"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "ክትጠፍእ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:42:27.790493773Z",
+  "model": "glm-5.3"
+}

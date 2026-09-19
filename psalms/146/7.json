@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 146,
+  "translation": "ፍትሕ ንተገብርቲ ዝገበረ፣ እኽሊ ንጎደኣቲ ዝህብ፤ ያህዌህ ኣስረክቢ የፍትኅ።",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበረ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍትሕ"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "ንተገብርቲ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ዝህብ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "ንጎደኣቲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "የፍትኅ"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "ኣስረክቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:19.780347055Z",
+  "model": "glm-5.3"
+}

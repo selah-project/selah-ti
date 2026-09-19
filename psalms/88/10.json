@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 88,
+  "translation": "ብጸንኲዕይ ዓይኒይ ተሸንሓቐት፤ ያህዌህ፣ ኩሉ መዓልቲ ቐሪብካካ፣ ናብኻ ክብርቲ ኢደይ ሰፊሕኮ።",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኒይ"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "ተሸንሓቐት"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ብጸንኲዕይ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ጸንኲዕ"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ቐሪብካካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኩሉ ኣብ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "ሰፊሕኮ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኻ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ክብርቲ ኢደይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:49.107473985Z",
+  "model": "glm-5.3"
+}

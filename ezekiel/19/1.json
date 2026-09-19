@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ንስኻ ድማ ነቶም ኣመሓላት ይስራኤል ኣልታልታ ኣቕሕ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ድማ"
+    },
+    {
+      "surface": "שא",
+      "gloss": "ኣቕሕ"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ኣልታልታ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "ኣመሓላት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T03:34:36.662566579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 75,
+  "translation": "ምኽንያቱ ኣሃዱ ምውሳኽ ካብ ምብራቕ ወይ ካብ ምዕራብ ወይ ካብ ገላሲ ኣይኮነን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "ካብ ምብራቕ"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ካብ ምዕራብ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ንድማ ኣይኮነን"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ካብ ገላሲ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ምውሳኽ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:24.240176190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "እቲ ዓዲን እታ ኣብ ውሽጣ ዘላ በረኻን ንኣቭራሃም ከም ቤተ-መቓብር ኮይኑ ተኣማነ፤ ካብ ⟨את⟩ ውላደ ሕት።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ኮይኑ ተኣማነ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "እቲ ዓዲ"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "ንእታ በረኻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዘላ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብ ውሽጣ"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ንኣቭራሃም"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "ከም ቤተ-መቓብር"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "መቓብር"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ካብ",
+      "marks": "ውላደ ሕት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ሕት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:44:58.584022355Z",
+  "model": "glm-5.3"
+}

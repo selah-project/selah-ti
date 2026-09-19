@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 82,
+  "translation": "እሞ ከም ሰብ ክትሞትዎ እኹም፣ ከም ሓደ ካብቶም መኳንንቲ ክትወድቑ እኹም።",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "ከም ሰብ"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "ክትሞትዎ እኹም"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "ከም ሓደ"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ካብቶም መኳንንቲ"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "ክትወድቑ እኹም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:47.231380635Z",
+  "model": "glm-5.3"
+}

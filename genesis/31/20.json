@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ያዕቆቭ ድማ ⟨את⟩ ልቢ ላባን እቲ ኣራማዊ ሰርቖ፣ እምበኣር ከይነግርዎ ኮይኑ እቲ እናሃወረ ዝነበረ እዩ ኢሉ ኣይነገሮን።",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "ሰርቖ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ ድማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልቢ ላባን"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ላባን"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "እቲ ኣራማዊ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ምኽንያት"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ከይ"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ነገሮ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእኡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ኢሉ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "እናሃወር ዝነበረ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:54:11.816187383Z",
+  "model": "glm-5.3"
+}

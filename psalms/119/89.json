@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ናብ ዘለኣለም ያህዌህ፣ ቃልካ ኣብ ሰማያት ተቐመጠ።",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ቃልካ"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ኣብ ሰማያት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:57.773733063Z",
+  "model": "glm-5.3"
+}

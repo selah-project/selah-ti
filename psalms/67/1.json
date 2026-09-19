@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 67,
+  "translation": "ንመንወዩ ብነጊናት፤ ማሕደር ባሕሲ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንመንወዩ"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ብነጊናት"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ባሕሲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:12.794388151Z",
+  "model": "glm-5.3"
+}

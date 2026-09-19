@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "«ኣጀንቢ ኣይትጽበዮን፤ ንስኩም ⟨את⟩ ነፍሲ እቲ ኣጀንቢ ተዓይቓትኹም፣ ምኽንያቱ ኣጀንቢ ነይራትኹም ኣብ ምድሪ ሚጽራይም።»",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "ኣጀንቢ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "ትጽበዮ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ንስኩም"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "ተዓይቓትኹም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሲ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "እቲ ኣጀንቢ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "ኣጀንቢ"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ነይራትኹም"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:28:00.405554451Z",
+  "model": "glm-5.3"
+}

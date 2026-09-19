@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ኣድዩም ዘይብል፣ ኣይትበልዕ ⟨את⟩ ዕድጉም ክፉት ዓይኒ፣ ከምኡውን ኣይተመኽሮ ነቶም ጣዕሳት መግቢ እቶም ብዛዕባኡ ዝእለሉ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "ትበልዕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዕድጉም"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዕድጉም"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉት"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ዓይኒ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ከምኡውን ኣይ"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ተመኽሮ"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "ነቶም ጣዕሳት መግቢ እቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:55:28.721321583Z",
+  "model": "glm-5.3"
+}

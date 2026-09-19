@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 12:3",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ሰዓቡ ድማ ነቲ ዐደሩዎ፤ ያሮብዓምን ኩሉ ጉባኤ እስራኤልን መጹ፣ ነረሃብዓም ድማ እናበሉ፦",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ሰዓቡ"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ዐደሩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "መጹ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ያሮብዓም"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ተዛረቡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ረሃብዓም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:01:34.975773504Z",
+  "model": "glm-5.3"
+}

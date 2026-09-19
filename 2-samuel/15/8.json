@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "«ሓደ ኪዳን ኣብ ጌሹር ኣብ ኣራም ኣብ ዝቐመጥኩ በየንኩ፣ ኢሉ፦ ያህዌህ ብሓቂ ናብ የሩሻላይም እንተ መሊሶ መለሰኒ፣ ⟨את⟩ יהוה ክገዝኦ እየ»።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "በየንኩ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ዓመልካይካ"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "ኣብ ዝቐመጥኩ"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "ኣብ ጌሹር"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "ኣብ ኣራም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ብሓቂ ክመሊሶ"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "ክመለሰኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ናብ የሩሻላይም"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "ክገዝኖ እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:33:18.303723697Z",
+  "model": "glm-5.3"
+}

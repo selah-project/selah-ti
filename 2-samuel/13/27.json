@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኣብሻሎም ድማ ኣጸቕዖ፤ ነጋሩ ድማ ⟨את⟩ ኣምኖንን ⟨את⟩ ኩሉ ውላድ ነጋሩን ምሳኡ ሰደዶም።",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "ኣጸቕዖ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ንነጋሩ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ኣብሻሎም"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደዶም"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ምሳኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣምኖን"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "ኣምኖን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩…ን",
+      "marks": "ኩሉ ውላድ ነጋሩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ነጋሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:30:58.228190673Z",
+  "model": "glm-5.3"
+}

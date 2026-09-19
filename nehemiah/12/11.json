@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ዮይድዕ ድማ ⟨את⟩ ዮናታን ወለደ፤ ዮናታን ድማ ⟨את⟩ ያዱዕ ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "ዮይድዕ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮናታን"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ዮናታን"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "ዮናታን"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያዱዕ"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "ያዱዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:23:44.901540119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 1:8",
+  "book": "joel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣውቅያ፣ ከም ድኻም ሰበርቲ ዝተዓጽየት፣ ንተራይ ባዕልቲ ዝነበረቶ ኣብ መዓልታ።",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "ኣውቅያ"
+    },
+    {
+      "surface": "כבתולה",
+      "gloss": "ከም ድኻም"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "ዝተዓጽየት"
+    },
+    {
+      "surface": "שק",
+      "gloss": "ሰበርቲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ባዕልቲ"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "ዝነበረቶ ኣብ መዓልታ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:11:38.185019406Z",
+  "model": "glm-5.3"
+}

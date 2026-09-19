@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣሃጉም ቃል ያህዌህ ንእስራኤል ብኢድ ማላኪ።",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ኣሃጉም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ማላኪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:39:32.310468430Z",
+  "model": "glm-5.3"
+}

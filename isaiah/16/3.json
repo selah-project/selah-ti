@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 16:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ምክርኩር ኣእቱ፣ ፍትሒ ፍጻሙ፣ ከም ለይቲ ጽላምካ ኣብ ማእከል ቐትሪ ግበራ፣ተበጻሕቲ ሓብዮም፣ እታ ተሓተትላ ኣይተገልጹ።",
+  "tokens": [
+    {
+      "surface": "הביאו",
+      "gloss": "ኣእቱ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ምክርኩር"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ፍጻሙ"
+    },
+    {
+      "surface": "פלילה",
+      "gloss": "ፍትሒ"
+    },
+    {
+      "surface": "שיתי",
+      "gloss": "ግበራ"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "ጽላምካ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ ማእከል"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "ቐትሪ"
+    },
+    {
+      "surface": "סתרי",
+      "gloss": "ሓብዮም"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "ተበጻሕቲ"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "ተሓተትላ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תגלי",
+      "gloss": "ተገልጹ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:54:07.035860049Z",
+  "model": "glm-5.3"
+}

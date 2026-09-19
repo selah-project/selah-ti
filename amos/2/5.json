@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣብ ይሁዳ ሓዊ እስደልእ፣ እታ ድማ ገዛታት የሩሻላይም ትብላዕ።",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "እስደልእ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ኣብ ይሁዳ"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ትብላዕ"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "ገዛታት"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:14:40.416373590Z",
+  "model": "glm-5.3"
+}

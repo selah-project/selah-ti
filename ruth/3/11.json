@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ruth 3:11",
+  "book": "ruth",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "«ሕጂ ድማ ወዲተይ፣ ኣይትፈርሒን፤ ነቲ ኩሉ እትዛረቦ ንኣኺ እገብረለኪ፣ ምኽንያቱ ኩሉ ኣፍሓቕ ናይ ህዝበይ ይፈልጥ እዩ፣ ከም እትኾኒ ሰበይቲ ክብርቲ ⟨את⟩።»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ ድማ"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ወዲተይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "ትፈርሒ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እትዛረቦ"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "ትዛረብ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "እገብረለኪ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኣኺ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ይፈልጥ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ኣፍሓቕ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ናይ ህዝበይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ክብርቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣኺ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:31:53.678104902Z",
+  "model": "glm-5.3"
+}

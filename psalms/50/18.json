@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ሰሪቕ እንተ ረኣይካዮ፣ ምሳሁ ኸደካ፤ ምስ ኣመንቲስ ድማ ኣካልካ እዩ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ረኣይካ"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ሰሪቕ"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "ኸደካ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምሳሁ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "ኣመንቲስ"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "ኣካልካ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:36.253212847Z",
+  "model": "glm-5.3"
+}

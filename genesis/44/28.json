@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 44:28",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ሓደ ኮይኑ ⟨את⟩ምንኒ ተወጺኡ እዩ፣ ኣነ ድማ «እምበር ተቐጢፉ ተቐጢፈ» በልኩ፣ ክሳብ ሎሚ እውን ኣይረኣኹን።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ተወጺኡ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "እቲ ሓደ"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ምንኒ",
+      "marks": "ካብ ኣነ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "በልኩ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "እምበር"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ተቐጢፉ"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ተቐጢፈ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "ረኣኹዎ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ሎሚ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:05:47.349091204Z",
+  "model": "glm-5.3"
+}

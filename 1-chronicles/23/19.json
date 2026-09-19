@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 23:19",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ውላድ ሕብሮን፦ ይርያሁ እቲ ሓብቲ፣ ኣማርያ እቲ ካልኣይ፣ ያሕዚኤል እቲ ሳልሳይ፣ ይቃምዓም ድማ እቲ ራብዓይ።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ሕብሮን"
+    },
+    {
+      "surface": "יריהו",
+      "gloss": "ይሪያሁ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "እቲ ሓብቲ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ኣማርያ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "እቲ ካልኣይ"
+    },
+    {
+      "surface": "יחזיאל",
+      "gloss": "ያሕዚኤል"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "እቲ ሳልሳይ"
+    },
+    {
+      "surface": "ויקמעם",
+      "gloss": "ይቃምዓም ድማ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "እቲ ራብዓይ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:48:21.477711950Z",
+  "model": "glm-5.3"
+}

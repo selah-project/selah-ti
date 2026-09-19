@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "«ከይድ ብዝዓርግ፣ ንጽባሒ ክሃብ እየ» ንመሓይሻኻ ኣይትብልን፣ ምስ ⟨את⟩ኻ እንተ ዘሎ እንዳውን።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ትብል"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "ንመሓይሻኻ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ከይድ"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ውን ብዝዓርግ"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "ንጽባሒ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ክሃብ እየ"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ድማ ዘሎ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ምስ ⟨את⟩ኻ",
+      "marks": "ካብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:43:08.698602068Z",
+  "model": "glm-5.3"
+}

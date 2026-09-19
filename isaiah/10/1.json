@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "«ወይ ንእቶም ናይ ኣበይ ድንጋገታት ዝደንግጉ፣ ንእቶም ድማ መከራ እናጸሓፉ!»",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "ንእቶም ዝደንግጉ"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "ድንጋገታት"
+    },
+    {
+      "surface": "און",
+      "gloss": "ኣበይ"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "ንእቶም ዝጽሕፉ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "መከራ"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "እናጸሓፉ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:50:50.063678665Z",
+  "model": "glm-5.3"
+}

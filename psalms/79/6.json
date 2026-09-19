@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 79,
+  "translation": "ቍጥዕትኻ ኣብ ልዕሊ እቶም ኣህዛብ ዘይፈልጡኻ ኣፍስሳ፣ ኣብ ልዕሊ እቶም መንግስታት ብስምኻ ዘይተባህሉን።",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "ኣፍስስ"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ቍጥዕትኻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይ"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "ፈልጡኻ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ ልዕሊን"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "መንግስታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ብስምኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይ"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ተባህሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:49.115427094Z",
+  "model": "glm-5.3"
+}

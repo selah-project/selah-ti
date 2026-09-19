@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ከም ወተት ኣፍሰስካኒ ደኣ የለኻን፧ ከም ጠሪሽ ድማ ቀርጸካኒ፧",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ደኣ የለኻን"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "ከም ወተት"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "ኣፍሰስካኒ"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "ከም ጠሪሽ"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "ቀርጸካኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:07:24.034857298Z",
+  "model": "glm-5.3"
+}

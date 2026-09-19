@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 12:6",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኣቭራሃም ኣብ ⟨ה⟩ ምድሪ ክሳብ ቦታ ሸከም፣ ክሳብ ዕሙር ሞረ ከኣ ሓለፈ፤ ኩነዓናይ ድማ ኣብ እቲ እዋን ኣብ ⟨ה⟩ ምድሪ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "ሓለፈ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ሸከም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "ዕሙር"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ሞረ"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "ድማ ኩነዓናይ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ኣብ እቲ እዋን"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:39:34.437006991Z",
+  "model": "glm-5.3"
+}

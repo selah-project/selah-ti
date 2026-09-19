@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ንሰማያት ጸልማት ኣልብሰን፣ ሳቁ ድማ ከም ልባስኦም ኣቕምጠ።",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "ኣልብሰን"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "ጸልማት"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "ሳቁ"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ኣቕምጠ"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "ልባስኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:20:12.470411117Z",
+  "model": "glm-5.3"
+}

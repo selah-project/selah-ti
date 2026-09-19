@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኣብኻ ተባዕልዩ ካብ ማሕጸረ ትውልዲ፤ ካብ ኣጋማም ኣደይ ንስኻ ኤለይ ኢኻ።",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "ኣብኻ"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "ተባዕልዩ"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ካብ ማሕጸረ ትውልዲ"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ካብ ኣጋማም"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ኣደይ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ኤለይ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:57.509274932Z",
+  "model": "glm-5.3"
+}

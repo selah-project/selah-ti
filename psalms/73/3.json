@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 73,
+  "translation": "ስለ ኣብ ተማርሐቲ ተሓመድኩ፣ ሰላም ኣጣዓቒ ምስ ረኣይኩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "ተሓመድኩ"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "ኣብ ተማርሐቲ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ናይ ኣጣዓቒ"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ምስ ረኣይኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:51.660684931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣኽይጥብ ድማ ⟨את⟩ ጽዶቅ ወለደ፣ ጽዶቅ ድማ ⟨את⟩ ሻሉም ወለደ።",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "ኣኽይጥብ ድማ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጽዶቅ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ጽዶቅ"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ጽዶቅ ድማ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሻሉም"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሻሉም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:31:00.053305996Z",
+  "model": "glm-5.3"
+}

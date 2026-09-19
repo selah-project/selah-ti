@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 45:25",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "ካብ ሚጽራይም ወሪዶም፣ ናብ ምድሪ ኽነዓን ናብ ያዕቆቭ ኣቦም መጹ።",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ወሪዱ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ካብ ሚጽራይም"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "መጹ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ኽነዓን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ኣቦም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:07:55.353817624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ምስ ኣተዮም ድማ ነቲ ኤልያብ ⟨את⟩ ረኣየ፤ «እቲ ማሺያሕኡ ብሓቂ ኣብ ቅድሚ ያህዌህ እዩ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኾነ"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "ምስ ኣተዮም"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ኤልያብ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ኤልያብ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ብሓቂ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ማሺያሕኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:06:16.820899393Z",
+  "model": "glm-5.3"
+}

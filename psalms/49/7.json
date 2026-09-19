@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "ኣብ ሃብቶም ዝተኣመኑ፣ ኣብ ብዙሕነት ጸጋታቶም ድማ ዝተመሃሩ።",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "ዝተኣመኑ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ሃብቶም"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "ኣብ ብዙሕነት"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "ጸጋታቶም"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "ዝተመሃሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:39.597267212Z",
+  "model": "glm-5.3"
+}

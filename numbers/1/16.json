@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "እዚኦም ዝተባዕሉ ካብ ⟨ብ⟩ ጉባኤ እዮም፣ ኣመዋት ናይ ኩዕላት ኣቦታቶም፣ ርእሳት ሽሕታት እስራኤል እዮም።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "ዝተባዕሉ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "ኣመዋት"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "ኩዕላት"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ኣቦታቶም"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ርእሳት"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ሽሕታት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እዮም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:09:14.642276335Z",
+  "model": "glm-5.3"
+}

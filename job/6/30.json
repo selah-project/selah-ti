@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 6:30",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ውሕዱ ኣብ ልሳነይ ይሃልዉ ድዩ? እቲ ረጺም ክፉእ ነገራት ኣይፈልጥ ድዩ?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "ይሃልዉ ድዩ"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "ኣብ ልሳነይ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ውሕዱ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "እቲ ረጺም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ይፈልጥ"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ክፉእ ነገራት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:04:50.630825878Z",
+  "model": "glm-5.3"
+}

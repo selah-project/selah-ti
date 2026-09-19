@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 92,
+  "translation": "ከመይ ዝበለ ዓቢ እዮም መስርሕታትኻ ያህዌህ፣ ብጣዕሚ ጥሉቓት እየን ሓሳብታትኻ።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ከመይ ዝበለ"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ዓቢ እዮም"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "መስርሕታትኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "ጥሉቓት እየን"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "ሓሳብታትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:11.004598992Z",
+  "model": "glm-5.3"
+}

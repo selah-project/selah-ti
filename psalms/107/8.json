@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ንያህዌህ ሔሴዱ ይውድኡ፣ ንደቃ ሰብን ተድንቓቱን።",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ይውድኡ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ተድንቓቱን"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንደቃ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:02:44.356891061Z",
+  "model": "glm-5.3"
+}

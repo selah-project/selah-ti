@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ድማ ⟨את⟩ ረሰን ኣብ መንጎ ኒነያን ኣብ መንጎ ከላኽን — ንሳ ⟨እያ⟩ እታ ዓቢቲ ቐርቢ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ረሰን"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "ረሰን"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ኒነያ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "ከላኽ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሳ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እታ ቐርቢ"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ዓቢቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:51.599879346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እሞ ብዙሓት መዓልታት ውላድ ይስራኤል ብዘይ ንጉስን ብዘይ ሹምን ብዘይ ወፈያን ብዘይ ቕርጺ ድንጋይን ብዘይ ኤፉድን ብዘይ ተራፊምን ክቐማጡ እዮም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ክቐማጡ እዮም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ብዘይ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ብዘይ…ን"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ሹም"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ብዘይ…ን"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ብዘይ…ን"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ቕርጺ ድንጋይ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ብዘይ…ን"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ኤፉድ"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "ተራፊምን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:07:01.131142620Z",
+  "model": "glm-5.3"
+}

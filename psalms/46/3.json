@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 46,
+  "translation": "ስለዚ ምድሪ እንተ ተቐየረትን ኮቦታት ኣብ ልቢ ባሕርታት እንተ ዝንቀጥቐጡን ኣይንፈርሕን ኢና።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "ንፈርሕ"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "ምቕያር"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "ምንቀጥቐጥ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ኮቦታት"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ኣብ ልቢ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ባሕርታት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:26.947704103Z",
+  "model": "glm-5.3"
+}

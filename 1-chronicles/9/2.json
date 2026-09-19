@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 9:2",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣብ ከተማቶም ኣብ ርክባኦም ዝነበሩ ቀዳማይ ኣብያት እስራኤል፣ ካህናት፣ ሌዋውያንን ንቲናውያንን እዮም።",
+  "tokens": [
+    {
+      "surface": "והיושבים",
+      "gloss": "ዝነበሩ ኣብያት"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ቀዳማይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "באחזתם",
+      "gloss": "ኣብ ርክባኦም"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "ኣብ ከተማቶም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሌዋውያን"
+    },
+    {
+      "surface": "והנתינים",
+      "gloss": "ንቲናውያንን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:38:02.505867313Z",
+  "model": "glm-5.3"
+}

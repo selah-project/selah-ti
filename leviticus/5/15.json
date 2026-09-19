@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 5:15",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ነፍሲ ኣምሓርነት ብምግባር ብግዳይ ኣብ ቅዱሳት ናይ ያህዌህ እንተ ገበረት፣ ⟨את⟩ ኣኻሙ ንያህዌህ ኣዕሊ ብዘይ እኩብ ካብ ምሕባብ፣ ብገንዘብኻ ጽርቕ ብመቓወማት ብመቓወም ቅዱስ፣ ንኣኻም ክትወስድ እያ።",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תמעל",
+      "gloss": "ኣምሓርነት ትገብር"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ኣምሓርነት"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "ትገበር"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "ብግዳይ"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "ኣብ ቅዱሳት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ትኣቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣኻሙ"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "ኣኻሙ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ኣዕሊ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ብዘይ እኩብ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ምሕባብ"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "ብገንዘብኻ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ጽርቕ"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "ብመቓወማት"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ብመቓወም"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "ንኣኻም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:50:43.467177886Z",
+  "model": "glm-5.3"
+}

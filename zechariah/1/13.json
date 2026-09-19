@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ያህዌህ ድማ ⟨את⟩ እቲ ኣሕባሪ ብዓይ ዝዛረብ ዘሎ ብጽቡቓት ቃላት፣ ብመርሕሮ ቃላት መለሰ።",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መለሰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ኣሕባሪ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "እቲ ኣሕባሪ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ዝዛረብ ዘሎ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ብዓይ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ጽቡቓት"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "መርሕሮ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:34:00.173371918Z",
+  "model": "glm-5.3"
+}

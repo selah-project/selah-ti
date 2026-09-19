@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 11:16",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኣብ ልዕለ እሳ ኢድታት ገበሩ፣ እታ ብእቲ እቶም ኣፈሩሲ ናብ ቤት ንጉሥ ዝኣተዉሉ ኣተባባዕዲ መንገዲ ኣተወት፣ ኣብኡ ድማ ተቐተለት።",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ኣብ ልዕለ እሳ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ኢድታት"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ኣተወት"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገዲ"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ኣተባባዕዲ"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "እቶም ኣፈሩስ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ותומת",
+      "gloss": "ተቐተለት"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:43:15.861599990Z",
+  "model": "glm-5.3"
+}

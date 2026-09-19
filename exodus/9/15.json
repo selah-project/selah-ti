@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ምኽንያቱ ሕጂ ⟨את⟩ ኢደይ እነ ኣቢርያ ነይርኩ ንስኻ ⟨אותך⟩ ውን ⟨ואת⟩ ሕዝብካ ብመርዛ ነይርኩ፣ ካብ ምድሪ ክትጠፍእ ነይራ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ነይርኩ ኣቢርያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢደይ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ኢደይ"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "ውን"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ⟨אותך⟩ ንስኻ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ሕዝብካ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ሕዝብካ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ብመርዛ"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "ክትጠፍእ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:16:53.187996300Z",
+  "model": "glm-5.3"
+}

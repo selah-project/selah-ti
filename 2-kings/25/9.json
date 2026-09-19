@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ንቤት ያህዌህ ⟨את⟩ ንቤት እቲ ንጉሥ ውን ⟨ואת⟩ ኩቡር ቤታት የሩሻላይም ውን ⟨ואת⟩ ኩቡር ዓቢ ቤት ብሓዊ ሰዓበ።",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "ሰዓበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንቤት ያህዌህ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ንቤት እቲ ንጉሥ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉሥ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ኩቡር ቤታት የሩሻላይም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩቡር"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ቤታት"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ኩቡር ዓቢ ቤት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩቡር"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ሰዓበ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ብሓዊ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:40:34.573106398Z",
+  "model": "glm-5.3"
+}

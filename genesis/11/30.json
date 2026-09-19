@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ሳራይ ድማ ጾርቲ ነይራ፤ ውላድ ኣይነበራን።",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ነይራ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ሳራይ"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "ጾርቲ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ኣታ"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "ውላድ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:38:48.607087422Z",
+  "model": "glm-5.3"
+}

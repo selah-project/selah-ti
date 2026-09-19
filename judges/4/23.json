@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኤሎሂም ድማ ኣብ እቲ መዓልቲ እቲ ⟨את⟩ ያቪን ንጉስ ከነዓን ኣብ ቅድሚ ውላድ እስራኤል ሓልዎ።",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "ሓልዎ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያቪን ንጉስ ከነዓን"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ያቪን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ከነዓን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T23:39:25.861505635Z",
+  "model": "glm-5.3"
+}

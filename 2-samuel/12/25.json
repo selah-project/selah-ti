@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ብኢድ ናታን ነብዪ ድማ ሰደደ፣ ንስሙ ድማ ⟨את⟩ የዲድያሕ ተወሰኾ — ብያህዌህ እዩ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ናታን"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነብዪ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ተወሰኾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንስሙ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ንስሙ"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "የዲድያሕ"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:30:30.308823350Z",
+  "model": "glm-5.3"
+}

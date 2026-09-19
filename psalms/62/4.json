@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 62,
+  "translation": "ክሳብ መዓስ ኩላትኩም ኣብ ሓደ ሰብ ትሓድሩ፣ ትቐትሉዶ? ከም ኣንጻይ ግንቲን ከም ዝተቐተለት ግዳስን ኢኻቱም።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "መዓስ"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "ትሓድሩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "ትቐትሉ"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "ኩላትኩም"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "ከም ግንቲ"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "ኣንጻይ"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ግዳስ"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "ዝተቐተለት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:01.597999437Z",
+  "model": "glm-5.3"
+}

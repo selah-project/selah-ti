@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 24:2",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ናዳብን ኣቢሁውን ኣብ ቅድሚ ኣቦኦም ሞቱ፤ ውላድ እውን የብሎምን፤ ኤልዓዛርን ኢታማርን ድማ ኻህናት ኰኑ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞቱ"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ናዳብ"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ኣቢሁውን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ኣቦኦም"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "ውላድን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንኣቶም"
+    },
+    {
+      "surface": "ויכהנו",
+      "gloss": "ኻህናት ኰኑ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ኢታማርን"
+    }
+  ],
+  "timestamp": "2026-09-19T09:11:11.961156416Z",
+  "model": "glm-5.3"
+}

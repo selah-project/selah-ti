@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 72,
+  "translation": "ኣገልገልቲ ታርሺሽን ናይ ደሴታትን ግብሪ ክቕርቡ እዮም፣ ኣገልገልቲ ሳባን ሴባን ስግዳት ከቕርቡ እዮም።",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "ኣገልገልቲ"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ታርሺሽ"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "ደሴታትን"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ግብሪ"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "ክቕርቡ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ኣገልገልቲ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ሳባ"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "ሴባን"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "ስግዳት"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ከቕርቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:08.799229432Z",
+  "model": "glm-5.3"
+}

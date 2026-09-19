@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ናብ መምሃሪ፣ ሓበሬታ ዘለዋ መዝሙር፣ ናይ ውላድ ቅርሕ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ናብ መምሃሪ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ሓበሬታ ዘለዋ መዝሙር"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ናይ ውላድ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ቅርሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:47.175668924Z",
+  "model": "glm-5.3"
+}

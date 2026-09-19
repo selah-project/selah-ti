@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ንስኹም ⟨את⟩ ስኩት ንጉስኹምን ⟨ואת⟩ ኪዮን መልክታትኹምን ኮከብ ኣማልኽትኹም እቲ ነገርኩምዎ ነንኹም ነዓቕኹም።",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "ነዓቕኹም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስኩት"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "ስኩት"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "ንጉስኹም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኪዮን"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "ኪዮን"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "መልክታትኹም"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "ኮከብ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኣማልኽትኹም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ነገርኩምዎ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ነንኹም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:16:56.122441764Z",
+  "model": "glm-5.3"
+}

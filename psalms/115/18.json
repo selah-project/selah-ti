@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 115,
+  "translation": "ንሕና ግና ያህ ነባርኾ፣ ካብ ሕጂ ክሳብ ዘለኣለም። ያህ ዝምርዉ!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "ንሕና ግና"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "ነባርኾ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ካብ ሕጂ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ዝምርዉ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:37.993572497Z",
+  "model": "glm-5.3"
+}

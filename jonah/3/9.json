@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "«መን ይፈልጥ? ኤሎሂም ከም ዝምለስን ከም ዝቕረብን፣ ካብ ቍጥዓ ቍጥዑ ኸም ዝምለስ፣ ንሕና ኣይንጠፍእን ኢና።»",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ይፈልጥ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ከም ዝምለስ"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "ከም ዝቕረብ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ኸም ዝምለስ"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "ቍጥዓ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ቍጥዑ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "ንጠፍእ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:19:55.020349294Z",
+  "model": "glm-5.3"
+}

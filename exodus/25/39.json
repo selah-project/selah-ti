@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ሓደ ኪካር ጽዱቕ ወርቂ ⟨את⟩ ንኣሕዋት ወሲዱ ⟨את⟩ ኩሉ እዞም ቱላታት ይገብርዎ።",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "ኪካር"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ጽዱቕ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ይገብር"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብዚ ጸላይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እዞም ቱላታት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "እቶም ቱላታት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዞም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:30:51.611458319Z",
+  "model": "glm-5.3"
+}

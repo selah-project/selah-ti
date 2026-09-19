@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 52,
+  "translation": "ንመንቀጸታ ዝተባህለ፣ መምህራዊ ቅዱስ በዳዊድ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንመንቀጸታ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "መምህራዊ ቅዱስ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "በዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:02:47.763554660Z",
+  "model": "glm-5.3"
+}

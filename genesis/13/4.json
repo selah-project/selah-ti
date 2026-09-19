@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 13:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ናብ ቦታ እቲ መሠዊን ኣብ እቲ መጀመርታ ኣብኡ ዝገበረዎ፣ ኣቭራሃም ድማ ኣብኡ ብስም ያህዌህ ጸወዐ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "እቲ መሠዊን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበረዎ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "ኣብ እቲ መጀመርታ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ጸወዐ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ኣቭራሃም ድማ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ብስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:38:30.322504938Z",
+  "model": "glm-5.3"
+}

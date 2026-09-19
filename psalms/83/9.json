@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 83,
+  "translation": "ኣሽሽር ውን ምስኦም ተደለወ፤ ንውላደ ሎጥ እጓሊ ኮይኖም ነይሮም። ሰላህ",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ውን"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣሽሽር"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "ተደለወ"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ምስኦም"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ኮይኖም"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "እጓሊ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላደ"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ሎጥ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:57.500090207Z",
+  "model": "glm-5.3"
+}

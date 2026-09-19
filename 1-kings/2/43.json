@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ስለዚ ስንታት ነቲ ⟨את⟩ ኣረ ያህዌህን ⟨את⟩ ትእዛዝ እቲ ኣብ ልዕሊኻ ዝኣዘዝኩዎን ኣይሓለውካን፧",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "ስለዚ ስንታት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ሓለውካን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣረ ያህዌህ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ኣረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዝ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ዝኣዘዝኩዎ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ኣብ ልዕሊኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:47:52.062393996Z",
+  "model": "glm-5.3"
+}

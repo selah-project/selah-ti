@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 147,
+  "translation": "ያህዌህ ⟨את⟩ ዝጽንበርዎ ይሕጎስ፣ ⟨את⟩ ንሔሴዱ እተንጠቀምቲ ድማ።",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "ይሕጎስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝጽንበርዎ"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ዝጽንበርዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እተንጠቀምቲ"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "እተንጠቀምቲ"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "ንሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:38:55.540879911Z",
+  "model": "glm-5.3"
+}

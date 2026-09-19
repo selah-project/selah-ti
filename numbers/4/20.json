@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "⟨את⟩ እቲ ቅዱስ ምስ ዝጥፍእ እኳ ኣብ ክረኡ ኣይኣቱን ንሶም ከኣ ከምዚ ክመዉት ኣይኮኑን።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ኣይኣቱን ኣይ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ኣይኣቱን"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ክረኡ እኳ ኣይኣቱን ኣይ"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "ከምዚ ተውሂቡ ምስ ዝጥፍእ እኳ ኣይኣቱን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ቅዱስ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "እቲ ቅዱስ"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ክመዉት ኣይኮኑን።"
+    }
+  ],
+  "timestamp": "2026-09-18T22:13:57.834280761Z",
+  "model": "glm-5.3"
+}

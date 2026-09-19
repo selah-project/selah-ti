@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ወይ ንኣታ ኣመናድቲን እትርከብን፣ ንእታ ትሕቲ ብዝበዓለት ከተማ!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ኣመናድቲ"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "እትርከብን"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ትሕቲ ብዝበዓለት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:30:12.772045472Z",
+  "model": "glm-5.3"
+}

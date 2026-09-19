@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ክብሪ እዩ ንሰብ ካብ መዛረቢ ምቕሻጥ፤ ኩሉ ዕቡድ ግን ይትሓራብ።",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ንሰብ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ምቕሻጥ"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "ካብ መዛረቢ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ዕቡድ"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "ይትሓራብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:53:11.093094192Z",
+  "model": "glm-5.3"
+}

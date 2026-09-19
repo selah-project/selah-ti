@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እትተረፈ ካብቲ ቍርባን ድማ ንኣሃሮንን ንውላዱን እያ፤ ቅዱስ ቅዱሳት እዩ፣ ካብ ወፈያታት ብሓዊ ናይ ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "እትተረፐ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "እቲ ቍርባን"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ንኣሃሮን"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ንውላዱን"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "ካብ ወፈያታት ብሓዊ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:46:36.293648787Z",
+  "model": "glm-5.3"
+}

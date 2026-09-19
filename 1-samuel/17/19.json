@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 17:19",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ሻኡል ድማን ንሳቶምን ኩሉ ሰብ እስራኤል ኣብ ሸለቓ ኣይላ ምስ እቶም ፍልስጤማይ ተዓጋጊሶም ነይሮም።",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "ሻኡል ድማን"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ንሳቶምን"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ኣብ ሸለቓ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ኣይላ"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "ተዓጋጊሶም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "እቶም ፍልስጤማይ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:08:43.240143042Z",
+  "model": "glm-5.3"
+}

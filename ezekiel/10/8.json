@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣብ ከሩባት ድማ መልክዕ ኢድ ሰብ ኣብ ታሕቲ ክንፈታቶም በረኣየ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "በረኣየ"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "ኣብ ከሩባት"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "መልክዕ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ታሕቲ"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "ክንፈታቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T03:26:25.514619228Z",
+  "model": "glm-5.3"
+}

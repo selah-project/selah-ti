@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 6:10",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እዚታ ካብ መስታወት ከም ጽባሕ እትወጹ መን እየ?። ጽቡቕቲ ከም ለጋ፣ ንጹርቲ ከም ፀሓይ፣ ተቓላላይቲ ከም ሰራዊት ብባንዴራታት።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚታ"
+    },
+    {
+      "surface": "הנשקפה",
+      "gloss": "እትወጹ ካብ መስታወት"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ጽባሕ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ጽቡቕቲ"
+    },
+    {
+      "surface": "כלבנה",
+      "gloss": "ከም ለጋ"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "ንጹርቲ"
+    },
+    {
+      "surface": "כחמה",
+      "gloss": "ከም ፀሓይ"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "ተቓላላይቲ"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "ከም ሰራዊት ብባንዴራታት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:27:07.864964156Z",
+  "model": "glm-5.3"
+}

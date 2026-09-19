@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "እትላይን ብንያምን ግን ኣብ መንጎኦም ኣይቑጸሮምን፤ ምኽንያቱ ቓል እቲ ንጉሥ ነቲ ዮኣብ ⟨את⟩ ዮኣብ ኣጸዓቖ።",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "እትላይ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ብንያም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ቑጸሮ"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "ኣብ መንጎኦም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "ኣጸዓቐ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉሥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮኣብ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮኣብ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:45:17.167473977Z",
+  "model": "glm-5.3"
+}

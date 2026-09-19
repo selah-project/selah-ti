@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 23:2",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ባላቅ ድማ ከም ዝበሎ ቢልዓም ገበረ፤ ባላቅን ቢልዓምን ድማ ኣብ መሠዊሒ ከብትን ኣውራን ኣቐረቡ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ባላቅ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝበሎ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ቢልዓም"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ኣቐረቡ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ባላቅ"
+    },
+    {
+      "surface": "ובלעם",
+      "gloss": "ቢልዓምን"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ከብት"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ኣውራን"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "ኣብ መሠዊሒ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:34:14.980952615Z",
+  "model": "glm-5.3"
+}

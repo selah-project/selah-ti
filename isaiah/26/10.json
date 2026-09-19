@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ሓራም ምሕረት ምስ ተሃበ ጽድቂ ኣይተማረን፤ ኣብ ምድሪ ቐጥታ ክፉእ ይገብር፣ ክብሪ ያህዌህ ድማ ኣይረኣየን።",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "ምሕረት ምስ ተሃበ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ሓራም"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "למד",
+      "gloss": "ኣይተማረን"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "ቐጥታ"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "ክፉእ ይገብር"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ድማ ኣይ…ን"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ኣይረኣየን"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:56:48.056570008Z",
+  "model": "glm-5.3"
+}

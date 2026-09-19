@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ካብ ቤትካ ፈራይ ኣይወስድን፣ ካብ መእሰይትኻ ሰቓት ደቂ ኣንስቲ ኣይወስድን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ኣይወስድን"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "ካብ ቤትካ"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ፈራይ"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "ካብ መእሰይትኻ"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "ሰቓት ደቂ ኣንስቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:47.452700302Z",
+  "model": "glm-5.3"
+}

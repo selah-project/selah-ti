@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ምኽንያቱ ካባይ ወጻኢ መን ክብልዕ ይኽእል እዩ፣ መን ድማ ክሓውዝ ይኽእል፧",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ክብልዕ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "መን ድማ"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "ክሓውዝ"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ወጻኢ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ካባይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:38:29.364275226Z",
+  "model": "glm-5.3"
+}

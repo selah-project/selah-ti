@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ካህናት ድማ ኣብ ክንድሲ ካብ ⟨את⟩ ሰብ ገንዘብ ከምዘይወስዱን ⟨את⟩ ሓደጋ እቲ ቤት ከምዘይምህዙን ተሰማምዑ።",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "ተሰማምዑ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ኣብ ክንድሲ"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "ንምውሳድ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ገንዘብ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ሰብ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "ከምኡውን ኣብ ክንድሲ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ንምምሃዝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓደጋ እቲ ቤት"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ሓደጋ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "እቲ ቤት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:28:42.029759745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣብ ልቡ በለ፦ «ክነሳሕ ኣይኮነን፤ ናብ ወዲገን ወዲገን ኣብ ሓደጋ ኣይኮነን።»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ኣብ ልቡ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ክነሳሕ ኣይኮነን"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ናብ ወዲገ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ወዲገን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዘሎ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ኣብ ሓደጋ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:59.991709237Z",
+  "model": "glm-5.3"
+}

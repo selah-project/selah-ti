@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ዳዊድ ድማ እናኸደ እናዓበየ ኸደ፤ ያህዌህ ኤሎሂም ጸባኦት ድማ ምስኡ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ኸደ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "እናኸደ"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "እናዓበየ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:24:38.331424976Z",
+  "model": "glm-5.3"
+}

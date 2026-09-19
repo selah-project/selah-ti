@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "የሆሹዋዕ ድማ ብሸሞንተ ተበገሰ፣ ኣህናት ድማ ⟨את⟩ ታቦት ያህዌህ ኣቐነዑ።",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ብሸሞንተ ተበገሰ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ብሸሞንተ"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ኣቐነዑ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ኣህናት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦት"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:16:06.684657509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ክልተ ሰበይቲ ድማ ነይራሉ፤ ስም ሓንታ ሓንና እያ፣ ስም ካልኣይታ ድማ ፕንና እያ፤ ነፕንና ውላድ ነይራ ነፍሲ ወከፍ፣ ለሓንና ግና ውላድ የለንን።",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "ድማ ነይራሉ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ሓንታ"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "ሓንና"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ስም ድማ"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ካልኣይታ"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "ፕንና"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ነይራ ነፍሲ ወከፍ"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "ነፕንና"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "ለሓንና"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለንን"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "ውላድ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:57:06.827159530Z",
+  "model": "glm-5.3"
+}

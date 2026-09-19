@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ሚኽታም ናይ ዳዊድ። ኤል ኣቆልብረኒ፣ እስመ ኣብ ንስኻ ሓደገን።",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "ሚኽታም"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "ኣቆልብረኒ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እስመ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ሓደገን"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣብ ንስኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:04.555447216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "ከዋን ጽዮን ትሓግስ፣ ኣገላትቲ ይሁዳ ይደልዐ፣ ብምኽንያት ፍርዲታትኻ።",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ትሓግስ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ከዋን"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "ይደልዐ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ኣገላትቲ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ብምኽንያት"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ፍርዲታትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:50.861274830Z",
+  "model": "glm-5.3"
+}

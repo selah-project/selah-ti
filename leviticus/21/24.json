@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ሞሸ ድማ ነቶም ኣህሮንን ውላዱቱን ንኩሉ ውላደይ እስራኤልን ተዛረቦም።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረቡ ድማ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣህሮን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ከምኡውን ነቶም"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱቱ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ከምኡውን ን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:34.948365721Z",
+  "model": "glm-5.3"
+}

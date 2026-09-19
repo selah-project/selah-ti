@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ንማሕደርን ⟨את⟩ ልብሲ ኣገልግሎትን ⟨את⟩ ቅዱሳት ልብሲ ንኣሃሮን እቲ ካህንን ⟨את⟩ ልብሲ ውላዱን ንኽካህኑን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ልብሲ ኣገልግሎት"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ልብሲ"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "ኣገልግሎት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቅዱሳት ልብሲ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ልብሲ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ንኣሃሮን"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ካህን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ልብሲ ውላዱ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ልብሲ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ንኽካህኑ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:33:48.015069691Z",
+  "model": "glm-5.3"
+}

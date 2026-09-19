@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "እቲ ከምኡ እትውዕል ዘይኮነ፣ ብላዕሊ እቲ ትውዕልን ከምኡውን ዘይትከፍልን ብዝኾነ ይበልጽ እዩ።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ይበልጽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ትውዕል"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "እትውዕል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ትከፍል"
+    }
+  ],
+  "timestamp": "2026-09-19T06:40:57.923354024Z",
+  "model": "glm-5.3"
+}

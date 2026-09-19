@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 71,
+  "translation": "ከምኡውን ጽድቂካ ኤሎሂም ክሳብ ላዕሊ በጺሓ፣ ዓበይቲ ነገራት ዝገበርካ፤ ኤሎሂም፣ መን ከምኣኻ ኣሎ?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "ጽድቂካ ከምኡውን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ላዕሊ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ዝገበርካ"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ዓበይቲ ነገራት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ከምኣኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:40.111670203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ከምቲ ኤሎሂም እቲ ከረንቲ ረኺቦም ኮይኑ፣ ኤል ዔልዮን ኣዳኞም ኮይኑ ዝኾነ ክኣልዮም።",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "እቲ ከረንቲ ረኺቦም"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ዔልዮን"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "ኣዳኞም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:39.616936127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 66:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 66,
+  "translation": "ስለዚ በለ ያህዌህ፦ ሰማያት ⟨እቲ⟩ መንበሪ እየን፣ ምድሪ ድማ ሓደማ እግርያ እያ። ኣበይ እዩ እቲ ቤት እትሃንጡ ንኣነ፧ ኣበይ ድማ እዩ እቲ ቦታ እረተይ፧",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "መንበሪ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ምድሪ ድማ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ሓደማ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "እግርያ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ኣበይ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "תבנו",
+      "gloss": "ትሃንጡ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "ድማ ኣበይ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "እረተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:29:44.275153404Z",
+  "model": "glm-5.3"
+}

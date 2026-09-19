@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 29:25",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ከምኡውን ሓደ ሰብኣዊ ዓሓዲ ናይ ኣጣኢ ወፈያ ንሓጢኣት፣ ካብዚ ብዘለን ዘይቐጸል ዕላሊ፣ ቍርባኣን መስኒ ወፈያኣን ወጻኢ እዩ።",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "ድማ ሰብኣዊ ዓሓዲ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ናይ ኣጣኢ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ወፈያ ንሓጢኣት"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "ካብዚ ወጻኢ"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ዕላሊ"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "ዘይቐጸል"
+    },
+    {
+      "surface": "מנחתה",
+      "gloss": "ቍርባኣ"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "ድማ መስኒ ወፈያኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:32:46.741842038Z",
+  "model": "glm-5.3"
+}

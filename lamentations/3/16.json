@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ድማ ብሽዑኽቢ ጽሕጉረ ስኒ፣ ኣብ ምላሽ ወሲቐኒ።",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "ጽሕጉረ ድማ"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "ብሽዑኽቢ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ስኒ"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "ወሲቐኒ"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "ኣብ ምላሽ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:34:53.448323232Z",
+  "model": "glm-5.3"
+}

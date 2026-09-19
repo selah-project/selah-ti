@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 72,
+  "translation": "ይኹን ስሙ ናብ ዘለኣለም፤ ኣብ ቅድሚ ፀሓይ ስሙ ይቐጽል፤ ንሱን ኩሎም ዓዳጋት ክበሩ እዮም፤ ኩሉ ዓዳጋት እኩብ ክብሉዎ እዮም።",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ይኹን"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ፀሓይ"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "ይቐጽል"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "ክበሩ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ንሱን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ዓዳጋት"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": "እኩብ ክብሉዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:46.296667377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 16:21",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "«ካብ ማእከል እዚ ጉባኤ እዚ ተፈልዩ፣ ኣብ ኸረሽታ ድማ ንኦም ⟨אתם⟩ እኣጥፍኦም እየ።»",
+  "tokens": [
+    {
+      "surface": "הבדלו",
+      "gloss": "ተፈልዩ"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ካብ ማእከል"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "እቲ ጉባኤ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "እኣጥፍኦም እየ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ንኦም"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "ኣብ ኸረሽታ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:26:06.046908640Z",
+  "model": "glm-5.3"
+}

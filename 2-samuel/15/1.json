@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 15:1",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ድሕሪ እዚ ድማ ኣብሻሎም ንርእሱ ስሪሕን ኣፈርሲን ምስ ሃምሽተ ሰባት ዝገይሱ ኣብ ቅድሚኡ ኣበየዮ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ድሕሪ እዚ ድማ ነይሩ"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ድሕሪ እዚ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ኣበየዮ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንርእሱ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ኣብሻሎም"
+    },
+    {
+      "surface": "מרכבה",
+      "gloss": "ስሪሕ"
+    },
+    {
+      "surface": "וסוסים",
+      "gloss": "ኣፈርሲን"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ምስ ሃምሽተ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "רצים",
+      "gloss": "ዝገይሱ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ኣብ ቅድሚኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:33:29.534258900Z",
+  "model": "glm-5.3"
+}

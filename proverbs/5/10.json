@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "«ንሳትኡ መራቒያት ሓይሊኻ ከይይምላኡ፣ ጽንኩርትኻ ድማ ኣብ ቤት ባዕላይ ከይኸውን።»",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ንሳትኡ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ይምላኡ"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "መራቒያት"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "ሓይሊኻ"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "ጽንኩርትኻን"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "ባዕላይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:41:27.821151283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 5:4",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ዳዊድ ኣብ ዝነግሥ ውላዲ ሰላሳ ዓመታት ነይሩ፤ ኣርባዕቲ ዓመታት ድማ ነገሠ።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ውላዲ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሰላሳ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ኣብ ዝነግሥ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ኣርባዕቲ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነገሠ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:26:21.011118682Z",
+  "model": "glm-5.3"
+}

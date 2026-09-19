@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 9:23",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ዮራም ኢዱ በሊሱ ተሸገረ፤ ነቲ ኣካዝያ ድማ «ውሽጢ፣ ኣካዝያ!» በሎ።",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "በሊሱ"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "ዮራም"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ተሸገረ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "ኣካዝያ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ውሽጢ"
+    },
+    {
+      "surface": "אחזיה",
+      "gloss": "ኣካዝያ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:21:10.717739859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ንኤሎሂም ሓይሊ ሃቡ፤ ኣብ ልዕሊ እስራኤል ክብሪኡ ኣሎ፤ ሓይሊኡ ድማ ኣብ ደመናታት ኣሎ።",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "ሃቡ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ሓይሊ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ንኤሎሂም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "ክብሪኡ"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "ሓይሊኡ ድማ"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "ኣብ ደመናታት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:11.655475129Z",
+  "model": "glm-5.3"
+}

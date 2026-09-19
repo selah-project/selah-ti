@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ስለዚ ከምዚ በለ ያህዌህ ጸባኦት፦ ደጊምኩም ሓንሳብ እያ፣ ኣነ ድማ ⟨את⟩ ሰማያትን ⟨את⟩ ምድርን ⟨את⟩ ባሕሪን ⟨את⟩ ደረቕቲ ምድሪን ኣንቀሳቕሰሎም እየ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደጊምኩም"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ሓንሳብ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ቐንዲሱ ⟨ቐንዲስ⟩"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እያ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ኣንቀሳቕሰሎም እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰማያት"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምድር"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ባሕሪ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ደረቕቲ ምድሪ"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "ደረቕቲ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:31:13.450448832Z",
+  "model": "glm-5.3"
+}

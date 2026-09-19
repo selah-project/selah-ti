@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 79,
+  "translation": "እስከ መዓስ ያህዌህ፧ ንዘለኣለም ትቕጽል ዲኻ፧ ቍጥዕትካ ከም ሓዊ ትበዓር ዲኻ፧",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "መዓስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "ትቕጽል"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ንዘለኣለም"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ትበዓር"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "ቍጥዕትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:49.115055229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 14:1",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ያህዌህ ድማ ናብ ሞሸ ተዛረቦ ኢሉ እናበለ ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረቦ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ እናበለ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:27:36.069205746Z",
+  "model": "glm-5.3"
+}

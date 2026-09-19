@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 60,
+  "translation": "ነቶም ዝኾርፉኻ ኣላማ ሃብካ፤ ንምኽንያት ሓቂ ንኽተሓቕ፤ ስላህ።",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "ሃብካ"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "ዝኾርፉኻ"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ኣላማ"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "ንኽተሓቕ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ንምኽንያት"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "ሓቂ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:57.062666379Z",
+  "model": "glm-5.3"
+}

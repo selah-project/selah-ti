@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "እቲ ሓሩይ ኣብ ⟨ቲ⟩ መገዲ ዝጠፍእ ዝገብር ክርጉም እዩ፤ ኩሉ ⟨እቲ⟩ ህዝቢ ድማ «ኣሚን» ይብል።",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ክርጉም"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "ዝጠፍእ ዝገብር"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ሓሩይ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መገዲ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ድማ ይብል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ኣሚን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:07:23.521406168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እቲ זፈትዎ ያህዌህ ⟨את⟩ ይተዛርቦ፣ ከም ኣቦ ነቲ ወዲ ⟨את⟩ ዝሕጎሶ ውን ይተዛርቦ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ זፈትዎ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ז"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "ይፈትዎ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ይተዛርቦ"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "ከም ኣቦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወዲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ዝሕጎሶ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:42:07.302402220Z",
+  "model": "glm-5.3"
+}

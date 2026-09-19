@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ካብኡ ድማ ቖርቢ ብቑጽር ተውሲድካ፣ ኣብ ክንፍታትካ ተዓቢዮም።",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ተውሲድካ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ቖርቢ"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ብቑጽር"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ተዓቢዮም"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳቶም"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "ኣብ ክንፍታትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:25:04.504101498Z",
+  "model": "glm-5.3"
+}

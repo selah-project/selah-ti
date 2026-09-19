@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "እዚታት ረኣይቲ ኣይትጸልምን፣ እዚታት ሰሚዕቲ ድማ ክብርቕ እየን።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "ክትጸልምን"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "እዚታት"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "ረኣይቲ"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "እዚታት"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "ሰሚዕቲ"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "ክብርቕ እየን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:00:32.613148989Z",
+  "model": "glm-5.3"
+}

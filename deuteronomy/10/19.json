@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ነቲ ⟨את⟩ መሻሪ ተዉ ንፈቱ፣ ምኽንያቱ ኣብ ምድሪ ሚጽራይም መሻርቲ ነይርኩም።",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "ተዉ ንፈቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ መሻሪ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "እቲ መሻሪ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "መሻርቲ"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ነይርኩም"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:52:39.231376569Z",
+  "model": "glm-5.3"
+}

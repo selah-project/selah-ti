@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 18:51",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ዝዓቢ ሓላውኢ ይሃብ ንንጉሱ፣ ሔሴድ ድማ ይገብር ንማሺያሕኡ፣ ንዳዊድን ንዘርኡን ክሳብ ዘለኣለም።",
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "ዝዓቢ"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ሓላውኢ"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "ንንጉሱ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ይገብርን"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "למשיחו",
+      "gloss": "ንማሺያሕኡ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ንዳዊድ"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "ንዘርኡን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:30.313147520Z",
+  "model": "glm-5.3"
+}

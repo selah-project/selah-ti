@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ያዕቆቭ እግርኡ ኣንሰእ ኣብ ምድሪ ውላደ ቅድም ከደ።",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ኣንሰእ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "እግርኡ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ቅድም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:51:22.967751966Z",
+  "model": "glm-5.3"
+}

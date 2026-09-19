@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 130,
+  "translation": "መዝሙር ናይ ምውላዕታት። ካብ ጥምቆታት ደወልኩኻ እየ ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ናይ ምውላዕታት"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "ካብ ጥምቆታት"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ደወልኩኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:04.863249821Z",
+  "model": "glm-5.3"
+}

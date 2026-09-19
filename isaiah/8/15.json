@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ብኣኾም ብዙሓት ይስተበሉ፣ ይወድቁ፣ ይስበሩ፣ ይሳሕኑ፣ ይሕዙ።",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "ይስተበሉ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ብኣኾም"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ይወድቁ"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "ይስበሩ"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "ይሳሕኑ"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "ይሕዙ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:44:22.000441022Z",
+  "model": "glm-5.3"
+}

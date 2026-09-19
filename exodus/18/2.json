@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "እቲ ያትሮ ሓው ሞሸ ድማ ⟨את⟩ ጽፓራ ሰበይቲ ሞሸ እቲ ሞሸ ዝምለሳ ተቓቕማ፣ ብድሕሪ ምምላስ ወሲዱ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "ያትሮ"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ሓው"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጽፓራ"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "ጽፓራ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ኣብ ድሕሪ"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "ምምላስ ኣባኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:25:36.688209031Z",
+  "model": "glm-5.3"
+}

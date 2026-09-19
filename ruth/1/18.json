@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ምስ ኣንትኢ ⟨את⟩ ንክትከውን ብሩሃ ምሃዛ ምስ ረኣየት፣ ንክተዛረባ ኣተናንታ።",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ምስ ረኣየት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ን"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "ብሩሃ ምሃዛ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ንሳ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ንክትከውን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ምስ ኣንትኢ",
+      "marks": "ምስ ኣንትኢ"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "ኣተናንታ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ንክተዛረባ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ምሳኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:32:59.576819373Z",
+  "model": "glm-5.3"
+}

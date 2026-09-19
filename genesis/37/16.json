@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ንሱ ድማ፦ «⟨את⟩ ኣሕዋተይ እየ እናደልዩ ዘለኹ፤ ኣበይ እኮም እናሰበኑ ከለዉ ኣፍለጠኒ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሕዋተይ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ኣሕዋተይ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እየ"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "እናደልዩ ዘለኹ"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ኣፍለጠኒ"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ኣበይ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እኮም"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "እናሰበኑ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:58:25.916528720Z",
+  "model": "glm-5.3"
+}

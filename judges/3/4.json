@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ድማ ነይሮም ብውሽጢኦም ንእስራኤል ⟨את⟩ ንምፈተን፣ ንኽፈለጡ ነፍሲ ወከፍ ታሕቲ ትእዛዛት ያህዌህ ⟨את⟩ ዝኣዘዞ ነቶም ኣቦታቶም ⟨את⟩ ብኢድ ሞሸ።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ድማ ነይሮም"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "ንምፈተን"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ብውሽጢኦም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ንኽፈለጡ"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "እንተሰሚዑን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዛት"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ትእዛዛት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ዝኣዘዞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቦታቶም"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ነቶም ኣቦታቶም"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:36:20.505368947Z",
+  "model": "glm-5.3"
+}

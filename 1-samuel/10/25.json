@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ሳሙኤል ድማ ንቲ ሕዝቢ ⟨את⟩ ናይ ⟨ያቲ ምንግስቲ⟩ ፍርዲ ተዛረበ፣ ኣብ ⟨ቲ⟩ መጽሓፍ ጸሓፎ፣ ኣብ ቅድሚ ያህዌህ ድማ ኣኽሮ፤ ሳሙኤል ድማ ⟨את⟩ ኩሉ ሕዝቢ ነፍሲ ወከፍ ናብ ቤቱ ምለሶ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ቲ ሕዝቢ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ናይ ምንግስቲ ፍርዲ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርዲ"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ናይ ምንግስቲ"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "ጸሓፎ"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "ኣብ ቲ መጽሓፍ"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "ኣኽሮ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ምለሶ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ሕዝቢ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ወከፍ"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ናብ ቤቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:01:26.110819192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 10:12",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኵሉ ምክትል ተሰምዑ፣ ብዓቢ ድምጺ ድማ በሉ፦ ከምኡ፤ ከምቲ ቃልካ ኣብ ልዕልና ስለ ዘሎ ክንገብር ኢና።",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "ተሰምዑ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኵሉ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ምክትል"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጺ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "ከምቲ ቃልካ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ኣብ ልዕልና"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ክንገብር"
+    }
+  ],
+  "timestamp": "2026-09-19T07:12:30.218844332Z",
+  "model": "glm-5.3"
+}

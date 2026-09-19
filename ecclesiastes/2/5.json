@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ንሓደ ገነታትን ፓርዴሳትን እናገበርኩ፣ ኣብ ውሽጦም ኩሉ ኣይነት ፍሪ ዘለዎ ኸደራት ተኸልኩ።",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "ገበርኩ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንሓደ"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "ገነታት"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "ፓርዴሳትን"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "ተኸልኩ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ኣብ ውሽጦም"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ኸደራት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ፍሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:40:07.267117088Z",
+  "model": "glm-5.3"
+}

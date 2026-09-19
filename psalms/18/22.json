@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ምኽንያቱ ኣነ ናይ ያህዌህ መገድታት ዓተርኩ፣ ካብ ኣምላኼ ከኣ ብክፊራት ኣይገበርኩን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ዓተርኩ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "መገድታት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ከኣ ኣይ"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "ብክፊራት ገበርኩ"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "ካብ ኣምላኼ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:48.770256080Z",
+  "model": "glm-5.3"
+}

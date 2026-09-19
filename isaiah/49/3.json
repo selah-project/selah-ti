@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "ድማ በለኒ፦ «ኣገልጋዬ ንስኻ ኮይንካ እስራኤል፣ ኣነ ብዛዕባኻ ክኣመር እየ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለኒ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልጋዬ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ብዛዕባኻ"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "ክኣመር እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:15:09.810677678Z",
+  "model": "glm-5.3"
+}

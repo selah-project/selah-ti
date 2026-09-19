@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 127,
+  "translation": "ብባዕሉ እዩ ንስኻትኩም ንቕዲምኩም፣ ንውሓት ክቐመጥኩም፣ እኽሊ ናይ መከራ ክትበልዑ — ከምኡ እዩ ንቅሩቡ ድንኽ ይህብ።",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "ብባዕሉ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንስኻትኩም"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "ንቕዲምኩም"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ንቕዲም"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ንውሓት"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ክቐመጥኩም"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "ክትበልዑ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "ናይ መከራ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይህብ"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "ንቅሩቡ"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ድንኽ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:03.607284867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣሃራን ድማ ⟨את⟩ ንኢዱ ኣብ ልዕሊ ማይ ሚጽራይም ኣዘርቐ፤ እቶም ጎረጎርቲ ድማ ወጹኦም፣ ⟨את⟩ ንምድሪ ሚጽራይም ሓነጹን።",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ኣዘርቐ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃራን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንኢዱ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ንኢዱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ወጹኦም ድማ"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "እቶም ጎረጎርቲ"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ሓነጹ ድማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንምድሪ ሚጽራይም"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:17:31.703304173Z",
+  "model": "glm-5.3"
+}

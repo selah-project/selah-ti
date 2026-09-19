@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ቕጸለተይ ተጠንቁን ⟨את⟩ ኣዕዛቀይን ድማ — እቶም ሰብ ዝገብሮም ብኣኮም ይነብር፤ ኣነ ያህዌህ እየ።",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ተጠንቁን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቕጸለተይ"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ቕጸለተይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣዕዛቀይ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ኣዕዛቀይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ዝገብር"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ኣኮም",
+      "marks": "ኣኮም"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ይነብር"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ብኣኮም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:58:48.556660564Z",
+  "model": "glm-5.3"
+}

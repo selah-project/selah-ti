@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ኣብ ጉባኤ ኣጥፍኣት ጸበይ፣ ምስ ክፉኣት ድማ ኣይቐመጥን እየ።",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "ጸበይ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ኣጥፍኣት"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉኣት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ኣይቐመጥን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:49.287844786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ነብዪ ዮናሳን ድማ እቲ ቓል ናብ ዮና ብዙሕ ኣበሸለ፣ ንሱ ድማ ኣብ ልዕሊ እዚ ተበደሐ።",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ኣበሸለ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ዮና"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "እቲ ቓል"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ተበደሐ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ኣብ ልዕሊ እዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:21:13.447042349Z",
+  "model": "glm-5.3"
+}

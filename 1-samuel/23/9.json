@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 23:9",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ዳዊድ ሻኡል ብምስዝባድ ንእሱ ነቲ ንዑይ ከም ዝሓበየ ሓበ፣ ነቲ ኻህን ኣብያታር ድማ በሎ፦ «እቲ ኤፉድ ኣቐርብ።»",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ሓበ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ንእሱ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "ብምስዝባድ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ነቲ ንዑይ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "ኣብያታር"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ኻህን"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "ኣቐርብ"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "እቲ ኤፉድ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:12:54.280379552Z",
+  "model": "glm-5.3"
+}

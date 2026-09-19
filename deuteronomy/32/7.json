@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 32:7",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ኣብ ቅድሚ ዘለዉ መዓልታት ኣስተውዕሉ፤ ዓመታት ትልሊትን ትልሊትን ሓባሩ፤ ኣቦኻ ሕተት፡ ከኣ ክነግረኻ፤ ኣርዑታኻ ሕተት፡ ንሳቶም ከኣ ክብሉኻ።",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ኣስተውዕሉ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ኣብ ቅድሚ ዘለዉ"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "ሓባሩ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ትልሊት"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ትልሊትን"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ሕተት"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ኣቦኻ"
+    },
+    {
+      "surface": "ויגדך",
+      "gloss": "ክነግረኻ"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "ኣርዑታኻ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ክብሉኻ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:11:07.670981564Z",
+  "model": "glm-5.3"
+}

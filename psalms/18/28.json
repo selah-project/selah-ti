@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ምኽንያቱ ኣትኻ ህዝቢ ድኻ ትድኅን፣ ተሓታታይ ዓይኒ እውን ታሕብ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኣትኻ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ድኻ"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "ትድኅን"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ንዓይኒታት እውን"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "ተሓታታይ"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "ታሕብ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:18.374256868Z",
+  "model": "glm-5.3"
+}

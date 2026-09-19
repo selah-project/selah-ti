@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ን⟨את⟩ ይስራኤል ዓሰርተን ሰለስተን ዓመታት ወሰነ፣ ሞተ፣ ኣብ ሳሚር ድማ ተቐበረ።",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ወሰነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዓሰርተን"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ሰለስተን"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ተቐበረ"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "ኣብ ሳሚር"
+    }
+  ],
+  "timestamp": "2026-09-18T23:43:51.888220202Z",
+  "model": "glm-5.3"
+}

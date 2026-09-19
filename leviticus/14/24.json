@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ካህኑ ከኣ ⟨את⟩ በግዕ ኣስሓቕቲ ወፈያን ⟨ואת⟩ እቲ ሎግ ዘተን ይወስድ፣ ካህኑ ከኣ ⟨אתם⟩ ብምዝዋር ቅድሚ ያህዌህ ይዝውሮም።",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ይወስድ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በግዕ ኣስሓቕቲ ወፈያ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "በግዕ"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ኣስሓቕቲ ወፈያ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "እቲ ሎግ ዘተ"
+    },
+    {
+      "surface": "לג",
+      "gloss": "ሎግ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ዘተ"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "ይዝውሮም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ኣቶም (በግዕ ወፈያን ሎግ ዘተ)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "ብምዝዋር"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:57:00.337970707Z",
+  "model": "glm-5.3"
+}

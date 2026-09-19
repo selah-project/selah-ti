@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ሞሸ ካብ ፓርዖ ወጸ፣ ናብ ያህዌህ ድማ ኣመልከተ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ ድማ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "ኣመልከተ ድማ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:17:30.992067679Z",
+  "model": "glm-5.3"
+}

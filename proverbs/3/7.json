@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣብ ኣዕይንታትካ ብስምዒ ኣይኹን፣ ያህዌህ ⟨את⟩ ፍራ፣ ካብ ኬኣይ ድማ ምስ ወጽእ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ክትከውን"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ብስምዒ"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ኣብ ኣዕይንታትካ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ፍራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ምስ ወጽእ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ካብ ኬኣይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:42:06.864522910Z",
+  "model": "glm-5.3"
+}

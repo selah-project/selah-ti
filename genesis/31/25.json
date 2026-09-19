@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ላቫን ደረሰሉ ⟨את⟩ ያዕቆቭ፤ ያዕቆቭ ድማ ⟨את⟩ ዓዲኡ ኣብ ከሰብቲ ደቐለ፤ ላቫን ድማ ⟨את⟩ ኣሕዋቱ ኣብ ከሰብቲ ግልዓድ ደቐለ።",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "ደረሰሉ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ላቫን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያዕቆቭ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ያዕቆቭ ድማ"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "ደቐለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓዲኡ"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ዓዲኡ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ኣብ ከሰብቲ"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "ላቫን ድማ"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "ደቐለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሕዋቱ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ኣሕዋቱ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ኣብ ከሰብቲ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ግልዓድ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:53:39.407743490Z",
+  "model": "glm-5.3"
+}

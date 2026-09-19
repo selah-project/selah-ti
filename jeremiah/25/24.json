@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ኩሉ ንጉሳት ዓረብ ⟨ואת⟩ን፣ ኩሉ ንጉሳት እቶም ተቓሊሕቲ ዝኣክቡ ኣብ ምድረ-በዓት ዝነብሩ ⟨ואת⟩ን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩ን",
+      "marks": "ኩሉ ንጉሳት ዓረብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ንጉሳት"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ዓረብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩ን",
+      "marks": "ኩሉ ንጉሳት እቶም ተቓሊሕቲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ንጉሳት"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "እቶም ተቓሊሕቲ"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "ዝነብሩ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድረ-በዓት"
+    }
+  ],
+  "timestamp": "2026-09-19T02:48:26.721863091Z",
+  "model": "glm-5.3"
+}

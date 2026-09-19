@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 129,
+  "translation": "ብዙሕ ተቓለሱኒ ካብ ንእሽተይነ፣ ግና ኣይከእሉኒን።",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "ተቓለሱኒ"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ካብ ንእሽተይነ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ግና"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ከእሉኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ኣባና\/ነኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:57.046332318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኤልሣዕ ድማ ሞተ፤ ቐበርዎ። ግድፍታት ሞዓብ ድማ ኣብ ምእታት ዓመት ነቲ ምድሪ ይኣቱ ነይሮም።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ኤልሣዕ"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ቐበርዎ"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "ግድፍታት"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞዓብ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ይኣቱ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ነቲ ምድሪ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ምእታት"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:26:57.615497302Z",
+  "model": "glm-5.3"
+}

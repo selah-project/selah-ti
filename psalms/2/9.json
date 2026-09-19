@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ብእዝቢ ብረታት ትሰብሮም፣ ከም መስቀዪ ዓሚድ ትበትኖም።",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "ትሰብሮም"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ብእዝቢ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ብረታት"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "ከም መስቀዪ"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "ዓሚድ"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "ትበትኖም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:35.017649506Z",
+  "model": "glm-5.3"
+}

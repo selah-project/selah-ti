@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 116,
+  "translation": "ውዑይ ኣብ ዓይኒ ያህዌህ ሞት እቶም ቅዱሳኑ ⟨እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "ውዑይ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ ዓይኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "እቶም ቅዱሳኑ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:33.465080308Z",
+  "model": "glm-5.3"
+}

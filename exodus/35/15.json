@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ድማ ⟨את⟩ መሰዊዕ እጣንን ⟨את⟩ ብዓታቱን ⟨את⟩ ዘይቲ ቅብኣትን ⟨את⟩ እጣን መዓዛዊ ኣውያትን ⟨את⟩ ብርኩም ኣፍሰጣን፣ ኣብ ኣፍሰጣ እቲ ማሕደርን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መሰዊዕ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሰዊዕ"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "እጣን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ብዓታቱ"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ብዓታቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዘይቲ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይቲ"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ቅብኣት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እጣን"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "እጣን"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "መዓዛዊ ኣውያት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ብርኩም"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ብርኩም"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ኣፍሰጣ"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "ኣብ ኣፍሰጣ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ማሕደር"
+    }
+  ],
+  "timestamp": "2026-09-18T21:40:12.752735394Z",
+  "model": "glm-5.3"
+}

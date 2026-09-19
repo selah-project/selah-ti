@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ያህዌህ ኣብ መዓልቲ ጸገይ ይመልሰልካ፣ ስም ኤሎሂም ያዕቆቭ የምሓውስካ።",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "ይመልሰልካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ጸገይ"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "የምሓውስካ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:37.688135248Z",
+  "model": "glm-5.3"
+}

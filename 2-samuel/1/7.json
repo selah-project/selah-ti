@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 1:7",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ንሱ ድማ ናብ ድሕሪቱ ተዐዘቐ፣ ረኣየኒ፣ ድማ ንዓይ ዐዘዐኒ፤ ኣነ ድማ «እንሆ ኣለኹ» በልኩ።",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "ተዐዘቐ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ናብ ድሕሪቱ"
+    },
+    {
+      "surface": "ויראני",
+      "gloss": "ረኣየኒ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ዐዘዐኒ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "በልኩ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እንሆ ኣለኹ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:20:57.968292805Z",
+  "model": "glm-5.3"
+}

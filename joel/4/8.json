@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ድማ ውላድኩምን ⟨את⟩ ጓልኩምን ⟨ואת⟩ ኣብ ኢድ ውላድ ይሁዳ ክኣጸብ እየ፣ ንሳቶም ድማ ነጹቦም ንሰባውያን፣ ናብ ርሑቅ ህዝቢ፤ ስለ ያህዌህ ተዛረበ።",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "ክኣጸብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድኩም"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ውላድኩም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ጓልኩም"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "ጓልኩም"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ኣብ ኢድ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "ነጹቦም"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "ንሰባውያን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "ርሑቅ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረበ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:13:30.135524544Z",
+  "model": "glm-5.3"
+}

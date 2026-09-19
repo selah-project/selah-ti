@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "ኃጢኣትቲ ካብ እታ ምድሪ ይወድኡ፤ ኣበይቲ ድማ ደጊሞም የለዉን። ነፍሰይ ሆይ፣ ያህዌህ ⟨את⟩ ባርኽ። ያህ ምስጉኡ።",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "ይወድኡ"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ኃጢኣትቲ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እታ ምድሪ"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ኣበይቲ ድማ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደጊሞም"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "የለዉን"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "ባርኽ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ምስጉኡ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:14.874596872Z",
+  "model": "glm-5.3"
+}

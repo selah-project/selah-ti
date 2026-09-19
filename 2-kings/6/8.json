@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ንጉስ ኣራም ድማ ምስ እስራኤል ይታጋሉ ነይሩ፤ ምስ ኣገልጋሉቱ ድማ ተማከረ፦ «ኣብ ከመዚን ከመዚን ቦታ ኣታሕያለይ እየ» በለ።",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ይታጋሉ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ምስ እስራኤል"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ተማከረ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ኣገልጋሉቱ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብምባር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "ከመዚ"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "ከመዚ"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "ኣታሕያለይ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:16:08.380316010Z",
+  "model": "glm-5.3"
+}

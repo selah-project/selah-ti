@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ድሕረ-ዝመጸ ትውልቲ ንምእምነት ክፈልጡ፣ ዝውለዱ ውላድ ኪቑሙ ንውላዶም ክንግርዎም።",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ንምእምነት"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ክፈልጡ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ትውልቲ"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ድሕረ-ዝመጸ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "ዝውለዱ"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "ኪቑሙ"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "ክንግርዎም"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ንውላዶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:11.654728875Z",
+  "model": "glm-5.3"
+}

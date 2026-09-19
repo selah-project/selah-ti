@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ሕዝቅያሕ ድማ ⟨את⟩ ኩሉ ብርሒ ኣብ ቤት ያህዌህን ኣብ ኣትሮታት ቤት እቲ ንጉስን ዝተረከብ ሃቦ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሃቦ"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ሕዝቅያሕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ብርሒ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ብርሒ"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ዝተረከብ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "ኣብ ኣትሮታት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:30:38.680107823Z",
+  "model": "glm-5.3"
+}

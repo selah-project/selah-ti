@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 15:10",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ኩሉ እቲ ትሕቲ እቲ ሓባዝ ዝነበረ እንተ ተታኸብ ክሳብ ምሸት ኣይንጹሕን እዩ፤ ነቶም ⟨את⟩ ዝሰብሕ ድማ ልሳኑ ይሓጽብ፣ ኣብ ማይ ይርሕብ፣ ክሳብ ምሸት ኣይንጹሕን እዩ።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "እቲ ዝተታኸብ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኩሉ ነገር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ዝነበረ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ትሕቲ እቲ ሓባዝ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ኣይንጹሕን እዩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ምሸት"
+    },
+    {
+      "surface": "והנושא",
+      "gloss": "ነቶም ዝሰብሕ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም (እቶም ነገራት ትሕቲ እቲ ሓባዝ)"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ይሓጽብ"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ልሳኑ"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ይርሕብ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ኣብ ማይ"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ኣይንጹሕን እዩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ምሸት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:59:50.205300319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 18:3",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "እዚ ከኣ ናይ ካህናት ማሕታ ካብ ⟨את⟩ እቲ ህዝቢ ክኸውን፤ ካብ ⟨את⟩ ዝሰብሕዎ መስዋእቲ — ኣይ ከብቲ ኣይ በጊዕ — ንካህን ንእቲ ጎንጎንን ንእተን መንጎታትን ንእቲ ማዕበልን ክሃብ።",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "እዚ ከኣ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክኸውን"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ማሕታ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ናይ ካህናት"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ካብ ⟨את⟩",
+      "marks": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ካብ ⟨את⟩",
+      "marks": "ዝሰብሕዎ መስዋእቲ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ዝሰብሕዎ"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "እቲ መስዋእቲ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ከብቲ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "በጊዕ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ክሃብ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ንካህን"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "እቲ ጎንጎን"
+    },
+    {
+      "surface": "והלחיים",
+      "gloss": "ንእተን መንጎታት"
+    },
+    {
+      "surface": "והקבה",
+      "gloss": "ንእቲ ማዕበል"
+    }
+  ],
+  "timestamp": "2026-09-18T23:03:03.614100009Z",
+  "model": "glm-5.3"
+}

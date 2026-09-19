@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ኣብ ያህዌህ ተበጥሕ፤ ተኽብርን ንልብካ ኣሓውን፤ ድማ ኣብ ያህዌህ ተበጥሕ።",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "ተበጥሕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ተኽብር"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "ኣሓው"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ንልብካ"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "ድማ ተበጥሕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:02.689375346Z",
+  "model": "glm-5.3"
+}

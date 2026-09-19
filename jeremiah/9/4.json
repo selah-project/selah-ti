@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 9:4",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ነፍሲ ወከፍ ሰብ ንዓረቡ ያታዩ፣ ሓቂ ድማ ኣይዛረብዎን፤ ልሳኖም ኣምሓዱ ንምዛርብ ሓሶት፣ ንምጓደፋን ድማ ደክሑ።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ነፍሲ ወከፍ ሰብ"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "ንዓረቡ"
+    },
+    {
+      "surface": "יהתלו",
+      "gloss": "ያታዩ"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ሓቂን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ኣይዛረብዎን"
+    },
+    {
+      "surface": "למדו",
+      "gloss": "ኣምሓዱ"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ልሳኖም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ምዛርብ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "העוה",
+      "gloss": "ምጓደፍ"
+    },
+    {
+      "surface": "נלאו",
+      "gloss": "ደክሑ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:38:13.310062300Z",
+  "model": "glm-5.3"
+}

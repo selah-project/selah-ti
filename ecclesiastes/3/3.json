@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ንምቕተል ሰዓት ኣሎ፣ ከምኡውን ንምሓወስ ሰዓት፤ ንምኽሳብ ሰዓት፣ ከምኡውን ንምህናጽ ሰዓት።",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ሰዓት"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "ንምቕተል"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ከምኡውን ሰዓት"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "ንምሓወስ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ሰዓት"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "ንምኽሳብ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ከምኡውን ሰዓት"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ንምህናጽ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:40:01.009854047Z",
+  "model": "glm-5.3"
+}

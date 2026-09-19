@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 14:8",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "እቲ ስርኡ ኣብ ምድሪ እንተ ዛዕቢ፣ እቲ ዓንዲኡ ኣብ ነሓሕሚ እንተ ሞተ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "ዛዕቢ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "እቲ ስርኡ"
+    },
+    {
+      "surface": "ובעפר",
+      "gloss": "ኣብ ነሓሕሚ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "גזעו",
+      "gloss": "እቲ ዓንዲኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:10:01.181690225Z",
+  "model": "glm-5.3"
+}

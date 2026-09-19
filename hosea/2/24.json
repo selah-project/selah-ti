@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ምድሪ ድማ ⟨את⟩ ዘራሪን ⟨את⟩ ሓድሽ ወይኒን ⟨את⟩ ዘትን ትመልስ፣ ንሳቶም ድማ ⟨את⟩ ይዝርኤል ይመልሱ።",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "ምድሪ ድማ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ትመልስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዘራሪ"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "ዘራሪ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሓድሽ ወይኒ"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "ሓድሽ ወይኒ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዘት"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "ዘት"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ንሳቶም ድማ"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ይመልሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይዝርኤል"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "ይዝርኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T04:05:51.376297165Z",
+  "model": "glm-5.3"
+}

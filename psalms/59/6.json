@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 59:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 59,
+  "translation": "በዚ እንተኾይና ንኽእል ዅሉ እንተገበርና፣ ኾነ ንኽእል ዅሉ ኣይነብርናን።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "በዚ"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "ኣይነብርናን"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ዅሉ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ንኽእል"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ኾነ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ዅሉ"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "ንኽእል"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ናትና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:02:26.176543065Z",
+  "model": "glm-5.3"
+}

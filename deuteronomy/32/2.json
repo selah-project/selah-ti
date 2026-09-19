@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ትወርድ ከም ዝናብ ትምህርተይ፤ ትጥሕል ከም ውርቂ ኣብኡት ቓለይ፤ ከም ዝናባት ኣብ ደሸኣን ከም ውሽጣት ኣብ ዕሽባን።",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "ትወርድ"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "ከም ዝናብ"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "ትምህርተይ"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "ትጥሕል"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "ከም ውርቂ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ኣብኡት ቓለይ"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "ከም ዝናባት"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ደሸኣ"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "ከም ውሽጣት"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ዕሽባ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:13:18.874185477Z",
+  "model": "glm-5.3"
+}

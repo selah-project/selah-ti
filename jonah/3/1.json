@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ቃል ያህዌህ ድማ ናብ ዮና ካልኣይ ግዜ እናዚብሎ መጸ፦",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ዮና"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ካልኣይ ግዜ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናዚብሎ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:59:27.576640730Z",
+  "model": "glm-5.3"
+}

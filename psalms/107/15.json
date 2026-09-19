@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ሔሴድኡ ንያህዌህ የመስገኑ፣ ድንባቱን ንውላድ ሰብን።",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "የመስገኑ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴድኡ"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ድንባቱን"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:08.974992514Z",
+  "model": "glm-5.3"
+}

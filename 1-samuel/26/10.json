@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ዳዊድ ድማ «ያህዌህ ሂዉ ኸም ዝነብር፣ ካብ ያህዌህ ዝገብርዎ እዩ — ወይ ያህዌህ ኪገብሮ፣ ወይ መዓልቱ ክመጽእ ኪሞት፣ ወይ ኣብ ውግእ ኪወርድ ኪጠፍእ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ሂዉ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም ዝበለ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ካብ … ወይይኮነን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "ኪገብሮ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "መዓልቱ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ክመጽእ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ኪሞት"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "ኣብ ውግእ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ኪወርድ"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "ኪጠፍእ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:18:34.472005579Z",
+  "model": "glm-5.3"
+}

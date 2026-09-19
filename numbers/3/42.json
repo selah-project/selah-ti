@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ሞሸ ድማ ከም እትኣዘዞ ያህዌህ ⟨את⟩ ኩሉ ቀዳማይ ወለዒ ካብ ውላድ ይስራኤል ቐጸሎ።",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "ቐጸሎ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም እትኣዘዞ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ኣዘዞ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ነታ (ንሞሸ)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ቀዳማይ ወለዒ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "ቀዳማይ ወለዒ"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "ካብ ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:13:22.052429117Z",
+  "model": "glm-5.3"
+}

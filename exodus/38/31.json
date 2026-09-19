@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ከምኡውን ⟨את⟩ መኽደናት ገበዓ ንቑቕም፣ ⟨את⟩ መኽደናት ኣፍ ገበዓ ውሽጢ፣ ⟨את⟩ ኩሉ ተላቒ ማሕደር፣ ⟨את⟩ ኩሉ ተላቒ ገበዓ ንቑቕም።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መኽደናት"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "መኽደናት"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ገበዓ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ንቑቕም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መኽደናት"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "መኽደናት"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ኣፍ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ገበዓ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "ተላቒ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "ተላቒ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ገበዓ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ንቑቕም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:41:53.792058847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ምስ ቅዱስ ቅዱስ ትኸውን፣ ምስ ሓያል ምሉእ ትኸውን።",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "ቅዱስ ትኸውን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ሓያል"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ምሉእ"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "ምሉእ ትኸውን"
+    }
+  ],
+  "timestamp": "2026-09-19T00:42:27.041718821Z",
+  "model": "glm-5.3"
+}

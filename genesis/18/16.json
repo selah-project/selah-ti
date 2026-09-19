@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 18:16",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "እቶም ሰባት ካብኡ ተቐመጡ፣ ገጽኦም ኣዘልዩ ኣብ ልዕሊ ገጽ ሰዶም፤ ኣቭራሃም ድማ ምስኦም እናኸደ ንምስደድዎም።",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ተቐመጡ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "እቶም ሰባት"
+    },
+    {
+      "surface": "וישקפו",
+      "gloss": "ኣዘልዩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "ሰዶም"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "ኣቭራሃም ድማ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "እናኸደ"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ምስኦም"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "ንምስደድዎም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:25:12.825414542Z",
+  "model": "glm-5.3"
+}

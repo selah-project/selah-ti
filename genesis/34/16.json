@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "⟨את⟩ ወላዲትና ንኻትኩም ንሃብ፣ ⟨את⟩ ወላዲትኩም ድማ ንሕና ንወስድ፣ ምሳኻትኩም ነብር፣ ሓደ ሕዝቢ ንኮን።",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "ንሃብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወላዲትና"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "ወላዲትና"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኻትኩም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወላዲትኩም"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ወላዲትኩም"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "ንወስድ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "ነብር"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ምሳኻትኩም"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "ንኮን"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ንሕዝቢ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:58:11.963819078Z",
+  "model": "glm-5.3"
+}

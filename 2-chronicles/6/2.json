@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኣነ ድማ ንኣኻ ቤት ሓደጋን ናይ ምንባርካ መረጋገፂ ቦታን ንዘለኣለም ሃንጸርኩ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ሃንጸርኩ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "ሓደጋ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኣኻ"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "መረጋገፂ ቦታን"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "ናይ ምንባርካ"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ንዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:56:45.518866759Z",
+  "model": "glm-5.3"
+}

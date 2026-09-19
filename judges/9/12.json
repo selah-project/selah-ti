@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እቶም እጽይታት ድማ ነቲ ወይኒ በሉ፦ «ኒ፣ ⟨את⟩ ንስኺ ብዓቐን ኣብ ልዕሊና ተኻይዲ።»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "እቶም እጽይታት"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "ነቲ ወይኒ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ኒ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንስኺ"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "ብዓቐን ተኻይዲ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ኣብ ልዕሊና"
+    }
+  ],
+  "timestamp": "2026-09-18T23:42:04.514673682Z",
+  "model": "glm-5.3"
+}

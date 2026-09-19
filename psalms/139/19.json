@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 139,
+  "translation": "እንተ ትቐትል ኤሎሃ ⟨እቲ⟩ ክፉይ፣ ተባዕታይ ደም ድማ ካባይ ርሕቡ!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "ትቐትል"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ኤሎሃ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉይ"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ተባዕታይ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "ርሕቡ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ካባይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:48.654152378Z",
+  "model": "glm-5.3"
+}

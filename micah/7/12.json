@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 7:12",
+  "book": "micah",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣብኡ መዓልቲ ክሳብኪ ድማ ይመጽእ፣ ካብ ኣሽርን ተማላላዪ ከተራትን፣ ድማ ካብ ማጽር ክሳብ ቈላባይ፣ ድማ ካብ ባሕሪ ክሳብ ባሕሪ፣ ድማ ካብ ከረ ክሳብ ከረን።",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ועדיך",
+      "gloss": "ድማ ክሳብኪ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ይመጽእ"
+    },
+    {
+      "surface": "למני",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣሽር"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "ድማ ተማላላዪ ከተራት"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ተማላላዪ"
+    },
+    {
+      "surface": "ולמני",
+      "gloss": "ድማ ካብ"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ማጽር"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ድማ ክሳብ"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ቈላባይ"
+    },
+    {
+      "surface": "וים",
+      "gloss": "ድማ ካብ ባሕሪ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ክሳብ ባሕሪ"
+    },
+    {
+      "surface": "והר",
+      "gloss": "ድማ ካብ ከረ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ክሳብ ከረ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:25:22.043460676Z",
+  "model": "glm-5.3"
+}

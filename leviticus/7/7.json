@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 7:7",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ከም ወፈያ ሓጢኣት ከምኡውን ወፈያ ኣስራት፤ ሓደ ቶራ ንኣቶም እያ፤ እቲ ኻህን ዝማርሓሉ ብኡ ንእሱ ክኸውን እዩ።",
+  "tokens": [
+    {
+      "surface": "כחטאת",
+      "gloss": "ከም ወፈያ ሓጢኣት"
+    },
+    {
+      "surface": "כאשם",
+      "gloss": "ከም ወፈያ ኣስራት"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንኣቶም"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ኻህን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ዝማርሕ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ብኡ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሱ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክኸውን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:49:09.634749532Z",
+  "model": "glm-5.3"
+}

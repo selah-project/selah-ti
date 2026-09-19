@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 82,
+  "translation": "ተነስ ኤሎሂም፣ ⟨את⟩ ምድሪ ፍለን፤ ምኽንያቱ ንስኻ ነቶም ኩሎም ኣህዛብ ትወርሶ እኻ።",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ተነስ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "ፍለን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "ትወርሶ እኻ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ነቶም ኩሎም"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ኣህዛብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:47.231617766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 74,
+  "translation": "ዝተሳቐዩ ኣይተመልስን ዝተዓበዩ፣ ድኻን ጥኹልን ስምኻ ይዛርቡ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይተመልስን ኣይ-…-ን ኣይኮነን"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ኣይተመልስን"
+    },
+    {
+      "surface": "דך",
+      "gloss": "ዝተሳቐዩ"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "ዝተዓበዩ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ድኻ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ጥኹልን"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ይዛርቡ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:36.443516247Z",
+  "model": "glm-5.3"
+}

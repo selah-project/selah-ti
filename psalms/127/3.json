@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 127,
+  "translation": "ረኣዩ፣ ውላድ ውርሻ ያህዌህ እዮም፤ ፍረ ማሕጸር ዋጋ እዩ።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ረኣዩ"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ውርሻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ዋጋ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ፍረ"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "ማሕጸር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:03.607616360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "«ተረዳእኩ — ኩሉ ትኽእል ኢኻ፤ ውሱን ኣሳቢ ኸኣ ካባኻ ኣይተኸልእን።»",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "ተረዳእኩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ትኽእል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "ይተኸልእ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ካባኻ"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "ኣሳቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:26:01.838768678Z",
+  "model": "glm-5.3"
+}

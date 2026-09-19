@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኤሎሂም ብረኸቦም እናበለ፦ «ተፈኩሱ፣ ብዝሑ፣ ⟨את⟩ ማይ ኣብቶም ባሕርታት ምሉ፣ ዑፍ ድማ ኣብ ምድሪ ይብዝሕ።»",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ብረኸቦም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ነቶም",
+      "marks": "ነቶም (ኣብ ክንዲ אתם)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "ተፈኩሱ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ብዝሑ"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ምሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማይ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ኣብቶም ባሕርታት"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "ዑፍ ድማ"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "ይብዝሕ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:30:09.331459748Z",
+  "model": "glm-5.3"
+}

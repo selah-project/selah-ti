@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ብጥበብ ኤል ይሃንጽ፣ ብምርዳእ ድማ ይትከል።",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "ብጥበብ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ይሃንጽ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "ድማ ብምርዳእ"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "ይትከል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:55:07.259029711Z",
+  "model": "glm-5.3"
+}

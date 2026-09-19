@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ንኽነብርዮ ኣብ ሓበን ተመራጺታትካ፣ ንኽደልዩ ኣብ ደስቃ ብሔራትካ፣ ንኽትሓበሩ ምስ ቍርማኻ።",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "ንኽነብርዮ"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "ኣብ ሓበን"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "ተመራጺታትካ"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "ንኽደልዩ"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "ኣብ ደስቃ"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "ብሔራትካ"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "ንኽትሓበሩ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ቍርማኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:57.108588502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 10:21",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ቅድሜኡ ከድኩ ከይምለስኩን፣ ናብ ምድሪ ጸልማትን ጥላ ሞትን እየ።",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "ቅድሜኡ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ከድኩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ከይ-…-ን"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ምለስኩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጸልማት"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "ጥላ ሞት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:07:34.177187541Z",
+  "model": "glm-5.3"
+}

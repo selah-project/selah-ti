@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ያዕቆቭ ድማ በሎ፦ «ሎሚ ነዚ ⟨את⟩ በክርነትኻ ንኹ ስዒበኒ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "ስዒበኒ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ሎሚ ነዚ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በክርነትኻ"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "በክርነትኻ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኹ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:48:47.440204478Z",
+  "model": "glm-5.3"
+}

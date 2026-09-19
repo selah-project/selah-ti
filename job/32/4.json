@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ኤልሁአ ድማ ምስ ⟨את⟩ ኢዮብ ብቃላት ጸነሐ፣ ምኽንያቱ እቶም ብመዓልታት ካብኡ ዝዓበዩ እዮም።",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "ኤልሁአ"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "ጸነሐ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢዮብ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኢዮብ"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ብቃላት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ዝዓበዩ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እዮም"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "ብመዓልታት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:20:41.504457958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ምስ እቶም እቲ ብርሕታት ኣብ ኢዶም ዝተዋህበ ንክህቡ ንተጋደልቲ ናይቲ ስራሕ ሰባት ድማ ሕሳብ ኣይተገብሩን፣ ምኽንያቱ ብኣምና እዮም ዝሰርሑ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ይሕሱቡን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ሰባት"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "እቶም ሰባት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ይህቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ብርሕታት"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "እቲ ብርሕታት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ኢዶም"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ንክህቡ"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "ንተጋደልቲ"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ናይቲ ስራሕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "ብኣምና"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ዝሰርሑ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:26:21.130131461Z",
+  "model": "glm-5.3"
+}

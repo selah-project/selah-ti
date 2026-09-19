@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ያህዌህ፣ ዝቑላት ምዃኖም ዝትኽእሉ እየ ምስ ኣምነካ፤ ብቐጥታ ከኣ ተማስደድካኒ።",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "እየ ምስ ኣምነካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ዝትኽእሉ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ዝቑላት ምዃኖም"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ዝትኽእሉ"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "ብቐጥታ"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "ተማስደድካኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:13.005646407Z",
+  "model": "glm-5.3"
+}

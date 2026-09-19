@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "እቲ ሕዝቢ ድማ ንየሆሹዋዕ በሎ፦ «ኣይኮነን፤ ⟨את⟩ ያህዌህ ነክድኦ ኢና።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ነክድኦ ኢና"
+    }
+  ],
+  "timestamp": "2026-09-18T23:34:19.042567844Z",
+  "model": "glm-5.3"
+}

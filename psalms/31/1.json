@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ንመሪሒ በዓል ዜማ መዝሙር ናይ ዳዊድ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንመሪሒ በዓል ዜማ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:36.479765372Z",
+  "model": "glm-5.3"
+}

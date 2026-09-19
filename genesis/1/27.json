@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኤሎሂም ድማ ⟨את⟩ ሰብ ብኣምሳሉ ፈጠረ፤ ብኣምስል ኤሎሂም ⟨את⟩ ንሱ ፈጠሮ፤ ወዲን ጓልን ⟨את⟩ ንሳቶም ፈጠሮም።",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "ፈጠረ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰብ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "ብኣምሳሉ"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "ብኣምስል"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ፈጠረ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ጓል"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ፈጠረ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:31:51.001289759Z",
+  "model": "glm-5.3"
+}

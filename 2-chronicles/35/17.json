@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ኣብ እቲ እዋን እቲ ውላድ እስራኤል ዝተረከቡ ⟨את⟩ ፋሲካን ⟨את⟩ በዓል ማጽኦትን ሰባት መዓልታት ገበሩ።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "ዝተረከቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፋሲካ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ፋሲካ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ኣብ እዋን"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "በዓል"
+    },
+    {
+      "surface": "חג",
+      "gloss": "በዓል"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ማጽኦት"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    }
+  ],
+  "timestamp": "2026-09-19T08:20:56.361520582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኤሎሂም ⟨את⟩ ራቕዓ ገበረ፤ ራቕዓ ትሕቲ ዘሎ ማይን ራቕዓ ላዕሊ ዘሎ ማይን ብመንጎኦም ፈለየ፤ ከምኡውን ኮነ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራቕዓ"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "ራቕዓ"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "ፈለየ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ብመንጎ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዘሎ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "ራቕዓ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ንብመንጎን"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዘሎ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ላዕሊ"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "ራቕዓ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡውን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:30:43.100511159Z",
+  "model": "glm-5.3"
+}

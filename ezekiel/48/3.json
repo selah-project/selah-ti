@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "ኣብ ዶብ ኣሸር ጥራይ፣ ካብ ምብራቓይ ወገን ክሳብ ምዕራባይ ወገን፣ ናፍታሊ ሓደ እዩ።",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ዶብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ኣሸር"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ካብ ወገን"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "ምብራቕ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ወገን"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ምዕራብ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ናፍታሊ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:03:48.739049291Z",
+  "model": "glm-5.3"
+}

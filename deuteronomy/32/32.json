@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 32:32",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ስለ ካብ ጋባይ ስዶም እዩ ጋባይኦም፣ ካብ መሬታት ዓሞራ ከምኡውን፤ ዑላቲሆም ዑላቲ መርዚ እዮም፣ ኣኽሊላቶም ድማ ⟨ንኣቶም⟩ መራር እዮም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "ካብ ጋባይ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "ስዶም"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "ጋባይኦም"
+    },
+    {
+      "surface": "ומשדמת",
+      "gloss": "ከምኡውን ካብ መሬታት"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "ዓሞራ"
+    },
+    {
+      "surface": "ענבמו",
+      "gloss": "ዑላቲሆም"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "ዑላቲ"
+    },
+    {
+      "surface": "רוש",
+      "gloss": "መርዚ"
+    },
+    {
+      "surface": "אשכלת",
+      "gloss": "ኣኽሊላቶም"
+    },
+    {
+      "surface": "מררת",
+      "gloss": "መራር"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨ንኣቶም⟩"
+    }
+  ],
+  "timestamp": "2026-09-18T23:13:01.383954235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ወዲኡ ቀዳማይ ወዲ ዓብዶን፣ ጽሩርን ቂሽን በዓልን ናዳብን ነይሮም።",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ወዲኡ"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ቀዳማይ ወዲ"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "ዓብዶን"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ጽሩር"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "ቂሽ"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "በዓል"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "ናዳብ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:34:57.650625653Z",
+  "model": "glm-5.3"
+}

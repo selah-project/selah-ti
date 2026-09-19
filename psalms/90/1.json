@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 90,
+  "translation": "ጸሎት ናይ ሞሸ፣ ሰብ ኤሎሂም። ኣዶናይ፣ ማዕዶ ንስኻ ንሕና ነይርካ፣ ኣብ ወዲትን ወዲትን።",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "ጸሎት"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ናይ ሞሸ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ማዕዶ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ነይርካ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "ኣብ ወዲት"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ወዲትን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:33.314934885Z",
+  "model": "glm-5.3"
+}

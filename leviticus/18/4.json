@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "⟨את⟩ ፍትሓተይ ትገብሩ፣ ⟨ואת⟩ ሕግታተይን ትሓልዉ፣ ኣብኦም ንኽትከዱ፤ ኣነ ያህዌህ ኤሎሂምኩም እየ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍትሓተይ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ፍትሓተይ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ትገብሩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሕግታተይ"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ሕግታተይ"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ትሓልዉ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ንኽትከዱ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ኣብኦም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:59:46.551748361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ነቶም ክትዳልዎም ከም ዝኾነ ቁጽር፣ ከምኡ ትግብርዎ ንውልቂ ብቁጽር ዘመዶም።",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "ከም ዝኾነ ቁጽር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ክትዳልዎም"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ትግብርዎ"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ንውልቂ"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "ብቁጽር ዘመዶም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:26:32.340896199Z",
+  "model": "glm-5.3"
+}

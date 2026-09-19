@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ናትካ ጥራይ ይኹኑ፣ ንዑራት ድማ ምስ ⟨את⟩ኻ ኣይኮንን።",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ይኹኑ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ናትኻ ጥራይ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ከምኡውን የለን"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "ንዑራት"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ኻ",
+      "marks": "ምስ ኣኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:42:33.270366235Z",
+  "model": "glm-5.3"
+}

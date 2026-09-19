@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 15:19",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "«ኪዳን ኣብ መንጎይን ኣብ መንጎኻን፣ ኣብ መንጎ ኣቦይን ኣቦኻን ⟨is⟩ ኣሎ፤ ረኣይ፣ ሽኻድ ቐይሕን ወርቒን ሰደዕኩ ኣብኻ፤ ኪዳንካ ⟨את⟩ ምስ ባዕሻ ንጉስ እስራኤል ሓሪርዎ፣ ንሱ ድማ ካባይ ይወጸሕ።»",
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ኣብ መንጎይ"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ኣብ መንጎኻ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦይ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ኣቦኻ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ረኣይ"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ሰደዕኩ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ሽኻድ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ቐይሕ"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ወርቒ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ከዲ"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "ሓሪር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኪዳንካ"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "ኪዳንካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ምስ",
+      "marks": "ባዕሻ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ባዕሻ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "ይወጸሕ"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ካባይ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:05:48.611986697Z",
+  "model": "glm-5.3"
+}

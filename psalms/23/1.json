@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "መዝሙር ናይ ዳዊድ። ያህዌህ ኣርሚ እዩ፤ ዝጎድል ኣይኮነን።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "ኣርሚ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "ኮነን"
+    }
+  ],
+  "timestamp": "2026-09-19T09:01:05.266572055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "እኳ ከም እከድን ኣብ ለዓሊ ቅብዓት ሞት ኣይንፈርሕን እየ ጕርፊ፣ ስለዚ ንስኻ ምስ እተይ ኢኻ፤ መዓትካን መወፅእትካን ንሳቶም ይጽንዑኒ እዮም።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እኳ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "እከድን"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "ኣብ ለዓሊ"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "ቅብዓት ሞት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "እንፈርሕን"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ጕርፊ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ምስ እተይ"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "መዓትካ"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "ንመወፅእትካን"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "ይጽንዑኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:00:38.204083075Z",
+  "model": "glm-5.3"
+}

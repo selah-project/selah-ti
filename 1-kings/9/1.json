@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ሽሎሞ ምስ ወደኣ ንምሕናጽ ⟨את⟩ ቤት ያህዌህን ⟨את⟩ ቤት እቲ ንጉስን ⟨את⟩ ኩሉ ምንዋዕ ሽሎሞ ዝደለዮ ንምግባር፣ ኾነ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኾነ"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "ምስ ወደኣ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ንምሕናጽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት ያህዌህ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት እቲ ንጉስ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ምንዋዕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "ምንዋዕ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ደለዮ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ንምግባር"
+    }
+  ],
+  "timestamp": "2026-09-19T00:56:28.789295448Z",
+  "model": "glm-5.3"
+}

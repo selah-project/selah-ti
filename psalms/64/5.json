@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 64,
+  "translation": "ንምድምዲ ኣብ ምሕብእቲ ንእተኛታት ክድምዩ — ብሓግሴ ክድምይዎ እዮም፣ ኣይንፈርሕን እዮም።",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "ንምድምዲ"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ኣብ ምሕብእቲ"
+    },
+    {
+      "surface": "תם",
+      "gloss": "ንእተኛታት"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ብሓግሴ"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "ክድምይዎ እዮም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "ክፈርሑ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:41.536905827Z",
+  "model": "glm-5.3"
+}

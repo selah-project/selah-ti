@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ምስ ⟨את⟩ ሓካራት እናኸደኻ ትሁል ትከውን፤ ብሎራታት ምስ ምራርሕ ከኣ ይእረኾ እዩ።",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "ምስ ምኻድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓካራት"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ሓካራት"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ትሁል ኮይና"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ምስ ምራርሕ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ብሎራታት"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "ይእረኾ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:48:02.265764448Z",
+  "model": "glm-5.3"
+}

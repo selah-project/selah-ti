@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 21:5",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ንእቲ ንጉስ ድማ በሉ፦ እቲ ሰብ ዝኸልኻናን ብዛዕባና ዝተሓሰበናን ስለ ዝኾነ፣ ኣብ ዅሉ ዶባ እስራኤል ካብ ምቕማጥ ተሸጢርና ኢና።",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "ዝኸልኻና"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ንዝ"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ዝተሓሰበ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ብዛዕባና"
+    },
+    {
+      "surface": "נשמדנו",
+      "gloss": "ተሸጢርና"
+    },
+    {
+      "surface": "מהתיצב",
+      "gloss": "ካብ ምቕማጥ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ዅሉ"
+    },
+    {
+      "surface": "גבל",
+      "gloss": "ዶባ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T08:43:20.138634529Z",
+  "model": "glm-5.3"
+}

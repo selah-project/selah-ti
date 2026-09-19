@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 1:3",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "መን ካብኹም ካብ ዅሉ ሕዝቡ እዩ? ኤሎሂሙ ምስኡ ይኹን፣ ናብ የሩሻላይም እታ ኣብ ይሁዳ ዘላ ይወጽእ፣ ⟨את⟩ ቤት ያህዌህ ኤሎሂም እስራኤል ይህናጾ — ንሱ እቲ ኤሎሂም እቲ ኣብ የሩሻላይም ዘሎ እዩ።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ካብኹም"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ዅሉ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ሕዝቡ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ይኹን"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ኤሎሂሙ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስኡ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ይወጽእ"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ናብ የሩሻላይም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ኣብ ይሁዳ"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ይህናጾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "እቲ ኤሎሂም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ኣብ የሩሻላይም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:06:31.755039343Z",
+  "model": "glm-5.3"
+}

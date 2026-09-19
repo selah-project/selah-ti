@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 31:13",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "እንተ ሓሊምኩ ሕጊ ኣገልኣልኩ ወይ ኣገልጋሊተይ፣ ኣብ ጭብጦም ምስኣይ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "ሓሊምኩ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ሕጊ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልኣልኩ"
+    },
+    {
+      "surface": "ואמתי",
+      "gloss": "ኣገልጋሊተይን"
+    },
+    {
+      "surface": "ברבם",
+      "gloss": "ኣብ ጭብጦም"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ምስኣይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:20:13.340990630Z",
+  "model": "glm-5.3"
+}

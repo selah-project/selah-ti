@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 92,
+  "translation": "ከም እቲ ረጀም ቀርኒ ድማ ኣረዊትካ፤ ብትሪሽ ዘተ ተቐብአኽ።",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "ኣረዊትካ"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "ከም ረጀም"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "ቀርኒ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ተቐብአኽ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ብዘተ"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ትሪሽ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:33.773642363Z",
+  "model": "glm-5.3"
+}

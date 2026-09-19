@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣብ ድሕሪ እዚ ኣይዮብ ⟨את⟩ ኣፉ ከፊተ፣ ⟨את⟩ ነቲ መዓልቱ ድማ ሓቐቖ።",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "ኣብ ድሕሪ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ከፊተ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኣይዮብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣፉ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ኣፉ"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "ሓቐቖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ መዓልቱ"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ነቲ መዓልቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:01:41.553185890Z",
+  "model": "glm-5.3"
+}

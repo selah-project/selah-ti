@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 146,
+  "translation": "ያህዌህ ⟨את⟩ ኣጀንቢቲ ይጠብቕ፣ ናጽራኤን ሰበይቲ ዝተወደበትን ይደግፍ፣ ንመንገድ ኣበይቲ ድማ የጠማዕዕ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ይጠብቕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣጀንቢቲ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "ኣጀንቢቲ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ናጽራኤ"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "ሰበይቲ ዝተወደበትን"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "ይደግፍ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ንመንገድ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኣበይቲ"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "የጠማዕዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:38:47.901222995Z",
+  "model": "glm-5.3"
+}

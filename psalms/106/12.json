@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ኣብ ቃላቱ ኣመኑ፤ ምስጋናኡ ድማ በሉ ዜማ።",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "ኣመኑ"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "ኣብ ቃላቱ"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "በሉ ዜማ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ምስጋናኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:26.489868548Z",
+  "model": "glm-5.3"
+}

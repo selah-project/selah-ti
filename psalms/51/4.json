@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 51,
+  "translation": "ብብዝሒ ካብ ዓይነይ ጸምነኒ፣ ካብ ሓጢኣተይ ድማ ኣንጽሐኒ።",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "ብብዝሒ"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "ጸምነኒ"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "ካብ ዓይነይ"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "ካብ ሓጢኣተይ"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "ኣንጽሐኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:19.047029365Z",
+  "model": "glm-5.3"
+}

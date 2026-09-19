@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 150,
+  "translation": "ኣመስግኑዎ ብከርንሶ ሽወፈር፣ ኣመስግኑዎ ብነባልን ብክኖርን።",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ኣመስግኑዎ"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "ብከርንሶ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ሽወፈር"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ኣመስግኑዎ"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ብነባል"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ብክኖር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:38:41.395210222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 1:7",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ቃላቱ ምስ ዮኣብ ወዲ ጽሩያን ምስ ኣብያታር ካህንን ነበሩ፤ ንሳቶም ድማ ኣብ ድሕሪ ኣዶኒያህ ሓወዩ።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ነበሩ"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ቃላቱ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮኣብ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ጽሩያ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ምስ…ን"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "ኣብያታር"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "ויעזרו",
+      "gloss": "ሓወዩ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ኣብ ድሕሪ"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "ኣዶኒያህ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:44:46.394784128Z",
+  "model": "glm-5.3"
+}

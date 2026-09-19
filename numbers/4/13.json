@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ነቲ ⟨את⟩ መሥዋዕቲ እቲ ክወጽህዎ እዮም፣ ድማ ኣብ ልዕሊ እቲ ⟨እቲ⟩ ብስናት ኣርገማን ክዛርዝዎ እዮም።",
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "ክወጽህዎ እዮም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ መሥዋዕቲ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "እቲ መሥዋዕቲ"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ክዛርዝዎ ድማ እዮም"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊ እቲ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ብስናት"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "ኣርገማን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:15:00.086568050Z",
+  "model": "glm-5.3"
+}

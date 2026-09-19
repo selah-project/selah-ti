@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 7:5",
+  "book": "amos",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣነ ድማ እናበልኩ፦ «ኣዶናይ ያህዌህ፣ ደው ሓብእ፤ ማዕ ያዕቆቭ ክቕድም፧ ምኽንያቱ ⟨እዩ⟩ ንእሽቶ።»",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "እናበልኩ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ሓብእ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ደው"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማዕ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ክቕድም"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ንእሽቶ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨እዩ⟩"
+    }
+  ],
+  "timestamp": "2026-09-19T04:19:32.614395636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 124,
+  "translation": "ድሕሪኡ ሕያው ኮይና ክላሕኾና ነይሩ፣ ቍጠዮም ምስ ተነድደና።",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "ድሕሪኡ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "ክላሕኾና ነይሩ"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "ምስ ተነድደ"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "ቍጠዮም"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ኣብ ልዕሊና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:00.912266953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ዳዊድ ድማ ኣብ እቲ መዓልቪ ⟨את⟩ ያህዌህ ተፈሪሩ፣ «ታቑት ያህዌህ ከመይ ክመጽእ ናባይ እዩ?» በለ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ተፈሪሩ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቪ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ከመይ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ክመጽእ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ናባይ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቑት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:25:37.949111664Z",
+  "model": "glm-5.3"
+}

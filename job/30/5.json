@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 30:5",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ካብ መንጎ ይትጓርሹ ኣለዉ፣ ከም ሓረቃይ ኣብ ድሕሪኦም ይጽውዑ ኣለዉ።",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "גו",
+      "gloss": "መንጎ"
+    },
+    {
+      "surface": "יגרשו",
+      "gloss": "ይትጓርሹ ኣለዉ"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "ይጽውዑ ኣለዉ"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ኣብ ድሕሪኦም"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "ከም ሓረቃይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:18:02.248306774Z",
+  "model": "glm-5.3"
+}

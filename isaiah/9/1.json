@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እቲ ኣብ ጸልማት ዝኾነዮ ሕዝቢ ብዙሕ ብርሃን ረኣዩ፤ ኣብ ምድሪ ጽልማት-ሞት ዝቐመጡ እቶም ብርሃን ኣብ ላዕሊሎም በርበሐ።",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ዝኾነዮ"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ኣብ ጸልማት"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ረኣዩ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ዝቐመጡ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "ጽልማት-ሞት"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "በርበሐ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ኣብ ላዕሊሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:46:40.801206354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 61,
+  "translation": "ንመበገሲ ብዜማ እትተኮር ናይ ዳዊድ ብዛዕባ ዘፍጠረ መዝሙር።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንመበገሲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብዜማ እትተኮር"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "ብዜማ እትተከርን ዘፍጠረስ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:47.366576638Z",
+  "model": "glm-5.3"
+}

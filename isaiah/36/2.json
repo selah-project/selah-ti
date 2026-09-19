@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 36:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ንጉስ ኣሦር ድማ ⟨את⟩ ራብሻቄ ካብ ላቒሽ ናብ የሩሻላይም ናብ ንጉስ ሕዝቅያስ ብቐሊሉ ሰራዊት ሰደደ፤ ንሱ ድማ ኣብ ቱናል እታ ኣውራ በዳ ማይ፣ ኣብ መስመር ሜዳ ኣጥቢያ ተቐመጠ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣሦር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ራብሻቄ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ራብ-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "ሻቄ"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "ላቒሽ"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ሕዝቅያስ"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ቐሊሉ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "בתעלת",
+      "gloss": "ኣብ ቱናል"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "በዳ ማይ"
+    },
+    {
+      "surface": "העליונה",
+      "gloss": "ኣውራ"
+    },
+    {
+      "surface": "במסלת",
+      "gloss": "ኣብ መስመር"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ሜዳ"
+    },
+    {
+      "surface": "כובס",
+      "gloss": "ኣጥቢያ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:07:26.926009955Z",
+  "model": "glm-5.3"
+}

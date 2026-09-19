@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "የሪሖ ድማ ብደምበ ውላደ እስራኤል ተቓጸዓ ተዓጽዋ ነበረት፤ ዝወጽእ የለን፣ ዝኣቱ ድማ የለን።",
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "የሪሖ"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "ተቓጸዓ"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "ተዓጽዋ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ብደምበ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "ዝወጽእ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ድማ የለን"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ዝኣቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:19:02.651111168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ሃብቲ ኣበይቲ ከተማ ናይ ሒዶ እዩ፤ ጥፍኣት ድሃታት ግን ጥሑም እዮም።",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ሃብቲ"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ኣበይቲ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "ናይ ሒዶ"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "ጥፍኣት"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ድሃታት"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "ጥሑም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:46:27.496523066Z",
+  "model": "glm-5.3"
+}

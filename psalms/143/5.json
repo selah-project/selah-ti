@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 143,
+  "translation": "ዝዝከር ኣብ መዓልታት ቀዳም፣ ኣብ ኩሉ ግብሪኻ እናሓሰብኩ፣ ኣብ ስራሕ ኢድኻን እናጎበንኩ እየ።",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "ኣስተየኩ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ቀዳም"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "እናሓሰብኩ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ግብሪኻ"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "ኣብ ስራሕ"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ኢድኻ"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "እናጎበንኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:56.805327768Z",
+  "model": "glm-5.3"
+}

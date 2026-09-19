@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ነቶም ባድታት ⟨את⟩ ኣብ ቲሙታት ኣብ ጎናይ እቲ ታቦት ኣእቲዉካ፣ ነቲ ታቦት ⟨את⟩ ብኣዊ ንክድገፉ።",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "ኣእቲዉካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ባድታት"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ነቶም ባድታት"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "ኣብ ቲሙታት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "ኣብ ጎናይ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "እቲ ታቦት"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ንክድገፉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ታቦት"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ነቲ ታቦት"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ብኣዊ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:31:26.890773249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ነቲ ካልኣይ ስሚ እውን ⟨את⟩ ኣፍራይም በሎ፤ «ኤሎሂም ድማ ኣብ ምድሪ ጽድቓይ ኣፈራኒ» ክብል።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "השני",
+      "gloss": "እቲ ካልኣይ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኣፍራይም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "ኣፈራኒ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ጽድቓይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:02:20.167289284Z",
+  "model": "glm-5.3"
+}

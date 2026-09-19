@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ኣይዮብ ድማ ኸሣራዊ ብዝኾነ ብመዓልታት ዝተሓመለ ምስ ኮነ ሞተ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኣይዮብ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ኸሣራዊ ብዝኾነ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ዝተሓመለ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ብመዓልታት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:25:13.128263094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ንሰላም እናጸበይና ኢና፣ ጽቡቕ ግና የለን፤ ንእዋን ሕክምና እናጸበይና ኢና፣ ኣሮ ፍርሃት እዩ።",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "እናጸበይና"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ንሰላም"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ድማ የለን"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡቕ"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ንእዋን"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "ሕክምና"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣሮ"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "ፍርሃት"
+    }
+  ],
+  "timestamp": "2026-09-19T02:37:05.061393608Z",
+  "model": "glm-5.3"
+}

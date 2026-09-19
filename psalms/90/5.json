@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 90,
+  "translation": "ብሓፍለት ዝሓልፎም፤ ከም ድቃስ ኮይኖም፤ ኣብ ቍርሕ ከም ሳር ይቐይር።",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "ዝሓልፎም"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ድቃስ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ኮይኖም"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ኣብ ቍርሕ"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ከም ሳር"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "ይቐይር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:43.674858046Z",
+  "model": "glm-5.3"
+}

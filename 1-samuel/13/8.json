@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ንሸውዓተ መዓልታት ናብቲ ሳሙኤል ⟨ዝቐረቦ⟩ ውዒሉ፤ ሳሙኤል ግና ናብ ጊልጓል ኣይመጸን፣ እቲ ህዝቢ ድማ ካብ ድሕሪኡ ተፈልሰ።",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "ውዒሉ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "ናብቲ ⟨ዝቐረቦ⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጸን"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሳሙኤል"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ጊልጓል"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "ተፈልሰ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ካብ ድሕሪኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:01:42.144934208Z",
+  "model": "glm-5.3"
+}

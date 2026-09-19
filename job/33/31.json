@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 33:31",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ኣይዮብ ተጠንቀቕ፣ ሰምዐኒ፤ ስቕት፣ ኣነ እውን ክዛረብ እየ።",
+  "tokens": [
+    {
+      "surface": "הקשב",
+      "gloss": "ተጠንቀቕ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኣይዮብ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-ኒ"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "ስቕት"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ኣነ እውን"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ክዛረብ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:20:40.478422622Z",
+  "model": "glm-5.3"
+}

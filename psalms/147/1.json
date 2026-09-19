@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 147,
+  "translation": "ያህ ስብሕዉ ምኽንያቱ ንኤሎሂምና ምዝማር ብጣዕሚ ጽቡቕ እዩ፣ ምኽንያቱ ትምህርቲ ስብሕና፡ መስማዒትን ዓቢን እያ።",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ስብሕዉ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡቕ እዩ"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ምዝማር"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ንኤሎሂምና"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ብጣዕሚ መስማዒት"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ትምህርቲ ስብሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:12.591117456Z",
+  "model": "glm-5.3"
+}

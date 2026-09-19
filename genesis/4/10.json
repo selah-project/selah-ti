@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "በሎ ድማ፦ «እንታይ ገበርካ? ቓል ደም ኣሕዋትካ ካብ ምድሪ ናባይ ይጽውዑ እዩ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ገበርካ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ኣሕዋትካ"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "ይጽውዑ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ናባይ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:30:54.336561301Z",
+  "model": "glm-5.3"
+}

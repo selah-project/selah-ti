@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኣቭራሃም ምስ ሰበይቱን ምስ ኩሉ ዝኾነ ናቱን ሎጥ እውን ምስኡ ካብ ሚጽራይም ወጸ ናብ ደቡብ።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ካብ ሚጽራይም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ምስ ሰበይቱን"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ምስ ኩሉን ዝኾነ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ናቱ"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "ሎጥ እውን"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስኡ"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "ናብ ደቡብ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:38:30.321864650Z",
+  "model": "glm-5.3"
+}

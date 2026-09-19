@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ኩሉ ህዝቢ ውላድ እስራኤል ድማ ኣብ ምድረ በዳ ኣብ ሞሸን ኣብ ኣሕሮንን ኰነበሩ።",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "ኰነበሩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሕሮን"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድረ በዳ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:23:09.939194592Z",
+  "model": "glm-5.3"
+}

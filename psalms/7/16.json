@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ቦታ ቆፅረ ጎርምሶ ድማ፤ ኣብ ሓደጋ እቲ ዝገበሮ ድማ ይወድቕ።",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "ቆፅረ"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "ጎርምሶ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ይወድቕ"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "ኣብ ሓደጋ"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "ዝገበሮ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:09.671672689Z",
+  "model": "glm-5.3"
+}

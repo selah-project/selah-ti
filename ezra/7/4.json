@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ወዲ ዘረሕያህ፣ ወዲ ዕዚይ፣ ወዲ ቡቅይ።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "ዘረሕያህ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ዕዚይ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ቡቅይ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:09:51.579396566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኣሕዮተይ ከም ወሓዲ በደልዎ፣ ከም ስምጢ ወሓዲታት ድማ ይሓልፉ።",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "ኣሕዮተይ"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "በደልዎ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ወሓዲ"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "ከም ስምጢ"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "ወሓዲታት"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "ይሓልፉ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:05:12.672585531Z",
+  "model": "glm-5.3"
+}

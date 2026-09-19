@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 121,
+  "translation": "ያህዌህ ካብ ኹሉ ክፉት ይኸልኻ፤ ⟨את⟩ ነፍሲኻ ይኸልላ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "ይኸልኻ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኹሉ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉት"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ይኸልሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሲኻ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ነፍሲኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:52.470021056Z",
+  "model": "glm-5.3"
+}

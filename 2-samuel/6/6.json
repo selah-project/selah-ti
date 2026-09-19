@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 6:6",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኽሳብ መሮጽ ናብኮን ምስ በጽሑ፣ ዑዛ ናብ ታቦት ኤሎሂም ኢዱ ዘረጸ ነቲ ታቦት ኸኣ ተዛኸበ፣ እተን ከሎታት ስለ ዝዓነኩሰት።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ምስ በጽሑ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ኽሳብ"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "መሮጽ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ናብኮን"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ዘረጸ"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ዑዛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "ተዛኸበ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ነቲ ታቦት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "ዝዓነኩሰት"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "እተን ከሎታት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:25:29.263939234Z",
+  "model": "glm-5.3"
+}

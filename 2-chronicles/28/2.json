@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 28:2",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ድማ ኣብ መገዲታት ነገስቲ እስራኤል ከደ፣ ከምኡውን ኣሃዞታት ተበጻሕቲ ንባዓላት ገበረ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ኣብ መገዲታት"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ነገስቲ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "מסכות",
+      "gloss": "ኣሃዞታት ተበጻሕቲ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "ንባዓላት"
+    }
+  ],
+  "timestamp": "2026-09-19T08:13:22.218281466Z",
+  "model": "glm-5.3"
+}

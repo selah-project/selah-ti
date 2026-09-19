@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ንኣነ ⟨את⟩ ናብ ኣፍ እቲ ገበታ ኣእቲኒ፣ ኣነ ድማ ረኣይኩ፣ ኣሮ ሓደ ትሕቲ ኣብ እቲ ግዳይ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ኣእቲኒ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ኣነ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣፍ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ገበታ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ረኣይኩ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣሮ"
+    },
+    {
+      "surface": "חר",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "ኣብ ግዳይ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:24:30.402496552Z",
+  "model": "glm-5.3"
+}

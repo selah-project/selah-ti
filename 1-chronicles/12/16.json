@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "እዚኦም እዮም እቶም ⟨את⟩ ዮርዳኖስ ኣብ ቀዳማይ ወርሒ እናተዓረፉ ዘለዉ፣ ንኹሉ ጫፋቱ እናምልኣ እንከሎ፣ ⟨את⟩ ኹሉ ኩርዓት ናብ ምብራቕን ናብ ምዕራብን ኣሓለፎም።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እዮም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "እናተዓረፉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮርዳኖስ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ኣብ ወርሒ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "እቲ ቀዳማይ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ከምኡውን ንሱ"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "እናምልኣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "ጫፋቱ"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "ኣሓለፎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ ኩርዓት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "ኩርዓት"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "ናብ ምብራቕ"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "ከምኡውን ናብ ምዕራብ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:41:39.852471303Z",
+  "model": "glm-5.3"
+}

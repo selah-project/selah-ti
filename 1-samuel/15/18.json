@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ያህዌህ ድማ ኣብ መገዲ ሰደኸካ በሎ፦ «ኪድ፣ ⟨את⟩ ሓጢያተኛታት ⟨את⟩ ዓማሌቅ ብወፈያ ተዓወት፣ ምሳኦም ተዓወት ክሳብ ምውዳኦም።»",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "ሰደኸካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መገዲ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ኪድ"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "ብወፈያ ተዓወት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓጢያተኛታት"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "ሓጢያተኛታት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓማሌቅ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ዓማሌቅ"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "ተዓወት"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ምሳኦም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "ምውዳኦም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ንሳቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:07:39.135308728Z",
+  "model": "glm-5.3"
+}

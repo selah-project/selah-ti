@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 149,
+  "translation": "ምኻን ያህዌህ ብሕዝቢኡ ይሓጕር፤ ውሑሳት ብመድሓኒት የበለጸሎም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኻን"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "ይሓጕር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "ብሕዝቢኡ"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "የበለጸሎም"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ውሑሳት"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "ብመድሓኒት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:11.089142183Z",
+  "model": "glm-5.3"
+}

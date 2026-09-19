@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "እቲ ንጉስ ከደ ኩሉ ቤቱ ኣብ እግራቱ፤ እቲ ንጉስ ድማ ኣቲሉ ⟨את⟩ ዎስተ ሰበይቲ ኣሻምተ ነቲ ቤት ንምቕበል ሓዲጉ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ኣብ እግራቱ"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ሓዲጉ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዎስተ ሰበይቲ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዎስተ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "ኣሻምተ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ንምቕበል"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ነቲ ቤት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:32:53.080812197Z",
+  "model": "glm-5.3"
+}

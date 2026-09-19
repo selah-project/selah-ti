@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ብገጺ ልዕሊ ካልኦት ኣማልኽቲ ንርእኻ ክህልወካ ኣይኮነን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክህልው"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንርእኻ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኣማልኽቲ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ካልኦት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ልዕሊ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ብገጺ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:24:57.215770615Z",
+  "model": "glm-5.3"
+}

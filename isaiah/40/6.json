@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ድምጺ እዩ ዝብል፦ «ጸውዕ።» ንሱ ድማ፦ «እንታይ ክጸውዕ፧» በለ። «ኩሉ ስጉም ደሙር እዩ፣ ሔሴዱ ድማ ከም ኩሉሉማት ደገ እዩ።»",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ድምጺ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ዝብል"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ጸውዕ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "በለ፣"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ክጸውዕ፧"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ስጉም"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ደሙር"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ንኹሉ ድማ፣"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "ከም ኩሉሉማት"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ደገ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:08:17.401999543Z",
+  "model": "glm-5.3"
+}

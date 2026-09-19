@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 100,
+  "translation": "ያህዌህን ⟨את⟩ ብደስታ ኣገልግሉ፤ ብዜማ ቅድሜቱ ኣቱ።",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "ኣገልግሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ብደስታ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ኣቱ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ቅድሜቱ"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "ብዜማ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:01.491396674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "ከምኡውን ውላደ ኣዳምን ከምኡውን ውላደ ሰብን፣ ኣብ ሓደ ሃብታምን ጥኹዓን።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ኣዳም"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ኣብ ሓደ"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ሃብታም"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ጥኹዓን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:00:11.274945387Z",
+  "model": "glm-5.3"
+}

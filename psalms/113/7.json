@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 113,
+  "translation": "ካብ ኣፍራስ እቲ ደሃ የቐምጦ፣ ካብ ኣፍሳ እቲ ጎደና ያሕሎ።",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "የቐምጦ"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "ካብ ኣፍራስ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ደሃ"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "ካብ ኣፍሳ"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ያሕሎ"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ጎደና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:31.900276386Z",
+  "model": "glm-5.3"
+}

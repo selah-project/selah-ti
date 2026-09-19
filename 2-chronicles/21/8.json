@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 21:8",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ኣብ መዓልታቱ ኤዱም ካብ ታሕቲ ኢድ ይሁዳ ተቓለሰ፣ ኣቦም ንጉስ ኣቕዲሞም ነገሱ።",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "ኣብ መዓልታቱ"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ተቓለሰ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዱም"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ካብ ታሕቲ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "ኣቕዲሞም ነገሱ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ኣቦም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:10:32.703284001Z",
+  "model": "glm-5.3"
+}

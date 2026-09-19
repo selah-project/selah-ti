@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ኣብኡ ኣይንታት ብዓይኒ ክፍተን፣ እዘን ጥዕና እውን ክፍተን።",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "ክፍተን"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ኣይንታት"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "ብዓይኒ"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "እዘን"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ጥዕና"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "ክፍተን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:06:45.035853944Z",
+  "model": "glm-5.3"
+}

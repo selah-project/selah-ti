@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 19:5",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኣብዚ እዋን እንተ ብሓቂ ትሰማዕኩም ብቓለይን ን⟨את⟩ ኪዳኔይ ተዓቢኹምን፣ ካብ ኩሉ ኣህዛብ በዓቢ ንኣይ ቅኑዕ ኣብኩት ትኾኑ፤ እስመ ኩሉ ⟨the⟩ ምድሪ ንኣይ እዩ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ኣብዚ እዋን"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ብሰማዕ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ትሰማዕኩም"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ብቓለይ"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "ተዓቢኹም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኪዳኔይ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳኔይ"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ትኾኑ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣይ"
+    },
+    {
+      "surface": "סגלה",
+      "gloss": "ቅኑዕ ኣብኩት"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እስመ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:25:24.070400857Z",
+  "model": "glm-5.3"
+}

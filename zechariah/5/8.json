@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "«እዚኣ ክፉእቲ እያ» በሎ፤ ንኣ ⟨את⟩ ናብ መንጎ እታ ኤፋ ወፈካ፣ ነቲ ዕንጋር ሓፍቲ ⟨את⟩ ድማ ኣብ ኣፋኣ ወፈካ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚኣ"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "ክፉእቲ"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ወፈካ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ንኣ (እታ ሰበይቲ)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "መንጎ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ኤፋ"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ወፈካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ዕንጋር ሓፍቲ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ዕንጋር"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "ሓፍቲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ኣፋኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:34:30.156161393Z",
+  "model": "glm-5.3"
+}

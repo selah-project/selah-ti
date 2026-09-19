@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 138,
+  "translation": "ናይ ዳዊድ። ብሙሉእ ልበይ ኣድኽምካ እየ፣ ቅድሚ ኤሎሂም ኣዘምረልካ እየ።",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ኣድኽምካ እየ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብሙሉእ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ኣዘምረልካ እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:58.845676999Z",
+  "model": "glm-5.3"
+}

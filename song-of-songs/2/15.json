@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 2:15",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ዕበይት ንና ኰኾራት፣ ንእሽተት ኰኾራት፣ ዝሓብርያ ዊናታት፤ ነቶም ዊናታትና ድማ ስማድር ኣለዎም።",
+  "tokens": [
+    {
+      "surface": "אחזו",
+      "gloss": "ዕበይት"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንና"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "ኰኾራት"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "ኰኾራት"
+    },
+    {
+      "surface": "קטנים",
+      "gloss": "ንእሽተት"
+    },
+    {
+      "surface": "מחבלים",
+      "gloss": "ዝሓብርያ"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "ዊናታት"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "እቶም ዊናታትና"
+    },
+    {
+      "surface": "סמדר",
+      "gloss": "ስማድር"
+    }
+  ],
+  "timestamp": "2026-09-19T06:27:19.122289443Z",
+  "model": "glm-5.3"
+}

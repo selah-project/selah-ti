@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ኣብሻሎም ድማ ንኣኽሊቶפל በለ፦ «ምክርኩም ሓብሩ፣ እንታይ ንገብር፧»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ኣብሻሎም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "ኣኽሊቶפל"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ሓብሩ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "-ኩም"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ምክሪ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ንገብር"
+    }
+  ],
+  "timestamp": "2026-09-19T00:33:36.989690207Z",
+  "model": "glm-5.3"
+}

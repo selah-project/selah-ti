@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 7:13",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ከምኣ እኳ ድማ ስለ ምግባርኩም ⟨את⟩ ኩሉ እዞም ተግባራት ንህይወት ያህዌህ፣ እናቀዲምኩ እናዛረብኩም ኣይሰምዕኩምን፣ እናመልእኩም እውን ኣይመለስኩምን።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ከምኣ እኳ ድማ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "עשותכם",
+      "gloss": "ምግባርኩም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "ተግባራት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዞም"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ንህይወት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "እናተዛረብኩም"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ንዓኻትኩም"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "እናቀዲምኩ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "እናዛረብ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "ሰምዕኩም"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "እናመልእኩም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ንዓኻትኩም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "መለስኩም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:51:30.001852973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 77,
+  "translation": "ድምጺ ነጐዳካ ኣብ ሽብሽ ⟨ነይሩ⟩፤ ብርቃታት ዓለም በረቓቑ፤ ምድሪ ተንቐጠቐተትን ተርጐሰትን።",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ድምጺ"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "ነጐዳካ"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "ኣብ ሽብሽ"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "በረቓቑ"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "ብርቃታት"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ዓለም"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "ተንቐጠቐተት"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "ተርጐሰትን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:22.205280888Z",
+  "model": "glm-5.3"
+}

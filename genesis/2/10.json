@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ቐይሕ ካብ ዔድን ን⟨את⟩ ገነት ንምስሓብ ወጸ፤ ካብኡ ድማ ይፈላለይ፣ ኣርባዕተ ርእሳት ኮይኑ።",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "ቐይሕን"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "ካብ ዔድን"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "ንምስሓብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገነት"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ገነት"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ካብኡን"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "ይፈላለይ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ኮይኑን"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "ናብ ኣርባዕተ"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "ርእሳት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:30:15.917610610Z",
+  "model": "glm-5.3"
+}

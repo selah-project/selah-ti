@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 32:28",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ሞሸ ድማ ንኣቶም ⟨את⟩ ኤልዓዛር ካህንን ⟨את⟩ የሆሹዋዕ ወዲ ኑንን ⟨את⟩ ርእሲ ኣቦታት እቶም ኩዕላት ንውላድ እስራኤልን ኣዘዝዎም።",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ኣዘዝ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንኣቶም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤልዓዛር"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የሆሹዋዕ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "ኑን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ርእሲ ኣቦታት"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ኣቦታት"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "እቶም ኩዕላት"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:40:32.765828313Z",
+  "model": "glm-5.3"
+}

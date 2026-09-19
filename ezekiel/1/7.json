@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 1:7",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "እግሮም እግሪ ሒሩት እዩ፤ እግሮም ድማ ከም ዓምዲ እግሪ ከብቲ ዘሎ እዩ፣ ድማዶም ከም ቅርጺ ዝተጣሕመ ሓሙሽተ ኮነን ይረብሕዎ ነበር።",
+  "tokens": [
+    {
+      "surface": "ורגליהם",
+      "gloss": "እግሮም"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "እግሪ"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "ሒሩት እዩ"
+    },
+    {
+      "surface": "וכף",
+      "gloss": "ዓምዲ"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "እግሮም"
+    },
+    {
+      "surface": "ככף",
+      "gloss": "ከም ዓምዲ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "እግሪ"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ከብቲ"
+    },
+    {
+      "surface": "ונצצים",
+      "gloss": "ድማዶም ይረብሕዎ"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "ከም ቅርጺ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ሓሙሽተ ኮነን"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "ዝተጣሕመ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:18:05.680846713Z",
+  "model": "glm-5.3"
+}

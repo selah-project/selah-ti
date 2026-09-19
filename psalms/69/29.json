@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "ካብ መጽሓፈ ህይወት እንትሕወሱ እሞ ምስ ቅዱሳት ኣይቕደሙን።",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "እንትሕወሱ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ካብ መጽሓፈ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ህይወት"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "እንትቕደም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:15.180221228Z",
+  "model": "glm-5.3"
+}

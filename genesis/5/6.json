@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ሴት ሓሙሽተ ዓመታትን ሚእተ ዓመትን ነይሩ፣ ድማ ⟨את⟩ ኣኖሽ ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ሴት"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ሚእተ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣኖሽ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ኣኖሽ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:30:40.945563038Z",
+  "model": "glm-5.3"
+}

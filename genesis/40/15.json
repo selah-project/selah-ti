@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ካብ ምድሪ ናይ ዕብራይ ተሰሪቐ ተሰሪቐ፣ ኣብዚ እውን ከም እገበርኩ ዝበለ የለን፣ ⟨את⟩ ኣብ ጉድጓድ ኣተዉኒ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ተሰሪቐ"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "ተሰሪቐ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ናይ ዕብራይ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ኣብዚ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ገበርኩ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ዝበለ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ኣተዉኒ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ጉድጓድ"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "ኣብ ጉድጓድ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:01:06.746805583Z",
+  "model": "glm-5.3"
+}

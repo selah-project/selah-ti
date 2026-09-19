@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 3:4",
+  "book": "habakkuk",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ብርሃኑ ከም ብርሃን ክኸውን እዩ፤ ቅርኒታት ካብ ኢዱ ንኡ፤ ኣብኡ ድማ ምሕባብ ሓይሊኡ ኣሎ።",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "ብርሃኑ ድማ"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "ከም ብርሃን"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ክኸውን እዩ"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "ቅርኒታት"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "ካብ ኢዱ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ኣብኡ ድማ"
+    },
+    {
+      "surface": "חביון",
+      "gloss": "ምሕባብ"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ሓይሊኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:29:30.162785972Z",
+  "model": "glm-5.3"
+}

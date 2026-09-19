@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሰብ ተኣኽኮሰ፣ ወዲ ሰብ ድማ ተወደቐ፤ ስለዚ ኣይትቕረቦምን።",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "ተኣኽኮሰ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "ተወደቐ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ወዲ ሰብ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ትቕረብ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ኣቦም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:38:54.538967363Z",
+  "model": "glm-5.3"
+}

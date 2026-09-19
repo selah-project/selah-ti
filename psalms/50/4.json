@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ካብ ላዕሊ ንሰማያት ይጸውዕ እዩ፣ ንምድሪ ድማ፣ ንህዝቡ ንክፈርድ።",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "ይጸውዕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ካብ ላዕሊ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "ንክፈርድ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ህዝቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:01:10.002428861Z",
+  "model": "glm-5.3"
+}

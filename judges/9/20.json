@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ከምኡ እንተ ኣይኮነን፣ ሓዊ ካብ ኣቢሜሌኽ ትወጽእ፣ በዓልቲ ሽከም ⟨את⟩ ቤት ሚሎ ውን ⟨ואת⟩ ትበልዖ፣ ሓዊ ካብ በዓልቲ ሽከም ከምኡውን ካብ ቤት ሚሎ ትወጽእ፣ ኣቢሜሌኽ ድማ ⟨את⟩ ትበልዖ።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ከምኡ እንተ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ትወጽእ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "ካብ ኣቢሜሌኽ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ትበልዖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በዓልቲ ሽከም"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "በዓልቲ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ሽከም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ቤት ሚሎ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "ሚሎ"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "ትወጽእ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "ካብ በዓልቲ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ሽከም"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "ውን ካብ ቤት"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "ሚሎ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ትበልዖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቢሜሌኽ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ኣቢሜሌኽ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:42:49.449086542Z",
+  "model": "glm-5.3"
+}

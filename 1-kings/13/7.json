@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 13:7",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "እቲ ንጉስ ድማ ንሰብ ኤሎሂም በሎ፦ «ምስ ⟨את⟩ ኣይ ናብ ቤት ኣትይ፣ ስጒድ፣ ኣነ ድማ ሃብቲ ክብለካ እየ»።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ኣትይ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ምስ ኣይ"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ናብ ቤት"
+    },
+    {
+      "surface": "וסעדה",
+      "gloss": "ስጒድ"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ክብለካ እየ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "ሃብቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:00:37.264699185Z",
+  "model": "glm-5.3"
+}

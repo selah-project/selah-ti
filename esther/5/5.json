@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "እቲ ንጉስ ድማ «ንሃማን ብቕልጡፍ ⟨את⟩ ሃማን ኣእቱ፣ ቃል እስተር ⟨את⟩ ቃል እስተር ንምፍጸም» በለ፤ እቲ ንጉስን ሃማንን ነቲ ምግቢ እትን እስተር ዝጋበረቶ ኣተዮም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "ብቕልጡፍ ኣእቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሃማን"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ሃማን"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ንምፍጸም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃል እስተር"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "እስተር"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ኣተዮም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ሃማንን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "ምግቢ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ዝጋበረቶ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "እስተር"
+    }
+  ],
+  "timestamp": "2026-09-19T06:47:44.253966782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "«እንታይ ነይሩ እቶም ቀዳሞም መዓልታት ካብዞም ዝሓሸን ኢሎም?» ኣብብለል፤ ምኽንያቱ ብጥበብ ኣይኮነን ንዚኽ ሓተትካ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ብለል"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "እቶም መዓልታት"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ቀዳሞም"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ዝሓሸ"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ካብዞም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "ብጥበብ"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "ሓተትካ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ዚኽ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:41:44.865395771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ብኩርንታ እቲ ኣመንዲግ እቲ ድኻ ይደቂ፤ ብተባብዕቲ እዚኦም ዝሓሰብዎ ክሕዙ።",
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "ብኩርንታ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ኣመንዲግ"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "ይደቂ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ድኻ"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "ክሕዙ"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "ብተባብዕቲ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ዝሓሰብዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:06.756258859Z",
+  "model": "glm-5.3"
+}

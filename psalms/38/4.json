@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ብምኽንያት ቍጭትኻ ጥንካብ ኣብ ስጋይ የብሉን፤ ብምኽንያት ኃጢኣተይ ድማ ሰላም ኣብ ብዓታተይ የብሉን።",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "የብሉን"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "ጥንካብ"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "ኣብ ስጋይ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ብምኽንያት"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "ቍጭትኻ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የብሉን"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "ኣብ ብዓታተይ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ብምኽንዲ"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ኃጢኣተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:32.548229839Z",
+  "model": "glm-5.3"
+}

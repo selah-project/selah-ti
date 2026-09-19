@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 51,
+  "translation": "ቅሩብ ጽድቄይ፣ ወጺኡ እዩ መድሓኒተይን ኣክሊተይን፤ ኣክላቢ ህዝቢታት ይፈርድዎም፤ ንኣነ ደሴታት ይጽበዩ፣ ንኣክሊተይ ከኣ ይጸበዩ ብተስፋ።",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ቅሩብ"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "ጽድቄይ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ወጺኡ እዩ"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "መድሓኒተይ"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "ኣክሊተይን"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ህዝቢታት"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "ይፈርድዎም"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ደሴታት"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "ይጽበዩ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "ኣክሊተይ"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "ይጸበዩ ብተስፋ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:18:49.651505594Z",
+  "model": "glm-5.3"
+}

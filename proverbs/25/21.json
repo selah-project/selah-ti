@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ኣብቲ ዘጥልኻ ብጥሜት እንተ ደልዩ፣ ገበሮ ሃቦ፤ ድማ እንተ ብጽምኢ፣ ማይ ኣስተዮ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ብጥሜት"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "ዘጥልኻ"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "ሃቦ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ገበሮ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ድማ እንተ"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "ብጽምኢ"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "ኣስተዮ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:55:50.228508943Z",
+  "model": "glm-5.3"
+}

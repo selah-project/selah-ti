@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ሰብን እቲ ስንቡቱ ምስ እንሳት እንተ ሃበ፣ ብሞተ ኪቕተል እዩ፤ ድማ ⟨את⟩ እታ እንሳ ቐትልዋ።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ሰብን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "እንተ ሃበ"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "ስንቡቱ"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "ምስ እንሳት"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ብሞተ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ኪቕተል እዩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እታ እንሳ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "እታ እንሳ"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "ቐትልዋ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:04:48.124707760Z",
+  "model": "glm-5.3"
+}

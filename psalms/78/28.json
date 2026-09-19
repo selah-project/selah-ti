@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 78:28",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ኣብ መእተዊ ሰፈሮም ከኣ ኣወርዶ፣ ብዙሕ ድማ ኣብ ዙሪያ ማሕደርታቶም ኣውረደ።",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ድማ ኣወርዶ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ኣብ መእተዊ"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "ሰፈሮም"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ብዙሕ ኣብ ዙሪያ"
+    },
+    {
+      "surface": "למשכנתיו",
+      "gloss": "ማሕደርታቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:04.971334574Z",
+  "model": "glm-5.3"
+}

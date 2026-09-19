@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣብ ያህዌህ ብኩሉ ልብካ ተኣማን፣ ብርድእታትኻ ድማ ኣይተዓገትን።",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "ተኣማን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብኩሉ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ልብካ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ን…ድማ"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "ብርድእታትኻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "ኣይተዓገትን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:42:06.863244711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኩሉ ስኡብ ብውዕሊ ይገብር፤ ውዑይ ግን ዕርገቱ ይሓፍስ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ስኡብ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ይገብር"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "ብውዕሊ"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ውዑይ"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "ይሓፍስ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ዕርገት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:47:56.832537738Z",
+  "model": "glm-5.3"
+}

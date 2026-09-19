@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ሻባት ዓርፊ ሻባት እዩ ንሕና፤ ነፍስትኩም ⟨את⟩ ከኣ ተዓብኹም፤ ኣብ ዘጠነኛ መዓልቲ እቲ ወርሒ ኣብ ምሸት፣ ካብ ምሸት ክሳብ ምሸት ሻባትኩም ተዓጽኑ።",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "ሻባት"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ዓርፊ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "ተዓብኹም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍስትኩም"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ነፍስትኩም"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "ኣብ ዘጠነኛ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "እቲ ወርሒ"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ኣብ ምሸት"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "ካብ ምሸት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ምሸት"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "ተዓጽኑ"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "ሻባትኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:06:34.311493037Z",
+  "model": "glm-5.3"
+}

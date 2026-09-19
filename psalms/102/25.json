@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 102,
+  "translation": "ኤልይ በልኩ፦ «ኣብ ማእከላይ መዓልታትና ኣይትወስደኒ፤ ዓመታትካ ብውሽጢ ውልቂ ትውልዓት እየን።»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "በልኩ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ኤልይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "ትወስደኒ"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "ኣብ ማእከላይ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "መዓልታትና"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ብውሽጢ"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "ውልቂ ትውልዓት"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "ዓመታትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:21.345777518Z",
+  "model": "glm-5.3"
+}

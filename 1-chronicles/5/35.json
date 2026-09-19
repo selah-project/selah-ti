@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣኺማዕስ ⟨את⟩ ዓዛርያህ ወለደ፣ ዓዛርያህ ድማ ⟨את⟩ ዮኻናን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "ኣኺማዕስ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓዛርያህ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ዓዛርያህ"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "ዓዛርያህ ድማ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮኻናን"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "ዮኻናን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:31:38.869415492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኤልይ ኤልይ፣ ስለምኒ ተረሲኹኒ፧ ካብ መድሓኒተይ ርሒቅ፣ <ካብ> ቃላት ቅሬቓተይ፧",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "ኤልይ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ኤልይ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ስለምኒ"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "ተረሲኹኒ"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "ርሒቅ"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "ካብ መድሓኒተይ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "ቅሬቓተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:11.334763214Z",
+  "model": "glm-5.3"
+}

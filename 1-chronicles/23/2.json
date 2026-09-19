@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ነ⟨את⟩ ኹሉ ኣካላት እስራኤል ድማ ካህናትን ሎሚያትን ብሓባር ክራበ በለ።",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ክራበ በለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ኣካላት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ካህናትን"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ሎሚያትን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:49:02.117977968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ከምዚ በለ ያህዌህ ጸባኦት፦ ሕጂ ⟨את⟩ ካህናት ብቶራ ሓተት፣ ኢሉ።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ሓተት"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ካህናት"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ብቶራ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:31:55.914908528Z",
+  "model": "glm-5.3"
+}

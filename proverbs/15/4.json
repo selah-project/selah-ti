@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ሕያው ቋንቋ ዓዲ ህይወት እዩ፤ ጕድኣት ኣብኡ ግን ምስዓር ኣብ መንፈስ እዩ።",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "ዓዲ ዝኸውን ቋንቋ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ቋንቋ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ዓዲ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ህይወት"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "ጕድኣት ግን"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ምስዓር"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ኣብ መንፈስ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:50:14.615939147Z",
+  "model": "glm-5.3"
+}

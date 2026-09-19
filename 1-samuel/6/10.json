@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እቶም ሰባት ከምኡ ገበሩ፤ ክልተ ዝወሃባ ሓርማት ወሲዱም ናብቲ ዓጃ ኣስርዎም፤ ⟨ואת⟩ ውላዳቶም ድማ ኣብ ቤት ተዓጢቖም።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "እቶም ሰባት"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ወሲዱም"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "ሓርማት"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ዝወሃባ"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "ኣስርዎም"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "ናብቲ ዓጃ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ውላዳቶም"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ውላዳቶም"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ተዓጢቖም"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:00:17.673862381Z",
+  "model": "glm-5.3"
+}

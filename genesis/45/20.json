@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "ዓይንኹም ድማ ነቲ ኣገባብርቓትኹም ኣይተሓስበሉን፤ ምኽንያቱ በረካ ኩሉ ምድሪ ሚጽራይም ንኹም እዩ።",
+  "tokens": [
+    {
+      "surface": "ועינכם",
+      "gloss": "ዓይንኹም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ-"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "ኣይተሓስበሉን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "כליכם",
+      "gloss": "ኣገባብርቓትኹም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "በረኻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኹም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:07:57.774649670Z",
+  "model": "glm-5.3"
+}

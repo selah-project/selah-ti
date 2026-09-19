@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "እዚ ቁመትኪ ናብ ደቀባይ ተመሳሰለት፣ ጫካታትኪ ድማ ናብ ኣኽሊላት ወይኒ እዮም።",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "קומתך",
+      "gloss": "ቁመትኪ"
+    },
+    {
+      "surface": "דמתה",
+      "gloss": "ተመሳሰለት"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "ናብ ደቀባይ"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "ጫካታትኪ"
+    },
+    {
+      "surface": "לאשכלות",
+      "gloss": "ናብ ኣኽሊላት ወይኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:30:33.072739384Z",
+  "model": "glm-5.3"
+}

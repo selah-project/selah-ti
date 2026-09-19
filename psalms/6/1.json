@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ንዝምህር ዜማ፣ ብመሳርሒታት እኽሊ፣ ኣብ ሸምንተይ፤ መዝሙር ናይ ዳዊድ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንዝምህር ዜማ"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "ብመሳርሒታት እኽሊ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "ሸምንተይ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:59.097934007Z",
+  "model": "glm-5.3"
+}

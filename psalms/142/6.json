@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 142,
+  "translation": "ናብ ያህዌህ ቐጺልኩ፤ ንስኻ ምህዳሜይን ክፍለይን ኣብ ምድሪ እቶም ሕያዋት ኢልኩ።",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "ቐጺልኩ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ኢልኩ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ምህዳሜይ"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "ክፍለይ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "እቶም ሕያዋት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:39.103829633Z",
+  "model": "glm-5.3"
+}

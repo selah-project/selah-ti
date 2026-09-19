@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ሰብ ፍቕሪ ስነ-ጥበብ ኣቦኡ ደስ የቕምጾ፤ ኣጋር ኣመንዲቓት ድማ ሃብቲ የሕልፎ።",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ፍቕሪ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ስነ-ጥበብ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ደስ የቕምጽ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ኣጋር"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "ኣመንዲቓት"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "የሕልፎ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ሃብቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:57:11.845919019Z",
+  "model": "glm-5.3"
+}

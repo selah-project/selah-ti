@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ብጸላኢ ናብ ድሕሪት ትመልሰና ኣሎኻ፣ ጠሊመና ዝኾኑ ድማ ነይሮም ደበዩ።",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "ትመልሰና"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ናብ ድሕሪት"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ብጸላኢ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ጸላኢ"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "ጠሊመና ዝኾኑ ድማ"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "ደበዩ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ነይሮም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:12.235698523Z",
+  "model": "glm-5.3"
+}

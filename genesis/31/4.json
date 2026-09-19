@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ያዕቆቭ ድማ ራሕልን ለኣንን ናብ መዓርቪ ናብ ኣጋይሽቱ ኣስዓበ ጸወዐ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ኣስዓበ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ጸወዐ"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "ራሕል"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "ለኣ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "መዓርቪ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "ኣጋይሽቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:54:46.222602307Z",
+  "model": "glm-5.3"
+}

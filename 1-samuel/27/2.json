@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ዳዊድ ድማ ተንበርካኸፈ፣ ንሱን ሽድሽድ ሚእታት ሰባት ምስኡ ዝነበሩን ናብ ኣኺሽ ወዲ ማዖኽ ነጋሪ ጋት ሓለፉ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተንበርካኸፈ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ሓለፉ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ሽድሽድ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚእታት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝነበሩ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስኡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "ኣኺሽ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "ማዖኽ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነጋሪ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ጋት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:18:09.757968805Z",
+  "model": "glm-5.3"
+}

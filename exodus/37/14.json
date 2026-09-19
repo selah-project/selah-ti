@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ቅድሚ እቲ ማሕደር ⟨እዮም⟩ እቶም ቀለበታት ነብሲ፣ ቤታት ንኣፍርያት ንምውኣል እቲ ሰሌዳ።",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "እቲ ማሕደር"
+    },
+    {
+      "surface": "היו",
+      "gloss": "እዮም"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "እቶም ቀለበታት"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ቤታት"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "ንኣፍርያት"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ንምውኣል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰሌዳ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "እቲ ሰሌዳ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:44:18.564144121Z",
+  "model": "glm-5.3"
+}

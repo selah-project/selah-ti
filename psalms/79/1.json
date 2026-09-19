@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 79,
+  "translation": "ምዝሙር ናይ ኣሳፍ። ኤሎሂም፣ ኣህዛብ ናብ ውርሻኻ ኣተዉ፤ ⟨את⟩ ቅዱስ መቕደስኻ ኣንጸርዮ፤ የሩሻላይም ናብ ኣፍሳሳት ቐየሩዋ።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ምዝሙር"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ናይ ኣሳፍ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ኣተዉ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "ናብ ውርሻኻ"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "ኣንጸርዮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅዱስ መቕደስኻ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "መቕደስ"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ቅዱስኻ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ቐየሩዋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሩሻላይም"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "ናብ ኣፍሳሳት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:37.414752964Z",
+  "model": "glm-5.3"
+}

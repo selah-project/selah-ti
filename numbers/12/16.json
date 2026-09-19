@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኣብዚ ድሕሪኡ እቲ ህዝቢ ካብ ሓጸሮት ተበገሰ፤ ኣብ በረ ፓራን ድማ ተቐመጡ።",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ኣብዚ ድሕሪኡ"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "ተበገሰ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "ካብ ሓጸሮት"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ተቐመጡ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ በረ"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "ፓራን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:22:09.310848695Z",
+  "model": "glm-5.3"
+}

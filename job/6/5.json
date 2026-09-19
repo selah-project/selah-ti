@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ውርሒ ኣብ ሳሕ ኮይኑ ይንቀጠቅጥ ድዩ? ወይ ሓርማዝ ኣብ መግቢኡ ይወደቕ ድዩ?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "ይንቀጠቅጥ"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "ውርሒ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ሳሕ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "ይወደቕ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ሓርማዝ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "መግቢኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:04:16.400953769Z",
+  "model": "glm-5.3"
+}

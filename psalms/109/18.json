@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "መርገም ከም ልቡሱ ለበሳ እሞ፣ ከም ማይ ኣብ ውሽጢኡ፣ ከም ዘት ድማ ኣብ ጥንጭሪኡ ኣተየ።",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "ለበሳ"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "መርገም"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "ከም ልቡሱ"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ኣተየ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ከም ማይ"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ኣብ ውሽጢኡ"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "ከም ዘት"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "ኣብ ጥንጭሪኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:02.708308151Z",
+  "model": "glm-5.3"
+}

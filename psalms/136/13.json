@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 136,
+  "translation": "ነቲ ባሕሪ ሱፍ ናብ ክፍልታት ዝቁረጽ እዩ፣ እስመ ናብ ዘለኣለም ሔሴዱ እዩ።",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "ዝቁረጽ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ሱፍ"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "ናብ ክፍልታት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እስመ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:40.803000694Z",
+  "model": "glm-5.3"
+}

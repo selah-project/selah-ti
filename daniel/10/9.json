@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "«ድምጺ ቃላቱን ሰምዐኹ፣ ከም ዝሰምዐኹ ድምጺ ቃላቱን ኣነ ኣብ ገጸይ ተሓጊሠ፣ ገጸይ ድማ ናብ ምድሪ ነይረ።»",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "ሰምዐኹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምጺ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጺ"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ቃላቱ"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "ከም ዝሰምዐኹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምጺ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጺ"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ቃላቱ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ነይረ"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "ተሓጊሰ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጸይ"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ገጸይ ድማ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ናብ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:01:46.613841219Z",
+  "model": "glm-5.3"
+}

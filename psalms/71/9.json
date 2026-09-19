@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 71,
+  "translation": "ኣብ ዕድመ እርዑት ኣይትጥፍአኒ፤ ሓይለይ ምስ ወድአ ኣይተውጸአኒ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "ኣይትጥፍአኒ"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ኣብ ዕድመ"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "እርዑት"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "ምስ ምውዳእ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ሓይለይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ኣይተውጸአኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:55.827796629Z",
+  "model": "glm-5.3"
+}

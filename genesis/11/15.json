@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ሸላሕ ድማ ዔበርን ⟨את⟩ ምስ ወለደ ድሕሪኡ ሰለስተ ዓመታትን ኣርባዕተ ሚኢታት ዓመትን ነይሩ፣ ወላድን ጓላትን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ሸላሕ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ድሕሪኡ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ምስ ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዔበርን"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ዔበር"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታትን"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚኢታት"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመትን"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ወላድን"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ጓላትን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:58.919555075Z",
+  "model": "glm-5.3"
+}

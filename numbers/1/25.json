@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣፍሩያቶም ናይ ኣፈርዩ ጋድ ሓሙሽተን ኣርባዕተን ኣልፍን ሽስተ ሚእትን ሃምሳን እዩ።",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ኣፍሩያቶም"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ናይ ኣፈርዩ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ሓሙሽተን"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ኣርባዕተን"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ኣልፍን"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ሽስተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚእትን"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ሃምሳን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:11:05.284037503Z",
+  "model": "glm-5.3"
+}

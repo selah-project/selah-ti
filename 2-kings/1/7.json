@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ንሳቶም ድማ ተዛረቦም፦ «እቲ ንኽራብኹም ዝወጢሉ ሰብ እንታይ ቅርጺ ዘለዎ እዩ፧ ነይሩ ንኹም እዚኦም ቃላት ⟨את⟩ ዝተዛረበኩም፧»",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረቦም"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ቅርጺ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ-"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ዝወጢሉ"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "ንኽራብኹም"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ዝተዛረበኩም"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ንኹም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እዚኦም ቃላት"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:14:56.674224400Z",
+  "model": "glm-5.3"
+}

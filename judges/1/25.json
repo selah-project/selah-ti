@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "እቲ ሰብ ⟨את⟩ መእተዊ እታ ከተማ ኣርኣዮም፣ ንእታ ከተማ ብፍርዲ ሰይፊ ሰበርዋ፣ ነቲ ሰብ ድማ ምስ ኩሉ ቤተሰቡ ሰደይዎ።",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "ኣርኣዮም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መእተዊ"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "መእተዊ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እታ ከተማ"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ሰበርዋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ከተማ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እታ ከተማ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ብፍርዲ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፊ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሰብ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ቤተሰቡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "ቤተሰቡ"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ሰደይዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:39:45.970082678Z",
+  "model": "glm-5.3"
+}

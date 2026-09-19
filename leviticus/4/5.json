@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "እቲ ካህን ማሺያሕ ⟨ዝተቐብአ⟩ ካብ ደም እቲ ባርቲ ወሲዱ ⟨אתו⟩ ናብ ድንኳን ሰብሓ ኣእቲዩ።",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ካህን"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "ማሺያሕ ⟨ዝተቐብአ⟩"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ካብ ደም"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "እቲ ባርቲ"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ኣእቲዩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ነቲ ደም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ሰብሓ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:51:14.648733214Z",
+  "model": "glm-5.3"
+}

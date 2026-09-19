@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 86,
+  "translation": "ምኽንያቱ ንስኻ ኣዶናይ ሓያላይ ነይኻ፣ ነቓላት ዝተሓዘን ሔሴድ ድማ ንኩሉ ኣብ ዝጸውዐካ ብዙሕ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ሓያላይ"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "ነቓላት ዝተሓዘ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "ኣብ ዝጸውዐካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:42.829579784Z",
+  "model": "glm-5.3"
+}

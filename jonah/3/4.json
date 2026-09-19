@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 3:4",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ዮናሃ ኣብ ⟨እታ⟩ ከተቛ ምዙር ሓደ መዓልቲ ንምእታው ጀመረ፤ ቐረቐረን በለን፦ ‹ድሕሪ ኣርባዕተ መዓልታት ነነወ ተቐየረት›።",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ጀመረ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ዮናሃ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ንምእታው"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ኣብ ⟨እታ⟩ ከተቛ"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "ምዙር"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ቐረቐረ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "ነነወ ድማ"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "ተቐየረት"
+    }
+  ],
+  "timestamp": "2026-09-19T08:57:56.123879500Z",
+  "model": "glm-5.3"
+}

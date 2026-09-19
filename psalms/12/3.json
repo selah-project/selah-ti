@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ሐሶት ኩሉ ሰብ ምስ ⟨את⟩ መሓዙ ይዛረብ፣ ብኣፍ መልክዒ፣ ብልቢ ውን ብልቢ ይዛረብ።",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "ሐሶት"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ይዛረብዎ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሓዙ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "መሓዙ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ኣፍ"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "መልክዒ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ብልቢ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ብልቢ-ውን"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ይዛረብዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:49.252578396Z",
+  "model": "glm-5.3"
+}

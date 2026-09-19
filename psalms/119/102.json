@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ካብ ፍርዲታትኻ ኣይተዛረብኩን፣ ምኽንያቱ ንስኻ ኣምሃርካኒ።",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "ካብ ፍርዲታትኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "ኣይተዛረብኩን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "ኣምሃርካኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:13.836286181Z",
+  "model": "glm-5.3"
+}

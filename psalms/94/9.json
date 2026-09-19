@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 94,
+  "translation": "እቲ እእታን ዘርእዮ ⟨ኣይሰምዕ ድዩ⟩? ወይ እቲ ኣይን ዝቐረጸ ⟨ኣይረኣይ ድዩ⟩?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "ዘርእዮ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "እእታን"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ድዩ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ኣይሰምዕ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "יצצר",
+      "gloss": "ዝቐረጸ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ኣይን"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ድዩ"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ኣይረኣይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:57.240622863Z",
+  "model": "glm-5.3"
+}

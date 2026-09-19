@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 26:10",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ሕጊ ኣብ ገጽ ማይ ኮከበ፣ ክሳብ ወሰን ብርሃን ምስ ጸልማት።",
+  "tokens": [
+    {
+      "surface": "חק",
+      "gloss": "ሕጊ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ኮከበ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "ወሰን"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጸልማት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:15:42.800090255Z",
+  "model": "glm-5.3"
+}

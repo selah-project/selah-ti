@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "ኣድንወኒ ኤሎሂም፣ ምኽንያቱ ማይ ክሳብ ነፍሲ በጺሑ እዩ።",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "ኣድንወኒ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "በጺሑ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:57.509140216Z",
+  "model": "glm-5.3"
+}

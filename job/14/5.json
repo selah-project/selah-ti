@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ወይ ተቐይሮም እንተ እዮም መዓልታቱ፣ ቁጽሪ ኣወራቱ ⟨את⟩-ኻ እዩ፤ ድንቑ ኣኻ ገበርካዮ፣ ንሱ ድማ ኣይሓልፎን።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ወይ እንተ"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "ተቐይሮም"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "መዓልታቱ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ቁጽሪ"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "ኣወራቱ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩-ኻ",
+      "marks": "ኣትካ (ምስ ንስኻ)"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "ድንቑ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ገበርካ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "ኣይሓልፎን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:10:01.180795204Z",
+  "model": "glm-5.3"
+}

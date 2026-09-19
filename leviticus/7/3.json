@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ከምኡውን ⟨את⟩ ኩሉ ለቡ ካባኡ ይቕርብ፤ ⟨את⟩ እቲ ስቡዕ ጭንቀትን ⟨את⟩ እቲ ለብ እቲ ዝሽፍኖ ⟨את⟩ እቲ ውሽጢ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ለቡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "ለቡ"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ይቕርብ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካባኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ስቡዕ ጭንቀት"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "እቲ ስቡዕ ጭንቀት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ለብ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "እቲ ለብ"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "ዝሽፍኖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ውሽጢ"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "እቲ ውሽጢ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:50:12.204672992Z",
+  "model": "glm-5.3"
+}

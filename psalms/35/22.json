@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ርእየካ ያህዌህ፣ ኣይትጸግብን፤ ኣዶናይ፣ ካባይ ኣይትርሕቕን።",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "ርእየካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ትጸግብ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ትርሕቕ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ካባይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:26.498238405Z",
+  "model": "glm-5.3"
+}

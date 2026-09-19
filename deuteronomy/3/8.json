@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣብ እቲ ዕዋን ድማ ⟨את⟩ እቲ ምድሪ ካብ ኢድ ክልተ ነገስቲ እቶም ኣሞራይ ኣብ ምብራቕ ዮርዳኖስ ዝነበሩ ብወለዲ ኣርኖን ክሳብ ተራ ሕርሞን ወሲድና።",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "ወሲድና"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ኣብ ዕዋን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ምድሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ነገስቲ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ኣሞራይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ኣብ ምብራቕ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "ብወለዲ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ኣርኖን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራ"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ሕርሞን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:46:11.616001339Z",
+  "model": "glm-5.3"
+}

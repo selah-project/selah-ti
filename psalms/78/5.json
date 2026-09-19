@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ምስሃ ኣብ ያዕቆቭ ኣቐሚጡ፣ ቶራ ኣብ እስራኤል ኣቐሚጡ፣ ነዚ ⟨את⟩ ኣቦትና ዝኣዘዞም፣ ንኽፈልጥዎም ንውላዶም እዩ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ኣቐሚጡ"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ምስሃ"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ኣብ ያዕቆቭ"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣቐሚጡ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ኣብ እስራኤል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ኣዘዞም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቦትና"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ኣቦትና"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "ንኽፈልጥዎም"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ንውላዶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:11.654135525Z",
+  "model": "glm-5.3"
+}

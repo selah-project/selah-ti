@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 26:2",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ሻኡል ድማ ተንቐሳቐሱ ናብ ምድረ-በዳ ዚፍ ወረዱ፤ ምስኡ ⟨את⟩ ሰለስተ ሽሕ ተመሪጹ ኣበይቲ እስራኤል ነቲ ⟨את⟩ ዳዊድ ኣብ ምድረ-በዳ ዚፍ ንምንዋሕ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተንቐሳቐሱ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ወረዱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ምድረ-በዳ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ዚፍ"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ ምስኡ",
+      "marks": "ምስኡ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "ተመሪጹ ኣበይቲ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ንምንዋሕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊድ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድረ-በዳ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ዚፍ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:17:12.409404538Z",
+  "model": "glm-5.3"
+}

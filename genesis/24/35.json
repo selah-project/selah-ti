@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 24:35",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ያህዌህ ነቲ ጎይታይ ⟨את⟩ ብብዙሕ ባረኾ፤ ንሱ ድማ ዓበ ኮይኑ፣ መጥባዕትቲን ከብትቲን፣ ብርን ወርቂን፣ ኣገልጋይቲን ጠባይትን፣ ግመላትን ኣጋይሽትን ሃቦ።",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ባረኾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ጎይታይ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ነቲ ጎይታይ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብብዙሕ"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "ዓበ ኮይኑ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሃቦ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "መጥባዕትቲ"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ከብትቲ"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "ועבדם",
+      "gloss": "ኣገልጋይቲ"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "ጠባይት"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "ግመላት"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "ኣጋይሽት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:45:53.618235121Z",
+  "model": "glm-5.3"
+}

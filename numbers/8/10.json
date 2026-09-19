@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ነቶም ሌዋውያን ⟨את⟩ ናብ ቅድሚ ያህዌህ ቐረብካ፣ ውላድ እስራኤል ድማ ኣእዳዋቶም ⟨את⟩ ኣብ ላዕሊ ሌዋውያን ጸለልዮም።",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "ቐረብካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሌዋውያን"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሌዋውያን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ናብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "ጸለልዮም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣእዳዋቶም"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ኣእዳዋቶም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሌዋውያን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:19:43.419696833Z",
+  "model": "glm-5.3"
+}

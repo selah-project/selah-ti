@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 15:23",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ናብ ማራ ድማ መጹ፤ ካብቲ ማይ ማራ ግን ክሰቱ ኣይከእሉን ነይሩ፣ ምኽንያቱ ሓሙም እዩ ነይሩ፤ ስለዚ ንስሙ ማራ ተሰይሙ።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "መጹ"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "ናብ ማራ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ክከእሉ"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "ክሰቱ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "ממרה",
+      "gloss": "ካብ ማራ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "ሓሙም"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እዮም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ተሰይሙ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ንስሙ"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "ማራ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:19:55.896675286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 60,
+  "translation": "ቐሊ፣ ኣብርሂ፣ ምኽንያቱ ብርሃንኪ መጸ ⟨እዩ⟩፣ ክብሪ ያህዌህ ኣብ ልዕሊኪ በረኸተ።",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "ቐሊ"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ኣብርሂ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ብርሃንኪ"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ኣብ ልዕሊኪ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "በረኸተ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:23:03.001159816Z",
+  "model": "glm-5.3"
+}

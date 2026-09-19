@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ያህዌህ ኣብኻ ⟨את⟩ ረጊምቲን ⟨את⟩ ምንቅጠቕትን ⟨את⟩ ተወገሃትን ኣብ ኩሉ እትቐድሖ ኢድኻ የስደድ፣ ክሳብ ምብታኻይካን ክሳብ ብቕጽበት ምስዓርካን፣ ብምኽንያት እቲ ኣጣምቐ ክፉእ ተግባራትኻ ንኣኻ ዝሓደገካኒ።",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "የስደድ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣብኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ረጊምቲ"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "ረጊምቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምንቅጠቕት"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "ምንቅጠቕት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ተወገሃት"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "ተወገሃት"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "እትቐድሖ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድኻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ትሰርሕ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "ምብታኻይካ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "ምስዓርካ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ብቕጽበት"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ብምኽንያት"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ኣጣምቐ ክፉእ"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "ተግባራትኻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "ዝሓደገካኒ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:10:22.154792585Z",
+  "model": "glm-5.3"
+}

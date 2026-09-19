@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "«ልዕልኡ ኣይዝረብሓኩምን? ስንቑ ድማ ኣይወርድልኩምን?»",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "ልዕልኡ"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "ዪረብሕ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንስኻቶም"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "ስንቑ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ይወርድ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ኣብ ልዕልኩም"
+    }
+  ],
+  "timestamp": "2026-09-19T06:08:09.935175840Z",
+  "model": "glm-5.3"
+}

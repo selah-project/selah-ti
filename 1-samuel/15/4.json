@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ሻኡል ድማ ⟨את⟩ ህዝቢ ኣሰማዖ፣ ኣብ ተላይም ድማ ቐመጦም፦ ኹለተ ሚእቲ ሽሕ ኣቋራጽቲ፣ ከምኡውን ዎሓረ ሽሕ ⟨את⟩ ሰባት ይሁዳ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ኣሰማዖ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ህዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዚቢ"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "ቐመጦም"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "ኣብ ተላይም"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ኹለተ ሚእቲ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ኣቋራጽቲ"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "ዎሓረ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰባት ይሁዳ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:07:46.861188426Z",
+  "model": "glm-5.3"
+}

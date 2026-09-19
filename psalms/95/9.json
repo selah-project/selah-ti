@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 95,
+  "translation": "ኣቦታትኩም ፈተኑኒ፣ መርመርዎኒ፣ ክንደይ ድማ ረኣዉ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ኣብ ዝ"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "ፈተኑኒ"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ኣቦታትኩም"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "መርመርዎኒ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ረኣዉ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ክንደይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:39.348175235Z",
+  "model": "glm-5.3"
+}

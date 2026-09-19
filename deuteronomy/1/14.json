@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ንስኻትኩም ድማ ⟨אתי⟩ መለስኩም፦ እቲ ዝበልካዮ ቃል ንኽፍጸም ጽቡቕ እዩ ኢልኩም።",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "መለስኩም"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩",
+      "marks": "ኣነ (ሞሸ)"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "ኢልኩም"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡቕ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ቃል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ዝበልካዮ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ንኽፍጸም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:46:42.742280429Z",
+  "model": "glm-5.3"
+}

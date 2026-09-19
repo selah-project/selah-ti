@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ያህዌህን ⟨את⟩ ብምትንክፍ ኣገልግሉ፤ ብርዝን ድማ ሓጐሱ።",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "ኣገልግሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "ብምትንክፍ"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "ሓጐሱ"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "ብርዝን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:35.018439197Z",
+  "model": "glm-5.3"
+}

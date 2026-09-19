@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 24:9",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ተኮሰ ከም ኣንበሳን ከም ኣንስተይቲን ደግዓ፤ መን ንሱ ይትንስኦ፧ እቶም ዝበርኽኹካ ብሩኽ እዮም፣ እቶም ዝሓጽሩካ ድማ ተሓጽሩ።",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "ተኮሰ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ደግዓ"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "ከም ኣንበሳ"
+    },
+    {
+      "surface": "וכלביא",
+      "gloss": "ከም ኣንስተይቲን"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יקימננו",
+      "gloss": "ይትንስኦ"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "እቶም ዝበርኽኹካ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ብሩኽ"
+    },
+    {
+      "surface": "וארריך",
+      "gloss": "እቶም ዝሓጽሩካ"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "ተሓጽሩ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:32:28.082190596Z",
+  "model": "glm-5.3"
+}

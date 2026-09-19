@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 63,
+  "translation": "ስለዚ ኣብ ሕይወተይ ኣባሪኸካ እየ፤ ኣብ ስምካ ድማ ኣካድኤ ኢደይ እየ።",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ኣባሪኸካ"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "ኣብ ሕይወተይ"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ኣብ ስምካ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ኣካድኤ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ኢደይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:57.633038045Z",
+  "model": "glm-5.3"
+}

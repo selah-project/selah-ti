@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኣይትብልዎን፤ ኣብ እታ ምድሪ ከም ማይ ኺትትክዮ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ኣይትብልዎን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እታ ምድሪ"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ኺትትክዮ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ከም ማይ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:55:56.528857725Z",
+  "model": "glm-5.3"
+}

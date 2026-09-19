@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ንሰበይቲ መታኽንትኻ ስንቐትካ ንዘርእ ኣይትህብ፣ ንምትንክፍ ብኣ።",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "መታኽንትኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ትህብ"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "ስንቐትካ"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "ንዘርእ"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "ንምትንክፍ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ብኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:59:41.502723001Z",
+  "model": "glm-5.3"
+}

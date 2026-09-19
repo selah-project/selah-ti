@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 92,
+  "translation": "ሰብ ኣሃዊ ኣይፈልጥን፣ ዕሽር ከምኡውን ⟨את⟩ እዚ ኣይረድእን።",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ኣሃዊ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ፈልጥን"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ዕሽር ከምኡውን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ረድእን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እዚ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:11.004847507Z",
+  "model": "glm-5.3"
+}

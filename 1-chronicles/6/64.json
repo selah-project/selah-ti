@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ወይን ⟨את⟩ ቅደሞትን ⟨את⟩ ከባቢኣን፣ ⟨את⟩ ምፋዓትን ⟨את⟩ ከባቢኣን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ወይን",
+      "marks": "ቅደሞት"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "ቅደሞት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ወይን",
+      "marks": "ከባቢኣ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ከባቢኣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ወይን",
+      "marks": "ምፋዓት"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "ምፋዓት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ወይን",
+      "marks": "ከባቢኣ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ከባቢኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:35:34.541675816Z",
+  "model": "glm-5.3"
+}

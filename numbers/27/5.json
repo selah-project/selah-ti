@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ሞሸ ኣብ ቅድሚ ያህዌህ ⟨את⟩ ፍረዲ እተን ኣቕረቦ።",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ኣቕረቦ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍረዲ እተን"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "ፍረዲ እተን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:37:57.011798272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 136,
+  "translation": "ካብ ተቓወምቲና ኣውፅኣና፤ ምኽንያቱ ናብ ዘለኣለም ሔሴዱ እዩ።",
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "ኣውፅኣና"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "ካብ ተቓወምቲና"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:56.931586615Z",
+  "model": "glm-5.3"
+}

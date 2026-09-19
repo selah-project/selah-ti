@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 99,
+  "translation": "ያህዌህ ነገሰ፤ ሕዝባት ይርዝኡ፤ ኣብ ልዕሊ ኵርባት ዝቐመጥ እዩ፤ ምድሪ ትንዘዕ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነገሰ"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "ይርዝኡ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ሕዝባት"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ዝቐመጥ"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "ኣብ ልዕሊ ኵርባት"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "ትንዘዕ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:52.751778262Z",
+  "model": "glm-5.3"
+}

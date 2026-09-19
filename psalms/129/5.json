@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 129,
+  "translation": "ኩሎም ጸላእቲ ጽዮን ክንሕፈሩን ናብ ኣፍደገኦም ክምለሱን።",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ክንሕፈሩን"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "ክምለሱን"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ናብ ኣፍደገኦም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ጸላእቲ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:42.546141815Z",
+  "model": "glm-5.3"
+}

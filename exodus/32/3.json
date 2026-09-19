@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ኩሉ እቲ ሕዝቢ ድማ ⟨את⟩ ነቲ ቀሚሳት እቲ ወርቂ እቶም ኣብ ኣእዳዊሆም ዝነበሩ ቐተሎም፡ ነቲ ኣሃሮን ኣእተዮም።",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "ቐተሎም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ቀሚሳት እቲ ወርቂ"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "ቀሚሳት"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "እቲ ወርቂ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "ኣብ ኣእዳዊሆም"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ኣእተዮም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:40:28.087116520Z",
+  "model": "glm-5.3"
+}

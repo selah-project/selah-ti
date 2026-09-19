@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ምዕኖታይ ድማ ⟨את⟩ ዕፍራሕ ወለደ፤ ሽራያሕ ድማ ⟨את⟩ ዮኣብ ኣቦ ናይ ገይ-ሕራሺም ወለደ፤ ምኽንያቱ ሕራሺም እዮም ነይሮም።",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "ምዕኖታይ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዕፍራሕ"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "ዕፍራሕ"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "ሽራያሕ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮኣብ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮኣብ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "ገይ"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ሕራሺም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ሕራሺም"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነይሮም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:32:28.478036944Z",
+  "model": "glm-5.3"
+}

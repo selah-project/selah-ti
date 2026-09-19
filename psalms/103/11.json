@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 103,
+  "translation": "ምኽንያቱ ከም ቁመት ሰማያት ኣብ ልዕሊ ምድሪ፣ ሔሴዱ ኣብ ልዕሊ ዝደልይዎ ደለወ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "ከም ቁመት"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ደለወ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ዝደልይዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:13.272911364Z",
+  "model": "glm-5.3"
+}

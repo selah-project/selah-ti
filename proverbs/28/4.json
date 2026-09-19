@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ቶራ ዝሓደጉ ሓራሽ ይመስግኑ፤ ቶራ ዝኽተሉ ድማ ብንሳቶም ይቃለሱ።",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "ዝሓደጉ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ይመስግኑ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ሓራሽ"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "ዝኽተሉ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "ይቃለሱ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ብንሳቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:59:50.487559595Z",
+  "model": "glm-5.3"
+}

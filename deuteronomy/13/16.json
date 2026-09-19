@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ምቕተልካ ⟨את⟩ ነብራት እቲ ከተማ እቲ ብፍልጢ ሰይፊ ትቐትል፤ ነታ ⟨את⟩ ትጸምእዋ፣ ከምኡውን ⟨את⟩ ኩሉ እቲ ኣብኣ ዘሎ፣ ከምኡውን ⟨את⟩ ኣራዊታታን ብፍልጢ ሰይፊ።",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "ምቕተልካ"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "ትቐትል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነብራት"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ነብራት"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ብፍልጢ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፊ"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "ትጸምእዋ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ነታ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣራዊታታን"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "ኣራዊታታን"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ብፍልጢ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፊ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:56:44.791105140Z",
+  "model": "glm-5.3"
+}

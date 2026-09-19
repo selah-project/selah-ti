@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ፓርዖ ድማ በለ፦ ኣሎ እዩ፣ ህዝቢ ⟨እቲ⟩ ምድሪ ብዙሓት እዮም ሕጂ፣ ንስንትኩም ድማ ካብ ኣጽራዕታቶም ኣረፍዐምዎም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ፦"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ኣሎ እዩ፣"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት እዮም"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እቲ ምድሪ"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "ኣረፍዐምዎም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ኣጽራዕታቶም"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "ካብ ኣጽራዕታቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:14:14.100490844Z",
+  "model": "glm-5.3"
+}

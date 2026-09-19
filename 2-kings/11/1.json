@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ዓታልዺሃ፣ ኣዲ ኣካዝዺሁ፣ ወዲኣ ምስ ሞተ ረኣየት፣ ተቓልሳ ድማ ⟨את⟩ ኩሉ ዘርኢ እቲ መንግስቲ ዓበየት።",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "ዓታልዺሃ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ኣዲ"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "ኣካዝዺሁ"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "ረኣየት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ወዲኣ"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ተቓልሳ"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "ዓበየት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ዘርኢ እቲ መንግስቲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘርኢ"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "እቲ መንግስቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:23:21.872684455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ንኣገልገልትኻ ዋሚድ ኩን ንምሕደር፤ ትሕትና ዘይብሎም ኣይቐጻለውኒ።",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "ዋሚድ ኩን"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ንኣገልገልትኻ"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "ንምሕደር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "ቐጻለውኒ"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ትሕትና ዘይብሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:59.087250805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ብድኣቱ ንእቲ ኣጥፊእ ⟨את⟩ ይሕዝየን፣ ብገመራት ሓጢኣቱ ድማ ተታሒዞ ይጽንሕ።",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "ብድኣቱ"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "ይሕዝየን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ኣጥፊእ"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "እቲ ኣጥፊእ"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "ብገመራት"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ሓጢኣቱ"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "ተታሒዞ ይጽንሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:41:29.882025670Z",
+  "model": "glm-5.3"
+}

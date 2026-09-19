@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ወፈያ ናይ መጀመርታ ፍሬ ኢሉ፣ ⟨אתם⟩ ንያህዌህ ትቐርብዎም፤ ኣብ መሠዊዕ ግን ንመዓዛ ምሕረት ኣይወርዑን።",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ናይ መጀመርታ ፍሬ"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "ትቐርብዎም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ንያህዌህ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠዊዕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ክወርዑ"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "ንመዓዛ"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ምሕረት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:46:36.293933204Z",
+  "model": "glm-5.3"
+}

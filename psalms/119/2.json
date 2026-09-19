@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ሓጐስ ኣሎዮም እቶም ምስክትታቱ ዝኾኑ ተጠንቐቑ፣ ኣብ ኩሉ ልቦም እተውከሱ።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ሓጐስ"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "ዝኾኑ ተጠንቐቑ"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "ምስክትታቱ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "ይደለይዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:27.808325230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኣብ ኢዱ ነፍሲ ኩሉ ሕያውን መንፈስ ኹሉ ስጋ ሰብ ኣሎ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ኣብ ኢዱ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ንመንፈስ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ስጋ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:07:10.164128772Z",
+  "model": "glm-5.3"
+}

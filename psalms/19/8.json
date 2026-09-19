@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ቶራ ያህዌህ ምሉእ እያ፣ ነፍሲ ትመልስ፤ ምስክርቲ ያህዌህ እትኣምን እያ፣ ኣእምሮ ዘይብሉ ተምሃራይ ትገብር።",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "ምሉእ እያ"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "ትመልስ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ምስክርቲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "እትኣምን እያ"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "ተምሃራይ ትገብር"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "ኣእምሮ ዘይብሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:37.188001014Z",
+  "model": "glm-5.3"
+}

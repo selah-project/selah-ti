@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 5:7",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ካህናት ድማ ⟨את⟩ ኣርኖ ኪዳን ያህዌህ ናብ ቦታኡ፣ ናብ ውሽጢ ዓዳረ መቕደስ ቤት፣ ናብ ቅዱስ ቅዱሳት፣ ናብ ትሕቲ ክንፊ ኽሩቤም ኣእተዉ።",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "ኣእተዉ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣርኖ ኪዳን ያህዌህ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ኣርኖ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ቦታኡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "ውሽጢ ዓዳረ መቕደስ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ክንፊ"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ኽሩቤም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:56:08.373779199Z",
+  "model": "glm-5.3"
+}

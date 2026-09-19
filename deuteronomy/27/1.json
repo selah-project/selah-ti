@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ሞሸን ዝጾናት እስራኤልን ነቲ ህዝቢ ⟨את⟩ እናተዛረቡ «ኩሉ ትእዛዝ እት ኣዘዝኩምዎ ሎሚ ተጠንቐቑ» ኣዘዙ።",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ኣዘዙ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ምስ ዝጾናት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ህዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበሉ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ተጠንቐቕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "እቲ ትእዛዝ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እት"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ኣዘዝኩ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ንዕኻትኩም"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:06:41.676243741Z",
+  "model": "glm-5.3"
+}

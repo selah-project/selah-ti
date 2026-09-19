@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "«⟨את⟩ ድምቐት ሻወፋር ሰምዐ እንተ ኣይተጠንቐቐን፣ ወይሮ ኣብቲ ክኸውን እዩ፤ እቲ እተጠንቀቐ ድማ ነፍሱ ሓልዎ።»",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምቐት ሻወፋር"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምቐት"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "ሻወፋር"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "ተጠንቀቐ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ወይሮ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብቲ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክኸውን እዩ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "እተጠንቀቐ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱ"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "ሓልዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:49:28.029750925Z",
+  "model": "glm-5.3"
+}

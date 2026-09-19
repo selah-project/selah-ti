@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 98,
+  "translation": "ብቕርንቲታትን ብድምጺ ሻውፋርን ኣብ ቅድሚ እቲ ንጉስ ያህዌህ ኣውጁ።",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "ብቕርንቲታት"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ድምጺ…ን"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ሻውፋር"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ኣውጁ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:54.871203321Z",
+  "model": "glm-5.3"
+}

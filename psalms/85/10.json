@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 85,
+  "translation": "በዓይኒ ንዝፈርህዎ ድሕንነቱ ቐርቢ እዩ፣ ክብሪ ኣብ ምድርና ክነብር።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "በዓይኒ"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ቐርቢ"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ንዝፈርህዎ"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ድሕንነቱ"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "ክነብር"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ኣብ ምድርና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:29.041417911Z",
+  "model": "glm-5.3"
+}

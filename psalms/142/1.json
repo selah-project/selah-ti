@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 142,
+  "translation": "ናይ ዳዊድ መምህርያዊ ትምህርቲ፣ ኣብ ማዕበል እንተ ዝነበረ፣ ምልጢሕ።",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "መምህርያዊ ትምህርቲ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "እንተ ዝነበረ"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "ኣብ ማዕበል"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ምልጢሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:39.406680321Z",
+  "model": "glm-5.3"
+}

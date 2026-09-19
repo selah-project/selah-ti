@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ውላድ እስራኤል ድማ ነቲ ሻባት ⟨את⟩ ክጠንቐቑ እዮም፣ ነቲ ሻባት ⟨את⟩ ንምግባር ናብ ትውልዲኦም፣ ኪዳን ዘለኣለም እዩ።",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "ክጠንቐቑ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ሻባት"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ነቲ ሻባት"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ንምግባር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ሻባት"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ነቲ ሻባት"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ናብ ትውልዲኦም"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:35:33.946810073Z",
+  "model": "glm-5.3"
+}

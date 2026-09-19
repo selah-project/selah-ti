@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ከምኡውን ኣብ ልዕሊ እቲ ጠረጴዛ ቓል ትጥሞ ኣብ ቅድሚይ ንነፍሲ ነዳይቲ።",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ትጥሞ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "እቲ ጠረጴዛ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ኣብ ቅድም"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚይ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ንነፍሲ ነዳይቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:33:10.286573677Z",
+  "model": "glm-5.3"
+}

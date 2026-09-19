@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ሰለይዎ፤ ሞሸ ድማ ⟨את⟩ ደም ኣብ እቲ መሠወኪ ዙርያኡ ኣመርግሙ።",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ሰለይዎ"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ኣመርግሙ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደም"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "እቲ መሠወኪ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ዙርያኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:53:06.939971871Z",
+  "model": "glm-5.3"
+}

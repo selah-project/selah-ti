@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 144,
+  "translation": "ብርቃ በርቅ በርቃን ስዕሮም፤ ሳሕታትካ ምለኽን ኣሕመሞም።",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "ብርቃ በርቅ"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "በርቅ"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "ስዕሮም"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ምለኽን"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "ሳሕታትካ"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "ኣሕመሞም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:47.188387665Z",
+  "model": "glm-5.3"
+}

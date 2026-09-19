@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እዚኦም ስማት ውላድ ኣሃሮን፣ እቶም ካህናት ዝተቐብኡ፣ እቶም ኢዶም ንካህነት ዝምላእዎም።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ስማት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "ዝተቐብኡ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ዝምላእዎም"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ኢዶም"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ንካህነት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:14:20.632588881Z",
+  "model": "glm-5.3"
+}

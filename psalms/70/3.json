@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 70,
+  "translation": "እቶም ነፍሰይ ዝደልዩ ይጾሩን ይሕፉሩን፤ ኣብ ድሕሪት ይምለሱን ይውረዱን።",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ይጾሩ"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ይሕፉሩን"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ዝደልዩ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "ይምለሱ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ኣብ ድሕሪት"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ይውረዱን"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ዝደልዩ"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ኣብ ሕማቐይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:25.894627955Z",
+  "model": "glm-5.3"
+}

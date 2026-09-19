@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ስለዚ ኻ ናብ ፓርዖ ክሳቕበሃ እየ፤ ⟨את⟩ ህዝቢ ውላድ ይስራኤል ካብ ሚጽራይም ኣውጽእ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ኻ"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "ክሳቕበሃ እየ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "ኣውጽእ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ህዚቢ ውላድ ይስራኤል"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ካብ ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:13:19.823456668Z",
+  "model": "glm-5.3"
+}

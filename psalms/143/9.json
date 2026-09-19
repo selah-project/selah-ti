@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 143,
+  "translation": "ያህዌህ ካብ ተቓላስቲይ ኣድሕነኒ፤ ኣብኻ ተሓዚአ እየ።",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ኣድሕነኒ"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "ካብ ተቓላስቲይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ኣብኻ"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "ተሓዚአ እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:21.791909299Z",
+  "model": "glm-5.3"
+}

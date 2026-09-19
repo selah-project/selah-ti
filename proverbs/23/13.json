@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ካብ ውላድ መግረዚ ኣይትኽል፤ ብዘበን እንተ ዘበንዱ፡ ኣይሞትን።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ትኽል"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "ካብ ውላድ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "መግረዚ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "ዘበንዱ"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ብዘበን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ሞትን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:55:27.686442131Z",
+  "model": "glm-5.3"
+}

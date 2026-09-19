@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 58,
+  "translation": "እውን ኣብ ልቢ ኣበይቲ ትገብሩ፤ ኣብ ምድሪ ብዝበለ ኢድኹም ትመዝኑ።",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ኣብ ልቢ"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ኣበይቲ"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "ትገብሩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ብዝበለ"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "ኢድኹም"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "ትመዝኑ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:02:42.133432358Z",
+  "model": "glm-5.3"
+}

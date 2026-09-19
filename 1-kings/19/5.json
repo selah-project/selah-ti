@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ንሱ ድማ ተኺሉ ኣብ ታሕቲ ሓደ ሮተም ተቐመጠ እናበለ ኣንቀላዕ፤ ኣብዚ ሓደ መልኣኽ ንእሽቱ ተሓንኮሶ «ተንሳእ፣ ብልዕ» በሎ።",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "ኣንቀላዕ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ታሕቲ"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "ሮተም"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣብዚ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "መልኣኽ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ተሓንኮሶ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ንእሽቱ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሽቱ"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ተንሳእ"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "ብልዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:07:00.255648732Z",
+  "model": "glm-5.3"
+}

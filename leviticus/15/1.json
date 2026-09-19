@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ያህዌህ ንሞሸን ንኣሃሮንን እናበለ ተዛረበ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ን…ን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮንን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:30:29.737324276Z",
+  "model": "glm-5.3"
+}

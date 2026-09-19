@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 55,
+  "translation": "ካብ ቃል ኣብዛስቲ፣ ስለ ግፋዕ ክፉእ፣ ሕጉስ ኣብ ልዕለይ ኣውዕቲ ወሪዶለይ፣ ብቁጥዕ ድማ ይጠልኡኒ።",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ካብ ቃል"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ኣብዛስቲ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "ግፋዕ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ሕጉስ"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "ወሪዶለይ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕለይ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ኣውዕቲ"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "ብቁጥዕ"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "ይጠልኡኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:00.070915797Z",
+  "model": "glm-5.3"
+}

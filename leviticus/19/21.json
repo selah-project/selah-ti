@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ከምኡውን ⟨את⟩ ኣሳምኡ ንያህዌህ ናብ እቲ መእተዊ ናይ ድንኳን ስብሻን ይኣትዎ፥ እቲ ድዑል ናይ ኣሳም።",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ይኣትዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሳምኡ"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "ኣሳምኡ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "መእተዊ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ስብሻን"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ድዑል"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ኣሳም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:02:56.702200199Z",
+  "model": "glm-5.3"
+}

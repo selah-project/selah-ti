@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ነቶም ውሉዓት ኣገልጋሊ ካብ እታ ምድሪ ኣሓለፎም፤ ድማ ⟨את⟩ ኩሉ ጣዓላት እቶም ኣቦታቱ ዝገበርዎም ኣብሓደሰን ነበረ።",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "ኣሓለፎም"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ውሉዓት ኣገልጋሊ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እታ ምድሪ"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ኣብሓደሰን ነበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ጣዓላት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "ጣዓላት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝገበርዎም"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዝገበሩ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ኣቦታቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:02:36.481952761Z",
+  "model": "glm-5.3"
+}

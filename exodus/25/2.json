@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "«ኣብ ውላድ ይስራኤል ተዛረብ፣ ንኣነ ወፈያ ክወስዱ፤ ካብ ⟨את⟩ ኩሉ ሰብ እቲ ልቡ እትገብሮ እንተ ወዲዑ ⟨את⟩ ወፈዻይ ተወስዱ።»",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ይወስዱ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ካብ ⟨את⟩",
+      "marks": "ኩሉ ሰብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እትገብሮ"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "የድኽምን"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ተወስዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወፈዻይ"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "ወፈዻይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:32:01.234495550Z",
+  "model": "glm-5.3"
+}

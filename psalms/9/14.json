@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "በቐነኒ ያህዌህ፡ ረኣየ ችግርያ ካብ ተቓሊስተይ፡ ንዓይ ካብ ኣፍራጋት ሞት ዝሓልዎ።",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "በቐነኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ችግርያ"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "ካብ ተቓሊስተይ"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "ዝሓልዎ"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "ኣፍራጋት"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:43.739953423Z",
+  "model": "glm-5.3"
+}

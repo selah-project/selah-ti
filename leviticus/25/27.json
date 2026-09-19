@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "⟨את⟩ ዓመታት ናይ መሸጣኡ ክቕመጥ፣ ተረፍ ነቲ ሰብ ዝሸጾ ⟨את⟩ ተረፍ ክመልስ፣ ንሱ ድማ ናብ ንብረቱ ክምለስ እዩ።",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "ክቕመጥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓመታት ናይ መሸጣኡ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "ናይ መሸጣኡ"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ክመልስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተረፍ"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "ተረፍ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ነቲ ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "ዝሸጦ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ክምለስ"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "ናብ ንብረቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:08:34.129329616Z",
+  "model": "glm-5.3"
+}

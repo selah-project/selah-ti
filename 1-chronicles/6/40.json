@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ሃቡ ሎም ⟨את⟩ ሕብሮን ኣብ ምድሪ ይሁዳን ⟨את⟩ መግራሺኣን ብዙርያኣ።",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ሃቡ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ሎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕብሮን"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ሕብሮን"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መግራሺኣ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "መግራሺኣ"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "ብዙርያኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:34:09.995884487Z",
+  "model": "glm-5.3"
+}

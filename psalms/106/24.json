@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ኣብ ምድሪ እትደለይ ተጣየዩ፣ ነቲ ቃሉ ኣይኣምኑን።",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "ተጣየዩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "እትደለይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ኣምኑ"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "ነቲ ቃሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:18.833796184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ኣይጽውዕን፣ ድምጹን ኣይወሃህድን፣ ድምጹን ኣብ ጎደና ኣያስማዕን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "ይጽውዕ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ን፣ ኣይ…ን"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ይወሃህድ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ን፣ ኣይ…ን"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "ያስማዕ"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ኣብ ጎደና"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "ድምጹን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:11:36.516123300Z",
+  "model": "glm-5.3"
+}

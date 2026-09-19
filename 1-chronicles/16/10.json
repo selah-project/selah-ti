@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ኣብ ቅዱስ ስሙ ተመስገኑ፤ ንያህዌህ ዝደልዩ ልቢ ደስ ይብሉ።",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "ተመስገኑ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ኣብ ስሙ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ደስ ይብሉ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ዝደልዩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:40:18.189263520Z",
+  "model": "glm-5.3"
+}

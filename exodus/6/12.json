@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ሞሸ ድማ ብቅድሚ ያህዌህ ተዛረቡ እናበለ፦ «ኣሎ፣ ውላድ ይስራኤል ኣይሰምዑንኒ፤ ኣነ ድማ ከይተለለወ ከይንቀር ስለ ዝኾነ፣ ከመይ ክሰምዐኒ ፓርዖ፧»",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረቡ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ብቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ፦"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ኣሎ፣"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ሰምዑንኒ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "ከመይ"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "ክሰምዐኒ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "ከይተለለወ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ከይንቀር"
+    }
+  ],
+  "timestamp": "2026-09-18T21:12:36.821301446Z",
+  "model": "glm-5.3"
+}

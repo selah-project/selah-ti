@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኩኑ፣ ናብ ያህዌህ ንምምለስ፤ ሕውኦ ንሱ በረቐየና፣ ክፈውሰና እዩ፤ ደቐየና፣ ክሓስረና እዩ።",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ኩኑ"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "ንምምለስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ሕውኦ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "በረቐየና"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "ክፈውሰና"
+    },
+    {
+      "surface": "יך",
+      "gloss": "ደቐየና"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "ክሓስረና"
+    }
+  ],
+  "timestamp": "2026-09-19T04:06:24.840070551Z",
+  "model": "glm-5.3"
+}

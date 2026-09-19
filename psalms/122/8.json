@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 122,
+  "translation": "ንሓውተይን መሓይለይን ሕጂ ሰላም ኣብ ኣኻ ክብል እየ።",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ንስኣያ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ሓውተይ"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "ንመሓይለይ"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "ክብል እየ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣብ ኣኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:49.618039420Z",
+  "model": "glm-5.3"
+}

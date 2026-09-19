@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 77,
+  "translation": "ከም መንጎታት ኣህዛብና ⟨את⟩ ዓበይትን ኣውራ ጠፍኣትን ብኢድ ሞሸን ኣሃሮንን ኣንቀልበልካ።",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "ኣንቀልበልካ"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ከም መንጎታት"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ህዝብካ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ኣሃሮንን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:08:33.126261596Z",
+  "model": "glm-5.3"
+}

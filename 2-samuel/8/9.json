@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ቶዐ ንጉስ ናይ ሓማት ዳዊድ ⟨את⟩ ዅሉ ሓይሊ ሓዳድዓዘር ሰበሩ ኢሉ ሰምዐ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "ቶዐ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ሓማት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ሰበረ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዅሉ ሓይሊ ሓዳድዓዘር"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ዅሉ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ሓይሊ"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ሓዳድዓዘር"
+    }
+  ],
+  "timestamp": "2026-09-19T00:25:53.505778706Z",
+  "model": "glm-5.3"
+}

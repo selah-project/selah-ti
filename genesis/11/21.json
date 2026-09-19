@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ርዑ ኣብ ድሕሪ ምውልዋዱ ⟨את⟩ ስሩግ ሸውዓተ ዓመታትን ምእቲ ዓመታትን ነይሩ፣ ወለዶ ደቃትን ጓላትን።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "ርዑ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ኣብ ድሕሪ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ምውልዋዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሩግ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "ስሩግ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ምእቲ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለዶ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ደቃት"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ጓላት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:39.520081632Z",
+  "model": "glm-5.3"
+}

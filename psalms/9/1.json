@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ንመሪሕ ዜማ፡ ብዘይሞት ላቤን፡ መዝሙር ናይ ዳዊድ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንመሪሕ ዜማ"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "ብዘይሞት"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ላቤን"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:30.173052338Z",
+  "model": "glm-5.3"
+}

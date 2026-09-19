@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኤልይሻ ድማ ናብ እቲ ቤት ምስ ኣተየ — ኣሎ፣ እንሆ እቲ ወዲ ሞይቱ ኣብ ትስምቡ ተኾሱ እዩ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ምስ ኣተየ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ኤልይሻ"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ናብ እቲ ቤት"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣሎ — እንሆ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "እቲ ወዲ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞይቱ"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "ተኾሱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "ትስምቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:16:48.944012926Z",
+  "model": "glm-5.3"
+}

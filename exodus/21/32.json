@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 21:32",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "እቲ ጎቦ ባርያ ወይ ባርያቲ እንተ ኣጥቑ፣ ሰላሳ ስቅላት ቐርሕ ንጎይታኦም ይህብ፣ ነቲ ጎቦ ድማ ይቕረጽ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ባርያ"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "ይኣጥቑ"
+    },
+    {
+      "surface": "השור",
+      "gloss": "እቲ ጎቦ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ባርያቲ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ቐርሕ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሰላሳ"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "ስቅላት"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይህብ"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "ንጎይታኦም"
+    },
+    {
+      "surface": "והשור",
+      "gloss": "ነቲ ጎቦ"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "ይቕረጽ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:29:45.902678253Z",
+  "model": "glm-5.3"
+}

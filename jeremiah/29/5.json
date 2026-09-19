@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ቤታት ሰርሑ፣ ኣብኡ'ውን ቐመጡ፣ ኣትኮታት ተኽኡ፣ ⟨את⟩ ፍረኦም ብሉ።",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "ሰርሑ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ቤታት"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ኣብኡ'ውን ቐመጡ"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "ተኽኡ"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "ኣትኮታት"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ብሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍረኦም"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "ፍረኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:54:43.875973369Z",
+  "model": "glm-5.3"
+}

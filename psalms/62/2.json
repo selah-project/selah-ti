@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 62,
+  "translation": "ኣብ ኤሎሂም ጥራይ ነፍሰይ ዝምዳ እያ፣ ካቡኡ እዩ ናይ ቤዛዕተይ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ዝምዳ ትጽቢን"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካቡኡ"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ናይ ቤዛዕተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:01.597573091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 116,
+  "translation": "ማሕበልቲ ሞት ተኸባበሉኒ፣ ጥንቁቕቲ ሽኦል ድማ ረኺቡኒ፤ ጸገምን ሓዘንን ረኺነ።",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "ተኸባበሉኒ"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "ማሕበልቲ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "ጥንቁቕቲ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሽኦል"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "ረኺቡኒ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ጸገም"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "ሓዘን"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ረኺነ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:22.335048904Z",
+  "model": "glm-5.3"
+}

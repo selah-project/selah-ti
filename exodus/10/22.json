@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ሞሸ ⟨את⟩ ኢዱ ንሰማያት ኣስሓበ፤ ሰለስተ መዓልታት ኣብ ኩሉ ምድሪ ሚጽራይም ጸልማት ሓባሽ ዀነ።",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ኣስሓበ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢዱ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ዀነ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጸልማት"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "ሓባሽ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:16:48.479712749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "ናብ መሠዊን ኤሎሂም ክኣቶ እየ፣ ናብ ኤል ዕጉቐት ሓጐሰይ፤ ኤሎሂም ኤሎሂም ኣነ ብኪኖር ኣመስግንካ እየ።",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "ክኣቶ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠዊን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "ዕጉቐት"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "ሓጐሰይ"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "ኣመስግንካ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ብኪኖር"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:48.081154231Z",
+  "model": "glm-5.3"
+}

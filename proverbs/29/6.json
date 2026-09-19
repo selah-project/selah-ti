@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ብኣብዚ ሓጢያት እቲ ንጹኻዊ ሰብ ዓበይቲ ዕላል ኣሎዎ፡ እቲ ጻድቕ ግን ይዛረብ ድማ ደስ ይብሉ።",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "ብኣብዚ ሓጢያት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ንጹኻዊ"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "ዓበይቲ ዕላል"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "እቲ ጻድቕ ግን"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "ይዛረብ"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "ደስ ይብሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:57:43.694123002Z",
+  "model": "glm-5.3"
+}

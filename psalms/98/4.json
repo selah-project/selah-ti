@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 98,
+  "translation": "ንያህዌህ ኩሉ ምድሪ ኣደምቑ፤ በዓው በሉ፣ ተደሓሩን መዝሙር ድማ በሉን።",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "ኣደምቑ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "በዓው በሉ"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "ተደሓሩን"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "መዝሙር በሉን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:12.883814734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ካባይ ርሕቑ ኩሉ ተጋደልቲ ንዋሕነት፣ ምኽንያቱ ያህዌህ ድምጺ ናይ ኣወርቂተይ ሰምዐ።",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "ርሕቑ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ካባይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ተጋደልቲ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ንዋሕነት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጺ"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "ኣወርቂተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:40:45.028995684Z",
+  "model": "glm-5.3"
+}

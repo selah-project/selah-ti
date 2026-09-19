@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "እዚኦም ሓሙሽተ ነገስቲ ድማ ደምበሩ፣ ኣብ በዓሲ ኣብ ማቐዳ ተሓበኑ።",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "ደምበሩ"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ነገስቲ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "ተሓበኑ"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "ኣብ በዓሲ"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "ኣብ ማቐዳ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:22:32.666467414Z",
+  "model": "glm-5.3"
+}

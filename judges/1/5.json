@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "⟨את⟩ ኣዶናይ-ቤዝቅ ኣብ ቤዝቅ ረኺብዎ፣ ምስኡ ተዓራረቡ፣ ⟨את⟩ ከነዓኒን ⟨את⟩ ፐሪዚን ድማ ሰቒልዎም።",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "ረኺብዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣዶናይ-ቤዝቅ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "-ቤዝቅ"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "ኣብ ቤዝቅ"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ተዓራረቡ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ምስኡ"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ሰቒልዎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከነዓኒ"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ከነዓኒ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ፐሪዚ"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "ፐሪዚ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:33:52.154725336Z",
+  "model": "glm-5.3"
+}

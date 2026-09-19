@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "እቲ ምስ ኣቭራሃም ⟨את⟩ ቐየሖን ምስ ይጽሓቅ ድማ ዝኣዘዞ ኣሕጋግ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ቐየሖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቭራሃም"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "ኣሕጋጉ"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "ንይጽሓቅ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:12.194865811Z",
+  "model": "glm-5.3"
+}

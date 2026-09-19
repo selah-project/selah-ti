@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ነቲ ጠረጴዛ ኣእቱ፣ ⟨את⟩ ስርዓኡ ተዳለው፣ ነቲ መነቐሊ መብራሕ ኣእቱ፣ ⟨את⟩ መብራሓቱ ድማ ተወካኽብ።",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "ኣእቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ጠረጴዛ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "እቲ ጠረጴዛ"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "ተዳለው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስርዓኡ"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "ስርዓኡ"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "ኣእቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ መነቐሊ መብራሕ"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "እቲ መነቐሊ መብራሕ"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "ተወካኽብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መብራሓቱ"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "መብራሓቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:47:15.576842228Z",
+  "model": "glm-5.3"
+}

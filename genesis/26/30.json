@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ንሳቶም ንዝግጅቲ ገበረሎም፣ ድማ በልዑን ሰቱን።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ዝግጅቲ"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "በልዑ"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ሰቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:48:34.549738171Z",
+  "model": "glm-5.3"
+}

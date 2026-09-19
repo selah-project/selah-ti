@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 17:11",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "እቲ ለዊ ምስ ⟨את⟩ እቲ ሰብ ንምቕመጥ ተደለዩ፤ እቲ ወጻይ ድማ ንኣ ከም ሓደ ካብ ውላዱ ኮይኑ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "ተደለዩ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "እቲ ለዊ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ንምቕመጥ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሰብ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ ነይሩ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "እቲ ወጻይ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኣ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ከም ሓደ"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "ካብ ውላዱ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:50:42.463254526Z",
+  "model": "glm-5.3"
+}

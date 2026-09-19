@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "እታ ጥበብ ንብሩሕ ብዝያዳ ኻብ ዎሮ ዓሰርተ ሃልዮት ኣብ ከተማ ዝነበሩ ትሓብኖ።",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "እታ ጥበብ"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "ትሓብኖ"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ንብሩሕ"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "ኻብ ዓሰርተ"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "ሃልዮት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ዝነበሩ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ኣብ ከተማ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:42:46.924042548Z",
+  "model": "glm-5.3"
+}

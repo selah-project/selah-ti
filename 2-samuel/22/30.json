@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 22:30",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ምኽንያቱ ብንስኻ ኣሻሓርሲ ሰረጽኩ፣ ብኤሎሃይ ድማ ንግንዲ ደለግኩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ብንስኻ"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "ሰረጽኩ"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "ኣሻሓርሲ"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "ብኤሎሃይ"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "ደለግኩ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ግንዲ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:42:10.866185079Z",
+  "model": "glm-5.3"
+}

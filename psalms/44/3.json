@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ንስኻ ብኢድካ ኣህዛብ ወረንገድካዮም፣ ነኦም ድማ ተኣዘምካዮም፤ ህዝቢ ቈለስካዮ፣ ነኦም ድማ ሰደድካዮም።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ብኢድካ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "ወረንገድካዮም"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "ተኣዘምካዮም"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "ቈለስካዮ"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "ሰደድካዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:29.773994060Z",
+  "model": "glm-5.3"
+}

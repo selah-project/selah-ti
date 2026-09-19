@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "⟨את⟩ ኣካሊቡ ኣብ መቓብርኡ ኣንሪዑ፣ ንሱ ድማ «ዓወይ ዓወይ፣ ወደይ ኣሓይ!» ኢሎም ተሓዙሉ።",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "ኣንሪዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣካሊቡ"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "ኣካሊቡ"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "ኣብ መቓብርኡ"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "ተሓዙሉ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "ዓወይ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ኣሓይ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:01:22.140124958Z",
+  "model": "glm-5.3"
+}

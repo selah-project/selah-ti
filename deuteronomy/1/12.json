@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ከመይ እየ ብባዕለይ ጥራይ ዕቐትኩምን ጭንቀትኩምን ክርክርኩምን ክሰትየ?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "ከመይ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ክሰትየ"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ብባዕለይ ጥራይ"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "ዕቐትኩም"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "ጭንቀትኩምን"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "ክርክርኩምን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:44:27.465555294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ንማሕደርን ⟨את⟩ ዘት መቕባኢን ⟨את⟩ ጸባኣ ኣድንጉስ ቅጭሕ ንቅድስቲ መቕደስን፦ ከም ኩሉ እታ ዝኣዘዝኩኻ ከምኡ ኽገብሩ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዘት መቕባኢ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘት"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "መቕባኢ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጸባኣ ኣድንጉስ ቅጭሕ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ጸባኣ"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ኣድንጉስ ቅጭሕ"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "ንቅድስቲ መቕደስ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ከም ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ ዝ"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "ዝኣዘዝኩኻ"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ኽገብሩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:33:48.015220561Z",
+  "model": "glm-5.3"
+}

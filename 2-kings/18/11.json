@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ንጉስ ኣሽር ድማ ⟨את⟩ ይስራኤል ናብ ኣሽር ሰደዓ፣ ኣብ ሕላሕን ኣብ ሕቡር ጣልሓ ጎዛንን ወይ ኣብ መዓርታት ምዲ ኣረዓቶም።",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "ሰደዓ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣሽር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "ናብ ኣሽር"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ኣረዓቶም"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "ኣብ ሕላሕ"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "ወይ ኣብ ሕቡር"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ጣልሓ"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "ጎዛን"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "ወይ መዓርታት"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ምዲ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:30:02.247085026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 62,
+  "translation": "ብኤሎሂም ኮይኑ ናይ ድሕነተይን ክብረተይን እዩ፣ ቈላ ሓይለይ ማሕደረይ ኣብ ኤሎሂም እዩ።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ናይ ድሕነተይ"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ክብረተይን"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ቈላ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ሓይለይ"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ማሕደረይ"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ኣብ ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:05.607132369Z",
+  "model": "glm-5.3"
+}

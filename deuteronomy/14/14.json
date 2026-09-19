@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ከምኡውን ⟨את⟩ ኩሉ ዑርባይ ንዓይነቱ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ዑርባይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ዑርባይ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ንዓይነቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:55:23.881209699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 32:18",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ንሱ ኸኣ «ቓል ድልውነት ኣይኮነን፣ ቓል ስዕረት እውን ኣይኮነን፣ ቓል ምዝገባ እየ ዝሰምዐ።» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "ድልውነት ዝገብር"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "ድልውነት"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "እውን ኣይኮነን"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "ስዕረት ዝገብር"
+    },
+    {
+      "surface": "חלושה",
+      "gloss": "ስዕረት"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "ምዝገባ ዝገብር"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እየ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ዝሰምዐ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:40:24.916308600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ቢልዓም ድማ ኣብ ቀዳም ተንበረ፡ ነቲ ⟨את⟩ ኣጋሉ ኣስሪሑ ምስ ኣማልኡቲ ሞኣብ ኰይኑ ኸደ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተንበረ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ቢልዓም"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ኣብ ቀዳም"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "ኣስሪሑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣጋሉ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "ኣጋሉ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ኸደ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ኣማልኡቲ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:30:27.015710534Z",
+  "model": "glm-5.3"
+}

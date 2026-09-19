@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 75,
+  "translation": "ነቲ ዘማዓልዉሉ በልኩ፦ ኣይተማዓልዉን፤ ነቶም ኣጥፉኣት ድማ፦ ቀርን ኣይትሰክሙን።",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "በልኩ"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "ነቲ ዘማዓልዉሉ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "ተማዓልዉ"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "ነቶም ኣጥፉኣት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ተሰክሙ"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "ቀርን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:24.239640184Z",
+  "model": "glm-5.3"
+}

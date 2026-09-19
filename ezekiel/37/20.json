@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 37:20",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "እቶም እኽሊታት እትጽሕፍ ኣብሎም ኣብ ኢድኻ ኣብ ቅድሚ ዓይንቶም ይኹኑ።",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ይኹኑ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "እቶም እኽሊታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "ትጽሕፍ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ኣብሎም"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ኣብ ኢድኻ"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "ኣብ ቅድሚ ዓይንቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:57:34.647010498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ናይ ዳዊድ። ያህዌህ ናብኣኻ ነፍሰይ ኣብልዓ።",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኣኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ኣብልዓ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:05.581737135Z",
+  "model": "glm-5.3"
+}

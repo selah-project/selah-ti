@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 8:22",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ያህዌህ ቀዳማይ ኣሃዱ ኣብ መገዱ ቐድሙ ፈጠረኒ፣ ቅድሚ ግብራቱ ካብ ዓመታት።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קנני",
+      "gloss": "ፈጠረኒ"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ቀዳማይ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ኣብ መገዱ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ቐድሙ"
+    },
+    {
+      "surface": "מפעליו",
+      "gloss": "ግብራቱ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ካብ ዓመታት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:43:43.480655131Z",
+  "model": "glm-5.3"
+}

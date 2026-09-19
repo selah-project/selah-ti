@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ኣዶናይ ንሱ ይስቕሖ እዩ፤ መዓልቱ ምስ መጺኡ ስለ ዝረኣየ እዩ።",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ይስቕሖ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ዝረኣየ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "መጺኡ"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "መዓልቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:47.842367116Z",
+  "model": "glm-5.3"
+}

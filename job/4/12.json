@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ንኣነ ድማ ቃል ብምስጢር ተሰሪቡ፣ እዝነይ ጽምኢ ካብኡ ተቐብሉ።",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "ንኣነ ድማ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "ብምስጢር ተሰሪቡ"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ተቐብሉ"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "እዝነይ"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "ጽምኢ"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "ካብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:05:00.455614927Z",
+  "model": "glm-5.3"
+}

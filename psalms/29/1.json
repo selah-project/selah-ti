@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "መዝሙር ናይ ዳዊድ፦ ንያህዌህ ሃቡ፣ ውላድ ኤሊም፤ ንያህዌህ ሃቡ ክብሪን ሒድብን።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ሃቡ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "ኤሊም"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ሃቡ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ሒድብን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:41.985694170Z",
+  "model": "glm-5.3"
+}

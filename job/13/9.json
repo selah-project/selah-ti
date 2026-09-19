@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "«ብጽቡኡ እዩ ንስኻቶም ከም ዝመርምረኩም? ወይ ከም ሰብ ንሰብ ምስ ዝሰሓቑ፣ ንኤሎሂም እናተሰሓቐኩም ኢኹም?»",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "ብጽቡኡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "ይመርምር"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንስኻቶም"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "ከም ዝሰሓቑ"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "ትሰሓቑ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ንሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:08:09.934533176Z",
+  "model": "glm-5.3"
+}

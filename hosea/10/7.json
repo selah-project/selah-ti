@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ሽምሮን ምስ ንጉሳ ተቐጢቱ፣ ከም ንክሪ ኣብ ገጽ ማይ።",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "ተቐጢቱ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ሽምሮን"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ንጉሳ"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "ከም ንክሪ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:11:28.538665533Z",
+  "model": "glm-5.3"
+}

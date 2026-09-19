@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ወዲ፣ ቃላተይ እንተ ተቐቢልካን ትእዛዛተይ ምስ ⟨אתך⟩ እንተ ሓዲግካን፣",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ተቐቢልካ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ቃላተይ"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ትእዛዛተይ"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "እንተ ሓዲግካ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "ትእዛዛተይ ምስ ኣኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:42:57.926098261Z",
+  "model": "glm-5.3"
+}

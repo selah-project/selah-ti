@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ተወሲደካ ድማ ቅብ እትምሽኾ፣ ተብሒካ ⟨את⟩ ማሕደርን ⟨את⟩ ኩሉ ዝርከብ ኣብኡን፣ ቐድስካ ድማ ⟨את⟩ን ⟨את⟩ ኩሉ መሳርሒታቱን፣ ቅዱስ ኮይኑ ይጸንሕ።",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ተወሲደካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅብ እትምሽኾ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ቅብ"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "እትምሽኾ"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ተብሒካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማሕደር"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ዝርከብ ኣብኡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ቐድስካ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንእሱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ መሳርሒታቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "መሳርሒታቱ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:46:17.553363587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ነስኻ ተጠንቐቕ፣ ነቲ ሌዋይ ኩሉ መዓልታትካ ኣብ ምድርካ ከይትተለሎ ⟨את⟩ እቲ ሌዋይ።",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "ተጠንቐቕ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ነስኻ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ከይ"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ተወ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሌዋይ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "እቲ ሌዋይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "መዓልታትካ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ምድርካ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:35:27.242086694Z",
+  "model": "glm-5.3"
+}

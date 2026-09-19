@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 14:20",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ሻኡልን ኩሉ እቲ ህዝቒ እቲ ⟨את⟩ ምሱ ዝነበረን ተበጽሑ ናብ እቲ ውግእ ኣተዉ፤ እንሆ ሰይፊ ንሱ ነቲ መሓዋርኡ ነይሩ፤ ምዃርባ ዓቢ ብዙሕ ነይራ።",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "ተበጽሑ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቒ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ምሱ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ኣተዉ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "እቲ ውግእ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነይራ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፊ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "ነቲ መሓዋርኡ"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "ምዃርባ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:06:52.750013581Z",
+  "model": "glm-5.3"
+}

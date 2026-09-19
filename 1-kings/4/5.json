@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 4:5",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ዓዛርያሁ ወዲ ናታን ኣብ ልዕሊ እቶም ተቐማጦት ነበረ፣ ዛቡድ ወዲ ናታን ኻህን ሓብቲ እቲ ንጉስ ድማ ነበረ።",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "ዓዛርያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ናታን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "እቶም ተቐማጦት"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "ዛቡድ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ናታን"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ኻህን"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ሓብቲ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:46:18.927339401Z",
+  "model": "glm-5.3"
+}

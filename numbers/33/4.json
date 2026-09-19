@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ሚጽራይም ድማ ⟨את⟩ እቲ ያህዌህ ኣብኦም ዝሓመቖ ኩሉ ቐዳማይ ወልዲ እዮም ዝቐብርዎ፤ ኣብ ኣማልኽቶምን ድማ ያህዌህ ፍደላት ገበረ።",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "ሚጽራይም ድማ"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "ዝቐብርዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ያህዌህ ዝሓመቖ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ዝሓመቖ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ኣብኦም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ቐዳማይ ወልዲ"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "ኣብ ኣማልኽቶምን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ፍደላት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:43:00.444109394Z",
+  "model": "glm-5.3"
+}

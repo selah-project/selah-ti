@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ኤልይሁ ኸኣ ነቲ ህዝቢ ብሉጹ «ናባይ ተቓርቡ» በሎ፤ ኩሉ እቲ ህዝቢ ድማ ነቱ ተቓረበ፤ ነቲ ናይ ያህዌህ ማዕዶ እቲ ዝተሓወሸ ⟨את⟩ ሓሊኹ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልይሁ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ነቲ ኩሉ ህዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "ተቓርቡ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ናባይ"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "ተቓረበ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ነቱ"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ሓሊኹ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማዕዶ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ማዕዶ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "እቲ ዝተሓወሸ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:07:53.035222246Z",
+  "model": "glm-5.3"
+}

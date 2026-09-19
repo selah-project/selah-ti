@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 101,
+  "translation": "ቃል ብሊያል ኣብ ቅድሚ ዓይኒ ኣይውክእን እየ፤ ዝገብር ኣቕዓሚ ጸለምኩ፤ ኣብይ ኣይጽበየን እዩ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "እውክእ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዓይኒ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ብሊያል"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገብር"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "ኣቕዓሚ"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ጸለምኩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "ይጽበየ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ኣብይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:36.686372335Z",
+  "model": "glm-5.3"
+}

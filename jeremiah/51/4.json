@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 51:4",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 51,
+  "translation": "ኣብ ምድሪ ካስዲም ተታሒትቲ ይውደቑ፣ ተቐጻጺፉት ኸኣ ኣብ ጎዳኦኣ እዮም።",
+  "tokens": [
+    {
+      "surface": "ונפלו",
+      "gloss": "ይውደቑ"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "ተታሒትቲ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ካስዲም"
+    },
+    {
+      "surface": "ומדקרים",
+      "gloss": "ተቐጻጺፉት እዮም"
+    },
+    {
+      "surface": "בחוצותיה",
+      "gloss": "ኣብ ጎዳኦኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:16:58.152249686Z",
+  "model": "glm-5.3"
+}

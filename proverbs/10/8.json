@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ልቢ ፈላጥ ትእዛዛት ይቕበል፤ ንጹህ ኣንበጣ ግን ይወድቕ።",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "ፈላጥ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ይቕበል"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ትእዛዛት"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "ንጹህ ኣንበጣ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ንጹህ"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "ይወድቕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:45:35.750040024Z",
+  "model": "glm-5.3"
+}

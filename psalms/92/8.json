@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 92:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 92,
+  "translation": "ክፉኣት ከም ግበርሲ ኣብ ዝፍራሑ፣ ኩሎም ፈጻሚታት ክፉእ ከም ዝኣፈሩ፣ ናብ ዘለኣለም ንምጥፋኦም እዩ።",
+  "tokens": [
+    {
+      "surface": "בפרח",
+      "gloss": "ኣብ ዝፍራሑ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉኣት"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ግበርሲ"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "ኣፈሩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ፈጻሚታት"
+    },
+    {
+      "surface": "און",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "להשמדם",
+      "gloss": "ንምጥፋኦም"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:11.005069550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 43:15",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "እቲ ሓርኤል ኣርባዕተ እጓላት እዩ፤ ካብ እቲ ኣርያኤል ንላዕሊ ኸኣ ኣርባዕተ ቀርንቓታት እየን።",
+  "tokens": [
+    {
+      "surface": "וההראל",
+      "gloss": "እቲ ሓርኤል"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "እጓላት"
+    },
+    {
+      "surface": "ומהאראיל",
+      "gloss": "ካብ እቲ ኣርያኤል"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "ንላዕሊ"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "እቶም ቀርንቓታት"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ኣርባዕተ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:58:51.833098649Z",
+  "model": "glm-5.3"
+}

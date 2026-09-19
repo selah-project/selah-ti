@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 1:1",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ሽሎሞ ወዲ ዳዊድ ኣብ ላዕለ መንግስቱ ተጠናኺረ፣ ያህዌህ ኤሎሂምኡ ምስኡ ነይሩ፣ ንሱ ድማ ኣደረጎዮ ንዓቢ።",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "ተጠናኺረ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕለ"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "መንግስቱ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ኤሎሂምኡ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ምስኡ"
+    },
+    {
+      "surface": "ויגדלהו",
+      "gloss": "ኣደረጎዮ"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ንዓቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:53:25.815804232Z",
+  "model": "glm-5.3"
+}

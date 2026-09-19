@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 80,
+  "translation": "ንመሪብ፣ ኣብ ሽሆሻንን ምስክርቲ፣ ናይ ኣስፋት፣ መዝሙር።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንመሪብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "ሽሆሻንን"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ምስክርቲ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ናይ ኣስፋት"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:41.665073574Z",
+  "model": "glm-5.3"
+}

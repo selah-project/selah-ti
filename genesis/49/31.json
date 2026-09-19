@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "ኣብኡ ⟨את⟩ ኣቭራሃም ቀበሩ፣ ከምኡውን ⟨את⟩ ሳራ ሰበይቱ፤ ኣብኡ ⟨את⟩ ይጽሓቅ ቀበሩ፣ ከምኡውን ⟨את⟩ ርብቃ ሰበይቱ፤ ኣብኡ ድማ ⟨את⟩ ለኣ ቐበርኩ።",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "ቀበሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቭራሃም"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሳራ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ሳራ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሰበይቱ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "ቀበሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይጽሓቅ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይጽሓቅ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ርብቃ"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ርብቃ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሰበይቱ"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ኣብኡ ድማ"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "ቐበርኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ለኣ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ለኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:10:52.458214280Z",
+  "model": "glm-5.3"
+}

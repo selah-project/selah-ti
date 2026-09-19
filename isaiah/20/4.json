@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ከምኡውን ንጉስ ኣሽር ስዒቡ ሚጽራይምን ⟨את⟩ ስደት ኩሽን ⟨את⟩ ክወስድ እዩ፣ ውላድን ረባድን፣ ዓራማትን ሓራማትን፣ ደጊሞም ተገኣዮም ንዋሕጺ ሚጽራይም ንሕልንታ።",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "ክሳዕብ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣሽር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስዒቢ ሚጽራይም"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "ስዒቢ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስደት ኩሽ"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "ስደት"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ኩሽ"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "ረባድ"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ዓራም"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "ሓራም"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "ተገኣዮም"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ዋሕጺ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ሕልንት"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:52:59.711938348Z",
+  "model": "glm-5.3"
+}

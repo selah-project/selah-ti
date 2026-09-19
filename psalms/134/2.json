@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 134,
+  "translation": "ኢድኹም ናብ ⟨መቕደስ⟩ ኣንሥዕዎ፣ ⟨את⟩ ያህዌህ ከኣ ባረኽዎ።",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ኣንሥዕዎ"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "ኢድኹም"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ናብ መቕደስ"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "ባረኽዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:51.149448398Z",
+  "model": "glm-5.3"
+}

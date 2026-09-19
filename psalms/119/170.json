@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 170,
+  "ref": "psalms 119:170",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ልመናይ ናብ ቅድምኻ ትመጽእ፣ ከም ቃልኣትካ ኣድሕነኒ።",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "ትመጽእ"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "ልመናይ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ናብ ቅድምኻ"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "ከም ቃልኣትካ"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ኣድሕነኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:57.012682934Z",
+  "model": "glm-5.3"
+}

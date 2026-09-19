@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ወፈያ ውድስና ድማ ይቕርቡ፣ ብዝምልከት ምስ ቐሊሉ ክብሪ ኣምላኽ ተግባሩ ይነግሩ።",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "ይቕርቡ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ውድስና"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "ይነግሩ"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ተግባሩ"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ብዝምልከት ምስ ቐሊሉ ክብሪ ኣምላኽ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:24.063642030Z",
+  "model": "glm-5.3"
+}

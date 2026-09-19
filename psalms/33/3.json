@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ንሱ ኣዲሽ መዝሙር ዘምሩ፤ ብትሪዐት ዝበለ ጽቡእ ኣፍደገ ተጻወቱ።",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ዘምሩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ኣዲሽ"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "ዝበለ ጽቡእ ኣፍደገ"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "ተጻወቱ"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ብትሪዐት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:51.653585593Z",
+  "model": "glm-5.3"
+}

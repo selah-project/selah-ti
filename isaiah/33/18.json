@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 33:18",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ልብኻ ስጋሩ ይሓስብ፤ «ኣበይ እዩ እቲ ጸሓፊ? ኣበይ እዩ እቲ ዝቖርብ? ኣበይ እዩ እቲ ⟨את⟩ ግንዳታት ዝቆጥር?»",
+  "tokens": [
+    {
+      "surface": "לבך",
+      "gloss": "ልብኻ"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ይሓስብ"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "ስጋሩ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ኣበይ እዩ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ጸሓፊ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ኣበይ እዩ"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ዝቖርብ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ኣበይ እዩ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ዝቆጥር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ግንዳታት"
+    },
+    {
+      "surface": "המגדלים",
+      "gloss": "ግንዳታት"
+    }
+  ],
+  "timestamp": "2026-09-19T02:01:26.443460366Z",
+  "model": "glm-5.3"
+}

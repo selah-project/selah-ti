@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 33:19",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ንሱ ድማ በለ፦ «ኣነ ንኹሉ በጽሓይ ኣብ ቅድሚ ገጽኻ ክኣልፎ፣ ኣብ ቅድሚ ገጽኻ ብስም ያህዌህ ክጽውዕ፣ ነቲ ⟨את⟩ ዝሓንኾ ክሓንን፣ ነቲ ⟨את⟩ ዝራኸም ክራኸምን እየ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אעביר",
+      "gloss": "ክኣልፎ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "טובי",
+      "gloss": "በጽሓይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽኻ"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "ክጽውዕ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ብስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ኣብ ቅድሚ ገጽኻ"
+    },
+    {
+      "surface": "וחנתי",
+      "gloss": "ክሓንን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝሓንኾ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "אחן",
+      "gloss": "ክሓን"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "ክራኸምን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝራኸም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ክራኸም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:27:10.089713188Z",
+  "model": "glm-5.3"
+}

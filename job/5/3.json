@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 5:3",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣነ ኣድዋል ተሰሪቑ ረኣይኩ፣ ዓድኡ ድማ ብድንግት ረገምኩ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ረኣይኩ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ኣድዋል"
+    },
+    {
+      "surface": "משריש",
+      "gloss": "ተሰሪቑ"
+    },
+    {
+      "surface": "ואקוב",
+      "gloss": "ረገምኩ"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "ዓድኡ"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ብድንግት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:06:32.328274745Z",
+  "model": "glm-5.3"
+}

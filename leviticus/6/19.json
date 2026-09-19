@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እቲ ወፈያ ሓጥያት ዝወፍይ ካህን ⟨את⟩ ክብላ ኣለዎ፤ ኣብ ቅዱስ ቦታ ትበልዓ፣ ኣብ ጓሳ ድንኳን ኣኼባ።",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ካህን"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "ወፈያ ሓጥያት ዝወፍይ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ክብላ ኣለዎ (እታ ወፈያ)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "ክብላ ኣለዎ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ኣብ ቦታ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ትበልዓ"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "ኣብ ጓሳ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ኣኼባ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:48:30.107392709Z",
+  "model": "glm-5.3"
+}

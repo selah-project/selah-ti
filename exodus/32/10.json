@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "«ሕጂ ድማ ሓሊወኒ፤ በዓይ ኣብ ዝበለሉም ኮይኑ ከየጥፍኦምን፤ ⟨את⟩ ንስኻ ከኣ ናብ ሓደ ዓቢ ህዝቢ ከገብረካ።»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "ሓሊወኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ኮይኑ ከም ዝበለ"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "በዓይ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ኣብ ዝበለሉም"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "ከየጥፍኦምን"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ከገብር"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "ንስኻ (ናብ ህዝቢ ዓቢ)"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ናብ ህዝቢ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:39:15.498101473Z",
+  "model": "glm-5.3"
+}

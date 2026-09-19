@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 10:16",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ሞሸ ድማ ⟨את⟩ ነቲ ናይ ኃጢኣት ጽጋር ብዝምልከት ብዙሕ ሓተ፤ ኣይ ድማ ተበዓሒዱ ነይሩ፤ ንኤልዓዛርን ንኢታማርን ውላድ ኣሃሮን ዝተረፉ ተቓጸለ ብምባል፦",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ናይ ኃጢኣት ጽጋር"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ጽጋር"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ናይ ኃጢኣት"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ሓተ"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ሓተ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣይ ድማ"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ተበዓሒዱ ነይሩ"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "ተቓጸለ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ን…ን"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "ኢታማር"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "הנותרם",
+      "gloss": "ዝተረፉ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ብምባል"
+    }
+  ],
+  "timestamp": "2026-09-18T21:55:07.015105462Z",
+  "model": "glm-5.3"
+}

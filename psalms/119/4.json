@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ንስኻ ትእዛዝታትካ ብጣዕሚ ንምጥንቀቅ ኣዘዝካ።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "ኣዘዝካ"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ትእዛዝታትካ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ንምጥንቀቅ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:27.808863191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 16:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ናባታ እተ ሃጋር ኣተየ፣ ንሳ ኸኣ ኰነተት፤ ንሳ ኰነተት ከምዚ ከምቲ ረኣየትሉ፣ ሻለቓኣ ኣብ ዓይኒኣ ወሓተት።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ኣተየ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናባታ እተ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ሃጋር"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ኰነተት ኸኣ"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "ረኣየትሉ ከምዚ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "הרתה",
+      "gloss": "ኰነተት"
+    },
+    {
+      "surface": "ותקל",
+      "gloss": "ወሓተት"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "ሻለቓኣ"
+    },
+    {
+      "surface": "בעיניה",
+      "gloss": "ኣብ ዓይኒኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:40:41.487015398Z",
+  "model": "glm-5.3"
+}

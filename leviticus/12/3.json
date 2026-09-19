@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኣብ ሸሞንተይ መዓልቲ ስጋ ዕርልታኡ ይኽሰዩ እዩ።",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ሸሞንተይ"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "ይኽሰዩ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ስጋ"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "ዕርልታኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:54:59.538506463Z",
+  "model": "glm-5.3"
+}

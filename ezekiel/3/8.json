@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ረኣይ ኣገጻኻ ንጻር ኣገጻቶም ከቢድ ገበርኩ፣ ኣጽማድካ ድማ ⟨את⟩ ንጻር ኣጽማዶም ከቢድ ገበርኩ።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ረኣይ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ገበርኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣገጻኻ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ኣገጻኻ"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "ከቢድ"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ንጻር"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ኣገጻቶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣጽማድኻ"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "ኣጽማድኻ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ከቢድ"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ንጻር"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "ኣጽማዶም"
+    }
+  ],
+  "timestamp": "2026-09-19T03:23:41.236805392Z",
+  "model": "glm-5.3"
+}

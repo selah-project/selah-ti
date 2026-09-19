@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ሰበይቲ ጸጋ ክብሪ ትሓዝዮ፣ ጸገናት ግን ብልጽᓓት ይሓዝዩ።",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ጸጋ"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "ትሓዝዮ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "ጸገናት"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "ይሓዝዩ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ብልጽᓓት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:47:11.410040289Z",
+  "model": "glm-5.3"
+}

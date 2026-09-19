@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 23:13",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ኣብ ነብያት ሾሜሮን ውዑይ ረኣኹ፤ ብባዓል ተነበዩ፣ ⟨את⟩ ህዝበይ ⟨את⟩ እስራኤል ዓሸ጑።",
+  "tokens": [
+    {
+      "surface": "ובנביאי",
+      "gloss": "ኣብ ነብያት"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ሾሜሮን"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ረኣኹ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ውዑይ"
+    },
+    {
+      "surface": "הנבאו",
+      "gloss": "ተነበዩ"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "ብባዓል"
+    },
+    {
+      "surface": "ויתעו",
+      "gloss": "ዓሸ጑"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ህዝበይ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ህዝበይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T08:54:13.078366178Z",
+  "model": "glm-5.3"
+}

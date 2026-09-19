@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ምኽንያቱ ኽንፈይ ብሙቐት ተመልኣ፣ ጽንዓት ድማ ኣብ ስጋይ የለን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "ኽንፈይ"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ተመልኣ"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "ብሙቐት"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "ጽንዓት"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "ኣብ ስጋይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:55:54.879331664Z",
+  "model": "glm-5.3"
+}

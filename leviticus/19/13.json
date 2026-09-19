@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኣይትገፍድን ምስ ርእሰሰብኻ፣ ኣይትንፈቐድን፤ ኣይትቐመጥን ክሳብ ብሕሳብ ስነ-ሰርሓ ተቀጣሪ ምስ ኣኻ ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይትገፍድን"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "ትገፍድ ምስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ርእሰሰብኻ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ርእሰሰብኻ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይትንፈቐድን፣"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "ትንፈቐድ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይትቐመጥን"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "ክትቐመጥ ክሳብ"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ስነ-ሰርሓ"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "ተቀጣሪ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ምስ ኣኻ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ብሕሳብ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:02:20.906754641Z",
+  "model": "glm-5.3"
+}

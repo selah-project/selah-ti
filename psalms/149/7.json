@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 149,
+  "translation": "ኣብ ኣህዛብ ተባርያ ንምፍጻም፣ ኣብ ህዝብታት ድማ ተወቐሳታት።",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ንምፍጻም"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "ተባርያ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ኣብ ኣህዛብ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ተወቐሳታት"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "ህዝብታት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:58.649943789Z",
+  "model": "glm-5.3"
+}

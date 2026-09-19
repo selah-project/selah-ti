@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 13:3",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ስለዚ ቍጡቕ ያህዌህ ኣብ እስራኤል ተነወሐ፣ ንሳቶም ድማ ኩሉ መዓልቲ ኣብ ኢድ ከዛኤል ንጉስ ኣራምን ኣብ ኢድ በን-ሀዳድ ወዲ ከዛኤልን እናተዋህቦ ኮኖም።",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ተነወሐ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ቍጡቕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ኣብ እስራኤል"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "እናተዋህቦ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ኣብ ኢድ"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "ከዛኤል"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ኣብ ኢድ…ድማ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "በን-ሀዳድ ወዲ"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ሀዳድ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "ከዛኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "መዓልቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:26:26.830074155Z",
+  "model": "glm-5.3"
+}

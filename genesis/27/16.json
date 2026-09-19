@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ድማ ⟨את⟩ ቆርቆስ ንኣጣት እተቶት ኣብ ኢዱን ኣብ ለጭባ እቲ ዓንቀጹን ኣልበሰቶ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ድማ ⟨את⟩",
+      "marks": "ቆርቆስ ንኣጣት እተቶት"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "ቆርቆስ"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "ንኣጣት"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "እተቶት"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "ኣልበሰቶ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "ለጭባ"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "ዓንቀጹ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:50:30.461425247Z",
+  "model": "glm-5.3"
+}

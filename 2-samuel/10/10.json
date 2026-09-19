@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "⟨את⟩ ተረፍቲ ህዝቢ ድማ ናብ ኢድ ኣብሻይ ሓዙ ሃበ፣ ንውላድ ዓሞን ንምትሓት ድማ ኣደለዮም።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ተረፍቲ ህዝቢ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ተረፍቲ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ናብ ኢድ"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "ኣብሻይ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ሓዙ"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "ኣደለዮም"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ንምትሓት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ዓሞን"
+    }
+  ],
+  "timestamp": "2026-09-19T00:28:47.540078389Z",
+  "model": "glm-5.3"
+}

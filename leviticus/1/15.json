@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ነቲ ካህን ናብ መስብሂ የቐርቦ፣ ርእሱን ⟨את⟩ ይብትቶ፣ ኣብ መስብሂ ድማ ያብርሆ፣ ደሙን ኣብ ጐን እቲ መስብሂ ይውረድ።",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "የቐርቦ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ነቲ ካህን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መስብሂ"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "ይብትቶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ርእሱን"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ርእሱን"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ያብርሆ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ኣብ መስብሂ"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "ይውረድ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ደሙን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "ጐን"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "እቲ መስብሂ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:29:20.573013676Z",
+  "model": "glm-5.3"
+}

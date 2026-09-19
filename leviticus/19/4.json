@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ናብ ኣማልኽቲ ምስክር ኣይትምለሱን፣ ኣማልኽቲ ናይ ብረት-ተረፊ ኣይትገብሩን ነራኹም፣ ኣነ ያህዌህ ኤሎሂምኩም እየ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "ኣይትምለሱን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "ኣማልኽቲ ምስክር"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ኣማልኽቲ"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ናይ ብረት-ተረፊ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ኣይትገብሩን"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ነራኹም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:01:25.272355038Z",
+  "model": "glm-5.3"
+}

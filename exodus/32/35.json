@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ያህዌህ ድማ ⟨את⟩ ነቲ ሕዝቢ መታዮ፣ ስለ ዝሰርሕዎ ⟨את⟩ ነቲ ጫሕላ ኣሃሮን ዝሰርሖ።",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "መታዮ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ሕዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ነቲ ሕዝቢ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዝሰርሕዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ጫሕላ"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "ነቲ ጫሕላ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝሰርሖ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:38:04.011217625Z",
+  "model": "glm-5.3"
+}

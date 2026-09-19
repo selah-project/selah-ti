@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ኩሎም ተቓለዮም፣ ብሓባር ብርኩኽ ኮይኖም፤ ጽቡእ ዝገብር የለን፣ ሓደ እውን የለን።",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ተቓለ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ብሓባር"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "ብርኩኽ ኮይኖም"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገብር"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡእ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:52.639660732Z",
+  "model": "glm-5.3"
+}

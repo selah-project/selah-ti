@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ያህዌህ ብድምጺ ኤሊያሁ ሰምዐ፣ ነፍሲ እቲ ወዲ ናብ ከባቡ ተመለሰት፣ ንሱ ድማ ሃየዎ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ብድምጺ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤሊያሁ"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ተመለሰት"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "እቲ ወዲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ከባቡ"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "ሃየዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:03:20.656062534Z",
+  "model": "glm-5.3"
+}

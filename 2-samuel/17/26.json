@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 17:26",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "እስራኤልን ኣብሻሎምን ኣብ ምድሪ ግልዓድ ሰፈሩ።",
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "ሰፈሩ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "ኣብሻሎምን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ግልዓድ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:34:11.882897516Z",
+  "model": "glm-5.3"
+}

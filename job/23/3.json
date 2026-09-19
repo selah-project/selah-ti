@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "መን ይሃበኒ ክፈልጦ፣ ከምኡውን ክረኽቦ፤ ክሳብ መንበሩ ክኣቱ።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይሃበኒ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ክፈልጦ"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "ከምኡውን ክረኽቦ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ክኣቱ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "መንበሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:15:11.505213369Z",
+  "model": "glm-5.3"
+}

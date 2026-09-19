@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "እቲ ናይ ጋዛም ዝተረፈ ኣርቤህ በልዑ፤ እቲ ናይ ኣርቤህ ዝተረፈ የለቅ በልዑ፤ እቲ ናይ የለቅ ዝተረፈ ሕሲል በልዑ።",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "ዝተረፈ"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "ናይ ጋዛም"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "በልዑ"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "ኣርቤህ"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "እቲ ዝተረፈ ድማ"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "ናይ ኣርቤህ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "በልዑ"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "የለቅ"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "እቲ ዝተረፈ ድማ"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "ናይ የለቅ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "በልዑ"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "ሕሲል"
+    }
+  ],
+  "timestamp": "2026-09-19T04:11:30.074378931Z",
+  "model": "glm-5.3"
+}

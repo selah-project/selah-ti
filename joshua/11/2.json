@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 11:2",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ንነገስቲ እቶም ኣብ ሰሜን ኣብ ከርንን ኣብ ዓረቓ ደቡብ ኪነሮትን ኣብ ሽፈላን ኣብ ⟨ዞባት⟩ ዶር ኣብ ምዕራብን።",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ነገስቲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ኣብ ሰሜን"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ኣብ ከርን"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "ኣብ ዓረቓ"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ደቡብ"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "ኪነሮት"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "ኣብ ሽፈላ"
+    },
+    {
+      "surface": "ובנפות",
+      "gloss": "ኣብ ⟨ዞባት⟩"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ዶር"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ኣብ ምዕራብ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:25:35.415167019Z",
+  "model": "glm-5.3"
+}

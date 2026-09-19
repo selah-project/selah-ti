@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 8:6",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ከምኡውን ካብ ውላድ ዓዲን ዕበድ ወዲ ዮናታን፣ ምስ ንሱ እውን ሃምሳ ተባዕታዋት።",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "ከምኡውን ካብ ውላድ"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "ዓዲን"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ዕበድ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ዮናታን"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ምስ ንሱ እውን"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ሃምሳ"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "ተባዕታዋት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:11:08.162392804Z",
+  "model": "glm-5.3"
+}

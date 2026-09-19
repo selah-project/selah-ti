@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኣይተሰርቑን፣ ኣይተውሕሱን፣ ውን ሰብ ኣብ ሓዋሩ ኣይፈስሕን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "ኣይተሰርቑን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ውን ኣይኮነን"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "ኣይተውሕሱን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ውን ኣይኮነን"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "ኣይትፈስሑን"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "ኣብ ሓዋሩ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:00:30.795622299Z",
+  "model": "glm-5.3"
+}

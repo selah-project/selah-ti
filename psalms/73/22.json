@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 73,
+  "translation": "ኣነ ግና ጸኣድን ኣይፈልጥን ነይሩ፤ ከም እንስሳ ምስ ኣኻ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ግና"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ጸኣድ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ፈለጥኩ"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "እንስሳ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስ ኣኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:00.256782345Z",
+  "model": "glm-5.3"
+}

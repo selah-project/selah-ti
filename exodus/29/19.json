@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ነታ ካልኣይቲ ዓባቕሊ ⟨את⟩ ተወሲድካ፣ ኣሃሮንን ውላዱን እጆምን ⟨את⟩ ኣብ ርእሲ እቲ ዓባቕሊ ደግፎም።",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ተወሲድካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓባቕሊ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ነታ ዓባቕሊ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ካልኣይቲ"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "ደግፎም"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ውላዱን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እጆም"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "እጆምን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "እቲ ዓባቕሊ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:36:42.788463603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 8:31",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣብ ዓለም ምድሩ ተሃዋዒተ፣ ደስቒተይ ድማ ምስ ⟨את⟩ ውላድ ሰብ እዩ።",
+  "tokens": [
+    {
+      "surface": "משחקת",
+      "gloss": "ተሃዋዒተ"
+    },
+    {
+      "surface": "בתבל",
+      "gloss": "ኣብ ዓለም"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ምድሩ"
+    },
+    {
+      "surface": "ושעשעי",
+      "gloss": "ደስቒተይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ ሰብ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:45:46.557736425Z",
+  "model": "glm-5.3"
+}

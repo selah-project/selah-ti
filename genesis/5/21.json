@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ሕኖኽ ስልሳን ሓሙሽተን ዓመታት ነይሩ፣ ድማ ንምቱሻላኽ ⟨את⟩ ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ሕኖኽ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ስልሳን"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምቱሻላኽ"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "ምቱሻላኽ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:33:20.177824614Z",
+  "model": "glm-5.3"
+}

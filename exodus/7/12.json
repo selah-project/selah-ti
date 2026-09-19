@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ነፍሲ ወከፍ ሓሙላሁ ተወርዮ፣ ሓያላት ኰኑ፤ ሓሙላ ኣሃሮን ድማ ⟨את⟩ ሓሙላቶም ዘረየ።",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "ተወርዮ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ወከፍ"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "ሓሙላሁ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ኰኑ"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "ሓያላት"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "ዘረየ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ሓሙላ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓሙላቶም"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "ሓሙላቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:13:17.491146493Z",
+  "model": "glm-5.3"
+}

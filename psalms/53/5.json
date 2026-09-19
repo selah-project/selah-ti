@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 53,
+  "translation": "«ዘይፈልጥዎንዶ መስራትቲ ክፉእ፧ እቶም ዝበልዑ ሕዝቢ ከም ብልዑ እኽሊ በልዑ፤ ኤሎሂም ኣይጸውዑን።»",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ዘይ…ንዶ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ፈልጥዎ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "መስራትቲ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "ዝበልዑ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "በልዑ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ጸውዑ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:02:09.441819298Z",
+  "model": "glm-5.3"
+}

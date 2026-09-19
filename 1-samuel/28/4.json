@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ፍልስጤማውያን ድማ ተኣካለሉ፣ መጹ፣ ኣብ ሹነም ዓተዉ፤ ሻኡል ድማ ⟨את⟩ ኩሉ እስራኤል ኣካሊሉ፣ ኣብ ግልቦዓ ድማ ዓተዉ።",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ተኣካለሉ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤማውያን"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "መጹ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ዓተዉ"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "ኣብ ሹነም"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ኣካሊሉ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እስራኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ዓተዉ"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "ኣብ ግልቦዓ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:18:55.420584034Z",
+  "model": "glm-5.3"
+}

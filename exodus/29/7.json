@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ነቲ ዘይት ምልእታ ተበጊስካ ኣብ ርእሱ ተጽዕዖ፣ ⟨אתו⟩ ከኣ ትቅብኦ።",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ተበጊስካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዘይት"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይት"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ምልእታ"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ተጽዕዖ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ርእሱ"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ትቅብኦ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ኣሃሮን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:34:34.053975410Z",
+  "model": "glm-5.3"
+}

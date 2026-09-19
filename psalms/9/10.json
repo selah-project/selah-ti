@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ያህዌህ ንተሳቐይቲ መሸፈኒ ይኾና፣ ኣብ ግዜታት ጸገም እውን መሸፈኒ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ይኾና"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "መሸፈኒ"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "ንተሳቐይቲ"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "መሸፈኒ"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "ኣብ ግዜታት"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "ጸገም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:39.264376471Z",
+  "model": "glm-5.3"
+}

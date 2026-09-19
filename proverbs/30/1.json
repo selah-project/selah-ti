@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 30:1",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ቓላት ኣጉር ወዲ ያቀ፣ እቲ ጫና፦ ቓል እቲ ሰብ፣ ንኢትያል፣ ንኢትያልን ንኡካልን።",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ቓላት"
+    },
+    {
+      "surface": "אגור",
+      "gloss": "ኣጉር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "יקה",
+      "gloss": "ያቀ"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "እቲ ጫና"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "ንኢትያል"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "ንኢትያልን"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ንኡካልን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:00:22.195608578Z",
+  "model": "glm-5.3"
+}

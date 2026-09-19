@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ክሳብ መዓላ፧ ያህዌህ ትረስዐኒ ንዘለኣለም፧ ክሳብ መዓላ፧ ⟨את⟩ ገጽካ ካብዚ ትሓብእ፧",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "መዓላ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "ትረስዐኒ"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ንዘለኣለም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "መዓላ"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ትሓብእ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገጽካ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽካ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ካብዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:04.109548785Z",
+  "model": "glm-5.3"
+}

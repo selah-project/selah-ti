@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ሞሸ ድማ ናብ ያህዌህ በጂዑ ከምዚ በለ፦ «ነዚ ሕዝቢ እዚ እንታይ ከገብሮ፧ ውሽጢ ንእሽቶ ኺረግጹኒ እዩ።»",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "በጂዑ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ከምዚ በለ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ከገብሮ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ነዚ ሕዝቢ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ውሽጢ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ንእሽቶ"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "ኺረግጹኒ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:24:45.492359343Z",
+  "model": "glm-5.3"
+}

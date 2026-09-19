@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ነፍሰይ እውን ብዙሕ ተረብዓት፣ ንስኻውን ያህዌህ፣ ክሳብ ክንደይ?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "ነፍሰይ እውን"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "ተረብዓት"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ንስኻውን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ክንደይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:59.099302519Z",
+  "model": "glm-5.3"
+}

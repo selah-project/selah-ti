@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "ኣነ ያህዌህ ቅዱስኹም እየ፣ ፈጣሪ እስራኤል፣ ንጉስኹም።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "ቅዱስኹም እየ"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "ፈጣሪ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "ንጉስኹም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:09:57.742528318Z",
+  "model": "glm-5.3"
+}

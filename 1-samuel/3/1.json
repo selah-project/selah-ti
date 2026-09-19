@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እቲ ቐጥቃዒ ሽምዌል ኣብ ቅድሚ ዔሊ ንያህዌህ ⟨את⟩ ይገብር ነይሩ፤ ቃል ያህዌህ ኣብቶም መዓልታት እቶም ባርሒ ነይሩ፣ ራእይ ዝተበጽሕ የለን።",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "እቲ ቐጥቃዒ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሽምዌል"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "ይገብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ዔሊ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ቃልን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ባርሒ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ኣብ መዓልታት"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "ራእይ"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "ዝተበጽሕ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:57:38.210463251Z",
+  "model": "glm-5.3"
+}

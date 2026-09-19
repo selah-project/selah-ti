@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 9:31",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እቲ ጠረቂን እቲ ገመልን ተታሕተሉ፤ እቲ ገመል ሓፊሩ ስለ ዝነበረ፣ እቲ ጠረቂ ድማ በርቂቱ ስለ ዝነበረ።",
+  "tokens": [
+    {
+      "surface": "והפשתה",
+      "gloss": "እቲ ጠረቂን"
+    },
+    {
+      "surface": "והשערה",
+      "gloss": "እቲ ገመልን"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "ተታሕተሉ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "እቲ ገመል"
+    },
+    {
+      "surface": "אביב",
+      "gloss": "ሓፊሩ"
+    },
+    {
+      "surface": "והפשתה",
+      "gloss": "እቲ ጠረቂ ድማ"
+    },
+    {
+      "surface": "גבעל",
+      "gloss": "በርቂቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:16:41.442387772Z",
+  "model": "glm-5.3"
+}

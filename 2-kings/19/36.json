@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 19:36",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ሰንኻይሪብ ንጉስ ኣሽር ተበገሰ፣ ከደ፣ ተመለሰ፣ ኣብ ነነዌ ድማ ተቐመጠ።",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "ተበገሰ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "ሰንኻይሪብ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣሽር"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "בנינוה",
+      "gloss": "ኣብ ነነዌ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:35:21.673256877Z",
+  "model": "glm-5.3"
+}

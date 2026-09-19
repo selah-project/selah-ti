@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ዳዊድ ድማ ንሽሎሞ ወዱ ⟨את⟩ ቅርጺ እቲ መቓብርን ⟨את⟩ ቤታቱን ኣትማታቱን ምድሮቱን ኣውራግት ክፍልታቱን ቤትን ናይ ካፑረትን ሃቈ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሃቈ ድማ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ንሽሎሞ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅርጺ እቲ መቓብር"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ቅርጺ"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "እቲ መቓብር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቤታቱ"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "ቤታቱ"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "ኣትማታቱ"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "ምድሮቱ"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "ክፍልታቱ"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "ኣውራግት"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ቤትን"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ናይ ካፑረት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:52:20.041751476Z",
+  "model": "glm-5.3"
+}

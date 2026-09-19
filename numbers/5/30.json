@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 5:30",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ወይ ድማ ሓደ ሰብ መንፈስ ቅናት ኣብ ልዕሊ ምስ ወረደ፣ ብቅናት ⟨את⟩ ሰበይቱ ከሎ፣ ⟨את⟩ እታ ሰበይቲ ቅድሚ ያህዌህ ኣተኺቡ፣ እቲ ኻህን ድማ ነታ ⟨את⟩ ኩነታት እዚ ቶራ እዚ ገበረ።",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሓደ ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ኣብ ልዕሊ ምስ ወረደ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ቅናት"
+    },
+    {
+      "surface": "וקנא",
+      "gloss": "ብቅናት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰበይቱ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሰበይቱ"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "ኣተኺቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ሰበይቲ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "እታ ሰበይቲ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ነታ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ኻህን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩነታት እዚ ቶራ እዚ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩነታት"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:15:49.029505488Z",
+  "model": "glm-5.3"
+}

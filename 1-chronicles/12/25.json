@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 12:25",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ካብ ውላድ ይሁዳ ተራኺብቲ ጋንዲን ሞራሕን ሽድሽተ ሺሕን ሸሞንተ ሚእታትን ንሰራዊት ዝተዳለዉ እዮም።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ተራኺብቲ"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ጋንዲ"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "ሞራሕን"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ሽድሽተ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሺሕ"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "ሸሞንተን"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚእታት"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "ዝተዳለዉ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ሰራዊት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:40:40.879764563Z",
+  "model": "glm-5.3"
+}

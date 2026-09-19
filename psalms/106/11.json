@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ማይ ኣጭልልቲን ተሸፈነሎም፤ ሓደ ካብኦም ኣይተረፈን።",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "ተሸፈነሎም"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ኣጭልልቶም"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ካብኦም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "ተረፈን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:26.489681358Z",
+  "model": "glm-5.3"
+}

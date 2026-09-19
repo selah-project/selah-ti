@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 124,
+  "translation": "ድሕሪኡ እቲ ማይ ክሽዕፎና ነይሩ፣ ወቒት ማይ ኣብ ልዕሊ ነፍስና ክሓልፍ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "ድሕሪኡ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "እቲ ማይ"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "ክሽዕፎና ነይሩ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ወቒት ማይ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ክሓልፍ ነይሩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ነፍስና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:00.912463572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ነቶም ክልተ ተቓልሲታት ⟨את⟩ ወሲድዎም ቅድሚ ያህዌህ ኣብ ኣፍደገ ድንቃ ምጻኢ ደው ይብሎም።",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ወሲድዎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክልተ ተቓልሲታት"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "ተቓልሲታት"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "ደው ይብሎም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ደው ይብሎም"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣብ ኣፍደገ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንቃ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ምጻኢ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:59:29.274352797Z",
+  "model": "glm-5.3"
+}

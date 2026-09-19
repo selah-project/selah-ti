@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ካብ ትእዛዛትኻ ውልቀት እየ፣ ስለዚ ኩሉ መስመር ሓሶት ጸልዐኩ።",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "ካብ ትእዛዛትኻ"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ውልቀት እየ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ጸልዐኩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "መስመር"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሓሶት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:13.836739627Z",
+  "model": "glm-5.3"
+}

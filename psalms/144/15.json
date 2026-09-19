@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 144,
+  "translation": "ሓጐሲ እቲ ሕዝቢ ከምዚ ዘለዎ፤ ሓጐሲ እቲ ሕዝቢ እቲ ያህዌህ ኤሎሂም ዝኾነሉ።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ሓጐሲ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ሓጐሲ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "እቲ ያህዌህ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ኤሎሂም ናይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:38:59.600286083Z",
+  "model": "glm-5.3"
+}

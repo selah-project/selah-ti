@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ድማ ⟨את⟩ ህዝበይ ክትስጒር ተቓለልካ እንተ፣ እንሆ ኣነ ተሻጋሪ ኣንጻር ኣብ ዶባኻ ኣእቲ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ተቓለልካ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ክትስጒር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ህዝበይ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ህዝበይ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እንሆ ኣነ"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ኣእቲ"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ተሻጋሪ"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ኣንጻር"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "ኣብ ዶባኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:18:39.665914953Z",
+  "model": "glm-5.3"
+}

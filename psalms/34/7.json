@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "እዚ ድኻ በገሰ፣ ያህዌህ ድማ ሰምዐ፣ ካብ ኩሉ መከራታቱ ሓረኾ።",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ድኻ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "በገሰ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "መከራታቱ"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "ሓረኾ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:52:52.651850353Z",
+  "model": "glm-5.3"
+}

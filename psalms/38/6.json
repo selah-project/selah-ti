@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ኣሕዚበይ ኣዕጹያን ተበኪረንን፣ ብሰንኪ ስዒርነተይ።",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "ኣዕጹያ"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "ተበኪረን"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "ኣሕዚበይ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ብሰንኪ"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "ስዒርነተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:55:54.878740549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 102,
+  "translation": "ንስኻ ትቐንስ ንጽዮን ትራሕም፣ ምኽንያቱ ናታ ንምሕረት እዋኑ እዩ፣ ምኽንያቱ እቲ ተታሒዙ ዘሎ ዕላል በዓሊ እዩ።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ትቐንስ"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "ትራሕም"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ንጽዮን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "እዋኑ"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "ናታ ንምሕረት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "በዓሊ እዩ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ዕላል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:05.248147502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ንኽብሪ ንያህዌህ ዜዛምርካን ኣይኺቑርን፣ ያህዌህ ኤሎሃይ፣ ናብ ዘለኣለም ኣመስግንካ እየ።",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ንኽብሪ"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "ዜዛምርካ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ኺቑርን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሃይ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ኣመስግንካ እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:54.607030012Z",
+  "model": "glm-5.3"
+}

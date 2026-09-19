@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 145,
+  "translation": "ትራድእ ናብ ትራውእ ተግባርኻ ትሰብሕ፣ ኣኽለማትኻውን የዘንብየን።",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ትራድእ"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ናብ ትራውእ"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "ትሰብሕ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ተግባርኻ"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "ኣኽለማትኻውን"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "የዘንብዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:59.911228968Z",
+  "model": "glm-5.3"
+}

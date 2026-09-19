@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 21:9",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ዓዲሮም ሰላም እዩ ካብ ፍርሃት፣ ምስንቲ ኤሎሃ ድማ ኣብ ልዕሎም የለን።",
+  "tokens": [
+    {
+      "surface": "בתיהם",
+      "gloss": "ዓዲሮም"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ካብ ፍርሃት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ምስንቲ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ኤሎሃ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ኣብ ልዕሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T06:13:28.612284463Z",
+  "model": "glm-5.3"
+}

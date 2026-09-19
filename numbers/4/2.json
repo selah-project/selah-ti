@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "«ርእሲ ውላድ ቅሃት ካብ መንጎ ውላድ ለዋይ ብዜጋቶም ብገጽ ኣቦታቶም ⟨את⟩ ኣንሳዑ።",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "ኣንሳዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ርእሲ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ቅሃት"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ካብ መንጎ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ለዋይ"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ብዜጋቶም"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ብገጽ"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ኣቦታቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:13:49.351710218Z",
+  "model": "glm-5.3"
+}

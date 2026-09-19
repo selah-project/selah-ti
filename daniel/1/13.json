@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 1:13",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ንገጽና ቅድሚኻ ክርአይ፣ ከምኡውን ንእቶም ⟨את⟩ ምግቢ ንጉስ ዝነብሩ ቆልዑ ገጽ፤ ከም እትርእዮ ድማ ምስ ኣገልጋልኻ ግበር።",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ክርአዩ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ቅድሚኻ"
+    },
+    {
+      "surface": "מראינו",
+      "gloss": "ንገጽና"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "ንገጽን"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "እቶም ቆልዑ"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "ዝነብሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምግቢ"
+    },
+    {
+      "surface": "פתבג",
+      "gloss": "ምግቢ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "እትርእዮ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ግበር"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ኣገልጋልኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:49:49.538276731Z",
+  "model": "glm-5.3"
+}

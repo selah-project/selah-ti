@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ክንድኡ ⟨את⟩ ወርቂን ⟨את⟩ ብርን፣ ⟨את⟩ ናስ፣ ⟨את⟩ ብረት፣ ⟨את⟩ ቲንን ⟨את⟩ ሲሳምን —",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ክንድኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወርቂ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ብር"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ናስ"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ናስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብረት"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ብረት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቲን"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "ቲን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሲሳም"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "ሲሳም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:39:15.190680211Z",
+  "model": "glm-5.3"
+}

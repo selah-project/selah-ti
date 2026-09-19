@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 59,
+  "translation": "ኣድኁኒ ኤሎሃይ ካብ ጠላእተይ፣ ካብ ዝቐጹጹ ኣውራገኒ።",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ኣድኁኒ"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "ካብ ጠላእተይ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሃይ"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "ካብ ዝቐጹጹ"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "ኣውራገኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:21.984512817Z",
+  "model": "glm-5.3"
+}

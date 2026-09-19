@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 2:44",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሸማዕ ድማ ⟨את⟩ ረኻም — ኣቦ ናይ የርቅዓም — ወለዶ፣ ረቅም ድማ ⟨את⟩ ሻማይ ወለዶ።",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "ሸማዕ ድማ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለዶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ረኻም"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ረኻም"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦ ናይ"
+    },
+    {
+      "surface": "ירקעם",
+      "gloss": "የርቅዓም"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "ረቅም ድማ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለዶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሻማይ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ሻማይ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:28:50.636846379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "እታ ሰበይቲ፣ እታ ኣመንዚቓይቲ፣ ኣብ ክንዲ ሰብኣ ⟨את⟩ ስደተኛታት ትወስድ።",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "እታ ሰበይቲ"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "እታ ኣመንዚቓይቲ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ክንዲ"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ሰብኣ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ትወስድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስደተኛታት"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ስደተኛታት"
+    }
+  ],
+  "timestamp": "2026-09-19T08:54:48.466903077Z",
+  "model": "glm-5.3"
+}

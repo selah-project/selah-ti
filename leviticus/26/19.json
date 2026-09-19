@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ኣነ ⟨את⟩ ክብሪ ሓይልኩም እሰብር፣ ⟨את⟩ ሰማያትኩም ከም ብረትን ⟨את⟩ ምድሪኩም ከም ናስልን እገብር።",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "እሰብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክብሪ ሓይልኩም"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "ሓይልኩም"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "እገብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰማያትኩም"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "ሰማያትኩም"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "ከም ብረት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪኩም"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ምድሪኩም"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "ከም ናስል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:10:06.537196844Z",
+  "model": "glm-5.3"
+}

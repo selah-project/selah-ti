@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "«ካብ ማእከል እዚ ሕብረት እዚ ተቐዲምኹም፣ ኣብ ሓደ ኣፍጻሜ ነንሶም እየ።» ንሳቶሹን ድማ ኣብ ገጾቶም ወደቑ።",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "ተቐዲምኹም"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ካብ ማእከል"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ሕብረት"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ነንሶም እየ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ነንሶም (ንሳቶም)"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "ኣብ ሓደ ኣፍጻሜ"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ወደቑ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ገጾቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:27:24.956064785Z",
+  "model": "glm-5.3"
+}

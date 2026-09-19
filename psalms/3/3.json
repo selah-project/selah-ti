@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ብዙሓት ስለ ነፍሰይ ይብሉ፦ «ማዕረ ድሕነት የብሉን ኣብ ኤሎሂም።» ስላ።",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ይብሉ"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ስለ ነፍሰይ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የብሉን"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "ድሕነት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ኣብ ኤሎሂም"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስላ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:38.365989114Z",
+  "model": "glm-5.3"
+}

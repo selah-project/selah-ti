@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 135,
+  "translation": "ምኽንያቱ ያህ ያዕቆብ ተደሊዩ፣ እስራኤል ንብኡቲ ናይ ብሕታዊ ንብርታቡ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ተደሊዩ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንዛዕብኡ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "ንብኡቲ ናይ ብሕታዊ ንብርታቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:39.889714259Z",
+  "model": "glm-5.3"
+}

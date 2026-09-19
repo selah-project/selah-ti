@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ኤሎሂም ናይ እስራኤል ነክ በለ፣ ኮረባ ናይ እስራኤል ነክ ነክ ተዛረበኒ፦ ኣብ ሰብ ዝኾነ ማለቢ ጻድቕ ማለቢ ኮይኑ ኣብ ምዃቱ ናይ ኤሎሂም ምድኻም እዩ።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም ናይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ነክ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ኮረባ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ማለቢ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ኣብ ሰብ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቕ"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ማለቢ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ምድኻም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ናይ ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:43:07.158994483Z",
+  "model": "glm-5.3"
+}

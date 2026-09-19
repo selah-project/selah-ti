@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ብሓቂኻ መርሓኒ፣ እሞ ኣስተማሓደረኒ፣ ምኽንያቱ ንስኻ ኤሎሂ ናይ መድሓኒተይ እንተኻእርያ፤ ⟨את⟩ ንዓኻ ኩሉ እቲ መዓልቲ ጸበይኩ።",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "መርሓኒ"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "ብሓቂኻ"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "እሞ ኣስተማሓደረኒ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂ"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ናይ መድሓኒተይ"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ንዓኻ"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ጸበይኩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "እቲ መዓልቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:54.827035403Z",
+  "model": "glm-5.3"
+}

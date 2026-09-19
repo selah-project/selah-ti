@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "«ኣብ ቅድሚኻ፣ ያህዌህ፣ ቃላት ኣፍይን ምሕሳብ ልብይን ናብ ምስትኽላል ይኹኑ፤ ኮኽርይን ኣድኻባይን ኢኻ።»",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ይኹኑ"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "ናብ ምስትኽላል"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ኣፍይ"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "ምሕሳብን"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልብይን"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ኣብ ቅድሚኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ኮኽርይ"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "ኣድኻባይን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:51.188012164Z",
+  "model": "glm-5.3"
+}

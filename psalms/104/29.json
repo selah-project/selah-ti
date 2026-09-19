@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 104:29",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "ኣገጽካ ምስ ኸስተኻ ይተባህሉ፤ መንፈሶም ምስ ኣኺልካዮም ይሞቱ፣ ናብ እኽልዮም ድማ ይመልሱ።",
+  "tokens": [
+    {
+      "surface": "תסתיר",
+      "gloss": "ምስ ኸስተኻ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ኣገጽካ"
+    },
+    {
+      "surface": "יבהלון",
+      "gloss": "ይተባህሉ"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ምስ ኣኺልካዮም"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "መንፈሶም"
+    },
+    {
+      "surface": "יגועון",
+      "gloss": "ይሞቱ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "እኽልዮም"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "ይመልሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:10.247713514Z",
+  "model": "glm-5.3"
+}

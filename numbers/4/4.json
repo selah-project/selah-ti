@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "እዚ ኣገልግሎት ውላድ ቅሃት ኣብ ድኽሪ ስብሻ እዩ፡ ቅዱስ ቅዱሳት።",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ኣገልግሎት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ቅሃት"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ኣብ ድኽሪ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ስብሻ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ቅዱሳት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:13:49.352038080Z",
+  "model": "glm-5.3"
+}

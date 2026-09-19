@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 113,
+  "translation": "ምስ ኣሉፋት፣ ምስ ኣሉፋት ህዝቢኡ ንኽቐመጥዎም።",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "ንኽቐመጥዎም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "ኣሉፋት"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "ኣሉፋት"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ህዝቢኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:31.900524971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "እትውን ኣብ ቆላ ብዙሕ እንተ ዝሰፊሕ፣ ካህን ነቲ ሰብ ⟨אתו⟩ ኣረኪብ ይብሎ፤ ነቕሳ እያ።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እትውን"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "እንተ ዝሰፊሕ"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ኣብ ቆላ"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ኣረኪብ ይብሎ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ሰብ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ነቕሳ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እያ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:57:51.025982255Z",
+  "model": "glm-5.3"
+}

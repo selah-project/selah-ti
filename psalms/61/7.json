@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 61,
+  "translation": "መዓልታት ንውልቂ መዓልታት ንጉስ ተወሳኺ፤ ዓመታቱ ከም ውርሒን ውርሒን።",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "መዓሓት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ንውልቂ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "ተወሳኺ"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "ዓመታቱ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "דר",
+      "gloss": "ውርሒ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ውርሒን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:26.111464883Z",
+  "model": "glm-5.3"
+}

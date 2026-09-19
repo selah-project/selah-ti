@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ንእቲ ሕዝቢ እዚ ክትብሎ እኻ፦ «ከምዚ በለ ያህዌህ፦ ኣብ ቅድሚኩም ⟨את⟩ መንገዲ ናይ ህይወትን ⟨את⟩ መንገዲ ናይ ሞትን እንሆ ኣለኹ ዝጥሕ እየ።»",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ንእቲ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ትብል"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እንሆ ኣለኹ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ዝጥሕ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ኣብ ቅድሚኩም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መንገዲ ናይ ህይወት"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገዲ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ናይ ህይወት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መንገዲ ናይ ሞት"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መንገዲ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ናይ ሞት"
+    }
+  ],
+  "timestamp": "2026-09-19T08:54:27.276186696Z",
+  "model": "glm-5.3"
+}

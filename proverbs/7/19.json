@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ምኽንያቱ እቲ ሰብ ኣብ ቤቱ የለን፣ ብርሑቅ መገዲ ኸደ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ኣብ ቤቱ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ኸደ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ብመገዲ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ርሑቅ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:45:09.541992991Z",
+  "model": "glm-5.3"
+}

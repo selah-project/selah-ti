@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 8:10",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ድዩ ኣይይምህርዎኻን ይዛረቡኻ፣ ካብ ልቦም ቃላት የውጹ?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ድዩ ኣይ…ን"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "ይምህርዎኻ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ይዛረቡ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ነኻ"
+    },
+    {
+      "surface": "ומלבם",
+      "gloss": "ካብ ልቦም"
+    },
+    {
+      "surface": "יוצאו",
+      "gloss": "የውጹ"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "ቃላት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:04:24.943615414Z",
+  "model": "glm-5.3"
+}

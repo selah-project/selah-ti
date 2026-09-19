@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 147,
+  "translation": "ያህዌህ የሩሻላይም ይሃንጽ፣ ተረፊቲ ይስራኤል ድማ የብርኽዎም።",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "ይሃንጽ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "ተረፊቲ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "የብርኽዎም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:12.591560076Z",
+  "model": "glm-5.3"
+}

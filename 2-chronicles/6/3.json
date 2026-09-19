@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እቲ ንጉስ ድማ ⟨את⟩ ገጹ ብዝምለሶ ⟨את⟩ ኩሉ ጉባኤ ይስራኤል ባረኾ፤ ኩሉ ጉባኤ ይስራኤል ድማ ተቐሚጡ ነበረ።",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ብዝምለሶ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገጹ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ገጹ"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ባረኾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ጉባኤ ይስራኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ ድማ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "ተቐሚጡ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:56:45.519135251Z",
+  "model": "glm-5.3"
+}

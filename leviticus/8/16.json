@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ድማ ⟨את⟩ ኩሉ ስብ ዝኣሎ ኣብ ላዕቲ እቲ ገበን፣ ⟨את⟩ ተማል እቲ ከባድን ⟨את⟩ ክልተ ኩላቲን ⟨את⟩ ስቦምን ወሲዱ፣ ሞሸ ኣብ መስዊእ ኣጨሶ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ስብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ስብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝኣሎ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕቲ"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ገበን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ተማል ከባድ"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "ተማል"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ከባድ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ክልተ ኩላቲ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ኩላቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስቦም"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "ስቦም"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ኣጨሶ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ኣብ መስዊእ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:53:45.104593733Z",
+  "model": "glm-5.3"
+}

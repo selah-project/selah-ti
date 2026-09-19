@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 94,
+  "translation": "ሕዝቢኻ ያህዌህ ይደቅኡ፣ ውርሻኻ ድማ ይዓብይዎ።",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "ሕዝቢኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "ይደቅኡ"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "ውርሻኻ"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ይዓብይዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:39.392618458Z",
+  "model": "glm-5.3"
+}

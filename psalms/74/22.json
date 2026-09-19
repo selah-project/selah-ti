@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 74,
+  "translation": "ተንበር ኤሎሂም፣ ክርክርኻ ተኣምር፤ ዓወትኻ ካብ እቲ እሩቅ ኩሉ መዓልቲ ኣዘንብ።",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ተንበረል"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "ተኣምር"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "ክርክርኻ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ኣዘንብ"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "ዓወትኻ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "እቲ እሩቅ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "መዓልቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:36.443910463Z",
+  "model": "glm-5.3"
+}

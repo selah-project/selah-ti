@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እቶም ጽድናውያን ንሕርሞን ሽርዮን ይብሉዎ፣ እቶም ኣሞራውያን ድማ ሽኒር ይብሉዎ።",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "እቶም ጽድናውያን"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ይብሉዎ"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "ንሕርሞን"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "ሽርዮን"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "እቶም ኣሞራውያን ድማ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ይብሉዎ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "ሽኒር"
+    }
+  ],
+  "timestamp": "2026-09-18T22:46:03.431933507Z",
+  "model": "glm-5.3"
+}

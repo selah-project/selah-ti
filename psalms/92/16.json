@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 92,
+  "translation": "ያህዌህ ቐናይ ምዃኑ፣ እጣኔ እዩ፣ ግፍዲ ድማ ኣብኡ የለን ንኽግብር።",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "ንኽግብር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ቐናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "እጣኔ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ድማ የለን"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ግፍዲ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:24.009055388Z",
+  "model": "glm-5.3"
+}

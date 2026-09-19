@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 47,
+  "translation": "ዮሴፍ ድማ ⟨את⟩ ኣቡኡን ⟨את⟩ ኣሕዋቱን ⟨את⟩ መላእ ስድራ ኣቡኡን ብእኽሊ፣ ኣብ መጠን እቶም ንእሽቶታት በለዖም።",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "በለዖም"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቡኡ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሕዋቱ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ኣሕዋቱን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መላእ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላእ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡን"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ብእኽሊ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ኣብ መጠን"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "እቶም ንእሽቶታት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:06:16.820805236Z",
+  "model": "glm-5.3"
+}

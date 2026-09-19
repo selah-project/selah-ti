@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ንእሽቲ ከተማ ነይራ፣ ገሊኦም ሰባት ኣብኣ ነይሮም፤ ዓቢ ንጉስ ድማ መጸ ነታ፣ ሓዲሩዋ ⟨אתה⟩ ዝኾነ፣ ዓቢታት ማዕዶታት ሓደመ ኣብ ልዕሊኣ።",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "ንእሽቲ"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "ሰባትን"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኣ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ገሊኦም"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ነታ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "ሓዲሩዋ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ነታ ከተማ"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "ሓደመ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ኣብ ልዕሊኣ"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "ማዕዶታት"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ዓቢታት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:42:42.003411468Z",
+  "model": "glm-5.3"
+}

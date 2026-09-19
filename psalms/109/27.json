@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "ይፈልጡ ከም እዚ ኢድካ ምዃኑ፣ ንስኻ ያህዌህ ገበርካያ።",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ይፈልጡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድካ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "ገበርካያ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:02.195245195Z",
+  "model": "glm-5.3"
+}

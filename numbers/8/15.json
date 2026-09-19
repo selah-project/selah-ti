@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 8:15",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ድሕሪ እዚ ሌዋውያን ንምግላግል ⟨את⟩ ድኽሪ መወዓውዒ ይኣቱ፣ ነንሶም ከኣ ⟨אתם⟩ ተናጽዮም፣ ⟨אתם⟩ ብትንውፋ ተነፍዖም።",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ይኣቱ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሌዋውያን"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ንምግላግል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድኽሪ መወዓውዒ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድኽሪ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መወዓውዒ"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "ተናጽዮም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ሌዋውያን"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "ተነፍዖም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ሌዋውያን"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "ብትንውፋ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:20:50.125243610Z",
+  "model": "glm-5.3"
+}

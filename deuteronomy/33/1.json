@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "እዚኦም እዩ ⟨እቲ⟩ በረኻ እቲ ሞሸ፣ ሰብ ኤሎሂም፣ እቶም ⟨את⟩ ውላድ እስራኤል ኣብ ቅድሚ ሞቱ ዝበረኾ።",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "በረኻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ዝበረኾ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ እስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "ሞቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:12:19.595584428Z",
+  "model": "glm-5.3"
+}

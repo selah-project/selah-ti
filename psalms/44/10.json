@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ግን ተረፍካ፣ ኣሕዘርካና፣ ምስ ሰራዊትና ድማ ኣይትወጽእን።",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ግን"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "ተረፍካ"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "ኣሕዘርካና"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ትወጽእ"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "ምስ ሰራዊትና"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:12.235359347Z",
+  "model": "glm-5.3"
+}

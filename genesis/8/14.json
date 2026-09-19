@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣብ ካልኣይ ወርሒ እውን፣ ኣብ ሸውዓተ ወይ ዓሰርተ መዓልቲ ናይ ወርሒ፣ እቲ ምድሪ ደረቐ።",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "ኣብ ወርሒ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ካልኣይ"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "ኣብ ሸውዓተ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ወይ ዓሰርተ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ናይ ወርሒ"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "ደረቐት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እቲ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:34:28.591316372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ብርግምቲ ተረጊምኩም ኣላትኩም፣ ነዚ ⟨את⟩ ተሓቒፍኩም ድማ እቲ ሕዝቢ ኩሉ ኾነ።",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "ብርግምቲ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ንስኻትኩም"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "ተረጊምኩም ኣላትኩም"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "ነዚ (ያህዌህ)"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ንስኻትኩም"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "ተሓቒፍኩም"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ኩሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:43:13.766670489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ድማ ⟨את⟩ የቡሳይን ⟨את⟩ ኣሞራይን ⟨את⟩ ጊርጋሳይን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የቡሳይን"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "የቡሳይን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሞራይን"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ኣሞራይን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጊርጋሳይን"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ጊርጋሳይን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:29:00.281111216Z",
+  "model": "glm-5.3"
+}

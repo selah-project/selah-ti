@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 27:15",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ሞሸ ድማ እናበለ ናብ ያህዌህ ተዛረበ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:37:55.259514081Z",
+  "model": "glm-5.3"
+}

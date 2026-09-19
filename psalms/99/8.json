@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 99,
+  "translation": "ያህዌህ ኤሎሂምና፣ ንስኻ ምለስካዮም፤ ኤል ዝሕሰም ነይኻሎም፣ ኣብ ቕጽለታቶም እውን ተበደሕካዮም።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "ምለስካዮም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ዝሕሰም"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ነይኻ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንኣቶም"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "ተበደሕካዮም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "ቕጽለታቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:56.062816599Z",
+  "model": "glm-5.3"
+}

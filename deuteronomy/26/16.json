@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "እዚ መዓልቲ እዚ ያህዌህ ኤሎሂምካ ነቶም ሕግጋትን ⟨את⟩ ነቶም ፍትሒታትን ንምግባር ይዕዝዘካ እዩ፤ ⟨את⟩ ነንሶም ሓልዎን ተገብርን ብኹሉ ልብኻን ብኹሉ ነፍስኻን።",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "እዚ መዓልቲ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ይዕዝዘካ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ንምግባር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ሕግጋት"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ነቶም ሕግጋት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ፍትሒታት"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ነቶም ፍትሒታት"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ሓልዎን"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ተገብርን"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ነንሶም"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብኹሉ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ልብኻ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ብኹሉን"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ነፍስኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:06:56.037039163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 12:10",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ምስኡ⟨את⟩ እተዓቢዉ እቶም ወዲታት ድማ በሉዎ፦ «ነዚ ህዚቢ እዚ ነቲ ዝበለካኻትን ነብ ነብ ነብ — ኣቦና ጓስና ኣብከየና፤ ንስኻ ድማ ነእኽልና — ከምዚ ክትዛረቦም ኢኻ፦ ኣእጽማይ ካብ ወገበ ኣቦይ ኣዝዮ ዓቢ እዩ።»",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "በሉዎ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንንሱ"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "እቶም ወዲታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝ"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "እተዓቢዉ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ምስኡ⟨את⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበሉ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ክትብል"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ነቲ ህዚቢ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ዝበሉ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ንኣኻ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበሉ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ኣቦኻ"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "ኣብከዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጓስና"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "ጓስና"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ድማ"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "ነእኽል"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "ካብ ልዕልና"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ክትዛረብ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "קטני",
+      "gloss": "ኣእጽማይ"
+    },
+    {
+      "surface": "עבה",
+      "gloss": "ኣዝዮ ዓቢ"
+    },
+    {
+      "surface": "ממתני",
+      "gloss": "ካብ ወገበ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦይ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:00:05.918529048Z",
+  "model": "glm-5.3"
+}

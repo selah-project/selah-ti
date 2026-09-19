@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እቲ ሰባይተይ ወርሓ ምስ በጽሐ፣ ውላድ ይስራኤል ኣብ ከተማታት ኮይኖም፣ እቲ ሕዝቢ ከም ሓደ ሰብ ናብ የሩሻላይም ተኣኻኽበ።",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "በጽሐ"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "እቲ ወርሓ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ሰባይተይ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "ኣብ ከተማታት"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ተኣኻኽበ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ከም ሓደ ሰብ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:08:11.435854412Z",
+  "model": "glm-5.3"
+}

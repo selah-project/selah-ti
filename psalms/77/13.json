@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 77,
+  "translation": "ኩሉ ግብሪኻ እነሓልዎ ነቶም ተግባራትኻ ድማ እነዛረብ እየ።",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "እነሓልዎ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ግብሪኻ"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "ተግባራትኻ"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "እነዛረብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:00.370822704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ምስ ዝረኣየ ሰማያትካ፣ ኣኽሊል ስራሓት ኣኽሊል ዓቕበትኻ፣ ወርሒን ከዋኽብትን እቶም ዝተባእእካ፣",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ዝረኣየ"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ሰማያትካ"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ስራሓት"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "ኣኽሊል ዓቕበትኻ"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ወርሒ"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "ከዋኽብትን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "ዝተባእእካ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:43:13.889467056Z",
+  "model": "glm-5.3"
+}

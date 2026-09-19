@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኣብ ኣኽሪ ቤትኻን ኣብ በረታታትኻን ክትጽሕፎም እኻ።",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "ክትጽሕፎም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "ኣኽሪ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ቤትኻ"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "ኣብ በረታታትኻን"
+    }
+  ],
+  "timestamp": "2026-09-19T08:34:08.292627675Z",
+  "model": "glm-5.3"
+}

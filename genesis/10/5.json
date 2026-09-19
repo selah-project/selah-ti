@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ካብዚኦም ደሴታት ኣህዛብ ኣብ ምድሮም ተፈላለዩ፤ ዓዲ ብቋንቋኡ፣ ብስድራታቶም ኣብ ህዝብታቶም።",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "ካብዚኦም"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "ተፈላለዩ"
+    },
+    {
+      "surface": "איי",
+      "gloss": "ደሴታት"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "ኣብ ምድሮም"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ዓዲ"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "ብቋንቋኡ"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ብስድራታቶም"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "ኣብ ህዝብታቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:35:14.081402690Z",
+  "model": "glm-5.3"
+}

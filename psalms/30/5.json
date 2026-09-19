@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ንያህዌህ ኣመስግኑ ኣኻቱ፣ ቅዱሳኑ፣ ነቲ ቅዱስ መዘኻኸሪ ኣኹሩም።",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ኣመስግኑ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ቅዱሳኑ"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "ኣኹሩም"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "ነቲ መዘኻኸሪ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:09.918092413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ሒዞም ⟨את⟩ ኩሉ ንብረት ስዶምን ዓሞራን፣ ⟨את⟩ ኩሉ መግቢ ንሳቶምን፣ ኮይኖም ከዱ።",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ሒዞም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ንብረት ስዶምን ዓሞራንን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "ንብረት"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "ስዶም"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "ዓሞራ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ መግቢ ንሳቶም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "መግቢ ንሳቶም"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ከዱ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:37:37.543655707Z",
+  "model": "glm-5.3"
+}

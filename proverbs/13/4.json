@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ነፍሲ ሓሸላ ይምነይ ድማ የለን፤ ነፍሲ ተጻለይቲ ግን ትደምብዕ እያ።",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "ይምነይ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ድማ የለን"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ሓሸላ"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "ተጻለይቲ"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "ትደምብዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:48:31.127541316Z",
+  "model": "glm-5.3"
+}

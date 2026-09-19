@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 10:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ሞሸን ኣሃሮንን ናብ ፓርዖ እተዉ፤ «ከምዚ በለ ያህዌህ ኤሎሂም ናይ እቶም ዕብራውያን፦ ክሳብ መዓስ ኣብ ቅድሚይ ንኽትዕዝዞ ተቓለልካ? ህዝበይ ስጒሩ፣ ነገሥኒ እዮም።»",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "እተዉ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ተዛረቡ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ዕብራውያን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "መዓስ"
+    },
+    {
+      "surface": "מאנת",
+      "gloss": "ተቓለልካ"
+    },
+    {
+      "surface": "לענת",
+      "gloss": "ንኽትዕዝዞ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ኣብ ቅድሚይ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ስጒሩ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ህዝበይ"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ነገሥኒ እዮም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:18:39.665754723Z",
+  "model": "glm-5.3"
+}

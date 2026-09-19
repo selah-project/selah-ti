@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ሞሸ ንግማዊ ደም ሒዙ ኣብ ⟨ጎድኒታት⟩ ኣቲሑ፣ እቲ ካልኣይ ግማዊ ደም ድማ ኣብ ልዕሊ መስዊኽ ረጨዮ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ሒዙ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ግማዊ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ኣቲሑ"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "ኣብ ጎድኒታት"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ካልኣይ ግማዊ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "ረጨዮ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መስዊኽ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:27:07.244633727Z",
+  "model": "glm-5.3"
+}

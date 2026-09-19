@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 81,
+  "translation": "ንማእማል ኣብ ላዕሊ ግቲት፣ ቅጽሪ ናይ ኣሳፍ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንማእማል"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "ግቲት"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ናይ ኣሳፍ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:10.110060215Z",
+  "model": "glm-5.3"
+}

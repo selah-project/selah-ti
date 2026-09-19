@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣብ ትሕቲ ጸሓይ ኣብ ዝጸንኩሮ ኩሉ ሞኺርኡ ሰብ እንታይ ትርፊ ኣለዎ።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ትርፊ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ሞኺርኡ"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "ዝጸንኩሮ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ትሕቲ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ጸሓይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:39:15.582041372Z",
+  "model": "glm-5.3"
+}

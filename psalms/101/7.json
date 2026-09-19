@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 101,
+  "translation": "ሓልቀት ዝገብር ኣብ ውሽጢ ቤተይ ኣይተቐምጥን፤ ውሽንቲ ዝዛረብ ኣብ ቅድሚ ኣይንተይ ኣይቕመጥን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ዝቐምጥ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ኣብ ውሽጢ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ቤተይ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገብር"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ሓልቀት"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝዛረብ"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "ውሽንቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ዝቕመጥ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ኣይንተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:22:37.127859881Z",
+  "model": "glm-5.3"
+}

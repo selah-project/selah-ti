@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 25:11",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ነታባጽዚ ⟨את⟩ ብጽሑቅ ወርቂ ካብ ውሽጢን ካብ ደገን ተሓቢጥካ ታሕቡጡ፣ ብላዕሊኡ ድማ ወርቃዊ ዙርያ ብዙርያኡ ክትገብር።",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "ተሓቢጥካ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ነታባጽዚ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ጽሑቅ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ውሽጢ"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "ካብ ደገ"
+    },
+    {
+      "surface": "תצפנו",
+      "gloss": "ታሕቡጡ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ክትገብር"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ብላዕሊኡ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ዙርያ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቃዊ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ብዙርያኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:31:03.686921813Z",
+  "model": "glm-5.3"
+}

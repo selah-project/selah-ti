@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኤሎሂም ድማ ኣብ እተንበርቅ እቲ ንጉል ኣብ ብሕቲ ቶላዓት ደለዮ፣ ቅቅዮን'ውን ⟨את⟩ በደለ፣ ኮይኑ ድማ ደረቐ።",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "ደለዮ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ቶላዓት"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "ኣብ እተንበርቅ"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "እቲ ንጉል"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "ኣብ ብሕቲ"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "በደለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅቅዮን"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "ቅቅዮን"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "ደረቐ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:23:42.123656184Z",
+  "model": "glm-5.3"
+}

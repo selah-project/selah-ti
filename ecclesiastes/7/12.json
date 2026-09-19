@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ምኽንያቱ ኣብ ጽላል እቲ ጥበብ፣ ኣብ ጽላል እቲ ብርኩት እዩ፤ ወሳኺ ብምርዳእ እቲ ጥበብ ወናኒኣ ትህብዮም እያ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንዲቱ"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ኣብ ጽላል"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "እቲ ጥበብ"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ኣብ ጽላል"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "እቲ ብርኩት"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "ወሳኺ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ምርዳእ"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "እቲ ጥበብ"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ትህብዮም"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "ወናኒኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:41:44.865893779Z",
+  "model": "glm-5.3"
+}

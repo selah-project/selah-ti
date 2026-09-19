@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 79,
+  "translation": "እቲ ኣወጋቕጺ ናይቲ ኣሲር ናብ ቅድሚኻ ይበጽሕ፤ ከም ዝዓበየ ዓቕቲ ኢድካ፡ ንውሉድ ሞት ኣውፅእ።",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "ይበጽሕ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ናብ ቅድሚኻ"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "ኣወጋቕጺ"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ኣሲር"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "ከም ዝዓበየ"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "ዓቕቲ ኢድካ"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "ኣውፅእ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውሉድ"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "ሞት"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:24.806499499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 15:33",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "እቶም ዝረኽብዎ ኸኣ ንሱ ⟨אתו⟩ ብእኽሊ እናኣከበ ናብ ሞሸን ናብ ኣሃሮንን ናብ ኩሉ ቑፅሕትን ኣብስሕብዎ።",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "ኣብሰሕብዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ንሱ (እቲ ሰብ)"
+    },
+    {
+      "surface": "המצאים",
+      "gloss": "እቶም ዝረኽብዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ንሱ"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "እናኣከበ"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ብእኽሊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ናብን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ናብን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ቑፅሕት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:25:45.161260483Z",
+  "model": "glm-5.3"
+}

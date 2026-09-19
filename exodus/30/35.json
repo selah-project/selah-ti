@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ነታ ⟨אתה⟩ ወፈያ እናገብርካ ናይ ምትሕውስ፣ ብስርዓት ሰብ ምትሕውስ፣ ተባሪያ ብምልእኩ፣ ንጹርን ቅዱስን ክትኸውን።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "እናገብርካ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "ወፈያ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ናይ ምትሕውስ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ስርዓት"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "ሰብ ምትሕውስ"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "ተባሪያ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ንጹር"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:35:31.343857133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ያህዌህ ሰላም ለና ትዳእን፤ ምኽንያቱ ኩሉ ግብርና እውን ንሕና ገበርካ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "ትዳእን"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለና"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "ግብርና"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ገበርካ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ለና"
+    }
+  ],
+  "timestamp": "2026-09-19T01:56:48.056905762Z",
+  "model": "glm-5.3"
+}

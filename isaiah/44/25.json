@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 44:25",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ውዑያት ሓሶት የስቓርቕ፣ ማስመርቲ ድማ የጥፍኦም፤ ብጥዕና ሰብሳባት ንድሕርቲ ዝምለስ፣ ዕውቀቶምን የበድሕላ።",
+  "tokens": [
+    {
+      "surface": "מפר",
+      "gloss": "የስቓርቕ"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "ውዑያት"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "וקסמים",
+      "gloss": "ማስመርቲን"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "የጥፍኦም"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "ዝምለስ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ሰብሳባት ብጥዕና"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ንድሕርቲ"
+    },
+    {
+      "surface": "ודעתם",
+      "gloss": "ዕውቀቶምን"
+    },
+    {
+      "surface": "ישכל",
+      "gloss": "የበድሕላ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:12:58.891278084Z",
+  "model": "glm-5.3"
+}

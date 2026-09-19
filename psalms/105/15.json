@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "«ንማሺያሕተይ ኣይተታንኩሙን፣ ንነብየይ ድማ ኣይተበሃኽሙን»።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "ተታንኩሙ"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "ንማሺያሕተይ"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "ንነብየይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "ተበሃኽሙ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:31.085642238Z",
+  "model": "glm-5.3"
+}

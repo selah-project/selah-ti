@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 4:7",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ናዚራት ከተማ ካብ በረኻ ⟨ዝዓበያ⟩ ንጹራት ነበራ፣ ካብ ወተት ⟨ዝዓበያ⟩ ነዊሓት፤ ንሳቶም ብርኩም ካብ ማርጋኒት ⟨ዝዓበያ⟩ ተቐየሩ ቀይሕ፣ ቅርጺን ኸኣ ከም ሳፋይር እዩ።",
+  "tokens": [
+    {
+      "surface": "זכו",
+      "gloss": "ንጹራት"
+    },
+    {
+      "surface": "נזיריה",
+      "gloss": "ናዚራት"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "ካብ በረኻ"
+    },
+    {
+      "surface": "צחו",
+      "gloss": "ነዊሓት"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ካብ ወተት"
+    },
+    {
+      "surface": "אדמו",
+      "gloss": "ተቐየሩ ቀይሕ"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "ብርኩም"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "ካብ ማርጋኒት"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "ሳፋይር"
+    },
+    {
+      "surface": "גזרתם",
+      "gloss": "ቅርጺን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:36:56.019775503Z",
+  "model": "glm-5.3"
+}

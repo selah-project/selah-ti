@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 100,
+  "translation": "ምኽንያቱ ያህዌህ ጽቡእ እዩ፤ ሔሴዱ ናብ ዘለኣለም፣ እምነቱ ድማ ክሳብ ትውልቲ ወዲ ትውልቲ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡእ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "דר",
+      "gloss": "ትውልቲ ወዲ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ትውልቲ"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "እምነቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:29.354555339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ዳንን ንፍታሊን፣ ጋድን ኣሴርን።",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "ዳን"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "ንፍታሊን"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ኣሴርን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:11:00.242713153Z",
+  "model": "glm-5.3"
+}

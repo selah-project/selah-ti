@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 86,
+  "translation": "ናባይ ተዓዘብ፣ ምሕረኒ ኸኣ፣ ኣይቕርቲካ ንኣገልኻይ ሃብ፣ ንወዲ ኣገልኣይትካ ድማ ኣድንን።",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "ተዓዘብ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ናባይ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ምሕረኒ ን"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ሃብ"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ኣይቕርቲካ"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ንኣገልኻይ"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "ኣድንን"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ንወዲ"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ኣገልኣይትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:45.788123641Z",
+  "model": "glm-5.3"
+}

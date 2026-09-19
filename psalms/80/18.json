@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 80,
+  "translation": "ኢድኻ ኣብ ሰብ የማንኻ ትኹን፣ ኣብ ወዲ ኣዳም እቲ ንዓኻ እተጠንከርካ።",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "ትኹን"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድኻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "የማንኻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ኣዳም"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "እተጠንከርካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንዓኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:09.596557586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሳሙኤል ድማ ወጻዕ ምስ ኮይኑ ብበፍታ ኤፉድ ተሓቢኡ ኣብ ⟨את⟩ ቅድሚ ያህዌህ ይገልግል ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "ሳሙኤል ድማ"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "ይገልግል ነይሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅድሚ ያህዌህ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ወጻዕ"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "ተሓቢኡ"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ኤፉድ"
+    },
+    {
+      "surface": "בד",
+      "gloss": "ብበፍታ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:56:56.188600123Z",
+  "model": "glm-5.3"
+}

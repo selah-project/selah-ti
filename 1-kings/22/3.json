@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ንጉስ እስራኤል ድማ ንኣገልጋሉ በለ፦ «ተረዲእኩም ኣሎኹም — ራሞት ጊልዓድ ናይና እዩ፣ ንሕና ድማ ዝርሕቡ ኣሎና ካብ ኢድ ንጉስ ኣራም ⟨את⟩ ክንክፎ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ኣገልጋሉ"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "ተረዲእኩም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ናይና"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "ራሞት"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ጊልዓድ"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ንሕና ድማ"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "ዝርሕቡ"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "ክንክፎ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ራሞት ጊልዓድ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:14:02.734470701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ብትሕታይ ድኻምኩ፤ ኩሉ ለይቲ ኣልጻይ ኣሳውዕ እየ፤ ብኣይተይ ድማ ኣትኣሳይ እናወዓልኩ ኣሽመጠ።",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "ድኻምኩ"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "ብትሕታይ"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "ኣሳውዕ እየ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ለይቲ"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "ኣልጻይ"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "ብኣይተይ"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "ኣትኣሳይ"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "ኣሽመጠ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:12.810888550Z",
+  "model": "glm-5.3"
+}

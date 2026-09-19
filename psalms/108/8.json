@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 108,
+  "translation": "ኤሎሂም ኣብ ቅድስኡ ተዛረበ፤ እደስኣ እየ፣ ሽኬም እካፍል፣ ማዕረ ሱኮት ከኣ እሸንሕ።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "ኣብ ቅድስኡ"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "እደስኣ እየ"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "እካፍል"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ሽኬም"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ከኣ ማዕረ"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "ሱኮት"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "እሸንሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:39.621845461Z",
+  "model": "glm-5.3"
+}

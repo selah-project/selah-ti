@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ውዒል ብና፤ ካብ ኢድኦም እዚኦም ዓቢያት ኤሎሂም እዚኦም መን ይናጽነና፧ እዚኦም እዮም እቶም ኤሎሂም ኣብ ምድረ-በዳ ⟨את⟩ ሚጽራይም ብዅሉ መታሒ ዝተታሒዉ።",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "ውዒል"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ብና"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ይናጽነና"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "እቶም ኤሎሂም"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "ዓቢያት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "הם",
+      "gloss": "እዮም"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ዝተታሒዉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚጽራይም"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብዅሉ"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "መታሒ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድረ-በዳ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:00:19.646353203Z",
+  "model": "glm-5.3"
+}

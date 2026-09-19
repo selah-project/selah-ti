@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 47,
+  "translation": "ፓርዖ ድማ ንዮሴፍ በሎ ኢሉ፦ «ኣቦኻን ሓውኻን ናብኻ በጹ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ኣቦኻ"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "ሓውኻን"
+    },
+    {
+      "surface": "באו",
+      "gloss": "በጹ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:07:42.796251839Z",
+  "model": "glm-5.3"
+}

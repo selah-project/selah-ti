@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 8:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ያህዌህ ድማ ከምኡ ገበረ፤ ዓዲጪ ብዙሕ ናብ ቤት ፓርዖ ኣተየ፣ ናብ ቤት ኣገልገልቱን ኣብ መላዕለይ ምድሪ ሚጽራይምን፤ ምድሪ ብዛዕቢት እቲ ዓዲጪ ተበታተነት።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ኣተየ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ዓዲጪ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ናብ ቤት"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ናብ ቤት...ን"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ኣገልገልቱ"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ኣብ መላዕለይ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ተበታተነት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ብዛዕቢት"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "እቲ ዓዲጪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:17:30.123633586Z",
+  "model": "glm-5.3"
+}

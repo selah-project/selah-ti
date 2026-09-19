@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ተራሕ ድማ ሰብዑ ዓመት ነይሩ፣ ⟨את⟩ ኣቭራምን ⟨את⟩ ናሕርን ⟨את⟩ ሓራንን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ተራሕ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ሰብዑ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቭራም"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ኣቭራም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ናሕር"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ናሕር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሓራን"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "ሓራን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:37:10.257609697Z",
+  "model": "glm-5.3"
+}

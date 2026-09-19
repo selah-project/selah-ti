@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ብሓቂ ያህዌህ፣ ነገስቲ ኣሽውር ⟨את⟩ ብሔራትን ⟨ואת⟩ ምድሮምን ኣጠፍኡ።",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "ብሓቂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "ኣጠፍኡ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ነገስቲ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣሽውር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብሔራት"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ብሔራት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ምድሮም"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ምድሮም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:36:17.167851071Z",
+  "model": "glm-5.3"
+}

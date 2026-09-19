@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እቲ ንጉስ ድማ ንእስተር ⟨את⟩ እቲ ወርቃዊ ሹካሕ ዘርግሕዋ፤ እስተር ድማ ንሕዲ ተንበርክተት ቅድሚ እቲ ንጉስ ተቐመጠት።",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "ዘርግሕዋ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "ንእስተር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ወርቃዊ ሹካሕ"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "ሹካሕ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ወርቃዊ"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ንሕዲ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "እስተር"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ተቐመጠት"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:50:13.898452018Z",
+  "model": "glm-5.3"
+}

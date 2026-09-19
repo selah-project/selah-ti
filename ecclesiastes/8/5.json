@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ትእዛዝ ዝኾነ ዝተሓለወ ሓሊኻ ጉዳይ ኣይፈልጥን፤ እውን ግዜን ፍርድን ልቢ ሓኪም ይፈልጥ እዩ።",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "ዝተሓለወ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ይፈልጥ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ጉዳይ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ሓሊኻ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ምስ ግዜ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ምስ ፍርድ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ይፈልጥ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ሓኪም"
+    }
+  ],
+  "timestamp": "2026-09-19T06:43:43.177265239Z",
+  "model": "glm-5.3"
+}

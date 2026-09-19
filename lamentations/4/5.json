@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "እቶም ኣብ ምግቢ ልዕልነት ዝነበሉ ኣብ መንገዳት ተሓዙ፤ እቶም ኣብ ልዕሊ ቀለም ቀይሕ ⟨ካብ ትልቕ ተጻሒፉ⟩ ዝተዓቢሩ መርፍዓት ሓዊሮም።",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "ዝበሉ"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "ኣብ ልዕልነት"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "ተሓዙ"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "ኣብ መንገዳት"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "ዝተዓቢሩ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "ቀለም ቀይሕ"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "ሓዊሮምሉ"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "መርፍዓት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:36:56.019108607Z",
+  "model": "glm-5.3"
+}

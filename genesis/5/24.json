@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ሕኖኽ ምስ ⟨את⟩ ኤሎሂም ተመላለሰ፣ ድማ የለን፣ ምኽንያቱ ኤሎሂም ⟨אתו⟩ ወሲዱ።",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "ተመላለሰ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ሕኖኽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂም"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ኤሎሂም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:33:20.178373402Z",
+  "model": "glm-5.3"
+}

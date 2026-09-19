@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 8:30",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ድሕሪ እዚ የሆሹዋዕ ንያህዌህ ኤሎሂም ናይ እስራኤል ኣብ ኮነ ዓይባል መሠወኪ ሃነጸ።",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ድሕሪ እዚ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ሃነጸ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሠወኪ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ኣብ ኮነ"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "ዓይባል"
+    }
+  ],
+  "timestamp": "2026-09-18T23:22:24.217240166Z",
+  "model": "glm-5.3"
+}

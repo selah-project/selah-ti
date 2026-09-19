@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኣብ መዓልቲ ቁጥዐ ሃብቲ ኣይጠቕመን፤ ጽድቂ ድማ ካብ ሞት ትኣውጽእ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "ኣይጠቕመን"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ሃብቲ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ቁጥዐ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ትኣውጽእ"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ካብ ሞት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:47:55.834068972Z",
+  "model": "glm-5.3"
+}

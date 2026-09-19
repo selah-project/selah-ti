@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 74,
+  "translation": "ኤሎሂም ድማ ንጉሰ ካብ ዘመን ድሕሪት እዩ፣ ኣብ ማእኸል ምድሪ ውዕያታት እናሰርሐ ዝጸንሕ።",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "ኤሎሂም ድማ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ንጉሰ"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ካብ ዘመን ድሕሪት"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "እናሰርሐ"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ውዕያታት"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ኣብ ማእኸል"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:38.160403047Z",
+  "model": "glm-5.3"
+}

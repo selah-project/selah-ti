@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኣይሰምዑን፣ ድማ ከም ኣንገቲ ኣቦታቶም እቶም ኣብ ያህዌህ ኤሎሂምኦም ዘይኣምኑስ ን⟨את⟩ ኣንገቶም ኣጸንዑ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ሰምዑ"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "ኣጸንዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣንገቶም"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "ኣንገቶም"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "ከም ኣንገቲ"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ኣቦታቶም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይኣምኑስ"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ኣምኑ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ኣብ ያህዌህ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ኤሎሂምኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:32:26.462727354Z",
+  "model": "glm-5.3"
+}

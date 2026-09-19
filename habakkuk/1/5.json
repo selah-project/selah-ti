@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣብ ኣህዛብ ርኣዩን ተዓዘቡን፣ ተገርሙ፣ ግዙፍ ተገርሙ፤ ምኽንያቱ ብመዓልታትኩም ዝኮነ ግብሪ እዩ ዝተገብር ዘሎ፤ ምስ ተዛረበ እውን ኣይተኣምኑን።",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "ርኣዩ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ኣብ ኣህዛብ"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "ተዓዘቡ"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "ተገርሙ"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "ተገርሙ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ግብሪ"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ዝተገብር"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "ብመዓልታትኩም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "ኣይተኣምኑን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ተዛረበ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:00:43.774528901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "እቲ ሰብ ኤልቃናህ ድማ ምሳ ኩሉ ቤቱ ንያህዌህ ⟨את⟩ ወፈያ ⟨ናይ ዓመታት⟩ን ⟨את⟩ ቃል ኪዳኑን ንኽውፅእ ደወለ።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ደወለ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ኤልቃናህ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ምሳ ኩሉ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ንኽውፅእ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ናይ ዓመታት ወፈያ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ናይ ዓመታት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቃል ኪዳኑ"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "ቃል ኪዳኑ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:56:17.774155336Z",
+  "model": "glm-5.3"
+}

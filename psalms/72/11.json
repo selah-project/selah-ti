@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 72,
+  "translation": "ኩሉ ኣገልገልቲ ንእኡ ክሰግዱ እዮም፣ ኩሉ ብሔራት ድማ ክገልግሉዎ እዮም።",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "ክሰግዱ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእኡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ኣገልገልቲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ብሔራት"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "ክገልግሉዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:08.799511614Z",
+  "model": "glm-5.3"
+}

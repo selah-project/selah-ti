@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 144,
+  "translation": "ኤሎሂም፡ ናይ ሓድሽ መዝሙር ክዛርበለኻ እየ፤ ብነባል ናይ ዓሰርተ ኣብርኪ ክዜምረለኻ እየ።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ሓድሽ"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ክዛርበለኻ እየ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ብነባል"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ናይ ዓሰርተ ኣብርኪ"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ክዜምረለኻ እየ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:23.392077110Z",
+  "model": "glm-5.3"
+}

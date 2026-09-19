@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 11:46",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "እዛ ቶራ ⟨መምርሒ⟩ ናይ እቲ እንሳትን ናይ እቲ ወፊን፣ ንኩሉ ነፍሲ ህያውት እቲ ብማይ ዝሰግርን ንኩሉ ነፍሲ እቲ ኣብ ምድሪ ዝንጸርን እያ።",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "እዛ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "እቲ እንሳት"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "ንእቲ ወፊ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ህያውት"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "ዝሰግር"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ብማይ"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "השרצת",
+      "gloss": "ዝንጸር"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:52:15.707549304Z",
+  "model": "glm-5.3"
+}

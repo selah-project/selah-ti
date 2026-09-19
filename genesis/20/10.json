@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኣቢሜሌኽ ድማ ንኣቭራሃም «እንታይ ረኣይካ፣ እንተ እዚ ⟨את⟩ ነገር እዚ ገበርካ?» በሎ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ኣቢሜሌኽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ረኣይካ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ገበርካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እዚ ነገር"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:43:17.019374214Z",
+  "model": "glm-5.3"
+}

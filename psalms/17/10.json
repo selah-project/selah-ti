@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ብዑፉም ተቓጸሉ፤ ብፍሉዮም ብኩርት ተዛረቡ።",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "ብዑፉም"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "ተቓጸሉ"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "ብፍሉዮም"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ተዛረቡ"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "ብኩርት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:16.255921371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "እዚ ኣብ ጭንቄይ ሓጽነተይ ⟨እዩ⟩፤ ቃልኻ ሕያው ገበረኒ።",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "ሓጽነተይ"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "ኣብ ጭንቄይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ቃልኻ"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "ሕያው ገበረኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:20.055446274Z",
+  "model": "glm-5.3"
+}

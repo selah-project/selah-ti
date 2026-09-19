@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኖኽ ድማ ከም ኩሉ እቲ ኤሎሂም ⟨אתו⟩ ׋እዘዞ ከምኡ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖኽ ድማ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ከም ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ዝኣዘዞ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ኖኽ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:32:59.889012355Z",
+  "model": "glm-5.3"
+}

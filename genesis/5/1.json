@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "እዚ መጽሓፍ ትውልዲ ኣዳም እዩ። ኣብ መዓልቲ ዝፈጠረ ኤሎሂም ⟨את⟩ ሰብ፣ ብምሳሊ ኤሎሂም ገበረዎ።",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "መጽሓፍ"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ትውልዲ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ኣዳም"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ፈጠረ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "ብምሳሊ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:32:37.291749444Z",
+  "model": "glm-5.3"
+}

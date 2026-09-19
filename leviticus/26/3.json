@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "እንተ ኣብ ሕግታተይ ተመላለስኩም፣ ⟨את⟩ ትእዛዛተይ ትሓልዉ፣ ከምኡውን ⟨את⟩ ነፈርቲ እናተገብርኩም።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "ኣብ ሕግታተይ"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ተመላለስኩም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዛተይ"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ትእዛዛተይ"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ትሓልዉ"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ከምኡውን እናተገብርኩም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ነፈርቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:08:31.220543765Z",
+  "model": "glm-5.3"
+}

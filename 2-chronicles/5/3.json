@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኩሉ ሰብ እስራኤል ድማ ኣብ እቲ በዓል — ንሱ ድማ እቲ ሸውዓተይ ወርሒ እዩ — ናብ እቲ ንጉስ ተኣካከለ።",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "ተኣካከለ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "ኣብ እቲ በዓል"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ወርሒ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ሸውዓተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:57:30.124074381Z",
+  "model": "glm-5.3"
+}

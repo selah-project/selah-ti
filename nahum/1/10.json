@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "እኳ ክሳብ እኽሊ ተሓቲቡን ከም ሰቶም እተሰኪሞምን ከምዚ ተበልዑ፣ ከም ደረቕ ኣፍርሲ ምሉእ ተዋሕሎም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እኳ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "ተሓቲቡ"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "ከም ሰቶም"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "እተሰኪሞም"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ተበልዑ"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "ከም ኣፍርሲ"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ደረቕ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ምሉእ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:24:39.504122644Z",
+  "model": "glm-5.3"
+}

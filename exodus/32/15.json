@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 32:15",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ሞሸ ተመልሰ ካብ እቲ ከረ ወረደ፣ ክልተ ሰሌዳታት ናይ መስክር ኣብ ኢዱ እናወርደ — ሰሌዳታት ካብ ክልተ ገጾቶም ካብዚኦን ካብዚኦን ዝተጻሕፋ — ንሳቶም እናተጻሕፋ።",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "ተመልሰ"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ወረደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "እቲ ከረ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ሰሌዳታት"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ናይ መስክር"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ኣብ ኢዱ"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ሰሌዳታት"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "ዝተጻሕፋ"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ካብ ክልተ"
+    },
+    {
+      "surface": "עבריהם",
+      "gloss": "ገጾቶም"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ካብዚኦ"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "ካብዚኦን"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "እናተጻሕፋ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:39:14.641021745Z",
+  "model": "glm-5.3"
+}

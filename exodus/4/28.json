@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ሞሸ ድማ ንኣሃሮን ⟨את⟩ ኩቶን ቃላት ያህዌህ ዝሰዓብዎን ⟨את⟩ ኩቶን እቶም ምልክታት ዝኣዘዞን ሓበሮ።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ሓበሮ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ንኣሃሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩቶን ቃላት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩቶን"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ዝሰዓብዎ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩቶን እቶም ምልክታት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩቶን"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "እቶም ምልክታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ዝኣዘዞ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:13:37.726641191Z",
+  "model": "glm-5.3"
+}

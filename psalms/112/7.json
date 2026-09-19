@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 112,
+  "translation": "ካብ ክፉእ ዜና ኣይደልዩን፤ ልቡ ዝተረጋገጸ ኮይኑ ኣብ ያህዌህ ይተኣማምን።",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "ዜና"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ይደልዩ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ዝተረጋገጸ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ይተኣማምን"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ኣብ ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:42.751046065Z",
+  "model": "glm-5.3"
+}

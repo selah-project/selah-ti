@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኣብኡ ንሓድሽ ንያህዌህ ወፈያ ሰላም እንተ ወፈዝኩም፣ ንምሕረትኩም ⟨ን⟩ተውፈዮ።",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ኣብኡ እንተ"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "ንሓድሽ እንተ ወፈዝኩም"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "ንምሕረትኩም"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "ተውፈዮ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:00:54.260749070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 88,
+  "translation": "ያህዌህ፣ ስለምንታይ ነፍሰይ ተረጢእካ? ገጽካ ብዘይኣይ ስለምንታይ ተሓቢእካ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ስለምንታይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "ተረጢእካ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ተሓቢእካ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽካ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ብዘይኣይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:48.207612889Z",
+  "model": "glm-5.3"
+}

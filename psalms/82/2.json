@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 82,
+  "translation": "ክሳብ መዓሊ ብዘይ ማዕርጊ ትፈርዱ፧ ኣንፈቲ ሓራራማን ትቐብሉ፧ ስላሕ።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "መዓሊ"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "ትፈርዱ"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ብዘይ ማዕርጊ"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ኣንፈቲ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ሓራራማን"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "ትቐብሉ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስላሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:22.918211905Z",
+  "model": "glm-5.3"
+}

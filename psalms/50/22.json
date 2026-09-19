@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 50:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "እዚ በጃኹም ተረድኡ፣ እቶም ኤሎሃ ዚረስይዎ፦ ከይኸውን ክጥፍአኩም፣ ዚድሕን ድማ የለን።",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "ተረድኡ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "በጃኹም"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "ዚረስይዎ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ኤሎሃ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ከይኸውን"
+    },
+    {
+      "surface": "אטרף",
+      "gloss": "ክጥፍአኩም"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ድማ የለን"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ዚድሕን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:02.200691801Z",
+  "model": "glm-5.3"
+}

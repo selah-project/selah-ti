@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ኣስዕቢ ያህዌህ ኩሉ ኣርዑት ልቢ እዩ፤ ኢድ ምስ ኢድ እንተተሓዊሸትውን ኣይንጽዮን።",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "ኣስዕቢ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ኣርዑት"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ምስ ኢድ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ይንጽዮን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:49:58.765756607Z",
+  "model": "glm-5.3"
+}

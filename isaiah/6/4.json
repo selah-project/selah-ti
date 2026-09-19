@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኣምዳት ኣፍማት ካብ ድምጺ እቲ ዝቐርዕ ተነወዩ፣ እቲ ቤት ድማ ብጽምኢ ተመልአ።",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "ተነወዩ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ኣምዳት"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "ኣፍማት"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "ካብ ድምጺ"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "እቲ ዝቐርዕ"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "እቲ ቤት"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ተመልአ"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ብጽምኢ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:46:27.608740777Z",
+  "model": "glm-5.3"
+}

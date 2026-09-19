@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እቲ ንጉስ ሽሎሞ ድማ ብኢድ ብነንያሁ ወዲ ይሆይዳዕ ለኣኾ፤ ንሱ ድማ በደለዮ ድማ ሞተ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ለኣኾ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "ብነንያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "ይሆይዳዕ"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "በደለዮ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:47:26.519342501Z",
+  "model": "glm-5.3"
+}

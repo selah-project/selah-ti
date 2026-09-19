@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ሻምወል ድማ ⟨את⟩ ያህዌህ ገና ኣይዀየን፣ ቃል ያህዌህ እውን ገና ኣይተገለጸሉን።",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "ሻምወል ድማ"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ገና ኣይ…ን"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ዀየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "እውን ገና ኣይ…ን"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "ተገለጸ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:58:23.692842233Z",
+  "model": "glm-5.3"
+}

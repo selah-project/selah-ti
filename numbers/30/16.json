@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ከምኡውን ድሕሪ ምስ ሰምዐ ⟨את⟩ ኣቶም እንተ በጠሮም፣ ንዓዲኣ ክሳቕብ እዩ።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ከምኡውን እንተ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ኣብ ዘበጠረ"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "ክበጥር"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቶም"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ምስ ሰምዐ"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ድማ ክሳቕብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓዲኣ"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ዓዲኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:41:02.454403717Z",
+  "model": "glm-5.3"
+}

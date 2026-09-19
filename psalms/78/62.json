@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ድማ ንዓመቱ ናብ ሰይፊ ኣብረኾ፣ ንውርሻኡ ድማ ተቓጸለ።",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "ኣብረኾ"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ናብ ሰይፊ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ንዓመቱ"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "ንውርሻኡ"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "ተቓጸለ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:48.046276061Z",
+  "model": "glm-5.3"
+}

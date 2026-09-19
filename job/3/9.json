@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 3:9",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኮክብታ ናይ ምስሻዕቱ ከም ዝጸልሙ፤ ብርሃን ክጽበይ እዩ፣ የለን፤ ኣብ ቅንፊ ⟨ብርሃት⟩ ሰሙን ድማ ኣይረኣየን።",
+  "tokens": [
+    {
+      "surface": "יחשכו",
+      "gloss": "ክጸልሙ"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "ኮክብታ"
+    },
+    {
+      "surface": "נשפו",
+      "gloss": "ናይ ምስሻዕቱ"
+    },
+    {
+      "surface": "יקו",
+      "gloss": "ክጽበይ"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "בעפעפי",
+      "gloss": "ኣብ ቅንፊ"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ሰሙን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:01:29.515121048Z",
+  "model": "glm-5.3"
+}

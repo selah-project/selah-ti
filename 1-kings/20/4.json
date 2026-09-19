@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 20:4",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ወንጉስ እስራኤል ድማ መልሱ በለ፦ «ከም ቓልካ ጎይታይ ወንጉስ፤ ኣነ ንዓኻ እየ፣ ከምኡውን ኩሉ እቲ ዘለኒ እዩ»።",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መልሱ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ወንጉስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ከም ቓልካ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጎይታይ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ወንጉስ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንዓኻ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ከምኡውን ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ዘለኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:45:17.107661707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ያህዌህ ድማ ናብ ዘለኣለም ይነብር እዩ፤ ንፍርዲ መንበሩ ሓዙ።",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ ድማ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ይነብር"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "ሓዙ"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ንፍርዲ"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "መንበሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:14.230945544Z",
+  "model": "glm-5.3"
+}

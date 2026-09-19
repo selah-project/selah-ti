@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ሓቂ ግዛዕን ኣይተሸጥን፣ ጥበብን ትምህርቲን ብሂልን።",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "ሓቂ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ግዛዕ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "ተሸጥ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "ትምህርቲ"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "ብሂል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:54:37.054657272Z",
+  "model": "glm-5.3"
+}

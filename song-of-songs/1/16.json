@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 1:16",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣሮ ጽቡቕ እካዕ ኢኻ፣ ዓረበይ፣ ድማ ምቹእ፣ ድማ ኣልጋና ለሙላዕ እያ።",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "ኣሮ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ጽቡቕ እካዕ ኢኻ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ዓረበይ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ምቹእ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "ערשנו",
+      "gloss": "ኣልጋና"
+    },
+    {
+      "surface": "רעננה",
+      "gloss": "ለሙላዕ እያ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:26:24.654423118Z",
+  "model": "glm-5.3"
+}

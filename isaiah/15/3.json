@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 15:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ኣብ መንገዳቱ ስንዳት ተጠቕኑ፤ ኣብ ዓሻታታኣን ኣብ ስፍሓታታታን ኹሉ ይጽውዕ፣ እናወረደ ኣብ ብክሊ።",
+  "tokens": [
+    {
+      "surface": "בחוצתיו",
+      "gloss": "ኣብ መንገዳቱ"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "ተጠቕኑ"
+    },
+    {
+      "surface": "שק",
+      "gloss": "ስንዳት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "גגותיה",
+      "gloss": "ዓሻታታኣ"
+    },
+    {
+      "surface": "וברחבתיה",
+      "gloss": "ኣብ ስፍሓታታታ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "ይጽውዕ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "እናወረደ"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ኣብ ብክሊ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:52:44.150724395Z",
+  "model": "glm-5.3"
+}

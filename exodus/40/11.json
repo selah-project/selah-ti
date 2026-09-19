@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ተብሒካ ድማ ⟨את⟩ እቲ ጽርሚን ⟨את⟩ መቕመጫኡን፣ ቐድስካ ድማ ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ተብሒካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ጽርሚ"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "እቲ ጽርሚ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መቕመጫኡ"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "መቕመጫኡ"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ቐድስካ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንእሱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:46:17.553748165Z",
+  "model": "glm-5.3"
+}

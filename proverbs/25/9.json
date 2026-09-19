@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ንጉዳይካ ምስ ሓብተኻ ⟨את⟩ ስዒብ፣ ሓበሬታ ካልእ ከኣ ኣይተግለጽን።",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "ንጉዳይካ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ስዒብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓብተኻ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ሓብተኻ"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "ሓበሬታ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ካልእ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ተግለጽ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:54:36.442884125Z",
+  "model": "glm-5.3"
+}

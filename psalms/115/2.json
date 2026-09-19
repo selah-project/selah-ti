@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 115,
+  "translation": "ኣሕይልቲ ኣህዝባት እንታይ ኢሎም ክብሉ፧ «ኣበይ እዩ ንጹር ኣምላኾም፧»",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "እንታይ ኣሕይልቲ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ክብሉ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ኣህዝባት"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ኣበይ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ንጹር"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ኣምላኾም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:31.914694177Z",
+  "model": "glm-5.3"
+}

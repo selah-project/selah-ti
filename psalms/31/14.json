@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 31:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ስለ ዝሰማዕኩ ህቡብ ብዙሓት፣ ብርግሕ ዙሪያይ ነይሩ፤ ምስ ተሰምዑ ኩሎም ሓደ ኮይኖም ኣብ ልዕለይ ነፍሰይ ንምውሃብ ኣሰቡ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ ዝ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ሰማዕኩ"
+    },
+    {
+      "surface": "דבת",
+      "gloss": "ህቡብ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "ብርግሕ"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ዙሪያይ"
+    },
+    {
+      "surface": "בהוסדם",
+      "gloss": "ምስ ተሰምዑ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ኩሎም ሓደ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕለይ"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ንምውሃብ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "ኣሰቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:38.403417766Z",
+  "model": "glm-5.3"
+}

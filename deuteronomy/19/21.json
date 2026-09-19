@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ወይኡን ዓይንካ ኣይትሓጐስን፤ ነፍሲ ንነፍሲ፣ ዓይኒ ንዓይኒ፣ ጥርሚ ንጥርሚ፣ ኢድ ንኢድ፣ ኣግራብ ንኣግራብ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ወይኡን … ኣይ-…-ን"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ትሓጐስ"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ዓይንካ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ንነፍሲ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ዓይኒ"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ንዓይኒ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ጥርሚ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ንጥርሚ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ንኢድ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ኣግራብ"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "ንኣግራብ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:59:20.250629315Z",
+  "model": "glm-5.3"
+}

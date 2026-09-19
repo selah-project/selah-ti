@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 93,
+  "translation": "ዙፋንካ ካብ ዓዲ ተረጊሙ እዩ፤ ንስኻ ካብ ዘለኣለም ኣለኻ።",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ተረጊሙ"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ዙፋንካ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ካብ ዓዲ"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ካብ ዘለኣለም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:34.128190818Z",
+  "model": "glm-5.3"
+}

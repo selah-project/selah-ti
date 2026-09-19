@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 6:10",
+  "book": "zechariah",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ወሲድ ካብ ስደተኛታት — ካብ ⟨את⟩ ኸልዳይ፣ ካብ ⟨ואת⟩ ቶብያ፣ ካብ ⟨ואת⟩ የዳያ፤ ንስኻ ድማ ኣብቲ መዓልቲ እቲ ኮይንካ ናብ ቤት ዮኣሺሃ ወዲ ጽጰንያሃ ተወዲኻ ኣተው፣ እቶም ካብ ባቢሎን ዝበጽሑ።",
+  "tokens": [
+    {
+      "surface": "לקוח",
+      "gloss": "ወሲድ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ኸልዳይ"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ስደተኛታት"
+    },
+    {
+      "surface": "מחלדי",
+      "gloss": "ካብ ኸልዳይ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "⟨את⟩",
+      "marks": "ቶብያ"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "ቶብያ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "⟨את⟩",
+      "marks": "የዳያ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "የዳያ"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ኮይንካ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብቲ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ተወዲኻ ኣተው"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יאשיה",
+      "gloss": "ዮኣሺሃ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "ጽጰንያሃ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ዝበጽሑ"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "ካብ ባቢሎን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:34:19.839509288Z",
+  "model": "glm-5.3"
+}

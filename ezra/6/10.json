@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 6:10",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ንንስኾም ሽቕራ ዝሰማዕ ወፈያ ንኤሎሃ ሰማያት ንቕርቡ፣ ነቲ ንጉሥን ውላዱንስ ንህይወቶም ክስገጡ እዮም።",
+  "tokens": [
+    {
+      "surface": "די",
+      "gloss": "ን"
+    },
+    {
+      "surface": "להון",
+      "gloss": "እዮም"
+    },
+    {
+      "surface": "מהקרבין",
+      "gloss": "ንቕርቡ"
+    },
+    {
+      "surface": "ניחוחין",
+      "gloss": "ሽቕራ ዝሰማዕ"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "ንኤሎሃ"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ומצלין",
+      "gloss": "ክስገጡ"
+    },
+    {
+      "surface": "לחיי",
+      "gloss": "ንህይወቶም"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ובנוהי",
+      "gloss": "ውላዱንስ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:08:15.454906378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ንደዳን ⟨ואת⟩ን፣ ንተይማን ⟨ואת⟩ን፣ ንቡዝን ⟨ואת⟩ን፣ ኩሉ ዝተቐረጹ ኣግራብ ⟨ואת⟩ን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩ን",
+      "marks": "ደዳን"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "ደዳን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩ን",
+      "marks": "ተይማ"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "ተይማ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩ን",
+      "marks": "ቡዝ"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "ቡዝ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩ን",
+      "marks": "ኩሉ ዝተቐረጹ ኣግራብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "ዝተቐረጹ"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "ኣግራብ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:48:26.721390855Z",
+  "model": "glm-5.3"
+}

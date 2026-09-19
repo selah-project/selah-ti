@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ንሕና ድማ ብመንገዲ ⟨את⟩ ቅድሚ ናይ ቤት መቕደስ እቲ ወጻኢ ዘሎ ናብ ምብራቕ ዝገጽጽ ኣፍደገ ብደው ኣብለና፣ ንሳ ድማ ዝተዓጽወት ነይራ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ብደው ኣብለና"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ንሕና"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ብመንገዲ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ኣፍደገ"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "ናይ ቤት መቕደስ"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "እቲ ወጻኢ ዘሎ"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "ዝገጽጽ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ናብ ምብራቕ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሳ ድማ"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "ዝተዓጽወት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:01:00.231723198Z",
+  "model": "glm-5.3"
+}

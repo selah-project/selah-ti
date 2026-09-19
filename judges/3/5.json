@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ውላድ ይስራኤል ድማ ኣብ መንጎ ከነዓን፣ ሕትያ፣ ኣሞራይ፣ ፈሪዛይ፣ ሕዋያንን የቡሳይን ተቐመጡ።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ውላድ ይስራኤል ድማ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ተቐመጡ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ከነዓን"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ሕትያ"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ኣሞራይ"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ፈሪዛይ"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ሕዋያንን"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "የቡሳይን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:35:25.164179037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ስለዚ በል፦ ኣነ እንሆ ⟨את⟩ ኪዳንይ ሰላም ክሃቦ ኣሎኹ።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በል"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እንሆ ኣነ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ክሃቦ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኪዳንይ ሰላም"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳንይ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:33:21.762343046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "«ጎይታይ፣ ሰማዕኒ፤ ⟨ቲ⟩ ምድቂ ኣርባዕተ ምዕተ ሺቅል ብርሂ ትወጽእ — ኣብ መንጎይን ኣብ መንጎኻን እንታይ እያ፧ ⟨את⟩ ሞያትካ ቐብር።»",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ጎይታይ"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "ሰማዕኒ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድቂ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ምዕተ"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ሺቅል"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብርሂ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ኣብ መንጎይ"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ኣብ መንጎኻ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እያ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሞያትካ"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "ሞያትካ"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "ቐብር"
+    }
+  ],
+  "timestamp": "2026-09-18T20:44:03.523210432Z",
+  "model": "glm-5.3"
+}

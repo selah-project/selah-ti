@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 8:5",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣራም ዲማስቆ ንሓዳድዓዘር ንጉስ ጾባ ንምሕዋስ ምስ መጸት፣ ዳዊድ ኣብ ኣራም ዓሰርተ ክልተ ሽሕ ሰባት ቀተለ።",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ምስ መጸት"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ዲማስቆ"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "ንምሕዋስ"
+    },
+    {
+      "surface": "להדדעזר",
+      "gloss": "ንሓዳድዓዘር"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ጾባ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ቀተለ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "ኣብ ኣራም"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰባት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:25:33.963909842Z",
+  "model": "glm-5.3"
+}

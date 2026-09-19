@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "ወይ ንዝብል ንኣቦ፦ «እንታይ ወሊድካ?» ወይ ንሰበይቲ፦ «እንታይ ተወልዲ?»",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ንዝብል"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "ንኣቦ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "ወሊድካ"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "ወይ ንሰበይቲ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "ተወልዲ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:12:38.060019215Z",
+  "model": "glm-5.3"
+}

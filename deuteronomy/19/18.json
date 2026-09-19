@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 19:18",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "እቶም ዳኞታት ኸኣ ብውልቂ ክርድኡ እዮም፤ ኣሮም እቲ ምስክሪ ምስክሪ ሓሶት ምስክሪ ሓሶት ኮይኑ ነቲ ኣሕዋቱ በዛዕባ ዝበለ፤",
+  "tokens": [
+    {
+      "surface": "ודרשו",
+      "gloss": "ክርድኡ እዮም"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "እቶም ዳኞታት"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "ብውልቂ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣሮም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ምስክሪ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "העד",
+      "gloss": "እቲ ምስክሪ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ምስክሪ ሓሶት"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ዝበለ"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "ነቲ ኣሕዋቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:00:52.497267739Z",
+  "model": "glm-5.3"
+}

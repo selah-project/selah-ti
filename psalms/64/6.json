@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 64:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 64,
+  "translation": "ነቲ ኣይኰነን ነገር ንዕላቆም ይጠንክሩ፤ ንምሕብእ መሸለብቲ ይተረንዩ፤ «መን ክርኢና እዩ?» ይብሉ።",
+  "tokens": [
+    {
+      "surface": "יחזקו",
+      "gloss": "ይጠንክሩ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ንዕላቆም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ኣይኰነን"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ይተረንዩ"
+    },
+    {
+      "surface": "לטמון",
+      "gloss": "ንምሕብእ"
+    },
+    {
+      "surface": "מוקשים",
+      "gloss": "መሸለብቲ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ይብሉ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ክርኢ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ነዓና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:41.537229987Z",
+  "model": "glm-5.3"
+}

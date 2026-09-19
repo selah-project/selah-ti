@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "እንተ ወዲቑ እቲ ሓደ፣ እቲ ካልኣይ ⟨את⟩ መሓዋኽኡ የቐንጥዎ፤ እቲ ሓዴኽኡ እንተ ወዲቑ ድማ፣ ካልኣይ የብሉን ክቐንጦ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ወዲቑ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "እቲ ሓደ"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "የቐንጥዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሓዋኽኡ"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "መሓዋኽኡ"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "እቲ ሓዴኽኡ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "እቲ ሓደ"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "እንተ ወዲቑ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የብሉን"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ካልኣይ"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "ክቐንጦ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:38:58.875729597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 7:4",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣብኡ ኣብቲ ለይቲ ኰነ፣ ቃል ያህዌህ ናብ ናተን መጸ እናበለ፦",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኰነ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ኣብቲ ለይቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ኰነ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ናተን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:26:13.102343802Z",
+  "model": "glm-5.3"
+}

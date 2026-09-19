@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ምስ ኣንደይዎ ድማ ኩሉ ⟨እቲ⟩ ምክልኻል ናብ ኣኻ ናብ ኣፍደገ ⟨እቲ⟩ ዓህዲ ስብሳቕ ክትራእዩ እዮም።",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "ምስ ኣንደይዎ ድማ"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ብዛዕባ እተን"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "ክትራእዩ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብ ኣኻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "እቲ ምክልኻል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣፍደገ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ዓህዲ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ስብሳቕ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:19:44.018231495Z",
+  "model": "glm-5.3"
+}

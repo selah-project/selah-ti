@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ንሱ ድማ ነበለ፦ «ቓልኻ ኣብ ⟨the⟩ ኣትኮ ሰምዐኩ፤ ስለ ዝነፈስ እየ ድማ ተሓብአኩ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ነበለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቓልኻ"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "ቓልኻ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ሰምዐኩ"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "ኣብ ⟨the⟩ ኣትኮ"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "ደኣ ስለ ዝነፈስ እየ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ዝነፈስ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "እየ"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "ተሓብአኩ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:29:42.995769916Z",
+  "model": "glm-5.3"
+}

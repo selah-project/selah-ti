@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣብ እቲ ሸውዓታይ ወርሒ፣ ኣብ ሸውዓተ ዓሰርተ መዓልቲ ናይ እቲ ወርሒ፣ መርከብ ኣብ ልዕሊ ተራራት ኣራራጥ ደገነት።",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "ደገነት"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "መርከብ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ኣብ ወርሒ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ሸውዓታይ"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "ኣብ ሸውዓተ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ናይ እቲ ወርሒ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "ተራራት"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "ኣራራጥ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:35:31.044171159Z",
+  "model": "glm-5.3"
+}

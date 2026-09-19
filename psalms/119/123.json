@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኣዒንተይ ንናድናትኻን ንቓል ጽድቅኻን ተዓጽወን።",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ኣዒንተይ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ተዓጽወን"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "ንናድናትኻ"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "ንቃል"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ጽድቅኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:59.087472639Z",
+  "model": "glm-5.3"
+}

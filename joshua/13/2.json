@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 13:2",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "እዚ ⟨እዛ⟩ እታ ዝተረፈት ምድሪ እያ፦ ኩሉ ከባቢታት ናይ ፍልስጢም፣ ንኩሉ ናይ ጌሹር ድማ፤",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "እዚ ⟨እዛ⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "ዝተረፈት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "גלילות",
+      "gloss": "ከባቢታት"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "ናይ ፍልስጢም"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ንኩሉ ድማ"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "ናይ ጌሹር"
+    }
+  ],
+  "timestamp": "2026-09-18T23:24:41.117122839Z",
+  "model": "glm-5.3"
+}

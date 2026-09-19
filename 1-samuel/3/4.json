@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ያህዌህ ንሽምዌል ተዛረበ፤ ንሱ ድማ «እንሆ ኣለኹ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሽምዌል"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እንሆ ኣለኹ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:57:38.211074902Z",
+  "model": "glm-5.3"
+}

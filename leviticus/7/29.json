@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 7:29",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ነብሪ ንውላድ ያዕቆቭ እናበልኩም፦ እቲ ዝቕርብ ⟨את⟩ ወፈያ ሰላምኡ ንያህዌህ፣ ⟨את⟩ ወፈያኡ ንያህዌህ ካብ ወፈያ ሰላምኡ ዂርኦ።",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ነብሪ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበልኩም"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "እቲ ዝቕርብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወፈያ ሰላምኡ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "ሰላምኡ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "ዂርኦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወፈያኡ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ወፈያኡ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ካብ ወፈያ"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "ሰላምኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:49:08.684954922Z",
+  "model": "glm-5.3"
+}

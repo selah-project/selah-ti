@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ንመታንኺ፣ ንዳዊድ ኣገልጋሊ ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንመታንኺ"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ኣገልጋሊ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ንዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:08.266563879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 24:11",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ነቶም ናብ ሞት ዝወሰድዎም ኣውጽእ፣ ነቶም ድማ ናብ ቀታል ዝኣቱ እንተ ገረምካ።",
+  "tokens": [
+    {
+      "surface": "הצל",
+      "gloss": "ኣውጽእ"
+    },
+    {
+      "surface": "לקחים",
+      "gloss": "ነቶም ዝወሰድዎም"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ናብ ሞት"
+    },
+    {
+      "surface": "ומטים",
+      "gloss": "ነቶም ዝኣቱ"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "ናብ ቀታል"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תחשוך",
+      "gloss": "ገረምካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:54:42.630175670Z",
+  "model": "glm-5.3"
+}

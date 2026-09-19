@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኣብ ሕግታትኻ እተደልየ እየ፣ ቓልካ ድማ ኣይረስዐን።",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "ኣብ ሕግታትኻ"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "እተደልየ እየ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ረስዐ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ቓልካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:05.545815561Z",
+  "model": "glm-5.3"
+}

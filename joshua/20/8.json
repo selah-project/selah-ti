@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 20:8",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ካብ ወጻኢ የርዳን፣ ኣብ ምብራቕ የሪኮ፣ ኣብ ምድረ በዳ ኣብ ቐጥታ ምስ ቅርጺ ረኡቤን ⟨את⟩ በጽር ሃቡ፣ ኣብ ጊልዓድ ምስ ቅርጺ ጋድ ⟨את⟩ ራሞትን፣ ኣብ ባሻን ምስ ቅርጺ ምናሴ ⟨את⟩ ጎላን።",
+  "tokens": [
+    {
+      "surface": "ומעבר",
+      "gloss": "ካብ ወጻኢ"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "የርዳን"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "የሪኮ"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ኣብ ምብራቕ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ሃቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "በጽር"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "በጽር"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድረ በዳ"
+    },
+    {
+      "surface": "במישר",
+      "gloss": "ኣብ ቐጥታ"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "ምስ ቅርጺ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ረኡቤን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ራሞት"
+    },
+    {
+      "surface": "ראמת",
+      "gloss": "ራሞት"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "ኣብ ጊልዓድ"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "ምስ ቅርጂ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጎላ"
+    },
+    {
+      "surface": "גלון",
+      "gloss": "ጎላ"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "ኣብ ባሻን"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "ምስ ቅርጂ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሴ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:31:56.342716584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 15:10",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ሻለም ወዲ ያበሽ ኣብ ላዕሊኡ ኣሰረሓ፤ ኣብ ቅድሚ ሕዝቢ በዓረዮ፣ ቐተሎ፣ ቦታኡ ድማ ነገሰ።",
+  "tokens": [
+    {
+      "surface": "ויקשר",
+      "gloss": "ኣሰረሓ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ላዕሊኡ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ሻለም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ያበሽ"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "በዓረዮ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ቐተሎ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሰ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ቦታኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:25:45.199971441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ልበይ ይትንዘር፣ ሓይሊ ውኺበኒ፣ ብርሃን ኣይንተይ ድማ — ንሳቶም ከኣ ምሳይ ⟨את⟩ የለዉን።",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "ይትንዘር"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "ውኺበኒ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ሓይሊ"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ኣይንተይ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለዉን"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ምሳይ",
+      "marks": "ምሳይ (with me)"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:01.272628717Z",
+  "model": "glm-5.3"
+}

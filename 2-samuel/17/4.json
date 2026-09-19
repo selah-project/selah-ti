@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 17:4",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "እቲ ቃል ድማ ብዓይኒ ኣቪሻሎምን ብዓይኒ ኩሉ ሽፈንቲ እስራኤልን ቅንዕ ተባብዐ።",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "ተባብዐ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ቃል"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ብዓይኒ"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "ኣቪሻሎም"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "እስኪን ብዓይኒ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ሽፈንቲ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T00:34:31.822729045Z",
+  "model": "glm-5.3"
+}

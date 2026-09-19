@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ዓዲ ያህዌህ እለትታት የውዕይል፣ ጫካታት ድማ የሓረገ፤ ኣብ ማሕደሩ ድማ ኩሉ ክብሪ ይብል።",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ዓዲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "የውዕይል"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "እለትታት"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "የሓረገ"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "ጫካታት"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "ኣብ ማሕደሩ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ይብል"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:08.250166351Z",
+  "model": "glm-5.3"
+}

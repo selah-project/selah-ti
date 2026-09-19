@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ኤሎሂም ⟨את⟩ እስራኤል ካብ ኩሉ መከራኡ ይሓርሾ።",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "ይሓርሾ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "መከራኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:56.500713957Z",
+  "model": "glm-5.3"
+}

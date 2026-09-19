@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ኣብ ታሽሻ ዕለት ዳዊድን ተጋዳላቱን ናብ ጽቅላግ ምስ ኣተዉ፣ ኣማለቅቲ ናብ ደቡብን ናብ ጽቅላግን በጽሑ፣ ብሓዊ ድማ ጽቅላግ ተበዝሐት።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኣብ ታሽሻ ዕለት"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "ምስ ኣተዉ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ተጋዳላቱን"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "ናብ ጽቅላግ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ ዕለት"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ታሽሻ"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "ኣማለቅቲ"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "በጽሑ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ደቡብ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ናብን"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "ጽቅላግን"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ተበዝሐት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጽቅላግ"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "ጽቅላግ"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ተበዝሐት ድማ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ኣብ ብሓዊ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ብሓዊ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:18:31.603265829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ካብ ውላዲ ሃምሳ ዓመት ድማ ካብ ሰራዊት ናይ ኣገልግሎት ክምለስ እዩ፣ ንዝኾነ ድማ ኣይገብርን እዩ።",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "ካብ ውላዲ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ሃምሳ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ክምለስ"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "ካብ ሰራዊት"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ናይ ኣገልግሎት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "ይገብር"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ንዝኾነ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:18:46.682606874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 33:12",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ኣህዛብ ከም እተተቐለለ ኩርዑ ⟨ክኸውኑ እዮም⟩፤ ከም ዝተረገጹ ጥንጭርታት ኣብ ሓዊ ኪተባዕሉ እዮም።",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ክኸውኑ እዮም"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "משרפות",
+      "gloss": "እተተቐለለ"
+    },
+    {
+      "surface": "שיד",
+      "gloss": "ኩርዑ"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "ጥንጭርታት"
+    },
+    {
+      "surface": "כסוחים",
+      "gloss": "ዝተረገጹ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ኣብ ሓዊ"
+    },
+    {
+      "surface": "יצתו",
+      "gloss": "ኪተባዕሉ እዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:59:37.365526931Z",
+  "model": "glm-5.3"
+}

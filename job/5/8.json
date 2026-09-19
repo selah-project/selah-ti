@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣብ ኣኽራርቡ ኣነ ንኤል ክሓትት እየ፣ ንኤሎሂም ድማ ነገረይ ኣቢለ እየ።",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "ኣብ ኣኽራርቡ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ክሓትት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ን…ውን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ኣቢለ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ነገረይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:06:09.838817472Z",
+  "model": "glm-5.3"
+}

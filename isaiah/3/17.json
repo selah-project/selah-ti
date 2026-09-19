@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 3:17",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ድሕሪዚ ኣዶናይ ኣብ ድንቁርንቁር ወንዲታት ጽሮን ሓሙም ኪስጽሮም እዩ፣ ያህዌህ ድማ ኣንፈተን ኪዛርዓ እዩ።",
+  "tokens": [
+    {
+      "surface": "ושפח",
+      "gloss": "ሓሙም ኪስጽር"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "ድንቁርንቁር"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ወንዲታት"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽሮን"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "פתהן",
+      "gloss": "ኣንፈተን"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "ኪዛርዓ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:43:09.792399597Z",
+  "model": "glm-5.3"
+}

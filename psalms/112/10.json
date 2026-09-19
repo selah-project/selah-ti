@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 112,
+  "translation": "እቲ ክፉእ ይረአይን ይቕጸልን፤ ስኒታቱ ይሓርክ፣ ድማ ይበርሽጥ፤ ስነፍሲት ክፉኣት ትጠፊእ እያ።",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "እቲ ክፉእ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ይረአይ"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ይቕጸልን"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ስኒታቱ"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "ይሓርክ"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "ይበርሽጥውን"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "ስነፍሲት"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉኣት"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ትጠፊእ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:46.487199744Z",
+  "model": "glm-5.3"
+}

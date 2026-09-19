@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ያህዌህ ድማ ንፓርዖ ⟨את⟩ ቤቱን ብዓቢ ሕማቓት፣ ብዛዕባ ሳራይ ሰበይቲ ኣቭራሃም፣ ሓመቖ።",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "ሓመቖ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፓርዖ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "ሕማቓት"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ዓቢታት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ብዛዕባ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ሳራይ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ኣቭራሃም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:24:20.927876938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 136,
+  "translation": "⟨את⟩ ጸሓይ ንብዓይኒ መዓልቲ ንምኽቆጻጸር፣ ምኽንያቱ ናብ ዘለኣለም ሔሴዱ እዩ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጸሓይ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ጸሓይ"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "ንምኽቆጻጸር"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ብዓይኒ መዓልቲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:48.185145286Z",
+  "model": "glm-5.3"
+}

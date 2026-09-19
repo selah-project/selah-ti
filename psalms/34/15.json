@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ካብ ክፉእ ምስ ውረድ ፣ ጽቡእ ግበር ፣ ሰላም ሓድርዋ ፣ ስዒብዋ ድማ ።",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "ምስ ውረድ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ካብ ክፉእ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ግበር"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡእ"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ሓድርዋ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "ስዒብዋ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:07.611326245Z",
+  "model": "glm-5.3"
+}

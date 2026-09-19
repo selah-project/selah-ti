@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 141,
+  "translation": "ብሔሴድ ቅዱኅ ይሓምቐኒ፣ ድማ ይግልጸኒ፤ ቅታዊ ኣይትገድፈን ርእሰይ፤ ስለዚ ገና ጸሎተይ ኣብ ሕማቖም እዩ።",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "ይሓምቐኒ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ቅዱኅ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "ድማ ይግልጸኒ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ቅታዊ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יני",
+      "gloss": "ትገድፈን"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ርእሰይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ገና"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "ጸሎተይ"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "ኣብ ሕማቖም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:30.245871334Z",
+  "model": "glm-5.3"
+}

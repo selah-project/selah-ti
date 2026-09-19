@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ካብ ውሽጢ ውላድ እስራኤል ⟨את⟩ ሌዋውያን ወሲድካ ንኣሕንዎም።",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ወሲድካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሌዋውያን"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሌዋውያን"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ካብ ውሽጢ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "ንኣሕንዎም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:19:27.790790628Z",
+  "model": "glm-5.3"
+}

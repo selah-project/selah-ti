@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 147,
+  "translation": "ኣብ ኃይሊ እቲ ፈረስ ኣይደልዩን፣ ኣብ ክንፊ እቲ ሰብ ኣይሕጎሱን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "ኣብ ኃይሊ"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "እቲ ፈረስ"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ኣይደልዩን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "ኣብ ክንፊ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ኣይሕጎሱን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:38:55.540557148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ነቲ ሰብ እቲ ምስ ነቲ ሰበይቲ እቲ፣ እቶም እዚ ⟨את⟩ እቲ ንጹኻዊ ቃል ዝገበሩዎ፣ ናብ ኣፍደገኻ ተወጺእካ፤ ⟨את⟩ እቲ ሰብ ወይ ⟨את⟩ እቲ ሰበይቲ ብዕንጻት ተሰኪምካዮም፣ ንሳቶም ድማ ይሞቱ።",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "ተወጺእካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሰብ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሰበይቲ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ንጹኻዊ ቃል"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ንጹኻዊ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "ኣፍደገኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሰብ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሰበይቲ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "ተሰኪምካዮም"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "ብዕንጻት"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ይሞቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:34:39.293323479Z",
+  "model": "glm-5.3"
+}

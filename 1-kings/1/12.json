@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ሕጂ ግን ና፣ ናበይቲ ክነግረኪ ምስ ዝኽእል ምኽርቲ ሃበኪ፣ ነፍስኪን ነፍስ ወድኪ ሽሎሞንን ኣውጽእ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ ግን"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ና"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "ምኽርቲ ሃበኪ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ናበይቲ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ምኽርቲ"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "ኣውጽእ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍስኪ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ነፍስኪ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍስ ወድኪ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍስ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ወድኪ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:44:21.914556772Z",
+  "model": "glm-5.3"
+}

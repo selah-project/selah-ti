@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ምኽንያቱ እቲ ኣመንዲግ ንስእምቲ ነፍሱ ይመስግን፤ ነቲ ብርኪ ይባርኽ፤ ያህዌህ ድማ ይዓቕብ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "ይመስግን"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ኣመንዲግ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "ስእምቲ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱ"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "ብርኪ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ይባርኽ"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "ይዓቕብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:06.756516036Z",
+  "model": "glm-5.3"
+}

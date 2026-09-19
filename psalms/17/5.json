@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኣብ መሓወልታትኻ ስጉምትተይ ኣጽኒዑ እዩ፤ እግረይ ፈጺሞ ኣይሓልወን።",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "ኣጽኒዐ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ስጉምትተይ"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "ኣብ መሓወልታትኻ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ፈጺሞ"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "ኣይሓልወን"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "እግረይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:05.033666996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ተሰሪዕ፣ ኩሉ ቅርጺ ምስሊ — እቲ ኣብ ሰማያት ካብ ላዕሊ ዘሎ፣ እቲ ኣብ ምድሪ ታሕቲ ዘሎ፣ እቲ ኣብ ማይ ታሕቲ ምድሪ ዘሎ — ንስኻ ኣይትገብርን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ኣይትገብርን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "ተሰሪዕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "ቅርጺ ምስሊ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ኣብ ሰማያት"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ካብ ላዕሊ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "እቲ ዘሎን"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ታሕቲ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "እቲ ዘሎን"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ኣብ ማይ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ታሕቲ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:48:24.747835192Z",
+  "model": "glm-5.3"
+}

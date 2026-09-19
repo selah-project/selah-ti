@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "⟨את⟩ መብራሕቲ ወርቂ ዓሰርቶምን ከም ስርዓቶም ገበረ፤ ኣብ ቤተ-መቕደስ ሓሙሽተ ካብ የማንን ሓሙሽተ ካብ ጸጋምን ቐመጦም።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መብራሕቲ"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "መብራሕቲ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "ከም ስርዓቶም"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ቐመጦም"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "ኣብ ቤተ-መቕደስ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "ካብ የማን"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ሓሙሽትን"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "ካብ ጸጋም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:55:13.632251181Z",
+  "model": "glm-5.3"
+}

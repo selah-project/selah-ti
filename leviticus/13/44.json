@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ቆላሕታዊ ሰብ እዩ፤ ኣይተጽድቐን እዩ። ኣብ ስምጡ ሕማቑ ስለ ዘሎ፣ ኣይኰነን ኢሉ ነቲ ሰብ ካህን ይኽድቖ።",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "ቆላሕታዊ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ኣይተጽድቐን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ኣይኰነን ኢሉ"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "ይኽድቖ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "ኣብ ስምጡ"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "ሕማቑ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:54:46.942156498Z",
+  "model": "glm-5.3"
+}

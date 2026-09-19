@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 88,
+  "translation": "ቍጥደትካ ኣብ ላዕለይ ተሓጢባ ኣላ፤ ብኩሉ ማዕበልታትካ ድማ ተሓመሕምኩ። ስላህ።",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ላዕለይ"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "ተሓጢባ ኣላ"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ቍጥደትካ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ንኩሉ ድማ"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "ማዕበልታትካ"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "ተሓመሕምኩ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:35.234840626Z",
+  "model": "glm-5.3"
+}

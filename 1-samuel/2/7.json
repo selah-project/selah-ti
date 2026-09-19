@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ያህዌህ ያብሳሕ ድማ የበርክት፤ የዕብድ ድማ ውን የምህስ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "ያብሳሕ"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "የበርክት"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "የዕብድ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ውን"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "የምህስ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:54:31.301956571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ዳዊድ ምስ ኣወደነ ነቲ ዕላላትን ነተን ሰላምታትን፣ ንቲ ሕዝቢ ⟨את⟩ ብስም ያህዌህ ባረኾ።",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ኣወደነ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "ካብ ምውዳእ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "እቲ ዕላላት"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "ነተን ሰላምታትን"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ባረኾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቲ ሕዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ቲ ሕዝቢ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ብስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:42:30.680544463Z",
+  "model": "glm-5.3"
+}

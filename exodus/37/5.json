@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ነቶም ኣጽርሓት ⟨את⟩ ኣብቲ ቀሰቢ ኣብ ጎናዊ ⟨ቲ⟩ ታቦት ኣእተዎም፣ ንታቦት ⟨את⟩ ንኽወስዑ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ኣእተዎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ኣጽርሓት"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ኣጽርሓት"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "ኣብቲ ቀሰቢ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "ጎናዊ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ንኽወስዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንታቦት"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ታቦት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:42:47.442549662Z",
+  "model": "glm-5.3"
+}

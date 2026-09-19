@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ክፉኣት ምስ ቐረቡ ኣብ ልዕለይ ንኽብልዑ ⟨את⟩ ስጋይ — ጸባዕተይን ተቓወምቲይን ንኣነ — ንሳቶም ተሰብሩን ወዲቆምን።",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "ምስ ቐረቡ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕለይ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ክፉኣት"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ንኽብልዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስጋይ"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ስጋይ"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ተቓወምቲይ"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "ጸባዕተይን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ተሰብሩ"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ወዲቆምን"
+    }
+  ],
+  "timestamp": "2026-09-19T09:01:32.338443238Z",
+  "model": "glm-5.3"
+}

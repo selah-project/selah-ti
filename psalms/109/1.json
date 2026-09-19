@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "ንቲ መሪሉ፣ ናይ ዳዊድ መዝሙር፤ ኤሎሂ ምስጋናይ፣ ኣይትጽንዕን።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንቲ መሪሉ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂ"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ምስጋናይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ትጽንዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:10.591724654Z",
+  "model": "glm-5.3"
+}

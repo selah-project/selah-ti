@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "«ኤሎሂኃይ፣ ነፍሲ ኣብ ዛዕባይ ተሰቓረበት፤ ስለዚ ካብ ምድሪ ዮርዳኖስን ካብ ከረሞናትን ካብ ተራራ ሚጽዓርን እየ እምልክኻለኹ።»",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂኃይ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ዛዕባይ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "ተሰቓረበት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "እየ እምልክኻለኹ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "ዮርዳኖስ"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "ከረሞናትን"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ካብ ተራራ"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "ሚጽዓር"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:41.356263368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ልበይ ፈተንካዮ፤ ብለይቲ ረዲእካዉ፤ ኣፀራኽሮ እንተኣ የለን እንተበልካ፤ ሓሳበይ ካብ ኣፉይ ኣይትሓልፍን።",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "ፈተንካዮ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "ረዲእካዉ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ብለይቲ"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "ኣፀራኽሮ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "እንተበልካ"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "ሓሳበይ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ኣይትሓልፍን"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ኣፉይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:02.561128397Z",
+  "model": "glm-5.3"
+}

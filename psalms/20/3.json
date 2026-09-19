@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ሓገዝካ ካብ መቕደስ ይስዒብ፣ ከምኡውን ካብ ጽዮን ይደግፈካ።",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ይስዒብ"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "ሓገዝካ"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "ካብ መቕደስ"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "ከምኡውን ካብ ጽዮን"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "ይደግፈካ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:37.688351913Z",
+  "model": "glm-5.3"
+}

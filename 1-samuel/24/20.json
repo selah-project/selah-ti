@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 24:20",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "እሞ ሰብ ⟨את⟩ ጸላእቱ ክረኽቦ እንተ ኰይኑ ብበለጸ መንገዲ እንተ ሎሊኡ፣ ያህዌህ ድማ በለጸ ክኣውጽኣካ እዩ — ብዝገበርካኒ ነቲ ሎሚ እዚ።",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "እሞ…እንተ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ክረኽቦ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጸላእቱ"
+    },
+    {
+      "surface": "איבו",
+      "gloss": "ጸላእቱ"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "ሎሊኡ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ብመንገዲ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "በለጸ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ישלמך",
+      "gloss": "ክኣውጽኣካ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "በለጸ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ብዝገበርካኒ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "ገበርካ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:13:40.458109009Z",
+  "model": "glm-5.3"
+}

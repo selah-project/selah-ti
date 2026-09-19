@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ዓቕይቲ የሩሻላይም፣ ኣቐየስኩም፦ ፍቕሪ ⟨את⟩ እንታይ ትንቐልዑ፣ እንታይውን ትንቐልዑ፣ ክሳብ እትደልይ?",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "ኣቐየስኩም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ዓቕይቲ የሩሻላይም"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ዓቕይቲ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "ትንቐልዑ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "እንታይውን"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "ትንቐልዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ፍቕሪ"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "እቲ ፍቕሪ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "እትደልይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:32:53.080638672Z",
+  "model": "glm-5.3"
+}

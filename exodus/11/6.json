@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ድማ ዓቢ ቅርዓት ኣብ ኩሉ ምድሪ ሚጽራይም ክኸውን እዩ፣ ከምኣ ዝኣመሰለት የለቐደለን ነይራ፣ ከምኣ ዝኣመሰለት ድማ ክተውሕስ ኣይኮነን።",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ክኸውን እዩ"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "ቅርዓት"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "ከምኣ ዝኣመሰለት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "ነይራ"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "ከምኣ ዝኣመሰለት ድማ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ክተውሕስ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:19:28.422424991Z",
+  "model": "glm-5.3"
+}

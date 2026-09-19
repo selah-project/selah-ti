@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 15:14",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ንያህዌህ ብዓቢ ድምጺ፣ ብትርዓት፣ ብቋርሳትን ብሽኡፋራትን ሓደሱ።",
+  "tokens": [
+    {
+      "surface": "וישבעו",
+      "gloss": "ሓደሱ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ብድምጺ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "ובתרועה",
+      "gloss": "ብትርዓት"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "ብቋርሳት"
+    },
+    {
+      "surface": "ובשופרות",
+      "gloss": "ብሽኡፋራት"
+    }
+  ],
+  "timestamp": "2026-09-19T08:04:39.618348735Z",
+  "model": "glm-5.3"
+}

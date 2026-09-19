@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 108,
+  "translation": "ግልዕድ ናይ ኣነ እዩ፤ ምናሴ ናይ ኣነ እዩ፤ ኤ፵ራይም ድማ ጽንቡቕ ርእሰይ እዩ፤ ይሁዳ ድማ ሕጊጋቢ ኣነ እዩ።",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ናይ ኣነ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ግልዕድ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ናይ ኣነ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሴ"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ኤ፵ራይም ድማ"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ጽንቡቕ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ርእሰይ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "ሕጊጋቢ ኣነ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:59.232735202Z",
+  "model": "glm-5.3"
+}

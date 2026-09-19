@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 59,
+  "translation": "ሓይሊ ነትኣትካ እጸብቕ እየ፤ ኤሎሂም ድማ መሸገለይ እዩ።",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "ሓይሊ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ነትኣትካ"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "እጸብቕ እየ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "መሸገለይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:50.874722101Z",
+  "model": "glm-5.3"
+}

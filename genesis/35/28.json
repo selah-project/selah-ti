@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ዕለት ይጽሓቅ ሚኢት ዓመትን ሸሞንተ ዓመትን እዮም።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "እዮም"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ዕለት"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይጽሓቅ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ሚኢት"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ሸሞንተ ዓመትን"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:57:49.884963834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ምኽንዳሜ ብዘይ ምኽንያት ጉድጓድን መርበቢኦምን ንዓይ ሓብእዎ፤ ብዘይ ምኽንያት ንነፍሲ እተይ ቆልዑ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንዳሜ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ብዘይ ምኽንያት"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ሓብእዎ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ጉድጓድ"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "መርበቢኦም"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ብዘይ ምኽንያት"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "ቆልዑ"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ንነፍሲ እተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:00:51.152259166Z",
+  "model": "glm-5.3"
+}

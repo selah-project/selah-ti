@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ሞሸ ድማ ናብ እቲ ተራራ ወጸ፤ እቲ ደመና ድማ ⟨את⟩ እቲ ተራራ ሸፈነ።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "እቲ ተራራ"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "ሸፈነ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "እቲ ደመና"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ἥቲ ተራራ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "እቲ ተራራ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:27:03.958798415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ዓቕይ ያህዌህ ንብጾታት እዮም ፣ እዝኑ ድማ ንቑላቶም ዝዓወ ።",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ዓቕይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ብጾታት"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "እዝኑ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "ቑላቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:07.611674432Z",
+  "model": "glm-5.3"
+}

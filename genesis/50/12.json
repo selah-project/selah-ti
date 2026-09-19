@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ውላዱቱ ድማ ንኡ ከም ዝኣዘዞም ከምኡ ኣገበሩ።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ኣገበሩ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱቱ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ዝኣዘዞም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:26:34.294130434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ኣቭራሃም ድማ ብቐደም ህዝቢ እቲ ምድሪ ሰገዱ።",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "ሰገዱ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ብቐደም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እቲ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:44:10.038090582Z",
+  "model": "glm-5.3"
+}

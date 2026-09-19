@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ንኹሉ በኣይቲ ኣብ ሚጽራይም ድማ መተ፤ ኣብ ድኳናት ሓም ዝኾነ መጀመርታ ናይ ጽንዋቶም።",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "መተ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "በኣይቲ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ኣብ ሚጽራይም"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "መጀመርታ"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "ናይ ጽንዋቶም"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "ኣብ ድኳናት"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ሓም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:48.860643467Z",
+  "model": "glm-5.3"
+}

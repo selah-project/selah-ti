@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ድማ ብውንታ ስለ ነፍሲኩም ⟨את⟩ ደምኩም ኣድርሽ፤ ካብ ኢድ ኩሉ እንስሳ ኣድርሽዎ፤ ካብ ኢድ እቲ ሰብ እውን፣ ካብ ኢድ ሰብ ሓው ኣብርሆ ነፍሲ እቲ ሰብ ⟨את⟩ ኣድርሽ።",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "ድማ ብውንታ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደምኩም"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "ደምኩም"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "ስለ ነፍሲኩም"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ኣድርሽ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "እንስሳ"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "ኣድርሽዎ"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ካብ ኢድ እውን"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ሓው ኣብርሆ"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ኣድርሽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሲ እቲ ሰብ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "እቲ ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:33:49.279233293Z",
+  "model": "glm-5.3"
+}

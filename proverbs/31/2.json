@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "እንታይ፧ ወደይ፣ እንታይ፧ ወዲ ናይ ረሓመኒ፣ እንታይ፧ ወዲ ናይ ቃላተይ፧",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "ወደይ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ወእንታይ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "ረሓመኒ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ወእንታይ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "ቃላተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:00:55.598177125Z",
+  "model": "glm-5.3"
+}

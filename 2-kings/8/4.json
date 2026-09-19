@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እቲ ንጉስ ድማ ምስ ገሕዚ፣ ወዲ ሰብያ ኤሎሂም፣ ኢሉ ዝዛረብ ነይሩ፦ «በጃኻ ነቲ ⟨את⟩ ኩሉ ኤልሴሳ ዝገበሮ ታላቓት ተግባራት ንዓይ ገለጸልኒ።»",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ዝዛረብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "ገሕዚ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብያ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢሉ"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "ገለጸልኒ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "በጃኻ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ታላቓት ተግባራት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "ታላቓት ተግባራት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እት"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበሮ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ኤልሴሳ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:22:36.302214640Z",
+  "model": "glm-5.3"
+}

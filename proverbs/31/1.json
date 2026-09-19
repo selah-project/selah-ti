@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ቃላት ናይ ለሙኤል ንጉስ፣ ኣደኡ ዝምሃሃደቶ ምስታፍ።",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "ለሙኤል"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ምስታፍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "ዝምሃሃደቶ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ኣደኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:00:55.597730731Z",
+  "model": "glm-5.3"
+}

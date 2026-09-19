@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ንስኻ ያህዌህ ምሕረትካ ካባይ ኣይትኸልእን፤ ሔሴድካን ሓቂካን ኩሉ ግዜ ይሓልዉኒ እዮም።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "ትኸልእን"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ምሕረትካ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ካባይ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሔሴድካ"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ሓቂካ እውን"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ኩሉ ግዜ"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "ይሓልዉኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:47.470882537Z",
+  "model": "glm-5.3"
+}

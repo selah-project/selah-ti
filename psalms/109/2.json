@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "ምኽንያቱ ኣፍ ሓራራይን ኣፍ ሓሶትን ኣብ ላዕለይ ኽፈቱ፤ ⟨את⟩ምለይ ልሳን ሓሶት ተዛረቡ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ኣፍ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ሓራራይ"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ኣፍን"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ላዕለይ"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ኽፈቱ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ተዛረቡ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ምለይ",
+      "marks": "ምለይ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ልሳን"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሓሶት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:10.592092328Z",
+  "model": "glm-5.3"
+}

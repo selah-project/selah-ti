@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ከርን ኤሎሂም ከርን ባሻን እዩ፤ ከርን ዘበኻታት ከርን ባሻን እዩ።",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "ከርን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ከርን"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ባሻን"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ከርን"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "ዘበኻታት"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ከርን"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ባሻን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:12.967570179Z",
+  "model": "glm-5.3"
+}

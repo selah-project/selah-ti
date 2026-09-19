@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ደቂ ሽምዖን ብወለዳቶም፦ ናይ ንምዌል ወለዳ ንምዌላይ፣ ናይ ያሚን ወለዳ ያሚናይ፣ ናይ ያኪን ወለዳ ያኪናይ።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ደቂ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ሽምዖን"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ብወለዳቶም"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "ናይ ንምዌል"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ወለዳ"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "ንምዌላይ"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "ናይ ያሚን"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ወለዳ"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "ያሚናይ"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "ናይ ያኪን"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ወለዳ"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "ያኪናይ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:34:02.201674455Z",
+  "model": "glm-5.3"
+}

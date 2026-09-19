@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "amos 5:27",
+  "book": "amos",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣነ ድማ ንስኹም ⟨אתכם⟩ ካብ ካልኣይ ሸነኽ ናብ ደማስቆ ኣሳሕበኩም፣ በለ ያህዌህ ኤሎሂም ጸባኦት፤ ስሙ እዩ።",
+  "tokens": [
+    {
+      "surface": "והגליתי",
+      "gloss": "ኣሳሕበኩም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ንስኹም"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "ካብ ካልኣይ ሸነኽ"
+    },
+    {
+      "surface": "לדמשק",
+      "gloss": "ናብ ደማስቆ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:16:56.122773398Z",
+  "model": "glm-5.3"
+}

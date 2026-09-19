@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ሓበሩ ንዳዊድ እናበሉ፦ «እንሆ ፍልሽቲም ምስ ቀዓላ ይተዓጻዩ ኣለዉ፣ ንሳቶም ድማ ⟨את⟩ እተባዕተ ዘርእዮም ኣለው።»",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "ሓበሩ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ንዳዊድ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበሉ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልሽቲም"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "ይተዓጻዩ"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "ምስ ቀዓላ"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "ዘርእዮም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እተባዕተ"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "እተባዕተ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:14:38.636013633Z",
+  "model": "glm-5.3"
+}

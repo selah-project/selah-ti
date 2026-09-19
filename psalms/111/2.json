@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 111,
+  "translation": "ዓቢያት እዮም መስራሕታት ያህዌህ፣ ብዅሉ እቶም እቲ ዝስደምርዎ ይረድኡ እዮም።",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "ዓቢያት"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "መስራሕታት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "ይረድኡ እዮም"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ብዅሉ"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "እቲ ዝስደምርዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:25.308605599Z",
+  "model": "glm-5.3"
+}

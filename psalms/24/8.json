@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "መን እዚ ንጉስ ናይ ክብሪ እዩ? ያህዌህ ብርቱዕን ቓጻርን፣ ያህዌህ ኣብ ውግእ ቓጻር።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ናይ ክብሪ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "ብርቱዕ"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "ቓጻር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ቓጻር"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ኣብ ውግእ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:48.619089279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ተሰዓጥካ'ውን ⟨את⟩ እቲ ጎቦ፣ ወሲድካ'ውን ⟨את⟩ ደሙ፣ ኣብ ልዕሊ እቲ መስዋእቲ ድማ ዙርያኡ ተረጪሕካ።",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "ተሰዓጥካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ጎቦ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "እቲ ጎቦ"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ወሲድካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደሙ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ደሙ"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "ተረጪሕካ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "እቲ መስዋእቲ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ዙርያኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:35:18.399381366Z",
+  "model": "glm-5.3"
+}

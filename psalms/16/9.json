@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ስለዚ ልበይ ደሲ እዩ፣ ክብረይ ድማ ተዓለሙ እዩ፤ ስጉምተይ እውን ብሓላላኺ ይነብር እዩ።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "ደሲ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "ተዓለሙ"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ክብረይ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ስጉምተይ"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ይነብር"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ብሓላላኺ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:31.285987346Z",
+  "model": "glm-5.3"
+}

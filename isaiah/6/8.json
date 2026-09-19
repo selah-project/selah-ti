@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ድማ ቓል ኣዶናይ «ነቲ እትሰድዕ መን እዩ፧ ንሕና ከኣ መን ኪኸድ፧» ኢሉ እምሰምዐ እየ፣ «ኣለኹ እየ፣ ኣነ ስደደኒ» በልኩ።",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "እምሰምዐ እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቓል"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ኢሉ እምበለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መን"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "እትሰድዕ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ኪኸድ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "በልኩ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ኣለኹ እየ"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ኣነ ስደደኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:45:32.451384679Z",
+  "model": "glm-5.3"
+}

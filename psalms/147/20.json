@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 147,
+  "translation": "ንዅሉ ህዝቢ ከምዚ ኣይገበረን፤ ፍርዲታት እውን ኣይፈልጥዮምን። ያህ ኣመስግኑ!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይገበረን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንዅሉ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ፍርዲታት"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣይፈልጥዮምን"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "የፈልጥዮም"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ኣመስግኑ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:20.605558441Z",
+  "model": "glm-5.3"
+}

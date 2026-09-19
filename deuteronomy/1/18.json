@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣነ ድማ ኣብቲ ዝዓነወ እዋን ⟨אתכם⟩ ንኹም ⟨את⟩ ነቲ ኩነታት እትግብርዎ ኣዘዝኩ።",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "ኣዘዝኩ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንኹም"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ኣብ እዋን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩነታት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩን"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ኩነታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ትግብርዎ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:46:28.543843372Z",
+  "model": "glm-5.3"
+}

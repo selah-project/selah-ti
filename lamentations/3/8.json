@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እኳ እና ዘውራ ወይ እና ዝጠውቕ ከም ዝኾነ፣ ንጸሎተይ ደቂቑ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እኳ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም ዝ-"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ዘውራ"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "ዝጠውቕ"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "ደቂቑ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ንጸሎተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:34:53.792518917Z",
+  "model": "glm-5.3"
+}

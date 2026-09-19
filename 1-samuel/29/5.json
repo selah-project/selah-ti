@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "እዚ ዳዊድ ድዩ ኣይኮነን፣ እቶም ኣብ መስጓት «ሻኡል ብእብራቱ በደለ፣ ዳዊድ ድማ ብውሉዓቱ በደለ» እናበሉ ዝምለሱሉ፧",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ድዩ...ኣይኮነን"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "እናምለሱ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "ኣብ መስጓት"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "«...» ኢሎም"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "በደለ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "ብእብራቱ"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ዳዊድ ድማ"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "ብውሉዓቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:19:56.301073563Z",
+  "model": "glm-5.3"
+}

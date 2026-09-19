@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ዝኾነ ዝኾነ ዝጎድእ ኣብ ውሽጡ ዘለዎ ኩሉ ኣይትቕርብዎን፣ ምኽንያቱ ንኽትቐበሉ ኣይከውንኩምን እዩ።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ዝኾነ ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብ ውሽጡ ዘለዎ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ዝጎድእ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "ትቕርብዎን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "ንክትቐበሉ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ከውንኩምን እዩ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኽኽንኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:02:44.773128791Z",
+  "model": "glm-5.3"
+}

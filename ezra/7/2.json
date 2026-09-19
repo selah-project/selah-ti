@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ወዲ ሸሉም፣ ወዲ ጽዶቅ፣ ወዲ ኣሕይጥው።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሸሉም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ጽዶቅ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ኣሕይጥው"
+    }
+  ],
+  "timestamp": "2026-09-19T07:09:51.578839606Z",
+  "model": "glm-5.3"
+}

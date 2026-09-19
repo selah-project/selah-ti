@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ኣሓሮን ድማ ⟨את⟩ እቲ ሰንጋይ ጉራል ናይ ያህዌህ ንኡ እተዓረገሉ ኣቕሪቡ፣ ንሱ ከኣ ከም ወፈያ ኃጢኣት ገበሮ።",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ድማ ኣቕሪቡ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሓሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሰንጋይ"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "እቲ ሰንጋይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "እተዓረገ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ጉራል"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ናይ ያህዌህ"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "ገበሮ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ከም ወፈያ ኃጢኣት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:00:00.735397637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ተንበርካዕ ኮይኑ መጸ፣ ናብ ሽምሮን ኸደ፤ ንሱ ድማ ኣብ መገዲ ኣብ ቤት-ዓቅድ ናይ ኣርብቲ ነበረ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተንበርካዕ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ኸደ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ሽምሮን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "ዓቅድ"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ኣርብቲ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መገዲ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:21:16.390768447Z",
+  "model": "glm-5.3"
+}

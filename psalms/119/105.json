@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ንኣገልተይ መብራህቲ ቃልካ ⟨እዩ⟩፣ ንጎደናይ ከኣ ብርሃን ⟨እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "መብራህቲ"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "ንኣገልተይ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ቃልካ"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "ንጎደናይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:25.024317318Z",
+  "model": "glm-5.3"
+}

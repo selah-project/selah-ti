@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ሞሸ ድማ መጽሓፍ ናይ ኪዳን ወሲዱ ኣብ እዝኒ እቲ ሕዝቢ ኣንበበ፤ ንሳቶም ድማ «ኩሉ እታ ያህዌህ ዝዛረባ ክንገብርዋ ንሰምዕዋ ኢና» በሉ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "መጽሓፍ"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ናይ ኪዳን"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ኣንበበ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ኣብ እዝኒ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝዛረባ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ክንገብርዋ"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "ንሰምዕዋ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:26:55.797966940Z",
+  "model": "glm-5.3"
+}

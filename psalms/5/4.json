@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ያህዌህ፣ ብቡኡቕ ቓለይ ትሰምዖ፤ ብቡኡቕ ንኻኻ እተዳለወ ኣቐምጸ ኣብኣይን እጽበዮን።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ብቡኡቕ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ትሰምዖ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ቓለይ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ብቡኡቕ"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "እተዳለወ ኣቐምጸ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻኻ"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "እጽበዮን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:42:37.368638297Z",
+  "model": "glm-5.3"
+}

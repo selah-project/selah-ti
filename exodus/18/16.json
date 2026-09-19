@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ምኽንያቱ ነገር ኣብ ዝህሉዎም ንኣ ይመጽእ እዩ፤ ኣነ ድማ ኣብ መንጎ ሰብን መንጎ ዓርቡን እፈርድ፣ ⟨את⟩ ትእዛዛት ናይ ኤሎሂምን ⟨את⟩ ቶራኡን ኣፍልጦም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ዝህሉዎም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ንኦም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ይመጽእ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንኣ"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "እፈርድ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ከምኡውን ኣብ መንጎ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ዓርቡ"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "ኣፍልጦም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዛት"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "ትእዛዛት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ናይ ኤሎሂም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቶራኡ"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "ቶራኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:24:59.313938794Z",
+  "model": "glm-5.3"
+}

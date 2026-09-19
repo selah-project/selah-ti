@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "እቲ ካህን ድማ ⟨את⟩ ነታ እንሳ መንጎ ጽቡእን መንጎ ኣላዊን ኪገምጸላ፤ ከም ዝገምጸላካ ንስኻ እቲ ካህን ከምኡ ክኸውን።",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "ኪገምጸላ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ካህን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ነታ እንሳ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "መንጎ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡእ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ንመንጎ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ኣላዊ"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "ከም ዝገምጸላካ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ንስኻ እቲ ካህን"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክኸውን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:10:52.036420151Z",
+  "model": "glm-5.3"
+}

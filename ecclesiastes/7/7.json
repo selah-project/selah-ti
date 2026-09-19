@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ምኽንያቱ ግፍዲ ሓኪም ይብርህዎ እዩ፤ ሲሳ ድማ ⟨את⟩ ልቢ ይኽልእዎ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ግፍዲ"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "ይብርህዎ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ሓኪም"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "ድማ ይኽልእዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልቢ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "ሲሳ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:42:33.050567877Z",
+  "model": "glm-5.3"
+}

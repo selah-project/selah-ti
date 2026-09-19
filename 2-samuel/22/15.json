@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 22:15",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ሳሕቲ ሰደደ ድማ ደቐቦም፤ ብርቂ ዛርባትን ኣምልኣዮምን።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ ድማ"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "ሳሕቲ"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "ደቐቦም"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "ብርቂ ዛርባትን"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "ኣምልኣዮምን"
+    }
+  ],
+  "timestamp": "2026-09-19T00:42:13.637111007Z",
+  "model": "glm-5.3"
+}

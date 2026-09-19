@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ስለ ዳዊድ ያህዌህ ኤሎሂምኡ ⟨את⟩ መብራሕ ኣብ የሩሻላይም ሃቦ፣ ⟨את⟩ ወዲኡ ደሓሩ ንምንበርን ⟨את⟩ የሩሻላይም ንምሓውስን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ ዝ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ኤሎሂምኡ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "መብራሕ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ኣብ የሩሻላይም"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "ንምንበር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወዲኡ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ደሓሩ"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "ንምሓውስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሩሻላይም"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:05:19.440311657Z",
+  "model": "glm-5.3"
+}

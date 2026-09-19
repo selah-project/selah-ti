@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ንሕናን ⟨את⟩ናን ካብኡ ኣውጽአ፣ ⟨את⟩ና ንምእታይ፣ ነቲ ንኣቦትና ዝሓለ እታ ምድሪ ⟨את⟩ ንኽሃበና።",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ናን",
+      "marks": "ንሕና"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ኣውጽአ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ንምእታይ"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "ንምእታይ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ና",
+      "marks": "ንሕና"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ንኽሃበና"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ምድሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እታ ምድሪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝሓለ"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ዝሓለ"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "ንኣቦትና"
+    }
+  ],
+  "timestamp": "2026-09-18T22:47:58.327295968Z",
+  "model": "glm-5.3"
+}

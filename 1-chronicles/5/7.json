@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 5:7",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣሕዎቱ ድማ ኣብ ውሽጢ ወለዶም፣ ኣብ ዝተዛረቡ ኩሉ ብተወልዶም — እቲ ሓለዋታት ያኤልን ዘኻርያሕን እዮም።",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "ኣሕዎቱ"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "ኣብ ውሽጢ ወለዶም"
+    },
+    {
+      "surface": "בהתיחש",
+      "gloss": "ኣብ ዝተዛረቡ"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "ብተወልዶም"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ሓለዋታት"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "ያኤል"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "ዘኻርያሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:30:54.457228892Z",
+  "model": "glm-5.3"
+}

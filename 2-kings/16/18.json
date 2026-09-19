@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 16:18",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ነቲ ቀልጢፉ ናይ ሻባት ኣብ ቤት እተሃነጹ ⟨את⟩ ኸውን፣ ነቲ እታኒ ናይ እቲ ንጉስ እታ ውጻኢያዊት ⟨את⟩ ኣብ ቤት ያህዌህ ዘወረዶ ስለ እቲ ንጉስ ኣሽር።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ቀልጢፉ"
+    },
+    {
+      "surface": "מיסך",
+      "gloss": "ቀልጢፉ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ናይ ሻባት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እተ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "እተሃነጹ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ እታኒ"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "እታኒ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ናይ እቲ ንጉስ"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "ውጻኢያዊት"
+    },
+    {
+      "surface": "הסב",
+      "gloss": "ዘወረዶ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣሽር"
+    }
+  ],
+  "timestamp": "2026-09-19T01:31:17.892322256Z",
+  "model": "glm-5.3"
+}

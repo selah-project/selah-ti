@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 112,
+  "translation": "ሃብትን ብልጽግናን ኣብ ቤቱ ኣሎ፣ ጽድቁ ንዘለኣለም ይጸንሕ።",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ሃብት"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ብልጽግናን"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ኣብ ቤቱ"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ጽድቁ"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ይጸንሕ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ንዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:17.487562120Z",
+  "model": "glm-5.3"
+}

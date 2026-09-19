@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "የሆሹዋዕ ⟨את⟩ ዓማለቅን ⟨את⟩ ህዝቢኡን ብወገድ ሰይፊ ድኻመዎ።",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "ድኻመዎ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓማለቅ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ዓማለቅ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ህዝቢኡ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ህዝቢኡ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ብወገድ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፊ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:23:27.023250092Z",
+  "model": "glm-5.3"
+}

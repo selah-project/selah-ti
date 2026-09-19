@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ከምኡውን ⟨את⟩ ግንቢ ፕኑኤል ወዲፈ፡ ⟨את⟩ ሰባት እቲ ከተማ ቐተለ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ግንቢ ፕኑኤል"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "ግንቢ"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "ፕኑኤል"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "ወዲፈ"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ቐተለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰባት እቲ ከተማ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እቲ ከተማ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:43:27.562346113Z",
+  "model": "glm-5.3"
+}

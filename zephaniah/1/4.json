@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 1:4",
+  "book": "zephaniah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኢደይ ንይሁዳን ንኹሎም ኣብ የሩሻላይም ዝነብሩን ክዘርጽ እየ፤ ⟨את⟩ ተረፊ ባዓልን ⟨את⟩ ስም ኽመራይምን ምስ ካህንቲን ካብዚ ቦታ እዚ ክቐርጽ እየ።",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "ክዘርጽ እየ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ኢደይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሎም"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ዝነብሩ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ክቐርጽ እየ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተረፊ ባዓል"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ተረፊ"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ባዓል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስም ኽመራይም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "ኽመራይም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህንቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:32:03.337871915Z",
+  "model": "glm-5.3"
+}

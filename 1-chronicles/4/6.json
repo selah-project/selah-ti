@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ንዓራ ድማ ንኣኽውዛም ⟨את⟩ ንሕፈር ⟨את⟩ ንተማኒ ⟨את⟩ ንኣኽሽታሪን ⟨את⟩ ወሊደቶ፤ እዚኦም ውላድ ንዓራ እዮም።",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ወሊደቶ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኣሽኽር ⟨ሉ⟩"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "ንዓራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣኽውዛም"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "ኣኽውዛም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሕፈር"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "ሕፈር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ተማኒ"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "ተማኒ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣኽሽታሪ"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "ኣኽሽታሪ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "ንዓራ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:31:19.504882590Z",
+  "model": "glm-5.3"
+}

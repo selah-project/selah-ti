@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 98,
+  "translation": "ንያህዌህ ብኪኖር ተዘምሩ፤ ብኪኖርን ብድምጺ ዝምራን።",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ተዘምሩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ብኪኖር"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ብኪኖር"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ድምጺ…ን"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ዝምራ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:54.870805892Z",
+  "model": "glm-5.3"
+}

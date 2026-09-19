@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ኩሉ ሰበይቲ ሓብቲ ልቢ ብኢዳታ ዘተኣተወት ተዛረበት፣ ንሳቶም ድማ እቲ ዝተዛረቡዎ መጺኦም ኣእተዉ — ⟨את⟩ ተኽለትን ⟨ואת⟩ ፈንዲን ⟨את⟩ ቆማይ ቀይሕን ⟨ואת⟩ ጽሑቃዊ በበስን።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ሓብቲ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "ብኢዳታ"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "ዘተኣተወት ተዛረበት"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ኣእተዉ"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "ዝተዛረቡዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተኽለት"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "ተኽለት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ፈንዲ"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "ፈንዲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቆማይ"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ቆማይ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ቀይሕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጽሑቃዊ በበስ"
+    },
+    {
+      "surface": "השש",
+      "gloss": "ጽሑቃዊ በበስ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:41:29.958940950Z",
+  "model": "glm-5.3"
+}

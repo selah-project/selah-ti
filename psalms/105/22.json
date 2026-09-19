@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ነፍሱ ከም ዝበለታ ሹማምቑላቱ ንምስርቓል፣ ሽማግላቱ ድማ ጥበብ ይሃቦም።",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "ንምስርቓል"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ሹማምቑላቱ"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ነፍሱ ከም ዝበለታ"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "ሽማግላቱ ድማ"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "ጥበብ ይሃቦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:25.775344236Z",
+  "model": "glm-5.3"
+}

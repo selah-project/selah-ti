@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ዝተቐመጦም ድማ ናብ ስድራታቶም ናብ ቤት ኣቦታቶም ክልተ ሽሕ ከምኡውን ሽስተ ሚእቲ ሰለስተ ኮይኖም።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ኮይኖም"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "ዝተቐመጦም"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ናብ ስድራታቶም"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ናብ ቤት"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ኣቦታቶም"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ክልተ ሽሕ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ከምኡውን ሽስተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚእቲ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ሰለስተ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:13:08.643706501Z",
+  "model": "glm-5.3"
+}

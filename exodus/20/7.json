@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ስም ያህዌህ ኤሎሂምካ ⟨את⟩ ብቓል ስንባድ ኣይትወስዖን፤ ምኽንያቱ ያህዌህ እቲ ስሙ ⟨את⟩ ብቓል ስንባድ ዚወስዖ ኣየናቕፎን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ትወስዖን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ብቓል ስንባድ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣየናቕፎን"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ያንክእሎ ንጹር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ዚወስዖ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዚወስዖ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ዚወስዖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ብቓል ስንባድ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:23:10.767681433Z",
+  "model": "glm-5.3"
+}

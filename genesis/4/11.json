@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ድሕሪዚ ንስኻ ካብ ምድሪ ተረጊምካ ኣለኻ፤ እታ ኣፊታ ⟨את⟩ ኣፍታ፣ ንደም ኣሕዋትካ ⟨את⟩ ካብ ኢድካ ኺቕበል ዝእከለት።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ድሕሪዚ"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "ተረጊምካ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "ኣፊታ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣፍታ"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ኣፍታ"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ኺቕበል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደም"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ኣሕዋትካ"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ካብ ኢድካ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:30:54.336705186Z",
+  "model": "glm-5.3"
+}

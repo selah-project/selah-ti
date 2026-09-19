@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 40:12",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "መን ነቲ ማይ ኣብ ገጽ እዲኡ መዘንዩ፧ ሰማያት ብመስፈሪ እዲኡ ተዓወቶ፧ ትሪ ምድሪ ብሰለስተ ከዓለ፧ ከረታት ብሚዛን ወፈሰ፤ ንእሽተኛ ከረታት ድማ ብመሸጣሪታት፧",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "መዘንዩ"
+    },
+    {
+      "surface": "בשעלו",
+      "gloss": "ኣብ ገጽ እዲኡ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "בזרת",
+      "gloss": "ብመስፈሪ እዲኡ"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "ተዓወቶ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ከዓለ"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "ብሰለስተ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ትሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ושקל",
+      "gloss": "ወፈሰ"
+    },
+    {
+      "surface": "בפלס",
+      "gloss": "ብሚዛን"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ከረታት"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "ንእሽተኛ ከረታት"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "ብመሸጣሪታት"
+    }
+  ],
+  "timestamp": "2026-09-19T02:09:54.758128207Z",
+  "model": "glm-5.3"
+}

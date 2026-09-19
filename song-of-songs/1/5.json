@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ጸሊማዊት እየ ኣነ፣ ጽቡኣት ድማ፣ ወደቓት የሩሻላይም፣ ከም ድኻማት ቐዳር፣ ከም ጥላታት ሽሎሞ።",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "ጸሊማዊት"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "ጽቡኣት ድማ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ወደቓት"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "ከም ድኻማት"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ቐዳር"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "ከም ጥላታት"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:28:15.421650931Z",
+  "model": "glm-5.3"
+}

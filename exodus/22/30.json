@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ቅዱሳት ሰባት ንሕና ኩኑኒ፤ ስለዚ ኣብ በረኻ ተሃሪሙ ዘሎ ስጋን ኣይትበልዑን፤ ንበዓኺ ⟨אתו⟩ ተወርዩ ንኣቱ።",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "ኩኑኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንሕና … ንናተይ"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ስጋን"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ኣብ በረኻ"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "ተሃሪሙ ዘሎ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ትበልዑ"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ንበዓኺ"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "ተወርዩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ንኣቱ (እቲ ተሃሪሙ ዘሎ ስጋ)"
+    }
+  ],
+  "timestamp": "2026-09-18T21:26:57.371321819Z",
+  "model": "glm-5.3"
+}

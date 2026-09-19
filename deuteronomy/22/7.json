@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኣደ ⟨את⟩ ብውኑ ትሰድዋ፣ ⟨ואת⟩ ውላዳት ድማ ንዓኻ ትወስድ፣ ስለዚ ብሩኽ ክኸውን ንኻ፣ ብዙሕ መዓልታት ትነብር።",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ብውኑ"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "ትሰድዋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣደ"
+    },
+    {
+      "surface": "האם",
+      "gloss": "ኣደ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ውላዳት"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ውላዳት"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ትወስድ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንዓኻ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ብሩኽ ክኸውን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "ብዙሕ ትገብር"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:03:17.281499299Z",
+  "model": "glm-5.3"
+}

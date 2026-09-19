@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "መቕመጥኦም ካብ ምሸዓ ኣብ ዝኣቱ ኦታ ሰፓር ተራሕ ምብራቕ ነበረ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነበረ"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "መቕመጥኦም"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "ካብ ምሸዓ"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "ኣብ ዝኣቱ"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "ሰፓር"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ተራሕ"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "ምብራቕ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:35.199587901Z",
+  "model": "glm-5.3"
+}

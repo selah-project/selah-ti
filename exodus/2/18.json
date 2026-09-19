@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 2:18",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ናብ ረዑኤል ኣቦን ተመልሰን፤ ንሱ ድማ «ወይ እንተ ድኣ ተቐልጢፈን ሎሚ መጻአን?» በለ።",
+  "tokens": [
+    {
+      "surface": "ותבאנה",
+      "gloss": "ተመልሰን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ረዑኤል"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "ኣቦን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "מהרתן",
+      "gloss": "ተቐልጢፈን"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ንመጻእ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:26:33.115192102Z",
+  "model": "glm-5.3"
+}

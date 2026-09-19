@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣብ መወዳእታ ኣርባ መዓልታት ኖኅ ⟨את⟩ መስኮት እቲ ኣብ እታ መርከብ ዝገበሮ ክፈተ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ኣብ መወዳእታ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ኣርባ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ክፈተ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖኅ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መስኮት"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "መስኮት"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "እቲ ኣብ እታ መርከብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ ዝገበሮ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበሮ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:35:27.458664292Z",
+  "model": "glm-5.3"
+}

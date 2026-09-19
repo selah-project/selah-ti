@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ጽቡቕ እዩ ምስምዕ ምስታሕ ሓኪም፣ ካብ ምስምዕ ሰብ ዝምር ስደባት።",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡቕ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ምስምዕ"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "ምስታሕ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ሓኪም"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ካብ ሰብ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ምስምዕ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ዝምር"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ስደባት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:42:33.049831342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "እናተዓዘብኩ ⟨את⟩ ⟨ቲ⟩ ማንጸብ ብቓል ያህዌህ፣ እናሓዘኩ ኣብ ልዕሊ ወገበይ።",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "ተዓዘብኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቲ ማንጸብ"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "ቲ ማንጸብ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ብቓል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ሓዘኩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "ወገበይ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:41:52.449691808Z",
+  "model": "glm-5.3"
+}

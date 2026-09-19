@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 3:1",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ወዲቲ ነጊርና ብኣንፈት ሓባሻን ሰገርና፤ ዑግ ንጉስ ሓባሻን ንቃንበርና ወጸ፣ ንሱን ኩሉ ህዝቡን ንውድቀት ኣብ ኣድረይ።",
+  "tokens": [
+    {
+      "surface": "ונפן",
+      "gloss": "ወዲቲ ነጊርና"
+    },
+    {
+      "surface": "ונעל",
+      "gloss": "ሰገርና"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ብኣንፈት"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ሓባሻን"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ዑግ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ሓባሻን"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "ንቃንበርና"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ንሱን ኩሉን"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ህዝቡ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ንውድቀት"
+    },
+    {
+      "surface": "אדרעי",
+      "gloss": "ኣብ ኣድረይ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:47:39.593593607Z",
+  "model": "glm-5.3"
+}

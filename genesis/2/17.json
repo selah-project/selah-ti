@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ካብ ዛፍ እቲ ናይ ምፍልጠት ቕኑዕን ሕማቕን ግን ኣይትበልዕን እሞ ካብኡ፤ ምኽንያቱ ኣብ እቲ መዓልቲ ካብኡ እትበልዕ ኣይ ምውት ክትሙት ኢኻ።",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "ካብ ዛፍ"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "እቲ ናይ ምፍልጠት"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ቕኑዕ"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ሕማቕን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ትበልዕን"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ እቲ መዓልቲ"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "እትበልዕ ኣይ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ምውት"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ክትሙት ኢኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:24:29.095374329Z",
+  "model": "glm-5.3"
+}

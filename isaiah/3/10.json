@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "«ነቲ ጻድቕ ብሉ፣ ጽቡን ክኸውን ንሉ፣ ምኽንያቱ ንፍሪ ተግባራቶም ክበልዑ እዮም»።",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ብሉ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ነቲ ጻድቕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ንሉ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ንፍሪ"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ተግባራቶም"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ክበልዑ እዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:40:02.889472454Z",
+  "model": "glm-5.3"
+}

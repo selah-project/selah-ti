@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 29:37",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "መብዓቶምን ወፈያት መስቲን ንቑራስ፣ ንጎቦን ንንእሽተ ጎቦታትን ብቑጽሮም ከም ⟨ሕጊኡ⟩ እዩ።",
+  "tokens": [
+    {
+      "surface": "מנחתם",
+      "gloss": "መብዓቶም"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "ወፈያት መስቲን"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "ንቑራስ"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "ንጎቦ"
+    },
+    {
+      "surface": "ולכבשים",
+      "gloss": "ንንእሽተ ጎቦታትን"
+    },
+    {
+      "surface": "במספרם",
+      "gloss": "ብቑጽሮም"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ከም ሕጊኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:39:14.484069264Z",
+  "model": "glm-5.3"
+}

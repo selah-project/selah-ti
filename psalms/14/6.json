@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ምክር ድኻ ኣሕምቕትዎ፣ ምኽንያቱ ያህዌህ መሸለቲ ንሱ እዩ።",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "ምክር"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ድኻ"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "ኣሕምቕትዎ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "መሸለቲ ንሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:46.669120805Z",
+  "model": "glm-5.3"
+}

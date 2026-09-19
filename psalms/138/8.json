@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 138,
+  "translation": "ያህዌህ ንዓይ ኪፍጽም እዩ፤ ያህዌህ፣ ሔሴድካ ናብ ዘለኣለም እዩ፤ ሥራታት ኢድታትኻ ኣይተሓድጎም።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "ኪፍጽም"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሔሴድካ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ሥራታት"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ኢድታትኻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "ተሓደግ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:00.770319030Z",
+  "model": "glm-5.3"
+}

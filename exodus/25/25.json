@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 25:25",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ንኡ ኣብ ዙርያኡ ስፍሕቲ እጓሑ ዝኾነ ማእተቢ ትገብር፣ ነቲ ማእተቢ ኣብ ዙርያኡ ከኣ ወርቃዊ ኣክሊል ትገብር።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "ማእተቢ"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "ስፍሕቲ እጓሑ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ኣብ ዙርያኡ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ኣክሊል"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቃዊ"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "ንነቲ ማእተቢ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ኣብ ዙርያኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:31:22.486921843Z",
+  "model": "glm-5.3"
+}

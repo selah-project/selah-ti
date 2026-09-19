@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 5:3",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ወይ ነፍሲ ኣብ ከምቲ ተበጽሓሉ ኣክሊል ሰብ፣ ነቲ ኩሉ ኣክሊሉ ንቢሉ እትጸድቕሉ እንተ ኮይና፣ ተሓቢኡሉ እንተ ኮይኑ፣ ንሳ እንተ ተፈሊቃ፣ ክትኣምን እያ።",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ኣብ ከምቲ ተበጽሓሉ"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "ተበጽሓ"
+    },
+    {
+      "surface": "בטומאת",
+      "gloss": "ኣክሊል"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ነቲ ኩሉ"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "ኣክሊሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ንቢሉ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "እትጸድቕሉ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ብኣ"
+    },
+    {
+      "surface": "ונעלם",
+      "gloss": "ተሓቢኡሉ እንተ ኮይኑ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሳ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "እንተ ተፈሊቃ"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ክትኣምን እያ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:50:44.244523853Z",
+  "model": "glm-5.3"
+}

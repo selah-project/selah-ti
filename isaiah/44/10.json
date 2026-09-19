@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "መን ኤል ሓነጸ፣ ተምሳል ተበኣየ — ንዝኾነ ዘይጠቕም ኮይኑ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ሓነጸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "ተምሳል"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "ተበኣየ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ንዝኾነ"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "ዘይጠቕም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:12:37.097667600Z",
+  "model": "glm-5.3"
+}

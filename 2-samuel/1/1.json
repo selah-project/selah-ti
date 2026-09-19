@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኰነ ድሕሪ ሞተ ሻኡል፣ ዳዊድ ካብ ምትሓት ⟨את⟩ ዓማሌቅ ከም እተመለሰ፣ ዳዊድ ኣብ ጸቅላግ ክልተ መዓልታት ተቐምጠ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኰነ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ተመለሰ"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "ካብ ምትሓት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓማሌቅ"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "ዓማሌቅ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቐምጠ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "ኣብ ጸቅላግ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ክልተ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:23:44.489345023Z",
+  "model": "glm-5.3"
+}

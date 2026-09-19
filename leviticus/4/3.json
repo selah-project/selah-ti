@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 4:3",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "እቲ ዝተቐብነ ካህን ናብ ምድምሳስ ህዝቢ እንተ ኣመኽተተ፡ ንዝኣመኽቶ ጥፍኣቱ ጥምዝማዜ ውላዲ ከብቲ ብኽሊ ዘይብሉ ንያህዌህ ንጥፍኣት የቅርብ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "ዝተቐብነ"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "ኣመኽተተ"
+    },
+    {
+      "surface": "לאשמת",
+      "gloss": "ናብ ምድምሳስ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "የቅርብ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ጥፍኣቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ኣመኽቶ"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ጥምዝማዜ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ውላዲ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ከብቲ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ብኽሊ ዘይብሉ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ንጥፍኣት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:47:49.340673986Z",
+  "model": "glm-5.3"
+}

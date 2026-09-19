@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ድሕረዚ ብገድኻ ብሓርነት ትከይድ፣ እግርኻን ኣይትሰትምን።",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ድሕረዚ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ትከይድ"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ብሓርነት"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ብገድኻ"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "እግርኻን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "ትሰትም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:41:12.460641538Z",
+  "model": "glm-5.3"
+}

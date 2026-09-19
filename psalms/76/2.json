@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 76,
+  "translation": "ኣብ ይሁዳ ኤሎሂም ተፈሊጡ እዩ፤ ኣብ ይስራኤል ስሙ ዓቢ እዩ።",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "ተፈሊጡ"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ኣብ ይሁዳ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ኣብ ይስራኤል"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:35.482118954Z",
+  "model": "glm-5.3"
+}

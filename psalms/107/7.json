@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ድማ ኣብ ቅንፉር መንገዲ ኣስኣናኾም፣ ናብ ከተማ ማሕደር ክኾኑ።",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "ኣስኣናኾም"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መንገዲ"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "ቅንፉር"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ንኽኾኑ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "ማሕደር"
+    }
+  ],
+  "timestamp": "2026-09-19T09:02:44.356524713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ንመንፈስ ምዕዋት ንእቲ ኣብ ምዕዋት ዝቕመጥን ንከይቲ ሓይልን ንእቶም ውግእ ናብ ኣፍደገ ዝደፍኡን።",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "ንመንፈስ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ምዕዋት"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "ንእቲ ዝቕመጥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "እቲ ምዕዋት"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "ንከይቲ ሓይልን"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "ንእቶም ዝደፍኡ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ውግእ"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "ናብ ኣፍደገ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:58:58.770513236Z",
+  "model": "glm-5.3"
+}

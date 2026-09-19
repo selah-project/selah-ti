@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ዳንያል ድማ ክሳብ ቀዳማይ ዓመት ናይ ኮረስ እቲ ንጉስ ቐጸለ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ቐጸለ"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ዳንያል"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ቀዳማይ"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "ናይ ኮረስ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:48:41.854847310Z",
+  "model": "glm-5.3"
+}

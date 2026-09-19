@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ምስ ትበድህ ሰብካ ወፈያ ንዝኾነ ነገር፣ ንኽትወስድ ክርዳኑ ናብ ቤቱ ክትኣቱ ኣይትኽእልን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "ትበድህ"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ሰብካ"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ንዝኾነ ነገር"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ክትኣቱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "ንኽትወስድ"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "ክርዳኑ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:04:16.933219656Z",
+  "model": "glm-5.3"
+}

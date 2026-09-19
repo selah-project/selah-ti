@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ነፍሰይ ትነብር፣ ንስኻ ከኣ ትዝምረካ፣ ብዛዕባይን ፍትሕኻን ይሕግዘኒ።",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "ትነብር"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "ከምኡውን ትዝምረካ"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "ከምኡውን ፍትሕኻ"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "ይሕግዘኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:40.817843833Z",
+  "model": "glm-5.3"
+}

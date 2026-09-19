@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ይበልዑ እሞ ኣይጥንቑን፤ ኣፍረዩ እሞ ኣይብዙሕን፤ ስለ ዝተዓገቶ ⟨את⟩ ያህዌህ ነቲ ምትእታው ከይገብሩ።",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ይበልዑ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ይጥንቑን"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "ኣፍረዩ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "ይብዙሕን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ዝተዓገቶ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ከይገብሩ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:05:28.232594955Z",
+  "model": "glm-5.3"
+}

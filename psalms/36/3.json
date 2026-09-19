@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "እሞ ኣብ ኣይኒኡ ስለ ርእሱ ተባብዖ፣ ንኽርከብ ዓቢ ኃጢያቱ ንኽጸልእ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "ተባብዖ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ኣብ ኣይኒኡ"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ንኽርከብ"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ዓቢ ኃጢያቱ"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ንኽጸልእ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:08.267104425Z",
+  "model": "glm-5.3"
+}

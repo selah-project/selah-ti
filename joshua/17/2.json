@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 17:2",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ተቓርብን ኣጽንዕን፤ ምኽንያቱ ንስኻ ነዚ ህዝቢ እዚ ⟨את⟩ ክትምርሓቑ ኢኻ።",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "ተቓርብ"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "ኣጽንዕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "תנחית",
+      "gloss": "ክትምርሓቑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነዚ ህዝቢ እዚ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-18T23:29:07.408130497Z",
+  "model": "glm-5.3"
+}

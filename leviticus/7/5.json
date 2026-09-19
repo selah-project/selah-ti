@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "እቲ ኻህን ድማ ነቶም ⟨את⟩ ኣብ ቍደስ ይቕጸሖም፣ ከም ወፈያ ሓዊ ንያህዌህ፤ ወፈያ ኣስራት ⟨እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ይቕጸሖ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም (እቶም ኣካላት)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ኻህን"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ኣብ ቍደስ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ወፈያ ሓዊ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ወፈያ ኣስራት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:49:09.634259904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 35:24",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "እቲ ጉባኤ ድማ ኣብ መንጎ እቲ ዝደበኾን ኣብ መንጎ ኣራይ እቲ ደምን፣ ኣብ መሰረት እዚኦም ፍርዲታት ይፈርድ።",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "ይፈርዱ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "እቲ ጉባኤ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "እቲ ዝደበኾ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ኣራይ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "እቲ ደም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ መሰረት"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "እቶም ፍርዲታት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:33:51.697155029Z",
+  "model": "glm-5.3"
+}

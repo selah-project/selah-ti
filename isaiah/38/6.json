@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ድማ ካብ ኢድ ንጉሲ ኣሽር ነፍስኻ እየ ዝናግፍን ⟨את⟩ እታ ከተማ እዚኣን፤ ኣብ ልዕሊ ነታ ከተማ እዚኣ እየ ዝሓልው።",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "ድማ ካብ ኢድ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሲ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣሽር"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "ነፍስኻ እየ ዝናግፍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ከተማ እዚኣ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እታ ከተማ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚኣ"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "እየ ዝሓልው"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ነታ ከተማ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:05:08.193675547Z",
+  "model": "glm-5.3"
+}

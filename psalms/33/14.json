@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ካብ መቕዶን መቕመጡ ንኩሉ ነዋራት ምድሪ ይረኣየ።",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "ካብ መቕዶን"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "መቕመጡ"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "ይረኣየ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ነዋራት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:09.293464179Z",
+  "model": "glm-5.3"
+}

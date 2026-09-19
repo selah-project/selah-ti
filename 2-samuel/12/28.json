@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 12:28",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "«ሕጂ ድማ ነቲ ቀሪ ህዝቢ ⟨את⟩ ኣካክብ፣ ኣብ ልዕሊ እታ ከተማ ድማ ተቐምጥን ሓረማዋን፣ ካብ ሓሊኻ ኣነ ነቲ ከተማ ⟨את⟩ ክሓረማን ስማይ ኣባኡ ክትጠራዕን እዩ።»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ ድማ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ኣካክብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ቀሪ ህዝቢ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ቀሪ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "וחנה",
+      "gloss": "ተቐምጥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እታ ከተማ"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ሓረማዋ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ካብ ሓሊኻ"
+    },
+    {
+      "surface": "אלכד",
+      "gloss": "ክሓረማ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ከተማ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "ונקרא",
+      "gloss": "ክትጠራዕ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ስማይ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ኣባኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:30:30.309335538Z",
+  "model": "glm-5.3"
+}

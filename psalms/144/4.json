@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 144,
+  "translation": "ሰብ ከም ስንፍና ተመሳሰለ፤ መዓልታቱ ከም ጽልማት ዝሓልፍ እዮም።",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "ንስንፍና"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ተመሳሰለ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "መዓልታቱ"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "ከም ጽልማት"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "ዝሓልፍ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:20.518773581Z",
+  "model": "glm-5.3"
+}

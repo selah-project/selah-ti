@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ምስ ኣህዛብ ተበኣሱ፣ እናደኣ ተምሃሩ እቶም ግብርታቶም።",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "ተበኣሱ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ምስ ኣህዛብ"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "ተምሃሩ"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "እቶም ግብርታቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:37.733882864Z",
+  "model": "glm-5.3"
+}

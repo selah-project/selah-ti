@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ልዒኣ ኸኣ «ጋድ በጺሓ» በለት፤ ስሙን ድማ ⟨את⟩ ጋድ በለቶ።",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "በለታውን"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ልዒኣ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ጋድ በጺሓ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "በለቶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙን"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:49:39.885801511Z",
+  "model": "glm-5.3"
+}

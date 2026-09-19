@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኣብ ኣጽራሕትና ሕጂ ዐበዩኒ፤ ኣይኖም ንምውርድ ኣብ ምድሪ ኣቐመጡ።",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "ኣብ ኣጽራሕትና"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ዐበዩኒ"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ኣይኖም"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "ኣቐመጡ"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "ንምውርድ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:16.256129655Z",
+  "model": "glm-5.3"
+}

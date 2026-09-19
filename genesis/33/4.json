@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ዓሳው ድማ ንምኽቲ ኮይኑ ኰረበ፣ ተደርበዮ፣ ኣብ ርጋቡ ወደቐ፣ ሳቐዮ፣ ኣብክዩን።",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "ኰረበ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ዓሳው"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ንምኽቲ ኮይኑ"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "ተደርበዮ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ወደቐ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "ርጋቡ"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "ሳቐዮ"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ኣብክዩን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:54:13.793647789Z",
+  "model": "glm-5.3"
+}

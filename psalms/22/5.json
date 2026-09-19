@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኣቦቓትና ኣብ ንስኻ ተኣማኑ፣ ተኣማኑውን፣ ንሳቶም ድማ ሓሪኻዮም።",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "ኣብ ንስኻ"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ተኣማኑ"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ኣቦቓትና"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ተኣማኑውን"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "ሓሪኻዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:46.207402988Z",
+  "model": "glm-5.3"
+}

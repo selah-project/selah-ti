@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ሕይወት ካባኻ ሓበየ፣ ንሱ ድማ ሃብካዮ፤ ነዊሕ መዓልታት፣ ናብ ዘለኣለምን ንዘለኣለምን።",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "ሕይወት"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ሓበየ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ካባኻ"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ሃብካዮ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ ድማ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ነዊሕ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ናብ ዘለኣለምን"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ንዘለኣለምን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:19.933819325Z",
+  "model": "glm-5.3"
+}

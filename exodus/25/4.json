@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ሰማያዊን ሓምራትን ቀይሕ ቆልቋልን ሽሽን ጽገ ኣዳትን።",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "ሰማያዊን"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ሓምራትን"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ቆልቋልን"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ቀይሕ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ሽሽን"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "ጽገ ኣዳትን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:32:01.234804204Z",
+  "model": "glm-5.3"
+}

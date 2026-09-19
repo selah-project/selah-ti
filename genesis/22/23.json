@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ቡቱኤል ድማ ⟨את⟩ ሪብቓ ወለደ፤ እዚኦም ሸሞነህ እዮም እቶም ሚልካ ንናኮር ሓው ኣቭራሃም ዝወለዶም።",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "ቡቱኤል ድማ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሪብቓ"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ሪብቓ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ሸሞነህ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ወለደት"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ሚልካ"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "ንናኮር"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ሓው"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:44:56.017270465Z",
+  "model": "glm-5.3"
+}

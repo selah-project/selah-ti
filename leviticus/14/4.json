@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "እቲ ካህን ድማ ነቲ ንኽርህዎ ክእዝዞ ኣዘዝ፣ ክልተ ንቁላት ሕያዋት ንጹሳትን እኳዕ ኣርዛን ወረቐት ቀይሕን እጣንን ክወስድ እዩ።",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ኣዘዝ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ካህን"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "ክወስድ እዩ"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "ነቲ ንኽርህዎ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "ንቁላት"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "ሕያዋት"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "ንጹሳት"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "እኳዕ"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ኣርዛን"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ወረቐት ቀይሕን"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ተልሒ ቀይሕን"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "እጣንን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:55:58.394783761Z",
+  "model": "glm-5.3"
+}

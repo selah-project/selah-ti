@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 16:17",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ኣብሻሎም ድማ ንሑሻይ በለ፦ «እዚ ናይካ ሔሴድ ምስ ⟨את⟩ መሃልካ እዩ፤ ስለመይ ምስ ⟨את⟩ መሃልካ ኣይኸድካን?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ኣብሻሎም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "ሑሻይ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ናይካ ሔሴድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሃልካ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "መሃልካ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ስለመይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "ኸድካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሃልካ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "መሃልካ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:33:36.989163561Z",
+  "model": "glm-5.3"
+}

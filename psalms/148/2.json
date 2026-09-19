@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 148,
+  "translation": "ኩሉ መልዓላቱ ሰብሕዉዎ፣ ኩሉ ጸባኦቱ ሰብሕዉዎ።",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ሰብሕዉዎ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "መልዓላቱ"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ሰብሕዉዎ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "ጸባኦቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:26.405119425Z",
+  "model": "glm-5.3"
+}

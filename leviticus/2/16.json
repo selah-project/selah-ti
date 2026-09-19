@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እቲ ካህን ⟨את⟩ መዘኻኸሪ ናዥ ካብ እኽሊኣን ካብ ዘይታን ኣብ ልዕሊ ኩሉ እጣና የተቕጽል፤ ናዥ ሓዊ ወፈያ ናብ ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "የተቕጽል"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መዘኻኸሪ ናዥ"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "መዘኻኸሪ ናዥ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ካብ እኽሊኣ"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "ካብ ዘይታ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "እጣና"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ናዥ ሓዊ ወፈያ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ናብ ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:46:28.349152881Z",
+  "model": "glm-5.3"
+}

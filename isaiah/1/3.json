@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ሓሽብቲ ባዕሉ ሓቢኡ ይፈልጥ እዩ፣ ኣጋይሽ ድማ መጥባዒት ጎይታኡ ይፈልጥ እዩ፤ እስራኤል ግን ኣይፈለጠን፣ ሕዝበይ ድማ ኣይረዲአን።",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "ይፈልጥ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ሓሽብቲ"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "ሓቢኡ"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "ኣጋይሽ ድማ"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "መጥባዒት"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ጎይታኡ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ፈለጠ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝበይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "ረዲአ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:47:41.413757471Z",
+  "model": "glm-5.3"
+}

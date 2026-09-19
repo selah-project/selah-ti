@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ያረብዓም ድማ ኣብ ተራራ ኤፍራይም ⟨את⟩ ሸከም ሃንጸወ፣ ኣብኣ ድማ ተቐመጠ፤ ካብኡ ወጸ፣ ⟨את⟩ ፕኑኤል እውን ሃንጸወ።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሃንጸወ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ያረብዓም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሸከም"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ሸከም"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ኣብ ተራራ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኣ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ሃንጸወ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፕኑኤል"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "ፕኑኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T00:59:36.163080929Z",
+  "model": "glm-5.3"
+}

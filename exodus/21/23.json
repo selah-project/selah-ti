@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "«ጉድኣት እንተ ኮነት ድማ፣ ነፍሲ ኣብ ክንዲ ነፍሲ ትህብ።»",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "ጉድኣት"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ትህብ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ክንዲ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:27:12.132775458Z",
+  "model": "glm-5.3"
+}

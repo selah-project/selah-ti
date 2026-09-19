@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "እቲ ሕዝቢ ድማ ንየሆሹዋዕ በሎ፦ «⟨את⟩ ያህዌህ ኤሎሂምና ነክድኦ ኢና፣ ነቲ ቃሉ ድማ ንሰምዖ ኢና።»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ ኤሎሂምና"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ነክድኦ ኢና"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "ነቲ ቃሉ"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ንሰምዖ ኢና"
+    }
+  ],
+  "timestamp": "2026-09-18T23:34:19.043345520Z",
+  "model": "glm-5.3"
+}

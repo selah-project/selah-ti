@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 84,
+  "translation": "ምኽንያቱ ፀሓንን መከላን ⟨እዩ⟩ ያህዌህ ኤሎሂም፤ ጸጋን ክብርን ያህዌህ ይህብ፤ ነቶም ብጽድቂ ዝኾኑ ካብኡ በሪ ኸኣ ኣይሓግዞምን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ፀሓን"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "መከላን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ጸጋ"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ክብርን"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይህብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "ኣይሓግዞምን"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "በሪ"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "ነቶም ዝኾኑ"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "ብጽድቂ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:52.626532826Z",
+  "model": "glm-5.3"
+}

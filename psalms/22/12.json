@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ካባይ ኣይትርሕቐኒ፤ ምኽንያቱ ጸገም ቅሩብ እዩ፤ ምኽንያቱ ዝሕግዝ የለን።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ትርሕቐኒ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ካባይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ጸገም"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "ቅሩብ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "ዝሕግዝ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:57.509512063Z",
+  "model": "glm-5.3"
+}

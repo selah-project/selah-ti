@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ዘይጥፍዓት ዓባይ ⟨את⟩ ነቶም ሸውዓተ መዓልታት ክእለ እዩ፤ ተጠፍዓ ዓባይ ኣይረአንካን፣ ጥፍዒ እውን ኣይረአንካን ኣብ ዅሉ ዶባኻ።",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "ዘይጥፍዓት ዓባይ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ክእለ እዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ሸውዓተ መዓልታት"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…-ን"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ይረአ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ተጠፍዓ ዓባይ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…-ን"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ይረአ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ጥፍዒ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ዅሉ"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "ዶባኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:21:11.940661801Z",
+  "model": "glm-5.3"
+}

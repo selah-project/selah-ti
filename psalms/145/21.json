@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 145,
+  "translation": "ኣፍየ ስብሓት ያህዌህ ክትዛረብ እዩ፣ ኩሉ ስጉር ድማ ቅድስናኡ ስም ንዘለኣለምን ንዘለእሉን ይባርኽ።",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "ስብሓት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ክትዛረብ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ኣፍየ"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ይባርኽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ስጉር"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅድስናኡ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ንዘለኣለምን"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ንዘለእሉን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:38:34.831763918Z",
+  "model": "glm-5.3"
+}

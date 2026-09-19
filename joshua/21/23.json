@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ካብ ኩነታ ዳን ድማ ⟨את⟩ ኤልተቅኤን ምስ ስፍራኣን፣ ⟨את⟩ ጊብቶንን ምስ ስፍራኣን።",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ካብ ኩነታ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ዳን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤልተቅኤ"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "ኤልተቅኤ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስፍራኣ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ምስ ስፍራኣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጊብቶን"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "ጊብቶን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስፍራኣ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ምስ ስፍራኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:36:57.134505177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "እታ ሳልሳይቲ መስመር ድማ — ለሸም፣ ሸቮ፣ ኣኽላማ።",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "እታ መስመር"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ሳልሳይቲ"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ለሸም"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ሸቮ"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "ኣኽላማ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:43:03.031313615Z",
+  "model": "glm-5.3"
+}

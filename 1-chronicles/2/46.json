@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ዓይፋ ድማ፣ እታ ፍልገሽ ናይ ካልብ፣ ⟨את⟩ ሕራንን ⟨ואת⟩ ሞጽዓን ⟨ואת⟩ ጋዘዝን ወለደት፤ ሕራን ድማ ⟨את⟩ ጋዘዝ ወለደ።",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "ዓይፋ ድማ"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "ፍልገሽ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ካልብ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ወለደት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕራን"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "ሕራን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ሞጽዓ"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "ሞጽዓ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ጋዘዝ"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "ጋዘዝ"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "ሕራን ድማ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጋዘዝ"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "ጋዘዝ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:29:20.709538344Z",
+  "model": "glm-5.3"
+}

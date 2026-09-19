@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ከምኡውን ንድኹም ሰብ ኣብ ምዃዕቲ ናይኡ ኣይተበዝሖን።",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "ከምኡውን ንድኹም ሰብ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "ተበዝሖ"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "ኣብ ምዃዕቲ ናይኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:28:35.083375197Z",
+  "model": "glm-5.3"
+}

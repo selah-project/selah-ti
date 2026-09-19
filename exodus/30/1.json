@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ንስኻ ድማ መስኢዳ ምትኩስ እጣን ትሰርዕ፤ ካብ ሓርበታ ሰንኩር ⟨אתו⟩ ትገብር።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ትሰርዕ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መስኢዳ"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "ምትኩስ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "እጣን"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ሓርበታ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ሰንኩር"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ካብ ሓርበታ ሰንኩር (እቲ መስኢዳ)"
+    }
+  ],
+  "timestamp": "2026-09-18T21:35:36.243332028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 9:21",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣሃሮን ድማ ⟨את⟩ ጡታትን ⟨את⟩ ኮረይታ ማእከላይን ብተነውፋ ቐዳማ ያህዌህ ኸወኖ፣ ከም ዝኣዘዞ ሞሸ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጡታት"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "ጡታት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኮረይታ ማእከላይ"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ኮረይታ"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ማእከላይ"
+    },
+    {
+      "surface": "הניף",
+      "gloss": "ኸወኖ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "ብተነውፋ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቐዳማ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ዝኣዘዞ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:53:29.271226773Z",
+  "model": "glm-5.3"
+}

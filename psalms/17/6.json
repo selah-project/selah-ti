@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኣነ ዐወልኩኻ፣ ምኽንያቱ ክትመልሰኒ ኢኻ፣ ኤል፤ ኣውራጂኻ ናባይ ኣስኣላ፣ ቃለ ሰምዓ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ዐወልኩኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ክትመልሰኒ ኢኻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "הט",
+      "gloss": "ኣስኣላ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ኣውራጂኻ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ናባይ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ቃለ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:05.034010084Z",
+  "model": "glm-5.3"
+}

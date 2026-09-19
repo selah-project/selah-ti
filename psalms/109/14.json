@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "በደል ኣቦታቱ ቅድሚ ያህዌህ ክትዝከር፤ ሓጢኣት ኣደኡ ከኣ ኣይትጥፋእን።",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "ክትዝከር"
+    },
+    {
+      "surface": "עון",
+      "gloss": "በደል"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ኣቦታቱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "ንሓጢኣት"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ኣደኡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "ትጥፋእ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:54.104587766Z",
+  "model": "glm-5.3"
+}

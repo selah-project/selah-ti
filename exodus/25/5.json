@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ቆዳ ኣእላት ብቐይሕ ዝተቐየረትን ቆዳ ተኻሻትን እኽሊ ሽጢምን።",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "ቆዳ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ኣእላት"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "ብቐይሕ ዝተቐየረ"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "ቆዳ"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "ተኻሻት"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ሽጢም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:30:42.449411438Z",
+  "model": "glm-5.3"
+}

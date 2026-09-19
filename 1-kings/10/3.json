@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ሽሎሞ ድማ ⟨את⟩ ኩሉ ቃላታ ኣፍሉላ፤ ካብኡ ንጉሲ ዝተሓብሐ ቃል ነይሩ ኣይነበረን፣ ንኣኣ ዝኣከኾ ኣይበለን።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ኣፍሉላ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ንኣኣ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "ቃላታ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "ዝተሓብሐ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉሲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ…"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ዝኣከኾ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ንኣኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:55:29.620708133Z",
+  "model": "glm-5.3"
+}

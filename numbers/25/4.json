@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 25:4",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ያህዌህ ድማ ንሞሸ በሎ፦ ኩሉ ርእሰ እቲ ህዝቢ ⟨את⟩ ውሰድ፣ ንያህዌህ ኣብ ቅድሚ ጸሓይ ⟨את⟩ ተወቕዖም፣ ቍጣ ያህዌህ ካብ እስራኤል ድማ ይምለስ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ውሰድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ርእሰ እቲ ህዝቢ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ርእሰ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "והוקע",
+      "gloss": "ተወቕዖም"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ርእሰ እቲ ህዝቢ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ጸሓይ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ይምለስ"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "ቍጣ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ደው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ካብ እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:33:55.281896988Z",
+  "model": "glm-5.3"
+}

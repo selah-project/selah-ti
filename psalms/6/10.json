@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ያህዌህ ሕርምማንተይ ሰምዐ፣ ያህዌህ ጸሎተይ ይቕበል።",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "ሕርምማንተይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ጸሎተይ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ይቕበል"
+    }
+  ],
+  "timestamp": "2026-09-19T04:40:45.029877922Z",
+  "model": "glm-5.3"
+}

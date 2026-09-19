@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ኣብ ልዕሊ ወፈያትካ ኣይኮነን ኣብልካ፤ እተታኣይምትኻ ንነይ ቅድሚይ ኩሉ ግዜ ኣለዉ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "ወፈያትካ"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ኣብልካ"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "እተታኣይምትኻ"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "ቅድሚይ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ኩሉ ግዜ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:06.919448970Z",
+  "model": "glm-5.3"
+}

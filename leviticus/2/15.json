@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣብ ልዕሊ እቲ ተወሃብካ ዘይቲ፣ ኣብ ልዕሊ እቲ ከኣ እጣን ተወሓበኻ፤ መባ እያ ⟨እያ⟩።",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ተወሃብካ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይቲ"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ተወሓበካ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "እጣን"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "መባ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እያ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:46:28.349023244Z",
+  "model": "glm-5.3"
+}

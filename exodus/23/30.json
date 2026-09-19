@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ትሕቲ ትሕቲ ክሳብ ትወርድን እንተ በጺሕካን ⟨את⟩ እቲ ምድሪ ክትወርድን ካብ ቅድሚኻ ክጸድፎም እየ።",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "ክጸድፎም"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ካብ ቅድሚኻ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "ትወርድ"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "ክትወርድን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ምድሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እቲ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:27:18.068713050Z",
+  "model": "glm-5.3"
+}

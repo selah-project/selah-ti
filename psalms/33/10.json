@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ያህዌህ ኣማኺ ዜጋታት ኣበደሸ፤ ንሓሳብ ህዝብታት ድማ ውክፍን ኣተወ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "ኣበደሸ"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ኣማኺ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ዜጋታት"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "ውክፍን ኣተወ"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ሓሳብ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ህዝብታት"
+    }
+  ],
+  "timestamp": "2026-09-19T08:59:54.901467740Z",
+  "model": "glm-5.3"
+}

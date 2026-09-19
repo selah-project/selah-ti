@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 27:27",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ሓብታ ቆላሊት ብቕዓት ኣላ ንምግቢኻ፣ ንምግቢ ግቢኻ፣ ሕይወትን ንኻልኣይትኻ እያ።",
+  "tokens": [
+    {
+      "surface": "ודי",
+      "gloss": "ብቕዓት"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ሓብታ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ቆላሊት"
+    },
+    {
+      "surface": "ללחמך",
+      "gloss": "ንምግቢኻ"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "ንምግቢ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ግቢኻ"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "ሕይወትን"
+    },
+    {
+      "surface": "לנערותיך",
+      "gloss": "ንኻልኣይትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:57:56.276739773Z",
+  "model": "glm-5.3"
+}

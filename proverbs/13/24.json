@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 13:24",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "እቲ ዘንቆኡ ዘይሓቍሮ ወዲኡ ይጸልኦ፣ እቲ ዝፈትዎ ድማ ንቅጣዕ ብቕድሚ ይደሊኣሉ።",
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "ዘይሓቍሮ"
+    },
+    {
+      "surface": "שבטו",
+      "gloss": "ዘንቆኡ"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ይጸልኦ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡ"
+    },
+    {
+      "surface": "ואהבו",
+      "gloss": "እቲ ዝፈትዎ"
+    },
+    {
+      "surface": "שחרו",
+      "gloss": "ብቕድሚ ይደሊኣሉ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ቅጣዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:47:15.627462946Z",
+  "model": "glm-5.3"
+}

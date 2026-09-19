@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ዮሴፍ ድማ ⟨את⟩ ኣቡኡ ክቐብር ወጸ፤ ኩሉ ተገልገልቲ ፓርዖ፣ ደጋፍቲ ቤቱን ኩሉ ደጋፍቲ ምድሪ ሚጽራይምን ምስ ⟨את⟩ ኡ ወጹ።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "ክቐብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቡኡ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ወጹ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ምስ ⟨את⟩ ኡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ተገልገልቲ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ደጋፍቲ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ንኹሉን"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ደጋፍቲ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:11:46.132000968Z",
+  "model": "glm-5.3"
+}

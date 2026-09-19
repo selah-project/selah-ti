@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "እዚኦም ውላድ ሸም እዮም፤ ብስዓድራታቶም፣ ብቋንቋታቶም፣ ኣብ ምድሮም፣ ብኣህዛቦም።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ሸም"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ብስዓድራታቶም"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "ብቋንቋታቶም"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "ኣብ ምድሮም"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "ብኣህዛቦም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:35.199752740Z",
+  "model": "glm-5.3"
+}

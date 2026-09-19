@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ያህዌህ ድማ ⟨את⟩ ተቓዋራት ረጽይን ኣብ ልዕሊኡ ኣውሐሶ፣ ⟨את⟩ ተቓዋራትኡን ኣቐንዐሶን።",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "ኣውሐሶ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተቓዋራት ረጽይን"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ተቓዋራት"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ረጽይን"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊኡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ተቓዋራትኡ"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ተቓዋራትኡ"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "ኣቐንዐሶ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:48:08.183194866Z",
+  "model": "glm-5.3"
+}

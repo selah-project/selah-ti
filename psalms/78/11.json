@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ተግባራቱን ተዓዊታቱን፣ እቶም ኣርኣዮም፣ ረስዑ።",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "ረስዑ"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ተግባራቱን"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ተዓዊታቱን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "ኣርኣዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:35.716660499Z",
+  "model": "glm-5.3"
+}

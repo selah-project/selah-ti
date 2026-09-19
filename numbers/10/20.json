@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣብ ልዕሊ ሰራዊት ወገን ውላድ ጋድ ድማ ኤልያሳፍ ወዲ ደዑኤል ⟨ነይሩ⟩።",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ወገን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ኤልያሳፍ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "ደዑኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:19:56.074981266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 42:14",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ነታ ቀዳማይቲ የሚማሕ፣ ነታ ካልኣይቲ ቅጽያዕ፣ ነታ ሳልሳይቲ ድማ ቅረን-ሃፉኽ በሃሉ ስም።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "በሃሉ ስም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ነታ ቀዳማይቲ"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "የሚማሕ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ንስም"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ነታ ካልኣይቲ"
+    },
+    {
+      "surface": "קציעה",
+      "gloss": "ቅጽያዕ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ንስም"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "ነታ ሳልሳይቲ"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "ቅረን"
+    },
+    {
+      "surface": "הפוך",
+      "gloss": "ሃፉኽ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:26:00.716100280Z",
+  "model": "glm-5.3"
+}

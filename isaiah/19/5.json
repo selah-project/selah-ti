@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ማይ ካብ ባሕሪ ክጐድል እዩ፣ ወንዚን ክድረብን ክስከሕን እዩ።",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "ክጐድል እዩ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "ካብ ባሕሪ"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "ወንዚን"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "ክድረብን"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ክስከሕን እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:52:16.454591439Z",
+  "model": "glm-5.3"
+}

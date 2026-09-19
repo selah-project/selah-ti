@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ጸሓይን ጨረቓን ኣብ ማሕደርኦም ተቐመጡ፤ ብብርሃን ቀሳሳትኪ ይከዱ፣ ብስጉምቲ በረቕቲ ሞራኻ።",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "ጸሓይን"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ጨረቓን"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ተቐመጡ"
+    },
+    {
+      "surface": "זבלה",
+      "gloss": "ኣብ ማሕደርኦም"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ብብርሃን"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "ቀሳሳትኪ"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ይከዱ"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "ብስጉምቲ"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "በረቕቲ"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "ሞራኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:30:16.286073454Z",
+  "model": "glm-5.3"
+}

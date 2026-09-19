@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 41:15",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ኣየ ገበርኩኻ ሓድሽ ምውራቕ ሓራሽ ጥርቒ ዘለዎ፤ ነታ ከራራት ትደሕስ ትፈርስን፣ ነታ ከባብታት ድማ ከም ኣፍርሲ ትገብራ።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ኣየ"
+    },
+    {
+      "surface": "שמתיך",
+      "gloss": "ገበርኩኻ"
+    },
+    {
+      "surface": "למורג",
+      "gloss": "ምውራቕ"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "ሓራሽ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ሓድሽ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ዘለዎ"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "ጥርቒ"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "ትደሕስ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ከራራት"
+    },
+    {
+      "surface": "ותדק",
+      "gloss": "ትፈርስን"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "ከባብታትን"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "ከም ኣፍርሲ"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ትገብራ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:10:21.115394270Z",
+  "model": "glm-5.3"
+}

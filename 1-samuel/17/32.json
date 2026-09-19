@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 17:32",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ዳዊድ ድማ ናብ ሻኡል «ልቢ ሰብ ኣብሉ ኣይውርድን፤ ኣገልጋሊኻ ይኸድን ምስ እዚ ፍልሻዊ ድማ ይታገል» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "የውርድን"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብሉ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልጋሊኻ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ይኸድን"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "ይታገል"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "እቲ ፍልሻዊ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:09:07.477587057Z",
+  "model": "glm-5.3"
+}

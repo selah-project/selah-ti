@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ነቲ ሰሪቕ ኣይውርድዎን፣ ነፍሱ ንምልኣት ስለ ዝጥሜእ እትሰርቕ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "ይውርድዎን"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "ነቲ ሰሪቕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "እትሰርቕ"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "ንምልኣት"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "ዝጥሜእ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:45:17.976203819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ዓታይ ድማ ⟨את⟩ ናታን ወለዶ፤ ናታን ድማ ⟨את⟩ ዛባድ ወለዶ።",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "ዓታይ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ወለዶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ናታን"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ናታን"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ናታን"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወለዶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዛባድ"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "ዛባድ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:29:08.922656965Z",
+  "model": "glm-5.3"
+}

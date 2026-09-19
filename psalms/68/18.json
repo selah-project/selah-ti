@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "መካይን ኤሎሂም ሽሓት፣ ኣሽሕተ ዝተደገሙ፤ ኣዶናይ ኣብኦም ኣብ ሲናይ ኣብ ቅድስና እዩ።",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "መካይን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "ሽሓት"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ኣሽሕተ"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "ዝተደገሙ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ኣብኦም"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ሲናይ"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ኣብ ቅድስና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:54.648970596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 103,
+  "translation": "ራሕሙን ብሉጽን እዩ ያህዌህ፣ ዕረፊ ኣብ ቁጥዕ፣ ብዙሕን ሔሴድን እዩ።",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "ራሕሙ"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "ብሉጽን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ዕረፊ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ቁጥዕ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ብዙሕን"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:19.917210757Z",
+  "model": "glm-5.3"
+}

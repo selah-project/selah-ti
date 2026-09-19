@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "⟨את⟩ ኹለት ኩላዊታትን ⟨את⟩ እቲ ስቡእ እቲ ኣብ ልዕለን ዘሎ እቲ ኣብ ልዕሊ እቶም ኽንፋል ዘሎን ⟨את⟩ እታ ተወሳኺቲ ኣብ ልዕሊ እቲ ከበድ ኣብ ልዕሊ እቶም ኩላዊታት ኣውጽአን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኹለት ኩላዊታት"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ኹለት"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ኩላዊታት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ስቡእ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "እቲ ስቡእ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዘሎ"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "ኣብ ልዕለን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዘሎ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "እቶም ኽንፋል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ተወሳኺቲ"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "እታ ተወሳኺቲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "እቲ ከበድ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "እቶም ኩላዊታት"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ኣውጽአን"
+    }
+  ],
+  "timestamp": "2026-09-19T08:30:22.679363503Z",
+  "model": "glm-5.3"
+}

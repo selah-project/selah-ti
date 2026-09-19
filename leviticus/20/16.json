@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ሰበይቲን እታ ናብ ዝኾነ እንሳ ንምትንሳኣት ምስ ⟨את⟩ ኣታ እንተ ቀረበት፣ ነታ ⟨את⟩ ሰበይቲን ⟨את⟩ እታ እንሳን ቐትል፤ ብሞተ ኪቕተሉ እዮም፤ ደሞም ኣብ ርእሶም እዩ።",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "ሰበይቲን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "እንተ ቀረበት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "እንሳ"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "ንምትንሳኣት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ምስ ⟨את⟩ ኣታ"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "ቐትል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰበይቲ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እታ እንሳ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "እታ እንሳ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ብሞተ"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ኪቕተሉ እዮም"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ደሞም"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ኣብ ርእሶም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:04:48.124946986Z",
+  "model": "glm-5.3"
+}

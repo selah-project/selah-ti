@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣው ንኣሽሁር፣ ሓፈሻ ናይ ቍጭቐበበይ፣ እቲ ኣብ ኢዶም ዘሎ ማሕደር ⟨እዩ⟩ ጽዝቕነተይ።",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ኣው"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ንኣሽሁር"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ሓፈሻ"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ናይ ቍጭቐበበይ"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨እዩ⟩"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ኣብ ኢዶም"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "ጽዝቕነተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:47:38.470579130Z",
+  "model": "glm-5.3"
+}

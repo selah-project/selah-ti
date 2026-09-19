@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "«ናብ ያህዌህ ኣንብጦ፤ ይሓልዎ፤ ይድሕኖ፤ ምኽንያቱ ንሱ ይደልዎ እዩ።»",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "ኣንብጦ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "ይሓልዎ"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "ይድሕኖ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ይደልዎ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ንሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:57.508714061Z",
+  "model": "glm-5.3"
+}

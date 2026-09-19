@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ዓቢሃት ብዘይ ምዝራዝ ዘይገብር፣ ስለምድናይትን ብዘይ ቁጽር ዘይገብር እዩ።",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ዘይገብር"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ዓቢሃት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "ምዝራዝ"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "ስለምድናይትን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ቁጽር"
+    }
+  ],
+  "timestamp": "2026-09-19T06:05:20.928896962Z",
+  "model": "glm-5.3"
+}

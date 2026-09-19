@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 132,
+  "translation": "ኣብ ድንኳን ቤተይ እንተ ኣተኹ፣ ኣብ ላዕሊ ዓጻ ኣልጋይ እንተ ወጸኹ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ኣተኹ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ኣብ ድንኳን"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ቤተይ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ወጸኹ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "ዓጻ"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "ኣልጋይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:13.291073710Z",
+  "model": "glm-5.3"
+}

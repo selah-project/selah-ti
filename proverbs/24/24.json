@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 24:24",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "«ንሓብሩ» ነቲ ክፉእ «ጻድቅ ኣኻ» ዝብል ህዝብታት ይርግሞ፣ ብሔራት ይጸልኡዎ።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ዝብል"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ነቲ ክፉእ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቅ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኣኻ"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "ይርግሞ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ህዝብታት"
+    },
+    {
+      "surface": "יזעמוהו",
+      "gloss": "ይጸልኡዎ"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ብሔራት"
+    }
+  ],
+  "timestamp": "2026-09-19T09:04:55.995394815Z",
+  "model": "glm-5.3"
+}

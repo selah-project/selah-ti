@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ምስ ባዕታት ሓሶት ኣይተቐመጥኩን፣ ምስ እቶም ዝተሓበኑ ድማ ኣይኣቲኩን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ተቐመጥኩ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ባዕታት"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ምስ…ድማ"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "ዝተሓበኑ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ኣቲኩን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:54.170258567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "እቲ ምድሪ ናይኡ ዝሰርሕ ብንጹር ይስከብ እዩ፤ እቲ ባዶታት ዝተኸታለሉ ግን ልቢ የቐር እዩ።",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "ዝሰርሕ"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "ምድሪ ናይኡ"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ይስከብ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ንጹር"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "ዝተኸታለሉ"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "ባዶታት"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "የቐር"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:46:57.659940200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ካብ ሰማያት ⟨את⟩ ጸሎቶምን ⟨את⟩ ልመናኦምን ሰሚዐካ፣ ብጽሓምቶም ድማ ገበርካ።",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ሰሚዐካ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጸሎቶም"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ጸሎቶም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ልመናኦም"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ልመናኦም"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ገበርካ"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ብጽሓምቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T09:11:57.701195225Z",
+  "model": "glm-5.3"
+}

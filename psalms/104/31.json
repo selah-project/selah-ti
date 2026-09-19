@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "ክብሪ ያህዌህ ናብ ዘለኣለም ይኹን፤ ያህዌህ ኣብ መስራሕቱ ደስ ይብል።",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ይኹን"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ደስ ይብል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "ኣብ መስራሕቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:10.248331869Z",
+  "model": "glm-5.3"
+}

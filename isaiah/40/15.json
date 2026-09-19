@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 40:15",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ኣረይ፣ ኣህዛብ ከም ጠቕሊ ማይ ካብ ማዕጥን ኮይኖም፣ ከም እኽሊ ማዕዘን ተቑጸሩ፤ ኣረይ፣ ደሴታት ከም ኣንጻጭራ ወሲድዎም።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ኣረይ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "כמר",
+      "gloss": "ከም ጠቕሊ ካብ"
+    },
+    {
+      "surface": "מדלי",
+      "gloss": "ማዕጥን"
+    },
+    {
+      "surface": "וכשחק",
+      "gloss": "ከም እኽሊ"
+    },
+    {
+      "surface": "מאזנים",
+      "gloss": "ማዕዘን"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "ተቑጸሩ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ኣረይ"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ደሴታት"
+    },
+    {
+      "surface": "כדק",
+      "gloss": "ከም ኣንጻጭራ"
+    },
+    {
+      "surface": "יטול",
+      "gloss": "ወሲድዎም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:09:12.512251857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 121,
+  "translation": "ኣብ ቀትሪ ጸሓይ ኣይትሓተካን፣ ጨረቃ ድማ ኣብ ለይቲ ኣይትሓተካን።",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ኣብ ቀትሪ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ጸሓይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይን"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "ትሓተካ"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ጨረቃ ድማ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ኣብ ለይቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:52.469779525Z",
+  "model": "glm-5.3"
+}

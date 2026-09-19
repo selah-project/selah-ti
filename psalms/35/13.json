@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 35:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ኣነ ግን ስለምሰልኮም ልብሰይ ሰቀ ነይራ፣ ብጾም ነፍሰይ ዘንቀጠቐኩ፣ ጸሎተይ ድማ ኣብ ሕብረይ ተመልሰት።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ግን"
+    },
+    {
+      "surface": "בחלותם",
+      "gloss": "ስለምሰልኮም"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "ልብሰይ"
+    },
+    {
+      "surface": "שק",
+      "gloss": "ሰቀ"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ዘንቀጠቐኩ"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "ብጾም"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "ጸሎተይ ድማ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "חיקי",
+      "gloss": "ሕብረይ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ተመልሰት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:03.808412900Z",
+  "model": "glm-5.3"
+}

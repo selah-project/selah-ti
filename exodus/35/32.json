@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ንኺዕብዩ ድማ ምዕባያት፣ ኣብ ወርቂን ብጥዑስን ኣብ ናሕሲን ንኺገብርዎ።",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "ንኺዕብዩ"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "ምዕባያት"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ንኺገብርዎ"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "ኣብ ወርቂ"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "ብጥዑስን"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "ኣብ ናሕሲን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:42:11.745130243Z",
+  "model": "glm-5.3"
+}

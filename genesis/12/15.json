@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኣመላኽቲ ፓርዖ ⟨את⟩ ነታ ረኣዩ፣ ንፓርዖ ድማ ⟨את⟩ ነታ መስገናኣ ተዛረቡ፤ እታ ሰበይቲ ድማ ናብ ቤት ፓርዖ ተወሰደት።",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ረኣዩ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ነታ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ኣመላኽቲ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "መስገናኣ ተዛረቡ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ነታ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ተወሰደት"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "እታ ሰበይቲ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:37:48.184733769Z",
+  "model": "glm-5.3"
+}

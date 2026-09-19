@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ጥበብ የለን፣ ምርዳእ የለን፣ ኣብ ቅድሚ ያህዌህ ድማ ምክር የለን።",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ምርዳእ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ምክር"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:52:44.764381992Z",
+  "model": "glm-5.3"
+}

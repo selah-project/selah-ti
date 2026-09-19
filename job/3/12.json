@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ስለምንታይ ጉልበታት ተቐደሙኒ፧ ጽንሒታት ድማ እንታይ እየን ክሽውዑኒ፧",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "ስለምንታይ"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "ተቐደሙኒ"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "ጉልበታት"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "እንታይ ድማ"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "ጽንሒታት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "ክሽውዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:01:29.516267731Z",
+  "model": "glm-5.3"
+}

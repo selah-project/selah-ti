@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ቓላተይ ኣዝዚናኒ ኣታ ያህዌህ፣ ነቲ ምጉድናይያ ኣብኣይ ተረድአ።",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "ቓላተይ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ኣዝዚናኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ተረድአ"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "ነቲ ምጉድናይያ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:42:37.368155724Z",
+  "model": "glm-5.3"
+}

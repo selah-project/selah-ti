@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ስምዑ ሰማያት፣ ኣእሚኒ ንምድሪ፣ ምኽንያት ያህዌህ ተዛረበ፦ ውላድ ዓበየኩን ኣሓወስኩን፣ ንሳቶም ግን ኣባይ ኣመጹ።",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ስምዑ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "ኣእሚኒ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "ዓበየኩ"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "ኣሓወስኩ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "ኣመጹ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ኣባይ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:46:59.126721158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 27:1",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ያህዌህ ናብ ሞሸ ተዛረበ እናበሎ፦",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረቦ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበሎ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:11:09.205073228Z",
+  "model": "glm-5.3"
+}

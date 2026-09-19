@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ውላደ እስራኤል ንያህዌህ እቲ ዝደርቡሉ ⟨את⟩ ቅዱሳት ⟨את⟩ ይሕልሉ ኣይኮንን።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ኣይኮንን"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "ይሕልሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅዱሳት"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝደርቡሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "ዝደርቡ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:30:32.322924397Z",
+  "model": "glm-5.3"
+}

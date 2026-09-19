@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ክብዳት ድማሸቅ። ኣሎ፣ ድማሸቅ ካብ ከተማ ኮይና ተሪፋ፣ ሕንፍሳ ፍርስራሽ ክትከውን እያ።",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ክብዳት"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ድማሸቅ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ድማሸቅ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ተሪፋ"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ካብ ከተማ"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ክትከውን እያ"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "ሕንፍሳ"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "ፍርስራሽ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:54:47.549240831Z",
+  "model": "glm-5.3"
+}

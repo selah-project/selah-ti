@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ቆጽ ድማ ⟨את⟩ ዓኑብን ⟨את⟩ እታ ጾበባን ⟨את⟩ ኣርባዕተ ዓይኒ ቤት ሓሩምን ወሊደ፤ ከምኡውን ኣማላት ኣኽርኸል ወዲ ሓሩም ወሊደ።",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "ቆጽ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወሊደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓኑብ"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "ዓኑብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጾበባ"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "ጾበባ"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "ኣማላት"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "ኣኽርኸል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "ሓሩም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:31:19.505327026Z",
+  "model": "glm-5.3"
+}

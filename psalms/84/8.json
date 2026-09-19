@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 84,
+  "translation": "ካብ ሓይሊ ናብ ሓይሊ ይከዱ፤ ኣብ ጽዮን ናብ ኤሎሂም ይረአዩ።",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "ይከዱ"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "ካብ ሓይሊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ሓይሊ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ይረአዩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ኣብ ጽዮን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:01.948411804Z",
+  "model": "glm-5.3"
+}

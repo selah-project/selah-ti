@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኣብ ቀዳም ⟨את⟩ ዘርእኻ ዘርዓ፣ ነቲ ምሸት እውን ኢድኻ ኣይትንቐርን፤ ምኽንያቱ ኣይትፈልጥን መን እዩ ዝኸውን — እዚ ወይ እዚ፣ ወይ ድማ ክልተቶም ብሓደ ጽቡኣት እዮም።",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "ኣብ ቀዳም"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ዘርዓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዘርእኻ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ዘርእኻ"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "ንምሸት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ተዓርይ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ኣይትፈልጥን"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ዝፈልጥ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "ዝኸውን"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ወይ ድማ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ክልተቶም"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ብሓደ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ጽቡኣት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:44:51.363132530Z",
+  "model": "glm-5.3"
+}

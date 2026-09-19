@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 98,
+  "translation": "መዝሙር። ንያህዌህ ሓድሽ መዝሙር በሉ፤ ምኽንያቱ ድሙቓት ገበረ፤ የማኑን ቅዱስ ክሳቡን ድማ ኣድሓብዎ።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ሓድሽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ድሙቓት"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "ኣድሓበ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእኡ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "የማኑን"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "ክሳቡን"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስ ናይኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:12.882976152Z",
+  "model": "glm-5.3"
+}

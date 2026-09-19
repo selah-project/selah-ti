@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ከምኡውን ን ⟨את⟩ እቶም ሓሪ ኣብ ተራሮም ስዒር፣ ክሳብ ኤል-ፓራን እታ ኣብ ልዕሊ ምድረ-በዳ ዘላ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ን ⟨את⟩",
+      "marks": "እቶም ሓሪ"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "እቶም ሓሪ"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "ኣብ ተራሮም"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ስዒር"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "ፓራን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ምድረ-በዳ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:38:19.275229998Z",
+  "model": "glm-5.3"
+}

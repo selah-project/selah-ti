@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ሕራም ድማ ንእንጉሲ ሚእቲን ዓሰርተ ክልተን ቅጫዕ ወርቂ ሰደደ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ሕራም"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ንእንጉሲ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ሚእቲ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ዓሰርተ ክልተ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ቅጫዕ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:57:39.868554746Z",
+  "model": "glm-5.3"
+}

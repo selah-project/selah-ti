@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ከምዚ በለ ያህዌህ፦ ከም'ዚ እቲ ⟨את⟩ ኩራት ናይ ይሁዳን ⟨את⟩ እቲ ዓቢ ኩራት ናይ የሩሻላይምን ኣጥፍእ።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ከም'ዚ"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ኣጥፍእ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩራት"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ኩራት"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩራት"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ኩራት"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "ዓቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:42:01.870303021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ብተግብሪ ኢድኻ ንምልካይ ኣቕርበልካዮ፤ ኩሉ ድማ ትሕቲ እግርኡ ደለይካዮ።",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "ኣቕርበልካዮ (ንምልካይ)"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "ብተግብሪ"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ናይ ኢድኻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ደለይካ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "እግርኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:36.043343437Z",
+  "model": "glm-5.3"
+}

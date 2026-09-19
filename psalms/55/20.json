@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 55,
+  "translation": "ኤል ይሰምዕ፣ ይምለሶምን እዩ፤ ካብ ቅድሚ ዝውዕል ድማ ሰላ። ለውጢ ዘይብሎም ስለ ዝኾኑ፣ ኤሎሂም ኣይደልዩን።",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "ይሰምዕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "ይምለሶም"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ዝውዕል"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ካብ ቅድሚ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ዘይብሎም"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "ለውጢ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ነኣቶም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ደልዩ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T09:01:37.976361703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ከም ምትኻእ እቲ ዝተኸታእኦ ጀሚሩ ተዓወቶ ድዩ? ከም ቅታዕቲ እቶም ዝቐተሎም ቐተሎ ድዩ?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "ከም ምትኻእ"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "እቲ ዝተኸታእኦ"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "ተዓወቶ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወይድዩ"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "ከም ቅታዕቲ"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "እቶም ዝቐተሎም"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ቐተሎ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:57:39.145463702Z",
+  "model": "glm-5.3"
+}

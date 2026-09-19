@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 64,
+  "translation": "ኤሎሂም ድማ ስሓብ ንዕላቆም ብሓግሴ ክድምዮም እዩ፤ ናታቶም ሕማቓት ክኸውን እየን።",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "ድማ ክድምዮም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "ስሓብ"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "ብሓግሴ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ክኸውን"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "ናታቶም ሕማቓት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:41.537683293Z",
+  "model": "glm-5.3"
+}

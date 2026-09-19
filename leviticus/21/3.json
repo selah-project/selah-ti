@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ድማ ንኣሕቱ እታ ዓባይቲ፣ ቅርቢት ናብኡ ዝኾነት፣ ንሰብ ዘይነበረቶም — ንኣታ ንጽኣእ።",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "ንኣሕቱ"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "እታ ዓባይቲ"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "ቅርቢት ናብኡ ዝኾነት"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ናብኡ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይነበረትን"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነበረት"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ንሰብ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ንኣታ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ንጽኣእ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:24.998121332Z",
+  "model": "glm-5.3"
+}

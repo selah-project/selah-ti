@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ባዶነት እዮም፣ ግብሪ ተሳዕቢ እዩ፤ ኣብ ዕዜት ቅጽሮም ይጠፍኡ።",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "ባዶነት"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እዮም"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ግብሪ"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "ተሳዕቢ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ኣብ ዕዜት"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "ቅጽሮም"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ይጠፍኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:35:59.571473575Z",
+  "model": "glm-5.3"
+}

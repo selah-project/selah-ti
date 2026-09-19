@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ምኽንያቱ ልቦም ውድቀት ይሓስብ፣ ከንፈታቶም ድማ ንጥፍኣት ይዛረባ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ውድቀት"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ይሓስብ"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ልቦም"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ድማ ንጥፍኣት"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "ከንፈታቶም"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "ይዛረባ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:55:07.258828341Z",
+  "model": "glm-5.3"
+}

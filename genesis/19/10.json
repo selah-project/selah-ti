@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "እቶም ተባዕታት ⟨את⟩ ኢዶም ወፊኖም ንሎት ⟨את⟩ ናብኦም ናብ ቤት ኣእቱዎ፣ ነቲ ኣፍልን ⟨את⟩ ዓጸዉ።",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ወፊኖም"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "እቶም ተባዕታት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢዶም"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ኢዶም"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ኣእቱዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሎት"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ሎት"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ናብኦም"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ናብ ቤት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ኣፍል"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ነቲ ኣፍል"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "ዓጸዉ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:40:37.514375605Z",
+  "model": "glm-5.3"
+}

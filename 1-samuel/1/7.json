@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ከምኡ ድማ ዓመት ብዓመት ይገብር ነይሩ፤ ንሳ ነቲ ናብ ቤት ያህዌህ እናወጣ ካብ ዝነበረትሉ ዕለት ኩሉ ከምኡ ትጽግሓ ነይራ፤ ንሳ ድማ ተበለሰት፣ ኣይበልዐን።",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "ከምኡ ድማ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ይገብር ነይሩ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ብዓመት"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ንሳ ነቲ ዕለት ኩሉ"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "እናወጣ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "ትጽግሓ"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "ተበለሰት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "በልዐ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:55:43.788165252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ፍረኦም ካብ ምድሪ ትጠፍእ፣ ዘርኣቶም ድማ ካብ ውላደ ሰብ።",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "ፍረኦም"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ትጠፍእ"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "ዘርኣቶም ድማ"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ካብ ውላደ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:41.589139328Z",
+  "model": "glm-5.3"
+}

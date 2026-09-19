@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 12:1",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኤፓርይም ብሓሶት ዐውረኒ፣ ቤት እስራኤል ድማ ብውሽጢ ዐወረኒ፤ ይሁዳ ገና ምስ ኤል ዝተሓላወሰ፣ ምስ ቅዱሳት ድማ ⟨is⟩ ተኣማን እዩ።",
+  "tokens": [
+    {
+      "surface": "סבבני",
+      "gloss": "ዐውረኒ"
+    },
+    {
+      "surface": "בכחש",
+      "gloss": "ብሓሶት"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፓርይም"
+    },
+    {
+      "surface": "ובמרמה",
+      "gloss": "ብውሽጢ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ገና"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ዝተሓላወሰ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "קדושים",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "ተኣማን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:10:15.821779095Z",
+  "model": "glm-5.3"
+}

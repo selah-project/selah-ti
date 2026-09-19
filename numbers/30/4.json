@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 30:4",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ሰበይቲ ውን ኣብ ቤት ኣቦኣ ኣብ ወጻእታ ንያህዌህ ስግኢት እንተ ተስግዐት፣ ወይ ዓቢ እንተ ዓበየት።",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "ሰበይቲ ውን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ተስግዐት"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ስግኢት"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "ואסרה",
+      "gloss": "ዓበየት"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ኣቦኣ"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "ኣብ ወጻእታ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:31:49.347619794Z",
+  "model": "glm-5.3"
+}

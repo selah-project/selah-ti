@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ያህዌህ ድማ ቅድሚ ሓደ መዓልቲ ኣብ ቅድሚ እተመጸ ሻኡል፣ ነቲ ⟨את⟩ እዝኒ ሽሙኤል ኣፍሪሙ ነበረ፦",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ ድማ"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ኣፍሪሩ ነበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ እዝኒ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "እዝኒ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ናይ ሽሙኤል"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ሓደ መዓልቲ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "እተመጸ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ነበረ፦"
+    }
+  ],
+  "timestamp": "2026-09-19T00:03:44.219427082Z",
+  "model": "glm-5.3"
+}

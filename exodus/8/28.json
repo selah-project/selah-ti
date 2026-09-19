@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ፓርዖ ድማ ⟨את⟩ ልቡ ነታ እውን ኣጀነዓ፣ ⟨את⟩ ህዝቢ ድማ ኣይሰደኖን።",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "ኣጀነዓ ድማ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልቡ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ነታ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ነዚ እዚ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን ድማ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ሰደነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ህዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:17:30.992353495Z",
+  "model": "glm-5.3"
+}

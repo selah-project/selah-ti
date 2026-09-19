@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ኣብ ማይ ምሪባ ድማ ኣስቐዝኡዎ፣ ስለኣቶም ኸቢድ ነገር ንሞሸ ኰነ።",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "ኣስቐዝኡዎ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "ምሪባ"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "ኸቢድ ኰይኑ"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ንሞሸ"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "ስለኣቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T09:04:03.341565483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 53,
+  "translation": "ብግዝኣትን ብፍትሕን ተወሲዱ፣ ነቲ ⟨את⟩ ትውልዱ ድማ መን ክገልጾ? ስለ ብሓጢያት ህዝበይ ካብ ምድሪ ህይወት ተቐጺረ፣ ንኣንቱ ተመትቖ።",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "ብግዝኣት"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "ብፍትሕን"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ተወሲዱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ነቲ ⟨את⟩",
+      "marks": "ትውልዱ"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "ትውልዱ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "ክገልጾ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "ተቐጺረ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ህይወት"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "ብሓጢያት"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ህዝበይ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ተመትቖ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ንኣንቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:17:31.497416692Z",
+  "model": "glm-5.3"
+}

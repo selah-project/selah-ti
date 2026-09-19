@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 59,
+  "translation": "ናብ ፈነዳ ድማ ይመልሱ፣ ከም በዓይ ይጎርፉ፣ ከተር እናዞርዞሩ ይከይዱ።",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "ይመልሱ"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "ናብ ፈነዳ"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ይጎርፉ"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "ከም በዓይ"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "እናዞርዞሩ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:03.156066758Z",
+  "model": "glm-5.3"
+}

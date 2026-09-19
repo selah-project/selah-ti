@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ከምኡውን ⟨את⟩ ሕሎንን ⟨את⟩ እርማድኣን ⟨את⟩ ደቢርን ⟨את⟩ እርማድኣን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሕሎን"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "ሕሎን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እርማድኣ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "እርማድኣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ደቢር"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ደቢር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እርማድኣ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "እርማድኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:30:42.261168753Z",
+  "model": "glm-5.3"
+}

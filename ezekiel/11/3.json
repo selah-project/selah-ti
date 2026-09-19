@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "«ኣብ ቅርቢ ኣይኮነን፤ ቤታት ንሃንጽ፤ እዛ ስኒ እያ፣ ንሕና ድማ እቲ ስጋ ኢና» ዝብሉ።",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "ዝብሉ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "ኣብ ቅርቢ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ንሃንጽ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ቤታት"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እያ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ስኒ"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "እቲ ስጉ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:28:44.735383223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 6:4",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ሓንሳብ ⟨את⟩ ረዓይተይ ኢኻ፣ ከም ትርጻ፤ ውዑይቲ ከም የሩሻላይም፤ ንምድምዳም ዘራእያ ከም ሰራዊት ምስ ሰንደቓት።",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "ሓንሳብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ረዓይተይ ኢኻ"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ረዓይተይ"
+    },
+    {
+      "surface": "כתרצה",
+      "gloss": "ከም ትርጻ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ውዑይቲ"
+    },
+    {
+      "surface": "כירושלם",
+      "gloss": "ከም የሩሻላይም"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "ንምድምዳም ዘራእያ"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "ከም ሰራዊት ምስ ሰንደቓት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:28:15.514975983Z",
+  "model": "glm-5.3"
+}

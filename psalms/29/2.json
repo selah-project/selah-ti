@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ንያህዌህ ነቲ ንስምኡ ዝጾር ክብሪ ሃቡ፤ ንያህዌህ ብውዑይ ቅዱስነት ተሰገዱ።",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ሃቡ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ንስምኡ"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "ተሰገዱ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "ብውዑይ ቅዱስነት"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስነት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:41.986109201Z",
+  "model": "glm-5.3"
+}

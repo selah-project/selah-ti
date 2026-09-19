@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣብ መዓልታት ኣኻሽወሮሽ ብዝኾነ ዝነበረ — ንሱ ኣኻሽወሮሽ እዩ፣ እቲ ካብ ሆዱ ክሳብ ኩሽ ኣብ ላዕሊ ምእታት-ሓድ ዕስራን ሸውዓተን ንግስታት ዝኻወን።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ዝነበረ"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ኣብ መዓልታት"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "ኣኻሽወሮሽ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "ኣኻሽወሮሽ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ዝኻወን"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "ካብ ሆዱ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ኩሽ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ዕስራ"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ምእታት-ሓድ"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "ንግስታት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:48:30.139466967Z",
+  "model": "glm-5.3"
+}

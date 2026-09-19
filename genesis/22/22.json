@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "⟨ואת⟩ ኽሸድን ⟨ואת⟩ ኽዞን ⟨ואת⟩ ፊልዳሽን ⟨ואת⟩ ይድላፍን ⟨ואת⟩ ቡቱኤልን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ኽሸድ"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "ኽሸድ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ኽዞ"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ኽዞ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ፊልዳሽ"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "ፊልዳሽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ይድላፍ"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "ይድላፍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ቡቱኤል"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "ቡቱኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T20:44:56.017101295Z",
+  "model": "glm-5.3"
+}

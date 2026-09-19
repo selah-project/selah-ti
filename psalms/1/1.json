@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣሸፈሩ እቲ ሰብ፣ እቲ ኣብ ምኽርቲ ኣብያት እንተ ዘይኸድዎን፣ ኣብ በገ ኣጥፊኣት እንተ ዘይተቐመጠን፣ ኣብ መንበር ኸራስቲ እንተ ዘይቖሞን።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ኣሸፈሩ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ዝኸድዎ"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "ኣብ ምኽርቲ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኣብያት"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "ኣብ በገ…ን"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ኣጥፊኣት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ዝተቐመጥ"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "ኣብ መንበር…ን"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "ኸራስቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ዝቖሞ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:43:12.328614996Z",
+  "model": "glm-5.3"
+}

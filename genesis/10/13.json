@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 10:13",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ከምኡውን ሚጽራይም ⟨את⟩ ሉዲምን ⟨את⟩ ዓናሚምን ⟨את⟩ ለሓቢምን ⟨את⟩ ናፍቱሕምን ወለደ።",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "ከምኡውን ሚጽራይም"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሉዲም"
+    },
+    {
+      "surface": "לודים",
+      "gloss": "ሉዲምን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓናሚም"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "ዓናሚምን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ለሓቢም"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "ለሓቢምን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ናፍቱሕም"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "ናፍቱሕምን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:28.487996371Z",
+  "model": "glm-5.3"
+}

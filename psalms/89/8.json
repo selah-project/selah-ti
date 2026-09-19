@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ኤል ኣብ ስውር ቅዱሳት ብዙሕ ዝሕዘን እዩ፣ ንኹሎም እቶም ኣብ ዙርያኡ ዝርከቡን ድማ ዝጥሕዝ እዩ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "ዝሕዘን"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "ኣብ ስውር"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ዝጥሕዝ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሎም"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "ኣብ ዙርያኡ ዝርከቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:21.095965773Z",
+  "model": "glm-5.3"
+}

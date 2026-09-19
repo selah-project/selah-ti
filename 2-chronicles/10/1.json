@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ረሓብዓም ድማ ናብ ሽኬም ከደ፤ ምኽንያቱ ኩሉ ይስራኤል ንምዝዞ ⟨את⟩ ነታ ናብ ሽኬም መጸ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ረሓብዓም"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "ናብ ሽኬም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ሽኬም"
+    },
+    {
+      "surface": "באו",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "ንምዝዞ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ነታ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:02:06.030475144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 22:12",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ሻኡል ድማ «ስማዕ ሕጂ፡ ወዲ ኣሕጥብ» በለ፤ ንሱ ድማ «እንሆ ኣለኹ፡ ጎይታይ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ስማዕ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ኣሕጥብ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እንሆ ኣለኹ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጎይታይ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:13:38.812650707Z",
+  "model": "glm-5.3"
+}

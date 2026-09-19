@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ይጽሓቅ ድማ ⟨את⟩ ያዕቆብ ሰደደ፤ ንሱ ድማ ናብ ላባን ወዲ ቤቱኤል እቲ ኣራሚ፣ ናይ ርብቃ ሓው፣ ኣደ ያዕቆብን ዓሳውን፣ ናብ ፓዳን ኣራም ከደ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይጽሓቅ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያዕቆብ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "ፓዳን"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ላባን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "ቤቱኤል"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "እቲ ኣራሚ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ሓው"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ርብቃ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ኣደ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆብን"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ዓሳውን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:50:53.097454465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ያህዌህ ኤሎሂምኩም ኣብ ቅድምኩም ዝኾነ ንሱ ንኩም ክቃለስ እዩ፣ ከም ኩሉ እቲ ኣብ ሚጽራይም ብዓይንኹምኩም ⟨את⟩ ዝገበረኩም።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "እቲ ዝኾነ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ኣብ ቅድምኩም"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "ክቃለስ እዩ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኩም"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ከም ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበረ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንኩም"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ኣብ ሚጽራይም"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "ብዓይንኹምኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:45:17.893071269Z",
+  "model": "glm-5.3"
+}

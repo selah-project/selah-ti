@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ኣብ ያህዌህ ኣመን፣ ጽቡቕ ግበር፣ ኣብ ምድሪ ኣብዝን፣ ኣማናዊነት ድማ ርእየ።",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "ኣመን፣"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ኣብ ያህዌህ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ግበር፣"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡቕ"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ኣብዝን፣"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ርእየ፣"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ኣማናዊነት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:38.388648705Z",
+  "model": "glm-5.3"
+}

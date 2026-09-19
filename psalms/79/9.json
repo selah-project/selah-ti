@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 79,
+  "translation": "ኤሎሂም ናይ ማዕረትና ሓውርና፣ ስለ ቃል ኽብሪ ስምካ፣ ናውቐናን ንኃጢኣታትና ኣሕግርናን፣ ንውን ስምካ።",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "ሓውርና"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "ናይ ማዕረትና"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ኽብሪ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምካ"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "ናውቐናን"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ኣሕግርናን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "ኃጢኣታትና"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ንውን"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምካ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:16.377507118Z",
+  "model": "glm-5.3"
+}

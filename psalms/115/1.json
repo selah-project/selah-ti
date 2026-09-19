@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 115,
+  "translation": "«ኣይኮነን ንሕና፣ ያህዌህ፣ ኣይኮነን ንሕና፣ ነታ ንስምካ ክብሪ ሃብ፣ ስለ ሔሴድካ፣ ስለ ሓቂኻ።»",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነታ"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ንስምካ"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ሃብ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሔሴድካ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ሓቂኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:31.914131910Z",
+  "model": "glm-5.3"
+}

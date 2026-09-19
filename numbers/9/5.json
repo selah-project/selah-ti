@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣብ እቲ ቐዳማይ ወርሒ፣ ኣብ ዓሰርተ ኣርባዕተ መዓልቲ ናይ ወርሒ፣ ብመንፈቀ ለይቲ፣ ኣብ ምድረ በረሃ ሲና ⟨את⟩ ፋሲካ ተገበሩ፤ ከም ኩሉ ዝዓዘዞ ያህዌህ ⟨את⟩ ሞሸ፣ ከምኡ ኣበለት ውላደ እስራኤል።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ተገበሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፋሲካ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ፋሲካ"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "ኣብ እቲ ቐዳማይ"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ናይ ወርሒ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ብመንፈቀ"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ለይቲ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድረ በረሃ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ሲና"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ከም ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ዝዓዘዞ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ኣበለት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:20:22.658392123Z",
+  "model": "glm-5.3"
+}

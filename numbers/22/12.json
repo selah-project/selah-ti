@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኤሎሂም ነቢልዓም እናበሎ፦ «ምሶም ኣይትኸድን፤ ነቲ ህዝቢ ⟨את⟩ ኣይትርገምን፤ ምኽንያቱ ተባረከ እዩ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እናበሎ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቢልዓም"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ቢልዓም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይን"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ትኸድን"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "ምሶም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይን"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ትርገምን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ህዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ነቲ ህዝቢ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ተባረከ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:31:29.826461396Z",
+  "model": "glm-5.3"
+}

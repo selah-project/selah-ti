@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ኩሉ ቀዳማይ ውላድ ኣብ ምድሮም ድማ ተታዮ፣ መጀመርታ ናይ ኩሉ ሓይሎም።",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ተታዮ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ቀዳማይ ውላድ"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "ኣብ ምድሮም"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "መጀመርታ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ሓይሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:17.321281469Z",
+  "model": "glm-5.3"
+}

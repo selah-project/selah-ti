@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ሓሳባት ቅኑዋት ምጽድቂ እዮም፤ መክርታት ኣመንዲቓት ድማ ሓሶት እዮም።",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "ሓሳባት"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ቅኑዋት"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ምጽድቂ"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "መክርታት"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኣመንዲቓት"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ሓሶት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:47:34.031122910Z",
+  "model": "glm-5.3"
+}

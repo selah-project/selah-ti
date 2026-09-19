@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 145,
+  "translation": "ጽድቃዊ እዩ ያህዌህ ኣብ ኩሉ መገዱ፣ ሰናይ እዩ ኣብ ኩሉ መስራሕቱ።",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ጽድቃዊ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "መገዱ"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "ሰናይ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "መስራሕቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:53.734518910Z",
+  "model": "glm-5.3"
+}

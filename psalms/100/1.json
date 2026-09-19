@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 100,
+  "translation": "መዝሙር ናይ ውዳሴ፤ ኩሉ ምድሪ ንያህዌህ ኣሰማዕ።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "ናይ ውዳሴ"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ኣሰማዕ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:01.491013983Z",
+  "model": "glm-5.3"
+}

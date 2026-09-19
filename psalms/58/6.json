@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 58,
+  "translation": "ነቲ ናብ ድምጺ ምሉሃሽ ዘይሰምዕ፣ እኳ እቲ ብዝዀነ ጥበባዊ ዝኾነ ማንታ እናተኸድነ እዩ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ሰምዕ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ናብ ድምጺ"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "ምሉሃሽ"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "እናተኸድነ"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "ማንታት"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "ብዝዀነ ጥበባዊ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:02:55.787618695Z",
+  "model": "glm-5.3"
+}

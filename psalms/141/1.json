@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 141,
+  "translation": "መዝሙር ናይ ዳዊድ። ያህዌህ ንዓኻ ቐሪኹ፣ ብቕልሒ ናብ ኣይ በጽሕ፣ ንድምጺ ኣነ ኩርዓይ ንዓኻ እናበልኩ እቲ እዚ ስምዑ።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ቐሪኹ ንዓኻ"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ብቕልሒ በጽሕ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ናብ ኣይ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "እዚ ስምዑ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ንድምጺ ኣነ"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "እናበልኩ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንዓኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:59.752432536Z",
+  "model": "glm-5.3"
+}

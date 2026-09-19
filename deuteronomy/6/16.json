@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኣይተፈትኑን ⟨את⟩ ያህዌህ ኤሎሂምኩም፣ ከም ዝፈተንኩምዎ ኣብ ማሳሕ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "ኣተፈትኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂምኩም"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "ዝፈተንኩምዎ"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "ኣብ ማሳሕ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:48:21.211360012Z",
+  "model": "glm-5.3"
+}

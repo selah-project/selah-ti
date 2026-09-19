@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "ርዕድቲ ኣብዚ ኸዓኖም፤ ጸባእ ከም እታ ወሊድቲ።",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "ርዕድቲ"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "ኸዓኖም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብዚ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ጸባእ"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "ከም እታ ወሊድቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:18.738155571Z",
+  "model": "glm-5.3"
+}

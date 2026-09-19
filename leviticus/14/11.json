@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "እቲ ዝንጽሕ ኻህን ድማ ነቲ ⟨את⟩ ሰብ እቲ ዝንጽሕን ⟨את⟩ ነኣቱን ብዛዕቢ ያህዌህ ኣብ በዓቲ ድንኳን ስብሓ ከሰልጥኖም።",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "ከሰልጥኖም"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ኻህን"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "እቲ ዝንጽሕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ሰብ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ነቲ ሰብ"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "እቲ ዝንጽሕ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "⟨את⟩",
+      "marks": "ነኣቱን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ብዛዕቢ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣብ በዓቲ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ስብሓ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:56:34.314296914Z",
+  "model": "glm-5.3"
+}

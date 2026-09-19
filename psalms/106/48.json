@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ብሩኽ እዩ — ናይ እስራኤል ኤሎሂም ያህዌህ ካብ ዘለኣለም ክሳብ ዘለኣለም፤ ኩሉ ኸኣ ህዝቢ «ኣሜን» ይብል፤ ያህ ሰብሕዎ።",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ብሩኽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ናይ እስራኤል"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ዘለኣለም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ዘለኣለም"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ይብል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ኣሜን"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ሰብሕዎ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:58.620613974Z",
+  "model": "glm-5.3"
+}

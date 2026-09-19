@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ኩሉ ሥጋ ብትሕቲ ይሞት፣ ሰብ ድማ ናብ አፍሰ ይመልስ።",
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "ይሞት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ሥጋ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ብትሕቲ"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ሰብን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "አፍሰ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ይመልስ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:21:33.225515266Z",
+  "model": "glm-5.3"
+}

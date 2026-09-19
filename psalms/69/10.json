@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "ምኽንያቱ ቅንየት ናይ ቤትካ በልዐተኒ፣ ስዕባት ኣውሒብቲኻ ድማ ኣብ ልዕለይ ወረደብወ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ቅንየት"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ናይ ቤትካ"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "በልዐተኒ"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "ወይ ስዕባት"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "ኣውሒብቲኻ"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ወረደብወ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕለይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:36.268074154Z",
+  "model": "glm-5.3"
+}

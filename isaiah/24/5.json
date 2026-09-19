@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 24:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "እታ ምድሪ ብትሕቲ ኣበይታኣ ተበጽሐት፣ ምኽንያቱ ቶራ ሓልፎ፣ ⟨እቲ⟩ ሕብረተ-ስርዓት ቐይሮ፣ ⟨እቲ⟩ ናይ ዘለኣለም ኪዳን ሓሪሮም።",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "חנפה",
+      "gloss": "ተበጽሐት"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ብትሕቲ"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "ኣበይታኣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ሓልፎ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "חלפו",
+      "gloss": "ቐይሮ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ሕብረተ-ስርዓት"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "ሓሪሮም"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:58:30.780816829Z",
+  "model": "glm-5.3"
+}

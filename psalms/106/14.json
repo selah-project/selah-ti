@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ኣብ በዳ ተደለዩ፡ ኣብ ምድረ ጥራይ ድማ ኤል ኣፈተኑ።",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "ተደለዩ"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "ምስምዕ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ በዳ"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ኣፈተኑ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "ኣብ ምድረ ጥራይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:04.062428108Z",
+  "model": "glm-5.3"
+}

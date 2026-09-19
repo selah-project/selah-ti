@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ንሳቱን ኣብ መገዲ እቲ ስዓቢ ከይዩ፣ ልቡ ዝነኣ እዩ፤ ነኩሉ ሰብ ከኣ ስዓቢ ምዃኑ ይነግር እዩ።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ንሳቱን"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መገዲ"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "እቲ ስዓብ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ከይዩ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ዝነኣ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ይነግር"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ነኩሉ"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ስዓቢ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ምዃኑ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:45:59.280251140Z",
+  "model": "glm-5.3"
+}

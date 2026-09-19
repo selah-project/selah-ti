@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 51,
+  "translation": "ንመሪሕ ዜማ። ምዝማዕ ናይ ዳዊድ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንመሪሕ ዜማ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ምዝማዕ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:19.046014628Z",
+  "model": "glm-5.3"
+}

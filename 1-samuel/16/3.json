@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "«ኣብ ወፈያ ድማ ይሳይ ተዛረቦ፤ ኣነ ድማ ⟨את⟩ እቲ ክትገብሮ ክፈልጠካ እየ፤ ⟨את⟩ እቲ ንዓይ ዝቐብእሉ ድማ — እቲ ንሳብ ዝብለካ — ቐብእ።»",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "ተዛረቦ"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "ይሳይ"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "ኣብ ወፈያ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "ክፈልጠካ እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ክትገብሮ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ክትገብሮ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ክትገብሮ"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ቐብእ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ዝቐብእሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝቐብእሉ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ዝብለካ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ንስኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:08:19.709053474Z",
+  "model": "glm-5.3"
+}

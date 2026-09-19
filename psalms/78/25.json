@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ናይ ሓያላት እኳ በልዐ፤ ቕበላ ናብ ምስሶም ንኽጎበኡ ሰደደ።",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "እኳ"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "ናይ ሓያላት"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "በልዐ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እኩላት"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "ቕበላ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ናብ ምስሶም"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "ንኽጎበኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:04.970450800Z",
+  "model": "glm-5.3"
+}

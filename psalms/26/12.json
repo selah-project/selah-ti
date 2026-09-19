@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "እግረይ ኣብ ማሕደር ቅኑዕ ተቐሚጣ፣ ኣብ ጉባኤታት ያህዌህ ኣብፍትኽ።",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "እግረይ"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "ተቐሚጣ"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "ኣብ ማሕደር ቅኑዕ"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "ኣብ ጉባኤታት"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "ኣብፍትኽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:37.935471515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ክፉእ ግብሪ ሓሶት ይገብር፤ ጽድቂ ዘራዒ ድማ ዋጋ ሓቂ ይወስድ።",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ይገብር"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ግብሪ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ዘራዒ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ዋጋ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ሓቂ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:47:03.388628914Z",
+  "model": "glm-5.3"
+}

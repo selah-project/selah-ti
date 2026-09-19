@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 2:13",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ይሽይ ድማ ንቀዳማይ ወዲኡ ⟨את⟩ ኤልያብ ወሲዱ፤ ኣቢናዳብ ካልኣይ፣ ሽምዓ ሳልሳይ።",
+  "tokens": [
+    {
+      "surface": "ואישי",
+      "gloss": "ይሽይ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቀዳማይ ወዲኡ"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ቀዳማይ ወዲኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤልያብ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ኤልያብ"
+    },
+    {
+      "surface": "ואבינדב",
+      "gloss": "ኣቢናዳብ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ካልኣይ"
+    },
+    {
+      "surface": "ושמעא",
+      "gloss": "ሽምዓ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ሳልሳይ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:29:03.751196446Z",
+  "model": "glm-5.3"
+}

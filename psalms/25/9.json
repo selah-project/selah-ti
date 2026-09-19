@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ኣሕዙቓት ብስርዓት ይመርሖም፣ ኣሕዙቓት ድማ መንገዱ የምሃሮም።",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "ይመርሕ"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ኣሕዙቓት"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ብስርዓት"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "የምሃር"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ኣሕዙቓት"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "መንገዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:22.607605030Z",
+  "model": "glm-5.3"
+}

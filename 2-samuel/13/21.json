@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ዳዊድ ንጉስ ⟨את⟩ ኩሉ እዚኦም ቃላት ሰምዐ፤ ንሱ ድማ ብጣዕሚ ደለበ።",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ንጉስ ድማ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እዚኦም ቃላት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ደለበ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:28:32.242412396Z",
+  "model": "glm-5.3"
+}

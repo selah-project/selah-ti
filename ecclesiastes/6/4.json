@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኩሉ ሰብ — ምኽንያቱ ኣብ ባዶነት ምስ መጸ፣ ኣብ ጸልማት ድማ ይከይድ፣ ስሙ እውን ኣብ ጸልማት ይሓብእ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "ኣብ ባዶነት"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ምስ መጸ"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ኣብ ጸልማት"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ይከይድ"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ኣብ ጸልማት"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ይሓብእ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:43:56.173333094Z",
+  "model": "glm-5.3"
+}

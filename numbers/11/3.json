@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ስም እቲ ቦታ እቲ ድማ ታባዕራ ተባዓለ፤ ምኽንያቱ ናይ ያህዌህ ሓዊ ኣብ መእተዊኦም ተቐጸለ።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ተባዓለ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "እቲ ቦታ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "ታባዕራ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "ተቐጸለ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ኣብ መእተዊኦም"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:21:42.322131083Z",
+  "model": "glm-5.3"
+}

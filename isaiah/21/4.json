@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ልበይ ተበላሸለ፣ ጽልኩት ሰርሐተኒ፤ ⟨את⟩ ምድሕረቢት ዓድና ንዓይ ናብ ስጉምቲ ገበረ።",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "ተበላሸለ"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "ጽልኩት"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "ሰርሐተኒ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሕረቢት ዓድና"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "ምድሕረቢት"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "ዓድና"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "ናብ ስጉምቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:53:30.257233103Z",
+  "model": "glm-5.3"
+}

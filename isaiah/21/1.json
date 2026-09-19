@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ቕጽለተ በረኻ ባሕሪ፦ ከም ንፋሳት ኣብ ደቡብ ኮይነን ክሓልፋ፣ በዚ ኣገባብ ካብ በረኻ፣ ካብ ምድሪ እትፈርሕ መጺኡ እዩ።",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ቕጽለተ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "በረኻ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "ከም ንፋሳት"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "ኣብ ደቡብ"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "ንምሓልፍ"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ካብ በረኻ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጺኡ እዩ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "እትፈርሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:53:30.256526531Z",
+  "model": "glm-5.3"
+}

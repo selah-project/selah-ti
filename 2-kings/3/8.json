@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "«ኣበይ እታ መገዲ ንወጽእ ኢና?» በለ፤ ንሱ ድማ «መገዲ ምድረ-በዳ ኣዶም» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ኣበይ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "እታ መገዲ"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "ንወጽእ ኢና"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መገዲ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ምድረ-በዳ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኣዶም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:14:35.685446162Z",
+  "model": "glm-5.3"
+}

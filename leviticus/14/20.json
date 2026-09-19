@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ካህን ⟨את⟩ እታ ዕላልን ⟨את⟩ እታ ቍርባንን ኣብ መሠዊኽ ኣሪዑ፤ ካህን ድማ ይምህሮ፣ ንሱ ድማ ይጥሕም።",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "ኣሪዑ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ዕላል"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ዕላል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ቍርባን"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ቍርባን"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ኣብ መሠዊኽ"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ይምህር"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ይጥሕም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:56:30.996161680Z",
+  "model": "glm-5.3"
+}

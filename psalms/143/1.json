@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 143,
+  "translation": "መዝሙር ናይ ዳዊድ። ያህዌህ፣ ንጸሎተይ ስምዐ፣ ንበረኻይ ኣዳምስ፣ ብኣማናይነትካ መልሰኒ፣ ብጽድቅኻ።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ስምዐ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ንጸሎተይ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ኣዳምስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "በረኻይ"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "ብኣማናይነትካ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "መልሰኒ"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ብጽድቅኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:23.643053436Z",
+  "model": "glm-5.3"
+}

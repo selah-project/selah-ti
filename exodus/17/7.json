@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 17:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ንስም እቲ ቦታ ድማ ማሳን ምሪባን በሎ፣ ስለ ግዝኣት ውላድ እስራኤል፣ ከምኡውን ስለ ዝፈተኑ ⟨את⟩ ያህዌህ፣ እና ብለው፦ «ያህዌህ ኣብ መንጎና ኣሎ ወይስ የለን?»",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ሰይመ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ንእቲ ቦታ"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "ማሳ"
+    },
+    {
+      "surface": "ומריבה",
+      "gloss": "ምሪባ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ግዝኣት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ከምኡውን ስለ"
+    },
+    {
+      "surface": "נסתם",
+      "gloss": "ፈተኖም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እና በለ"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ዶ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בקרבנו",
+      "gloss": "ኣብ መንጎና"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ወይስ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:25:50.808269821Z",
+  "model": "glm-5.3"
+}

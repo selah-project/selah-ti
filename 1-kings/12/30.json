@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "እዚ ቃል እዚ ንሓጢኣት ተበገሰ፤ ሕዝቢ ድማ ክሳብ ዳን ናብ ቅድሚ እቲ ሓደ ይኸይድ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኰነ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "እቲ ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ንሓጢኣት"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ኰኑ እናኸዱ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ናብ ቅድሚ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "እቲ ሓደ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ዳን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:00:39.830347501Z",
+  "model": "glm-5.3"
+}

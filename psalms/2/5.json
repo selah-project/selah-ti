@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ድሕሪኡ ብቁሕኡ ክዛረቦም እዩ፣ ብጽንፊ ጥምቃዑ ድማ ክሰትሮም እዩ።",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ድሕሪኡ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ክዛረቦም"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "ንእቶም"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ብቁሕኡ"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "ብጽንፊ ጥምቃዑ"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "ክሰትሮም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:53.580175876Z",
+  "model": "glm-5.3"
+}

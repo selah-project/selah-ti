@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 65,
+  "translation": "ንስኻ ብጸልማት ምስገምታ ⟨ኣሎ⟩ ኤሎሂም ኣብ ጽዮን፣ ንስኻ ድማ እቲ ናይ ኪዳን ቃል ይፍጸም።",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "ብጸልማት"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ምስገምታ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ኣብ ጽዮን"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ንስኻ ድማ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ይፍጸም"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ናይ ኪዳን ቃል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:45.107259020Z",
+  "model": "glm-5.3"
+}

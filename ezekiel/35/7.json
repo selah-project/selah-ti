@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ከምኡ እውን ⟨את⟩ እቲ ከርነ ስዒር ናብ ሃብሪቲን ጽምቢትን ክህቦ እየ፣ ካብኡ ድማ ዝሓልፍን ዝመልስን ክቐጥፎ እየ።",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ክህ቎ እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ከርነ ስዒር"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ከርነ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ስዒር"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "ናብ ሃብሪቲ"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "ጽምቢት"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ክቐጥፎ እየ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ዝሓልፍ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ዝመልስ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:51:42.619881719Z",
+  "model": "glm-5.3"
+}

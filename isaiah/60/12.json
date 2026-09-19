@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 60,
+  "translation": "ምኽንያቱ እቲ ህዝቢን እታ መንግስቲን ኣይገልጹኪን ዝኾነ ይጠፍኡ፤ እቶም ህዝብታትን ሓንሳብ ክጠፍኡ እዮም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "እታ መንግስቲን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "ገልጹኪን"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ይጠፍኡ"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "እቶም ህዝብታትን"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሓንሳብ"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "ክጠፍኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:21:37.552046658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 3:4",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ራብዓይ ድማ ኣዶኒያ ወዲ ኃጊት፤ ሓምሻይ ድማ ሸፍጣያ ወዲ ኣቢጣል።",
+  "tokens": [
+    {
+      "surface": "והרביעי",
+      "gloss": "ራብዓይ ድማ"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "ኣዶኒያ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "ኃጊት"
+    },
+    {
+      "surface": "והחמישי",
+      "gloss": "ሓምሻይ ድማ"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "ሸፍጣያ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אביטל",
+      "gloss": "ኣቢጣል"
+    }
+  ],
+  "timestamp": "2026-09-19T00:22:01.961896052Z",
+  "model": "glm-5.3"
+}

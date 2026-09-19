@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "እቲ ምስ ዝኾነ እንስሳ ዚተኛ ርጉም እዩ፤ ኩሉ ህዝቢ ድማ ኣሜን ይብል።",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ርጉም"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ዚተኛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "እንስሳ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ይብልድማ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ኣሜን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:07:06.825778751Z",
+  "model": "glm-5.3"
+}

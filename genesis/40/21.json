@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "እቲ ሻር ናይቶም ማዕድቲ ⟨את⟩ ናብ ማዕድኡ መለሶ፤ እቲ ጽዓሪ ኣብ ኢድ ፓርዖ ድማ ሃቦ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "መለሶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሻር"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ሻር"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ናይቶም ማዕድቲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "ማዕድኡ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሃቦ"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ጽዓሪ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:58:54.093337063Z",
+  "model": "glm-5.3"
+}

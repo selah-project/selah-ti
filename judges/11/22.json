@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ወረስዎም ⟨את⟩ ኩሉ ድንበር ኣሞራይ፣ ካብ ኣርኖን ክሳብ ያቦቅን ካብ ባርሳ ክሳብ ዮርዳኖስን።",
+  "tokens": [
+    {
+      "surface": "ויירשׂו",
+      "gloss": "ወረስዎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ድንበር ኣሞራይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ድንበር"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ኣሞራይ"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "ካብ ኣርኖን"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "ያቦቅ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ባርሳ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ዮርዳኖስ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:46:21.983131803Z",
+  "model": "glm-5.3"
+}

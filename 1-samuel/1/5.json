@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ንሓንሳ ድማ ካብ ኣፒም ሓደ ምንኛ ሃበ፣ ምኽንያቱ ⟨את⟩ ሓንሳ ይፈትዋ ነይሩ፣ ያህዌህ ድማ ማሕጸና ዐጸቑ።",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "ንሓንሳ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "ምንኛ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ካብ ኣፒም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓንሳ"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "ሓንሳ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ይፈትዋ ነይሩ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ ድማ"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ዐጸቑ"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "ማሕጸና"
+    }
+  ],
+  "timestamp": "2026-09-18T23:55:43.787763492Z",
+  "model": "glm-5.3"
+}

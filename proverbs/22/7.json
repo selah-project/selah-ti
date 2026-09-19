@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ዝበለጸ ሰብ ኣብ ድኻታት ይእዝዝ፣ ዝወስድ ዕድ ድማ ተገዛዊ ናይ ሃቢ ሰብ እዩ።",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "ዝበለጸ ሰብ"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "ኣብ ድኻታት"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "ይእዝዝ"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ተገዛዊ ድማ"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "ዝወስድ ዕድ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ናይ ሰብ"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "ሃቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:04:34.092202811Z",
+  "model": "glm-5.3"
+}

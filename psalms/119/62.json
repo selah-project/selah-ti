@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ኣብ ማእከል ለይቲ ንኽኣመስግን ንድዩኻ እቐልጠፈ፤ ስለ ፍትሕታት ጽድቕኻ።",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "ማእከል"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ለይቲ"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "እቐልጠፈ"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "ንኽኣመስግን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንድዩኻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ፍትሕታት"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ጽድቕኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:54.177000706Z",
+  "model": "glm-5.3"
+}

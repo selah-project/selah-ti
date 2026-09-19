@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 123,
+  "translation": "ነፍሲና ዝዓቢ ተሰቲባ እያ — ብንቕጺ ንቐሳቐሲ ዝሓሉ፣ ብውርደት ዝተዓቐቡ።",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "ዝዓቢ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ተሰቲባ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "እያ"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ነፍሲና"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "ንቕጺ ንቐሳቐሲ"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "ዝሓሉፋት ብሰላም"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "ብውርደት"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "ዝተዓቐቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:54.038610757Z",
+  "model": "glm-5.3"
+}

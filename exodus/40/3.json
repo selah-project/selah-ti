@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ኣብኡ ድማ ⟨את⟩ ታቦት ናይ እቲ ምስክርታ ተቐምጥ፣ ነቲ ታቦት ድማ ብእቲ ጥምጢም ተሓብእ።",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ተቐምጥ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦት"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ናይ እቲ ምስክርታ"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "ተሓብእ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ነቲ ታቦት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ጥምጢም"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "እቲ ጥምጢም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:47:15.576715385Z",
+  "model": "glm-5.3"
+}

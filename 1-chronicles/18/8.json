@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 18:8",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ካብ ጥብሓትን ካብ ኩንን ከተራት ሓዳድዓዘር ዳዊድ ብዙሕ ብጣዕሚ ናስሪ ወሲዱ፤ ሽሎሞ ድማ ብኣንተን ⟨את⟩ ባሕሪ ናስሪን ⟨את⟩ ዓምዳትን ⟨את⟩ መሳይጥቲ ናስሪን ገበረ።",
+  "tokens": [
+    {
+      "surface": "ומטבחת",
+      "gloss": "ካብ ጥብሓት"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "ካብ ኩን"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ከተራት"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ሓዳድዓዘር"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ናስሪ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ብኣንተን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ባሕሪ ናስሪ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ናስሪ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓምዳት"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ዓምዳት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መሳይጥቲ ናስሪ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "መሳይጥቲ"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ናስሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:46:24.235304197Z",
+  "model": "glm-5.3"
+}

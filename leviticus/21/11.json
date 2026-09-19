@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ከምኡውን ኣብ ልዕሊ ኩሉ ነፍሲ ሞት ኣይኣቱን፤ ንኣቡኡን ንኣዲኡን ኣይንካይን።",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ከምኡውን ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ይኣቱን"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "ንኣቡኡ"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ንኣዲኡ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ይንካይን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:47.173245391Z",
+  "model": "glm-5.3"
+}

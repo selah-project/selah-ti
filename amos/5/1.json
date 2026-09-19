@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ስሙ ⟨את⟩ እቲ ቃል እዚ፣ ዝኣነ ኣነ ኣብ ልዕልኩም ስቓቒ ኣልዓልይ ኣለኹ፣ ንስድራ እስራኤል።",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ቃል"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝኣነ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ኣልዓልይ ኣለኹ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ኣብ ልዕልኩም"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ስቓቒ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T04:18:37.326553170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኣቢያታር ድማ ንዳዊድ ነገሮ እቲ ሻኡል ⟨את⟩ ካህናት ያህዌህ ምስ ቀተለ ኢሉ።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ነገረ"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "ኣቢያታር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ንዳዊድ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ቀተለ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ካህናት ያህዌህ"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:12:27.626404450Z",
+  "model": "glm-5.3"
+}

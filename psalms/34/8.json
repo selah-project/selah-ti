@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "መልኣኽ ያህዌህ ንዝፈርህዎ ብዙሕቲ ይተኸውን፣ ድማ ይናግፎም።",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "ይተኸውን"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "መልኣኽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ብዙሕቲ"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ንዝፈርህዎ"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "ይናግፎም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:52:52.652061221Z",
+  "model": "glm-5.3"
+}

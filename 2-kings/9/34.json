@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-kings 9:34",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣትዩ ድማ በልዐን ሰተየን፤ «ሕጂ ነታ ዝተረገመት እዚኣ ⟨את⟩ ምስ እተታ ተውን ቐብሩኣን፣ ሽዑ ጓል ንጉስ እያ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ኣትዩ"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "በልዐ"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "ሰተየ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "ምስ እተታ ተው"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነታ ዝተረገመት እዚኣ"
+    },
+    {
+      "surface": "הארורה",
+      "gloss": "ነታ ዝተረገመት"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚኣ"
+    },
+    {
+      "surface": "וקברוה",
+      "gloss": "ቐብሩኣን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ሽዑ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ጓል"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እያ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:22:41.451242961Z",
+  "model": "glm-5.3"
+}

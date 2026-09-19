@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ሕራም ድማ ካብ ጽር ወጸ፣ ⟨את⟩ ከተማታት እቶም ሽሎሞ ዝሃቦ ንምርኣይ፤ ኣብ ኣይኑ ድማ ኣይተሓመምን።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ሕራም"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ካብ ጽር"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ንምርኣይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተማታት"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ከተማታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ዝሃበ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እናዘይ"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "ተሓመሙ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ኣብ ኣይኑ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:55:16.349316996Z",
+  "model": "glm-5.3"
+}

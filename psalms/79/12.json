@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 79,
+  "translation": "ነቶም ጎረባብትና ድማ ሰባይ ግዜ ኣብ ⟨ልቦም⟩ ተመልስ፤ ነቲ ውርደቶም ንዝሓንጹዑካ ዝነበረ፡ ኣዶናይ።",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "ተመልስ"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "ነቶም ጎረባብትና"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "ሰባይ ግዜ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "ልቦም"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "ውርደቶም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "ዝሓንጹዑካ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:24.806924727Z",
+  "model": "glm-5.3"
+}

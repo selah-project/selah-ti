@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 23:6",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ኣብ ከምኡውን ኩሎም ናይ በליעል ከም ቑጽ ዝተነውወ እዮም፤ ምኽንያቱ ብኢድ ኣይወሰዱን።",
+  "tokens": [
+    {
+      "surface": "ובליעל",
+      "gloss": "ኩሎም ናይ በליעል"
+    },
+    {
+      "surface": "כקוץ",
+      "gloss": "ከም ቑጽ"
+    },
+    {
+      "surface": "מנד",
+      "gloss": "ዝተነውወ"
+    },
+    {
+      "surface": "כלהם",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "ይወሰዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:43:40.254922375Z",
+  "model": "glm-5.3"
+}

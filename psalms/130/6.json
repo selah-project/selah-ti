@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 130,
+  "translation": "ነፍሲ ንኣዶናይ ካብቶም ንቡራቕ እናተጸበዩ ተጸበየት — ንቡራቕ እናተጸበዩ።",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ንኣዶናይ"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "ካብቶም ንቡራቕ እናተጸበዩ"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ንቡራቕ"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "ንቡራቕ እናተጸበዩ"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ንቡራቕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:07.645450514Z",
+  "model": "glm-5.3"
+}

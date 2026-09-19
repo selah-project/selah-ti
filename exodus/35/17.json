@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "⟨את⟩ ሽፋናት እቲ ብቢት፣ ⟨את⟩ ኣምዱታቱን ⟨את⟩ መሰረታቱን፣ ⟨את⟩ ሽፋን ኣፍደገ እቲ ብቢት።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሽፋናት"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "ሽፋናት"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ናይ እቲ ብቢት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣምዱታቱ"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "ኣምዱታቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩…ን",
+      "marks": "መሰረታቱ"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "መሰረታቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩…ን",
+      "marks": "ሽፋን"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ሽፋን"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ኣፍደግ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ናይ እቲ ብቢት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:39:23.615557138Z",
+  "model": "glm-5.3"
+}

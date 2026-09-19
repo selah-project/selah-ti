@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እዚኦም ትውልያት ኣሃሮንን ሞሸን እዮም፣ ኣብ እቲ ዕለት ዝተዛረበ ያህዌህ ⟨את⟩ ሞሸ ኣብ ተራራ ሲናይ።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ትውልያት"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "ሞሸን"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ ዕለቲ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝተዛረበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ኣብ ተራራ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ሲናይ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:14:20.632000979Z",
+  "model": "glm-5.3"
+}

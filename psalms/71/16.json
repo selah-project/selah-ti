@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 71,
+  "translation": "ብሓይሊ ኣዶናይ ያህዌህ ክኣቱ እየ፣ ጽድቂኻ ንስኻ ጥራይ እዘኽር።",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "ክኣቱ እየ"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "ብሓይሊ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "እዘኽር"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ጽድቂኻ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ንስኻ ጥራይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:53.477884500Z",
+  "model": "glm-5.3"
+}

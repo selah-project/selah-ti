@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 136,
+  "translation": "⟨את⟩ ጨረቕቲን ከዋኽብቲን ኣብ ለይቲ ንኽእሉ፤ እስከ ዘለኣለም ሔሴዱ እዩ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጨረቕቲን"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "ጨረቕቲን"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "ከዋኽብቲን"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "ንኽእሉ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ኣብ ለይቲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "እስከ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:40.017008022Z",
+  "model": "glm-5.3"
+}

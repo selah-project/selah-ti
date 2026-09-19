@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ኣብ ምድረ-በዳ ተበታተኑ፣ ኣብ ጥራይ ጽልማት መገዲ ፍጻም፣ ከተማ ናይ ምቕማብ ኣይረኽቡን።",
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "ተበታተኑ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድረ-በዳ"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "ኣብ ጥራይ ጽልማት"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መገዲ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "ናይ ምቕማብ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "ረኽቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:55.433132214Z",
+  "model": "glm-5.3"
+}

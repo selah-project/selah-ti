@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 73,
+  "translation": "ኣብ መከራ ሰብ ኣየእዩን፤ ምስ ሰባት ድማ ኣይተሳቐዩን።",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "ኣብ መከራ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "ኣየእዩን"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "ይተሳቐዩን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:24.938151367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ንሳ ድማ ድሕሪ እታ ዓቢ ጓል ወለደት፣ ስምኣ ድማ ድና በለቶ።",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ድሕሪ እታ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ወለደት"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ጓል"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "በለቶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስምኣ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ስምኣ"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "ድና"
+    }
+  ],
+  "timestamp": "2026-09-18T20:50:48.485397230Z",
+  "model": "glm-5.3"
+}

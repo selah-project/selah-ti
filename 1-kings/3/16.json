@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣብቲ ዕላለ ክልተ ሰበይቲ ኣመናውት ናብ ነቲ ንጉስ መጻአያ፣ ኣብ ቅድሚኡ ከኣ ተቐመጣ።",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ኣብቲ ዕላለ"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "መጻአያ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "ኣመናውት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ነቲ ንጉስ"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "ተቐመጣ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ኣብ ቅድሚኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:47:49.029866330Z",
+  "model": "glm-5.3"
+}

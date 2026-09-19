@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ኣብ ሰማያት ኣይኮነን፤ «መን ንሕና ናብ ሰማያት ይወጽእ፣ ነዚ ⟨את⟩ ክሃብና፣ ክሰምዓና ከይ ገበረልና ክንገብርዎ?» ኢልካ ንክትብል ኣይኮነን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ኣብ ሰማያት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢልካ ንክትብል"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ይወጽእ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "ናብ ሰማያት"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "ክሃብና"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "ክሰምዓና"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ነዚ (እቲ ትእዛው)"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "ክንገብርዎ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:08:59.082929975Z",
+  "model": "glm-5.3"
+}

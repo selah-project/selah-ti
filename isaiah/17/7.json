@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 17:7",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኣብ እቲ መዓልቲ ሰብ ነቲ ዝፈጠሮ ይጥምት፣ ኣዒንቱ ድማ ነቲ ቅዱስ ናይ እስራኤል ይርአያ እየን።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "ይጥምት"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "ዝፈጠሮ"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "ኣዒንቱ ድማ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ናይ እስራኤል"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "ይርአያ እየን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:54:47.679527479Z",
+  "model": "glm-5.3"
+}

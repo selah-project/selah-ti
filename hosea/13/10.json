@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኣበይ እዩ ሎሚ ንጉስኻ፣ ኣብ ኹሉ ከተራትኻ ዝኣውትካ? ወዲ ብዓል እንታይ ረኺብካ? ወዲ ብዓል ሰዓብቲን ስጒኡኒ ኢልካ ነይርካ?",
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "ኣበይ"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "ንጉስኻ"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "ሎሚ"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "ዝኣውትካ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኹሉ"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "ከተራትኻ"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "ወዲ ብዓል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ኢልካ"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ስጒኡኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "ሰዓብቲን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:09:09.478459668Z",
+  "model": "glm-5.3"
+}

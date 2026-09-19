@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 22:1",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ወዲ ሸሞነተ ዓመታት ኮይኑ ዮሽያሁ ኣብ ምንጋሱ ነገሠ፤ ብየሩሻላይም ከኣ ሰላሳን ሓንተን ዓመት ነገሠ። ስም ኣደኡ ድማ የዲዳ፣ ጓል ዓዲያሕ ናይ ምባጽቃት፣ እያ።",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ሸሞነተ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ዮሽያሁ"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ኣብ ምንጋሱ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ሰላሳን"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ሓንተን"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ኣብ የሩሻላይም"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ስም ድማ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ኣደኡ"
+    },
+    {
+      "surface": "ידידה",
+      "gloss": "የዲዳ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ጓል"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "ዓዲያሕ"
+    },
+    {
+      "surface": "מבצקת",
+      "gloss": "ናይ ምባጽቃት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:35:39.949076985Z",
+  "model": "glm-5.3"
+}

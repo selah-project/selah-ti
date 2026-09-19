@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "jeremiah 50:36",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ሰይፊ ንሓሳያታ ኣሎ፣ እሞ ይጎዱ፣ ሰይፊ ንኣዋጂአታ ኣሎ፣ እሞ ይሽከረዩ።",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ሓሳያታ"
+    },
+    {
+      "surface": "ונאלו",
+      "gloss": "ወን ይጎዱ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "גבוריה",
+      "gloss": "ኣዋጂአታ"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "ወን ይሽከረዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:14:16.110164852Z",
+  "model": "glm-5.3"
+}

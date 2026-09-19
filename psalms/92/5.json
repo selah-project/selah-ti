@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 92,
+  "translation": "ምኽንያቱ ኣነ ብግብሪኻ ኣሕጸንካኒ ያህዌህ፣ ብመስርሕታት ኢድኻ እውን እነስምዕ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "ኣሕጸንካኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "ብግብሪኻ"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "ብመስርሕታት"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ናይ ኢድኻ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "እነስምዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:11.004244728Z",
+  "model": "glm-5.3"
+}

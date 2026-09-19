@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ምድሪ ሕጹርቲን ገብሳን፣ ወይኒን በለስን ሮማንን፤ ምድሪ ዘይቲ ዘተን ሜላን።",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "ሕጹርቲ"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "ገብሳን"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "ወይኒን"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "በለስን"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ሮማንን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ዘይቲ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘተ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ሜላን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:51:40.380686754Z",
+  "model": "glm-5.3"
+}

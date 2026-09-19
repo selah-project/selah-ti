@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ነበለዎ «በረኻ ሃበኒ፤ ምኽንያቱ ምድሪ ናይ ደቡብ ሃበኒ፣ ከምኡውን ጉልትታት ማይ ሃበኒ»። ካለብ ድማ ነታ ⟨את⟩ ጉልትታት ዓለላይቲን ⟨את⟩ ጉልትታት ታሕታይቲን ሃበ።",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ነበለዎ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንዓኡ"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንበይይ"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "በረኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ናይ ደቡብ"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "ሃበኒ"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ከምኡውን ሃበ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንበይይ"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "ጉልትታት"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ነታ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ካለብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጉልትታት ዓለላይቲ"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "ጉልትታት"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "ዓለላይቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጉልትታት ታሕታይቲ"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "ጉልትታት"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "ታሕታይቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:34:31.640588375Z",
+  "model": "glm-5.3"
+}

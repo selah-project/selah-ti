@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ናብ እቲ ዝዓወቶ ንውላድ ቆረሕ ማሕደር፣ ትምህርቲ እዩ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ናብ እቲ ዝዓወቶ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ቆረሕ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ትምህርቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:29.772902701Z",
+  "model": "glm-5.3"
+}

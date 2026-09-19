@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ዳዊድ ድማ ⟨את⟩ ታቑት ያህዌህ ናብኡ ናብ ከተማ ዳዊድ ንኽወስድ ኣይደለን፤ ዳዊድ ንሱ ድማ ናብ ቤት ዓበድ ኣዶም እቲ ጋተይ ዘዋርዮ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ኣይደለን"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ኰይኑ ኣይተሓገዛን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "ንኽወስድ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ናብኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቑት"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቑት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "ዘዋርዮ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ዓበድ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኣዶም"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "እቲ ጋተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:25:37.949398875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "«ናይ ዓቢ ሕዝቢ ከኽልኻ እየ፣ ኣበርክየኻ እየ፣ ስምካ ከዓብየካ እየ፣ ንስኻ ድማ በረኻ ኩን።»",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "ከኽልኻ እየ"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "ኣበርክየኻ እየ"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "ከዓብየካ እየ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምካ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ኩን"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "በረኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:37:45.476270734Z",
+  "model": "glm-5.3"
+}

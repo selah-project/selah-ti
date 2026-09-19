@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ምስ ደስታ ካብ በዓታት ናይ ምድሓን ማይ ክትስምዑ ኢኹም።",
+  "tokens": [
+    {
+      "surface": "ושאבתם",
+      "gloss": "ክትስምዑ ኢኹም"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "ምስ ደስታ"
+    },
+    {
+      "surface": "ממעיני",
+      "gloss": "ካብ በዓታት"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "ናይ ምድሓን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:48:23.138024428Z",
+  "model": "glm-5.3"
+}

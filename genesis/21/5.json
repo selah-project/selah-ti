@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ኣቭራሃም ሓደ ሽሕ ዓመት ዝነበረ ነይሩ፣ ኣብ ዝተወለደሉ ⟨את⟩ ይጽሓቅ ወዲኡ።",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "ኣቭራሃምን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ሓደ ሽሕ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "ኣብ ዝተወለደሉ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኣቭራሃም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይጽሓቅ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይጽሓቅ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:43:42.808030688Z",
+  "model": "glm-5.3"
+}

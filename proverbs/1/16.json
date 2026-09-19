@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ምኽንያቱ እግሪኦም ናብ ክፉእ ይኮስኩሱ፣ ድማ ደም ንምፍስስ ይናቕሱ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "እግሪኦም"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ናብ ክፉእ"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "ይኮስኩሱ"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "ይናቕሱ"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "ንምፍስስ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ደም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:46.205671138Z",
+  "model": "glm-5.3"
+}

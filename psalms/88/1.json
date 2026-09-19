@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 88,
+  "translation": "ቃል መዛምድቲ፣ መዝሙር ብዜማ፣ ንውላድ ቅራሕ፣ ንመምህር ዜማ፣ ኣብ ⟨ማሕላት ለዓንኦት⟩፣ ምህርቲ ብሄማን እቲ ኣዝራሕይ።",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ቃል መዛምዓት"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር ብዜማ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ቅራሕ"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "ንመምህር ዜማ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "ማሕላት"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "ለዓንኦት"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ምህርቲ"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "ብሄማን"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "እቲ ኣዝራሕይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:25.156289450Z",
+  "model": "glm-5.3"
+}

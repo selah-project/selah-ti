@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 23:23",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ምኽንያቱ መልኣኽይ ቅድሚኻ እኸድ፣ ናብ እቲ ኣሞራይ፣ ትሕቲ፣ ፕርዚ፣ ኻነዓናይ፣ እቲ ሕዊን የቡሳይን ኣእቲዉኻ፣ ኣነ ድማ እሰዓርዮም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "እኸድ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "መልኣኽይ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ቅድሚኻ"
+    },
+    {
+      "surface": "והביאך",
+      "gloss": "ኣእቲዉኻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "እቲ ኣሞራይ"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ፕርዚ"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "ኻነዓናይ"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "እቲ ሕዊ"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "የቡሳይ"
+    },
+    {
+      "surface": "והכחדתיו",
+      "gloss": "እሰዓርዮም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:28:43.223594986Z",
+  "model": "glm-5.3"
+}

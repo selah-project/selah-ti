@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "እቶም ፍልስጤም ድማ ⟨את⟩ ታቦት ኤሎሂም ወሲዶም፣ ካብ ኤቨን-ሓዘር ⟨ዕንጋር ሓዊስቲ⟩ ናብ ኣሽዶድ ኣብዞምዎ።",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "እቶም ፍልስጤም"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ወሲዶም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦት"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "ኣብዞምዎ"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "ካብ ኤቨን"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ሓዘር"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "ናብ ኣሽዶድ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:00:38.552292878Z",
+  "model": "glm-5.3"
+}

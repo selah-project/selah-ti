@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 22:40",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኣኻብ ምስ ኣቦታቱ ተኮሰ፣ ኣሕዝያሁ ወዲኡ ድማ ኣብ ቦታኡ ነገሠ።",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ተኮሰ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ኣኻብ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ኣቦታቱ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሠ"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "ኣሕዝያሁ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ኣብ ቦታኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:11:43.455497141Z",
+  "model": "glm-5.3"
+}

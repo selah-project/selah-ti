@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ገበና ኣብ ልቢ ኣበገስቲ ንዑቕ ትርከብ፣ ንምሃቪ ሰላም ድማ ደስታ ኣሎ።",
+  "tokens": [
+    {
+      "surface": "מרמה",
+      "gloss": "ገበና"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ኣብ ልቢ"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "ኣበገስቲ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ንዑቕ"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "ንምሃቪ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ደስታ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:48:05.767565455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ትሕቲ ንግሃስ ንጉስ ሕዝቅያሁ ተኣሲሩ፣ ⟨את⟩ ሹማጋቢቲ ከተማ ኣካፈለ፣ ናብ ቤት ያህዌህ ድማ ወሪዱ ከደ።",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ትሕቲ ንግሃስ ተኣሲሩ"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ሕዝቅያሁ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ኣካፈለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሹማጋቢቲ ከተማ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ሹማጋቢቲ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ወሪዱ ከደ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:15:42.249031036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ስለ እንታይ ክትታረዑ ኢኹም፧ ስድርቲ ድማ ተወስኽትሞ። ኩሉ ርእሲ ሕማቕ እዩ፣ ኩሉ ልቢ ድማ ሕሙም እዩ።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ እንታይ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ንመን"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "ትታረዑ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ድሕሪት"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "ተወስኽትሞ"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "ስድርቲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "ሕማቕ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ ድማ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "ሕሙም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:40:25.191194206Z",
+  "model": "glm-5.3"
+}

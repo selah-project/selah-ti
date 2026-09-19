@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 31:30",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "«ጸጋ ሓሶት እዩ፣ ጽቡቕ ቅርጺ ድማ ባዶ እዩ፤ ሰበይቲ ንያህዌህ ዝከውን ግን ትተመሳገን እያ።»",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "החן",
+      "gloss": "ጸጋ"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "ባዶ ድማ"
+    },
+    {
+      "surface": "היפי",
+      "gloss": "ጽቡቕ ቅርጺ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ዝከውን ን-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ንሳ"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ትተመሳገን እያ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:00:49.427950561Z",
+  "model": "glm-5.3"
+}

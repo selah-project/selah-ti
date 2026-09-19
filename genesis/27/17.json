@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "እታ ድማ ኣብ ኢድ ያዕቆቭ ወዲኣ ⟨את⟩ እተኣመረት መግቢን ⟨את⟩ እታ ዝሓበረቶ ሕብስቲን ሃበቶ።",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "ሃበቶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እተኣመረት መግቢ"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "እተኣመረት መግቢ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሕብስቲ"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "ሕብስቲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ዝሓበረቶ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ኣብ ኢድ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ወዲኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:51:09.254779758Z",
+  "model": "glm-5.3"
+}

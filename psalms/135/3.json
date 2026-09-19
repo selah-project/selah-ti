@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 135,
+  "translation": "ያህ ስብሕ ብሉ፤ ምኽንያቱ ያህዌህ ጽቡቕ እዩ፤ ነቲ ስሙ ብዝማሩ፤ ምኽንያቱ ውዑይ እዩ።",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ስብሕ ብሉ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡቕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ብዝማሩ"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "ነቲ ስሙ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ውዑይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:39.889516732Z",
+  "model": "glm-5.3"
+}

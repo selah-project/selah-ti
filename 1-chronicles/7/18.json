@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ሓብቲኡ ሃሞለከት ድማ ⟨את⟩ ኢሽሆድን ⟨את⟩ ኣቢዕዘርን ⟨את⟩ ማኽላን ወሊዱ።",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "ሓብቲኡ"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "ሃሞለከት"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ወሊዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢሽሆድ"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "ኢሽሆድ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ን",
+      "marks": "ኣቢዕዘር"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "ኣቢዕዘር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ን",
+      "marks": "ማኽላ"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "ማኽላ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:34:50.647379671Z",
+  "model": "glm-5.3"
+}

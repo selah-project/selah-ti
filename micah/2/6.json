@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 2:6",
+  "book": "micah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣይትንበርዎ እዮም ዝተንበርው፣ ነዚኦም ኣይትንበርዎን፣ ውሕስና ኣይወጽእን።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ-"
+    },
+    {
+      "surface": "תטפו",
+      "gloss": "ትንበርዎ"
+    },
+    {
+      "surface": "יטיפון",
+      "gloss": "ዝተንበርው እዮም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יטפו",
+      "gloss": "ይንበርዉን"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "ነዚኦም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יסג",
+      "gloss": "ይወጽእን"
+    },
+    {
+      "surface": "כלמות",
+      "gloss": "ውሕስና"
+    }
+  ],
+  "timestamp": "2026-09-19T04:21:55.781884874Z",
+  "model": "glm-5.3"
+}

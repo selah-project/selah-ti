@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "እዚኦም ገበርካዮም፣ ኣነ ድማ ቐጺልኩ፤ ከምኻ ⟨እየ⟩ ተመሳለቕካ፤ ክኣድኾምካ እየ፣ ቅድሚ ኣይንታትካ ድማ ክሳርሖ እየ።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ገበርካ"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "ቐጺልኩ"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "ተመሳለቕካ"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ኮይኔ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "እየ"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ከምኻ"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ክኣድኾምካ"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "ክሳርሖ"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "ቅድሚ ኣይንታትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:02.200308202Z",
+  "model": "glm-5.3"
+}

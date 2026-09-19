@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 60,
+  "translation": "ውላድ ባዕዲ ክንዳትኪ ይሃንዱ፣ ነገስቶምን ይገልጹኪ እዮም፤ ምኽንያቱ ኣብ ቁጭበይ ገረፍኩኪ፣ ኣብ በጃይ ድማ ራሕምኩኪ።",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ይሃንዱ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ባዕዲ"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "ክንዳትኪ"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "ነገስቶምን"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "ይገልጹኪ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "ኣብ ቁጭበይ"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "ገረፍኩኪ"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "ኣብ በጃይ"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "ራሕምኩኪ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:21:37.551775372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ኣይ የቕይራን፣ ኣድማውን ⟨את⟩ ኣይ ይተኪላን — ጽቡእ ብኣላዊ ወይ ኣላዊ ብጽቡእ፤ ከምኡውን እንሳ ብእንሳ እንተ ተኺሉ ይተክል፣ ንሳ ድማ ተካኣን ቅዱስ ክኸውን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "የቕይራን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣድማውን ኣይ"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "ይተኪል"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ዝተቐበለ እንሳ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡእ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ብኣላዊ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ኣላዊ"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ብጽቡእ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ከምኡውን እንተ"
+    },
+    {
+      "surface": "המר",
+      "gloss": "እንተ ተኺሉ"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "ይተክል"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "እንሳ"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "ብእንሳ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ክኸውን"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሳ"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "ተካኣን"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክኸውን"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:10:52.036101439Z",
+  "model": "glm-5.3"
+}

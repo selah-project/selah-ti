@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 27:20",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ሽኦልን ኣባዶንን ኣይተማንን፣ ዓይኒ ሰብ እውን ኣይተማንን።",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "ሽኦል"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "ኣባዶንን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "ተማንን"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ዓይኒ እውን"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "ተማንን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:58:16.859837961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "ብሓቂ ንስኻ ኤል ኮይንካ ሕብኣት፣ ኤሎሂም እስራኤል፣ መድሓኒ።",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "ብሓቂ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "ዝሕብእ ራእሱ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "መድሓኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:13:42.537120685Z",
+  "model": "glm-5.3"
+}

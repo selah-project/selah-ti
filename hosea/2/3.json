@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ንኣሕዎምኩም «ዓምዪ»፣ ንኣሕትኩም ድማ «ሩሕማ» ብሉ።",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ብሉ"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "ንኣሕዎምኩም"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "«ዓምዪ»"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "ንኣሕትኩምን"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "«ሩሕማ»"
+    }
+  ],
+  "timestamp": "2026-09-19T04:07:35.430216177Z",
+  "model": "glm-5.3"
+}

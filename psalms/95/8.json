@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 95,
+  "translation": "ከም ምሪባ፣ ከም ቀንሒ ማሳ ኣብ ምድረ በዳ ከም ዝነበረሉ፣ ልብኩም ኣይተቐርቡን።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "ተቐርቡ"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ልብኩም"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "ከም ምሪባ"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ከም ቀንሒ"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "ማሳ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድረ በዳ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:27.934570511Z",
+  "model": "glm-5.3"
+}

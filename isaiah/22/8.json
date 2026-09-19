@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ድማ ነቲ መሸፈኢ ናይ ይሁዳ ⟨את⟩ ገለጸ፣ ንስኻ ድማ ኣብ እቲ መዓልቲ ናብ ትጥቃት ቤት ግዛ ተዓዘዝካ።",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "ድማ ገለጸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ መሸፈኢ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "መሸፈኢ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "ንስኻ ድማ ተዓዘዝካ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ እቲ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "ትጥቃት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "היער",
+      "gloss": "ግዛ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:54:23.956137284Z",
+  "model": "glm-5.3"
+}

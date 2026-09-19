@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ድማ ከም እቲ ሞሸ ዝኣዘዞ ⟨את⟩ እቲ ክሳብ እቲ ቆርቡ ኣነጹዎ፤ ኣይበረየን፣ ትሕቲ እውን ኣብኡ ኣይነይራን።",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "ኣነጹዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ማን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "እቲ ቆርቡ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም እቲ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ዝኣዘዞ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "በረየ"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "ትሕቲ እውን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነይራ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:23:53.629699222Z",
+  "model": "glm-5.3"
+}

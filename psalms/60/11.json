@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 60,
+  "translation": "መን ናብ ተማ ምሕጻም የእትወኒ? መን ክሳብ ኤዶም የመርሕኒ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "የእትወኒ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ተማ"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ምሕጻም"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "የመርሕኒ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ኤዶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:11.293265926Z",
+  "model": "glm-5.3"
+}

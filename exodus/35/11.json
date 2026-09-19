@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 35:11",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "⟨את⟩ እቲ ማሕደር፣ ⟨את⟩ ዓንቀጹን ሽፋኑን፣ ⟨את⟩ ማስሪታቱን ⟨את⟩ ጽንሲታቱን፣ ⟨את⟩ ኣግዳሚታቱ፣ ⟨את⟩ ዓምዳቱን ⟨את⟩ መሰረታቱን።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ማሕደር"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "እቲ ማሕደር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓንቀጹ"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ዓንቀጹ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሽፋኑ"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "ሽፋኑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማስሪታቱ"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "ማስሪታቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጽንሲታቱ"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "ጽንሲታቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣግዳሚታቱ"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "ኣግዳሚታቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓምዳቱ"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "ዓምዳቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መሰረታቱ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "መሰረታቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:38:10.027401671Z",
+  "model": "glm-5.3"
+}

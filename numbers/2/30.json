@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ከምኡውን ሰራዊቱን ቁጽሮምን ሰለስተን ሃምሳን ዓሰርተ ሽሕን ኣርባዕተ ምእታትን ⟨እዮም⟩።",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ሰራዊቱ"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ቁጽሮም"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ሃምሳ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ምእታት"
+    }
+  ],
+  "timestamp": "2026-09-19T08:28:50.470317358Z",
+  "model": "glm-5.3"
+}

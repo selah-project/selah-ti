@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ሞሸ ድማ ብዛዕበር ያህዌህ ⟨את⟩ ውላድ እስራኤል ኣዘዝዎም እናበለ፦ ከምዚ እዩ ንውላድ ዮሴፍ እቲ ስድራ-መንግስቲ ዝዛረቡ።",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ኣዘዝዎም"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ እስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብዛዕበር"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ስድራ-መንግስቲ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ዝዛረቡ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:46:42.003330508Z",
+  "model": "glm-5.3"
+}

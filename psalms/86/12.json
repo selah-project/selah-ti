@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 86,
+  "translation": "ኣዶናይ ኤሎሃይ ብመላእ ልበይ ኣየኽርካ እየ፤ ስምካ ንዘለኣለም ክኣብር እየ።",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ኣየኽርካ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሃይ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ብመላእ"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "ክኣብር"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምካ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ንዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:27.352573643Z",
+  "model": "glm-5.3"
+}

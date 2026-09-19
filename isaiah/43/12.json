@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "ኣነ ነጊሰ፣ ሓለውን፣ ሰምዐን፣ ብሓደ ካልእ ኣምላኽ ድማ ኣብ ኩም የለንን ነይሩ፤ ንስኻትኩም ምስክራተይ ንስኻትኩም፣ ከምዚ በለ ያህዌህ፣ ኣነ ድማ ኤል እየ።",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ነጊሰ"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "ሓለውን"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "ሰምዐን"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ኣብ ኩም"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ካልእ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ንስኻትኩም"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ምስክራተይ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ከምዚ በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T02:08:54.648560911Z",
+  "model": "glm-5.3"
+}

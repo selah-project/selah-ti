@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ያህዌህ፣ ማዕረ ቤትኻ ፈቲያ እየ፣ ወን ቦታ ማሕደር ክብሪኻን።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ፈቲያ እየ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ማዕረ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ናይ ቤትኻ"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "ወን ቦታ"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ናይ ክብሪኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:49.288610588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 23:8",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "መን እዩ ነዚ ኣብ ልዕሊ ጾር፣ እታ ኣክሊል ዘውህብት፣ ዝሓለኹ? ነጋዴታታ ሽማግለት እዮም፣ ከነዓናታ ድማ ዓበይቲ ምድሪ እዮም።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "ዝሓለኹ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ነዚ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ጾር"
+    },
+    {
+      "surface": "המעטירה",
+      "gloss": "ኣክሊል ዘውህብት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "סחריה",
+      "gloss": "ነጋዴታታ"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ሽማግለት"
+    },
+    {
+      "surface": "כנעניה",
+      "gloss": "ከነዓናታ"
+    },
+    {
+      "surface": "נכבדי",
+      "gloss": "ዓበይቲ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:57:32.346965920Z",
+  "model": "glm-5.3"
+}

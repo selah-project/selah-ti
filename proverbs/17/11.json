@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 17:11",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኣመጣጊሕ ጥራይ ዓቢ ይደሊ፤ ኣስቓቢ መልኣኽ ኣብ ኣንቱ ክቐርብ እዩ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "ኣመጣጊሕ"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ይደሊ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "መልኣኽን"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "ኣስቓቢ"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ክቐርብ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብ ኣንቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:50:04.057820467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 45:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "ሕጂ ስለዚ ኣይትጸበዩን፣ ኣብ ኣዕይንትኩምን ኣይትበራኽቱን፤ እሞ ንኣነ ⟨את⟩ ናብኡ ሸይጥኩም ኢኹም፤ ነፍሲ ንምሕያው ኤሎሂም ኣብ ቅድሚኩም ሰደደኒ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ ስለዚ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תעצבו",
+      "gloss": "ኣይትጸበዩን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "ኣይትበራኽቱን"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "ኣብ ኣዕይንትኩም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "ሸይጥኩም"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ንኣነ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ናብኡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "למחיה",
+      "gloss": "ነፍሲ ንምሕያው"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ሰደደኒ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ኣብ ቅድሚኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:07:27.825131268Z",
+  "model": "glm-5.3"
+}

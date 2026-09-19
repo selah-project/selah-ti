@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ምኽንያቱ ኤሎሂም ⟨את⟩ ኹሉ ግብሪ ብፍትሕ ኣብ ኹሉ ተሓብአ እንተ ጽቡእ እንተ ንጹእ የእትዎ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኹሉ ግብሪ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ግብሪ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "የእትዎ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ብፍትሕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "ተሓብአ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡእ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "እንተን"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ንጹእ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:44:29.140013197Z",
+  "model": "glm-5.3"
+}

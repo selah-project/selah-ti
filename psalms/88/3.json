@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 88,
+  "translation": "እቲ ልመናይ ናብ ቅድሜኻ ይኣቱ፤ ኣውዑኻ ናብ ⟨ቐሊለይ⟩ ስገር።",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "ይኣቱ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ናብ ቅድሜኻ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "እቲ ልመናይ"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "ስገር"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ኣውዑኻ"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "ናብ ቐሊለይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:25.156861496Z",
+  "model": "glm-5.3"
+}

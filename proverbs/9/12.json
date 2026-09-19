@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እንተ ተሓከምካ፣ ንገዛእ ርእስካ ተሓከምካ፤ እንተ ተሓቐፍካ ድማ፣ ብዘይ ካልእ ተዓጢቕካ እዩ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ተሓከምካ"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ተሓከምካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንገዛእ ርእስካ"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "ተሓቐፍካ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ብዘይ ካልእ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ተዓጢቕካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:43:37.123394055Z",
+  "model": "glm-5.3"
+}

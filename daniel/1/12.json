@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ነይ እኩር ⟨את⟩ ኣገልኣትካ ዓሰርተ መዓልታት ፈትን፤ ካብ እኽሊ ⟨ዘሮታት⟩ ይሃብዎና ንበልዕን ማይ ንሰትየን።",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "ፈትን"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ነይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣገልኣትካ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ኣገልኣትካ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ይሃብዎና"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "እኽሊ ⟨ዘሮታት⟩"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "ንበልዕ"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "ንሰትየ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:09:49.853894151Z",
+  "model": "glm-5.3"
+}

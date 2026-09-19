@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ድሕሪ እዚ ነገራት እዚ ኤሎሂም ⟨את⟩ ንኣቭራሃም ፈተኖ፤ «ኣቭራሃም!» በሎ። ንሱ ድማ «እንሆ ኣለኹ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኾነ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ነገራት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "ፈተነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንኣቭራሃም"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንዕኡ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "እንሆ ኣለኹ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:46:42.981793686Z",
+  "model": "glm-5.3"
+}

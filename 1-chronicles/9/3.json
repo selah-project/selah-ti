@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣብ የሩሻላይም ድማ ካብ ውላድ ይሁዳ፣ ካብ ውላድ ብንያም፣ ካብ ውላድ ኤፍራይምን ምናሴን ተቐመጡ።",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "ኣብ የሩሻላይም"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ተቐመጡ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ብንያም"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ምናሴን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:38:02.506100323Z",
+  "model": "glm-5.3"
+}

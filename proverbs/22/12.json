@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "እዚታት ያህዌህ ፍልጠት ይኸላኽላ፤ ቓላት ኣሕዱር ድማ ይሓውጽእ።",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "እዚታት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "ይኸላኽላ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ፍልጠት"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "ይሓውጽእ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቓላት"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ኣሕዱር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:52:52.544053906Z",
+  "model": "glm-5.3"
+}

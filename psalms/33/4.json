@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ምኽንያቱ እቲ ቃል ያህዌህ ቅኑይ ⟨እዩ⟩፤ ከምኡውን ኩሉ ውጽኢቱ ብኣምና ⟨ይግበር⟩ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ቅኑይ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ከምኡውን ኩሉ"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "ውጽኢቱ"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ብኣምና"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:51.653783610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 116,
+  "translation": "ኣብ ጎቦታት ቤት ያህዌህ፣ ኣብ ማእከልኪ ኣብ የሩሻላይም፣ ሰሓሉ ያህ።",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "ኣብ ጎቦታት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "ኣብ ማእከልኪ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ሰሓሉ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:57.911079347Z",
+  "model": "glm-5.3"
+}

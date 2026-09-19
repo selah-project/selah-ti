@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ቍንጭዓ ኣብዛ ተሓጺሰቲኒ፣ ምኽንያቱ ኣጋንንተይ ቓላትካ ረስዖም።",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "ተሓጺሰቲኒ"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "ቍንጭዓ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "ረስዖም"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ቓላትካ"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ኣጋንንተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:09.180036007Z",
+  "model": "glm-5.3"
+}

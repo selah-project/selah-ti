@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣብ ልብኻ ትፈልጥ፣ ከም ሰብ ዝዓዲሎ ⟨את⟩ ውዲኡ፣ ያህዌህ ኤሎሂምካ ኣኻ ይዓዲለካ ስለ ዝኾነ።",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "ትፈልጥ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ልብኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም ዝ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "ዝዓዲሎ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውዲኡ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ውዲኡ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "ይዓዲለካ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:51:40.380064347Z",
+  "model": "glm-5.3"
+}

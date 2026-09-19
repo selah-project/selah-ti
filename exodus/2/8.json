@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ወዲ ፓርዖ ድማ ነታ ኢላ «ኽሢልኪ» በለት። እታ ወለስቲ ድማ ከደት፣ ኣደ እቲ ውላዲ ድማ ጸወዓቶ።",
+  "tokens": [
+    {
+      "surface": "וַתֹּאמֶר",
+      "gloss": "በለት"
+    },
+    {
+      "surface": "לָהּ",
+      "gloss": "ነታ"
+    },
+    {
+      "surface": "בַּת",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "פַּרְעֹה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "לֵכִי",
+      "gloss": "ኽሢልኪ"
+    },
+    {
+      "surface": "וַתֵּלֶךְ",
+      "gloss": "ከደት"
+    },
+    {
+      "surface": "הָעַלְמָה",
+      "gloss": "እታ ወለስቲ"
+    },
+    {
+      "surface": "וַתִּקְרָא",
+      "gloss": "ጸወዓቶ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣደ እቲ ውላዲ"
+    },
+    {
+      "surface": "אֵם",
+      "gloss": "ኣደ"
+    },
+    {
+      "surface": "הַיָּלֶד",
+      "gloss": "እቲ ውላዲ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:10:05.589316334Z",
+  "model": "glm-5.3"
+}

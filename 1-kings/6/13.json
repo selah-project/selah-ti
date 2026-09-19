@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኣብ ማእከል ውላድ እስራኤል ክነብር እየ፣ ከምኡውን ⟨את⟩ ሕዝበይ እስራኤል ኣይክተዎን።",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "ክነብር እየ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ ማእከል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ከምኡውን ኣይ"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "ክተው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝበይ እስራኤል"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝበይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T00:52:29.484721400Z",
+  "model": "glm-5.3"
+}

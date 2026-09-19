@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ሞሸ ድማ ናብ ኤሎሂም በለ፦ ንሓደ እየ፣ ናብ ፓርዖ ክከድን ⟨את⟩ ውላድ ይስራኤል ካብ ሚጽራይም ክወጽእን?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ንሓደ እየ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ክከድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "እንተይ"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "ክወጽእ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ ይስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ካብ ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:13:19.823616339Z",
+  "model": "glm-5.3"
+}

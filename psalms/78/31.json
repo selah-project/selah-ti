@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ቍጵነት ኤሎሂም ከኣ በጺሑዎም፣ ኣብ ሸሙናቶም ድማ ቐተለ፣ ደቃት እስራኤል ከኣ ወርዶም።",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "ድማ ቍጵነት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "በጺሑ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ንኣርኣዮም"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ቐተለ"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "ኣብ ሸሙናቶም"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "ኣብ ደቃት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "ወርዶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:50.274361717Z",
+  "model": "glm-5.3"
+}

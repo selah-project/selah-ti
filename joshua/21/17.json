@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ካብ ወገን ብንያምን ድማ ⟨את⟩ ግብዕውን ምስ ከባቢኣን፣ ⟨את⟩ ግባዕ ምስ ከባቢኣን።",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ካብ ወገን"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ብንያምን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ግብዕውን"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ግብዕውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ምስ ⟨את⟩",
+      "marks": "ከባቢኣን"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ከባቢኣን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ግባዕ"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "ግባዕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ምስ ⟨את⟩",
+      "marks": "ከባቢኣን"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ከባቢኣን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:30:39.092925444Z",
+  "model": "glm-5.3"
+}

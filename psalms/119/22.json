@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ካብ ላዕለይ ኣንሥቐለይ ኣፍራሕን ንብርን፤ ምኽንያቱ ናይ መስክርታትኻ ተዓጸብኩ።",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "ኣንሥቐለይ"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ካብ ላዕለይ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ኣፍራሕ"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "ንብር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ናይ መስክርታትኻ"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ተዓጸብኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:33.845631370Z",
+  "model": "glm-5.3"
+}

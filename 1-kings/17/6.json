@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "እቶም ዐራባት ንንሱ ጓሽን ስገራን ኣብ ቀዳም፣ ጓሽን ስገራን ኣብ ምሸት ይብዝህዎ ነይሩ፤ ካብቲ ሓውሒ ድማ ይሰትዮ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "እቶም ዐራባት"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "ይብዝህዎ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንንሱ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ጓሽ"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ስገራ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ኣብ ቀዳም"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ጓሽውን"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ስገራውን"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ኣብ ምሸት"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "እቲ ሓውሒ"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ይሰትዮ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:02:32.192002277Z",
+  "model": "glm-5.3"
+}

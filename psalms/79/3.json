@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 79,
+  "translation": "ደምኦም ከም ማይ ኣኽሊሎም የሩሻላይም ሓረድዎ፤ እቲ ዝቕብር ድማ የለን።",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "ሓረድዎ"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ደምኦም"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ከም ማይ"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "ኣኽሊሎም"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ድማ የለን"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "ዝቕብር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:37.415424683Z",
+  "model": "glm-5.3"
+}

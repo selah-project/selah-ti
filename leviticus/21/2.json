@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ንቅርቡ ስድራኡ ጥራይ — ንኣደኡ፣ ንኣቡኡ፣ ንወዱ፣ ንጓሉ፣ ንሓዙ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ንቅርቡ ስድራኡ ጥራይ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "ንስድራኡ"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ቅርቡ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንኣቱ"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "ንኣደኡ"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "ንኣቡኡ"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "ንወዱ"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "ንጓሉ"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "ንሓዙ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:24.997963268Z",
+  "model": "glm-5.3"
+}

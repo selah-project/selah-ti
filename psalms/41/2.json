@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ብጸጋ እቲ ንዑኻ ብምስታው ዘሎ፤ ኣብ መዓልቲ ቕጽለት ያህዌህ ይድሕኖ።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ብጸጋ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ብምስታው"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ዑኻ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ቕጽለት"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "ይድሕኖ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:29.696139975Z",
+  "model": "glm-5.3"
+}

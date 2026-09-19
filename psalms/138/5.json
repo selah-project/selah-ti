@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 138,
+  "translation": "ንሳቶም ኣብ መገዳታት ያህዌህ ኪዝሙ እዮም፣ ምኽንያቱ ክብሪ ያህዌህ ዓቢ እዩ።",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "ኪዝሙ እዮም"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ኣብ መገዳታት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:00.769548269Z",
+  "model": "glm-5.3"
+}

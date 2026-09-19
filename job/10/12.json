@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 10:12",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ህይወትን ሔሴድን ምስዘይ ገበርካ፣ ⟨ምብራኽኻ⟩ ድማ መንፈሰይ ኸለኻ።",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "ህይወትን"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "ሔሴድን"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ገበርካ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ምስዘይ"
+    },
+    {
+      "surface": "ופקדתך",
+      "gloss": "ምብራኽኻ"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "ኸለኻ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "መንፈሰይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:07:24.035290839Z",
+  "model": "glm-5.3"
+}

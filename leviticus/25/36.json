@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "⟨את⟩ ካብኡ ወለዶን ዝወሰኸን ኣይትወስዶን፤ ካብ ኤሎሂምካ ክትፈርሖ እኻ፣ ኣሕዋትካ ምስኛ ክነብር እዩ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ተውስዶ"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ ካብኡ",
+      "marks": "ወለዶን ዝወሰኸን"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ወለዶ"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "ዝወሰኸ"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ክትፈርሖ"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "ካብ ኤሎሂምካ"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ክነብር"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ኣሕዋትካ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስኛ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:06:37.563612171Z",
+  "model": "glm-5.3"
+}

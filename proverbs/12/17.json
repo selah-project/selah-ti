@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኣምናት ዝኽፈል ጽድቂ ይነግር፣ ሰማዕቲ ሓሶት ድማ ገበና እዩ።",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "ዝኽፈል"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ኣምናት"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ይነግር"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ሰማዕቲ"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ገበና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:48:05.766749573Z",
+  "model": "glm-5.3"
+}

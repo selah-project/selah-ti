@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 74,
+  "translation": "ኣትኻ ብኣዝዝካ ውቕዒ ሰባርካ፣ ኣብ ላዕሊ ⟨እቲ⟩ ማይ ርእሲ ተናናት ሰበርካ።",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ኣትኻ"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "ሰባርካ"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "ብኣዝዝካ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ውቕዒ"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ሰበርካ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "ተናናት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "እቲ ማይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:34.607597895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "እቲ በረኻ ሰብ ብዓይኑ ጥበበኛ እዩ፤ እቲ ዝርደእ ድኻ ግን ብጭብጥ ይመርሚሮ።",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "ጥበበኛ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ብዓይኑ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "በረኻ"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "እቲ ዝርደእ ድኻ"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "ብጭብጥ"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "ይመርሚሮ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:58:36.984471515Z",
+  "model": "glm-5.3"
+}

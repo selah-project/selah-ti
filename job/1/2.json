@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ድማ ተወለዱሉ ሸውዓተ ውላድ ተባዕታይን ሰለስተ ጓላትን።",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "ድማ ተወለዱ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ልዑሉ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ውላድ ተባዕታይ"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ጓላት"
+    }
+  ],
+  "timestamp": "2026-09-19T09:05:45.333496048Z",
+  "model": "glm-5.3"
+}

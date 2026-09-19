@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 127,
+  "translation": "ከም ቐስታት ኣብ ኢድ ጠንቃቃ፣ ከምኡ እዮም ውላድ ናይ ወጻዒ።",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "ከም ቐስታት"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ኣብ ኢድ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ጠንቃቃ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "ናይ ወጻዒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:03.607884293Z",
+  "model": "glm-5.3"
+}

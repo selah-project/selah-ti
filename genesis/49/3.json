@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 49:3",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "ርኡቤን፣ በኪርደይ ንስኻ፣ ሓይለይ ኮይንካ፣ መጀመርታ ናይ ሓይልተይ፣ ዝያዳ ክብሪ፣ ዝያዳ ሓይሊ እንትበሃል።",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "ርኡቤን"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "በኪርደይ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ሓይለይ"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "መጀመርታ"
+    },
+    {
+      "surface": "אוני",
+      "gloss": "ናይ ሓይልተይ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ዝያዳ"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ዝያዳ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ሓይሊ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:10:28.177897331Z",
+  "model": "glm-5.3"
+}

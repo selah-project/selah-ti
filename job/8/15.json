@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣብ ገዛኡ ይጽንዕ እዩ፣ ገዛኡ ግን ኣይትቐመጥን፤ ንሱ ድማ ይጽብጽቦ እዩ፣ ንሱ ግን ኣይተንስእን።",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "ይጽንዕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ገዛኡ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ኣይትቐመጥን"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "ይጽብጽብ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ነቶ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ኣይተንስእን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:04:53.733223977Z",
+  "model": "glm-5.3"
+}

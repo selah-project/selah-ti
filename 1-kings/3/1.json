@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 3:1",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ሽሎሞ ምስ ⟨את⟩ ፓርዖ ንጉስ ሚጽራይም ብምርኮ ተሰለፈ፣ ነቲ ⟨את⟩ ዓቪ ፓርዖ ወሲዱ ናብ ከተማ ዳዊድ ኣእተዋ፣ ክሳብ ዝወድእ ንምሕናው ⟨את⟩ ቤቱን ⟨ואת⟩ ቤት ያህዌህን ⟨ואת⟩ ግንቢ የሩሻላይም ስዒብ።",
+  "tokens": [
+    {
+      "surface": "ויתחתן",
+      "gloss": "ብምርኮ ተሰለፈ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፓርዖ ንጉስ ሚጽራይም"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓቪ ፓርዖ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ዓቪ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "ויביאה",
+      "gloss": "ኣእተዋ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ዝወድእ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ንምሕናው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤቱ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት ያህዌህ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ግንቢ የሩሻላይም"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ግንቢ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ስዒብ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:48:53.304168944Z",
+  "model": "glm-5.3"
+}

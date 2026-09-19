@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ግና ኣብ መዓልታትካ ኣይገብርዎን እየ፣ ንዳዊድ ኣቦኻ ስለ ዝኾነ፤ ካብ ኢድ ወድኻ ግን ክቆርጓ እየ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ግና ጥራይ"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "ኣብ መዓልታትካ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "ገብርዎን እየ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ኣቦኻ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ወድኻ"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "ክቆርጓ እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:58:21.402137451Z",
+  "model": "glm-5.3"
+}

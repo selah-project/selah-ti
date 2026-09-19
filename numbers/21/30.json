@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 21:30",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ወረይና ነቶም፤ ሕሽቦን ክሳብ ዲቦን ተጠፍአት፣ ኣጥፍአና ድማ ክሳብ ኖፋሕ፣ እቲ ⟨ክሳብ ሜድባ ዝበጽሕ⟩።",
+  "tokens": [
+    {
+      "surface": "ונירם",
+      "gloss": "ወረይና"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ተጠፍአት"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ሕሽቦን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "ዲቦን"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "ኣጥፍአና"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "נפח",
+      "gloss": "ኖፋሕ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "מידבא",
+      "gloss": "ሜድባ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:30:48.725745283Z",
+  "model": "glm-5.3"
+}

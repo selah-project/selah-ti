@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኤሁድ ⟨את⟩ ኢዱ ንጸገዕ ወፈረ፣ ⟨את⟩ እቲ ሰይፊ ካብ ኣኽሊሉ ናዥ የማን ወሲዱ ኣብ ከርኑ ተወጊዙ ኣብሉ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ወፈረ"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "ኤሁድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢዱ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "ንጸገዕ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሰይፊ"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "እቲ ሰይፊ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ኣኽሊል"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ናዥ የማን"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "ተወጊዙ ኣብሉ"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "ኣብ ከርኑ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:37:30.634295986Z",
+  "model": "glm-5.3"
+}

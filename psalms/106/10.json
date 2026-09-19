@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ካብ ኢድ ኣባጊዑ ኣድኂኖም፤ ካብ ኢድ ጠላእ ድማ ኣዳነኖም።",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "ኣድኂኖም"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ኣባጊዕ"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "ኣዳነኖም"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ጠላእ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:26.489416079Z",
+  "model": "glm-5.3"
+}

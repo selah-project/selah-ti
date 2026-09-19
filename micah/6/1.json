@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ስምዑ ኣይ ⟨את⟩ እቲ ያህዌህ ዝብሎ፦ ተንሳእ፣ ምስ ⟨את⟩ ከራባት ኽትጋደል፣ ከምኡውን እተን ከረባት ድምጺኻ ንኽሰምዓ።",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ስምዑ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ያህዌህ ዝብሎ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ዝብሎ"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ተንሳእ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ኽትጋደል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከራባት"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ከራባት"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "ንኽሰምዓ"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ከረባት"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ድምጺኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:28:01.806580204Z",
+  "model": "glm-5.3"
+}

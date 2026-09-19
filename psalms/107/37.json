@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ሓረስቶት ዘርእዮም፣ ወይኒ ተከሉ፣ ፍሬ ብርክትቲ እውን ኣፍሮም።",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "ዘርእዮም"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "ሓረስቶት"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "ተከሉ"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "ወይኒ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ኣፍሮም"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ፍሬ"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "ብርክትቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:25.571888530Z",
+  "model": "glm-5.3"
+}

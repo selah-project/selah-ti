@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ድማ በለ፦ «ናብ ያህዌህ ብጭንቐተይ ደወልኩ፣ ንሱ መለሰለይ፤ ካብ ከላይ ሽኦል ሓወኹ፣ ንስኻ ድማ ቓለይ ሰምዐኻ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ደወልኩ"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "ካብ ጭንቐተይ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "መለሰለይ"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ካብ ከላይ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሽኦል"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ሓወኹ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ሰምዐኻ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ቓለይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:21:20.974014177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ነፍሲ ወከፍ ቃል ኪዳን ናይ ለቢብቲን ናይ ዝተፈታትን፣ ኩሉ እታ ኣብ ነፍሳ ዝተኣሰረት፣ ኣብ ላዕሊኣ ይቕመጥ።",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "ቃል ኪዳን"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "ለቢብቲ"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "ዝተፈታት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ዝተኣሰረት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "ነፍሳ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ይቕመጥ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ኣብ ላዕሊኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:40:19.771046232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 27:22",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ሞሸ ድማ ከም ዝኣዘዞ ያህዌህ ⟨את⟩ ገበረ፤ የሆሹዋዕ ሒዙ ⟨את⟩፣ ኣብ ቅድሜ ኣልዓዛር ካህንን ኣብ ቅድሜ ኩሉ ጉባኤን ኣቕሚጡ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ዝኣዘዞ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ኡ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ሒዙ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሆሹዋዕ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "ኣቕሚጡ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሜ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ኣልዓዛር"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ከምኡውን ኣብ ቅድሜ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ጉባኤ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:36:10.256432462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 65,
+  "translation": "ብጸጋ ንሱ እቲ ትምርጻዮ ድማ ትቕርቦ ኣብ ሕድርትካ ክቐመጥ፤ ንሕና ብጽቡቕ ቤትካ ብቅድስና ማሕደርካ ንሰብዓ።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ብጸጋ"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "ትምርጻዮ"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "ድማ ትቕርቦ"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ክቐመጥ"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "ሕድርትካ"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "ንሰብዓ"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ብጽቡቕ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ቤትካ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ብቅድስና"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "ማሕደርካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:20.033115126Z",
+  "model": "glm-5.3"
+}

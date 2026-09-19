@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኤልቅና ወዱ፣ ወኤብያሳፍ ወዱ፣ ወኣሲር ወዱ።",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "ኤልቅና"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዱ"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "ወኤብያሳፍ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዱ"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "ወኣሲር"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:32:45.933697802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "እኳ ንጠንካር ጫፍ ሰይፉ ተምላሽካ፣ ኣብ ውግእ እኳ ኣይሰሪዕካዮን።",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "እኳ"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ተምላሽካ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ጠንካር ጫፍ"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ሰይፉ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "እኳ ኣይ…ን"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "ሰሪዕካዮ"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "ኣብ ውግእ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:11.018320048Z",
+  "model": "glm-5.3"
+}

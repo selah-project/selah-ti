@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 86,
+  "translation": "ምኽንያቱ ሔሴድካ ብዙሕ ኣብ ላዕለይ እዩ፣ ነፍሰይ ኸኣ ካብ ሽኦል ታሕቲኣ ኣድሕንካ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሔሴድካ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ላዕለይ"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "ኣድሕንካ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "ሽኦል"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "ታሕቲኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:45.787116798Z",
+  "model": "glm-5.3"
+}

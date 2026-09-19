@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 108,
+  "translation": "«ንቑዒ ነብልን ክኖርን፤ ንዋሊቲ ክኣልሕ።»",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "ንቑዒ"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "ነብል"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ክኖርን"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ክኣልሕ"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ዋሊቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:05.613760138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ነቲ ሎ-ረሓማ ሓጸበት፣ ደጊማ ሓረስታን ወዲ ወለደት።",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "ሓጸበት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሎ-ረሓማ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ሎ-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "ረሓማ"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ደጊማ ሓረስታን"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደት"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:06:46.383102094Z",
+  "model": "glm-5.3"
+}

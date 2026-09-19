@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 32:12",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ኣብ ጉርራ እናቐጨሉ፣ ኣብ ቆልዑ ዝደለዩ፣ ኣብ ወይኒ ዝፈረቐት።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "ጉርራ"
+    },
+    {
+      "surface": "ספדים",
+      "gloss": "እናቐጨሉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ቆልዑ"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "ዝደለዩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "ወይኒ"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ዝፈረቐት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:59:38.752328521Z",
+  "model": "glm-5.3"
+}

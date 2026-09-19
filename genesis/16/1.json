@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ሳራይ ሰበይቲ ኣቭራም ንሱ ውላድ ኣይወለድቶን፣ ነታ ከኣ ሚጽራይታይት ኣገልጋሊት ነበራ፣ ስምኣ ኸኣ ሃጋር እያ።",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "ሳራይ ከኣ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ኣቭራም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ወለደት"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "ነታ"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "ኣገልጋሊት"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "ሚጽራይታይት"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ስምኣ ኸኣ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ሃጋር"
+    }
+  ],
+  "timestamp": "2026-09-18T20:40:41.486359674Z",
+  "model": "glm-5.3"
+}

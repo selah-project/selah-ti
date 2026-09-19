@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኩሉ ሰብ እቲ ⟨את⟩ ኣፉኻ ዝቐጽፍን ነቲ ⟨את⟩ ቓላትኻን ንኹሉ እቲ ትእዝዞ ኣይሰምዕን፡ ኪቕተል እዩ፤ ጥራይ ጠንካራ ምስ ዝበግዓይ ኩን።",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "ዝቐጽፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣፉኻ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ኣፉኻ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ይሰምዕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቓላትኻ"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ቓላትኻ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኹሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "ትእዝዞ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ኪቕተል"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ጠንካራ"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "ምስ ዝበግዓይ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:15:32.890861620Z",
+  "model": "glm-5.3"
+}

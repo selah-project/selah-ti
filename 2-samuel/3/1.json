@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 3:1",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ውግእ ረጂእ ኮይኑ ነይራ ኣብ መንጎ ስድራ ሻኡልን ኣብ መንጎ ስድራ ዳዊድን፤ ዳዊድ ድማ እናኸደን እናጸንዐን ከይዩ፣ ስድራ ሻኡል ድማ እናኸዱን እናሰነኑን ይኸዱ ነይሮም።",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ነይራ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ውግእ"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "ረጂእ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ዳዊድ ድማ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "እናኸደ"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "እናጸንዐ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "እናኸዱ"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "እናሰነኑ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:22:01.961385470Z",
+  "model": "glm-5.3"
+}

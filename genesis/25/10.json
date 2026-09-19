@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "እቲ በደቲ ኣቭራሃም ካብ ውላደ ሕት ካብ ⟨מאת⟩ ዝገዛዮ፤ ኣብኡ ኣቭራሃምን ሳራን ሰበይቱን ተቐብሮም።",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "እቲ በደቲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ዝገዛዮ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ካብ ⟨את⟩",
+      "marks": "ውላደ ሕት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ሕት"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "ተቐብሮም"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "ሳራን"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሰበይቱን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:47:43.621088342Z",
+  "model": "glm-5.3"
+}

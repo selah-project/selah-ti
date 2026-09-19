@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ናይ ዳዊድ፣ መምህርያዊ ቍጽሪ። ብጸጋ እቲ ብዑሩ ዝተሓለወ፣ እቲ ኃጢኣቱ ዝተሓበረ ደው እዩ።",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "መምህርያዊ ቍጽሪ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ብጸጋ"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "ዝተሓለወ"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ብዑሩ"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "ዝተሓበረ"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "ኃጢኣቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:23.462467473Z",
+  "model": "glm-5.3"
+}

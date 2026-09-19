@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 18:6",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "እቲ ህዝቢ ነቲ ሜዳ ንእስራኤል ንምግጋም ወጸ፤ እቲ ውግእ ድማ ኣብ ግንዲ ኤፍራይም ኮነ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ነቲ ሜዳ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ንምግጋም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "እቲ ውግእ"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "ኣብ ግንዲ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:35:22.172795734Z",
+  "model": "glm-5.3"
+}

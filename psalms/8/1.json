@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ናብ መምህር ብመስቀል ዓይነት ኣብ ልዕሊ እቲ ናይ ጋት መስቀል ቍሩብ መዝሙር ናይ ዳዊድ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ናብ መምህር ብመስቀል ዓይነት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "እቲ ናይ ጋት መስቀል"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ቍሩብ መዝሙር"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:43:13.888569242Z",
+  "model": "glm-5.3"
+}

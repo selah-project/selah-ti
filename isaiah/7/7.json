@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ከምዚ በለ ኣዶናይ ያህዌህ፦ ኣይተቐምጥን፣ ኣይከውንን።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ተቐምጥ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን…ውን"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ከውን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:43:50.093344036Z",
+  "model": "glm-5.3"
+}

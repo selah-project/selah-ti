@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "ኤሎሂም ንስኻ ነቲ ዘይትረድእነተይ ተረድእካ፤ ንዓቕሚን ቅድሚኻ ስዒቦም ኣለዉ — ካባኻ ኣይተሓብእን።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ተረድእካ"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "ነቲ ዘይትረድእነተይ"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "ንዓቕሚን"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ካባኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "ተሓብእን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:25.539702010Z",
+  "model": "glm-5.3"
+}

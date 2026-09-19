@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 140,
+  "translation": "ኣኽሊሉኒ ያህዌህ ካብ ኢደይ ⟨እቲ⟩ ክፉእ፣ ካብ ሰብ ብቕድምና ሓልዎኒ፣ እቶም ንስጉምታተይ ንምእኳይ ሓሰቡ።",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "ኣኽሊሉኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ካብ ኢደይ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ካብ ሰብ"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "ብቕድምና"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "ሓልዎኒ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝ"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ሓሰቡ"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "ንምእኳይ"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ስጉምታተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:42.478578406Z",
+  "model": "glm-5.3"
+}

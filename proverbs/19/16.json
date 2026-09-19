@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ዘላቕ ሕጊ ነፍሲ ይሓልዋ፤ ንገጹ ብዙሕ ዘይተቓረበ ድማ ይሞት።",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ዘላቕ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ሕጊ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ይሓልዋ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሲ ኣብ ኣእዳው"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "ዘይተቓረበ"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ንገጹ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይሞት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:51:52.506058137Z",
+  "model": "glm-5.3"
+}

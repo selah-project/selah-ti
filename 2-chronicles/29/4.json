@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ነቲ ⟨את⟩ ካህናትን ⟨את⟩ ለዊታትን ኣእቲዩ ነቲ ምብራቓይ ስፍሓዊ ቦታ ኣክቢዖም።",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ኣእቲዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ካህናት"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ለዊታት"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ለዊታት"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "ኣክቢዖም"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "ናብ ስፍሓዊ ቦታ"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "ምብራቓይ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:15:26.438227411Z",
+  "model": "glm-5.3"
+}

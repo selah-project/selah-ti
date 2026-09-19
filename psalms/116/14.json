@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 116,
+  "translation": "ቃላተይ ንያህዌህ እኸፍል፣ ቅድሚ ኩሉ ህዝቡ ሕጂ።",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "ቃላተይ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "እኸፍል"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ህዝቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:33.464781084Z",
+  "model": "glm-5.3"
+}

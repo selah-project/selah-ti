@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ነቲ ⟨את⟩ ኩሉ ነፍሲ ኣብ ውሽጣ ዘሎ ብፍልጭቲ ሰይፊ ሰበሩ፣ ብንዑቕ ኣጠፍእዎ፤ ምንታይስ ትንፋስ ኣይተረፈን፣ ⟨את⟩ ሓጾር ድማ ብሓዊ ጨወዮ።",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "ሰበሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ነፍሲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብ ውሽጣ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ብፍልጭቲ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፊ"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "ብንዑቕ ኣጠፍእዎ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "ተረፈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ምንታይስ"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "ትንፋስ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሓጾር"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ሓጾር"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ጨወዮ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ብሓዊ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:25:38.155319526Z",
+  "model": "glm-5.3"
+}

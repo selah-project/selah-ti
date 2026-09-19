@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 35:26",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "እቲ ተገዲፊ ግን ካብ ⟨את⟩ ወሰን ከተማ መሽለቱ ዝኰየሰላ እንተ ወጺኡ—",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ግን እንተ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "እንተ ወጺኡ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ወጺኡ"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "እቲ ተገዲፊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወሰን"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ወሰን"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "መሽለቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝኰየሰላ"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "ዝኰየሰ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ኣብኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:44:21.134188179Z",
+  "model": "glm-5.3"
+}

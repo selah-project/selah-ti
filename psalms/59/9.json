@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 59,
+  "translation": "ንስኻ ግን ያህዌህ ትስሓቖም፣ ንኩሉ ኣህዛብ ትውርዮም።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ግን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "ትስሓቖም"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ነይቶም"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "ትውርዮም"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ኣህዛብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:50.874420642Z",
+  "model": "glm-5.3"
+}

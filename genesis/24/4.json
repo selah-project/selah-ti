@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ንስኻ ግና ናብ ሃገረይን ናብ ውለደይን ትኺድ፣ ነቲ ወዲ ይጽሓቅ ድማ ሰበይቲ ተወስድ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ግና"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ሃገረይን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "ውለደይን"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ትኺድ"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ተወስድ ድማ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንወዲ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ይጽሓቅ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:45:35.638869547Z",
+  "model": "glm-5.3"
+}

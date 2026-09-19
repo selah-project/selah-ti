@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 122,
+  "translation": "ኣካልትና ኣብ በዓይታትኪ ኰይና ተቐሚጠን እየን፣ የሩሻላይም።",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "ተቐሚጠን"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ኰይና"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "ኣካልትና"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "ኣብ በዓይታትኪ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:32.088679774Z",
+  "model": "glm-5.3"
+}

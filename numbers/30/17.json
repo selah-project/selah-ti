@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 30:17",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "እዚኦም እቶም ስርዓት እዮም እቶም ያህዌህ ⟨את⟩ ሞሸ ብዛዕባ ሰብን ስለ ሰበይቱን፣ ብዛዕባ ኣቦን ስለ ዓቢ ወዲኡን፣ ኣብ ዕድመኣ ኣብ ቤት ኣቦኣ ዝኾነሉ እዮም።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "እቶም ስርዓት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ኣዘዝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ብዛዕባ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብን"
+    },
+    {
+      "surface": "לאשתו",
+      "gloss": "ስለ ሰበይቱን"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ብዛዕባ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ኣቦን"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "ስለ ዓቢ ወዲኡን"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "ኣብ ዕድመኣ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ኣቦኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:31:14.090790177Z",
+  "model": "glm-5.3"
+}

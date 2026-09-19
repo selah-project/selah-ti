@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ሸላሕ ድማ ሰላሳ ዓመት ነይሩ፣ ዔበርን ⟨את⟩ ወለደ።",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "ሸላሕ ድማ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሰላሳ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዔበርን"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ዔበር"
+    }
+  ],
+  "timestamp": "2026-09-18T20:36:58.919407488Z",
+  "model": "glm-5.3"
+}

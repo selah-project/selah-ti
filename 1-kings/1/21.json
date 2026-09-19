@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 1:21",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ከምዚ እንተ ደኰመ ጎይታይ እቲ ንጉስ ምስ ኣቦታቱ፣ ኣነን ወዲ ሽሎሞን ከም ብዓታት ክንቑጸሩ ኢና።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ይኸውን"
+    },
+    {
+      "surface": "כשכב",
+      "gloss": "ምስ ደኰመ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጎይታይ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ኣቦታቱ"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "ክንከውን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ወዲን"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ብዓታት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:44:48.333636212Z",
+  "model": "glm-5.3"
+}

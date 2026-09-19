@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 6:29",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ያህዌህ ንሞሸ እናበለ ተዛረበ፦ «ኣነ ያህዌህ እየ፤ ንፓርዖ ንጉስ ሚጽራይም ⟨את⟩ ኩሉ እቲ ኣነ ዝዛረበሉ ኩሉ ተዛረቦ።»",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረቦ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ (כל)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝዛረበሉ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ነይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:12:12.415388651Z",
+  "model": "glm-5.3"
+}

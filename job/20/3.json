@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 20:3",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ትግህሰት ዕሽንተይ ሰምዐ፣ መንፈስ ምርዳእይ ድማ ይመልሰኒ እዩ።",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "ትግህሰት"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "ዕሽንተይ"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ከምኡውን መንፈስ"
+    },
+    {
+      "surface": "מבינתי",
+      "gloss": "ምርዳእይ"
+    },
+    {
+      "surface": "יענני",
+      "gloss": "ይመልሰኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:14:21.420358931Z",
+  "model": "glm-5.3"
+}

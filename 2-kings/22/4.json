@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 22:4",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "«ንኣልዕል ናብ ሕልቂያሁ ነበይ ዓቢ፤ ⟨את⟩ ነቲ ብር እቲ ዝኣቱ ናብ ቤት ያህዌህ፣ እቲ ኣሕራሪ ቐረባ ካብ ⟨מאת⟩ እቲ ህዝቢ ዝኣካኩ፣ ንዕኡ ክውሕሶ ንብሎ።»",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "ንኣልዕል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "ሕልቂያሁ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ነበይ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "ויתם",
+      "gloss": "ክውሕሶ ንብሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ብር"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ነቲ ብር"
+    },
+    {
+      "surface": "המובא",
+      "gloss": "ዝኣቱ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ናብ ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "ዝኣካኩ"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ኣሕራሪ"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "ቐረባ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ካብ ⟨את⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:35:39.950037310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እውን ⟨את⟩ ሕቆቅን ⟨את⟩ ከባቢኣን፣ ⟨את⟩ ርሕብን ⟨את⟩ ከባቢኣን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሕቆቅ"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "ሕቆቅ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ከባቢኣ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ከባቢኣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ርሕብ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ርሕብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ከባቢኣ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ከባቢኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:33:46.533870155Z",
+  "model": "glm-5.3"
+}

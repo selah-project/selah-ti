@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ንስኻን ኣገልገልትካን ግና ካብ ቅድሚ ያህዌህ ኤሎሂም ገለ ክፈርሑ ከም ዘይኮኑ ተረዲእኩ እየ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻን"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "ኣገልገልትካን"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ተረዲእኩ እየ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ገለ"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "ክፈርሑ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ካብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:16:41.442250032Z",
+  "model": "glm-5.3"
+}

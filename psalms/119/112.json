@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ልቤ ናብ ምግባር ጽዑቓትካ ኣንቢበ፣ ናብ ዘለኣለም ክሳብ መወዳእታ።",
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "ኣንቢበ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቤ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ናብ ምግባር"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ጽዑቓትካ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ክሳብ መወዳእታ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:50.078784709Z",
+  "model": "glm-5.3"
+}

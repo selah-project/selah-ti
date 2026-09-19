@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ቃልካ ኣብ ልበይ ሓበይኩ፣ ነኻ ክጥፍእ እንተኾይና ኣይብልን።",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "ኣብ ልበይ"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "ሓበይኩ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ቃልካ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "እንተኾይና"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "ክጥፍእ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ነኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:29:46.665538428Z",
+  "model": "glm-5.3"
+}

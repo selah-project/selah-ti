@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ድሕሪ ሞት ኣቭራሃም ኤሎሂም ⟨את⟩ ይጽሓቅ ወዲኡ ባረኾ፤ ይጽሓቅ ድማ ምስ ቤረ-ላሓይ-ሮኢ ነበረ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ድሕሪ ሞት … ተኻየዱ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ባረኾ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይጽሓቅ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይጽሓቅ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ነበረ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይጽሓቅ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ቤረ"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "ላሓይ"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ሮኢ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:47:43.621235510Z",
+  "model": "glm-5.3"
+}

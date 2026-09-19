@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ነቲ ካብ የሮብዓም ኣብ ከተማ ዝሞት ኵላት ክብልዎ፤ ነቲ ኣብ በረ ዝሞት ድማ ወፍቲ ሰማይ ክብልዎ፤ ስለ ያህዌህ ተዛረበ።",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "ዝሞት"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "ካብ የሮብዓም"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ኣብ ከተማ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ክብልዎ"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "ኵላት"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ነቲ ዝሞትን"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ኣብ በረ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ክብልዎ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ወፍቲ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረበ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:02:04.044894732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 25:8",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "«ንወገንካ ⟨את⟩ ሕተቶም፣ ነካ ኪገልጹልካ እዮም፤ ነቶም ወገኖ ምስ ኣይታኻ ሓበይት ረኺቡም፣ ስለዚ ብሓጐስ መዓልቲ ነና ኣይና፤ ኣበ ኣብ ኢድካ ⟨את⟩ እትረኽቦ ንኣገልገልትካን ንወድኻ ንዳዊድን ሃቡ።»",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "ሕተቶም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንወገንካ"
+    },
+    {
+      "surface": "נעריך",
+      "gloss": "ወገንካ"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ኪገልጹልካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ነካ"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ረኺቡም"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "ነቶም ወገኖ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ሓበይት"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ምስ ኣይታኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ሓጐስ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ኣይና"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ሃቡ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ኣበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እትረኽቦ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዘሎ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "እትረኽቦ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኣብ ኢድካ"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "ንኣገልገልትካ"
+    },
+    {
+      "surface": "ולבנך",
+      "gloss": "ንወድኻ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ንዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:15:54.895426150Z",
+  "model": "glm-5.3"
+}

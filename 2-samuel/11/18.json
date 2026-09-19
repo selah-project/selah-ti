@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ዮኣብ ሰደደ፣ ⟨את⟩ ኩሉ ቃላት እታ ውግእ ንዳዊድ ኣፍለጠ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮኣብ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ኣፍለጠ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ንዳዊድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ቃላት እታ ውግእ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "እታ ውግእ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:29:30.454401863Z",
+  "model": "glm-5.3"
+}

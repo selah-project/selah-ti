@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 108:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 108,
+  "translation": "ብኤሎሂም ጽንዓት ኽንገብር ኢና፤ ንሱ ድማ ጸገምቲና ይሕድሞም።",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "ብኤሎሂም"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ኽንገብር ኢና"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ጽንᓓት"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ ድማ"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "ይሕድሞም"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ጸገምቲና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:22.559522092Z",
+  "model": "glm-5.3"
+}

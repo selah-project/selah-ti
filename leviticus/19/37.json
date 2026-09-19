@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኩሉ ስነ-ስርዓተይን ⟨את⟩ ኩሉ ፍርዲን ⟨את⟩ ተጠንቐቑ፣ ነንጥፎም፦ ኣነ ያህዌህ እየ።",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ተጠንቐቑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ስነ-ስርዓተይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ስነ-ስርዓተይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ፍርዲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ፍርዲ"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ተጌርፉ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ስነ-ስርዓተይን ኩሉ ፍርዲ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:02:10.056370602Z",
+  "model": "glm-5.3"
+}

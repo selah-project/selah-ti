@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 20:14",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኣቢሜለኽ በጊዕ፣ ላምታት፣ ኣገልጋሊ ተባዕታይን ኣገልጋሊ ሴብታትን ወሲዱ፣ ንኣቭራሃም ሃበ፤ ንሱ ድማ ⟨את⟩ ሣራ ሚስቱ መለሶሉ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ኣቢሜለኽ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "በጊዕ"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ላምታት"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "ኣገልጋሊ ተባዕታይ"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "ኣገልጋሊ ሴብታት"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ንኣቭራሃም"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "መለሶ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሣራ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ሣራ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሚስቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:43:44.369776299Z",
+  "model": "glm-5.3"
+}

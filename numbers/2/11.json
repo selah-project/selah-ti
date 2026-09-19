@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሰራዊቱን እቶም ዝተቐጸሉን ሽድሓትን ኣርባዕተ-ዓሰርት ሽሕን ሓሙሽተ ምእታትን እየን።",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ሰራዊቱን"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "እቶም ዝተቐጸሉን"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ሽድሓትን"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ኣርባዕተ-ዓሰርት"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ምእታት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:12:22.027860731Z",
+  "model": "glm-5.3"
+}

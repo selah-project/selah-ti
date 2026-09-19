@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እዚ ድማ ቓል እቲ ግዴታ እቲ እንጉሲ ሽሎሞ ንምቕራብ ⟨את⟩ ቤት ያህዌህን ⟨ואת⟩ ቤቱን ⟨ואת⟩ ማሎን ⟨ואת⟩ ምሕደሪ የሩሻላይምን ⟨ואת⟩ ሕጸርን ⟨ואת⟩ ምጊዶን ⟨ואת⟩ ግዘርን ዘውጸአ።",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "እዚ ድማ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "המס",
+      "gloss": "ግዴታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ዘውጸአ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ እንጉሲ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ንምቕራብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ቤቱ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ቤቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ማሎ"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "ማሎ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ምሕደሪ"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ምሕደሪ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ሕጸር"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "ሕጸር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ምጊዶ"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "ምጊዶ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ግዘር"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ግዘር"
+    }
+  ],
+  "timestamp": "2026-09-19T00:57:39.868818489Z",
+  "model": "glm-5.3"
+}

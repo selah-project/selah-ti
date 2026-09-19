@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ናይኒ ብር እዩ፣ ናይኒ ድማ ወርቂ እዩ፣ ኢሉ ያህዌህ ጸባኦት።",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ናይኒ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ናይኒ ድማ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ኢሉ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦቷ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:31:13.451094497Z",
+  "model": "glm-5.3"
+}

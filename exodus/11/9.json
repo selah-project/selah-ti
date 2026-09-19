@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ያህዌህ ድማ ንሞሸ በለ፦ ፓርዖ ኣይሰምዐኩምን እዩ፤ ንኽብዝሑ ሔሴድተይ ኣብ ምድሪ ሚጽራይም ⟨ኣብ ክንዲ ንኽብዝሑ ኩነታት እዚኦም⟩።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ይሰምዕ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ኩም"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ንኽብዝሑ"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ክብዝሑ"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "ሔሴድተይ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:16:03.836808892Z",
+  "model": "glm-5.3"
+}

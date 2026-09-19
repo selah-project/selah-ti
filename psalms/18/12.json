@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ጸልማት ምስታፍኡ ገይሩዎ፣ ድሮኣቱ ድማ ማዕዶ እዩ፤ ጸልማት ማይን ደቀባት ደመናትን።",
+  "tokens": [
+    {
+      "surface": "ᙎית",
+      "gloss": "ገይሩዎ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጸልማት"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "ምስታፍኡ"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "ድሮኣቱ"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "ማዕዶ"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "ጸልማት"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "ደቀባት"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ደመናት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:03.815649576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኣገልገልቱ ተኣማማእ ኮይኖም ምስባር ሰርሑ፣ ⟨את⟩ ዮኣሸ ብቤት ሚሎ ኣብ ዝወርድ ናብ ሲላ ሰተዩ።",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ተኣማማእ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ኣገልገልቱ"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "ሰርሑ"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "ምስባር"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ሰተዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮኣሸ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ዮኣሸ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ሚሎ"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "ዝወርድ"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "ሲላ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:25:20.838158388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ruth 3:14",
+  "book": "ruth",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "«ኣብ እግሩ ተኣኽበት ክሳብ ⟨ቀዳማይ⟩ መዓልቲ፣ ቐሊለት ድማ ቅድሚ ምልዕዓል ሰብ ⟨את⟩ ሓዙ፤ በለ ድማ፦ ነቲ ሰበይቲ ናብ እቲ መርዓ ቦታ ምስ መጺኣ ኣይውደቕን።»",
+  "tokens": [
+    {
+      "surface": "ותשכב",
+      "gloss": "ተኣኽበት"
+    },
+    {
+      "surface": "מרגלתו",
+      "gloss": "ኣብ እግሩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ቐሊለት"
+    },
+    {
+      "surface": "בטרום",
+      "gloss": "ቅድሚ ምልዕዓል"
+    },
+    {
+      "surface": "יכיר",
+      "gloss": "ይፈልጦ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓዙ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ሓዙ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ይውደቕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ምስ መጺኣ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "እታ ሰበይቲ"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "እቲ መርዓ ቦታ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:08:14.991284655Z",
+  "model": "glm-5.3"
+}

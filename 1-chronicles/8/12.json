@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ውላዲ ኤልፓዓል ድማ ዔቨር፣ ሚሻዓምን ሸሜድን — ንሱ ኣውኖ ሎድን ወዲ ዓዲታታን ሃንጸ።",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ውላዲ"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "ኤልፓዓል"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ዔቨር"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "ሚሻዓም"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "ሸሜድ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሃንጸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣውኖ"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "ኣውኖ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሎድ"
+    },
+    {
+      "surface": "לד",
+      "gloss": "ሎድ"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ወዲ ዓዲታታ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:33:34.055597226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ኣነ ድማ ኣብ ሰላሜይ «ንሕትት ግዜ ኣይንቀሳቐስን እየ» በልኩ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "በልኩ"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "ኣብ ሰላሜይ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ኣይንቀሳቐስን"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ንሕትት ግዜ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:09.918754772Z",
+  "model": "glm-5.3"
+}

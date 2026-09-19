@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ጥበብ ኣብ በረ ትጮኽ፣ ኣብ ስፍሓት ድምጺኣ ትህብ።",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ኣብ በረ"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "ትጮኽ"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "ኣብ ስፍሓት"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ትህብ"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "ድምጺኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:37.284043676Z",
+  "model": "glm-5.3"
+}

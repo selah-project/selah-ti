@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ምሕረታት እውን ክሃበኩም፣ ንኣኹም ⟨את⟩ ክራሕም፣ ነዊሕኹም ንኣኹም ⟨את⟩ ናብ ምድሪኹም ክመልስ።",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "ክሃበኩም"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኣኹም"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "ምሕረታት"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "ክራሕም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንኣኹም"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ክመልስ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንኣኹም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "ምድሪኹም"
+    }
+  ],
+  "timestamp": "2026-09-19T03:10:12.682111945Z",
+  "model": "glm-5.3"
+}

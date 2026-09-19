@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ሻኡል ⟨את⟩ ሻሙኤል ኣብ መእተዊ እቲ ኣፍደገ ቐሪቡ እናበለ፦ «በጃኻ ንገረኒ፣ ኣቐዲሙ ነቲ ረኣዪ ኣበይ እዩ?»",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "ቐሪቡ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሻሙኤል"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሻሙኤል"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ መእተዊ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "እቲ ኣፍደገ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ንገረኒ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "በጃኻ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ኣበይ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ኣቐዲሙ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "እቲ ረኣዪ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:03:34.267760009Z",
+  "model": "glm-5.3"
+}

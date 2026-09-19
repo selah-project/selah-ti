@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኤሉሜልኽ ሰብ ንዑሚ ሞተ፤ ንሳ ምስ ክልተ ውላዳ ተሪፋ።",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "ኤሉሜልኽ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "ንዑሚ"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "ተሪፋ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ንሳ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ምስ ክልተ"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ውላዳ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:33:48.775981155Z",
+  "model": "glm-5.3"
+}

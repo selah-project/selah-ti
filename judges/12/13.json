@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኣብ ድሕሪኡ ድማ ዓብዶን ወዲ ሕለል እቲ ፒራቶናዊ ⟨את⟩ እስራኤል ፈረደ።",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ፈረደ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ኣብ ድሕሪኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "ዓብዶን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "ሕለል"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "እቲ ፒራቶናዊ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:46:32.463713731Z",
+  "model": "glm-5.3"
+}

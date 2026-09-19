@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 139,
+  "translation": "እኳ ኣብኡ ኢድኻ ትመርሕኒ እያ፣ የማንካ ድማ ትሓዝኒ እያ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እኳ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድኻ"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ትመርሕኒ እያ"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "ድማ ትሓዝኒ እያ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "የማንካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:41.071009140Z",
+  "model": "glm-5.3"
+}

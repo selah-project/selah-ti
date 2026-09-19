@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ኣብ ሰብ በደል ፍርዲ ሞት ነይሩ ንሱ ድማ ተቐቲሉ ሞተ፣ ንስኻ ድማ ነቲ ⟨אתו⟩ ኣብ ላዕሊ ዛግ ሰቒልካ።",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ኣብ ሰብ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "በደል"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርዲ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "ተቐቲሉ ሞተ"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "ሰቒልካ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ነቲ ንሱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ዛግ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:00:13.982225865Z",
+  "model": "glm-5.3"
+}

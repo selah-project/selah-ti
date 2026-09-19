@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ፕይንሕስ ድማ ኣተበ ፍዳይ ፈረደ፣ እቲ መቕጽዓ ድማ ተታኸበት።",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ኣተበ"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ፕይንሕስ"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "ፍዳይ ፈረደ"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "ተታኸበት"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "እቲ መቕጽዓ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:02:42.063639620Z",
+  "model": "glm-5.3"
+}

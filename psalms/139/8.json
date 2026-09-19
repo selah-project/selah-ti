@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 139,
+  "translation": "ሰማያት እንተ ወጺእኩ፣ ኣብኡ ኣታ ነይርካ፤ ኣብ ሽኦል ኣልጋ እንተ ኣተርኣይኩ፣ ኣለኻ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "ወጺእኩ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኣታ ነይርካ"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "ኣልጋ እንተ ኣተርኣይኩ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሽኦል"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ኣለኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:01.307387492Z",
+  "model": "glm-5.3"
+}

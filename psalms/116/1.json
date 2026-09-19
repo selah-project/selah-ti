@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 116,
+  "translation": "ቐደምነ ስለ ዝሰምዐ ያህዌህ ⟨את⟩ ድምጺ በዓልቲ ዘረባይ።",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "ቐደምነ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ ዝሰምዐ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ዝሰምዐ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምጺ በዓልቲ ዘረባይ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ድምጂ በዓልቲ ዘረባይ"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ምሕረት ዝሓተትኩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:22.334459955Z",
+  "model": "glm-5.3"
+}

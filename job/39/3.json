@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 39:3",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "እተን ይቕመጣ፣ ውላዳተን ይወጹ፣ ህይወተን ይሓልዋ።",
+  "tokens": [
+    {
+      "surface": "תכרענה",
+      "gloss": "ይቕመጣ"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "ውላዳተን"
+    },
+    {
+      "surface": "תפלחנה",
+      "gloss": "ይወጹ"
+    },
+    {
+      "surface": "חבליהם",
+      "gloss": "ህይወተን"
+    },
+    {
+      "surface": "תשלחנה",
+      "gloss": "ይሓልዋ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:25:04.665576797Z",
+  "model": "glm-5.3"
+}

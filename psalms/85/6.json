@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 85,
+  "translation": "ናብ ዘለኣለም ንሕና ትቐጸልና ድዩ፧ ቍጥዓኻ ናብ ውላድን ውላድን ትዘምዖ ድዩ፧",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "ናብ ዘለኣለም ድዩ"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "ትቐጸልና"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "ትዘምዖ"
+    },
+    {
+      "surface": "אפᚸ",
+      "gloss": "ቍጥዓኻ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ናብ ውላድ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ውላድን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:25.231516438Z",
+  "model": "glm-5.3"
+}

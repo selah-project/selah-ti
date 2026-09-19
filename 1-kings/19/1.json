@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኣሓብ ድማ ንኢዝበል ነገራ ኩሉ እቲ ኤሊያሁ ዝገበሮ ⟨את⟩፣ ⟨ואת⟩ ኩሉ እቲ በደረ፣ ⟨את⟩ ኩሉ ነቢያት ብሰይፊ ቐተለ።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ነገራ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ኣሓብ"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "ንኢዝበል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እቲ ኤሊያሁ ዝገበሮ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበሮ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤሊያሁ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እቲ በደረ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ቐተለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ነቢያት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ነቢያት"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ብሰይፊ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:10:25.597888524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "⟨את⟩ ዐይናተይ ኣእሺበ ረኣይን፣ እንሆ ሓደ ሰብ ብቐሊም ተኣኢሉ፣ ማሕፆን ብወርቂ ኡፋዝ ተታሒቡ ኣሎ።",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ኣእሺበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዐይናተይ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ዐይናተይ"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ረኣይን"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "ተኣኢሉ"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "ቐሊም"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "ማሕፆን"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "ተታሒቡ"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "ብወርቂ"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "ኡፋዝ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:02:36.484282826Z",
+  "model": "glm-5.3"
+}

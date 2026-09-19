@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ድማ እቲ ካህን ንኦም ቅድሚ ያህዌህ የቐርብ፣ ድማ ⟨את⟩ ቍርባን ሓጢኣቱን ⟨את⟩ ተቓጽዮኡን የገብር።",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ድማ የቐርብ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ድማ የገብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቍርባን ሓጢኣቱ"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ሓጢኣቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ተቓጽዮኡ"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "ተቓጽዮኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:16:18.004228874Z",
+  "model": "glm-5.3"
+}

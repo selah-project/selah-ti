@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 43,
+  "translation": "«ምስ ኣብ ማይ ትሓልፍ ኣነ ⟨את⟩ ምስኻ እየ፣ ኣብ ሩባታት ድማ ኣይሰምጡኻን፤ ምስ ኣብ ሓዊ ትከድን ኣይትቑጠልን፣ ስለበይቲ ድማ ኣባኻ ኣይትቐጥልን።»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ትሓልፍ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ኣብ ማይ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ምስኻ",
+      "marks": "ምስኻ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "ኣብ ሩባታት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "ይሰምጥኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ትከድን"
+    },
+    {
+      "surface": "במו",
+      "gloss": "ኣብ ውሽጢ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "ትቑጠል"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "ስለበይቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ትቐጥል"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣባኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:12:08.390857276Z",
+  "model": "glm-5.3"
+}

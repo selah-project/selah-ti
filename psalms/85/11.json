@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 85,
+  "translation": "ሔሴድን ሓቂን ተራኸቡ፣ ጽድቂን ሰላምን ተሳበዙ።",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ሓቂን"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "ተራኸቡ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂን"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "ሰላምን"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "ተሳበዙ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:29.041675367Z",
+  "model": "glm-5.3"
+}

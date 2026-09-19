@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 27:4",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ቁስቓስ ኣባይ የለን፤ መን ኣኽሊልን ኮረቻን ኣብ ምሕቃቕ ይሃበኒ? ኣብኣ እተባ እንጸይር፣ ኣብ ሓደ ልቢ እተኽዮኣ እየ።",
+  "tokens": [
+    {
+      "surface": "חמה",
+      "gloss": "ቁስቓስ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ኣባይ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "ይሃበኒ"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "ኣኽሊል"
+    },
+    {
+      "surface": "שית",
+      "gloss": "ኮረቻ"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "ኣብ ምሕቃቕ"
+    },
+    {
+      "surface": "אפשעה",
+      "gloss": "እተባ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኣ"
+    },
+    {
+      "surface": "אציתנה",
+      "gloss": "እተኽዮኣ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ኣብ ሓደ ልቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:58:58.777207722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 27:24",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "እቲ ጐረባብኡ ኣብ ምስጢር ዘበጠሐ ርጉም እዩ፤ ኩሉ ህዝቢ ድማ ኣሜን ይብል።",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ርጉም"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ዘበጠሐ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ጐረባብኡ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ኣብ ምስጢር"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ይብልድማ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ኣሜን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:07:06.826427491Z",
+  "model": "glm-5.3"
+}

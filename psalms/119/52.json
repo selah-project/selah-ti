@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 119:52",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ያህዌህ፣ ፍርድታትኻ ካብ ዘመናት ቀደም ደምደምኩ፣ ድማ ተሓጸነኽዩ።",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "ደምደምኩ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ፍርድታትኻ"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ካብ ዘመናት ቀደም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואתנחם",
+      "gloss": "ድማ ተሓጸነኽዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:20.055872550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኣካል ሰራዊት ፍልስጤማውያን ድማ ናብ መሻገሪ ምኺማስ ወጸ።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "ኣካል ሰራዊት"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጤማውያን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "መሻገሪ"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "ምኺማስ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:01:34.402564265Z",
+  "model": "glm-5.3"
+}

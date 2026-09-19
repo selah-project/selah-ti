@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ኣብ ታ ሸውዓተይቲ ዓመት ግና እታ ምድሪ ሻባት ምዕራፍ — ናይ ያህዌህ ሻባት — ክኸውን እዩ፤ መርኺኻ ኣይትዘርእን፣ በርኪኻ ውን ኣይትዕጽብን።",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "ኣብ ታ ዓመት"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "ሸውዓተይቲ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ሻባት"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ምዕራፍ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክኸውን እዩ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "እታ ምድሪ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ሻባት"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ናይ ያህዌህ"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "መርኺኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ትዘርእ"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "በርኪኻ ውን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "ትዕጽብ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:07:59.344140644Z",
+  "model": "glm-5.3"
+}

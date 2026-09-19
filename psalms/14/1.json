@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ንመራሒ ቤተ መቕደስ፣ ናይ ዳዊድ። ደቂ ቁልዕ ኣብ ልቡ በለ፦ «ኤሎሂም የለን፤» እቶም ተበላሸቱ፣ ስራሕቶም ኣፍዒቡ፣ ጽቡእ ዝገብር የለን።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንመራሒ ቤተ መቕደስ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ደቂ ቁልዕ"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ኣብ ልቡ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "ተበላሸቱ"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "ኣፍዒቡ"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "ስራሕቶም"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገብር"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡእ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:52.638836747Z",
+  "model": "glm-5.3"
+}

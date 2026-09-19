@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እታቶም ከተራት እተን ሕውራም ንሽሎሞ ዝሃበን ሽሎሞ ሓንሳበን፣ ኣብኡ ድማ ⟨את⟩ ውላድ እስራኤል ኣቐምጡ።",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "ከተራት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እተን"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ዝሃበ"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "ሕውራም"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ንሽሎሞ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሓንሰበ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "እታቶም ከተራት"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "ኣቐምጡ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላድ እስራኤል"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T08:01:15.004423666Z",
+  "model": "glm-5.3"
+}

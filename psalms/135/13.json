@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 135,
+  "translation": "ያህዌህ፣ ስምካ ናብ ዘለኣለም እዩ፤ ያህዌህ፣ ትዝኻ ናብ ትልሚን ትልሚን እዩ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምካ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "ትዝኻ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ናብ ትልሚን"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ትልሚን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:40.608363899Z",
+  "model": "glm-5.3"
+}

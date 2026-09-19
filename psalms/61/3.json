@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 61,
+  "translation": "ኣነ ካብ ዳሕራዊቲ ምድሪ ናብኻ ክጽውዕ እየ፣ ልቢ ምስ ዝጸልመተኒ፣ ካብ ኣይ ኸይበልጠኒ ናብ እቲ ዓቢ ወጻር ኣመርሕኒ።",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "ካብ ዳሕራዊቲ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኻ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ክጽውዕ እየ"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "ምስ ዝጸልመተኒ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ናብ እቲ ወጻር"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "ካብ ኣይ ኸይበልጠኒ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ካብኣይ"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ኣመርሕኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:47.367077510Z",
+  "model": "glm-5.3"
+}

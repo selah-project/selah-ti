@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ሃሳባት ንምህሳብ፣ ኣብ ወርቂን ኣብ ብርን ኣብ ናስን ንምግባር።",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "ንምህሳብ"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "ሃሳባት"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ንምግባር"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "ኣብ ወርቂ"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "ኣብ ብርን"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "ኣብ ናስን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:33:51.770285376Z",
+  "model": "glm-5.3"
+}

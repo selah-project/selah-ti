@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 4:1",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ቃል ሸሞኤል ንኩሉ እስራኤል በጺሖ፣ እስራኤል ድማ ንግብጻውያን ናብ ውግእ ተበጊሱ ኣብ ኣብን ኣዜር ሰፊሑ፣ ግብጻውያን ድማ ኣብ ኣፌቅ ሰፊሖም።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "በጺሖ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሸሞኤል"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ተበጊሱ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ን"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ግብጻውያን"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ናብ ውግእ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ሰፊሑ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ኣብን"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ኣዜር"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ግብጻውያን ድማ"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "ሰፊሖም"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "ኣብ ኣፌቅ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:58:50.952206932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እቶም ዓምዳት ⟨את⟩ ኣብ ቅድሚ ቤተ መቕደስ ኣቆሞም፣ ሓደ ካብ የማን፣ ሓደ ካብ ጸላይ፤ ንስም እቲ የማናይ ያኪን በሎ፣ ንስም እቲ ጸላያይ ድማ ብዖዝ በሎ።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ኣቆሞም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ዓምዳት"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "እቶም ዓምዳት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ቤተ መቕደስ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "ካብ የማን"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ሓደን"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "ካብ ጸላይ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ንስም"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "እቲ የማናይ"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "ያኪን"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ንስምን"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "እቲ ጸላያይ"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ብዖዝ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:54:27.455901534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ኣብ ኣህዛብ ⟨את⟩ ክብሪቱ ኣውጁ፣ ኣብ ኩሉ ህዝቢታት ድማ ተኣማምናቱ ንገሩ።",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "ኣውጁ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ኣብ ኣህዛብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክብሪቱ"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ክብሪቱ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ህዝቢታት"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "ተኣማምናቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:40:14.061032692Z",
+  "model": "glm-5.3"
+}

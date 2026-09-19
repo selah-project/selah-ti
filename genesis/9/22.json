@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ሓም፣ ኣቦ ኻነዓን፣ ⟨את⟩ ዓርቕቲ ኣቡሱ ረኣየ፣ ንክልተ ኣሕዋቱ ኣብ ውጻኢ ድማ ኣስረዳዮም።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ሓም"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ኻነዓን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓርቕቲ ኣቡሱ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ዓርቕቲ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡሱ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ኣስረዳዮም"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ንክልተ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ኣሕዋቱ"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ኣብ ውጻኢ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:34:09.024191436Z",
+  "model": "glm-5.3"
+}

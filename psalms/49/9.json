@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 49,
+  "translation": "መላጽ ነፍሶም ውዑይ እዩ፣ ንዘለኣለም ድማ ደው ኢሉ ከደ።",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "ውዑይ"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "መላጽ"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ነፍሶም"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "ደው ኢሉ ከደ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ንዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:27.419880691Z",
+  "model": "glm-5.3"
+}

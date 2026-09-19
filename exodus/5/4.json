@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ነቶም ድማ ንሱራት ናይ ሚጽራይም እናበለ፦ ስለመን ሞሸን ኣሃሮንን ⟨את⟩ እቲ ህዝቢ ካብ ግብርታት እናነጻጸርኩም ትገብሩ? ኪዱ ናብ ጫናኹም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ነቶም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንሱራት"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ናይ ሚጽራይም"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ስለመን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ኣሃሮንን"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "እናነጻጸርኩም ትገብሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "ካብ ግብርታት"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ኪዱ"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "ናብ ጫናኹም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:15:37.886608953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "⟨את⟩ እቲ ኣርውንን ⟨את⟩ ቐርንጢታቱን፣ ⟨את⟩ እቲ ኽፖረትን ⟨את⟩ ፎረኽት እቲ ማስኽን።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ኣርውን"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "እቲ ኣርውን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቐርንጢታቱ"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ቐርንጢታቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ኽፖረት"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "እቲ ኽፖረት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ፎረኽት"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "ፎረኽት"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "እቲ ማስኽ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:38:10.027556801Z",
+  "model": "glm-5.3"
+}

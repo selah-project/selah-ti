@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣብ ኩሉ እዋን ኣልባሻትኻ ነማ ይኹኑ፣ ዘት ኣብ ርእስኻ ከኣ ኣይምንጥርን።",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "እዋን"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ይኹኑ"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "ኣልባሻትኻ"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "ነማ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ዘት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ርእስኻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ኣይምንጥርን"
+    }
+  ],
+  "timestamp": "2026-09-19T09:06:51.573499453Z",
+  "model": "glm-5.3"
+}

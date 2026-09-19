@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ጎይታ ናይ ቤቱ ኣኽሊሉ፣ ኣብ ልዕሊ ኹሉ ንብረቱ ኸውን ኾኖ ኣቕሚጹዎ።",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "ኣኽሊሉ"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ጎይታ"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ናይ ቤቱ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ኸውን ኾኖ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ልዕሊ ኹሉ"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "ንብረቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:25.774982569Z",
+  "model": "glm-5.3"
+}

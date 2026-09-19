@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ተንሳእ ያህዌህ፣ ድሕነኒ ኤሎሂምይ፣ ስለ ኩሉ ተቓወምተይ ⟨את⟩ ኣብ ስጉምት ወርይኻ፣ ስኒ ኃጥኣት ኣፈርስካ።",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ተንሳእ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ድሕነኒ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂምይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ወርይኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ተቓወምተይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ተቓወምተይ"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "ስጉምት"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ስኒ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኃጥኣት"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ኣፈርስካ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:40.631983658Z",
+  "model": "glm-5.3"
+}

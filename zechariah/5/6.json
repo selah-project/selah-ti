@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 5:6",
+  "book": "zechariah",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣነ «እዚኣ እንታይ እያ?» በልኩ። «እዚኣ እትወጽእ ኤፋ እያ» በሎ፦ «እዚኣ ዓይኖም ኣብ ኩሉ ምድሪ እያ።»",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "በልኩ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እያ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚኣ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ኤፋ"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "እትወጽእ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚኣ"
+    },
+    {
+      "surface": "עינם",
+      "gloss": "ዓይኖም"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:34:30.155657168Z",
+  "model": "glm-5.3"
+}

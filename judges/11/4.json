@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ድሕሪ መዓልታት ድማ ኮይኑ፣ ውላድ ዓሞን ምስ ይስራኤል ተቓልዩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "ድሕሪ መዓልታት"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ተቓልዩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ዓሞን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T23:48:16.117764101Z",
+  "model": "glm-5.3"
+}

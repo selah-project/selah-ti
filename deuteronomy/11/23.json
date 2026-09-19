@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ያህዌህ ከምኡውን ⟨את⟩ ኩሉ ኣህዛብ እዚኦም ካብ ቅድሚኹም የቓርቖም፣ ንስኻትኩም ድማ ኣህዛብ ዓባይቲን ኽታታትን ካብ ኣኻትኩም ተሓዙ።",
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "የቓርቖም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ኣህዛብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "ካብ ቅድሚኹም"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ተሓዙ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ዓባይቲ"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "ኽታታትን"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ካብ ኣኻትኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:53:15.311060696Z",
+  "model": "glm-5.3"
+}

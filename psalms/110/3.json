@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 110,
+  "translation": "ዓርከትካ ብነዊሕቲ ኣብ መዓልቲ ሓይሊካ ኣብ ማሕተምቲ ቕዱስነት፤ ካብ ማሕጸን ናይ ድንቃት፤ ንስኻ ተረኺብካ ነፍሲ ወርቃትካ።",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "ዓርከትካ"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "ብነዊሕቲ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "ሓይሊካ"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "ኣብ ማሕተምቲ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስነት"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ካብ ማሕጸን"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "ናይ ድንቃት"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "ወርቃትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:59.916892561Z",
+  "model": "glm-5.3"
+}

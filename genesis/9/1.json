@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኤሎሂም ⟨את⟩ ኖኅን ⟨ואת⟩ ውላዱን ባረኾ፤ ነቖም ድማ፦ «ተበዝሑ፣ ብዙሓቱ፣ ⟨את⟩ ምድሪ ኣእቱ» በሎም።",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ባረኾ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኖኅ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖኅ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ውላዱ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ነቖም"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "ተበዝሑ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ብዙሓቱ"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ኣእቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:34:11.924391410Z",
+  "model": "glm-5.3"
+}

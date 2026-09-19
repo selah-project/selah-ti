@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ድማ ቁጽነት ኤፍራይም ትምለስ፣ ተቓላሚት ይሁዳ ክቑረጣ እየን፤ ኤፍራይም ንይሁዳ ⟨את⟩ ኣይቕንጸል፣ ይሁዳ ድማ ንኤፍራይም ⟨את⟩ ኣይጽገኖን።",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "ትምለስ"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ቁጽነት"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "ተቓላሚት"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ክቑረጣ እየን"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "ይቕንጸል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ይሁዳ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ይሁዳ ድማ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ይጽገን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤፍራይም"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:50:35.877423217Z",
+  "model": "glm-5.3"
+}

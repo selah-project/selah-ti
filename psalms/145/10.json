@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 145,
+  "translation": "ኩሉ መስራሕትካ ያህዌህ ይወደስካ፣ ጽዱቓንካ ድማ ይባርኽካ።",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ይወደስካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "መስራሕትካ"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "ጽዱቓንካ-ውን"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "ይባርኽካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:01.757822106Z",
+  "model": "glm-5.3"
+}

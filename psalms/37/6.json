@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ከም ብርሃን ብጽድቅካ የውጽእ፣ ንፍሉይካ ድማ ከም ሰላምታ የውጽእ።",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "የውጽእ"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "ከም ብርሃን"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ብጽድቅካ"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "ንፍሉይካ ድማ"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "ከም ሰላምታ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:47.194712601Z",
+  "model": "glm-5.3"
+}

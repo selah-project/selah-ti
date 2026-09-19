@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ብዘይ ኣድልዩ ብረቱ ኣይሃበን፣ ንኣሕዋት ድማ ጉርሻ ኣይወሰደን፤ እዚኦም ዝገብር ናብ ዘለኣለም ኣይተንቀጥቐጥን።",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "ብረቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "ብዘይ ኣድልዩ"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "ጉርሻ ድማ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ኣሕዋት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገብር"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ተንቐጥቐጥ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:43:59.086247819Z",
+  "model": "glm-5.3"
+}

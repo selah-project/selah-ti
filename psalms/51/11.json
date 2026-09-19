@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 51,
+  "translation": "ገጽካ ካብ ሓጢኣተይ ሓብእ፣ ኩሉ ጥፍኣተይ ድማ ስሓሮ።",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "ሓብእ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽካ"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "ካብ ሓጢኣተይ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "ጥፍኣተይ"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "ስሓሮ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:27.298406431Z",
+  "model": "glm-5.3"
+}

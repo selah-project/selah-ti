@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 124,
+  "translation": "ያህዌህ ንሕና እንተ ዘይነበረና፣ ሰብ ምስ ተነስአ ኣብ ልዕሊና እንተ ዝነበረ፦",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "እንተ ዘይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ነበረ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "ምስ ተነስአ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ኣብ ልዕሊና"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:00.912034712Z",
+  "model": "glm-5.3"
+}

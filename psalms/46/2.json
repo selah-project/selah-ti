@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 46,
+  "translation": "ኤሎሂም ንሕና መሸለቢናን ኃይሊናን እዩ፡ ሓጋዚ ኣብ ጸገማታት ብዙሕ ዝግናን እዩ።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "መሸለቢና"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ንኃይሊና"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "ሓጋዚ"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "ኣብ ጸገማታት"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ዝግናን"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:26.947459639Z",
+  "model": "glm-5.3"
+}

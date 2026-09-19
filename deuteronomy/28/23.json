@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "እቲ ሰማይ እቲ ኣብ ልዕሊ ርእስካ ዘሎ ናብ ሓፍርቲ ክኸውን ይግበር፣ እቲ ምድሪ እቲ ትሕቲ እንጻርካ ዘሎ ድማ ናብ ብረት ክኸውን ይግበር።",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ክኸውን ይግበር"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "እቲ ሰማይ ናትካ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ርእስካ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ሓፍርቲ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "እቲ ምድሪ ድማ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "ትሕቲ እንጻርካ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ብረት"
+    }
+  ],
+  "timestamp": "2026-09-18T23:08:58.463636689Z",
+  "model": "glm-5.3"
+}

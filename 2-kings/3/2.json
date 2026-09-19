@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ድማ ኣብ ኣዕይንቲ ያህዌህ እቲ ንጥፍኣት ገበረ፣ ጥራይ ከም ኣቡኡን ከም ኣደኡን ኣይነበረን፤ እቲ ምስቕ ናይ በዓል ኣቡኡ ዝገበረዎ ድማ ⟨את⟩ ኣሓለፎ።",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "እቲ ንጥፍኣት"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ ኣዕይንቲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "ከም ኣቡኡ"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "ንከምኡውን ከም ኣደኡ"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ኣሓለፎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ምስቕ ናይ በዓል"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "ምስቕ"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ናይ በዓል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበረ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:11:51.074641517Z",
+  "model": "glm-5.3"
+}

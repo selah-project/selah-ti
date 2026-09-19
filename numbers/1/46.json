@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኵሉ እቲ ዝተቐጸለ ሽድሽተ ሚእቲ ኣልፍን ሰለስተ ኣልፍን ሓሙሽተ ሚእትን ሓምሻ ኮይኑ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኵሉ"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "እቲ ዝተቐጸለ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ሽድሽተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚእቲ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ኣልፍ"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ኣልፍ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚእትን"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ሓምሻ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:09:26.829406749Z",
+  "model": "glm-5.3"
+}

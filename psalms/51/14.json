@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 51,
+  "translation": "ሓጐስ ናይ መድሃኒትካ ንኹ ተመልሰለይ፣ ምስ ሓራዊ መንፈስ ከኣ ተደጊፈኒ።",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "ተመልሰለይ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኹ"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ሓጐስ"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "ናይ መድሃኒትካ"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "ሓራዊ"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "ተደጊፈኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:15.433012553Z",
+  "model": "glm-5.3"
+}

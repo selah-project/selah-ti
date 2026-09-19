@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ማይና ብገንዘብ ሰተዕና፣ እኳኣትና ብዋጋ ይመጹ።",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "ማይና"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ብገንዘብ"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "ሰተዕና"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "እኳኣትና"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "ብዋጋ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ይመጹ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:38:42.520920440Z",
+  "model": "glm-5.3"
+}

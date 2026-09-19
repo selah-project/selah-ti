@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "ወለዲ ኣገልባት ኣብ ክቡራትካ ኣለዋ፤ እታ ንግስቲ ኣብ የማናኻ ብወርቂ ኣፉር ተቐሚጣ ኣላ።",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "ወለዲ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ኣገልባት"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "ኣብ ክቡራትካ"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "ተቐሚጣ"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "ንግስቲ"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "ኣብ የማናኻ"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "ብወርቂ"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ኣፉር"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:44.432819720Z",
+  "model": "glm-5.3"
+}

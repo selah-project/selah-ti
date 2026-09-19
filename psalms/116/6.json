@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 116,
+  "translation": "ያህዌህ ጽዱቓት ይሓልዎም፤ ኣነ ተሓብእኩ፣ ንሓንቲ ከኣ ደኅነኒ።",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ይሓልዎም"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "ጽዱቓት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "ተሓብእኩ"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ንሓንቲ"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "ደኅነኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:35.950423716Z",
+  "model": "glm-5.3"
+}

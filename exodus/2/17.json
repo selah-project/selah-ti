@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እቶም መጠበብቲ መጹ፣ ኣወግዑዮም ኸኣ፤ ሞሸ ድማ ተበገሰ፣ ሓወዮም፣ ኣቦምን ድማ ⟨את⟩ መጠበቢ ኣሕማቐ።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "መጹ"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "እቶም መጠበብቲ"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "ኣወግዑዮም"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ተበገሰ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "ሓወዮም"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ኣሕማቐ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መጠበቢ"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "ኣቦምን መጠበቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:26:33.114783777Z",
+  "model": "glm-5.3"
+}

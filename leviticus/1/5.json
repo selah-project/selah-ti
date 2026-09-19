@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ነቲ ⟨את⟩ ውላዲ እጥብኡ ኣብ ቅድሚ ያህዌህ ይቕትሉ፤ ውላደ ኣሃሮን ኣካልትኡ ⟨את⟩ ነቲ ደም የቐርቡ፣ ነቲ ⟨את⟩ ደም ድማ ኣብ መሠወኪ ንዙዙ ይሓብርቡ፣ እቲ ኣብ በዓይቲ ድንኳን ኣኼባ ዝርከብ።",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ይቕትሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውላዲ እጥብኡ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ውላዲ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "እጥብኡ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "የቐርቡ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ኣካልትኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ደም"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ነቲ ደም"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ይሓብርቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ደም"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ነቲ ደም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠወኪ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ንዙዙ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "በዓይቲ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድንኳን"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ኣኼባ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:46:49.347363560Z",
+  "model": "glm-5.3"
+}

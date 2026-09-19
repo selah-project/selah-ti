@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ሞሸ ድማ ከም ዝኣዘዞ ያህዌህ ⟨את⟩ ገበረ፤ ሕዝቢ ድማ ናብ ኣፍደገ ድኽሪ ምላላይ ተደረበ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም ዝኣዘዞ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ኣዘዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ንሱ",
+      "marks": "ንሱ (ሞሸ)"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "ተደረበ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣፍደገ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድኽሪ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ምላላይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:51:45.064520279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ሞሸ ድማ ⟨את⟩ ውጻኢታቶም ንመጓዓዝታቶም ብኣፉ ያህዌህ ጸሓፈ፤ እዚኦም ድማ መጓዓዝታቶም ንውጻኢታቶም እዮም።",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ጸሓፈ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውጻኢታቶም"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "ውጻኢታቶም"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "ንመጓዓዝታቶም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ኣፉ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "እዚኦም ድማ"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "መጓዓዝታቶም"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "ንውጻኢታቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:43:00.443766375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣነ ግን ነገሰይ ኣብ ልዕሊ ጽዮን ቅዱስተይ እርሊ ቐይርኩ።",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ኣነ ግን"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "ቐይርኩ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ነገሰይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "הר",
+      "gloss": "እርሊ"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ቅዱስተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:53.580512049Z",
+  "model": "glm-5.3"
+}

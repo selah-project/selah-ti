@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ጥበብ ተዓግት፣ ርድኣ ተዓግት፤ ኣይትረስዓን፣ ካብ ቃላት ቛሌ ኣይትንኮርን።",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "ተዓግት"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ተዓግት"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ርድኣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ትረስዓ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "…ን ኣይ…ን"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ትንኮር"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "ካብ ቃላት"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ቛሌ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:41:42.146230711Z",
+  "model": "glm-5.3"
+}

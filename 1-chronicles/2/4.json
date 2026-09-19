@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ታማር እታ ሃብቲ ወዲኡ ድማ ሃቢሉ ⟨את⟩ ፈረጽን ⟨את⟩ ዘራኽን፤ ኩሉ ውላዲ ይሁዳ ሓሙሽተ እዮም።",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "ታማር ድማ"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "እታ ሃብቲ ወዲኡ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ሃቲባ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፈረጽ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ፈረጽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዘራኽ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ዘራኽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላዲ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ሓሙሽተ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:29:37.893169942Z",
+  "model": "glm-5.3"
+}

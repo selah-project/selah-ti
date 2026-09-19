@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ንሞርዱኻይ ድማ ⟨את⟩ ቃላት ኣስተር ነገርዎ።",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "ነገርዎ"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "ንሞርዱኻይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላት"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ኣስተር"
+    }
+  ],
+  "timestamp": "2026-09-19T06:45:27.507924346Z",
+  "model": "glm-5.3"
+}

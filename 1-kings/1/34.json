@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-kings 1:34",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "«ኣብኡ ጸዶቅ እቲ ኻህንን ንታን እቲ ነብዪን ⟨את⟩ ነብሲ ንንጉስ ኣብ ልዕሊ እስራኤል ይቅብኡ፣ ብቐርን ኣውጹ፣ ይነብር እቲ ንጉስ ሽሎሞ ኢላኹም ብሉ።»",
+  "tokens": [
+    {
+      "surface": "ומשח",
+      "gloss": "ይቅብኡ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ነብሲ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ጸዶቅ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ኻህን"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ንታን"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "እቲ ነብዪ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ንንጉስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ותקעתם",
+      "gloss": "ኣውጹ"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "ብቐርን"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "ብሉ"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "ይነብር"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:46:22.116976382Z",
+  "model": "glm-5.3"
+}

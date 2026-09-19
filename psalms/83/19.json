@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 83,
+  "translation": "ንስኻ ጥራይ — ስምካ ያህዌህ እዩ — ዔልዩን ኣብ ልዕሊ ኩሉ ምድሪ ከም ዝኾንካ ንክፈልጡ ድማ።",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ንክፈልጡ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ዔልዩን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:46.936378326Z",
+  "model": "glm-5.3"
+}

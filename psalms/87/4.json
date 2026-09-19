@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 87,
+  "translation": "ራሕብን ባቤልን ንዝፈልጠኒ እዘኻልል እየ፤ ኣብዚ ፍልስጤምን ጾርን ምስ ኩሽ ኣለዉ፤ እዚ ኣብኡ ተወሊዱ እዩ።",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "እዘኻልል"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "ራሕብ"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "ባቤልን"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "ንዝፈልጠኒ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ኣብዚ"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "ፍልስጤም"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ጾርን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ኩሽ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ተወሊዱ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:16.086826538Z",
+  "model": "glm-5.3"
+}

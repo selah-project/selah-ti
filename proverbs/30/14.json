@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 30:14",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ትውልዲ — ስንትቱም ሰይፍ እዮም፣ ኣፍደጣቱን ቢላዋት፣ ዝኾነ ኣብ ምድሪ ዘለዉ ድኻታትን ካብ ሰባት ድማ ተስተኻኽልትን ንኽብልዑ እዮም።",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ትውልዲ"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ስንትቱም"
+    },
+    {
+      "surface": "ומאכלות",
+      "gloss": "ቢላዋት"
+    },
+    {
+      "surface": "מתלעתיו",
+      "gloss": "ኣፍደጣቱም"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ንኽብልዑ"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ድኻታት"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "ተስተኻኽልት"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ካብ ሰባት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:59:25.862582839Z",
+  "model": "glm-5.3"
+}

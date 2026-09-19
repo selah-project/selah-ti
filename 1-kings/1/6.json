@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣቦኡ እውን ኩሉ መዓልታቱ «ስለዚ ስለዚ ምን ገበርካ?» እናበለ ኣይሰቐዮን፤ ንሱ ድማ ብጣዕሚ ህቦታማ ቅርጺ ዝነበረ ኮይኑ፣ ኣዲሱ ድማ ⟨את⟩ ንሱ ኣብ ድሕሪ ኣብሻሎም ወለደቶ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "ኣይሰቐዮን"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ኩሉ መዓልታቱ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ስለዚ ስለዚ ምን"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ገበርካ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ንሱ ድማ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ህቦታማ"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ቅርጺ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ወለደቶ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ኣብ ድሕሪ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ኣብሻሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:44:46.394594004Z",
+  "model": "glm-5.3"
+}

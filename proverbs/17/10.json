@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 17:10",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ግርሕቲ ኣብ ሓብርቲ ትወርድ እያ፤ ካብ ምትሕት ሽሞም ኣብ ስዑር ዝወርድ እያ።",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ትወርድ"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "ግርሕቲ"
+    },
+    {
+      "surface": "במבין",
+      "gloss": "ኣብ ሓብርቲ"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "ካብ ምትሕት"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ስዑር"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ሽሞም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:50:04.057538980Z",
+  "model": "glm-5.3"
+}

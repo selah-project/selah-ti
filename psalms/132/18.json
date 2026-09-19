@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 132,
+  "translation": "ጸላእቱ ብዕርግምቲ እልቦ፡ ኣክሊሉ እውን ኣብ ልዕሊኡ ይበርህ።",
+  "tokens": [
+    {
+      "surface": "אויביו",
+      "gloss": "ጸላእቱ"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "እልቦ"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "ብዕርግምቲ"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "ኣብ ልዕሊኡ"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "ይበርህ"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ኣክሊሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:44.865681332Z",
+  "model": "glm-5.3"
+}

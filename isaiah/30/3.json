@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 30:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ከምኡ ድማ እቲ ማዕከኒ ፓርዖ ንኹምኹም ስሕቀት ኮይኑ፣ እቲ መጠለሚ ኣብ ጽልማት ሚጽራይም ድማ ንጾር ኮይኑ።",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኹምኹም"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ማዕከኒ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "ስሕቀት"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "እቲ መጠለሚ"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ኣብ ጽልማት"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "ንጾር"
+    }
+  ],
+  "timestamp": "2026-09-19T02:02:08.242782928Z",
+  "model": "glm-5.3"
+}

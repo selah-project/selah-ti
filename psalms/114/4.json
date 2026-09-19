@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 114,
+  "translation": "እተን ከረማታት ከም ዐምያት ሮከባ፣ ከርእሲታት ድማ ከም ውላድ ጎበጣት ሮከባ።",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "እተን ከረማታት"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "ሮከባ"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "ከም ዐምያት"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ከርእሲታት"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "ከም ውላድ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ጎበጣት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:29.196795156Z",
+  "model": "glm-5.3"
+}

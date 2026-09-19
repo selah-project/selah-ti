@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ምኽንያቱ ኣጥፍያት ይጠፍኡ፣ ተቓወምቲ ያህዌህ ድማ ከም ውዑድ በጊዕቲ ይህልዉ፤ ከም ጢስ ክሳብ መወዳእታ ይህልዉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኣጥፍያት"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ይጠፍኡ"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "ተቓወምቲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "ከም ውዑድ"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "በጊዕቲ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ይህልዉ"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "ከም ጢስ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ይህልዉ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:55:37.155024164Z",
+  "model": "glm-5.3"
+}

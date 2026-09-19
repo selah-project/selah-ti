@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ነቶም ንእሽቲ ቀሚስ ሽሽ፡ በዓርታዊ ግብሪ፡ ንኣሃሮንን ንወደቑን ኣሃሮንን ኣብኡ ኣተዮም።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ኣተዮም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ንእሽቲ ቀሚስ"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "ነቶም ንእሽቲ ቀሚስ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ሽሽ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ግብሪ"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "በዓርታዊ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ንኣሃሮን"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ንወደቑን ኣሃሮንን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:45:05.982260394Z",
+  "model": "glm-5.3"
+}

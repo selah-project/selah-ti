@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ዮኣብን ኣቪሻይ ወዲ ኣቦኡን ኣብነር ቀተልዎ፣ ምኽንያቱ ኣብ ጊብዖን ኣብ ውግእ ⟨את⟩ ዓሳሄል ኣሕዙቦም ቀተሎም።",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "ዮኣብ"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "ኣቪሻይ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ወዲ ኣቦኡ"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ቀተልዎ"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "ኣብነር"
+    },
+    {
+      "surface": "על",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "המית",
+      "gloss": "ቀተሎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓሳሄል"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "ዓሳሄል"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ኣሕዙቦም"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "ኣብ ጊብዖን"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "ኣብ ውግእ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:23:17.971390069Z",
+  "model": "glm-5.3"
+}

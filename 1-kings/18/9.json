@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ከምዚ ድማ በለ፦ እንታይ ኀጠየኩ፣ ከም ትሃብ ⟨את⟩ ተገልገልትካ ኣብ ኢድ ኣሕኣብ ንክቐትለኒ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ከምዚ ድማ በለ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ኀጠየኩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ትሃብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተገልገልትካ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ተገልገልትካ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ኣብ ኢድ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ኣሕኣብ"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "ንክቐትለኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:06:19.623257798Z",
+  "model": "glm-5.3"
+}

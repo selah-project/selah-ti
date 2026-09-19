@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ነቲ ⟨את⟩ היצוע ተወሳኺ ሕንጪ ኣብ ልዕሊ መላልያ ⟨את⟩ בית ቤት፣ ቁመቱ ሓሙሽተ እጥርቲ ኾይኑ ሃነጾ፣ ንነቲ ⟨את⟩ הבית ቤት ድማ ብዕግላት ኣርዙ ዓዘዞ።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሃነጾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕንጪ"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "ሕንጪ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "መላልያ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "እጥርቲ"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ቁመቱ"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "ዓዘዞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "ብዕግላት"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ኣርዙ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:50:50.080900198Z",
+  "model": "glm-5.3"
+}

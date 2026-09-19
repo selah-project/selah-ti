@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "እቲ ፀሓ ድማ ይወጽእ፣ እቲ ፀሓ ድማ ይኣቱ፤ ናብ ቦታኡ እናተንፈሰ እቲ ዝወጽእ እቶ እዩ።",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "ድማ ይወጽእ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "እቲ ፀሓ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ድማ ይኣቱ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "እቲ ፀሓ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ቦታኡ"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "እናተንፈሰ"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "ዝወጽእ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እቶ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እቲ እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:40:05.824803598Z",
+  "model": "glm-5.3"
+}

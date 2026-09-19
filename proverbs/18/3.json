@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ምስ ምምጻእ እቲ ክፉእ ከኣ መንቀዕሕቲ ይመጽእ፣ ምስ ኣፍራሽት ድማ ኹሳት።",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "ምስ ምምጻእ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "እቲ ክፉእ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ይመጽእ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ከኣ"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "መንቀዕሕቲ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ኣፍራሽት"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ኹሳት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:51:28.909955818Z",
+  "model": "glm-5.3"
+}

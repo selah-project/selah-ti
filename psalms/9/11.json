@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ስምኻ ዝፈልጡዎ ብኣኻ ይተኣማኑ፤ ስለ ዝደለይዎኻ ኣይተሓደግካን፣ ያህዌህ ሆይ።",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "ይተኣማኑ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ብኣኻ"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "ዝፈልጡዎ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ስምኻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "ኣይተሓደግካን"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "ዝደለይዎኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:39.264599982Z",
+  "model": "glm-5.3"
+}

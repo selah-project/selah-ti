@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ከምኡውን መስዋዕት እቲ ብእሳት ዝተወፈዐ ካብ እኽሊ ቃጭሪ ⟨את⟩ ገበረ፤ ንውሓቱ ሓሙሽተ እጳን ንስፍሓቱ ሓሙሽተ እጳን ኣራብዕታዊ ኮይኑ፣ ንቁመቱ ድማ ሰለስተ እጳ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መስዋዕት"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መስዋዕት"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ብእሳት ዝተወፈዐ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ካብ እኽሊ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ቃጭሪ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "እጳ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ንውሓቱ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "እጳ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ንስፍሓቱ"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "ኣራብዕታዊ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "እጳ"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ንቁመቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:43:57.429894231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 57,
+  "translation": "ኣነ ጽድቂኪ ክነግር እየ፣ ⟨את⟩ ተግባርኪን፣ ንስኻ ግን ኣይጠቕምካን።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ክነግር እየ"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ጽድቂኪ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ተግባርኪ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ተግባርኪ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ንድማ ኣይ"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "ጠቕምካ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:20:10.087506385Z",
+  "model": "glm-5.3"
+}

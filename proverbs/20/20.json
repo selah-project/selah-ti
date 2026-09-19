@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኣቡኡን ኣመኡን ዝሓጽር ሰብ መዓብሩ ኣብ ጽልማት ጽልማት ይቕጥፍ።",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "ዝሓጽር"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡን"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ኣመኡን"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "ይቕጥፍ"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "መዓብሩ"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "ኣብ ጽልማት"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጽልማት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:53:28.343411734Z",
+  "model": "glm-5.3"
+}

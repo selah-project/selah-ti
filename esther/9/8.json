@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ንፓራታ ⟨את⟩ ንኣዳልያ ⟨את⟩ ንኣሪዳታ ከኣ ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ፓራታ"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "ንፓራታ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣዳልያ"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "ንኣዳልያ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሪዳታ"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "ንኣሪዳታ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:48:55.427751096Z",
+  "model": "glm-5.3"
+}

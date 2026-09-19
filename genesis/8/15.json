@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኤሎሂም ድማ ናብ ኖሕ በዘምዮ ተዛረበ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ኖሕ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "በዘምዮ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:34:28.591445519Z",
+  "model": "glm-5.3"
+}

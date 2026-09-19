@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 76,
+  "translation": "ንስኻ፣ ንስኻ እትፈርሕ ኣለኻ፤ ካብ ቍጥዐኻ ምስ ኾነ ድማ ኣብ ቅድሚኻ መን ክሓውስ ይኽእል፧",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "እትፈርሕ ኣለኻ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ክሓውስ ይኽእል"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ኣብ ቅድሚኻ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ካብ ዝ"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ቍጥዐኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:24.680599265Z",
+  "model": "glm-5.3"
+}

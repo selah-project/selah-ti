@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ዳዊድ ድማ ነቶም ሰቡ ⟨את⟩ ብቃላት ተዓዘቦም፣ ንሻኡል ንኽተበግሱ ኣይሃቦምን፤ ሻኡል ድማ ካብ እቲ ጉባእ ተበገሰ፣ ኣብ መገዲ ድማ ከደ።",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "ተዓዘቦም"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ሰቡ"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ነቶም ሰቡ"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ብቃላት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይሃቦምን"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "ኣይፈቐደሎምን"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "ንኽተበግሱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ሻኡል ድማ"
+    },
+    {
+      "surface": "קם",
+      "gloss": "ተበገሰ"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "ካብ እቲ ጉባእ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መገዲ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:13:42.712914579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ስምዐ ያህዌህ፣ ቓሌ እነበል እየ፣ ሓረንኒ፣ መልሰለይን።",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ስምዐ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ቓሌ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "እነበል እየ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ሓረንኒ"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "መልሰለይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:55.368110813Z",
+  "model": "glm-5.3"
+}

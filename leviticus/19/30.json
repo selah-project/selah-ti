@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ነ⟨את⟩ ሻባታተይ ተጠንቐቑ፤ ነቅዱስ ቦታይ ዕለቑ፤ ኣነ ያህዌህ እየ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሻባታተይ"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "ሻባታተይ"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "ተጠንቐቑ"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ከምኡውን ቅዱስ ቦታይ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ዕለቑ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:02:58.771781826Z",
+  "model": "glm-5.3"
+}

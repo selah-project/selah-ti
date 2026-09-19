@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ንጉሥ ሚጽራይም ድማ ንወለዺ እተን ዕብራይስትያን ተዛረበ፤ ስም እቲ ሓደ ሽፍራ እያ፣ ስም እታ ካልኣይቲ ድማ ፑዓ እያ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "ንወለዺ"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "ዕብራይስትያን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እተን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "እቲ ሓደ"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "ሽፍራ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ስምን"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "እታ ካልኣይቲ"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "ፑዓ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:10:53.660343506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ንስኻ ንሰላም ክሓትቱኻ እዮም፣ ክልተ ዓውደ ዕኽሊ እውን ክሃብኻ እዮም፣ ካብ ኢዶምን ድማ ተቐቢልካ።",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "ክሓትቱኻ እዮም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ንሰላም"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ክሃብኻ እዮም"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዕኽሊ"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ተቐቢልካ"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ካብ ኢዶምን"
+    }
+  ],
+  "timestamp": "2026-09-19T00:03:40.218067427Z",
+  "model": "glm-5.3"
+}

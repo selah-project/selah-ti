@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኤሎሂም ድማ ንኣቭራሃም ተዛረበ፦ ንስኻ ድማ ኪዳንና ተዓቢ ንስኻን ወዲ ልጅትካን ድሕሪኻ ናብ ትውልዳቶም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ድማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኪዳንና"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳንና"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ተዓቢ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ወዲ ልጅትካን"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ድሕሪኻ"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ናብ ትውልዳቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:39:45.282930044Z",
+  "model": "glm-5.3"
+}

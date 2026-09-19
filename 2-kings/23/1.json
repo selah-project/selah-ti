@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "እቲ ንጉስ ሰደደ፣ ንሳቶም ድማ ኩሉ ሽማግለ ይሁዳን የሩሻላይምን ናብኡ ተሰብሲቦም።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ተሰብሲቦም"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ናብኡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ሽማግለ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "የሩሻላይምን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:37:36.326292249Z",
+  "model": "glm-5.3"
+}

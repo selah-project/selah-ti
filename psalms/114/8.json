@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 114,
+  "translation": "ንእቲ ድንጋይ ናብ ኣውዳሪ ማይ፣ ንእቲ ቆርበላይ ድንጋዝ ናብ ምንጪ ማይ ׊እቲ ׋ዝቐየረ።",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "እቲ ዝቐየረ"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "እቲ ድንጋይ"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "ኣውዳሪ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "ቆርበላይ ድንጋዝ"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "ናብ ምንጪ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:45.211645328Z",
+  "model": "glm-5.3"
+}

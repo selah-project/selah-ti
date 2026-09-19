@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "እስማዑ ሰማያት፣ ኣነ ክዛረብ እየ፤ ትሰምዕ ምድሪ ቃላት ስፍሪየ።",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "እስማዑ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ክዛረብ እየ"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "ትሰምዕ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ስፍሪየ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:13:18.873908813Z",
+  "model": "glm-5.3"
+}

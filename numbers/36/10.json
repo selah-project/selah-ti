@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ከም ዝኣዘዞ ያህዌህ ⟨את⟩ ሞሸ፣ ከምኡ ገበሩ ጓላት ጽላፍሓድ።",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ዝኣዘዞ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ጓላት"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "ጽላፍሓድ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:33:49.231828298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣብ ኣገልገልቲን ኣብ ኣገልገልተኛታትን እውን ኣብቲ መዓልታት እቶም ⟨את⟩ ነፍሰይ ብዝሓበኩ ክንፈስስ እየ።",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "ኣገልገልቲ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ኣብን"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "ኣገልገልተኛታትን"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ኣብቲ መዓልታት"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "ክንፈስስ እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሰይ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ነፍሰይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:13:24.918252086Z",
+  "model": "glm-5.3"
+}

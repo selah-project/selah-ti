@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ዓይኒ ዘገርምም ስቓይ ይህብ፤ ኣፍ ዘለዎ ሓሻይ ድማ ይወድቕ።",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "ዘገርምም"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ዓይኒ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ይህብ"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "ስቓይ"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "ድማ ሓሻይ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ኣፍ ዘለዎ"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "ይወድቕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:46:08.776164472Z",
+  "model": "glm-5.3"
+}

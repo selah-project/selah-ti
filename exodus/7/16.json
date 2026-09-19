@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 7:16",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ንሱ ድማ ንእሱ በለሉ፦ ያህዌህ ኤሎሂም ናይ ዕብራይ ነና ናብ ንስኻ ሰደደኒ፣ እሞ በለ፦ ⟨את⟩ ህዝበይ ሰዲድካ፣ ኣብ ምድረ-በዳ ክገልጹኒ፤ ኣብ ኡ ክሳብ ንኣስን ኣይሰምዐን።",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንእሱ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ናይ ዕብራይ"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ሰደደኒ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብ ንስኻ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እሞ በለ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ሰዲድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ህዝበይ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ህዝበይ"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ክገልጹኒ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድረ-በዳ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣብ ኡ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ንኣስን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:14:21.146403310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 139,
+  "translation": "ኤል፣ ምርምረኒ፣ ልብይ ፈልጥ፤ ፈትነኒ፣ ምስልተይ ድማ ፈልጥ።",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "ምርምረኒ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "ከምኡውን ፈልጥ"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ልብይ"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "ፈትነኒ"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "ከምኡውን ፈልጥ"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "ምስልተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:19.496556588Z",
+  "model": "glm-5.3"
+}

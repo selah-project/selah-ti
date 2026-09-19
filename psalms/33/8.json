@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ኩላ ምድሪ ካብ ያህዌህ ትሕዝን፤ ኩሉ ኣብታ ዓለም ዝነብሩ ብኡ ይደንጉሩ።",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "ትሕዝን"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ካብ ያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩላ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ብኡ"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ይደንጉሩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ዝነብሩ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ዓለም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:19.627726542Z",
+  "model": "glm-5.3"
+}

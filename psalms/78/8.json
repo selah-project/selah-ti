@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ከም ኣቦቶም ከይኾኑ፣ ተቓሊስን ዘይተገዝን ትውልቲ፣ ልቡ ኣይዳለወን፣ መንፈሱ ምስ ⟨את⟩ ኤል ኣይተኣማነን።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ከይ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ኾኑ"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "ከም ኣቦቶም"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ትውልቲ"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "ተቓሊስ"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "ዘይተገዝ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ትውልቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ዳለወ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "ተኣማነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "መንፈሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:11.655581218Z",
+  "model": "glm-5.3"
+}

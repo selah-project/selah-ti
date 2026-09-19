@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 19:17",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ኢዱኡ ኣንሽዑ ⟨את⟩ እቲ ሰብ እቲ መጓዓዚ ኣብ ሰፊሕ ቦታ ናይ ⟨እቲ⟩ ከተማ ረኣየ፣ እቲ ቘሩብ ሰብ ድማ «ናበይ ትኸድና ከምኡውን ካበይ ትመጽእ» በለ።",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ኣንሽዑ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ኢዱኡ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሰብ እቲ መጓዓዚ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "הארח",
+      "gloss": "እቲ መጓዓዚ"
+    },
+    {
+      "surface": "ברחב",
+      "gloss": "ኣብ ሰፊሕ ቦታ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ናይ ⟨እቲ⟩ ከተማ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "እቲ ቘሩብ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ናበይ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ትኸድና"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "ከምኡውን ካበይ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ትመጽእ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:51:44.718988856Z",
+  "model": "glm-5.3"
+}

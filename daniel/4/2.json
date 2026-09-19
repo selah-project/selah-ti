@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 4:2",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ሕልም ረኣይኩ፣ እቲ ድማ ኣስፈራኒ፤ እቶም ሓሳባት ኣብ ልዕሊ ተሳቒዐይን እቶም ርእይቶታት ለብሰይን ኣሕወቱኒ።",
+  "tokens": [
+    {
+      "surface": "חלם",
+      "gloss": "ሕልም"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "ረኣይኩ"
+    },
+    {
+      "surface": "וידחלנני",
+      "gloss": "ኣስፈራኒ"
+    },
+    {
+      "surface": "והרהרין",
+      "gloss": "ሓሳባት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ተሳቒዐይ"
+    },
+    {
+      "surface": "וחזוי",
+      "gloss": "ርእይቶታት"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ለብሰይ"
+    },
+    {
+      "surface": "יבהלנני",
+      "gloss": "ኣሕወቱኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:57:09.488507530Z",
+  "model": "glm-5.3"
+}

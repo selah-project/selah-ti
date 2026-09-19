@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "«ደሙር ይስከር፣ ኩሉሉማት ድማ ትኸውን፣ ምኽንያቱ ትንፋስ ያህዌህ ኣብኡ ተነፈሰት፤ እወ ህዝቢ ደሙር እዩ።»",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "ይስከር፣"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ደሙር"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ትኸውን፣"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "ኩሉሉማት"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ትንፋስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "ተነፈሰት"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "እወ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ደሙር"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:08:17.402175487Z",
+  "model": "glm-5.3"
+}

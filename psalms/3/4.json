@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ንስኻ ግና ያህዌህ፣ መከላከልቲ ንዓይ ⟨ኢኻ⟩፣ ክብረዬ፣ ሸንቀለቲ ርእሰይውን።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ግና"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "መከላከልቲ"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ክብረዬ"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ሸንቀለቲ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ርእሰይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:38.366224219Z",
+  "model": "glm-5.3"
+}

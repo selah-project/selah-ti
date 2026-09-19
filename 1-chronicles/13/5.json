@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ዳዊድ ድማ ካብ ሺሕሆር ናይ ሚጽራይም ክሳብ ናብ መእተዊ ሕማት ⟨את⟩ ኩሉ እስራኤል ኣኽቢሩ፣ ⟨את⟩ ታቦት ኤሎሂም ካብ ቂርያት የዓሪም ንምእታው እዩ።",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "ኣኽቢሩ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እስራኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "ሺሕሆር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ናብ መእተዊ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ሕማት"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ንምእታው"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦት ኤሎሂም"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "ካብ ቂርያት"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "የዓሪም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:42:35.571640171Z",
+  "model": "glm-5.3"
+}

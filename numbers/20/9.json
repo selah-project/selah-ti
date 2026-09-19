@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ሞሸ ድማ ከም ዝኣዘዞ ⟨את⟩ ቐንጩ ካብ ቅድሚ ያህዌህ ወሰደ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቐንጩ"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ቐንጩ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ካብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ዝኣዘዞ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:29:52.813715122Z",
+  "model": "glm-5.3"
+}

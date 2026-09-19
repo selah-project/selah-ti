@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እዚኦም ስማት ውላድ ኣሃሮን እዮም፦ እቲ ቀዳማይ ናዳብ፣ ኣቢሁዋን ኤልዓዛርን ኣይታማርን።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ስማት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "እቲ ቀዳማይ"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ናዳብ"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ኣቢሁዋን"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ኣይታማርን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:14:20.632320110Z",
+  "model": "glm-5.3"
+}

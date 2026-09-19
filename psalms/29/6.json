@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ለባኖንን ሽርዮንን ከም ጠበልቲ፣ ከም ውሉይ ረማታት ድማ፣ ይራቕዶም።",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "ይራቕዶም"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ጠበልቲ"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ለባኖንን"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "ሽርዮንን ድማ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ውሉይ"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "ረማታት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:58.856801967Z",
+  "model": "glm-5.3"
+}

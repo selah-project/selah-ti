@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ሕጂ ድማ ኣይትፈሩን፤ ኣነ ⟨את⟩ ንዓይኹምን ⟨את⟩ ንውላድኹምን ኣበጊሰኩም። ሓጸቦምን ነቲ ልቦም ተዛረቦምን።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ ድማ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ትፈሩን"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "ኣበጊሰኩም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንዓይኹም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ንውላድኹምን"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "ንውላድኹምን"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ሓጸቦምን"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ንሶም"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ልቦም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:12:08.204818810Z",
+  "model": "glm-5.3"
+}

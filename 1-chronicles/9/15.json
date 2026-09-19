@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ከምኡውን ባቅባቅር፣ ኽረሽን ጋላልን፣ ማታንያ ወዲ ሚኻ፣ ወዲ ዝኽሪ፣ ወዲ ኣሳፍ።",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "ከምኡውን ባቅባቅር"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ኽረሽ"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "ጋላልን"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "ማታንያ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "ሚኻ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "ዝኽሪ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ኣሳፍ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:37:01.401159255Z",
+  "model": "glm-5.3"
+}

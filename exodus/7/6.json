@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ሞሸን ኣሃሮንን ገበሩ፤ ከም እትኣዘዞም ያህዌህ ልክዕ ከምኡ ገበሩ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸን"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ኣሃሮንን"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "እትኣዘዞም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ንሶም (ሞሸንን ኣሃሮንን)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ልክዕ ከምኡ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ገበሩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:12:17.100618598Z",
+  "model": "glm-5.3"
+}

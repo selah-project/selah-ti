@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ውላድ ሰብ፣ ክሳብ መዓስ፧ ክብሪ ንውርደት ክትቕይሩን ብዓቢ ባዶነትን ሓሶትን ክትደሉን ኣሎኹም፧ ሰላህ።",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "መዓስ"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "ንውርደት"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "ብዓቢ ባዶነት ክትደሉ"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ባዶነት"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "ብዓቢ ሓሶት ክትደሉ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:42:31.628242187Z",
+  "model": "glm-5.3"
+}

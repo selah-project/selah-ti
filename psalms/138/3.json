@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 138,
+  "translation": "ኣብ መዓልቲ ዝደወልኩ እቲ መለስካለይ፣ ነፍሠይ ብሓይሊ ኣሓደስካለይ።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ዝደወልኩ"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "መለስካለይ"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "ኣሓደስካለይ"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "ነፍሠይ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ብሓይሊ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:58.846450624Z",
+  "model": "glm-5.3"
+}

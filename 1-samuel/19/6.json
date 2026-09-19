@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ሻኡል ድማ ንቓል ዮናታን ሰምዐ፤ ሻኡል ድማ ነዚ «ያህዌህ ሕያው እዩ — ኣይቕተይን» ዝበለ ዝዓወ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ንቓል"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ዮናታን"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ዝዓወ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ኣይቕተይን"
+    }
+  ],
+  "timestamp": "2026-09-19T00:11:05.542437962Z",
+  "model": "glm-5.3"
+}

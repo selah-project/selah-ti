@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "ኤሎሂም ኣብ ቤትታታኣ ከም ጽንዱ ተፈሊጡ እዩ።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "ኣብ ቤትታታኣ"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "ተፈሊጡ"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "ከም ጽንዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:00:02.364824290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ኣሃሮን ድማ በሎ፦ «ወዲ ጎይታይ፣ ኣይትዓየብ፤ ንስኻ ተረዲእካ ⟨את⟩ እቲ ሕዝቢ፣ ብሕታብ ምዃኑ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "ትዓየብ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ቍጭት"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጎይታይ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ተረዲእካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ብሕታብ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ምዃኑ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:38:05.526621565Z",
+  "model": "glm-5.3"
+}

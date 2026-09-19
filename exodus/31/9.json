@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ንማሕደር ወፈያን ⟨את⟩ መስዋኺ ዘብርሃንን ⟨את⟩ ኩሉ ታሕታዊ መሳርሒቱን ⟨את⟩ እቲ ማዕጺ ማይን ⟨את⟩ ኣፍማዩን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መስዋኺ ዘብርሃን"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መስዋኺ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ዘብርሃን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ታሕታዊ መሳርሒቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ታሕታዊ መሳርሒቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ማዕጺ ማይ"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "እቲ ማዕጺ ማይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣፍማዩ"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ኣፍማዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:33:48.014817822Z",
+  "model": "glm-5.3"
+}

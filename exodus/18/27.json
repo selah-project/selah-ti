@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ሞሸ ድማ ነቲ ዋህሉ ⟨את⟩ ሰደዖ፣ ንሱ ድማ ናብ ሃገሩ ከደ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደዖ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ዋህሉ"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "ነቲ ዋህሉ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ ደው ንዓና"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ሃገሩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:23:16.146418416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 1:31",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "እቶም ዝተቖጻሮም ነቲ ነገድ ዘቡልን ሸውዓተን ሃምሳን ሽሕን ኣርባዕተ መዓስን ⟨ነይሮም⟩።",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ዝተቖጻሮም"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ነቲ ነገድ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ዘቡልን"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ንሃምሳ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ንኣርባዕተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "መዓስ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:10:20.664711289Z",
+  "model": "glm-5.3"
+}

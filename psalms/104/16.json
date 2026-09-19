@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "ኣብያት ያህዌህ ተሰቲዮም እዮም — ኣርዛዊ ልባኖን፣ እቶም ዝተከልኦም።",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "ተሰቲዮም እዮም"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ኣብያት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "ኣርዛዊ"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ልባኖን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም ዝ"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "ተከልኖም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:33.082182797Z",
+  "model": "glm-5.3"
+}

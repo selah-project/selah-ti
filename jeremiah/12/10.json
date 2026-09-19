@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ርዓትቲ ብዙሓት ወይነይ ኣጥፊኡ፣ ⟨את⟩ ክፍልተይ ደቐንጉ፣ ⟨את⟩ እታ ዝደለየኒ ክፍልተይ ናብ በረኻ ምድቂስ ሃቑ።",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "ርዓትቲ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "ኣጥፊኡ"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "ወይነይ"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "ደቐንጉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክፍልተይ"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "ክፍልተይ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ሃቑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክፍልቲ"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "ክፍልቲ"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "ዝደለየኒ"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "ናብ በረኻ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ምድቂስ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:49:44.626104992Z",
+  "model": "glm-5.3"
+}

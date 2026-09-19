@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ምኽንያቱ ቅድሚ ምውዋሕ እቲ ቈልዑ «ኣቦ»ን «ኣደ»ን ንምጽውዑ፣ ⟨את⟩ ሀብቲ ዲማስቅን ⟨את⟩ ትረኻ ሽምሮንን ኣብ ቅድሚ ንጉስ ኣሽሱር ክወስድ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ቅድሚ ምውዋሕ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ክፈልጥ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "እቲ ቈልዑ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ንምጽውዑ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "ኣደን"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ክወስድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሀብቲ ዲማስቅ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ሀብቲ"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ዲማስቅ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ትረኻ ሽምሮን"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ትረኻ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ሽምሮን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣሽሱር"
+    }
+  ],
+  "timestamp": "2026-09-19T01:44:23.447412979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ስለ ኣነ ንምልዓል ተዳልወ ኣለኹ፣ ስነ-ጽዮናይ ድማ ኣብ ቅድሚ እንተላይ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ ኣነ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "ንምልዓል"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ተዳልወ"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "ስነ-ጽዮናይ ድማ"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "ኣብ ቅድሚ እንተላይ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:04.534430571Z",
+  "model": "glm-5.3"
+}

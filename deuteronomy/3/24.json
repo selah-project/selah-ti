@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 3:24",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣዶናይ ያህዌህ፣ ንኣገልጋይኻ ⟨את⟩ ዓብይነትካን ⟨את⟩ ኣእማንነትካን ⟨את⟩ ኩሉ ብሓዊ ኢድካን ንምርኣይ ጀመርካ፤ ኣብ ሰማያትን ኣብ ምድሪን ከም ስራሕካን ከም ክብርታትካን ኺገብር ዝኽእል መን ኤል እዩ?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "החלות",
+      "gloss": "ጀመርካ"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "ንምርኣይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣገልጋይኻ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ንኣገልጋይኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓብይነትካ"
+    },
+    {
+      "surface": "גדלך",
+      "gloss": "ዓብይነትካ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኢድካ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድካ"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "ኩሉ ብሓዊ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ኣብ እቲ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ኣብ ሰማያት"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ኣብ ምድሪን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝኽእል"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ኺገብር"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "ከም ስራሕካ"
+    },
+    {
+      "surface": "וכגבורתך",
+      "gloss": "ከም ክብርታትካን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:45:06.619195171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 14:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ኣብ መንጎ ሰፈር ሚጽራይምን ኣብ መንጎ ሰፈር እስራኤልን መጸ፤ እቲ ደመናን ጸልማትን ነይሩ፣ ነቲ ለይቲ ⟨את⟩ ድማ ኣብርሃሐ፤ እዚ ናብ እዚ ድማ ኩሉ እቲ ለይቲ ኣይተቐረበን።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ሰፈር"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ሰፈር"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "እቲ ደመና"
+    },
+    {
+      "surface": "והחשך",
+      "gloss": "ጸልማትን"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "ኣብርሃሐ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ለይቲ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "እቲ ለይቲ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ተቐረበ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "እቲ ለይቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:21:40.880072926Z",
+  "model": "glm-5.3"
+}

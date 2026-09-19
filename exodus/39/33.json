@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ነቲ ማሕደር ⟨את⟩ ናብ ሞሸ ኣእቱ፣ ⟨את⟩ እቲ ድሕሉን ⟨את⟩ ኩሉ ኣቕሓቱን፣ መወዓዓዒቱ፣ ጽሕጽርቱ፣ ምስርቱ፣ ኣምዳቱን መሰረታቱን።",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "ኣእቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ማሕደር"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "እቲ ማሕደር"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ድሕሉ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "እቲ ድሕሉ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ኣቕሓቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ኣቕሓቱ"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "መወዓዓዒቱ"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "ጽሕጽርቱ"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "ምስርቱ"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "ኣምዳቱ"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "መሰረታቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:45:14.220373648Z",
+  "model": "glm-5.3"
+}

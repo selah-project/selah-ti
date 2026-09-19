@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ብሓቂ እቲ ሓበን ቆላሕ ኾኑ፣ ንሱ ነቲ ገጽ ኣይሓወሾን፣ ሓይሊ ድማ ይውሰኽ፣ ንምርግማት ድማ ትርኢት ስብሓት እያ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ብሓቂ"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "ቆላሕ"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "እቲ ሓበን"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "ኣይሓወሾን"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "ሓይሊ ድማ"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "ይውሰኽ"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "ትርኢት"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "ንምርግማት"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ስብሓት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:41:58.307029677Z",
+  "model": "glm-5.3"
+}

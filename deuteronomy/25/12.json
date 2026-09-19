@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ኣካላታተኣ ⟨את⟩ ትቐጥፃ፣ ዓይኒኻ ኣይሕዝን።",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "ትቐጥፃ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣካላታተኣ"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ኣካላታተኣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ሕዝን"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ዓይኒኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:04:05.745367460Z",
+  "model": "glm-5.3"
+}

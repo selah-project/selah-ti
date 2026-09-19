@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "እቲ ልቦም ኣብ ሓደ ዝፈጠሮ፣ ንኩሉ ግብሮም ዝርድእ እዩ።",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "እቲ ዝፈጠር"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ኣብ ሓደ"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ልቦም"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "እቲ ዝርድእ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ግብሮም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:09.293756419Z",
+  "model": "glm-5.3"
+}

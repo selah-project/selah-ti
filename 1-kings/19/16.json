@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "«⟨את⟩ የሆኣ ወዲ ኒምሺ ኣብ ልዕሊ ያስራኤል ንንጉስ ቐብዓ፣ ⟨את⟩ ኤልይሳ ወዲ ሻፓጥ ካብ ኣቤል-ምሕዉላ ድማ ኣብ ቦታኻ ንነብዪ ቐብዓ።»",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "የሆኣ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "የሆኣ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "ኒምሺ"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ቐብዓ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ንንጉስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ያስራኤል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኤልይሳ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ኤልይሳ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ሻፓጥ"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "ካብ ኣቤል"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "ምሕዉላ"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "ቐብዓ"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "ንነብዪ"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "ኣብ ቦታኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:08:20.028904609Z",
+  "model": "glm-5.3"
+}

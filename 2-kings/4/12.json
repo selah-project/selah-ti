@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 4:12",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ንገሕዚ ውሉዱ ነገሮ፦ «ጸውዓ ነታ ሽነምያይት እዚኣ።» ኰነ ኣታ ነገራ፣ ንሳ ድማ ቅድሚኡ ቆምታ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ነገሮ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "ገሕዚ"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "ውሉዱ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ጸውዓ"
+    },
+    {
+      "surface": "לשונמית",
+      "gloss": "ነታ ሽነምያይት"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚኣ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ነገራ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ኣታ"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ቆምታ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ቅድሚኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:15:41.849550039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ዓሊ ⟨את⟩ ድምጂ እቲ ጎስጓሳ ሰምዐ፣ «እንታይ እዩ እዚ ቓል እዚ ቐሊላ፧» በለ፤ እቲ ሰብ በሪቑ መጸ፣ ንዓሊ ኣፅረ።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ዓሊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምጂ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጂ"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "እቲ ጎስጓሳ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "ቐሊላ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "በሪቑ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ኣፅረ"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "ንዓሊ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:00:27.298214730Z",
+  "model": "glm-5.3"
+}

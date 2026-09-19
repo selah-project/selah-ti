@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ኣብ ሔሴድካ እነሸይምን እነደስዕን እየ፤ ስለ ዝረኣይካ ⟨את⟩ ስቅታይ፤ ኣብ ብጽሕታት ነፍሲይ ኣፈለጥካ።",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "እነሸይም"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "እነደስዕ ድማ"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "ኣብ ሔሴድካ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ስለ ዝ"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ረኣይካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስቅታይ"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ስቅታይ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ኣፈለጥካ"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "ኣብ ብጽሕታት"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:52:19.388453383Z",
+  "model": "glm-5.3"
+}

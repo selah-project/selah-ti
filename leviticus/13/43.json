@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 13:43",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ነቲ ሰብ ኣብ ቅጭነት ስምጡ ወይ ኣብ ቅጭነት ቅድመ-ስምጡ ነጽኢ ብዝበለ ቐይሕ ቀጺሕ ዝወጸቐቐ ከም ቅርጺ ቆላሕታ ኣብ ቆዳ ስጋ እንተ ረኣየ፣ የሎ እዩ።",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "እንተ ረኣየ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ሰብ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "የሎ"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ዝወጸቐቐ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ነቲ ሕማቕ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ነጽኢ"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "ቐይሕ ቀጺሕ"
+    },
+    {
+      "surface": "בקרחתו",
+      "gloss": "ኣብ ቅጭነት ስምጡ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "בגבחתו",
+      "gloss": "ኣብ ቅጭነት ቅድመ-ስምጡ"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "ከም ቅርጺ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ቆላሕታ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ቆዳ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ስጋ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:54:46.941999203Z",
+  "model": "glm-5.3"
+}

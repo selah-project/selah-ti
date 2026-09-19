@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ቃላት ኣመንዲቓት ንደም ምትካን እየን፤ ኣፍ ትኽክለኛታት ግን የድሕኖም እዩ።",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኣመንዲቓት"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "ምትካን"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ኣፍ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ትኽክለኛታት"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "የድሕኖም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:47:34.031416127Z",
+  "model": "glm-5.3"
+}

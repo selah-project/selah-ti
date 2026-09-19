@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "ስለ ብኻ ምኽንያት ኣፍሪሕ ተቐበልኩ፤ ዕሽራት ኣብ ገጸይ ሸፈነት።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ብኻ ምኽንያት"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ተቐበልኩ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ኣፍሪሕ"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "ሸፈነት"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "ዕሽራት"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጸይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:25.540241718Z",
+  "model": "glm-5.3"
+}

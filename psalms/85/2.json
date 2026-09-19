@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 85,
+  "translation": "ያህዌህ፣ ንምድሪኻ ሓጎይትካ፣ ንምሽዳቕ ያዕቆቭ ተዛደውኻ።",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "ሓጎይትካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ምድሪኻ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ተዛደውካ"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ምሽዳቕ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:55.546970312Z",
+  "model": "glm-5.3"
+}

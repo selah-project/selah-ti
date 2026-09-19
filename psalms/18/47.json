@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 18:47",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ያህዌህ ህያው እዩ፤ እቲ ዓበይቲይ ተባረኽ፣ ኤሎሃይ ናይ መድሓኒትይ ድማ ይዓቢ እዩ።",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "ህያው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ተባረኽ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "እቲ ዓበይቲይ"
+    },
+    {
+      "surface": "וירום",
+      "gloss": "ይዓቢ"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "ኤሎሃይ"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ናይ መድሓኒትይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:24.781450804Z",
+  "model": "glm-5.3"
+}

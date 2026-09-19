@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 58,
+  "translation": "ከም ማይ ዝኸድዕ ክስሕቡ፤ እናኸዱ ክሪኦም፤ ንሱ ቐሳሕ ኣብ ዝጠንቐስሉ እዚኦም ከም ዝተቐጠፉ ክኸውኑ።",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "ክስሕቡ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "እናኸዱ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ክሪኦም"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "ኣብ ዝጠንቐስሉ"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "ቐሳሕ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "ዝተቐጠፉ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:02:47.705928510Z",
+  "model": "glm-5.3"
+}

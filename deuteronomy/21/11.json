@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 21:11",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ኣብቶም ሰራሕቲ ጽቡእቲ ቅርጺ ዘላቶ ሰበይቲ ትረኣየ እሞ ትምበርታ'ዋ፣ ንስኻ ድማ ንሰበይቲ ንርእስኻ ትወስድ ኢኻ።",
+  "tokens": [
+    {
+      "surface": "וראית",
+      "gloss": "ትረኣየ"
+    },
+    {
+      "surface": "בשביה",
+      "gloss": "ኣብቶም ሰራሕቲ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ጽቡእቲ"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ቅርጺ"
+    },
+    {
+      "surface": "וחשקת",
+      "gloss": "ትምበርታ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብ'ዚኣ"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ትወስድ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንርእስኻ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ንሰበይቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:00:27.449224469Z",
+  "model": "glm-5.3"
+}

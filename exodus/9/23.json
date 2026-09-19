@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 9:23",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ሞሸ ድማ ኣንደዩን ⟨את⟩ እንጹዑን ኣብ ሰማያት ኣስዓቐ፤ ያህዌህ ድማ ድምቐትን ረዳኢን ሃቐ፣ እሳት ድማ ኣብ ምድሪ ወሪዳ ኣተላለየት፤ ያህዌህ ድማ ኣብ ምድሪ ሚጽራይም ረዳኢ ኣኸዘ።",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ኣስዓቐ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እንጹዑ"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "እንጹዑ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ ድማ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃቐ"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "ድምቐትን"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "ረዳኢን"
+    },
+    {
+      "surface": "ותהלך",
+      "gloss": "ኣተላለየት"
+    },
+    {
+      "surface": "אש",
+      "gloss": "እሳት"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "וימטר",
+      "gloss": "ኣኸዘ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ረዳኢ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:18:11.315182983Z",
+  "model": "glm-5.3"
+}

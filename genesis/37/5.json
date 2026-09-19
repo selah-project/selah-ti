@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ዮሴፍ ሕልም ሓሊሙ፣ ንህውኡ ድማ ነገሮም፤ ንሳቶም ድማ ካብዚ ንዝያዳ ⟨את⟩ ዮሴፍ ጨከኑዎ።",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "ሓሊሙ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ሕልም"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ነገሮም"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ንህውኡ"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "ደገምዎ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ዝያዳ"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ጨከኑዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ዮሴፍ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:58:46.116255505Z",
+  "model": "glm-5.3"
+}

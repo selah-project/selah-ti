@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "መን እኽሊ ያዕቆቭ ቆጸሮ፣ ቁጽሪ ሩብታት እስራኤል ድማ ⟨את⟩ ቆጸሮ፧ ነፍሰይ ብሞት ቅኑዋት ትሞት፣ ወዳእተይ እውን ከምኦም ንትከውን።",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "ቆጸሮ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "ንቁጽሪ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሩብታት እስራኤል"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "ሩብታት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "תמת",
+      "gloss": "ትሞት"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ቅኑዋት"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ንትከውን"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "ወዳእተይ"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "ከምኦም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:33:15.034299962Z",
+  "model": "glm-5.3"
+}

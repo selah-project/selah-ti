@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ኣብ ከተማ ተረጊምካ፣ ኣብ ገሠር እውን ተረጊምካ።",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ተረጊም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ኣብ ከተማ"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "እውን ተረጊም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ኣብ ገሠር"
+    }
+  ],
+  "timestamp": "2026-09-18T23:07:34.404645980Z",
+  "model": "glm-5.3"
+}

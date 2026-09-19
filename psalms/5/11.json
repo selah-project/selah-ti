@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣሕዮም ኤሎሂም፤ ብምክርኮማቶም ይውደቁ፤ ብብዝሒ መጥፍኣቶም ኣስዓርዎም፣ ምኽንያቱ ኣበኻ ኰኑ ኣመጻሕ።",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "ኣሕዮም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ይውደቁ"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "ብምክርኮማቶም"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ብብዝሒ"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "መጥፍኣቶም"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "ኣስዓርዎም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "ኰኑ ኣመጻሕ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣበኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:41:14.436051540Z",
+  "model": "glm-5.3"
+}

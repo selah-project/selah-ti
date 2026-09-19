@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣብ ጎኒ መሠወሪ ናብ ሰሜን፣ ቅድሚ ያህዌህ ድማ ⟨את⟩ ንሱ ይሓርዞ፤ ወልዲ ኣሃሮን እቶም ኻህናት ድማ ⟨את⟩ ደሙ ኣብ መሠወሪ ብዙርያኡ ይምርጭዎ።",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ይሓርዞ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ጎኒ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠወሪ"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ናብ ሰሜን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ይምርጭዎ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወልዲ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "እቶም ኻህናት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደሙ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ደሙ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "መሠወሪ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ብዙርያኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:47:47.949983572Z",
+  "model": "glm-5.3"
+}

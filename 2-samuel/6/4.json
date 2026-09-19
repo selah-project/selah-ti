@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 6:4",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ካብ ቤት ኣቢናዳብ እታ ኣብ ጎባዓ ዘላ ምስ ጥቦት ኤሎሂም ኣቐምጡዋ፣ ኣሕዮ ድማ ቅድሚ እቲ ጥቦት ይኸደን ነይሩ።",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "ኣቐምጡዋ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ቤት"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "ኣቢናዳብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "ኣብ ጎባዓ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ጥቦት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ኣሕዮ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ይኸደን ነይሩ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "እቲ ጥቦት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:27:48.566115618Z",
+  "model": "glm-5.3"
+}

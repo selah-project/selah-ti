@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ስለ ዝኣተወ እዚ ህዝቢ እዚ ⟨את⟩ ማይ ሺሎኣ በርኩት ዝፈስሱ፣ ከምኡውን ስለ ዝሓጸቡ ⟨את⟩ ረጽይን ወዲ ረማልያሁን፦",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ስለ ዝበለ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያት"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "ኣተወ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማይ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "ሺሎኣ"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ዝፈስሱ"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "በርኩት"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "ዝሓጸቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ረጽይ"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ረጽይ"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "ረማልያሁ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:45:34.852108115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 51,
+  "translation": "እንሆ ኣብ ውሽጣዊ ክፋላት ሓቂ ደለኻ፣ ኣብ ተሓብሽ ድማ ሓበን ክተፈልጠኒ ትገብር።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ሓቂ"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ደለኻ"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "ኣብ ውሽጣዊ ክፋላት"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "ኣብ ተሓብሽ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ሓበን"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "ክተፈልጠኒ ትገብር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:26.071892315Z",
+  "model": "glm-5.3"
+}

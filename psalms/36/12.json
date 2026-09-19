@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "እግሪ ጎበን ኣይትምጻአን፣ ኢድ ኣጣራፍቲ ድማ ኣይጐይደኒን።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "ኣይትምጻአን"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "እግሪ"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "ጎበን"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኣጣራፍቲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "ኣይጐይደኒን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:32.321180818Z",
+  "model": "glm-5.3"
+}

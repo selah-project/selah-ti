@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ነቲ ቃል ኣብ ኣዓይንቲ ኣዶናይ ጽቡእ ነይሩ፣ ሽሎሞ ⟨את⟩ ነቲ ቃል እዚ ስለ ዝሓተቶ።",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "ጽቡእ ነይሩ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ነቲ ቃል"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ኣብ ኣዓይንቲ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ ዝ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ዝሓተቶ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ቃል"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ነቲ ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:47:21.786939315Z",
+  "model": "glm-5.3"
+}

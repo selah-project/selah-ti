@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "እቲ ኣፍሰስ ከም ዝነበረ ናብ ምድሪ ይመልስ፣ እታ መንፈስ ከኣ ናብ ኤሎሂም ዝሃባ ትመልስ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ይመልስ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "እቲ ኣፍሰስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "ከም ዝነበረ"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "እታ መንፈስ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ትመልስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ዝሃባ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:45:50.911891766Z",
+  "model": "glm-5.3"
+}

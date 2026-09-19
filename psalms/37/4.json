@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ኣብ ያህዌህ ድማ ተዓንቕ፣ ንሳትን ናብ ከምቲ እትሰምዖ ተማልኡት ልብኻ ክብልካ እዩ።",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "ተዓንቕ፣"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ክብልካ እዩ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "ተማልኡት"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ልብኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:38.388853077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "መዝሙር፣ ቓል ናይ ምኽደና ናይ እቲ ቤት፣ ናይ ዳዊድ።",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ቓል መዝሙርቲ"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "ምኽደና"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "እቲ ቤት"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:43.458074200Z",
+  "model": "glm-5.3"
+}

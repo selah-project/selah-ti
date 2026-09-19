@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 64:7",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 64,
+  "translation": "ሕጂ ኸኣ ያህዌህ ኣቦና ንስኻ ኢኻ፣ ንሕና ኸኣ ሓደር ኢና፣ ንስኻ ውን እቲ ዝቐርጾና ኢኻ፣ ኩልና ውን ግብሪ ኢድካ ኢና።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ኣቦና"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "ሓደር"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ውን"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "ዝቐርጾና"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ውን ግብሪ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ኢድካ"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "ኩልና"
+    }
+  ],
+  "timestamp": "2026-09-19T02:23:14.653037743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 118,
+  "translation": "ንኽወድቕ ተታሒበኒ ኣንጸላየኒ፣ ያህዌህ ግን ሓወየኒ።",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "ካብ ተታሒበኒ"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "ኣንጸላየኒ"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "ንኽወድቕ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ያህዌህ ግን"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "ሓወየኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:33.464318208Z",
+  "model": "glm-5.3"
+}

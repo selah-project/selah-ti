@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 116,
+  "translation": "ድማ ብስም ያህዌህ ዐወቕኩ፦ ኣየ ያህዌህ፣ ነፍሰይ ኣውጽአለይ።",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "ብስም ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ዐወቕኩ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ኣየ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "ኣውጽአለይ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:22.335248177Z",
+  "model": "glm-5.3"
+}

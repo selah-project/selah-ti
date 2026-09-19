@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "እቶም መዓልታቱ ውሑሳት ይኹኑ፣ ካልእ ድማ እቲ ኣገልግሎቱ ይሕዝ።",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ይኹኑ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "መዓልታቱ"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "ውሑሳት"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "ኣገልግሎቱ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ይሕዝ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ካልእ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:00.200205937Z",
+  "model": "glm-5.3"
+}

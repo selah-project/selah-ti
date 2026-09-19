@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 9:33",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ሞሸ ድማ ካብ ፓርዖ ወጺኡ ⟨את⟩ ከተሚቲ ኢዱ ናብ ያህዌህ ዘርጊሑ፣ እቲ ነፋሳትን ዝናርን ደው ኢሎም፣ ማይ ከኣ ናብ ምድሪ ኣይተበከለን።",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ወጺኡ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ከተሚቲ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተሚቲ"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "ዘርጊሑ"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "ደው ኢሎም"
+    },
+    {
+      "surface": "הקלות",
+      "gloss": "እቲ ነፋሳት"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "ዝናርን"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "ማይ ከኣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "נתך",
+      "gloss": "ተበከለን"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ናብ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:16:03.266494245Z",
+  "model": "glm-5.3"
+}

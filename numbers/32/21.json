@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 32:21",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ኩሉ ዝተኸለለ ካብኩም ን⟨את⟩ የሩታን ኣብ ቅድሚ ያህዌህ ክሓልፍ እዩ፣ ክሳብ ዝሓርዮ ⟨את⟩ ተቓዋሙ ካብ ቅድሚኡ።",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "ክሓልፍ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ካብኩም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "ዝተኸለለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "የሩታን"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "የሩታን"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "ዝሓርዮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ተቓዋሙ"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ተቓዋሙ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ካብ ቅድሚኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:39:17.596973062Z",
+  "model": "glm-5.3"
+}

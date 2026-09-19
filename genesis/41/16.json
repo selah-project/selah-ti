@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ዮስፍ ድማ ንፓርዖ እናበለ መልሱ፦ ብዘይ ኤሎሂም ኣይኮነን፤ ናይ ፓርዖ ሰላም ኤሎሂም ⟨את⟩ ክመልስ እዩ።",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መልሱ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮስፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፓርዖ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "ብዘይ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ክመልስ እዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰላም"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ናይ ፓርዖ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:02:12.988833854Z",
+  "model": "glm-5.3"
+}

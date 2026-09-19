@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "«ንውላድ ይስራኤል ተዛረብን ንሳቶም በሎምን፦ ምዕራፋት ያህዌህ እዮም፣ እቶም ⟨את⟩ ንዓዳቶም ቅዱሳት ጉባኤታት ክትጽውዑሉም እትኽእሉ፤ እዚኦም ናተይ ምዕራፋት እዮም።",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ንሳቶም በሎምን"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "ምዕራፋት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "ክትጽውዑሉም እትኽእሉ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ንዓዳቶም"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "ጉባኤታት"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨እዮም⟩"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "ናተይ ምዕራፋት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:05:00.385310154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 60,
+  "translation": "ኤሎሂም፣ ጥሪኹና፣ ሰቓትና፣ ቆጸልካ፣ ናባና ተመለስ።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "ጥሪኹና"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "ሰቓትና"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "ቆጸልካ"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "ተመለስ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ናባና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:30.747583989Z",
+  "model": "glm-5.3"
+}

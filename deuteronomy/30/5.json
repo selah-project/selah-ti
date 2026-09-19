@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ያህዌህ ኤሎሂምኪትካ ናብ እታ ኣቦታትኻ ዝወረስዋ ምድሪ ኣእትወካ እምበር፣ ነታ ንኣኻ ትወርሳ፣ ደሉ ድማ ይገብረኻን ካብ ኣቦታትኻ ንላዕሊ ይብዝሐካን።",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "ኣእትወካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምኪትካ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "ዝወረስዋ"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "ኣቦታትኻ"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "ትወርሳ"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "ይገብረኻ"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "ይብዝሐካ"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "ካብ ኣቦታትኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:09:33.719709978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 128,
+  "translation": "ሰበይትካ ከም ወንጊ ወፍሪ ዘላ ኣብ ውሽጢ ቤትካ ትኾነን፤ ውላድካ ከም ተትኪ ዘይቲ ኣብ ዙርያ ገበታኻ።",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "ሰበይትካ"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "ከም ወንጊ"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ወፍሪ ዘላ"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "ኣብ ውሽጢ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ቤትካ"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ውላድካ"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "ከም ተትኪ"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "ዘይቲ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ኣብ ዙርያ"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "ናብ ገበታኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:35.443994353Z",
+  "model": "glm-5.3"
+}

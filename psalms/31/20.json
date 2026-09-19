@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ከመይ ብዙሕ እዩ በለጽና፣ ንዘፍራዕካ ዝተሓብሮ፤ ኣብ ቅድሚ ውላድ ሰብ ንዝሓገዝካ ዝገበርካዮ።",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ከመይ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "በለጽና"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "ዝተሓብሮ"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "ንዘፍራዕካ"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ዝገበርካዮ"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "ንዝሓገዝካ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣባኻ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:40.604350884Z",
+  "model": "glm-5.3"
+}

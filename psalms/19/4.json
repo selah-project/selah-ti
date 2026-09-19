@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ቓል የለን፡ ቃላት ድማ የለዮምን፡ ድምጻቶም እኳ ኣይሰምዑን።",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ድማ የለዮምን"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "እኳ"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ኣይሰምዑን"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ድምጻቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:49:03.084960871Z",
+  "model": "glm-5.3"
+}

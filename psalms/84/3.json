@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 84,
+  "translation": "ተስኪማ ንሳ ተወዲቐት ነፍሰይ ንውሽጣት ያህዌህ፣ ልበይን ስጉምዬን ናብ ኤል ሕያው ይዝምሩ።",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "ተስኪማ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ንሳውን"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "ተወዲቐት"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "ንውሽጣት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "ስጉምዬን"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ይዝምሩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ሕያው"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:18.671524699Z",
+  "model": "glm-5.3"
+}

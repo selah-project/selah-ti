@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ስምቒት ምስ መጸት ዕርፍ ትመጽእ፤ ምስ እቶም ⟨את⟩ ትሑታት ጥበብ እያ።",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "ምስ መጸት"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "ስምቒት"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ትመጽእ"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ዕርፍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ትሑታት"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "ትሑታት"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:47:55.833583326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 30:11",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ግና ካብ ኣሸርን ምናሸንን ዘቡሎንን ዝወጹ ሰባት ተወርዱ፣ ናብ የሩሻላይምን መጹ።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ግና"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ካብ ኣሸር"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ምናሸንን"
+    },
+    {
+      "surface": "ומזבלון",
+      "gloss": "ዘቡሎንን"
+    },
+    {
+      "surface": "נכנעו",
+      "gloss": "ተወርዱ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "መጹን"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ናብ የሩሻላይም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:18:34.973756763Z",
+  "model": "glm-5.3"
+}

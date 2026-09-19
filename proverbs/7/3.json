@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣስርዎም ኣብ ጣፍያትኻ፣ ጸሓፎም ድማ ኣብ ሰሌ ልብኻ።",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "ኣስርዎም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "ጣፍያትኻ"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "ጸሓፎም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "ሰሌ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ልብኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:45:25.928300426Z",
+  "model": "glm-5.3"
+}

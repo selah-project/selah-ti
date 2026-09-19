@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ብርኩብታን ጐንጢልታን ጥምኒ ዕድም፣ ንሓገዘተይ ድማ ተነሻዕ።",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "ጥምኒ ዕድም"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ብርኩብታ"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "ጐንጢልታ"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "ተነሻዕ"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "ንሓገዘተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:55.525922758Z",
+  "model": "glm-5.3"
+}

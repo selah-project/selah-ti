@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 4:3",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኤልይኾረፍን ኣኪያን ውላድ ሺሻ ጸሓፍቲ እዮም፤ የሆሹፋጥ ወዲ ኣኪሉድ ዘካስዒ እዩ።",
+  "tokens": [
+    {
+      "surface": "אליחרף",
+      "gloss": "ኤልይኾረፍ"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "ንኣኪያ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "שישא",
+      "gloss": "ሺሻ"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "ጸሓፍቲ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "የሆሹፋጥ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "ኣኪሉድ"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "ዘካስዒ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:46:51.607758946Z",
+  "model": "glm-5.3"
+}

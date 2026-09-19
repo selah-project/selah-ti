@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ሚጽራይም ብሚጽራይም ኣቐንዐኩ፣ ሓደ ሰብ ምስ ሓዙን ሓደ ሰብ ምስ መሓይሉን ይተዋግኡ፣ ከተማ ብከተማ፣ መንግስቲ ብመንግስቲ።",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "ኣቐንዐኩ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ብሚጽራይም"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "ይተዋግኡ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሓደ ሰብ"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "ምስ ሓዙ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ሰብን"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "ምስ መሓይሉ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ብከተማ"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "መንግስቲ"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "ብመንግስቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:55:08.229916965Z",
+  "model": "glm-5.3"
+}

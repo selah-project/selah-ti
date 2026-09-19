@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 92,
+  "translation": "ገና ኣብ ዝሕቲ ዕድሚ ይወፊኡ፣ ደረቕቲን ለምላምቲን ክኸውን እዮም።",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "ገና"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "ይወፊኡ"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "ኣብ ዝሕቲ ዕድሚ"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "ደረቕቲ"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "ለምላምቲን"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ክኸውን እዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:24.008744080Z",
+  "model": "glm-5.3"
+}

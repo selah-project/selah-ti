@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ሰማያት ድማ ጽድቂ ኣዛረቡ፤ ምኽንያቱ ኤሎሂም ብዛዕባ ርእሱ ፈራዲ እዩ። ሰላህ።",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "ኣዛረቡ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ፈራዲ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ብዛዕባ ርእሱ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሰላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:06.919017944Z",
+  "model": "glm-5.3"
+}

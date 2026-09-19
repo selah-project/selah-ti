@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-chronicles 6:58",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እውን ⟨את⟩ ራሞትን ⟨את⟩ ከባቢኣን፣ ⟨את⟩ ዓነምን ⟨את⟩ ከባቢኣን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ራሞት"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "ራሞት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ከባቢኣ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ከባቢኣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዓነም"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "ዓነም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ከባቢኣ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ከባቢኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:33:46.533338410Z",
+  "model": "glm-5.3"
+}

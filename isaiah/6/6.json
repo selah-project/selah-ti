@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 6:6",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ሓደ ካብቶም ሰራፋት ናባይ በረኸ፣ ኣብ ኢዱ ከኣ ድሕቐት ነበረት፣ ብቐንጢሊ ካብ ላዕሊ እቲ መሥዋዕቲ ወሲዱ።",
+  "tokens": [
+    {
+      "surface": "ויעף",
+      "gloss": "በረኸ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ናባይ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "ካብቶም ሰራፋት"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "ኣብ ኢዱ ከኣ"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "ድሕቐት ነበረት"
+    },
+    {
+      "surface": "במלקחים",
+      "gloss": "ብቐንጢሊ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ካብ ላዕሊ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "እቲ መሥዋዕቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:45:32.451036981Z",
+  "model": "glm-5.3"
+}

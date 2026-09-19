@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "እቲ ክራሽ ከፈተ፣ ማይ ድማ ፈሰሰ፤ ኣብ ደረቕ ቦታታት ከም ቈላቲ ተመላለሰ።",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ከፈተ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ክራሽ"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "ፈሰሰ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ተመላለሰ"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "ኣብ ደረቕ ቦታታት"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ከም ቈላቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:17.881475530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 71,
+  "translation": "ንኻ ምስ ዘፈንኩ ንውቓትኩም ብዝሑ ይደልያ፣ ነፍሲኩም ድማ፣ እታ ዝኣድሕንካያ።",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "ይደልያ ብዝሑ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ንውቓትኩም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ዘፈንኩ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "ነፍሲኩም ድማ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "ዝኣድሕንካያ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:41.338981535Z",
+  "model": "glm-5.3"
+}

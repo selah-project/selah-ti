@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "እታ ፍቱ ኣብ ላዕላ ተሸክማ፣ ⟨את⟩ ኩሉ በደሎም ናብ ምድሪ ተቐጺላ ኣክኢላ፣ ነታ ፍቱ ከኣ ኣብ በዳ ኣሓለዎ።",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "ተሸክማ"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "እታ ፍቱ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ላዕላ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ በደሎም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "በደሎም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "ተቐጺላ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ኣሓለዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነታ ፍቱ"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ነታ ፍቱ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ በዳ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:01:13.480529967Z",
+  "model": "glm-5.3"
+}

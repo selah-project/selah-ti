@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 123,
+  "translation": "ሓርነና ያህዌህ፣ ሓርነና፤ ምኽንያቱ ብዙሕ ምልእቲ ንቕጺ ኮይናሉ።",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "ሓርነና"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "ሓርነና"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "ምልእቲ ኮይናሉ"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "ንቕጺ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:54.038335909Z",
+  "model": "glm-5.3"
+}

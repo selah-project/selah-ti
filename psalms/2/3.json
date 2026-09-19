@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "«ንቁርቑ ⟨את⟩ ቁርበታቶም፣ ማንጸላቶም ድማ ካባና ንጥፍእ።»",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "ንቁርቑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቁርበታቶም"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "ቁርበታቶም"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "ንጥፍእ ድማ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካባና"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "ማንጸላቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:42:27.023285638Z",
+  "model": "glm-5.3"
+}

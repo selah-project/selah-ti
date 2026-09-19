@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 30:4",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ኣብ ውሽጢ ምድሪን ኣብ ማዕበላት ሰማያትን ዝበገሮምካ እንተ ኾነ፣ ካብኡ ያህዌህ ኤሎሂምካ ይኣክብኻ፣ ካብኡ ድማ የውርደካ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "נדחך",
+      "gloss": "ዝበገሮምካ"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "ኣብ ውሽጢ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "יקבצך",
+      "gloss": "ይኣክብኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ካብኡ ድማ"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "የውርደካ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:10:39.466790421Z",
+  "model": "glm-5.3"
+}

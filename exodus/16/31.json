@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ቤት እስራኤል ድማ ⟨את⟩ ስሙ ማን በሎ፤ ንሱ ኸኣ ከም ዘርኢ ኩሙን ጻዕዳ ነይሩ፣ ጽቕጡ ኸኣ ከም ጠፍጣያ ምስ ሓሙምቲ።",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "ከም ዘርኢ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ኩሙን"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ጻዕዳ"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "ጽቕጡ"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "ከም ጠፍጣያ"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "ምስ ሓሙምቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:24:28.168944662Z",
+  "model": "glm-5.3"
+}

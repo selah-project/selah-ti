@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ከምኡውን ⟨את⟩ ኣብ ክልተ መስርሒ ትገብሮም ነራ፣ ሽድሽ ሕጋጛት ኣብ ሓደ መስርሒ፣ ኣብ ⟨ተ⟩ ንጹሕ መዓርኽ ኣብ ቅድሚ ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ትገብሮም"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ክልተ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "መስርሒ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ሽድሽ"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "ንሓደ መስርሒ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "መዓርኽ"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "ንጹሕ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:05:48.091223451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ንሔሴዱ ንያህዌህ ይዝምሩ፣ ንተኣምራቱ ንውላድ ሰባት ድማ ይዝምሩ።",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ይዝምሩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ንተኣምራቱ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላድ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰባት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:38.736144024Z",
+  "model": "glm-5.3"
+}

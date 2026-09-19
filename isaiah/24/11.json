@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 24:11",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ኣብ ጎዳናት ብወይን ጎስጓሳ ኣሎ፤ ኩሉ ደስታ ኣመናዊ ተገቢራ፣ ሓሳብ ምድሪ ድማ ተሰናቢዱ።",
+  "tokens": [
+    {
+      "surface": "צוחה",
+      "gloss": "ጎስጓሳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ወይን"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "ኣብ ጎዳናት"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "ኣመናዊ ተገቢራ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ደስታ"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ተሰናቢዱ"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ሓሳብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:56:27.442026486Z",
+  "model": "glm-5.3"
+}

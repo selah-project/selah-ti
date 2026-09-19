@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 97,
+  "translation": "ያህዌህ ነገሰ፤ ምድሪ ትሕጎስ፤ ዝበዝሓት ደሴታት ይፈርሕ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ነገሰ"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ትሕጎስ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ይፈርሕ"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ደሴታት"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ዝበዝሓት"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:52.593716988Z",
+  "model": "glm-5.3"
+}

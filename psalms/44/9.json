@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ኣብ ኤሎሂም ኩሉ መዓልቲ ተማለዕና፣ ስምካውን ናብ ዘለኣለም ነዝክር ኢና። ሴላ።",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "ኣብ ኤሎሂም"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "ተማለዕና"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "ስምካውን"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "ነዝክር"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ሴላ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:12.234925038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 37:12",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ድማ ንእኡ ጠንካ ስፍሕ ዙርያ ክሉ ጠርንቲ ገበረሉ፤ ንእቲ ጠርንቲ ድማ ክብ ወርቂ ዙርያ ክሉ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ ድማ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእኡ"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "ጠርንቲ"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "ጠንካ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ዙርያ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ክብ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "ንእቲ ጠርንቲ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ዙርያ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:42:42.318754551Z",
+  "model": "glm-5.3"
+}

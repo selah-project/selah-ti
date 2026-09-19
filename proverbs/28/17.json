@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ብደም ነፍሲ ዝተሸክመ ሰብ ክሳብ በይን ይሸዐብ፤ ኣብኡ ኣይተሓገዱን።",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ዝተሸክመ"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ብደም"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "በይን"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "ይሸዐብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "ይተሓገሱሉ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:59:49.771039456Z",
+  "model": "glm-5.3"
+}

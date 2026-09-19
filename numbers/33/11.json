@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 33:11",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ካብ ባሕሪ ሱፍ ተነሱ፣ ኣብ ምድረ በዳ ሲን ድማ ኣደመው።",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ተነሱ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ካብ ባሕሪ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ሱፍ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ኣደመው"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድረ በዳ"
+    },
+    {
+      "surface": "סין",
+      "gloss": "ሲን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:42:11.053405440Z",
+  "model": "glm-5.3"
+}

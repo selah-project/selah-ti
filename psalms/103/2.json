@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 103,
+  "translation": "ነፍሲይ ባሪኪ ⟨את⟩ ያህዌህ፣ ንኹሉ መልክዕቱ እውን ኣይትረስይን።",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "ባሪኪ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ከምኡውን ኣይ…ን"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "ኣይትረስይን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "መልክዕቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:36.307427711Z",
+  "model": "glm-5.3"
+}

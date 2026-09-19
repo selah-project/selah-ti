@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ድማ ኣብ ጋሊል ኣብ ጋብ ንፍትሊ ⟨את⟩ ቅደስ ቀዱስ ገበሩ፣ ብታሕቲ ከርኢ ኤፍራይም ⟨את⟩ ሽክምን፣ ብታሕቲ ከርኢ ይሁዳን ⟨את⟩ ቂርያት ኣርባዕት (ካበይታ ሕብሮን)።",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "ቀዱስ ገበሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅደስ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅደስ"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "ኣብ ጋሊል"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ኣብ ጋብ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ንፍትሊ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሽክም"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ሽክም"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ኣብ ጋብ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቂርያት ኣርባዕት"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ቂርያት"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ኣርባዕት"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ካበይታ"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ሕብሮን"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ኣብ ጋብ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:31:56.342530022Z",
+  "model": "glm-5.3"
+}

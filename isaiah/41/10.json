@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ኣይትፈርሕን፣ ስለ ምስ ኣኻ እየ፤ ኣይትሓውዝን፣ ስለ ኣነ ኤሎሂምካ እየ፤ ኣጸንኽዎኻ፣ ሓገዝኩኻ እሞ፣ ብኩሉ-ኽእል ⟨ኣእዳው⟩ ጽድቕይ ድማ ኣማኒኻ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ትፈርሕን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስ ኣኻ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እየ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "ትሓውዝን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "ኣጸንኽዎኻ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "ሓገዝኩኻ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "ኣማኒኻ"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "ብኩሉ-ኽእል ⟨ኣእዳው⟩"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "ጽድቕይ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:09:23.082368942Z",
+  "model": "glm-5.3"
+}

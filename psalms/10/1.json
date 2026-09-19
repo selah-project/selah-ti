@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ስለምንታይ ያህዌህ ብሩቕ ተቐሚጥካ? ኣብ እዋናት ጸባኣት ተሓብእኳ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ስለምንታይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ተቐሚጥካ"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "ብሩቕ"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "ተሓብእኳ"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "ኣብ እዋናት"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "ጸባኣት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:06.755847391Z",
+  "model": "glm-5.3"
+}

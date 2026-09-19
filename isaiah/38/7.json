@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "እዚ ድማ ንስኻ ምልክት እዩ ካብ ⟨את⟩ ያህዌህ፣ ያህዌህ ⟨את⟩ ነቲ ቃል እዚ እቲ ዝዛረቦ ኪገብሮ።",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "እዚ ድማ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "האות",
+      "gloss": "ምልክት"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ኪገብር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ቃል እዚ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ነቲ ቃል"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝዛረቦ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:05:08.193976518Z",
+  "model": "glm-5.3"
+}

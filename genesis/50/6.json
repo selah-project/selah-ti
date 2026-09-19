@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ፓርዖ ድማ በለ፦ «ውጸእ፣ ⟨את⟩ ኣቦኻ ከም ዝሓወየካ ቐብር።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ውጸእ"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "ቐብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቦኻ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ኣቦኻ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "ዝሓወየካ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:11:46.131837317Z",
+  "model": "glm-5.3"
+}

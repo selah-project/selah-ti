@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኮይኑ ያህዌህ ⟨את⟩ ኤሊያሁ ኣብ ሰዓራ ሰማያት ኣብ ዝወስድ እዋን፣ ኤሊያሁ ምስ ኤሊሻዕ ካብ ገልገል ከደ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "ኣብ ዝወስድ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሊያሁ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤሊያሁ"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "ኣብ ሰዓራ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤሊያሁ"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "ምስ ኤሊሻዕ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ገልገል"
+    }
+  ],
+  "timestamp": "2026-09-19T01:14:10.463688901Z",
+  "model": "glm-5.3"
+}

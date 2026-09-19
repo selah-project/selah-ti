@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ናብ ሰማያት ይወጹ፣ ናብ ጥልቃታት ድማ ይወርዱ፤ ነፍሲኦም ብከባብዒ ተበንኪኳ።",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "ይወጹ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ይወርዱ"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ጥልቃታት"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ነፍሲኦም"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ብከባብዒ"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "ተበንኪኳ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:21.789026499Z",
+  "model": "glm-5.3"
+}

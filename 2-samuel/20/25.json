@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ሸዓ ጸሓፊ እዩ፣ ጸዶቅን ኣብያታርን ድማ ካህናት እዮም።",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "ሸዓ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ጸሓፊ"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ጸዶቅ"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "ኣብያታር"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ካህናት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:36:41.818563209Z",
+  "model": "glm-5.3"
+}

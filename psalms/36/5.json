@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ኣብ ቍጽሉ ዓመጽ ይሓስብ እዩ፤ ኣብ መገዲ ኣይኮነን ብሉጽ ኮይኑ ይቕመጥ እዩ፤ ክፉእ ኣይጥሕቶን እዩ።",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "ዓመጽ"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ይሓስብ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "ቍጽሉ"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "ይቕመጥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መገዲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ብሉጽ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "ኣይጥሕቶን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:12.029408553Z",
+  "model": "glm-5.3"
+}

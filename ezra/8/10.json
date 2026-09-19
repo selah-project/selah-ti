@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 8:10",
+  "book": "ezra",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ድማ ካብ ውላድ ሽሎሚት — ወዲ ዮስፍያሕ፣ ምስ እቲ ሚእቲን ስልሳን ተባዕታውት።",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "ድማ ካብ ውላድ"
+    },
+    {
+      "surface": "שלומית",
+      "gloss": "ሽሎሚት"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "יוספיה",
+      "gloss": "ዮስፍያሕ"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ምስ እቲ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ሚእቲ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ስልሳ"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "ተባዕታውት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:11:37.797586255Z",
+  "model": "glm-5.3"
+}

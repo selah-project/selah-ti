@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ሓታኽ ድማ መጸ፣ ንኣስተር ⟨את⟩ ቃላት ሞርዱኻይ ነገራት።",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "התך",
+      "gloss": "ሓታኽ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ነገረ"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "ንኣስተር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላት"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ሞርዱኻይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:45:27.506945791Z",
+  "model": "glm-5.3"
+}

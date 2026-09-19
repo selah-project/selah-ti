@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ድሕሪኡ ንኣኻትኩም ኣኻ ካህናት እዚ ትእዛዝ ⟨እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ድሕሪኡ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ንኣኻትኩም"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ኣኻ ካህናት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:40:07.068981139Z",
+  "model": "glm-5.3"
+}

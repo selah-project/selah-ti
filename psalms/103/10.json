@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 103,
+  "translation": "ብኃጢኣትና ኣይገበረልናን፣ ብዓቕባትና ድማ ኣይበጸልናን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "ብኃጢኣትና"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ልና"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን ድማ"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "ብዓቕባትና"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "በጸ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ኣብና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:13.272682616Z",
+  "model": "glm-5.3"
+}

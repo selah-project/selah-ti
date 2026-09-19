@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ምስ ሰምዑ ⟨את⟩ እቲ ቶራ ኩሉ ተደባሪ ቍጽሪ ካብ እስራኤል ተኻልእሎም።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኰነ"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "ምስ ሰምዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ቶራ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "እቲ ቶራ"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "ተኻልእሎም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ተደባሪ ቍጽሪ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ካብ እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T07:26:01.501103505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 132,
+  "translation": "ኣባሪኣ ብብርኪ እባርክ፣ ድኻታታ ድማ ብእኽሊ እሰማዕዮም።",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "ኣባሪኣ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ብብርኪ"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "እባርክ"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "ድኻታታ"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "እሰማዕዮም"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ብእኽሊ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:00.409798280Z",
+  "model": "glm-5.3"
+}

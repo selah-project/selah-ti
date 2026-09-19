@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "«ካብ እቲ መርከቢ ኣትው — ንስኻ፣ ሰበይትካን ውላድካን፣ ሰበይቲ ውላድካን ምስ ንስኻ ⟨אתך⟩።»",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "ኣትው"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "እቲ መርከቢ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "ሰበይትካ"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ውላድካ"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ውላድካ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ምስ ንስኻ ⟨אתך⟩",
+      "marks": "ምስ ንስኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:34:28.591601208Z",
+  "model": "glm-5.3"
+}

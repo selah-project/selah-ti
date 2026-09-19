@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 19:4",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ከቢድ ጎይታት ⟨את⟩ ሚጽራይም ኣብ ኢዶም ኣሃበኩ፣ ንጉስ ጸንዓቲ ድማ ኣብ ልዕሊኦም ይግዝእ፣ እቲ ኣዶናይ ያህዌህ ጸባኦት ዝበለ።",
+  "tokens": [
+    {
+      "surface": "וסכרתי",
+      "gloss": "ኣሃበኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሚጽራይም"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ኣብ ኢድ"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "ጎይታት"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ከቢድ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ንጉስ ድማ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ጸንዓቲ"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "ይግዝእ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ኣብ ልዕሊኦም"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ዝበለ"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "እቲ ኣዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    }
+  ],
+  "timestamp": "2026-09-19T01:55:08.230306502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ኣዒንትኻ ነቲ ንጉስ ኣብ ብጽዑ ክርኣያ እየን፤ ነቲ ናይ ርሕቐት ምድሪ ክርኣየን እየን።",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "ኣብ ብጽዑ"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "ክርኣያ እየን"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ኣዒንትኻ"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "ክርኣየን እየን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "ናይ ርሕቐት"
+    }
+  ],
+  "timestamp": "2026-09-19T02:01:26.443169593Z",
+  "model": "glm-5.3"
+}

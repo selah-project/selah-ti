@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 8:13",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ከምዚ ገበሩ፤ ኣሮን ድማ ኢዱን ብምሕጻሩ ዘርእዩ ⟨את⟩ ኣፍሪት ምድሪ ዘረኣ፤ ቕንዩ ኸኣ ኣብ ሰብን ኣብ እንስሳን ኮነ፤ ኩሉ ኣፍሪት ምድሪ ኣብ ኩሉ ምድሪ ሚጽራይም ቕንዩ ኮነ።",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ዘረእዩ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢዱ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "ብምሕጻሩ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ዘረኣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣፍሪት ምድሪ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ኣፍሪት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "ቕንዩ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ኣብ ሰብ"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ኣብ እንስሳ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ኣፍሪት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ቕንዩ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:18:42.516197755Z",
+  "model": "glm-5.3"
+}

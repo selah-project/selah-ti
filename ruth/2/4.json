@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 2:4",
+  "book": "ruth",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣብ እቲ እዋን ብዕዝ ካብ ቤት-ለሕም መጸ፤ «ያህዌህ ምስኩም» ኢሉ ንሃራሺቲ በለ፤ ንሳቶም ድማ «ያህዌህ ክባርከካ» በሉዎ።",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ኣብ እቲ እዋን"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ብዕዝ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ቤት"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ለሕም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "לקוצרים",
+      "gloss": "ንሃራሺቲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ምስኩም"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "ክባርከካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:33:23.466949641Z",
+  "model": "glm-5.3"
+}

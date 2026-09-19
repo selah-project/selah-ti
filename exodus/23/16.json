@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 23:16",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ወን በዓል ምስቓል፣ በኩርቲ ስራሕኻ ኣብ እርሻ ዝትዘርእ፤ ወን በዓል ቍጠራ፣ ኣብ ውጺኢት ዓመት፣ ስራሕኻ ⟨את⟩ ካብ እርሻ ምስ ቐንዐም ኣብ ምቍጠርካ።",
+  "tokens": [
+    {
+      "surface": "וחג",
+      "gloss": "ወን በዓል"
+    },
+    {
+      "surface": "הקציר",
+      "gloss": "ምስቓል"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "በኩርቲ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ስራሕኻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝትዘርእ"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ዝትዘርእ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ኣብ እርሻ"
+    },
+    {
+      "surface": "וחג",
+      "gloss": "ወን በዓል"
+    },
+    {
+      "surface": "האסיף",
+      "gloss": "ቍጠራ"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "ኣብ ውጺኢት"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "ኣብ ምቍጠርካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስራሕኻ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ስራሕኻ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "እርሻ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:28:52.817994410Z",
+  "model": "glm-5.3"
+}

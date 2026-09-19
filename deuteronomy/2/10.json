@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እቶም ኤሚም ቅድሚ ኣብኡ ዝነበሩ ነይሮም፣ ህዝቢ ዓቢ ብዙሕን ከፊንን ከም ኣናኺም።",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "እቶም ኤሚም"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ዝነበሩ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ከፊን"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "ከም ኣናኺም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:44:41.146442142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 7:24",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ነገርቶም ድማ ኣብ ኢድካ የውርዶም፣ ንስኻ ድማ ⟨את⟩ ስሞም ካብ ታሕቲ ሰማያት ትጥፍኦም፣ ሰብ ኣብ ቅድሚኻ ኣይትተማርእን፣ ክሳብ ተጠፊእካ ⟨אתን⟩ ንሳቶምን።",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "የውርዶም"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "ነገርቶም"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ኣብ ኢድካ"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "ትጥፍኦም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሞም"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ስሞም"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ካብ ታሕቲ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይን"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "ይትተማርእን"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "ኣብ ቅድሚኻ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "ተጠፊእካ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את׊ም⟩",
+      "marks": "ንሳቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:50:37.024990240Z",
+  "model": "glm-5.3"
+}

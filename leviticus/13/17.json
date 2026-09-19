@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ነቢዚ ድማ ካህን ረኣዮ፣ ኣሎ፣ እቲ ንጹቅ ናብ ቐጻሊ ተቐይሩ፣ ነቢዚ ካህን ⟨את⟩ እቲ ንጹቅ ከይዝን ኣብርሂ ንኽእል እዩ — ንጹኅ እዩ።",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "ነቢዚ ድማ ካህን ረኣዮ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "ተቐይሩ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "እቲ ንጹቅ"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ናብ ቐጻሊ"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ኣብርሂ ንኽእል እዩ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ንጹቅ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "እቲ ንጹቅ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ንጹኅ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:56:16.170471049Z",
+  "model": "glm-5.3"
+}

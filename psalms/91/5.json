@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 91,
+  "translation": "ካብ ናይ ለይቲ ስቓት ኣይትፍርህን፣ ኣብ መዓልቲ እናበረሐ ካብ ዝኸድስ ሳዕቲ ድማ ኣይትፍርህን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይትፍርህን"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ትፍርህ፣"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ካብ ፍርሃት ናይ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ለይቲ"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ካብ ሳዕቲ"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "እናበረሐ ካብ ዝኸድስ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ኣብ መዓልቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:42.943301398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 39:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ኣብ እቲ ዝኾነ እዋን ሜሮዳኽ-ባላዳን ወዲ ባላዳን ንጉስ ባብል ኣጽሓፍቲን ቍርባንን ናብ ሕዝቕያሁ ሰደደ፤ ሰምዐ ድማ ሕማም ስለ ዝነበሮን ሓዊሱ ስለ ዝኾነን።",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ኣብ እቲ ዝኾነ እዋን"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "מרדך",
+      "gloss": "ሜሮዳኽ"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "ባላዳን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "ባላዳን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባብል"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "ኣጽሓፍቲ"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "ቍርባንን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ሕዝቕያሁ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ሕማም ነይሩ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ሓዊሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:08:08.223496284Z",
+  "model": "glm-5.3"
+}

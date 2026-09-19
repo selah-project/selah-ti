@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "እቶም ደመናት እንተ ተመልኡ፣ ኣብ ⟨እታ⟩ ምድሪ ዝና ይብድሑ፤ እቲ እሳብ ኣብ ደቡብ እንተ ወደቐ ወይ ኣብ ሰሜን፣ ኣብ እቲ ቦታ እቲ እሳብ ዝወደቕ ኣብኡ ⟨ክኸውን እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "ተመልኡ"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "እቶም ደመናት"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "ዝና"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "ይብድሑ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ወደቐ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "እሳብ"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "ኣብ ደቡብ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ወይ እንተ"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "ኣብ ሰሜን"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ኣብ እቲ ቦታ"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "ዝወደቕ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "እቲ እሳብ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ክኸውን እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:43:54.821878557Z",
+  "model": "glm-5.3"
+}

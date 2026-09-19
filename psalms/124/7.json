@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 124,
+  "translation": "ነፍሲና ከም ኩርባት ካብ መሸንጢ ኣሳራቢት ኮይና ኣምልጠት፤ እቲ መሸንጢ ተሰብረ፣ ንሕና ድማ ኣምልጠና።",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "ነፍሲና"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "ከም ኩርባት"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "ኣምልጠት"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "ካብ መሸንጢ"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "ኣሳራቢት"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "እቲ መሸንጢ"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "ተሰብረ"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ንሕና ድማ"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "ኣምልጠና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:05.284243456Z",
+  "model": "glm-5.3"
+}

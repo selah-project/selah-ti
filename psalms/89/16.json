@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ዝደሰዩ እቲ ህዝቢ ትሩዓታ ዝፈልጡ እዮም፤ ኣብ ብርሃን ገጽኻ ያህዌህ ይሓልዩ።",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ዝደሰዩ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "ዝፈልጡ"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "ትሩዓታ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ኣብ ብርሃን"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጽኻ"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "ይሓልዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:12.499102049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "የሆሹዋዕ ድማ ንእስራኤላዊ ንጉሲ በሎ፦ «ንጹር ሎሚ ⟨את⟩ ቓል ያህዌህ ክንሓትት።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሲ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤላዊ"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ክንሓትት"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ንጹር"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ሎሚ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቓል ያህዌህ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:14:07.551186093Z",
+  "model": "glm-5.3"
+}

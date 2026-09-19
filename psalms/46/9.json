@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 46,
+  "translation": "ኣቱው፣ ተጻወትታት ያህዌህ ርኣዩ፣ እቶም ኣብ ⟨እታ⟩ ምድሪ ኣጥፍኣት ዝገይሮም እዮም።",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ኣቱው"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ርኣዩ"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "ተጻወትታት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ዝገይሮም"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ኣጥፍኣት"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:59:32.463543893Z",
+  "model": "glm-5.3"
+}

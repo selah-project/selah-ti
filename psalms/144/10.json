@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 144,
+  "translation": "ንኣገላይ ሓዊርቲ ዝሃብ፡ ⟨את⟩ ዳዊድ ኣገልገልቱ ካብ ክፉት ሰይፊ ዝሓርይ — ንሱ እዩ።",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "ዝሃብ"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "ሓዊርቲ"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "ንኣገላይ"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "ዝሓርይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዳዊድ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ኣገልገልቱ"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ካብ ሰይፊ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:23.392568413Z",
+  "model": "glm-5.3"
+}

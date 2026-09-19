@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ንፍርዲ ተንቃሕን ንቐንስን፣ ኤሎሃይን ኣዶናይን፣ ንጉዳየ።",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "ተንቃሕ"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "ንቐንስ"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "ንፍርዲ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሃይ"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "ንጉዳየ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:26.498461706Z",
+  "model": "glm-5.3"
+}

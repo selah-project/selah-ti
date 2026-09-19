@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "«ሕጂ ከድ፣ ነቲ ኣማሌቅ ⟨את⟩ ሰቓዮ፣ ዅሉ ንእሱ ዘለዎ ⟨את⟩ ብወፈያ ተወፍይ፣ ኣብ ላዕሊኡ ኣይትሓደርን፤ ካብ ሰብ ክሳብ ሰበይቲ፣ ካብ ንእሽቶ ክሳብ ዝጸበብ፣ ካብ ጎሽ ክሳብ ፋረስ፣ ካብ ገምል ክሳብ ኣጋም ቅተሉ።»",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ከድ"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "ሰቓዮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣማሌቅ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ኣማሌቅ"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "ብወፈያ ተወፍይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዅሉ ንእሱ ዘለዎ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ዅሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሱ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "ትሓደር"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ላዕሊኡ"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "ቅተሉ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ካብ ሰብ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "ካብ ንእሽቶ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "ዝጸበብ"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ካብ ጎሽ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ፋረስ"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "ካብ ገምል"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ኣጋም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:07:46.861021422Z",
+  "model": "glm-5.3"
+}

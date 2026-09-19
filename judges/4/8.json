@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ባራቅ ድማ ነኣ ኢሉ፦ «ምስ ኣንታ እንተ ተኸዊንካዕ እነኸውን እየ፣ ምስ ኣንታ ድማ እንተ ኣይተኸዊንካን ኣይከውን እየ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ኢሉ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ነኣ"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "ባራቅ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "እንተ ተኸዊንካዕ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ምስ ኣንታ"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "እነኸውን እየ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "እንተ ድማ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይተኸዊንካን"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "እንተ ኣይተኸዊንካን"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ምስ ኣንታ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ኣይከውን እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:39:05.868760466Z",
+  "model": "glm-5.3"
+}

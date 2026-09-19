@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ብዚ ኮረብታ እዚ ምዝዋር ንኣኹም በዚ ወይዩ፤ ን⟨את⟩ እቲ ኮረብታ እዚ ዞርኩም፤ ንስኻትኩም ናብ ሰሜን ተመለሱ።",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "በዚ ወይዩ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኣኹም"
+    },
+    {
+      "surface": "סב",
+      "gloss": "ዞርኩም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ኮረብታ እዚ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "እቲ ኮረብታ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "ተመለሱ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንስኻትኩም"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ናብ ሰሜን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:45:33.467387689Z",
+  "model": "glm-5.3"
+}

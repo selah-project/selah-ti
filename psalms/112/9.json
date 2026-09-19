@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 112,
+  "translation": "በትኮ፣ ንድሕቆት ሃቐ፤ ጽድቂ ናይ ዘለኣለም ትቐመጥ፤ ቐርናኑ ብክብሪ ክተሓሉ እያ።",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "በትኮ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃቐ"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "ንድሕቆት"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ትቐመጥ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ናይ ዘለኣለም"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "ቐርናኑ"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ክተሓሉ"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "ብክብሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:46.486786530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ኩሉ ብጽሕቲየ ክብላ እያ፦ «ያህዌህ፣ መን'ዩ ከም ኣኻ፧ ንጕስቋስ ካብ ንሱ ዝዓቢ ካብኡ ዚናግፍ፣ ንጕስቋስን ንድኻን ካብ ዚወፅኦ እዩ ዚናግፍ።»",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ብጽሕቲየ"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "ክብላ እያ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ከም ኣኻ"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ዚናግፍ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ጕስቋስ"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "ካብ ንሱ ዝዓቢ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ጕስቋስን"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ድኻን"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "ካብ ዚወፅኦ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:21.181180907Z",
+  "model": "glm-5.3"
+}

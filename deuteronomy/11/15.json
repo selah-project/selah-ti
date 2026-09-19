@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኣብ በረኻኻ ንብሄረትኻ ውሽግ ክብልኩ እየ፣ ንስኻ ድማ ብሊዕካውን ተጸገዕካውን።",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ክብልኩ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ውሽግ"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "ኣብ በረኻኻ"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "ንብሄረትኻ"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ብሊዕካ"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ተጸገዕካ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:33:53.191986372Z",
+  "model": "glm-5.3"
+}

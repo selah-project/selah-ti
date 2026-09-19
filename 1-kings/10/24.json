@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ዓለም ኩሉ ኰይና ⟨את⟩ ገጽ ሽሎሞ ይደልዩ ነይሩ፣ ⟨את⟩ ጥበቡ ንምስምዕ — እቲ ኤሎሂም ኣብ ልቡ ዝሃቦ።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ዓለም"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "ይደልዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገጽ ሽሎሞ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ንምስምዕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጥበቡ"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "ጥበቡ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ዝሃቦ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ኣብ ልቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:54:34.232367505Z",
+  "model": "glm-5.3"
+}

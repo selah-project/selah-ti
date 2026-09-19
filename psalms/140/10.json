@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 140,
+  "translation": "ርእሲ እቶም ዝከብብዋኒ — እቲ ንጥፈት ከርንዖም ተባህጐ ክሕዞም።",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "እቶም ዝከብብዋኒ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ንጥፈት"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ከርንዖም ተባህጐ"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "ክሕዞም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:58.091617282Z",
+  "model": "glm-5.3"
+}

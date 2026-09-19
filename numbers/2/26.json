@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሰራዊቱን ቁጽሮምን ክልተን ስልሳን ሽሕ ሰባት ምዕቲ እዩ።",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ሰራዊቱ"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ቁጽሮም"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ስልሳ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሽሕ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ምዕቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:12:35.445652313Z",
+  "model": "glm-5.3"
+}

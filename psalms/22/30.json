@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኲሎም ደጉሳት ምድሪ ክበልዑን ክሰግዱን እዮም፤ ቅድሚ ያህዌህ ኲሎም ናብ እስኩት ዝወርዱ ክድልዩ እዮም፤ ነፍስኡ ድማ ኣይሓወናን።",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "ክበልዑ"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ክሰግዱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኲሎም"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "ደጉሳት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ቅድሚ ያህዌህ"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "ክድልዩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኲሎም"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ዝወርዱ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "እስኩት"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "ነፍስኡ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ክሓውናን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:54.521096308Z",
+  "model": "glm-5.3"
+}

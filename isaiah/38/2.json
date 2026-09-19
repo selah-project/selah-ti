@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ሕዝቅያሁ ድማ ገጹ ናብ እቲ ግንዲ ቐየረ፣ ናብ ያህዌህ ድማ ተጸለመ።",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ቐየረ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ሕዝቅያሁ"
+    },
+    {
+      "surface": "᤺פניו",
+      "gloss": "ገጹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "እቲ ግንዲ"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ተጸለመ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:05:12.033955261Z",
+  "model": "glm-5.3"
+}

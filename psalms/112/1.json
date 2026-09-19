@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 112,
+  "translation": "ያህ ሰብሱ፦ ጽቡእ እዩ እቲ ሰብ እቲ ያህዌህ ⟨את⟩ ዝፈርህ፣ ኣብ ትእዛዛቱ ብዙሕ ዝደሊ።",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ሰብሱ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ጽቡእ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ዝፈርህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "ኣብ ትእዛዛቱ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ዝደሊ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:17.486989585Z",
+  "model": "glm-5.3"
+}

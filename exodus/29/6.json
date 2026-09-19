@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ነቲ ጉምጡዕ ኣብ ርእሱ ከኣ ተወኪኡ፣ ⟨את⟩ ዘውር ቅዱስ ኣብቲ ጉምጡዕ ከኣ ተወኪኡ።",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ተወኪኡ"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ጉምጡዕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ርእሱ"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ተወኪኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዘውር"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "ዘውር"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ጉምጡዕ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:34:34.053837741Z",
+  "model": "glm-5.3"
+}

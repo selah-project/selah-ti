@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ነፍሰይ ንኤሎሂም፣ ንኤል ሕያው ተጽምዐት፤ «መዓስ ክኣምጽእ እሞ ገጽ ኤሎሂም ክረኣየ?»",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "ተጽምዐት"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ንኤሎሂም"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ንኤል"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "መዓስ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ክኣምጽእ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "እሞ ክረኣየ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:47.176301737Z",
+  "model": "glm-5.3"
+}

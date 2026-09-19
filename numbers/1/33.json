@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 1:33",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "እቶም ተቐጻጸሮም ናይ ወገን ኤፍራይም ኣርብዓት ሺሕን ሓሙሽተ ሚኢትን እዮም።",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ተቐጻጸሮም"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ናይ ወገን"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ኣርብዓት"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺሕ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ንሓሙሽተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚኢት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:09:34.132766201Z",
+  "model": "glm-5.3"
+}

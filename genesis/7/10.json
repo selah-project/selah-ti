@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ከምኡ ድማ ኣብ ሸውዓተ መዓልታት ማይ ⟨እቲ⟩ ማሕዛብ ኣብ ⟨እቲ⟩ ምድሪ ውሽጢ ኮይኑ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ከምኡ ድማ ኮይኑ"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ኣብ ሸውዓተ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ማሕዛብ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ውሽጢ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:33:27.422041556Z",
+  "model": "glm-5.3"
+}

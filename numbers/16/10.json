@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ድማ ⟨אתך⟩ ኣቐረበካን ⟨ואת⟩ ኩሉ ኣሕዋትካ ውላድ ሌዊ ምስኻ፤ ካህንነት ከኣ ተደልዩ፧",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ኣቐረበ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "ንስኻ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ኩሉ ኣሕዋትካ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ኣሕዋትካ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ሌዊ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ምስኻ ⟨את⟩"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "ተደልዩ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ከኣ"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "ካህንነት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:26:37.280135622Z",
+  "model": "glm-5.3"
+}

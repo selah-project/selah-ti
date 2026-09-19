@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ናይ ዳዊድ። ያህዌህ ናብ ኣኻ እቆራ፣ ዓቕሊ፣ ብዓኻይ ኣይትጸምመኒ፣ ንሕናዶ ብዓኻይ ኣይትሕለኒ፣ ምስ እተወርዱ በርኪ ከም ዝተመሳለጥኩ እየ።",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብ ኣኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "እቆራ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ዓቕሊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ትጸምመኒ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ብዓኻይ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ንሕናዶ"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "ትሕለኒ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ብዓኻይ"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "ከም ዝተመሳለጥኩ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "እተወርዱ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "በርኪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:52:45.909316303Z",
+  "model": "glm-5.3"
+}

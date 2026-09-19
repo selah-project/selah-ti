@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 4:9",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ንሳ ድማ ንሰብኣ ነገረቶ፦ «ርአ ሕጂ፣ ነዚ እየ ዝፈልጦ፣ ንሱ ሰብ ኤሎሂም ቅዱስ እዩ፤ ኣብ ልዕሊና ብቐጣዕ ይሓልፍ እዩ።»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ነገረቶ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ሰብኣ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ርአ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "እየ ዝፈልጦ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነዚ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ይሓልፍ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ኣብ ልዕሊና"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ብቐጣዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:15:41.848896974Z",
+  "model": "glm-5.3"
+}

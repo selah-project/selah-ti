@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 62,
+  "translation": "ንሱ ጥራይ ቈላይ ወይኒ እዩ፣ ናይ ድሕነተይን ምሽገይን እዩ፣ ኣይተንዘዐን።",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ቈላይ"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ናይ ድሕነተይን"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ምሽገይን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ተንዘዐን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:05.606946087Z",
+  "model": "glm-5.3"
+}

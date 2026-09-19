@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ያህዌህ ድማ ደጊሙ ናብዚ እና ተዛረበ፦",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ደገመ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ናብዚ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደጊሙ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እና በለ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:45:34.851778577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 109:26",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "ያህዌህ ኤሎሂምኩ ሓግዘኒ፣ ከም ሔሴድካ ኣድሕነኒ።",
+  "tokens": [
+    {
+      "surface": "עזרני",
+      "gloss": "ሓግዘኒ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂምኩ"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ኣድሕነኒ"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "ከም ሔሴድካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:02.195004782Z",
+  "model": "glm-5.3"
+}

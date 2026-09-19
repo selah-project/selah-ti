@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ሔሴድ ኣብ ኣላፋት ወለዲ ንዝፈትዉኒን ኣዘዛትይ ንዚጠብቑኒን የገብር።",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "የገብር"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "ኣብ ኣላፋት ወለዲ"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ንዝፈትዉኒ"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "ኣዘዛትይ ንዚጠብቑኒን"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ኣዘዛትይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:23:10.767521064Z",
+  "model": "glm-5.3"
+}

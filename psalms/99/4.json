@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 99,
+  "translation": "ናይ ንጉስ ሓይሊ ፍትሒ ትፍትው እያ፤ ቅኑዕነት ኣተሓሒዝካ፤ ፍትሒን ጽድቅን ኣብ ያዕቆቭ ገበርካ።",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "ናይ ንጉስ ሓይሊ ድማ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍትሒ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ትፍትው"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "ኣተሓሒዝካ"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ቅኑዕነት"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍትሒ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ጽድቅን"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ኣብ ያዕቆቭ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ገበርካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:52.752517452Z",
+  "model": "glm-5.3"
+}

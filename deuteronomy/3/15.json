@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ንማኪር ድማ ⟨את⟩ ጊልዓድ ሃብኩ።",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "ንማኪር ድማ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ሃብኩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጊልዓድ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ጊልዓድ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:46:37.607801688Z",
+  "model": "glm-5.3"
+}

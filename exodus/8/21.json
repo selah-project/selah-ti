@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ፓርዖ ንሞሸን ንኣሃሮንን ኣሸወዮም፤ «ኢሉኹም፣ ኣብ ምድሪ ንኤሎሂምኩም ኣታትሩ» በሎም።",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ኣሸወዮም"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ንኣሃሮንን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ኢሉኹም"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "ኣታትሩ"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "ንኤሎሂምኩም"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:16:31.886051291Z",
+  "model": "glm-5.3"
+}

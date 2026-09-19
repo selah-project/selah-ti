@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ቓል ያህዌህ ኣርዛውቲ የብርቅ፤ ያህዌህ ድማ ኣርዛውቲ ለባኖን ⟨את⟩ ይበርቆም።",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "የብርቅ"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ኣርዛውቲ"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ድማ ይበርቆም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣርዛውቲ ለባኖን"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "ኣርዛውቲ"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "ለባኖን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:58.856441207Z",
+  "model": "glm-5.3"
+}

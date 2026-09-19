@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣኺ ወዲ ዓብድኤል፣ ወዲ ጉኒ፣ ርእሲ ናይ ቤት ኣቦታቶም ነይሩ።",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "ኣኺ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "ዓብድኤል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "ጉኒ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ናይ ቤት"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ኣቦታቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:31:49.170605526Z",
+  "model": "glm-5.3"
+}

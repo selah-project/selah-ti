@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 48:13",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 48,
+  "translation": "ዮሴፍ ድማ ⟨את⟩ ክልቶም ወሲዱ፣ ኤፍራይም ኣብ የማይ እጁ ንጸባረቕ ይስራኤል፣ ⟨ואת⟩ ምናሴ ድማ ኣብ ጸባረቕ እጁ ንየማይ ይስራኤል፣ ንእኡ ኣቕረቦም።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክልቶም"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ክልቶም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤፍራይም"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ኤፍራይም"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "ኣብ የማይ እጁ"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "ንጸባረቕ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ምናሴ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምናሴ"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "ኣብ ጸባረቕ እጁ"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "ንየማይ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "ኣቕረቦም"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ንእኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:08:07.042120383Z",
+  "model": "glm-5.3"
+}

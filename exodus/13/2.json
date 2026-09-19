@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ንኩሉ በኵር፣ ነቲ ዝኽፈት ⟨ኩሉ⟩ ማሕፈድ፣ ኣብ ውላድ ይስራኤል — ኣብ ሰብን ኣብ እንስሳን — ቀድሱኒ፤ ንዓና እዩ።",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "ቀድሱኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኩም"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "በኵር"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "እቲ ዝኽፈት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ማሕፈድ"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "ኣብ ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ኣብ ሰብ"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ንኣብ እንስሳን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓና"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:22:28.865607329Z",
+  "model": "glm-5.3"
+}

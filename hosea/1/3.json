@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ከደን ⟨את⟩ ጎመር ወንስቲ ዲብላይም ወሲዱ፤ ንሳ ድማ ኰይና ወሊዱሉ ወዲ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ከደን"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጎመር"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ጎመር"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ወንስቲ"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "ዲብላይም"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ኰይና"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወሊዱሉ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሾ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:07:55.096549516Z",
+  "model": "glm-5.3"
+}

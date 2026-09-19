@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 1:17",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ንሱ ብነርእዩ ክፍልታቱ ⟨אתו⟩ ኣይፈልይን፣ እቲ ኻህን ድማ ኣብ ቍደስ፣ ንላዕሊ ነቲ ኣብ ሓዊ ዘሎ ኦም፣ ⟨אתו⟩ ይብዕሶ። ወፈያ ንላዕሊ እዩ፣ ወፈያ ሓዊ፣ ሽታ ዝሓሸ ንያህዌህ።",
+  "tokens": [
+    {
+      "surface": "ושסע",
+      "gloss": "ክፍልታቱ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ንሱ (ነፍሲ ወከፍ ነርእዩ)"
+    },
+    {
+      "surface": "בכנפיו",
+      "gloss": "ብነርእዩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "ይፈልይ"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ድማ ይብዕሶ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ንኡሱ (እቲ ወዲ ዑፍ)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "እቲ ኻህን"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ኣብ ቍደስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ንላዕሊ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ነቲ ኦም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ሓዊ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ወፈያ ንላዕሊ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ወፈያ ሓዊ"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "ሽታ"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ዝሓሸ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:44:51.795374986Z",
+  "model": "glm-5.3"
+}

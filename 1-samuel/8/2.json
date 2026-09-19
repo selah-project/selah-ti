@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ስም ቀዳማይ ወዲኡ ዮኤል ነይሩ፣ ስም ካልኣይኡ ድማ ኣቢያ፤ ኣብ ብኣር-ሸባዕ ዳንቲ ነይራ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዲኡ"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ቀዳማይ"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "ዮኤል"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ስምን"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "ካልኣይኡ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ኣቢያ"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ዳንቲ"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "ኣብ ብኣር"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸባዕ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:59:04.311726931Z",
+  "model": "glm-5.3"
+}

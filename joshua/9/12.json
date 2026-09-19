@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "«እዚ ዕኽልና እዚ ቅሩብ ምስ ነይሩ፣ ካብ ቤታትና ብዕለት ምውጻኣና ንኽንከዎ ኣብ ኢድና ⟨את⟩ ሓዚናዮ ነይሩ፤ ኣብዚ ሕጂ ድማ ርእዩ — ደረቀ ኮይኑ ተበታተነ ድማ።»",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "ዕኽልና"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ቅሩብ"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "ሓዚናዮ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ዕኽልና"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "ካብ ቤታትና"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ብዕለት"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "ምውጻኣና"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ንኽንከዎ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ንንስኻትኩም"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ኣብዚ ሕጂ ድማ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ርእዩ"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ደረቐ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "ተበታተነ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:20:30.573157855Z",
+  "model": "glm-5.3"
+}

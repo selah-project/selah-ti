@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ንሱ ድማ መልሱ ነቲ በሎ፦ «ኣነ እየ፤ ንስኻ ስጉም፣ ንጎይታኻ ብሉ፦ እንሆ ኤልያሁ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ስጉም"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ብሉ"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "ንጎይታኻ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ኤልያሁ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:05:48.937313982Z",
+  "model": "glm-5.3"
+}

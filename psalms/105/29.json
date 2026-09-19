@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "⟨את⟩ ማይታቶም ናብ ደም ቀየረ፣ ድማ ⟨את⟩ ዓሣታቶም ኣስመተ።",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "ቀየረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማይታቶም"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "ማይታቶም"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "ናብ ደም"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ኣስመተ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዓሣታቶም"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "ዓሣታቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:29.817286024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 12:12",
+  "book": "nehemiah",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ኣብ መዓልታት ዮይቅም ድማ ቄሳት ርእሲ ኣቦታት ነይሮም፤ ናይ ስራያህ ምራያህ፤ ናይ ይርምያህ ኽናኽያህ።",
+  "tokens": [
+    {
+      "surface": "ובימי",
+      "gloss": "ኣብ መዓልታት"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "ዮይቅም"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነይሮም"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ቄሳት"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ኣቦታት"
+    },
+    {
+      "surface": "לשריה",
+      "gloss": "ናይ ስራያህ"
+    },
+    {
+      "surface": "מריה",
+      "gloss": "ምራያህ"
+    },
+    {
+      "surface": "לירמיה",
+      "gloss": "ናይ ይርምያህ"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "ኽናኽያህ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:23:44.901857853Z",
+  "model": "glm-5.3"
+}

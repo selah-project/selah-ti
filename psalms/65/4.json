@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 65,
+  "translation": "ቓላት ዕድልታት ኣብ ልዕለይ ኣመዝኑ፣ ንቕጽልና ድማ ንስኻ ትሓውዮም ኢኻ።",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ቓላት"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "ዕድልታት"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "ኣመዝኑ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ኣብ ልዕለይ"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ንቕጽልና"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "ትሓውዮም ኢኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:45.107907199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 145,
+  "translation": "ምንባር ዝፈርውዎ ይገብር፣ ⟨את⟩ ትዕብታቶም ይሰምዕ ድማ ያድኆም።",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "ምንባር"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ዝፈርውዎ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ይገብር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ትዕብታቶም"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "ትዕብታቶም"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ይሰምዕ"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "ያድኆም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:53.735077896Z",
+  "model": "glm-5.3"
+}

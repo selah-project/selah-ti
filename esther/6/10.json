@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 6:10",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እቲ ንጉስ ድማ ንሃማን «ብቕጽል፣ ⟨את⟩ እቲ ልብስን ⟨ואת⟩ እቲ ፈረስን ከም ዝበልካዮ ወሲድካ፣ ንሞርደካይ እቲ ኣይሁዳዊ ኣብ በረ እቲ ንጉስ ዝቐመጠ ከምዚ ግበርሉ፤ ሓደ ቃል ካብ ኩሉ ዝበልካዮ ኣይትወድቕን» በለ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "ንሃማን"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ብቕጽል"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ወሲድካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ልብስ"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "እቲ ልብስ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ፈረስ"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "እቲ ፈረስ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ዝበልካዮ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ግበር"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "ንሞርደካይ"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "እቲ ኣይሁዳዊ"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "ዝቐመጠ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ኣብ በረ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "ኣይትወድቕን"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ዝበልካዮ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:50:25.140234009Z",
+  "model": "glm-5.3"
+}

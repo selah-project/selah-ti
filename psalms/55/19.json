@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 55,
+  "translation": "ኣብ ሰላም ነፍሰይ ካብቲ ምስ እተቓለሰኒ ተቓልሖ መድሐነ፤ ምኽንያቱ ብዙሓት ምስ እተቓለሱኒ ነይሮም።",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "መድሐነ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ኣብ ሰላም"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ካብ ተቓልሖ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነይሮም"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ምስ ኣነ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:01:37.976006810Z",
+  "model": "glm-5.3"
+}

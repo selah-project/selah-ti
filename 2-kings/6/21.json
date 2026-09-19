@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ንሳቶም ምስ ዝረኣዮም ንጉሥ እስራኤል ንኤልሸዕ በሎ፦ «ኣቦተይ፣ ክበድዮም ድድኣ? ክበድዮም?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ኤልሸዕ"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "ምስ ዝረኣዮም"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳቶም"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "ክበድዮም ድድኣ"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "ክበድዮም"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:17:12.580148058Z",
+  "model": "glm-5.3"
+}

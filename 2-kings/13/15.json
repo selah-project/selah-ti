@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኤልሻዕ ድማ ንኡ በሎ፦ «ቐስንን ስንዝታትን ውሰድ።» ንሱ ድማ ናብኡ ቐስንን ስንዝታትን ወሲዱ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንኡ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ኤልሻዕ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ውሰድ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ቐስን"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "ስንዝታትን"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ናብኡ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ቐስን"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "ስንዝታትን"
+    }
+  ],
+  "timestamp": "2026-09-19T01:25:35.650375910Z",
+  "model": "glm-5.3"
+}

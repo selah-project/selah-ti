@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "ወንበርካ ኣቢ ኤሎሂም ናብ ዘለኣለምን ዘለአለም ውን እዩ፤ ኣዕራፊ ማሕደርካ ኣዕራፊ ቅኑዕ ጽድቂ እዩ።",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "ወንበርካ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኣቢ ኤሎሂም"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ናብ ዘለኣለምን"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ዘለአለም ውን"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ኣዕራፊ"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "ቅኑዕ ጽድቂ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ኣዕራፊ"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "ማሕደርካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:00:34.279448528Z",
+  "model": "glm-5.3"
+}

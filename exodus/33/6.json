@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ውላድ እስራኤል ድማ ካብ ተራ ኮረብ ጀሚሎም ⟨את⟩ ጌጣጌጦም ተኣሪሞም።",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "ተኣሪሞም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጌጣጌጦም"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ጌጣጌጦም"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ካብ ተራ"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "ኮረብ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:39:35.166330374Z",
+  "model": "glm-5.3"
+}

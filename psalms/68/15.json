@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ሻዳይ ንጉሳት ሰሪሑ ኣብ እቲ ⟨ምድሪ⟩፣ ኣብ ጸልሞን በረኻ ወሪዱ።",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "ሰሪሑ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ሻዳይ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ንጉሳት"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብ እቲ ⟨ምድሪ⟩"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "በረኻ ወሪዱ"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "ኣብ ጸልሞን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:12.967347856Z",
+  "model": "glm-5.3"
+}

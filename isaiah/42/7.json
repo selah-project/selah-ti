@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ንዓብዕቲ ኣይን ንምእዝያ፣ ሓሉፊ ካብ መታንከያን እቶም ኣብ ጸልማት ዝቐምጡ ካብ ቤት ኩላን ንምውጣዕ።",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "ንምእዝያ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ኣይን"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "ዓብዕቲ"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ንምውጣዕ"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "ካብ መታንከያ"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ሓሉፊ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ቤት"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "ኩላ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ዝቐምጡ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጸልማት"
+    }
+  ],
+  "timestamp": "2026-09-19T02:08:54.021723693Z",
+  "model": "glm-5.3"
+}

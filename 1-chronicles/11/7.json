@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ዳዊድ ኣብቲ ግንቢ ተቐመጠ፤ ስለዚ «ከተማ ዳዊድ» በሃልዎ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "ኣብቲ ግንቢ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚ"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "በሃልዎ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእኡ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:36:20.876557191Z",
+  "model": "glm-5.3"
+}

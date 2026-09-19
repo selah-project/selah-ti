@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "⟨את⟩ ሰሌዳኡን ⟨את⟩ ብዓታቱን ⟨את⟩ ኩሉ መሳርሒቱን ⟨את⟩ ኣንጀራ እቲ ኣብ ቅድሚ ዘሎን።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰሌዳኡ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ሰሌዳኡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ብዓታቱ"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ብዓታቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ መሳርሒቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "መሳርሒቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣንጀራ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ኣንጀራ"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "እቲ ኣብ ቅድሚ ዘሎ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:40:12.752338872Z",
+  "model": "glm-5.3"
+}

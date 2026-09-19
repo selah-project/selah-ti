@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ቓላት ተኣማንታቱ ኣብ መንጎኦም ጸረ ዮም፣ ኣስዕርቲ ተጠንቀቓት ድማ ኣብ ምድሪ ሓም።",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "ጸረ ዮም"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ኣብ መንጎኦም"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቓላት"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "ተኣማንታቱ"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "ኣስዕርቲ ተጠንቀቓት ድማ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ሓም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:48.744868498Z",
+  "model": "glm-5.3"
+}

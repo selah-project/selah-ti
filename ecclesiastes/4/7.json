@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣነ ድማ ተመሊሰ ኣብ ትሕቲ ጸሓይ ሔበል ረኣኹ።",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "ተመሊሰ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ረኣኹ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ሔበል"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ትሕቲ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ጸሓይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:40:51.524990455Z",
+  "model": "glm-5.3"
+}

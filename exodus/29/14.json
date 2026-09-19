@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "⟨ואת⟩ ስጉም እቲ በጊዕን ⟨ואת⟩ ሓርማኡን ⟨ואת⟩ ፍሹን ኣብ እሳት ካብ ወጋሕ ኣብ ውጻኢ እቲ ሰፈር ተሰይር፤ ሓጢያት እዩ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ስጉም እቲ በጊዕ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ስጉም"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "እቲ በጊዕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሓርማኡ"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "ሓርማኡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ፍሹ"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "ፍሹ"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "ተሰይር"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ኣብ እሳት"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ኣብ ውጻኢ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ናይ እቲ ሰፈር"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ሓጢያት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:35:18.399063701Z",
+  "model": "glm-5.3"
+}

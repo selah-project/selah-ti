@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 4:12",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኩሉ መሳርሒታት ኣገልግሎት ኣብ ቅዱስ ቦታ እተኣገልገሉ ድማ ⟨את⟩ ይእክቱ፣ ኣብ ልብሲ ሰማያዊ ቀለም ድማ ይሃቡ፣ ⟨את⟩ ⟨אותם⟩ ብመሸለቢ ሓብርቲ ታሕሽ ድማ ይሕክምዎም፣ ኣብ ምስንዳ ድማ ይሃቡ።",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ይእክቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ መሳርሒታት ኣገልግሎት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "መሳርሒታት"
+    },
+    {
+      "surface": "השרת",
+      "gloss": "ኣገልግሎት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እተ"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "እተኣገልገሉ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ብኦም"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ኣብ ቅዱስ ቦታ"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ይሃቡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ልብሲ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ሰማያዊ ቀለም"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "ይሕክምዎም"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "ኦም (the vessels)"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "ብመሸለቢ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ሓብርቲ"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "ታሕሽ"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ይሃቡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "ምስንዳ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:15:15.573115541Z",
+  "model": "glm-5.3"
+}

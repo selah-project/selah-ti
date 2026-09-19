@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ሕያውታትኻ ኣብኣ ተቐመጡ፤ ብጽቡቕኻ ንድኻታት፣ ኤሎሂም፣ ኣዳልዉ።",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "ሕያውታትኻ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ተቐመጡ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኣ"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "ኣዳልዉ"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "ብጽቡቕኻ"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ንድኻታት"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:17.389134084Z",
+  "model": "glm-5.3"
+}

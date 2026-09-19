@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "«ስምዕ በጃኻ፣ ኣነ ድማ ክዛረብ እየ፤ ክሕተኻ እየ፣ ንሳ ኸኣ ኣፍለጠኒ።»",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ስምዕ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "በጃኻ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ኣነ ድማ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ክዛረብ እየ"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "ክሕተኻ እየ"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "ኣፍለጠኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:26:01.839344840Z",
+  "model": "glm-5.3"
+}

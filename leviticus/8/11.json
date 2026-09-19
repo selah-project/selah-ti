@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ካብኡ ድማ ኣብ ልዕሊ እቲ መሠዊሕ ሸውዓተ ግዜ ረፍሑ፣ ድማ ነቲ መሠዊሕ ⟨את⟩ በርሓዩ፣ ከምኡውን ⟨את⟩ ኩሉ መሳርሒቱ፣ ከምኡውን ⟨את⟩ እቲ መልጻጭቲ፣ ከምኡውን ⟨את⟩ መሠረቱ — ንምቕደሶም።",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "ረፍሑ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "እቲ መሠዊሕ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ግዜ"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "በርሓዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ መሠዊሕ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "እቲ መሠዊሕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ መሳርሒቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "መሳርሒቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ መልጻጭቲ"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "እቲ መልጻጭቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መሠረቱ"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "መሠረቱ"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "ንምቕደሶም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:52:17.571671363Z",
+  "model": "glm-5.3"
+}

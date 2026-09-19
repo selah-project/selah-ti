@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣቢሜለኽ ድማ ናብ ቴቤጽ ከደ፣ ኣብ ቴቤጽ ዓዲ ጸነሰ፣ ሓረዮን።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ኣቢሜለኽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "ቴቤጽ"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "ጸነሰ"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "ኣብ ቴቤጽ"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "ሓረዮ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:41:50.914888323Z",
+  "model": "glm-5.3"
+}

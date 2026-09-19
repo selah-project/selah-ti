@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ክሳብ እናመጽእ እኹም ናብ ምድሪ ከም ምድርኩም ክወስደኩም፣ ምድሪ ዕኽሊን ቲሮሽን፣ ምድሪ ዓዲን ወይኒን እያ።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "באי",
+      "gloss": "እናመጽእ"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "ክወስደኩም"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንስኻትኩም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "ከም ምድርኩም"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "ዕኽሊ"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "ቲሮሽን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዓዲ"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "ወይኒን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:06:17.862148365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ጥራይ ⟨את⟩ ደሙ ኣይትበልዕን፤ ኣብ ልዕሊ እቲ ምድሪ ከም ማይ ክትወድኾ።",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ደሙ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ደሙ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ኣይትበልዕን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እቲ ምድሪ"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ክትወድኾ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ከም ማይ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:55:32.773400294Z",
+  "model": "glm-5.3"
+}

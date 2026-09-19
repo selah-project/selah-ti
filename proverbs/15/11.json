@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 15:11",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ሽኦልን ኣባዶንን ቅድሚ ያህዌህ ይርአያሉ፤ እንተኻይ ንልብታት ውላድ ሰብ።",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "ሽኦል"
+    },
+    {
+      "surface": "ואבדון",
+      "gloss": "ኣባዶን-ን"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "እንተኻይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "ልብታት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:49:10.445988786Z",
+  "model": "glm-5.3"
+}

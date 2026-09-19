@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ምኽንያቱ ኣብ ᖲድዓን ነበሩ — ኣብ ጾኣን ነበሩ ኣልባቡቱ፣ ኣምባሳህቱ ድማ ናብ ሕናስ በጽሑ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ነበሩ"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "ኣብ ጾኣን"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ኣልባቡቱ"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "ኣምባሳህቱ"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "ሕናስ"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "በጽሑ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:02:08.242895591Z",
+  "model": "glm-5.3"
+}

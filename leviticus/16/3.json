@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ብዚኽ ኣሃሮን ነቲ ቅዱስ ኪኣቱ፦ ብከብ ወዲ ከብት ንብዓስ ሓጢኣትን ብበጊዕ ንወፈያ ዽዑን።",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "ብዚኽ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ኪኣቱ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "ብከብ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ከብት"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ንብዓስ ሓጢኣት"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ብበጊዕ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ንወፈያ ዽዑን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:01:55.737286989Z",
+  "model": "glm-5.3"
+}

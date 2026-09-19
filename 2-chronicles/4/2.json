@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 4:2",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ከምኡ'ውን ⟨את⟩ ባሕሪ ዝተወፈየ ገበረ፤ ንኣማ ዓሰርተ ካብ ጠርንጡ ክሳብ ጠርንጡ፣ ክብ ምስ ምሉእ ከቢብ ነይሩ፤ ንኣማ ሓሙሽተ ድማ ቁመቱ ነይራ፤ ማዕድ ንኣማ ሰላሳ ኣብ ከቢብ ድማ ⟨אתו⟩ ይከብቦ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ባሕሪ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "ዝተወፈየ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ንኣማ"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "ካብ ጠርንጡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "ጠርንጡ"
+    },
+    {
+      "surface": "עגול",
+      "gloss": "ክብ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ምስ ምሉእ ከቢብ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ንኣማ"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ቁመቱ"
+    },
+    {
+      "surface": "וקו",
+      "gloss": "ማዕድ ንኣማ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሰላሳ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ኣማ"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "ይከብቦ ነይሩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ንኣኻ (እታ ባሕሪ)"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ኣብ ከቢብ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:57:16.736933411Z",
+  "model": "glm-5.3"
+}

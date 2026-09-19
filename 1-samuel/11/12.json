@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "እቲ ህዝቢ ድማ ነቲ ሽሙኤል በሎ፦ «መን እዩ «ሻኡል ንሕና ክነግሥ ኣይኮነን» ዝበለ? ነቶም ተባዕታት ሃቡና፣ ንቐትሎም።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ሽሙኤል"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን እዩ"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "ዝበለ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ክነግሥ ኣይኮነን"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ንሕና"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ሃቡና"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ነቶም ተባዕታት"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "ንቐትሎም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:02:10.788635468Z",
+  "model": "glm-5.3"
+}

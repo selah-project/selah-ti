@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "malachi 3:22",
+  "book": "malachi",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ቶራ ሞሸ ኣገልጋሊ ተዘክሩ፣ ኣብ ኮረብቲ ንኹሉ እስራኤል ብስርዓትን ፍትሒን ⟨את⟩ ⟨אותו⟩ ዝኣዘዝኩዎ።",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "ተዘክሩ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልጋሊ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ዝኣዘዝኩዎ"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ⟨אותו⟩",
+      "marks": "ኣብ ኮረብቲ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ኣብ ኮረብቲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "ብስርዓትን"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ፍትሒን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:42:27.849695987Z",
+  "model": "glm-5.3"
+}

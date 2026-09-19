@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ስለዚ ⟨את⟩ መስዊኽታቶም ትኽዕቱ፣ ⟨את⟩ ቅርጻታቶም ትሰብሩ፣ ⟨את⟩ ኣሸራታቱ ድማ ትቐጽሩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መስዊኽታቶም"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "መስዊኽታቶም"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "ትኽዕቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ድማ",
+      "marks": "ቅርጻታቶም"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "ቅርጻታቶም"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "ትሰብሩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ድማ",
+      "marks": "ኣሸራታቱ"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "ኣሸራታቱ"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "ትቐጽሩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:39:11.819614110Z",
+  "model": "glm-5.3"
+}

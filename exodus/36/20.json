@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "እቶም ሰሌዳታት ⟨את⟩ ንማሕደር ናይ ጋይሽ ሽጥይም ንቐርቢ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ሰሌዳታት"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "እቶም ሰሌዳታት"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ንማሕደር"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ናይ ጋይሽ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ሽጥይም"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ንቐርቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:27:56.104191235Z",
+  "model": "glm-5.3"
+}

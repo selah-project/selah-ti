@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ንሓውኻ ወለድ ኣይተውሃህቦ፤ ወለድ ገንዘብ፣ ወለድ መግቢ፣ ወለድ ኩሉ ነገር እቲ ንዝወሃብ ብወለድ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "ኣይተውሃህቦ"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ንሓውኻ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ወለድ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ገንዘብ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ወለድ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "መግቢ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ወለድ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ንዝወሃብ ብወለድ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:05:23.834418843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 51,
+  "translation": "ኤሎሂም ልቢ ንጹሕ ፍጠረለይ፣ መንፈስ ቐጺም ድማ ኣብ ቍርቢይ ሓድስ።",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ንጹሕ"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ፍጠረለይ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለይ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "መንፈስን"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ቐጺም"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ሓድስ"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ኣብ ቍርቢይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:27.298688823Z",
+  "model": "glm-5.3"
+}

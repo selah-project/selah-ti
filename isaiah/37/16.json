@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "«ያህዌህ ጸባኦት፣ ኤሎሂም ናይ እስራኤል፣ ኣብ ልዕሊ እቶም ክሩቤም ዝቐመጥካ፣ ንስኻ እዩ ኤሎሂም ጥራይ ኩሉ መንግስታት ምድሪ፣ ንስኻ ⟨את⟩ ሰማያትን ⟨את⟩ ምድርን ገበርካ።»",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ዝቐመጠ"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "እቶም ክሩቤም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ጥራይ ንስኻ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "መንግስታት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ገበርካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰማያት"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:06:45.281993651Z",
+  "model": "glm-5.3"
+}

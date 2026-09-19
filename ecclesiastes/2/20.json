@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣነ ድማ ተመሊሰኹ ነቲ ⟨את⟩ ልበይ ነቲ ኩሉ ስራሕይ እቲ ትሕቲ ጸለማት ዝሰርሕኩ ክዓድሮ ከም ዝብል ገጠምኩ።",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "ተመሊሰኹ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "ክዓድሮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልበይ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ልበይ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "ስራሕይ"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "ዝሰርሕኩ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ጸለማት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:40:46.908712008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ንዕቀታት ካብ ላዕሊ ኣዘዘ፣ ኣፍደገታት ሰማያት ድማ ኻፈተ።",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ኣዘዘ"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ዕቀታት"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ካብ ላዕሊ"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "ኣፍደገታት"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኻፈተ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:54.291969330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ድኹም ድኹማት እንተ ዝጭንቖር፣ ከም ዝሸውጥ ዝናር እዩ፤ እንግርዚ ድማ የለን።",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ድኹም"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "ዝጭንቖር"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ድኹማት"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ዝናር"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "ዝሸውጥ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እንግርዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:59:50.487322952Z",
+  "model": "glm-5.3"
+}

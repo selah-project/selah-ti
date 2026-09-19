@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣርዓታታ ተጋህቐት፣ ጸሓይታታ ኣራኹማት፣ ድማ ጠረጴዛታ ኣዳልወት።",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "ተጋህቐት"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "ኣርዓታታ"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ኣራኹማት"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "ጸሓይታታ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "ኣዳልወት"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "ጠረጴዛታ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:45:50.026765425Z",
+  "model": "glm-5.3"
+}

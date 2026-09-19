@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ነፍሰይ ይመልሳታ፣ ኣብ መስመራት ጽድቂ ይምርሓኒ፣ ስለ ስሙ።",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "ይመልሳታ"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "ይምርሓኒ"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "ኣብ መስመራት"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:00:38.203688021Z",
+  "model": "glm-5.3"
+}

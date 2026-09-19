@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 90,
+  "translation": "ሓጢያትና ቅድሚኻ ሓዲግካ፣ ስዉራትና ኣብ ብርሃን ገጻኻ።",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "ሓዲግካ"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "ሓጢያትና"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "ቅድሚኻ"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "ስዉራትና"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ኣብ ብርሃን"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ገጻኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:43.675545480Z",
+  "model": "glm-5.3"
+}

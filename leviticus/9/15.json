@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ወፈያ ሕዝቢ ኣቕረበ፤ ⟨את⟩ መልኸዝ ወፈያ ሓጥያት ንሕዝቢ ዝኾነ እውን ወሲዱ በዓርዩ፣ ከም እቲ ቀዳማይ ከኣ ንሓጥያት ኣብዚኦም ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ኣቕረበ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወፈያ ሕዝቢ"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መልኸዝ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "መልኸዝ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ወፈያ ሓጥያት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ንሕዝቢ"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "በዓርዩ"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "ንሓጥያት ኣብዚኦም ገበረ"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "ከም እቲ ቀዳማይ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:30:45.416168287Z",
+  "model": "glm-5.3"
+}

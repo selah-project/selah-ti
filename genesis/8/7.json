@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ነቲ ኮራቕ ⟨את⟩ ሰደደ፤ እናወጸን እናተመለሰን ነይሩ፣ ክሳብ ዝድሓረ እቲ ማይ ካብ ምድሪ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቢ ኮራቕ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ነቢ ኮራቕ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "እናወጸ"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "እናተመለሰ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "ምድሓር"
+    },
+    {
+      "surface": "המים",
+      "gloss": "እቲ ማይ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:35:27.458800145Z",
+  "model": "glm-5.3"
+}

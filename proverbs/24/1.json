@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ኣብ ሰባት ክፉእ ኣይትቕነእ፣ ምስ ⟨את⟩ኦም ንምእካይ ድማ ኣይተምነይን።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ትቕነእ"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "ኣብ ሰባት"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ድማ ኣይ"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ተምነይ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ንምእካይ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ኦም",
+      "marks": "ምስ ንሳቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:55:07.258514446Z",
+  "model": "glm-5.3"
+}

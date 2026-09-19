@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "ብጻይ ንኣሕዋተይ ኮይነ እየ፣ ንውላደ ኣደይ ድማ ኣባግደለይ ኮይነ እየ።",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "ብጻይ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ኮይነ እየ"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "ንኣሕዋተይ"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "ወይ ኣባግደለይ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ንውላደ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ኣደይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:36.267725408Z",
+  "model": "glm-5.3"
+}

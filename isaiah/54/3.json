@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 54,
+  "translation": "ምኽንያቱ ንየማንን ንጸግርን ትፈርሲ፤ ዘርኢኻን ኣህዛብ ይወርስ፡ ከተማታት ዝተጸረያ ድማ ይነውሮም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ንየማን"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ንጸግርን"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "ትፈርሲ"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ዘርኢኻን"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "ይወርስ"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "ከምኡውን ከተማታት"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "ዝተጸረያ"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "ይነውሮም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:19:16.227340176Z",
+  "model": "glm-5.3"
+}

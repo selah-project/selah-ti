@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 32:10",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "«ከምዚ በለ ሳንሕሪብ ንጉስ ኣሽውር፦ ብእንታይ ተኣማንኩም፣ ኣብ ቀጥቕጣይ ኣብ የሩሻላይም ተቐምጥኩም?»",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "ሳንሕሪብ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣሽውር"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብዛዕባ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ንስኻትኩም"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "ተኣማንኩም"
+    },
+    {
+      "surface": "וישבים",
+      "gloss": "ተቐምጥኩም ድማ"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "ኣብ ቀጥቕጣይ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ኣብ የሩሻላይም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:20:39.446957604Z",
+  "model": "glm-5.3"
+}

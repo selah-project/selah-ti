@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ከምኡውን ልክኣ ሓሙሽተ ሺሕ ሰባት ወሲዱ ⟨את⟩ ንእሾም ኣብ ማረቢ ኣቐሚጦም፣ ኣብ መንጎ ቤት ኤልን ብመንጎ ዓይን፣ ካብ ምዕራብ ናብ እቲ ከተማ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "ልክኣ ሓሙሽተ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ሺሕ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ኣቐሚጦም"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ንእሾም"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "ኣብ ማረቢ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ብመንጎ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ዓይ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ካብ ምዕራብ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ናብ እቲ ከተማ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:20:31.966910387Z",
+  "model": "glm-5.3"
+}

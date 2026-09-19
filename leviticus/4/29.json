@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ከምኡውን ⟨את⟩ ኢዱ ኣብ ርእሲ ወፈያ ኃጢኣት ይጽውዑ፣ ⟨את⟩ ወፈያ ኃጢኣት ከኣ ኣብ ቦታ ምጉዓይ ውግዒ ይቕትሎ።",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ይጽውዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢዱ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ወፈያ ኃጢኣት"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ይቕትሎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወፈያ ኃጢኣት"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ወፈያ ኃጢኣት"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ኣብ ቦታ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ውግዒ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:50:37.034222841Z",
+  "model": "glm-5.3"
+}

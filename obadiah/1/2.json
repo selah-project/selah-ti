@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣሎ፣ ንእሽቶ ገበርኩኻ ኣብ ህዝብታት፤ ብዙሕ ተገራሚ ኢኻ።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ኣሎ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ንእሽቶ"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ገበርኩኻ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ኣብ ህዝብታት"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "ተገራሚ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኢኻ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:19:52.551326211Z",
+  "model": "glm-5.3"
+}

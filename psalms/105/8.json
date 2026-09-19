@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ንኪዳኑ ናብ ዘለኣለም ተዘከረ፤ ነቲ ናብ ሽሕ ትውልዲ ዝኣዘዞ ቃል ተዘከረ።",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ተዘከረ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ኪዳኑ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ኣዘዘ"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ናብ ሽሕ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ትውልዲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:13.924165020Z",
+  "model": "glm-5.3"
+}

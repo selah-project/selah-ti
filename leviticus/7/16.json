@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣብ ወፈያኡ ቃል-ኪዳን ወይ ናይ ፈቃድ መስዋእቲ እንተ ዝኾነ፣ ኣብ መዓልቲ ምቕራቡ ⟨את⟩ መስዋእቱ ክብላዕ እዩ፤ ኣብ ድሕረ-መዓልቲ ድማ እቲ ዝተረፈ ካቡ ክብላዕ እዩ።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ቃል-ኪዳን"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "ናይ ፈቃድ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "መስዋእቲ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ወፈያኡ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "ምቕራቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መስዋእቱ"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "መስዋእቱ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ክብላዕ"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "ኣብ ድሕረ-መዓልቲ"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "እቲ ዝተረፈ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ካቡ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ክብላዕ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:50:25.813813850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 105,
+  "translation": "ሓተቱ፣ ሽላሕ ኣእተወ፣ ብእኽሊ ሰማይ ድማ ኣሸቐቦም።",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "ሓተቱ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ኣእተወ"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "ሽላሕ"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "እኽሊ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማይ"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "ኣሸቐቦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:23:17.719124615Z",
+  "model": "glm-5.3"
+}

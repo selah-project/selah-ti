@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እሞ ሓቅ እዩ ከይተይ ዝዛረብ፤ ናብ ከይተይ ድማ ኲናት ኣጽዩም ነገር እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ሓቅ"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "እዩ ዝዛረብ"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "ከይተይ"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "ኣጽዩም ነገር"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ናብ ከይተይ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ኲናት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:43:50.728740337Z",
+  "model": "glm-5.3"
+}

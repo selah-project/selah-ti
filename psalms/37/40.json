@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ያህዌህ ድማ ሰዓሮም፣ ካብ ኣጣራት ኣውጽኦም ኣድኣሎም፤ ምኽንያቱ ኣብኡ ተሓጸቡ እዮም።",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "ሰዓሮም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "ኣውጽኦም"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "ኣውጽኦም"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "ካብ ኣጣራት"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "ኣድኣሎም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "ተሓጸቡ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:55:36.211056913Z",
+  "model": "glm-5.3"
+}

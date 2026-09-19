@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ያህዌህ ተንሸገበ፣ ምኽንያቱ ኣብ ልዑል ይነውር፤ ጽዮንን ብፍትሕን ብጽድቂን ኣብዛፍያ።",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "ተንሸገበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ይነውር"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ኣብ ልዑል"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ኣብዛፍያ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮንን"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ብፍትሕን"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ብጽድቂን"
+    }
+  ],
+  "timestamp": "2026-09-19T02:00:45.911989802Z",
+  "model": "glm-5.3"
+}

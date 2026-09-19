@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "ኣሕዎቱ ድማ ለኣኾምን ከዱን፤ «ኣብ ጐደና ኣይትቐጹን» በሎም።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ለኣኾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሕዎቱ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ኣሕዎቱ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ከዱ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "ተቐጹ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ ጐደና"
+    }
+  ],
+  "timestamp": "2026-09-18T21:06:14.705353591Z",
+  "model": "glm-5.3"
+}

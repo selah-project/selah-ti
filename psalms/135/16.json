@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 135,
+  "translation": "ኣፍ ኣሎዎም፣ ኣይዛረቡን፤ ኣይንቲ ኣሎዎም፣ ኣይርእዩን።",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "ኣፍ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ኣሎዎም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ዛረቡ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ኣይንቲ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ኣሎዎም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ርእዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:40.609102460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ያህዌህ ኤሎሂም ንእቲ ሰበይቲ «እንታይ እዚ ኣበይትካዮ?» በላ። እቲ ሰበይቲ ድማ «እቲ ሓያል ዓሽየኒን በልዐኽን» ተዛረበት።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በላ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ንእቲ ሰበይቲ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ኣበይትካዮ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ተዛረበት"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "እቲ ሰበይቲ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "እቲ ሓያል"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "ዓሽየኒን"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "በልዐኽን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:32:27.948447787Z",
+  "model": "glm-5.3"
+}

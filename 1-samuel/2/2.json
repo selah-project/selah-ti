@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "«ቅዱስ ከም ያህዌህ የለን፣ ምኽንያቱ ካባኻ ወጻኢ የለን፤ እቲ ዝሓሸ ኮይኑ ድማ ከም ኤሎሂምና እታ ዓቢ ዓሌት የለን።»",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "ከም ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "ካባኻ ወጻኢ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ድማ የለን"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ዓቢ ዓሌት"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "ከም ኤሎሂምና"
+    }
+  ],
+  "timestamp": "2026-09-18T23:56:21.107892392Z",
+  "model": "glm-5.3"
+}

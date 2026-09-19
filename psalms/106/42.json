@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ጀሃሮም ተቓጸሎም፣ ንሳቶም ድማ ትሕቲ ኢዶም ተራዓቑ።",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "ተቓጸሎም"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ጀሃሮም"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "ተራዓቑ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ኢዶም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:02.730530198Z",
+  "model": "glm-5.3"
+}

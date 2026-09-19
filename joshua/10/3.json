@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 10:3",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ስለዚ ኣዶናይ-ጸድቅ ንጉስ የሩሻላይም ሰዓበ ናብ ሆሓም ንጉስ ሕብሮንን ናብ ፒራም ንጉስ ያርሙትን ናብ ያፍያዕ ንጉስ ላኪሽን ናብ ድቢር ንጉስ ዕግሎንን በሎ ኢሉ፦",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰዓበ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጸድቅ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הוהם",
+      "gloss": "ሆሓም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ሕብሮን"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ናብን"
+    },
+    {
+      "surface": "פראם",
+      "gloss": "ፒራም"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "ያርሙት"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ናብን"
+    },
+    {
+      "surface": "יפיע",
+      "gloss": "ያፍያዕ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "ላኪሽ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ናብን"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "ድቢር"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "ዕግሎን"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "በሎ ኢሉ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:23:32.215693882Z",
+  "model": "glm-5.3"
+}

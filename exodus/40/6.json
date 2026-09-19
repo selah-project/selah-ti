@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ነቲ መሰዊሕ ናዥ ወፈያ ⟨את⟩ ኣብ ቅድሚ ኣፍደገ ማሕደር ድኻም መወዓውዓ ኣቐምጦ።",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ኣቐምጦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መሰዊሕ ናዥ ወፈያ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መሰዊሕ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ናዥ ወፈያ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ኣፍደገ"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ማሕደር"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ድኻም"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "መወዓውዓ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:45:47.233705296Z",
+  "model": "glm-5.3"
+}

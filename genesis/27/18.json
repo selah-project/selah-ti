@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ንኣቡኡ ከደ፤ «ኣቦ!» በለ። ንሱ ድማ «ኣበይ ኣለኹ፤ ንስኻ መን ኣንተ ወደይ?» በሎ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ኣበይ ኣለኹ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወደይ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:51:09.255043430Z",
+  "model": "glm-5.3"
+}

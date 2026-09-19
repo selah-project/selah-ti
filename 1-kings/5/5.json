@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ይሁዳን እስራኤልን ኩሎም ብደሓን ተቐምጦም ነይሮም፣ ነፍሲ ወከፍ ሰብ ትሕቲ ዓወኡን ትሕቲ በርቆኡን፣ ካብ ዳን ክሳብ ቤረሸብዓ፣ ኩሉ መዓልታት ሽሎሞ።",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ተቐምጦም ነይሮም"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳን"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "እስራኤልን"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ብደሓን"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ወከፍ ሰብ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "ዓወኡን"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "በርቆኡን"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "ካብ ዳን"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ቤረ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸብዓ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:50:53.635691828Z",
+  "model": "glm-5.3"
+}

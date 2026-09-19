@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ኤሎሂም ናይ እስራኤል ⟨את⟩ ረኣዩ፤ ትሕቲ እግሩ ድማ ከም ሕርማት ሓሙሽተ ሰናይ፣ ከም ህርመት ሰማያት ንጽህና ነበረ።",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ረኣዩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤሎሂም ናይ እስራኤል"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ናይ እስራኤል"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ትሕቲ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "እግሩ"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ከም ሕርማት"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "ሰናይ"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "ከም ህርመት"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ንጽህና"
+    }
+  ],
+  "timestamp": "2026-09-18T21:28:39.362043588Z",
+  "model": "glm-5.3"
+}

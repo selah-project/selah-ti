@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 55,
+  "translation": "ኣየ፣ ንሳቐ ክረምቐ፣ ኣብ ምድረ በዓቲ እርእሳ። ስላህ።",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ኣየ"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "ንሳቐ ክረምቐ"
+    },
+    {
+      "surface": "נדד",
+      "gloss": ""
+    },
+    {
+      "surface": "אלין",
+      "gloss": "እርእሳ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድረ በዓቲ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስላህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:37.101366535Z",
+  "model": "glm-5.3"
+}

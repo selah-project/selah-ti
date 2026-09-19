@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ሻር ናይቶም ማዕድቲ ድማ ዮሴፍ ⟨את⟩ ኣይዝከሮን፣ ረስዖድሉ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ኣይዝከሮን"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ሻር"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ናይቶም ማዕድቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮሴ፽"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴ፽"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "ረስዖድሉ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:58:54.093753421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 20:20",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኣብ ከምኡውን እቶም ዓንድቲ እትፈልጥ ከምቲ ኣይኮኑን ዓንድቲ መግቢ፣ ⟨את⟩ ኣንጻኦም ትሓይሽን እናቐረጽካ፣ ኣብ ኣንጻር እታ ከተማ እት ቓልሰት ምስኻ ትገብር ኮይና መኽታእ ትሃንጽ፣ ክሳብ ምውደቃ።",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ኣብ ከምኡውን"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ዓንድቲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "እትፈልጥ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮኑን"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ዓንድቲ"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "መግቢ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ኣንጻኦም"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "ትሓይሽን"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "እናቐረጽካ"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "ትሃንጽ"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "መኽታእ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ኣንጻር"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እታ ከተማ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እት"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ኮይና"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስኻ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ቓልሰት"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "רדתה",
+      "gloss": "ምውደቃ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:37:31.606548618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ኣብ ኩሉ እዚ ገና ሓጠዩ፣ ኣብ ተኣምራቱ ከኣ ኣይኣመኑን።",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ሓጠዩ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ገና"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ኣመኑ"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "ኣብ ተኣምራቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:11:50.274842893Z",
+  "model": "glm-5.3"
+}

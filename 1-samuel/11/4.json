@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "እቶም ታዕቢ ድማ ናብ ጎባዓ ሻኡል መጾም፤ ነቶም ቃላት ኣብ ኣእዋት ህዝቢ ተዛረቡ፤ ኩሉ ህዝቢ ድማ ⟨את⟩ ድምፊ ኣንሰሱ፣ በዓርዮም።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ድማ መጾም፤"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "እቶም ታዕቢ"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "ጎባዓ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ተዛረቡ፤"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ነቶም ቃላት"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ኣብ ኣእዋት"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ድማ ኣንሰሱ፣"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምፊ"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ድምፊ ንሳቶም"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "በዓርዮም።"
+    }
+  ],
+  "timestamp": "2026-09-19T00:04:05.132984079Z",
+  "model": "glm-5.3"
+}

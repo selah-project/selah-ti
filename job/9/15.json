@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 9:15",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "እንተ ዝጽድቐ እውን ኣይመልሶን፣ ነቲ ዝፈርደኒ ክተማነኖ እየ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "ዝጽድቐ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ክመልሶ"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "ነቲ ዝፈርደኒ"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ክተማነኖ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:06:12.776245011Z",
+  "model": "glm-5.3"
+}

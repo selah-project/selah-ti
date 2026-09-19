@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ሃብ ንሓኪም፣ ድማ ደጊም ክሕክም እዩ፤ ኣፍልጥ ንጻድቅ፣ ድማ ይውሰኸሉ ትምህርቲ እዩ።",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "ሃብ"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ንሓኪም"
+    },
+    {
+      "surface": "ויחכם",
+      "gloss": "ክሕክም"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደጊም"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "ኣፍልጥ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ንጻድቅ"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ይውሰኸሉ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ትምህርቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:43:37.122338947Z",
+  "model": "glm-5.3"
+}

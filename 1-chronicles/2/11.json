@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ናኽሶን ድማ ⟨את⟩ ስልማ ሓረገ፤ ስልማ ድማ ⟨את⟩ ብዕዝ ሓረገ።",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "ናኽሶን"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ሓረገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስልማ"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "ስልማ"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "ስልማ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ሓረገ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ብዕዝ"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ብዕዝ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:28:42.660688853Z",
+  "model": "glm-5.3"
+}

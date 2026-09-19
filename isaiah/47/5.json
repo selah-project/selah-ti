@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 47:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 47,
+  "translation": "ብምስማም ኣጽንዒ፣ ወዲተ ካስዲም፣ ናብ ጸልማት ተወዲቢ፤ ምኽንያቱ ሰበይቲ ናይ መንግስታት ክትተባህልኪ ውሳኽ ኣይትገብርን እዩ።",
+  "tokens": [
+    {
+      "surface": "שבי",
+      "gloss": "ኣጽንዒ"
+    },
+    {
+      "surface": "דומם",
+      "gloss": "ብምስማም"
+    },
+    {
+      "surface": "ובאי",
+      "gloss": "ተወዲቢ"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ናብ ጸልማት"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ወዲተ"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ካስዲም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תוסיפי",
+      "gloss": "ክትውሳክ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ክትተባህልኪ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንስኺ"
+    },
+    {
+      "surface": "גברת",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ናይ መንግስታት"
+    }
+  ],
+  "timestamp": "2026-09-19T08:49:50.185144267Z",
+  "model": "glm-5.3"
+}

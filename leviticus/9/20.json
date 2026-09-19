@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ነቲ እስባት ⟨את⟩ ኣብ ልዕሊ እተን ጡባት ጀመሩ፣ ንሱ ድማ ነቲ እስባት ኣብ መስውዕ ኣቐደሶ።",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ጀመሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ እስባት"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "ነቲ እስባት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "እተን ጡባት"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ኣቐደሶ"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "ነቲ እስባት"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ኣብ መስውዕ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:53:40.694196277Z",
+  "model": "glm-5.3"
+}

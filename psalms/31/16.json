@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "እዋታተይ ኣብ ኢድካ ኣለዉ፤ ካብ ኢድ ተቓውሞተይን ካብ መታልሶተይን ኣድሕነኒ።",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "ኣብ ኢድካ"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "እዋታተይ"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ኣድሕነኒ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ተቓውሞተይ"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "ንምስ መታልሶተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:38.403858361Z",
+  "model": "glm-5.3"
+}

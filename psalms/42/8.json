@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "«ጥልሒ ናብ ጥልሒ ብድምጺ ቁላርታትኻ ይጸውዓ፤ ኩሉ ማዕበላትኻን ሞገዳትኻን በይ ሓሊፎም።»",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "ጥልሒ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "ጥልሒ"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "ይጸውዓ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ብድምጺ"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "ቁላርታትኻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "ማዕበላትኻ"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "ሞገዳትኻን"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "በይ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ሓሊፎም"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:41.356547506Z",
+  "model": "glm-5.3"
+}

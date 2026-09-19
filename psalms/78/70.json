@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 78:70",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ዳዊድ ኣገልጋሊኡ ድማ መርጸ፣ ካብ ማኅረቢ በጊላ ኣውጽኦ።",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "መርጸ"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "ንዳዊድ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ኣገልጋሊኡ"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "ወሰዶ"
+    },
+    {
+      "surface": "ממכלאת",
+      "gloss": "ካብ ማኅረቢ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "በጊላ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:15.115106716Z",
+  "model": "glm-5.3"
+}

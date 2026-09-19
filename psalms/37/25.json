@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "በጃኸ እየ ነይሩ፣ እኳ ውን ኣርዓቲ ኮይነ፣ ጻድቕ ተወዲኡ ወይ ዘርኡ እንገር ደሊሱ ኣይረኣይኩን።",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "በጃኸ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "እየ ነይሩ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "እኳ ውን"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "ኣርዓቲ ኮይነ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ረኣይኩን"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቕ"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "ተወዲኡ"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ወይ ዘርኡ"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ደሊሱ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "እንገር"
+    }
+  ],
+  "timestamp": "2026-09-19T04:55:52.293645620Z",
+  "model": "glm-5.3"
+}

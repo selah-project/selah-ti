@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ናብ ኤል ኣኽራረይ ክብል እየ፦ «ስለ እንታይ ተዘንጊዕካኒ፧ ስለ እንታይ ድማ ኣብ ግፍዒ ተቓዋሽ እናቐንየለ እኼደ እየ፧»",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "ክብል እየ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ናብ ኤል"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "ኣኽራረይ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ስለ እንታይ"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "ተዘንጊዕካኒ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ስለ እንታይ"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "እናቐንየለ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "እኼደ እየ"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "ኣብ ግፍዒ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ተቓዋሽ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:36.024926407Z",
+  "model": "glm-5.3"
+}

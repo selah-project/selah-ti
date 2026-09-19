@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ሞሸን ኣሃሮንን እውን ⟨את⟩ እቶም ሰባት እዚኦም ብስማቶም እተቐመጡ ወሲዶም።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸን"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ኣሃሮንን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ሰባት"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "እቶም ሰባት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እተቐመጡ"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "ተቐመጡ"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "ብስማቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:10:45.584194960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ካህኑ ድማ ካብ ሎግ ዘት ወሲዱ፣ ኣብ ገጽ ኢዱ ከምሽቲ ናይ ካህኑ የዥምዮ።",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህኑ"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "ካብ ሎግ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ዘት"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "የዥምዮ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ናይ ካህኑ"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ከምሽቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:57:21.243596016Z",
+  "model": "glm-5.3"
+}

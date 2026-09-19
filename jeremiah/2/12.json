@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 2:12",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሰማያት ኣብዚ ተገርሙ፣ ተፈርሩ፣ ብዝያዳ ተጎድኡ፣ እዚ ብኣፈልቲ ያህዌህ እዩ።",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "ተገርሙ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብዚ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ነገር"
+    },
+    {
+      "surface": "ושערו",
+      "gloss": "ተፈርሩ"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ተጎድኡ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዝያዳ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ብኣፈልቲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:25:44.865308103Z",
+  "model": "glm-5.3"
+}

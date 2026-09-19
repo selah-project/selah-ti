@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 139,
+  "translation": "እቲ ዝኣምር ካባይ ንዝደንብ ዝበለ እዩ፤ ተዓቢኡ እዩ፣ ንሳ ኣይክእልን እየ።",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "ንዝደንብ ዝበለ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "እቲ ዝኣምር"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ካባይ"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "ተዓቢኡ እዩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይክእልን"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "እየ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ንሳ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:03:19.792981551Z",
+  "model": "glm-5.3"
+}

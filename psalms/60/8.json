@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 60,
+  "translation": "ኤሎሂም ኣብ ቅድስኡ ተዛረበ፤ እነዓቢ እየ፤ ንሸክም እኣካፍል፣ ቈላ ሱከት ከኣ እምድ።",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "ኣብ ቅድስኡ"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "እነዓቢ እየ"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "እኣካፍል"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ሸክም"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ቈላ"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "ሱከት"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "እምድ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:57.063126670Z",
+  "model": "glm-5.3"
+}

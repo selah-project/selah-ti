@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 2:11",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣብቶም መዓልታት እቶም ሞሸ ዓበየ፤ ናብ ኣሕዋቱ ወጸ፤ ነቲ ጭንቃቶም እውን ረኣየ፤ ሰብ ሚጽራያዊ ሰብ ዕብራዊ ካብ ኣሕዋቱ እናደቐበ እውን ረኣየ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ኣብ መዓልታት"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "ዓበየ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ኣሕዋቱ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "ነቲ ጭንቃቶም"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "ሚጽራያዊ"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "እናደቐበ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ዕብራዊ"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "ካብ ኣሕዋቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:10:09.228029476Z",
+  "model": "glm-5.3"
+}

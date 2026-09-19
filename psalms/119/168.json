@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ትእዛዋትኻን ምስክርታትኻን ተሓለውኩ፣ ኩሉ መገድታተይ ቅድሚኻ ስለ ዝሃለዉ እዩ።",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "ተሓለውኩ"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ትእዛዋትኻ"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "ምስክርታትኻውን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "መገድታተይ"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "ቅድሚኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:44.960764148Z",
+  "model": "glm-5.3"
+}

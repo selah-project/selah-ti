@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ዝሓደገ ኣቦይ ንስኻትኩም ተዓገተ፣ ⟨את⟩ ነፍሱ ካብ ቅድሚ ወጊዑ፣ ንስኻትኩም ⟨אתכם⟩ ካብ ኢድ ሚድያን ኣውጽአ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ተዓገተ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቦይ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ንስኻትኩም"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ወጊዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነፍሱ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱ"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ካብ ቅድሚ"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "ኣውጽአ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ንስኻትኩም"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ሚድያን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:42:49.448328003Z",
+  "model": "glm-5.3"
+}

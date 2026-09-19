@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ነቲ ⟨ואת⟩ ሰሓቲን ⟨ואת⟩ ኩሉ ቱሕፋቱን ⟨ואת⟩ እቲ ምንዳይን ⟨ואת⟩ ቱሕፋታን ⟨ואת⟩ መስዊሕ ናይ ጽምዲን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ሰሓቲ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "እቲ ሰሓቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ኩሉ ቱሕፋቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ቱሕፋቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ምንዳይ"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "እቲ ምንዳይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ቱሕፋታ"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ቱሕፋታ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "መስዊሕ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "መስዊሕ"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ናይ ጽምዲ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:36:41.433900485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ብኣውዳልኻ ማሕተም ሓሶት ኣይትሓብን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ኣይትሓብን"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ብኣውዳልኻ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ማሕተም"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሓሶት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:22:45.193503012Z",
+  "model": "glm-5.3"
+}

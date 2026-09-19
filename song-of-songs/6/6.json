@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 6:6",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ስኒኻ ከም ሓውሲ ልሓትቲ ካብ ምሕጻብ ዝወጹ እየን፤ ኩለን ተመሳሳላት እየን፣ ጎድልቲ ድማ የለንን ኣብኣን።",
+  "tokens": [
+    {
+      "surface": "שניך",
+      "gloss": "ስኒኻ"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "ከም ሓውሲ"
+    },
+    {
+      "surface": "הרחלים",
+      "gloss": "ልሓትቲ"
+    },
+    {
+      "surface": "שעלו",
+      "gloss": "ዝወጹ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הרחצה",
+      "gloss": "ምሕጻብ"
+    },
+    {
+      "surface": "שכלם",
+      "gloss": "ኩለን"
+    },
+    {
+      "surface": "מתאימות",
+      "gloss": "ተመሳሳላት"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "ጎድልቲ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለንን"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ኣብኣን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:28:10.697236580Z",
+  "model": "glm-5.3"
+}

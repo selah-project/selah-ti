@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 3:45",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ነ፥ ኣብ ክንዲ ኩሉ ቐዳማይ ወለዲ ካብ ውላድ ይስራኤል ⟨את⟩ ላውያን ውሰድ፣ ከምኡውን ኣብ ክንዲ እንስሳቶም ⟨את⟩ እንስሳት ላውያን ውሰድ፤ ላውያን ናበይ እዮም፤ ኣነ ያህዌህ እየ።",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ውሰድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ላውያን"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ላውያን"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ክንዲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ቐዳማይ ወለዲ"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "ካብ ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እንስሳት ላውያን"
+    },
+    {
+      "surface": "בהמת",
+      "gloss": "እንስሳት"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ላውያን"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ኣብ ክንዲ"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "እንስሳቶም"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ክኾኑ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ናበይ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ላውያን"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:12:57.437738571Z",
+  "model": "glm-5.3"
+}

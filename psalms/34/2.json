@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ያህዌህን ⟨את⟩ ኣብ ኩሉ ዕዋኽ እበረክኾ፤ ምስጋኑ እውን ዘይተቓረብ ኣብ ኣፍይ ይኹን።",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "እበረክኾ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ዕዋኽ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ዘይተቓረብ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ምስጋኑ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ኣብ ኣፍይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:44.783043398Z",
+  "model": "glm-5.3"
+}

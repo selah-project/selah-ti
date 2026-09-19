@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "እቲ ስርቂ ሕያው ኮይኑ እንተ ተረኺባ ኣብ ኢዱ — ከበር፣ ኣጋር ወይ በጊዕ — ክልተ ደቂቑ ይኸፍቱ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "ምስ ተረኺቡ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ተረኺባ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ኣብ ኢዱ"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "እቲ ስርቂ"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ካብ ኸበር"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ኣጋር"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "በጊዕ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ይኸፍቱ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:29:18.639504503Z",
+  "model": "glm-5.3"
+}

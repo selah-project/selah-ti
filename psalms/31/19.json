@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ናይ ሓሶት ከሳት፣ ነቲ ብጽሒ ብኩርነትን ብኣሕፅሮትን ብኣሕዚንቲ ቓላት ዝዛረባ፣ ክኣዝማ።",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "ክኣዝማ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ከሳት"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ናይ ሓሶት"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "ዝዛረባ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ብጽሒ"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "ብኣሕዚንቲ ቓላት"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "ብኩርነት"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "ብኣሕፅሮትን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:51:40.604122833Z",
+  "model": "glm-5.3"
+}

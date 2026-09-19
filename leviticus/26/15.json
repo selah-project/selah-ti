@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "እንተ ተጥሕሱ ስርዓተይ፣ እንተ ተጸቕጸቐ ነፍስኩም ⟨את⟩ ፍርደይ፣ ኩሉ ⟨את⟩ ትእዛያተይ ንምንባር ኣብ ከይገብሩ፣ ንምብርቃዕኩም ⟨את⟩ ኪዳነይ፤",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "ስርዓተይ"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "ተጥሕሱ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "እንተ ድማ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍርደይ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ፍርደይ"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "ተጸቕጸቐ"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "ነፍስኩም"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ንምንባር"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ክገብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ትእዛያተይ"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "ንምብርቃዕኩም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኪዳነይ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ኪዳነይ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:08:56.522074510Z",
+  "model": "glm-5.3"
+}

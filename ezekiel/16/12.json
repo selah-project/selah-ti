@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 16:12",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ሃብኩ ድማ ማንጸል ኣብ ኣፍኻ፣ ኣውዳት ኣብ ኣእዳውኻ፣ ወይ ስጉምቲ ምሉእ ጽብቅቲ ኣብ ርእስኻ።",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "ሃብኩ ድማ"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "ማንጸል"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ኣፍኻ"
+    },
+    {
+      "surface": "ועגילים",
+      "gloss": "ኣውዳት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "ኣእዳውኻ"
+    },
+    {
+      "surface": "ועטרת",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ስጉምቲ ጽብቅቲ"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "ኣብ ርእስኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:29:52.952678396Z",
+  "model": "glm-5.3"
+}

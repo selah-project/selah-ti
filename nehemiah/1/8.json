@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "በጃኻ ኣውንታ ብዛዕባ እቲ ንሞሸ ኣገልባጭኻ ⟨את⟩ ዝኣዘዝካዮ ⟨את⟩ ትእዛዝ ንምባል «ንስኻትኩም እንተበደልኩም፣ ኣነ ኣብ ማእረያት ⟨אתכם⟩ የፍልዐ እየ»።",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ኣውንታ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "በጃኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዝ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "ዝኣዘዝካዮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልባጭኻ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ንምባል"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ንስኻትኩም"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "እንተበደልኩም"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "የፍልዐ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "ኣብ ማእረያት"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "ኣብ ማእረያት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:15:20.913790638Z",
+  "model": "glm-5.3"
+}

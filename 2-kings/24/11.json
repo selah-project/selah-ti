@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 24:11",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ንቡኻድነጽር ንጉስ ባቢሎን ድማ ናብ እታ ከተማ መጸ፣ ኣገልገልቱ ድማ ኣብ ላዕሊኣ ኣብ ምቕዋም ነበሩ።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "ንቡኻድነጽር"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባቢሎን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እታ ከተማ"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "ኣገልገልቱ"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "ኣብ ምቕዋም ዘለዉ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ኣብ ላዕሊኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:39:44.203352822Z",
+  "model": "glm-5.3"
+}

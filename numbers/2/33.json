@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 2:33",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እቶም ሌዋይም ድማ ኣብ ውሽጢ ውላድ እስራኤል ከም ዝኣዘዞ ያህዌህ ⟨את⟩ ሞḝ ኣይተቓመሩን።",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "እቶም ሌዋይም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "התפקדו",
+      "gloss": "ተቓመሩ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ኣብ ውሽጢ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ኣዘዞ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሸ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:12:08.686157966Z",
+  "model": "glm-5.3"
+}

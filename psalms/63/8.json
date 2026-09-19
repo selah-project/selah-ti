@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 63,
+  "translation": "ምኽንያቱ ሓጊዝካኒ እወ፤ ኣብ ጥላሕ ክንፍታትካ ድማ እሓልቅ እየ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ነይካ"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "ሓጋዚ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንተይኒ"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "ኣብ ጥላሕ"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ክንፍታትካ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "እሓልቅ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:57.634231590Z",
+  "model": "glm-5.3"
+}

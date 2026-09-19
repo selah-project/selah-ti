@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 30:17",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ኤሎሂም ንልኣሕ ሰምዐ፤ ነይራ ኣስምዓት፣ ንያዕቆቭ ድማ ወዲ ሓሙሽታይ ወለደት።",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ልኣሕ"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ኣስምዓት"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደት"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ንያዕቆቭ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "ሓሙሽታይ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:51:44.726898964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 41,
+  "translation": "ብዚ እፈልጥ ነበርኩ ብዛዕባኒ እኳ እንተ ደልዩኒ፣ እቲ ተቓልሑ ድማ ኣብ ልዕለይ ኣይደምዕን እዩ።",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "ብዚ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "እፈልጥ ነበርኩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ነበርኩ ምኻኑ ዝ"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ደሊኻለይ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ብዛዕባኒ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ እቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "ደምዕን"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ተቓልሑ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ ልዕለይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:56:11.541596145Z",
+  "model": "glm-5.3"
+}

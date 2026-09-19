@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 132,
+  "translation": "ናይ ውልቀታት ዝሙራ። ያህዌህ ሆ፣ ንዳዊድ ብዛዕባ ⟨את⟩ ኩሉ መከራታቱ ኣዝንዎ።",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ዝሙራ"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ናይ ውልቀታት"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ኣዝንዎ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ንዳዊድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ መከራታቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "መከራታቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:33:13.290552652Z",
+  "model": "glm-5.3"
+}

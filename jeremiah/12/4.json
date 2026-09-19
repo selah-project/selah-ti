@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 12:4",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ክሳብ መዓስ ትሓዘን ምድሪ፣ ከምኡውን ሳሕሊ ኩሉ ሽድ ይሰክር፣ ስለ ክኳል ነባርታት ኣብኣ፧ ተሰጒራ እንስሳታትን ዑፉን፣ ምኽንያቱ በሉ፦ ኣይርእየን ⟨את⟩ መወዳእትና።",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "መዓስ"
+    },
+    {
+      "surface": "תאבל",
+      "gloss": "ትሓዘን"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "ከምኡውን ሳሕሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ሽድ"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "ይሰክር"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "ስለ ክኳል"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ነባርታት"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኣ"
+    },
+    {
+      "surface": "ספתה",
+      "gloss": "ተሰጒራ"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "᥊ንስሳታት"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "ዑፉ ውን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ይርእየን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መወዳእትና"
+    },
+    {
+      "surface": "אחריתנו",
+      "gloss": "መወዳእትና"
+    }
+  ],
+  "timestamp": "2026-09-19T02:38:43.287321368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ነቲ ናይ ⟨እታ⟩ ከተማ ሜዳ ድማን ⟨את⟩ ኣጋልባታታን ንከለብ ወዲ የፉኔ ሃቡ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሜዳ ናይ ከተማ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ሜዳ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ናይ እታ ከተማ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣጋልባታታታ"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "ኣጋልባታታታ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ሃቡ"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ንከለብ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "የፉኔ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:33:39.056511084Z",
+  "model": "glm-5.3"
+}

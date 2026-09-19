@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣህዛብ ተጉሕዝካ፣ እቲ ኣመንዲግ ኣጥፍእካ፤ ስሞም ናብ ዘለኣለምን ዘለሓልን ሰሪዝካ።",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "ተጉሕዝካ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ኣህዛብ"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "ኣጥፍእካ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ኣመንዲግ"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ስሞም"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "ሰሪዝካ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ውን ናብ ዘለሓል"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:14.230462971Z",
+  "model": "glm-5.3"
+}

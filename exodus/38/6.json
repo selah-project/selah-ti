@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ነቶም ⟨את⟩ ዘበታት ካብ ኣጋሚዝ ዓኽሊብ ገበረ፤ ብናሕስት ከኣ ⟨את⟩ ⟨ንሳቶም⟩ ኣኽዮም።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዘበታት"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ነቶም ዘበታት"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ካብ ዓኽሊብ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ኣጋሚዝ"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ኣኽዮም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨ንሳቶም⟩"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ብናሕስት"
+    }
+  ],
+  "timestamp": "2026-09-18T21:42:34.513045024Z",
+  "model": "glm-5.3"
+}

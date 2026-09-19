@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ነቲ ኣሕዋትካ ኣሕሮን ንክብሪን ንስንታይን ቅዱሳት ኣልባሳት ትገብር።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ኣልባሳት"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ንኣሕሮን"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ኣሕዋትካ"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "ንክብሪ"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "ንስንታይን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:33:39.288895892Z",
+  "model": "glm-5.3"
+}

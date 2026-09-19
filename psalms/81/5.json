@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 81,
+  "translation": "ምኽንያቱ ንእስራኤል ሕጊ እዩ፣ ናይ ኤሎሂም ያዕቆብ ፍርዲ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ሕጊ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ንእስራኤል"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ፍርዲ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ናይ ኤሎሂም"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቧ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:26.109211310Z",
+  "model": "glm-5.3"
+}

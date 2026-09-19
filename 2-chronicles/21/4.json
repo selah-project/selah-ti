@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "የሆራም ድማ ንመንግስቲ ኣቡኡ ኰይኑ ተበጽሑ፣ ኣብ ርእሱ ድማ ተጸንዐ፣ ኩሉ ሓዎቱን ⟨את⟩ ብሰይፊ ቐተለ፣ ንሓላፍቲ ይስራኤልን እውን።",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ተበጽሑ"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "የሆራም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ንመንግስቲ"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "መንግስቲ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "ተጸንዐ"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ቐተለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ሓዎቱ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ሓዎቱ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ብሰይፊ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ን…ን እውን"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "ሓላፍቲ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T08:09:26.675833424Z",
+  "model": "glm-5.3"
+}

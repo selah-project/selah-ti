@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 110,
+  "translation": "ኣብ ኣህዛብ ይፈርድ፣ ኣስካላት የምልእ፣ ልዕሊ ምድሪ ዓቢ ርእሲ ሰባረ።",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "ይፈርድ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ኣብ ኣህዛብ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "የምልእ"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "ኣስካላት"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ሰባረ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ልዕሊ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ዓቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:21.531219106Z",
+  "model": "glm-5.3"
+}

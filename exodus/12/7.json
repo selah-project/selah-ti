@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ድማ ካብ እቲ ደም ወሲዶም፣ ኣብ ልዕሊ ክልተ ኣገዳቲ ናይ እታ ደጂን ኣብ ልዕሊ እታ ደጂን ኣብቶም ቤታት ከም ዝበልዑ ⟨את⟩ ንእኡ ኣብኣቶም የውርይዎ።",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ድማ ወሲዶም"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "እቲ ደም"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ድማ የውርይዎ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "ኣገዳቲ ናይ እታ ደጂ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ድማ ኣብ ልዕሊ"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "ልዕሊ እታ ደጂ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ኣብቶም ቤታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ዝበልዑ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንእኡ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ኣብኣቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:20:05.228735661Z",
+  "model": "glm-5.3"
+}

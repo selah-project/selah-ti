@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 7:16",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ማዓኻ ሰበይቲ ማኽር ወዲ ወለደት፤ ስሙ ድማ ፕረሽ በለቶ፤ ስም ኣሓዉ ድማ ሸረሽ፤ ውላዱ ድማ ኡላምን ረቅምን እዮም።",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደት"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ማዓኻ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ማኽር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "በለቶ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "ፕረሽ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ኣሓዉ"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "ሸረሽ"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ኡላም"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "ረቅምን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:35:37.412142238Z",
+  "model": "glm-5.3"
+}

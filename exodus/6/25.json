@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 6:25",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኤልዓዛር ወዲ ኣሃሮን ሓደ ካብ ውላድ ፑትይኤል ከም ሰበይቱ ሓዙ፣ ንሳ ድማ ንሱ ⟨את⟩ ፕይንሕስ ወሊያቶ፤ እዚኦም ርእሳት ኣቦታት ሌዋውያን ብዓመይቶም እዮም።",
+  "tokens": [
+    {
+      "surface": "ואלעזר",
+      "gloss": "ኤልዓዛር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ሓዙ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ሓደ ካብ ውላድ"
+    },
+    {
+      "surface": "פוטיאל",
+      "gloss": "ፑትይኤል"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ከም ሰበይቱ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ወሊያቶ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፕይንሕስ"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ፕይንሕስ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ርእሳት"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ኣቦታት"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ሌዋውያን"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ብዓመይቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:13:15.856789635Z",
+  "model": "glm-5.3"
+}

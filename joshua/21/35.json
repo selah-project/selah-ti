@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "⟨את⟩ ድምናን ⟨את⟩ መኽደርታኣን ⟨את⟩ ናሓላልን ⟨את⟩ መኽደርታኣን ኣርባዕተ ከተማታት።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምና"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "ድምና"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መኽደርታኣ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መኽደርታኣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ናሓላል"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "ናሓላል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መኽደርታኣ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "መኽደርታኣ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ከተማታት"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ኣርባዕተ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:30:15.693621575Z",
+  "model": "glm-5.3"
+}

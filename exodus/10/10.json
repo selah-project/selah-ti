@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ንሳቶም ድማ «ከም እተወልደልኩምን ⟨את⟩ ቐንድኩምን ኾኖ ያህዌህ ምስኩም ይኹን፤ ረኣዩ እሞ፣ ምኽንያቱ ክፉት ቅድሚ ገጽኩም ኣሎ» በሎም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎም"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ይኹን"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ምስኩም"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም እተ"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ወልደ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ነኻትኩም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቐንድኩም"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "ቐንድኩም"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ረኣዩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉት"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "ገጽኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:18:45.279918379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ሓብቲኡ ድማ ሸዕራሃ እያ፤ እታ ታሕቲ ቤት ኣብ ከውሪ ⟨את⟩ በነት፣ ⟨את⟩ እታ ላዕለዋይቲን፣ ⟨את⟩ ኣውዝስራሕን በነት።",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "ሓብቲኡ"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "ሸዕራሃ"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "በነት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት ኣብ ከውሪ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "ኣብ ከውሪ"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "እታ ታሕቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ላዕለዋይቲ"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "እታ ላዕለዋይቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣውዝስራሕ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ኣውዝ"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "ሸዕራሃ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:35:05.615169903Z",
+  "model": "glm-5.3"
+}

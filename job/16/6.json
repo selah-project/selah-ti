@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 16:6",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "እንተ ተዛረብኩ፣ ሕማቕይ ኣይተቐነሐን፤ እንተ ወጠንኩ ድማ፣ እንታይ ካብኣይ ይኸይድ እዩ?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "ተዛረብኩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "ተቐነሐ"
+    },
+    {
+      "surface": "כאבי",
+      "gloss": "ሕማቕይ"
+    },
+    {
+      "surface": "ואחדלה",
+      "gloss": "ወጠንኩ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ካብኣይ"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ይኸይድ እዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:10:12.754637282Z",
+  "model": "glm-5.3"
+}

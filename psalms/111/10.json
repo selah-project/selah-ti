@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 111,
+  "translation": "ናይ ያህዌህ ፍርሃት መጀመርታ ጥበብ እያ፤ ነፍሲ ወከፍ ዝገብርዎም ጽቡቕ ምርዳይ ኣለዎ፤ መስብሑ ናብ ዘለኣለም ይቕጽል።",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "መጀመርታ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ፍርሃት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "ምርዳይ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡቕ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ነፍሲ ወከፍ"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ዝገብርዎም"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "መስብሑ"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ይቕጽል"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ናብ ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:35.861655734Z",
+  "model": "glm-5.3"
+}

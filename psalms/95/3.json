@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 95,
+  "translation": "ምኽንያቱ ዓቢ ኤል ⟨እዩ⟩ ያህዌህ፣ ዓቢ ንጉስ ድማ ኣብ ልዕሊ ኩሉ ኣማልኽቲ ⟨እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ንጉስን"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ዓቢ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኣማልኽቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:41.711033128Z",
+  "model": "glm-5.3"
+}

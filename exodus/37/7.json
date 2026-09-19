@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ክልተ ኬሩባት ወርቂ ከኣ ገበረ፣ ተቐቲቱ ገበሮም፣ ኣብ ክልተ ውዱቓት ⟨ቲ⟩ ሽፋኒ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "ኬሩባት"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "ተቐቲቱ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ኬሩባት"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ውዱቓት"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ናይ ⟨ቲ⟩ ሽፋኒ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:42:47.442899805Z",
+  "model": "glm-5.3"
+}

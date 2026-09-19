@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ንስኻ ድማ ኣብ ሚጽራይም ኣገልጋሊ ምንባርካ ኣይትረስዕ፤ ነይራ ነይራ እዚኦም ሕግታት ትጥቀምን ትገብርን ⟨את⟩ ዅሉ።",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "ኣይትረስዕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምንባርካ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ኣገልጋሊ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ነይራ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ኣብ ሚጽራይም"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ትጥቀም"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ትገብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እዚኦም ሕግታት"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "እዚኦም ሕግታት"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዚኦም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:57:15.941954396Z",
+  "model": "glm-5.3"
+}

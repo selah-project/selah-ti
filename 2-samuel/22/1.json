@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ዳዊድ ድማ ናብ ያህዌህ ⟨את⟩ ቃላት እቲ ዝጽወዕ እዚ ቐርበት በለ፥ ኣብ መዓልቲ ያህዌህ ካብ ኢድ ኩሉ ጀብኑን ካብ ኢድ ሻኡልን እትንብርዎ ⟨אתו⟩ ኣድሂቡ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ናብ ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላት እቲ ዝጽወዕ እቲ ቐርበት"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "እቲ ዝጽወዕ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ኣድሂቡ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ዳዊድ"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ጀብኑ"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "ንካብ ኢድ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    }
+  ],
+  "timestamp": "2026-09-19T00:39:58.738619949Z",
+  "model": "glm-5.3"
+}

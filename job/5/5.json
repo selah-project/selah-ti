@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "እቲ ዝሓጸሮ ረሃባዊ ይብላዮ እዩ፣ ካብ ውሽጢ ኣኽናይ ውን ይወስዶ እዩ፣ ጥምዓይ ድማ ንብርን ብርባትን እናበለ ይስተይዎ እዩ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "ዝሓጸሮ"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ረሃባዊ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ይብላዮ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ካብ ውን"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "ኣኽናይ"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "ይወስዶ"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "ይስተይዎ ውን"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "ጥምዓይ"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ብርን ብርባትን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:06:09.837831509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኣቦም ድማ ነሎም ተዛረቦ፦ «ኣበይ እዚ በዚ ኸደ?» ውላዱ ድማ ነቲ ሰብ ኤሎሂም ካብ ይሁዳ ዝመጸ ዝኸደሉ ⟨את⟩ መገዲ ረኣዩ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረቦ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ነሎም"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ኣቦም"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ኣበይ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "መገዲ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ኸደ"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ረኣዩ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "መገዲ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "መገዲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ዝኸደሉ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ዝመጸ"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "ካብ ይሁዳ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:45:26.343616079Z",
+  "model": "glm-5.3"
+}

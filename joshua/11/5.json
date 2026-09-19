@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 11:5",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "እዞም ነገስቲ ኩሎም ተራኸቡ፣ መጹ፣ ኣብ ማይ ሜሮም ከም ሓደ ሰረፈው፣ ምስ ይስራኤል ንኽተዓራርዩ።",
+  "tokens": [
+    {
+      "surface": "ויועדו",
+      "gloss": "ተራኸቡ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ነገስቲ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዞም"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "መጹ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ሰረፈው"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ከም ሓደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ሜሮም"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ንኽተዓራርዩ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T23:26:35.141191016Z",
+  "model": "glm-5.3"
+}

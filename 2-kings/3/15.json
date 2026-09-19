@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 3:15",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "«ሕጂ ግን ንኣነ መዛማዒ ኣምጽኡሉ።» እቲ መዛማዒ ከም ዝዛምዕ እንጂ ኢድ ያህዌህ ኣብ ላዕሊ ኮይና ተኸዳንቡ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ ግን"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ኣምጽኡ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "መዛማዒ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "כנגן",
+      "gloss": "ከም ዝዛምዕ"
+    },
+    {
+      "surface": "המנגן",
+      "gloss": "እቲ መዛማዒ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ኮይና"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:14:36.458087530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 55,
+  "translation": "ምሸትን ወይ ጠዓሊን ወይ ኣጽራሕቲን ክሃስብን ክጮኽን እየ፣ ድማ ኩርዒትይ ሰምዐ።",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "ምሸትን"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ወይ ጠዓሊን"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "ወይ ኣጽራሕቲን"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ክሃስብ እየ"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "ክጮኽን"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ድማ ሰምዐ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ኩርዒትይ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:00:31.486256431Z",
+  "model": "glm-5.3"
+}

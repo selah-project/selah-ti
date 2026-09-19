@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ድሕሪ እዚ ድማ ልቢ ዳዊድ ⟨אתו⟩ በቲ ቅንፊ ናይ ሻኡል እቲ ቐረጸሉ ስለ ዝኾነ ተቐሰቖ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ድሕሪ እዚ ድማ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ተቐሰቖ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ዳዊድ ባዕሉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ቐረጸሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅንፊ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ቅንፊ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ናይ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ሻኡህ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:13:42.712498081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 91,
+  "translation": "ምስኣን ንስኻ፣ ያህዌህ፣ ተማዕቢለይ ኢኻ፤ ⟨እቲ⟩ ዔልዮን ማእዶኻ ኣቐምጥካዮ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምስኣን"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ተማዕቢለይ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ዔልዮን"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ኣቐምጥካዮ"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "ማእዶኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:40.159625952Z",
+  "model": "glm-5.3"
+}

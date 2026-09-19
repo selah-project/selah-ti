@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ኣብ ቤት ሹማቕቲ ጸራሕቲ፣ ናብ ቤት ማእሸላ፣ ኣብ ቦታ ዮሴፍ ዝታሕዞ ኣብኡ፣ ⟨את⟩ ኣታቶም ኣብ ሓለዓ ኣተዎም።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ኣተዎም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ኣታቶም"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "ኣብ ሓለዓ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ሹማቕቲ"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "ጸራሕቲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "ማእሸላ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "ዝታሕዞ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:01:26.004699184Z",
+  "model": "glm-5.3"
+}

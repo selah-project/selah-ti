@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 142,
+  "translation": "ናብ የማን ኣንተር፤ ረኣየ፤ ዝፈልጠኒ የለን፤ ምህዳም ብጉዳይ ጠፊኡ፤ ነፍሰይ ዝደልያ የለን።",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "ኣንተር"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "የማን"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ዝፈልጠኒ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ጠፊኡ"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "ምህዳም"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ካባይ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "ዝደልያ"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ነፍሰይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:39.103395884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ሞሸ ድማ ኣብ ኣእዋት ምሉእ ስብሕ እስራኤል ⟨את⟩ ቃላት እዚታ ዜማ ክሳብ ዝወደኣ ተዛረበ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ኣብ ኣእዋት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ምሉእ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ስብሕ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃላት"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ዜማ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚታ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ዝወደኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:11:25.086694173Z",
+  "model": "glm-5.3"
+}

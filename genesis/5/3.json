@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣዳም ድማ ሽሕን ሰለስተን ዓመታት ነይሩ፣ ብምሳሊኡ ከም ቅርጺኡ ወዲ ወለደ፣ ስሙ ድማ ሼት ⟨את⟩ በሎ።",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ኣዳም"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ሰለስተ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ሽሕን"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ወለደ"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "ብምሳሊኡ"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "ከም ቅርጺኡ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ሼት"
+    }
+  ],
+  "timestamp": "2026-09-18T20:32:37.292116630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 51,
+  "translation": "ነብዪ ናታን ነቲ ናብኡ ከም ዝመጸሉ፣ ንሱ ድማ ናብ ባት ሸባዕ ከም ዝኣተወ።",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "ምስ ምስጋኡ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ናብኡ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ናታን"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ነብዪ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ኣተወ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ባት"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸባዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:19.046408495Z",
+  "model": "glm-5.3"
+}

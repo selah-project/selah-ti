@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ሓደ በዓት፣ ወዲ ከብቲ፣ ሓደ ሓበርቲ፣ ሓደ በጊያ ወዲ ሓደ ዓመት፣ ንዕላት ወፈያ።",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "በዓት"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ከብቲ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ሓበርቲ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "በጊያ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ሓደ ዓመት"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ንዕላት ወፈያ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:15:30.726879145Z",
+  "model": "glm-5.3"
+}

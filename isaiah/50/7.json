@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 50:7",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ኣዶናይ ያህዌህ ድማ ይሕግዘኒ እዩ፤ ስለዚ ኣይተዓቐብኩን፤ ስለዚ ገጸይ ከም ሕጸርበቲ ድንጋይ ጸዓርኩ፤ ኣይትዓቐበን እየ እውን እፈልጥ እየ።",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "ኣዶናይ ድማ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "ይሕግዝ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ነታ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "נכלמתי",
+      "gloss": "ተዓቐብኩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ነታ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ጸዓርኩ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጸይ"
+    },
+    {
+      "surface": "כחלמיש",
+      "gloss": "ከም ሕጸርበቲ ድንጋይ"
+    },
+    {
+      "surface": "ואדע",
+      "gloss": "እውን እፈልጥ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እምቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ክትዓቐብ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:19:54.631405944Z",
+  "model": "glm-5.3"
+}

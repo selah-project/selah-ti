@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ዳዊድ ድማ ብቐጥታ ከም ቃል ጋድ ከም ዝኣዘዞ ያህዌህ ወሰደ።",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ብቐጥታ ከም ቃል"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም ዝ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ዝኣዘዞ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:43:40.832229674Z",
+  "model": "glm-5.3"
+}

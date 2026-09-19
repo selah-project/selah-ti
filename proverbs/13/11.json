@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ሃብቲ ኣብ ባዶነት ዝተረከበ ይጎድል፤ ነቲ ብኢድ ቀሊሉ ቀሊሉ ዝተኸፈተ ግን ይበዝሕ።",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ሃብቲ"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "ኣብ ባዶነት"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "ይጎድል"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "ወይ ነቲ ዝተኸፈተ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ይበዝሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:47:05.555468164Z",
+  "model": "glm-5.3"
+}

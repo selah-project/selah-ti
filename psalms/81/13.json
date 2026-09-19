@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 81,
+  "translation": "ኣነ ድማ ኣብ ጠንካራነት ልቦም ኣረናቖትኳቶም፣ ኣብ ምክርኦም እዮም ዝነጥፉ ነይሮም።",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "ኣረናቖትኳቶም"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "ኣብ ጠንካራነት"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ልቦም"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ዝነጥፉ ነይሮም"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "ኣብ ምክርኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:12:40.077762381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣብኡ ድማ ኣብ ልዕሊ እተን እምብርት ⟨את⟩ ቅጂ ቶራ ሞሸ እቲ ኣብ ቅድሚ ውላድ እስራኤል ዝጻሐፎ ጸሓፎ።",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ጸሓፎ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "እተን እምብርት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅጂ ቶራ ሞሸ"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ቅጂ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "ዝጻሐፎ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-18T23:22:24.217605117Z",
+  "model": "glm-5.3"
+}

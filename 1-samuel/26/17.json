@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ሻኡል ድማ ⟨את⟩ ቓል ዳዊድ ረኣየ፤ «እዚ ቓልካ ወዲ ዳዊድ ድዩ እዩ?» በለ። ዳዊድ ድማ «ቓለይ እዩ ጎይታ እቲ ንጉስ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቓል"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "እዚ ቓልካ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ቓለይ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጎይታ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:41:18.291464013Z",
+  "model": "glm-5.3"
+}

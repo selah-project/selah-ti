@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 77,
+  "translation": "«ናብ ዘለዓለም ኣዶናይ ይጥፍእ ድዩ፣ ደገና ንምስማዕ ኣይውስኽን ድዩ?»",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "ናብ ዘለዓለም ድዩ"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "ይጥፍእ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ይውስኽ"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "ንምስማዕ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደገና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:56.052519997Z",
+  "model": "glm-5.3"
+}

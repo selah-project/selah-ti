@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "እቲ ምስ ሓብቱ ኣቡኡ ወይ ኣደኡ ጓል እቲ ዚተኛ ርጉም እዩ፤ ኩሉ ህዝቢ ድማ ኣሜን ይብል።",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ርጉም"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ዚተኛ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ሓብቱ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ጓል"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ጓል"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ኣደኡ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ይብልድማ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ኣሜን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:07:06.826126031Z",
+  "model": "glm-5.3"
+}

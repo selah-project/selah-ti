@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 63,
+  "translation": "እቶም ድማ ንውድቀት ነፍሲ ይደልዋ እዮም፤ ናብ ታሕቲታት ምድሪ ክኣቱ እዮም።",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "እቶም ድማ"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "ንውድቀት"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "ይደልዋ እዮም"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ክኣቱ እዮም"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "ናብ ታሕቲታት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:04:24.597129088Z",
+  "model": "glm-5.3"
+}

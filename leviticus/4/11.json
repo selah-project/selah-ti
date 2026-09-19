@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ከምኡውን ⟨את⟩ ህቡጡ ናይቲ ሓቅልን ⟨את⟩ ኩሉ ከሱሩን ምስ ርእሱ ምስ እግሩን፣ ምስ ውሽጢኡን ምስ ስጉሉን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ህቡጡ ናይቲ ሓቅል"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ህቡጥ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ሓቅል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ከሱሩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ከሱሩ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ርእሱ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "እግሩ"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "ውሽጢኡ"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ስጉሉ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:48:57.162575248Z",
+  "model": "glm-5.3"
+}

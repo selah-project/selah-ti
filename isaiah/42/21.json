@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "ያህዌህ ስለ ጽድቂኡ እናደሰ፣ ነቲ ቶራ ዓቕሎን ክብርታዊ ክገብሮ ደሊዩ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "እናደሰ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ጽድቂኡ"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "ዓቕሎ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ቶራ"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "ክብርታዊ ክገብሮ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:10:27.028468604Z",
+  "model": "glm-5.3"
+}

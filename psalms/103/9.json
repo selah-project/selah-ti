@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 103,
+  "translation": "ናብ ዘለኣለም ኣይትጋደልን፣ ነዊሑ ድማ ናብ ዘለኣለም ኣይዕቅብን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ይትጋደል"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን ድማ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "ይዕቅብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:13.272312986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 28:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ንስኻ ድማ ነቶም ጥበብ ልቢ ዘለዎም፣ መንፈስ ጥበብ ዝሓመርክዎም፣ ኩሎም ትዛረብ፤ ንኽቕደሶ ንኽካሑኖ ለይ ⟨את⟩ ኣልባሳት ኣሕሮን ይገብሩ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ትዛረብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "חכמי",
+      "gloss": "ጥበብ ዘለዎ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "מלאתיו",
+      "gloss": "ዝሓመርክዎ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ጥበብ"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ይገብሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣልባሳት ኣሕሮን"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ኣልባሳት"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሕሮን"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ንኽቕደሶ"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "ንኽካሑኖ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ለይ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:33:39.289064223Z",
+  "model": "glm-5.3"
+}

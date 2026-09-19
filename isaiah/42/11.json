@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 42:11",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 42,
+  "translation": "እቲ ምድረ በዳን ከተማታቱን ድምጐምግሎም፤ እቶም ናይ ቖዳር ዓዲታት፤ ኣባላዒኦም እቶም ናይ ሔላ ሰዓብቲ ካብ ርእሲ ኦሮም ይጮኽዩ።",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "ድምጐምግሎም"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ምድረ በዳ"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "ከተማታቱን"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "ዓዲታት"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "እተዓደወ"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ቖዳር"
+    },
+    {
+      "surface": "ירנו",
+      "gloss": "ይቐብሩ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ኣባላዒኦም"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "ሔላ"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "ካብ ርእሲ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ኦሮም"
+    },
+    {
+      "surface": "יצוחו",
+      "gloss": "ይጮኽዩ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:08:57.273166201Z",
+  "model": "glm-5.3"
+}

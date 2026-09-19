@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 22:7",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኣብ ጸገደ ያህዌህ ቐርዐ፤ ንኤሎሂምይ ድማ ቐርዐ፤ ንሱ ድማ ካብ ማሕደሩ ድምጺ ሰምዐ፤ ጩኸቴ ድማ ኣብ ኣእዛዉ በጸሐ።",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "ኣብ ጸገደ"
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ቐርዐ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ንኤሎሂምይ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂምይ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ቐርዐ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ሰምዐ"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "ካብ ማሕደሩ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ድምጺ"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "ጩኸቴ"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "ኣብ ኣእዛዉ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:39:38.930758458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ሹፒምን ሑፒምን ውላድ ዓይር እዮም፤ ሑሽም ድማ ውላድ ኣኽር እዮም።",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "ሹፒምን"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "ሑፒምን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ዓይር"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ሑሽም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ኣኽር"
+    }
+  ],
+  "timestamp": "2026-09-19T07:34:33.490580532Z",
+  "model": "glm-5.3"
+}

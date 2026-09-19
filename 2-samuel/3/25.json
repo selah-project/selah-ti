@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ኣብነር ወዲ ነር ⟨את⟩ ንምትሓትካ ምስ መጸ ተሰሚዐካ፣ ነታ ⟨את⟩ ምውጻእካን ⟨את⟩ ምእታውካን ⟨את⟩ ኩሉ ዝትገብሮ ንኽፈልጥ ኮይኑ መጸ።",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "ተሰሚዐካ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብነር"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ኣብነር"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ነር"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "ንምትሓትካ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "መጸ"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "ንኽፈልጥዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምውጻእካ"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "ምውጻእካ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምእታውካ"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "ምእታውካ"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "ንኽፈልጥዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ትገብር"
+    }
+  ],
+  "timestamp": "2026-09-19T08:41:52.265056582Z",
+  "model": "glm-5.3"
+}

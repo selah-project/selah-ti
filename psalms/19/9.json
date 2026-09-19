@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ትእዛዛት ያህዌህ ቅኑዓት እየን፣ ልቢ ዘሓግሱ እየን፤ ትእዛዝ ያህዌህ ንጹርት እያ፣ ኣዒንቲ ዘብርሕ።",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "ትእዛዛት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ቅኑዓት"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "ዘሓግሱ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "ንጹርት"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "ዘብርሕ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ኣዒንቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:04.732509618Z",
+  "model": "glm-5.3"
+}

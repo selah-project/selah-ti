@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እንተ ተዛሪብኪያ እውን ⟨את⟩ ቃልና እዚ፣ ካብ እቲ ምስምማዕካ እቲ ኣውጺእካዮና ንጹሓት ኢና።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "ተዛሪብኪያ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃልና"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "ቃልና"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "ኢና"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "ንጹሓት"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "ካብ ምስምማዕካ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "ኣውጺእካዮና"
+    }
+  ],
+  "timestamp": "2026-09-18T23:17:59.659309291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 135,
+  "translation": "ኣብ ቤት ያህዌህ፣ ኣብ ኣዳርቲ ቤት ኤሎሂምና ንቐርቢ ኰይኖም ዘለዉ።",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "ንቐርቢ ኰይኖም ዘለዉ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "ኣብ ኣዳርቲ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:39.889296574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 2:12",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሽሎሞ ከኣ ኣብ ዙፋን ዳዊድ ኣቡኡ ተቐመጠ፣ መንግስቱ ድማ ብዙሕ ተረጋጸመ።",
+  "tokens": [
+    {
+      "surface": "ושלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ዙፋን"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቡኡ"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "ተረጋጸመ"
+    },
+    {
+      "surface": "מלכתו",
+      "gloss": "መንግስቱ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:45:36.405072796Z",
+  "model": "glm-5.3"
+}

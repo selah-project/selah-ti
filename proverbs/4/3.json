@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ምኽንያቱ ኣነ ንኣበይ ወዲ ነይርኩ፣ ረዚን ብብሕታይ ኣብ ቅድሚ ኣደይ ውንብርቲ ነይርኩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ነይርኩ"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "ንኣበይ"
+    },
+    {
+      "surface": "רך",
+      "gloss": "ረዚን"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "ውንብርቲ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ኣደይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:42:49.700805058Z",
+  "model": "glm-5.3"
+}

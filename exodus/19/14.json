@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ሞሸ ድማ ካብ እቲ ኦም ወሪዱ ናብ እቲ ህዝቢ መጸ፤ ነቲ ⟨את⟩ ህዝቢ ቀደሰ፤ ንሳቶም ድማ እቶም ልምሲቶም ሓጹምዎም።",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ወሪዱ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞḉ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "እቲ ኦም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ቀደሰ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "ሓጹምዎም"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "እቶም ልምሲቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:27:41.358025543Z",
+  "model": "glm-5.3"
+}

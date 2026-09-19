@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 126,
+  "translation": "ያህዌህ ዓቢ ነገር ምስ ንሕና ገበረ፤ ኩና ደሓርቲ።",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "ዓቢ ነገር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ምስ ንሕና"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ኮንና"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "ደሓርቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:23.333042599Z",
+  "model": "glm-5.3"
+}

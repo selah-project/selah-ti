@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "እቲ ተሓቪ በለ፦ መጺኡ እዩ ቀንቲ፣ ለይቲ ከኣ ከምኡውን። ንሕተቱ እንተ ደልዩኩም — ሕተቱ፤ ተመልሱ፣ መጹ።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "እቲ ተሓቪ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "መጺኡ እዩ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ቀንቲ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ከኣ ከምኡውን"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ለይቲ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "ንሕተቱ ደልዩኩም"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "ሕተቱ"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ተመልሱ"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "መጹ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:51:53.655890567Z",
+  "model": "glm-5.3"
+}

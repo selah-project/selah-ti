@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ስሙዑ ⟨את⟩ ቃል እታ ያህዌህ ዝዛረባ ንዓኻትኩም፣ ቤት እስራኤል።",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ስሙዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቃል"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝዛረባ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ንዓኻትኩም"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T02:37:43.220853026Z",
+  "model": "glm-5.3"
+}

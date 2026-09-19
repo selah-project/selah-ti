@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 87,
+  "translation": "ናይ ውላድ ቆራሕ መዝሙር፣ ቓልቢ። መሰረታቱ ⟨እዩ⟩ ኣብ ተራራት ቅዱስ።",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ናይ ውላድ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ቆራሕ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "መዝሙር"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ቓልቢ"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "መሰረታቱ"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "ኣብ ተራራት"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቅዱስ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:16.085922580Z",
+  "model": "glm-5.3"
+}

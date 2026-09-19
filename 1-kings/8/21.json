@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣብታ ቦታ እቲኣ ንታቦት ቦታ ኣቐምጠ፣ እታ ኣብኡ ዘላ ኪዳን ያህዌህ ዝኸውን፣ እቲ ምስ ኣቦታትና ብዝወጸሎም ካብ ምድሪ ሚጽራይም ዝተቐበሎ።",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "ኣቐምጠ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብታ ቦታ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "ንታቦት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ዝተቐበሎ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ኣቦታትና"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "ብዝወጸሎም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቦታትና"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-19T00:54:31.240741673Z",
+  "model": "glm-5.3"
+}

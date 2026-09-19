@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ከም እታ ኣይኢ ወዲ ዓይኒ ተዓቢየኒ፤ ኣብ ጽላል ኣጋብርኻ ሓብየኒ።",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "ተዓቢየኒ"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "ከም እታ ኣይኢ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ዓይኒ"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ኣብ ጽላል"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ኣጋብርኻ"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "ሓብየኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:46:05.034441809Z",
+  "model": "glm-5.3"
+}

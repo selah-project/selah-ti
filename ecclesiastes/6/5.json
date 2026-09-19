@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እቲ ፀሓይ እውን ኣይረኣየን፣ ኣይፈልጠን፤ ነዚ ካብ እቲ ዕረፊ ዝያዳ ኣለዮ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "እውን"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ፀሓይ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ፈለጠ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ዕረፊ"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "ነዚ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ካብ እቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:43:44.760798106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 145,
+  "translation": "ኣሕዱር ክብሪ ክብርኻ ንቃላት ተኣምራትኻ እውን ኣሰብዎም እየ።",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "ኣሕዱር"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ክብርኻ"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "ንቃላት"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ተኣምራትኻ"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ኣሰብዎም እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:22.060156280Z",
+  "model": "glm-5.3"
+}

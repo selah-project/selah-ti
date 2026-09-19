@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 35:5",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ውስዱ ካብኩም ⟨את⟩ ቍርባን ንያህዌህ፤ ኩሉ ብፍቓድ ልቡ ⟨את⟩ ቍርባን ያህዌህ የቝርቦ፦ ወርቂ ብርን ናስኒን።",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "ውስዱ"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "ካብኩም ⟨את⟩"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "ቍርባን"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "ብፍቓድ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ልቡ"
+    },
+    {
+      "surface": "יביאה",
+      "gloss": "የቝርቦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቍርባን ያህዌህ"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "ቍርባን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ብርን"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ናስኒን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:38:34.331940290Z",
+  "model": "glm-5.3"
+}

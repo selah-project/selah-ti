@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 83,
+  "translation": "ጌባልን ዓሞንን ዓማሌቅን፣ ፍልስጤም ምስ ኣብያተ-ሰብ ጾር።",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "ጌባልን"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "ዓሞንን"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "ዓማሌቅን"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "ፍልስጤም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ኣብያተ-ሰብ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ጾር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:20.667899354Z",
+  "model": "glm-5.3"
+}

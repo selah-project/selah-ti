@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ድማ ⟨את⟩ መብራሕ ብርሃንን ⟨את⟩ መሳርሒታቱን ⟨את⟩ ሓብሻታቱን ⟨את⟩ ዘይቲ ናይ ብርሃንን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መብራሕ"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "መብራሕ"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ናይ ብርሃን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "መሳርሒታቱ"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "መሳርሒታቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሓብሻታቱ"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ሓብሻታቱ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዘይቲ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይቲ"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ናይ ብርሃን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:40:12.752582079Z",
+  "model": "glm-5.3"
+}

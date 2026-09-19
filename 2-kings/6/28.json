@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እቲ ንጉስ ድማ ንሳ በለ «እንታይ ዝስከን?»። እታ ሰበይቲ ድማ በለት «እዚታ ሰበይቲ ነዚ ኣበለተኒ፣ ሓብኣኒ ⟨את⟩ ወድኻ ሎሚ ንበልዖ፣ ⟨ואת⟩ ወደይ ንበልዖ ንጉላል።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ንሳ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ዝስከን"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "በለት"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "እታ ሰበይቲ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "እዚታ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ኣበለተኒ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ነዚ"
+    },
+    {
+      "surface": "תני",
+      "gloss": "ሓብኣኒ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወድኻ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ወድኻ"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "ንበልዖ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ሎሚ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወደይ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወደይ"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ንበልዖ"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ንጉላል"
+    }
+  ],
+  "timestamp": "2026-09-19T01:16:50.327278592Z",
+  "model": "glm-5.3"
+}

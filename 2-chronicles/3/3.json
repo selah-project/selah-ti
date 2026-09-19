@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 3:3",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "እዚኦም እተን መሰረታት ሽሎሞ ⟨את⟩ ቤት ኤሎሂም ንምህናጽ ኣተረኽበ፤ እቲ ንዑር ብቐዳማይ መስፈሪ ስልሳ ኣማታት፣ እቲ ስፍሓት ድማ ዓሰርተ ኣማታት እዩ።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "הוסד",
+      "gloss": "ኣተረኽበ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ንምህናጽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "እቲ ንዑር"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ኣማታት"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "ብመስፈሪ"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "ቐዳማይ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ኣማታት"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ስልሳ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ንስፍሓት"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ኣማታት"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ዓሰርተ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:55:39.553063901Z",
+  "model": "glm-5.3"
+}

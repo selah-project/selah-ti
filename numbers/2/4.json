@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ሰራዊቱን ዝተቑጸሮምን ሸብዓ ኣርባዕተ ሺሕ ሽድሽተ ሚእቲ እዮም።",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ሰራዊቱን"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ዝተቑጸሮምን"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ሸብዓ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺሕ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ሽድሽተ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ሚእቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:11:55.849289745Z",
+  "model": "glm-5.3"
+}

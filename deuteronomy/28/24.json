@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ያህዌህ ⟨את⟩ ዝናብ ምድርካ ኣፍርሲን ክብርትን ክኸውን ይህብ፤ ካብ ሰማይ ኣብ ልዕልካ ክወርድ፣ ክሳብ እተጠፊእካ።",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ይህብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝናብ ምድርካ"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ዝናብ"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ምድርካ"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "ኣፍርሲ"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ክብርትን"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማይ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ክወርድ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ኣብ ልዕልካ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "እተጠፊእካ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:08:58.463779805Z",
+  "model": "glm-5.3"
+}

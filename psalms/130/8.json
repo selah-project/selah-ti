@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 130,
+  "translation": "ንሱ ድማ ⟨את⟩ እስራኤል ካብ ኩሉ ኣጥፍኣቱ ይድሕኖ።",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ ድማ"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ይድሕኖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "ኣጥፍኣቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:07.646005727Z",
+  "model": "glm-5.3"
+}

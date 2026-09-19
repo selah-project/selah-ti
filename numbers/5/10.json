@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ሓደ ሰብ ⟨את⟩ ቅዱሳቱ ናቱ ኮይኖም ይጸንሑ፤ እቲ ሰብ ነቲ ኻህን እንተ ዝሃቦ ናቱ ክኸውን እዩ።",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ሓደ ሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅዱሳቱ"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "ቅዱሳቱ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ናቱ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ኮይኖም ይጸንሑ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እንተ ዝሃቦ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "እንተ ዝሃቦ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ነቲ ኻህን"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ናቱ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክኸውን እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:15:01.419099718Z",
+  "model": "glm-5.3"
+}

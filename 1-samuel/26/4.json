@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ዳዊድ ድማ ሰለበላትን ሰደደ፣ ሻኡል ብኣውንቶ ምስ መጸ ድማ ተረዲእዎ።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ሰለበላትን"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ተረዲእዎ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከምኡ እንተ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ምስ መጸ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ብኣውንቶ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:17:12.409760549Z",
+  "model": "glm-5.3"
+}

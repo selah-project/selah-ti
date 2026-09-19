@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ድሕሪ እዚ ኮይኑ ዳዊድ ⟨את⟩ ፍልስጥያውያን ሰበሎም፣ ኣኽንኖም፣ ⟨את⟩ ጋትን ቑጽራታታን፣ ካብ ኢድ ፍልስጥያውያን ወሲዱ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ሰበሎም"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፍልስጥያውያን"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጥያውያን"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "ኣኽንኖም"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጋት"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ጋት"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ቑጽራታታን"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ፍልስጥያውያን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:44:24.107141819Z",
+  "model": "glm-5.3"
+}

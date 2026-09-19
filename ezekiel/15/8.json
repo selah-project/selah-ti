@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 15:8",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ምኽንያቱ ብተዓማይነት ምስ ተዓማይተ ስለዝኾኑ፣ ⟨את⟩ እታ ምድሪ ናብ ጥፍኣት እገብራ፣ ንግር ኣዶናይ ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "እገብራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ምድሪ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እታ ምድሪ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ናብ ጥፍኣት"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "ምስ ተዓማይተ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ብተዓማይነት"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ንግር"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:32:19.654241809Z",
+  "model": "glm-5.3"
+}

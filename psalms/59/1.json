@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 59,
+  "translation": "ንመታሕዚብ፤ «ኣይትጥፈእ»፤ ናይ ዳዊድ፤ ማዕጾን፤ ኣብ ዝለኣኾ ሻኡል፣ ን⟨את⟩ ቤት ንምቕታሉ ስለ ዝተቐመጡ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንመታሕዚብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ትጥፈእ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ንዳዊድ"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "ማዕጾን"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "በዝለኣኾ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "ተቐመጡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ንምቕታሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:03:21.984184536Z",
+  "model": "glm-5.3"
+}

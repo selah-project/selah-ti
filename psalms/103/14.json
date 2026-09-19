@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 103,
+  "translation": "ምኽንያቱ ንሱ ቅርጺና ይፈልጥ፤ የዘንብን ንሕና ክኾንድን ምኽንያቱ ክኾን ኢና።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ይፈልጥ"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "ቅርጺና"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "የዘንብን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ ክኾን"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ክኾን"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ኢና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:20:42.893089333Z",
+  "model": "glm-5.3"
+}

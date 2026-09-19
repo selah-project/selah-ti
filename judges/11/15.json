@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ነቲ ድማ ከምዚ ተዛረቦ፦ ከምዚ በለ ይፍታሕ፦ እስራኤል ⟨את⟩ ምድሪ ሞኣብን ⟨ואת⟩ ምድሪ ውላድ ዓሞንን ኣይወሲደን።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረቦ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ይፍታሕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ ሞኣብ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ምድሪ ውላድ ዓሞን"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ዓሞን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:47:48.083151781Z",
+  "model": "glm-5.3"
+}

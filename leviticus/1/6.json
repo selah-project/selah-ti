@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ነቲ ⟨את⟩ ውዕልተ-ውልቓ ይቕልጦ፣ ነታውን ⟨את⟩ ናብ ቍራቓታ ይቍረጻ።",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "ይቕልጦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውዕልተ-ውልቓ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ውዕልተ-ውልቓ"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "ይቍረጻ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ናብ ቍራቓታ"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "ናብ ቍራቓታ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:46:49.347606069Z",
+  "model": "glm-5.3"
+}

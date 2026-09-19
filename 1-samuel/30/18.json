@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ዳዊድ ድማ ⟨את⟩ ኩሉ ዝወሰወሉ ዓማሌቅ ሓረየ፤ ⟨את⟩ ክልተ ሰበይቱን ዳዊድ ኣድሕነን።",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "ሓረየ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ዝወሰወሉ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ዓማሌቅ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ክልተ ሰበይቱ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ሰበይቱ"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ኣድሕነ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:18:38.533691868Z",
+  "model": "glm-5.3"
+}

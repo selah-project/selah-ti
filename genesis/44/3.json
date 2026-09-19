@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ቀዳም ምስ በርሀ፣ እቶም ሰባት ተለኣኾም ንሳቶምን ኣጋላቢቶምን።",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "ቀዳም"
+    },
+    {
+      "surface": "אור",
+      "gloss": "በርሀ"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "እቶም ሰባት"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ተለኣኾም"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "ኣጋላቢቶምን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:05:58.934169495Z",
+  "model": "glm-5.3"
+}

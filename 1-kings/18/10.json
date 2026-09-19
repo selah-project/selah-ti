@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ሕያው ያህዌህ ኤሎሂምካ፣ እቲ ጎይታይ ኣብኡ ንኸይሓዝካ ዘይሰደደሉ ህዝቢ ወይ መንግሥቲ የለን፤ ንሳቶም «የለን» እናበሉ ድማ፣ ⟨את⟩ እቲ መንግሥቲን ⟨את⟩ እቲ ህዝብን እናሓምየ፣ ከም ዘይረኽብካ።",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "ሕያው"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እን"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ውሽጢ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "መንግሥቲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጎይታይ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "ንኸይሓዝካ"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "እናበሉ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "እናሓምየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ መንግሥቲ"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "እቲ መንግሥቲ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "ዝረኽብካ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:06:19.623575532Z",
+  "model": "glm-5.3"
+}

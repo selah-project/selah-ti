@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 1:52",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ውላድ እስራኤል ድማ ነፍሲ ወከፍ ሰብ ኣብ ሰፈሩን ነፍሲ ወከፍ ሰብ ኣብ ባጤራኡን ብሰራዊቶም የዓልዩ።",
+  "tokens": [
+    {
+      "surface": "וחנו",
+      "gloss": "የዓልዩ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ነፍሲ ወከፍ ሰብ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "ሰፈሩ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ነፍሲ ወከፍ ሰብን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "דגלו",
+      "gloss": "ባጤራኡ"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "ብሰራዊቶም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:11:13.421736065Z",
+  "model": "glm-5.3"
+}

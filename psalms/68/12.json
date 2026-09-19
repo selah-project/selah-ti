@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ኣዶናይ ቃል ዝብል ሃቐ፤ እተኣ ዘበሃብራ ኣንስትዮ ብዙሕ ሰራዊት እየን።",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ሃቐ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ቃል ዝብል"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "እተኣ ዘበሃብራ ኣንስትዮ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:17.389371564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 64,
+  "translation": "ካብ ስዱር ኣመጻብዕቲን ካብ ኣንቀጥቕጤት ኣሰርሕቲ ኣዋይንን ተሓብአኒ።",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "ተሓብአኒ"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "ካብ ስዱር"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ኣመጻብዕቲ"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "ካብ ኣንቀጥቕጤት"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ኣሰርሕቲ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ኣዋይን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:05:32.443226351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 29:16",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ከምኡውን ሓደ ሰቓል ኣልጣ ንኃጢኣት ወፈያ፣ ካብ ቐጻሊ ዕላን ካብ መባኡን ካብ ወፈያ ምስቲኡን ወጻኢ እዩ።",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "ሰቓል"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ኣልጣ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ንኃጢኣት ወፈያ"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "ወጻኢ"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ዕላ"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "ቐጻሊ"
+    },
+    {
+      "surface": "מנחתה",
+      "gloss": "መባኡ"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "ወፈያ ምስቲኡ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:37:58.495585504Z",
+  "model": "glm-5.3"
+}

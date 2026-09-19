@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ኣብ መልሲ ዓመት ድማ በን-ሐዳድ ነቲ ⟨את⟩ ኣራም ኣብ ኣፈቃ ደረለ ንምግብሮ ኣብ ልዕሊ ይስራኤል።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "ኣብ መልሲ"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ዓመት"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ተቐረቡን"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ሐዳድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣራም"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ደረለ"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "ኣፈቃ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ንምግብሮ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T01:09:42.507428809Z",
+  "model": "glm-5.3"
+}

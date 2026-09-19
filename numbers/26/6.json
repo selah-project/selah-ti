@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ለሕጽሮን፡ ስድረት ናይ ሕጽሮናይ፡ ለኽርሚ፡ ስድረት ናይ ኽርሚያይ።",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "ለሕጽሮን"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ስድረት"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "ሕጽሮናይ"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "ለኽርሚ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ስዓደር"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "ኽርሚያይ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:33:07.451887339Z",
+  "model": "glm-5.3"
+}

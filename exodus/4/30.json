@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣሃሮን ንያህዌህ ንሞሸ ዝዛረቦ ኩሉ ቃላት ⟨את⟩ ተዛረበ፣ እቶም ምልክታት ብቐዳማይ እዞም ህዝቢ ገበረ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ቃላት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ዝዛረቦ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ምልክታት"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ብቐዳማይ እዞም"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:13:39.683861769Z",
+  "model": "glm-5.3"
+}

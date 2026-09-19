@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "ንመራሒ ቐረጻ ⟨ነብሪ⟩ ኣብ ላዕሊ ሽኦሽናት ⟨ኣመልካጺ ዜማ⟩ ናይ ዳዊድ።",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ንመራሒ ቐረጻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "ሽኦሽናት"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ናይ ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:07:57.508856847Z",
+  "model": "glm-5.3"
+}

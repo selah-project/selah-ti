@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ንእቲ መገዲ ዝስዕር ሰብ መውቐሲ ከይብ እዩ፤ ነቲ ትግታው ዝጸልእ ድማ ክሞት እዩ።",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "መውቐሲ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ከይብ"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "ንእቲ ዝስዕር"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "መገዲ"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ዝጸልእ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ትግታው"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ክሞት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:49:10.445764993Z",
+  "model": "glm-5.3"
+}

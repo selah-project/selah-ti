@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 8:20",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "እንሆ ኤል ብጽሑት ኣይጥፍእን፣ ኢድ ኣጣዕታት ድማ ኣይሓውዮምን።",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "ይጥፍእ"
+    },
+    {
+      "surface": "תם",
+      "gloss": "ብጽሑት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "ይሓውዮም"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ኣጣዕታት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:05:08.130109762Z",
+  "model": "glm-5.3"
+}

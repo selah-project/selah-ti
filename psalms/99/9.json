@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 99,
+  "translation": "ያህዌህ ኤሎሂምና ኣዝዕሩ፣ ኣብ ከባቢ ቅዱስና ንተሰገዱ፣ ምኽንያቱ ቅዱስ እዩ ያህዌህ ኤሎሂምና።",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "ኣዝዕሩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "ተሰገዱ"
+    },
+    {
+      "surface": "להר",
+      "gloss": "ኣብ ከባቢ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ቅዱስና"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ቅዱስ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:33.237426421Z",
+  "model": "glm-5.3"
+}

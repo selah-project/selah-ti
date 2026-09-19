@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "እንተ ጠምኩ ነታ ኣይብለን፣ ምኽንያቱ ዓለምን ምላኣን ናይኩም እዩን።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "ጠምኩ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ኣይብለን"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ነታ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ናይኩም"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ዓለም"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ምላኣን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:47.453513181Z",
+  "model": "glm-5.3"
+}

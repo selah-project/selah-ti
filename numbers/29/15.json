@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ኣብኡ ድማ ሓደ ዓሰርያይ ክፍሊ ንእቲ ሓደ ንእሽቶ ኣውያን፣ ንዓሰርቶ ኣርባዕተ ንእሽቶታት ኣውያን።",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "ዓሰርያይ ክፍሊ"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "ዓሰርያይ ክፍሊ"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ንእቲ ንእሽቶ ኣውያን"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "ንኣርባዕተ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ዓሰርቶ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ንእሽቶታት ኣውያን"
+    }
+  ],
+  "timestamp": "2026-09-18T22:37:58.495452864Z",
+  "model": "glm-5.3"
+}

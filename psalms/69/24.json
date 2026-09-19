@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 69,
+  "translation": "እታ ዓይኒኦም ካብ ምርኣይ ተጸልሙ፣ ኣኽላቶም ድማ ኩሉ ግዜ ተንቐጥቕጡ።",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "ተጸልሙ"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ዓይኒኦም"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ካብ ምርኣይ"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "ኣኽላቶም"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ኩሉ ግዜ"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "ተንቐጥቕጥ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:25.381511950Z",
+  "model": "glm-5.3"
+}

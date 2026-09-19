@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ቃላት ኣፍ ሰብ ብዙሕ ማይ እየን፤ ተላላይ ዝበጽሕ ምንጪ ሓሳብ እያ።",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ኣፍ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ተላላይ"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "ዝበጽሕ"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "ምንጪ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ሓሳብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:51:28.910191693Z",
+  "model": "glm-5.3"
+}

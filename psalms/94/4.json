@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 94,
+  "translation": "ይነፍሱ ኣሕዙቅ ይዛረቡ፣ ኩሉ ሰሪሕቲ ክፉእ ይተሓብዩ እዮም።",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "ይነፍሱ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ይዛረቡ"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "ኣሕዙቅ"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "ይተሓብዩ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ሰሪሕቲ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ክፉእ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:29.039451890Z",
+  "model": "glm-5.3"
+}

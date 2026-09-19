@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 31:3",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ኲነታት ንሻኡል ጸንዐቶ፣ እቶም ቐላይቲ ድማ — በለዊ ቐላዪ — ረኺብዎ፣ እኮ እውን ብዝበለ ጸንዐ።",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "ጸንዐቶ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ኲነታት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሻኡል"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "ረኺብዎ"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "እቶም ቐላይቲ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "በለዊ"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "ቐላዪ"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "ጸንዐ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዝበለ"
+    },
+    {
+      "surface": "מהמורים",
+      "gloss": "ብእቶም ቐላይቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:21:56.887423387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ንኤሎሃ እብል፦ ኣይትኣምነኒ፣ ኣርኣያኒ፣ ኣበይ እንታይ ተጋጋነኒ፧",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "እብል"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ኤሎሃ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "ትኸስሰኒ"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "ኣርኣያኒ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣበይ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "ተጋጋነኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:09:30.350025168Z",
+  "model": "glm-5.3"
+}

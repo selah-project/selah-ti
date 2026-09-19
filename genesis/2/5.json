@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 2:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኹሉ ቁጽሪ ዘመዴ ገና ኣብ ምድሪ ኣይነይርን፣ ኹሉ ሽምብራ ዘመዴ ገና ኣይበቅለን፣ ምኽንያቱ ያህዌህ ኤሎሂም ኣብ ምድሪ ዝንብን ኣይሰገሮን፣ ሰብ ድማ ንምኽሃል ⟨את⟩ እታ ምድሪ የለን።",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "ቁጽሪ ዘመዴ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ናይ ዘመዴ"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ገና"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ሽምብራ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ናይ ዘመዴ"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ገና"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "ኣይበቅለን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "ኣይዝንቦን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ንምኽሃል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ምድሪ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:30:30.715185400Z",
+  "model": "glm-5.3"
+}

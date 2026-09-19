@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ያህዌህ ኩሉ ኣጽምቱ ይኽልከል፤ ሓደ ኻባቶም ኣይተበጠሰን።",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ይኽልከል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "ኣጽምቱ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "ኻባቶም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "ተበጠሰን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:52:44.775335307Z",
+  "model": "glm-5.3"
+}

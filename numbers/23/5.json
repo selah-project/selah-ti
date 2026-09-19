@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ያህዌህ ድማ ቃል ኣብ ኣፍ ቢልዓም ኣቐምጡ፣ «ናብ ባላቅ ተመለስካ፣ ከምዚ ክትዛረብ ኢኻ» በሎ።",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ኣቐምጡ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ኣብ ኣፍ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ቢልዓም"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ተመለስካ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ባላቅ"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ክትዛረብ ኢኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:33:40.408894293Z",
+  "model": "glm-5.3"
+}

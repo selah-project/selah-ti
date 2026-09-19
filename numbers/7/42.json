@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣብ ሻድሽይ መዓልቲ ሹም ናይ ውላድ ጋድ ሃለሻፍ ወዲ ድዑያል።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ መዓልቲ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ሻድሽይ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ሹም"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ናይ ውላድ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ጋድ"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ሃለሻፍ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "ድዑያል"
+    }
+  ],
+  "timestamp": "2026-09-18T22:16:39.498453548Z",
+  "model": "glm-5.3"
+}

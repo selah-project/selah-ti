@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ካብ ብርሃናት ኣብ ቅድሚኡ ደመናቱ ሓለፉ — በረድን ጽሩታት ሓዊን።",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "ካብ ብርሃናት"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "ኣብ ቅድሚኡ"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "ደመናቱ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ሓለፉ"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "በረድ"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "ጽሩታት"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ሓዊ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:35.297625855Z",
+  "model": "glm-5.3"
+}

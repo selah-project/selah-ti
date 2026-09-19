@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ብዘይ ልብሲ ተራቒቶም ይነጽሩ፣ ጽምኢቶም ድማ ጽንጻ የብሎም።",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "ተራቒቶም"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ይነጽሩ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ብዘይ"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "ልብሲ"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "ጽምኢቶም"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "የብሎም"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "ጽንጻ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:16:04.149408466Z",
+  "model": "glm-5.3"
+}

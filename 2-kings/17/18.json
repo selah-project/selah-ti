@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 17:18",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ያህዌህ ድማ ኣብ እስራኤል ብዙሕ ተቓጸለ፣ ካብ ፊቱ ኣቐሲሖም፤ ካልእ ዝተረፈ የለን፣ ወገን ይሁዳ ጥራይ ተሪፉ።",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "ተቓጸለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ኣብ እስራኤል"
+    },
+    {
+      "surface": "ויסרם",
+      "gloss": "ኣቐሲሖም"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ፊቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "ዝተረፈ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ወገን"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ጥራይ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:32:39.675379993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ፈታይ ኢዱ ካብ ጉድጓድ ኣፍደገ ሰደደ፤ ከምኡውን ኣብ ውሽጠይ ብእሱ ተነዋወ።",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "ፈታይ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "החר",
+      "gloss": "ጉድጓድ ኣፍደገ"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "ከምኡውን ኣብ ውሽጠይ"
+    },
+    {
+      "surface": "המו",
+      "gloss": "ተነዋወ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ብእሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:29:21.473536785Z",
+  "model": "glm-5.3"
+}

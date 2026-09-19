@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 1:3",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ትምህርት ምጥቓቕ፣ ጽድቂን ፍትሕን ቅኑዕነትን ንምቕበል፤",
+  "tokens": [
+    {
+      "surface": "לקחת",
+      "gloss": "ንምቕበል"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ትምህርት"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "ምጥቓቕ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ፍትሕን"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "ቅኑዕነትን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:37.672111073Z",
+  "model": "glm-5.3"
+}

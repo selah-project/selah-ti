@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 33:10",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ካብ ኤሊም ተነሱ፣ ኣብ ባሕሪ ሱፍ ድማ ኣደመው።",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ተነሱ"
+    },
+    {
+      "surface": "מאילם",
+      "gloss": "ካብ ኤሊም"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ኣደመው"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ባሕሪ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ሱፍ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:42:11.053274268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 85,
+  "translation": "ውን ያህዌህ በጃ ክሃብ እዩ፣ ምድርና ድማ ኣፋራሓ ትሃብ።",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ውን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ክሃብ እዩ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "በጃ"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "ምድርና ድማ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ትሃብ"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ኣፋራሓ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:15.088959914Z",
+  "model": "glm-5.3"
+}

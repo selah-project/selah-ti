@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ልብ ጥበበኛታት ኣብ ቤት ሓዘን እዩ፤ ልብ ዕድኩራት ድማ ኣብ ቤት ደስታ እዩ።",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ጥበበኛታት"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ሓዘን"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ንልብን"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ዕድኩራት"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ኣብ ቤት"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ደስታ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:42:54.052416061Z",
+  "model": "glm-5.3"
+}

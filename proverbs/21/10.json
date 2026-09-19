@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ነፍሲ ናይ ክፉእ ኣቢራ ትደሊ እያ፤ ሓመዱ ኣብ ኣይኡ ምሕረት ኣይረኽብን እዩ።",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ናይ ክፉእ"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "ትደሊ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ኣቢራ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "ምሕረት ይረኽብ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ኣብ ኣይኡ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ሓመዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:52:01.184702442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ሰብ ኤሎሂም ድማ ንእቲ ንጉስ በሎ፦ «ጽርኢት ⟨את⟩ ቤትካ ብዝሃበካ እንተ ኾነ፣ ምስኻ ኣይትወርደን እየ፣ ኣብዚ ቦታ እዚ ድማ ዳርጋ ኣይበልዕን ኣይሰትየን እየ»።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ትሃበካ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጽርኢት ቤትካ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ጽርኢት"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ቤትካ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ኣይትወርደን"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስኻ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ንሳ ድማ ኣይ…ን"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ኣይበልዕን"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳርጋ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ድማ ኣይ…ን"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "ኣይሰትየን"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ኣብዚ ቦታ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:00:37.264868774Z",
+  "model": "glm-5.3"
+}

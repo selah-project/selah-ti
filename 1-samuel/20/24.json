@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ዳዊድ ድማ ኣብ ገምቢ ተሓብአ፤ ወርሒ ድማ ምስ መጸ፣ እቲ ንጉስ ኣብ ምግቢ ተቐመጠ ንኽብልዕ።",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "ተሓብአ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ኣብ ገምቢ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ወርሒ ምስ መጸ"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "እቲ ወርሒ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "ምግቢ"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ንኽብልዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:09:13.898681743Z",
+  "model": "glm-5.3"
+}

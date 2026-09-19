@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 136,
+  "translation": "ነቲ ዝዓቢ ድንቃታት ብባዕሉ ጥራይ ዝገበረ፣ ምኽንያቱ ናብ ዘለኣለም ሔሴዱ እዩ።",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "ነቲ ዝገበረ"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ድንቃታት"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ዝዓቢ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ብባዕሉ ጥራይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:16.587567262Z",
+  "model": "glm-5.3"
+}

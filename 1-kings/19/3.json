@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ምስ ረኣየ ድማ ተቐየሐ ንነፍሱ ከደ፣ ናብ በየር ሸባዕ እታ ናይ ይሁዳ ኣተወ፣ ⟨את⟩ ወዲኡ ኣብኡ ኣረፈ።",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ምስ ረኣየ"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ተቐየሐ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ነፍሱ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ኣተወ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "በየር"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ሸባዕ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ ዝ"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ናይ ይሁዳ"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "ኣረፈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ወዲኡ"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "ወዲኡ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:10:25.598494727Z",
+  "model": "glm-5.3"
+}

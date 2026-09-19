@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 114,
+  "translation": "እስራኤል ካብ ሚጽራይም ምስ ወጸ፣ ቤት ያዕቆቭ ካብ ህዝቢ ባዕዳዊ ቋንቋ ተባህለ።",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "ምስ ወጸ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ካብ ሚጽራይም"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ካብ ህዝቢ"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "ባዕዳዊ ቋንቋ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:29.195888264Z",
+  "model": "glm-5.3"
+}

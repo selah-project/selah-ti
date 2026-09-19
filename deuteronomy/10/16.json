@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ድማ ⟨את⟩ ቆልዑት ልብኹም ተነውሩ፤ ኣንገትኹም ድማ ደጊምኩም ኣይቐልዑዎን።",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "ተነውሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቆልዑት ልብኹም"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "ቆልዑት"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ልብኹም"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "ኣንገትኹምን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "ቐልዑዎ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደጊምኩም"
+    }
+  ],
+  "timestamp": "2026-09-18T22:51:24.472057779Z",
+  "model": "glm-5.3"
+}

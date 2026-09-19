@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ከምኡውን ኹሉ መዓልታቶም ኣብ መንጎ ኣሳን ኣብ መንጎ በዓሻ ንጉስ እስራኤልን ውግእ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "ውግእ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ኣሳ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "በዓሻ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኹሉ"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "መዓልታቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:04:16.643686364Z",
+  "model": "glm-5.3"
+}

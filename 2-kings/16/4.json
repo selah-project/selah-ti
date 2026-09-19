@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 16:4",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ወፈያ ከይተቐበለን ኣብ ምዑራቕቲ ከምኡውን ኣብ እቶም ከረባት ኮይኑ ኣብ ታሕቲ ኩሉ በጽሕቲ ኸልቢ ድማ ኣቐመጠ።",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ከይተቐበለን"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ኣብ ምዑራቕቲ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "እቶም ከረባት"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ኣብ ታሕቲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ኸልቢ"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "በጽሕቲ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:29:29.826469118Z",
+  "model": "glm-5.3"
+}

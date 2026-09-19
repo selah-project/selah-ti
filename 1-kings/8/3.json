@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኵሉ ኣሽተት ይስራኤል መጹ፣ እቶም ኻህናት ድማ ⟨את⟩ እቲ ታቑት ኰነሱ።",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "መጹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኵሉ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ኣሽተት"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ኰነሱ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "እቶም ኻህናት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ታቑት"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "እቲ ታቑት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:54:36.596441551Z",
+  "model": "glm-5.3"
+}

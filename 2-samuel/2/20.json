@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 2:20",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ኣብነር ንድሕሪቱ ተዛረበ እሞ «ንስኻ ዓሳሄል ኢኻ?» በለ፤ ንሱ ድማ «ኣነ እየ» በለ።",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ኣብነር"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ንድሕሪቱ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "ንስኻ…ኢኻ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "ዓሳሄል"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:22:41.057636470Z",
+  "model": "glm-5.3"
+}

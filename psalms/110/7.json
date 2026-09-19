@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 110,
+  "translation": "ኣብ መንገዲ ካብ ጠላ ማይ ይሰቲየ፤ ስለዚ ርእሱ የምውስኽ።",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "ካብ ጠላ ማይ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መንገዲ"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ይሰቲየ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚ"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "የምውስኽ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:21.531450020Z",
+  "model": "glm-5.3"
+}

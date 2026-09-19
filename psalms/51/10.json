@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 51,
+  "translation": "ሓስናን ደስታን ኣሰምዐኒ፣ እቶም ዝሰበርካዮም ኣጥንቲ ክዕለዩ።",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "ኣሰምዐኒ"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ሓስና"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "ደስታን"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "ክዕለዩ"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ኣጥንቲ"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "ዝሰበርካዮም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:01:27.298187321Z",
+  "model": "glm-5.3"
+}

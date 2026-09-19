@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ከምኡውን ⟨את⟩ ኮስን ⟨את⟩ ሻላኽን ⟨את⟩ ያንሹፍን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኮስ"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ኮስ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሻላኽ"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ሻላኽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ያንሹፍ"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "ያንሹፍ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:53:49.787520795Z",
+  "model": "glm-5.3"
+}

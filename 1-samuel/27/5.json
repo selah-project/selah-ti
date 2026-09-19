@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 27:5",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ዳዊድ ድማ ንኣኪሽ በሎ፦ «ኣብ ኣይናትካ እንተ ጸጋ ረኺብኩ፣ ኣብ ሓደ ካብ ከተማት ሜዳ ቦታ ይሃቡኒ፣ ኣነ ድማ ኣብኡ እነብር፤ ስለምንታይ ሓያልካ ምስ ኣኻ ኣብ ከተማ ⟨ት⟩መንግስቲ እትቐመጥ፧»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "ኣኪሽ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "በጃኻ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ረኺብኩ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ጸጋ"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ኣብ ኣይናትካ"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ይሃቡ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ቦታ"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "ኣብ ሓደ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ከተማት"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ሜዳ"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "እነብር"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ስለምንታይ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "እትቐመጥ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ሓያልካ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ኣብ ከተማ"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "መንግስቲ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስ ኣኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:18:17.357955422Z",
+  "model": "glm-5.3"
+}

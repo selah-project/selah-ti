@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 15:10",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ናይ ውላድ ዕዚኤል፣ ዓሚናዳብ እቲ ሹም፣ ከምኡውን ኣሕዋቱ ሚኢታ ወይኻ ኣርባዕተ ዓሰርተ፤",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ናይ ውላድ"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ዕዚኤል"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ዓሚናዳብ"
+    },
+    {
+      "surface": "השר",
+      "gloss": "እቲ ሹም"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ከምኡውን ኣሕዋቱ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ሚኢታ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ወይኻ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ኣርባዕተ ዓሰርተ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:41:13.636827965Z",
+  "model": "glm-5.3"
+}

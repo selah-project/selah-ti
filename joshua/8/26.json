@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 8:26",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "የሆሹዋዕ እቲ ኢዱ ኣብ እቲ ክዳን ዝዘረጋዮ ኣይመለሶን፣ ክሳብ ዝቀተለ ኩሉ ሰባት ኣይ ⟨את⟩።",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "ኣይመለሶን"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "እቲ ኢዱ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ዝዘረጋዮ"
+    },
+    {
+      "surface": "בכידון",
+      "gloss": "ኣብ እቲ ክዳን"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "ዝቀተለ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ሰባት ኣይ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ኣይ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:20:32.951441734Z",
+  "model": "glm-5.3"
+}

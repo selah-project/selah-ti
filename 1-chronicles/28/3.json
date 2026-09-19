@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ኤሎሂም ግን ነኒ፦ «ቤት ንስሜይ ኣይትብን፤ ምኽንያቱ ሰብ ውግኣት ኢኻ፣ ደም ድማ ረጊፍካ» በለኒ።",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "ኤሎሂም ግን"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ነኒ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ትብን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "ንስሜይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "ውግኣት"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ኢኻ"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "ደም"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "ረጊፍካ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:53:58.762389056Z",
+  "model": "glm-5.3"
+}

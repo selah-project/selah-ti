@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ኣብ ዓመት ሞት ንጉስ ኣሕዝ እዚ ሸካም ነይሩ።",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ኣብ ዓመት"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ኣሕዝ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "እቲ ሸካም"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:49:36.983619942Z",
+  "model": "glm-5.3"
+}

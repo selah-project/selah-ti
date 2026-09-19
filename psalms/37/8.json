@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ካብ ቁጥዕ ውረድ፣ በይሒ ድማ ስገር፤ ንምንዳይ ኣይትበሳጭን — ብዛዕባ ክትጐድእ ጥራይ እዩ።",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "ውረድ"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "ካብ ቁጥዕ"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ስገር ድማ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "በይሒ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "ኣይትበሳጭን"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ንምጐድእ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:47.195204533Z",
+  "model": "glm-5.3"
+}

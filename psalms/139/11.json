@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 139,
+  "translation": "እንተ በልኩ «እስከ ጸልማት ግድኣ ትሸምበኒ እያ»፣ ለይቲ ድማ ብርሃን ኣብ ዙርያይ ክኸውን እዩ።",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "እንተ በልኩ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ጸልማት"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "ትሸምበኒ እያ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ለይቲ ድማ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ብርሃን"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "ኣብ ዙርያይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:35:41.071250252Z",
+  "model": "glm-5.3"
+}

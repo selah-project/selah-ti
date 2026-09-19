@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ነቲ ⟨את⟩ ኣቦኻን ነቲ ⟨את⟩ ኣደኻን ኣኽብር፤ ኣብቲ ያህዌህ ኤሎሂምካ ዝሃበካ ምድሪ ንኽዥለኹ ኣብ ልዕሊ መዓልታትኻ ይዘርዝሩ።",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "ኣኽብር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣቦኻ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ኣቦኻ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣደኻ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ኣደኻ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ምእንቲ ንኽዥለኹ"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "ይዘርዝሩ"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "መዓልታትኻ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝሃበካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ዝሃበካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንካ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:25:27.341576911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ኣብ ሚጽራይም ⟨את⟩ ጭንቐት ኣቦታትና ረኣይኻ፤ ⟨את⟩ ጽዑቖም እውን ኣብ ላዕሊ ያም ሱፍ ሰምዐካ።",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ረኣይኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጭንቐት ኣቦታትና"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ጭንቐት"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ኣቦታትና"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ኣብ ሚጽራይም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ጽዑቖም"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "ጽዑቖም"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ሰምዐካ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ላዕሊ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ያም"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ሱፍ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:21:34.289420734Z",
+  "model": "glm-5.3"
+}

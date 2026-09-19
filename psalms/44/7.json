@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "እምበር ብቐሊበተይ ኣይተባብዕን፣ ሰይፈይን ኣይትዓውተንን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እምበር"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "ብቐሊበተይ"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ተባብዕ"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "ሰይፈይን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "ትዓውተን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:57:34.308678694Z",
+  "model": "glm-5.3"
+}

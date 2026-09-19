@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ወለደቶ ወዲ፣ ስሙን ድማ ⟨את⟩ ገርሸም ተደለዮ፤ እምክንያቱ «ኣብ ምድሪ ኣገራትዊቲ መጻእ እየ» በለ።",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ወለደቶ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ተደለዮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስሙን"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙን"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ገርሸም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እምክንያቱ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "መጻእ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "እየ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "ኣገራትዊቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:11:47.494758607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣነ ያህዌህ ኤሎሂምካ እየ፣ ካብ ምድሪ ሚጽራይም፣ ካብ ቤት ናይ ባርነት ዝወፅእካ እየ።",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምካ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "ዝወፅእካ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ቤት"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ባርነት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:48:24.747585210Z",
+  "model": "glm-5.3"
+}

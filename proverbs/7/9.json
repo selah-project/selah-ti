@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ኣብ ምስሓቕ፣ ኣብ ምዝራብ ⟨ናይ⟩ መዓልቲ፣ ኣብ ጸልማት ለይቲን ጽንኩር ጸልማትን።",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "ኣብ ምስሓቕ"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ኣብ ምዝራብ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "ኣብ ጸልማት"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ለይቲ"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "ጽንኩር ጸልማትን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:44:00.015701110Z",
+  "model": "glm-5.3"
+}

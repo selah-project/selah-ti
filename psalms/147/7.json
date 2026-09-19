@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 147,
+  "translation": "ብውዳሰት ንያህዌህ ተዛረቡ፤ ብከበሮ ንኤሎሂምና ዝምሩ።",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "ተዛረቡ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ብውዳሰት"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ዝምሩ"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ንኤሎሂምና"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ብከበሮ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:05.178815306Z",
+  "model": "glm-5.3"
+}

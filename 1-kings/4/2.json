@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "እዚኦም ድማ እቶም ሳራዊ ንሱ ዝነበርዎም እዮም፤ ዓዛርያሁ ወዲ ጸዶቅ ካህን እዩ።",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "እዚኦም ድማ"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "እቶም ሳራዊ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ ዝነበርዎም"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "ዓዛርያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ጸዶቅ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ካህን"
+    }
+  ],
+  "timestamp": "2026-09-19T00:46:51.607593338Z",
+  "model": "glm-5.3"
+}

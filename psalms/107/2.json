@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ዝተዋጸኡ ናይ ያህዌህ ክብሉ፣ እቶም ካብ ኢድ ጸላኢ ዝዋጸኦም።",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "ክብሉ"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "ዝተዋጸኡ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ናይ ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቶም"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "ዝዋጸኦም"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ጸላኢ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:55.432703564Z",
+  "model": "glm-5.3"
+}

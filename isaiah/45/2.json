@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 45:2",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "ኣነ ቅድሚኻ እኸድ፣ እተቐንጻት እመላለስ፣ ናይ ሓሙሽተ ኣፍደገታት እሰብር፣ ብራሕታት ብረት ድማ እቁርጽ።",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ቅድሚኻ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "እኸድ"
+    },
+    {
+      "surface": "והדורים",
+      "gloss": "ንእተቐንጻት"
+    },
+    {
+      "surface": "אושר",
+      "gloss": "እመላለስ"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ኣፍደገታት"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "ናይ ሓሙሽተ"
+    },
+    {
+      "surface": "אשבר",
+      "gloss": "እሰብር"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "ንብራሕታት"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ብረት"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "እቁርጽ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:15:05.947155547Z",
+  "model": "glm-5.3"
+}

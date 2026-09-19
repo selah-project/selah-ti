@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ንስድራ ኣቭሃብ ከም ስድራ ያሮብዓም ወዲ ንባትን ከም ስድራ በዓሻ ወዲ ኣኺያን ክኸውን ኣብዚ እጽውዖ።",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ኣብዚ እጽውዖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስድራ ኣቭሃብ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ኣቭሃብ"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "ከም ስድራ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ያሮብዓም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ንባት"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "ከም ስድራ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "በዓሻ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ኣኺያ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:20:49.987725802Z",
+  "model": "glm-5.3"
+}

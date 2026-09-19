@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 85,
+  "translation": "ተሓቢኻ ዘይቲ ዕበይ ህዝቢኻ፣ ሓቢኻ ኩሉ ኃጢኣቶም። ስላሕ።",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "ተሓቢኻ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ዘይቲ ዕበይ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ህዝቢኻ"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "ሓቢኻ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ኃጢኣቶም"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ስላሕ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:14:55.547187117Z",
+  "model": "glm-5.3"
+}

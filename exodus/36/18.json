@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ንምስሓብ ⟨את⟩ እቲ ማዕዶ ብሓደ ንምኾን ነቓሕ ሃምሳ መታሕቢታት ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "መታሕቢታት"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ነቓሕ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ሃምሳ"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "ንምስሓብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ማዕዶ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ማዕዶ"
+    },
+    {
+      "surface": "להית",
+      "gloss": "ንምኾን"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:27:04.189934007Z",
+  "model": "glm-5.3"
+}

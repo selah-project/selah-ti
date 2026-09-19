@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ብዝወሓደ እኳ እቲ ክፉእ የለን፣ ነቲ ቦታኡ ተረዲእካ ድማ ከም ዘይርከብ ትረእይ ኢኻ።",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "ብዝወሓደ እኳ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ብዝወሓደ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "ከም ዝረኣይካ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ቦታኡ"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "የለን"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:05.582131860Z",
+  "model": "glm-5.3"
+}

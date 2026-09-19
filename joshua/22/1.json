@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 22:1",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ኣብ እቲ ዕዋት የሆሹዋዕ ነቶም ራኡባውያንን ነቶም ጋዲታትን ነቲ ንኻልእ ወገን ናይ ወዲ ምንሳሕ ኣሰማዖ።",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ኣብ እቲ ዕዋት"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ኣሰማዖ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "ነቶም ራኡባውያን"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "ንእሽቶኦም ጋዲታት"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "ንኻልእ ወገን"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ናይ ወዲ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ምንሳሕ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:31:28.631437003Z",
+  "model": "glm-5.3"
+}

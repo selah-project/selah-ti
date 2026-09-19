@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 138,
+  "translation": "ያህዌህ፣ ኩሉ ነገስቲ ምድሪ ይደኽምዋኻ እዮም፣ ምኽንያቱ ቃላት ኣፍካ ሰምዑ እዮም።",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ይደኽምዋኻ እዮም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ነገስቲ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ሰምዑ እዮም"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ቃላት"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ኣፍካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:58.846791197Z",
+  "model": "glm-5.3"
+}

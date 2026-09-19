@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 20:4",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ከምዚ ኮነ፣ ይሸዓያሁ ካብ እታ ማእኸላይቲ ከተማ ከይወጸን፣ ቃል ያህዌህ ድማ ናብኡ በጸሞ፣ ከምዚ ብሎ፦",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮነ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ይሸዓያሁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ከይ…ን"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "ማእኸላይቲ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ቃል…ውን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "በጸሞ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ናብኡ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ከምዚ ብሎ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:36:37.588265422Z",
+  "model": "glm-5.3"
+}

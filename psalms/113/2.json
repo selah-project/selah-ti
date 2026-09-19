@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 113,
+  "translation": "ስም ያህዌህ ዝተባረኽ ይኹን፣ ካብ ሕጂን ክሳብ ዘለኣለምን።",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ይኹን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "ዝተባረኽ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ካብ ሕጂ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:26:49.481656317Z",
+  "model": "glm-5.3"
+}

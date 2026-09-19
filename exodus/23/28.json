@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "እቲ ጐንጺ ⟨את⟩ ቅድሚኻ እስደሉ፣ ⟨את⟩ ሕዊታይን ⟨את⟩ ከነዓናይን ⟨את⟩ ሕታይን ካብ ቅድሚኻ እናወግዖ እዩ።",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "እስደሉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ጐንጺ"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "እቲ ጐንጺ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ቅድሚኻ"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "እናወግዖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሕዊታይ"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "እቲ ሕዊታይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ከነዓናይ"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "እቲ ከነዓናይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሕታይ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "እቲ ሕታይ"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "ካብ ቅድሚኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:29:51.619930355Z",
+  "model": "glm-5.3"
+}

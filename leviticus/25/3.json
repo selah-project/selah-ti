@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ሽድሽተ ዓመታት መርኺኻ ትዘርእ፣ ሽድሽተ ዓመታት ድማ በርኪኻ ትዕጽብ፣ ዕፀወኻውን ⟨את⟩ ትሓቦ።",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "ሽድሽተ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ትዘርእ"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "መርኺኻ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ሽድሽተ ድማ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ዓመታት"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "ትዕጽብ"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "በርኪኻ"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ትሓቦ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዕፀወኻ"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ዕፀወኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:07:59.343998156Z",
+  "model": "glm-5.3"
+}

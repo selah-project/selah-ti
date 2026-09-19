@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 147,
+  "translation": "ያህዌህ ትሑታት ደገፎም፣ ክፉኣት ክሳብ ምድሪ ድማ ይወርድ።",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "ደገፎም"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ትሑታት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "ይወርድ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ክፉኣት"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:05.178603390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 2:4",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እዚኦም ትውልዲ ሰማያትን ምድርን ኣብ ምፍጣርዎም፣ ኣብ ዕለት ምግባር ያህዌህ ኤሎሂም ምድሪን ሰማያትን።",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "ትውልዲ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያትን"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ምድርን"
+    },
+    {
+      "surface": "בהבראם",
+      "gloss": "ኣብ ምፍጣርዎም"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ ዕለት"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ምግባር"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪን"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "ሰማያትን"
+    }
+  ],
+  "timestamp": "2026-09-18T20:31:53.841256828Z",
+  "model": "glm-5.3"
+}

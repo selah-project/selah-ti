@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 146,
+  "translation": "ኣመስግኑ ያህ፤ ነፍሰይ ንያህዌህ ⟨את⟩ ተኣመስግኑ።",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ኣመስግኑ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ያህ"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "ተኣመስግኒ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:39:53.708525998Z",
+  "model": "glm-5.3"
+}

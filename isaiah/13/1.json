@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ኣክሊል ናይ ባቢሎን፣ እቲ የሸዓያሁ ወዲ ኣሞጽ ዝረኣዮ።",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ኣክሊል"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ናይ ባቢሎን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ዝረኣዮ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "የሸዓያሁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ኣሞጽ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:50:10.321449025Z",
+  "model": "glm-5.3"
+}

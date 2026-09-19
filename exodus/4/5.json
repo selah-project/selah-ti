@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ንብምኽንያት እቶም ናይ ኣቦታቶም ኤሎሂም፣ ናይ ኣቭራሃም ኤሎሂም፣ ናይ ይጽሓቅ ኤሎሂምን ናይ ያዕቆቭ ኤሎሂምን ያህዌህ ንንስኻ ምስ ተራእዮም እሞ ይኣመኑ።",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ንብምኽንያት"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "ይኣመኑ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ተራእዩ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ንንስኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ናይ ኣቦታቶም"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ይጽሓቅ"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ኤሎሂምን"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ያዕቆቭ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:13:53.507892516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 79,
+  "translation": "ንሕና ንጎይናትና ኣፍራሕ ኮይና፣ ንእቶም ዝሓብኣና እውን ስንቁርናን ዕላልን ኮይና።",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "ኮይና"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ኣፍራሕ"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "ንጎይናትና"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "ስንቁርና"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "ዕላልን"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "ንእቶም ዝሓብኣና"
+    }
+  ],
+  "timestamp": "2026-09-19T05:13:37.415691358Z",
+  "model": "glm-5.3"
+}

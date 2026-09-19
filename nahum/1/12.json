@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nahum 1:12",
+  "book": "nahum",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ከምዚ በለ ያህዌህ፦ ብዙሓት ሓለውቲ እንተ ኾኑ እውን፣ ከምኡን ብዙሓት እንተ ኾኑ እውን ከምዚ ተቐረጹ ይሓልፉ፤ ኣነ ጸገመካ እየ፣ ደጊምካ ኣይጸግምካን።",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "ሓለውቲ"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ከምኡን"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓት"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ከምኡን"
+    },
+    {
+      "surface": "נגזו",
+      "gloss": "ተቐረጹ"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "ይሓልፉ"
+    },
+    {
+      "surface": "וענתך",
+      "gloss": "ጸገመካ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "ኣጸግምካ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደጊምካ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:24:39.504576789Z",
+  "model": "glm-5.3"
+}

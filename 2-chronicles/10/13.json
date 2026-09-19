@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 10:13",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "እቲ ንጉስ ድማ ብንጽጽት መለሶሎም፤ እቲ ንጉስ ረሓብዓም ድማ ⟨את⟩ ክንድቲ ኣረጉታት ተወ።",
+  "tokens": [
+    {
+      "surface": "ויענם",
+      "gloss": "መለሶሎም"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ብንጽጽት"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ተወ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ረሓብዓም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክንድቲ ኣረጉታት"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ክንድቲ"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ኣረጉታት"
+    }
+  ],
+  "timestamp": "2026-09-19T08:01:33.717962869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ብርእሶም ቀጭነት ኣይገብሩን፣ ንወገን ነብሶም እውን ኣይተኮርዕዎን፣ ኣብ ስጋኦምን ቁርጺ ኣይበትሩን።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "ይገብሩ"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "ቀጭነት"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "ብርእሶም"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "ንወገን"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "ነብሶም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "ይተኮርዕዎ"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "ኣብ ስጋኦምን"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "ይበትሩ"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "ቁርጺ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:04:30.345664201Z",
+  "model": "glm-5.3"
+}

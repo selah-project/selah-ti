@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣብ ልዕሊ ሰራዊት ኩነታት ውላድ ይስሳኻር ድማ ነታናኤል ወዲ ጹዋር ነበረ።",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ሰራዊት"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ኩነታት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ይስሳኻር"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "ነታናኤል"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ጹዋር"
+    }
+  ],
+  "timestamp": "2026-09-18T22:19:20.833256508Z",
+  "model": "glm-5.3"
+}

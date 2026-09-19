@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ሻባት እቲ ምድሪ ንኹምኩም ንምግቢ ክኸውን እዩ — ንኻ፣ ንዓመድኻ፣ ንኣማእትኻ፣ ንዝተዋህረኻ፣ ንዝተቐመጠካ ድማ ብርኩም ካብ ዝጓዓዝሉ።",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ክኸውን"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ሻባት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እቲ ምድሪ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንኹምኩም"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "ንምግቢ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "ንዓመድኻ"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "ንኣማእትኻ"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "ንዝተዋህረኻ"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "ንዝተቐመጠካ"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "ዝጓዓዝ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስኻ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:06:29.607575006Z",
+  "model": "glm-5.3"
+}

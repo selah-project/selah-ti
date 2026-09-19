@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "እተን ኣገልገልትን ⟨את⟩ ውላደንን ቀዳማይ ኣቕሚዑ፣ ለዓንን ⟨את⟩ ውላዳን ኣብ ድሕሪት፣ ራሕልን ⟨את⟩ ዮሴፍን ኣብ ድሕሪ ኣቕሚዑ።",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ኣቕሚዑ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እተን ኣገልገልት"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "እተን ኣገልገልት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ውላደን"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "ውላደን"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "ቀዳማይ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ለዓን"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ለዓን"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "ውላዳ"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "ኣብ ድሕሪት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ራሕል"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ራሕል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዮሴፍ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "ኣብ ድሕሪ ኣቕሚዑ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:54:13.793228357Z",
+  "model": "glm-5.3"
+}

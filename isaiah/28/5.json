@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 28:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ኣብ እቲ መዓልቲ ያህዌህ ጸባኦት ንተሪዓት ህዝቡ ንዑስቲ ጽብቒን ንናይ ኽብሪ ዓበይቲን ክኸውን እዩ።",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ኣብ እቲ መዓልቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ክኸውን እዩ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "לעטרת",
+      "gloss": "ንዑስቲ"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "ጽብቒ"
+    },
+    {
+      "surface": "ולצפירת",
+      "gloss": "ንዓበይቲን"
+    },
+    {
+      "surface": "תפארה",
+      "gloss": "ናይ ኽብሪ"
+    },
+    {
+      "surface": "לשאר",
+      "gloss": "ንተሪዓት"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ህዝቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:58:58.770267934Z",
+  "model": "glm-5.3"
+}

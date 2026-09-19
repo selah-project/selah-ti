@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ውላድ ሽግር ሹማምቐቶም ክኸውኑ ኣሃበ፣ ዘይስርዓት ዝበሉ ድማ ብሳቶም ይእዝዙ እዮም።",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ኣሃበ"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ውላድ ሽግር"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "ሹማምቐቶም"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "ዘይስርዓት ዝበሉ"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "ይእዝዙ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ብሳቶም"
+    }
+  ],
+  "timestamp": "2026-09-19T08:48:00.016380248Z",
+  "model": "glm-5.3"
+}

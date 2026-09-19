@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ያህዌህ ድማ ናብ ነባብ በለ፤ ነባብ ድማ ዮናስን ⟨את⟩ ናብ ስሑቕ ምድሪ ተዓቢዩ ውዕልዎ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "ናብ ነባብ"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "ውዕልዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዮናስ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ዮናስ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ስሑቕ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:19:57.066052570Z",
+  "model": "glm-5.3"
+}

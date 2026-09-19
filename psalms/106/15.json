@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 106,
+  "translation": "ምለመኖም ሃበሎም፤ ብነፍሲኦም ድማ ጽንኩር ሰደደ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሃበሎም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ነይሮም"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "ምለመኖም"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "ጽንኩር"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "ብነፍሲኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:24:04.062664819Z",
+  "model": "glm-5.3"
+}

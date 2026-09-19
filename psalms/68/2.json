@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ኤሎሂም ይቐውም፤ ጠላእቱ ይተፈራርዩ፤ እቶም ዝጸልዑዎ ከኣ ካብ ቅድሚኡ ይህውኑ።",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "ይቐውም"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "ይተፈራርዩ"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "ጠላእቱ"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "ይህውኑ"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "እቶም ዝጸልዑዎ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ካብ ቅድሚኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:06.648178771Z",
+  "model": "glm-5.3"
+}

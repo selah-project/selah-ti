@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 38:9",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ጽሑፍ ናይ ሕዝቅያህ ንጉስ ናይ ይሁዳ፣ ብሕማቑ ኣብ ከይኑ ዝነበረ፣ ካብ ሕማቑ ምስ ሓወየ ዝተጻሕፈ።",
+  "tokens": [
+    {
+      "surface": "מכתב",
+      "gloss": "ጽሑፍ"
+    },
+    {
+      "surface": "לחזקיהו",
+      "gloss": "ናይ ሕዝቅያህ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "בחלתו",
+      "gloss": "ብሕማቑ ኣብ ከይኑ"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "ምስ ሓወየ"
+    },
+    {
+      "surface": "מחליו",
+      "gloss": "ካብ ሕማቑ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:05:57.433536717Z",
+  "model": "glm-5.3"
+}

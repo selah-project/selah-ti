@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ኣብ መቓብዒ ዓዲታት ይቐምጥ፣ ኣብ ምሕብርቲ ነቲ ጽድቂ ይቐትል፤ ኣይኑ ንደቂ ተሓገስቲ እናተሓበአ ይጽብይ።",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "ይቐምጥ"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "ኣብ መቓብዒ"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "ዓዲታት"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ኣብ ምሕብርቲ"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "ይቐትል"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ኣይኑ"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "ንደቂ ተሓገስቲ"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "ይጽብይ እናተሓበአ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:45:59.992379628Z",
+  "model": "glm-5.3"
+}

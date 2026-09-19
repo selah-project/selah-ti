@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 5:24",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኪሮም ድማ ንሽሎሞ ብዝደለዮ ኩሉ ጽሑቕ ኣርዙንን ጽሑቕ በሮሽን ይሃብ ነይሩ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "חירום",
+      "gloss": "ኪሮም"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ይሃብ ነይሩ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ንሽሎሞ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ጽሑቅ"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ኣርዙንን"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "ጽሑቅ"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "በሮሽን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "ብዝደለዮ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:50:39.906294623Z",
+  "model": "glm-5.3"
+}

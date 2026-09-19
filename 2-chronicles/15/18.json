@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "⟨את⟩ ቅዱሳት ኣቡሁን ቅዱሳቱን ድማ ናብ ቤት ኤሎሂም ኣእተዎም — ብር፣ ወርቂን መሳርሒታትን።",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ኣእተዎም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ቅዱሳት"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ቅዱሳት"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ናይ ኣቡሁ"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "ቅዱሳቱን"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ወርቂን"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "መሳርሒታትን"
+    }
+  ],
+  "timestamp": "2026-09-19T08:03:38.469525398Z",
+  "model": "glm-5.3"
+}

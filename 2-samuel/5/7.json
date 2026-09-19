@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ዳዊድ ድማ ⟨את⟩ ገዳሲ ጽዮን ተቓለሎ፤ እዚ ከተማ ዳዊድ እዩ።",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "ተቓለሎ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ገዳሲ"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "ገዳሲ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    },
+    {
+      "surface": "היא",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:25:34.164826021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ንበደይቲ ያሮብዓም እቲ ዝበደሐ፣ ከምኡውን እቲ ን⟨את⟩ እስራኤል እትበደሕ ዝገበራ፣ ብዝኣበዘዞ ን⟨את⟩ ያህዌህ ኤሎሂ እስራኤል።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "በደይቲ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ያሮብዓም"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ዝበደሐ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ከምኡውን እቲ"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "እትበደሕ ዝገበራ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "ብዝኣበዘዞ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "ዝኣበዘዞ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ ኤሎሂ እስራኤል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T01:04:16.643360737Z",
+  "model": "glm-5.3"
+}

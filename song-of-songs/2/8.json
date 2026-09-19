@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ቓል ወዲደይ! ኣየ፣ እዚ ይመጽእ እዩ፣ ኣብ ልዕሊ ኩነታት ይዳልገስ፣ ኣብ ልዕሊ ከረናት ድማ ይሽርሕ።",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ቓል"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ወዲደይ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ኣየ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ይመጽእ"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "ይዳልገስ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ኩነታት"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "ይሽርሕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ከረናት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:27:29.149943710Z",
+  "model": "glm-5.3"
+}

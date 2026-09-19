@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 18:5",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ወጻእ ⟨אתה⟩ ኣብ ሰባት ክፍልታት ይኽፈሉ፤ ይሁዳ ኣብ ድንበሩ ብደቡብ ይቕመጥ፣ ቤት ዮሴፍ ድማ ኣብ ድንበሮም ብሰሜን ይቕመጡ።",
+  "tokens": [
+    {
+      "surface": "והתחלקו",
+      "gloss": "ይኽፈሉ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "ኣብ ሰባት ክፍልታት"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "ኣብ ሰባት"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "ክፍልታት"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ይቕመጥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "ድንበሩ"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "ብደቡብ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ቤትን"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዮሴፍ"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ይቕመጡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ድንበሮም"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ብሰሜን"
+    }
+  ],
+  "timestamp": "2026-09-18T23:29:09.313857956Z",
+  "model": "glm-5.3"
+}

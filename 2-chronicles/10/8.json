@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ንሱ ድማ ⟨את⟩ እቲ ምክር እቶም በዓባይ ዝምክርዎ ተሪፎ፣ ምስ ⟨את⟩ እቶም ውላድ እቶም ምስ ⟨את⟩ ንሱ ዝዓበዩ ኣብ ቅድሚኡ ተቐሚጦም ዝነበሩ ተማከረ።",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "ተሪፎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ምክር"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ምክር"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "እቶም በዓባይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "ዝምክርዎ"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ተማከረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቶም ውላድ"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "እቶም ውላድ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ዝዓበዩ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ምስ ⟨את⟩ ንሱ"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ተቐሚጦም"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ኣብ ቅድሚኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:03:03.515353154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ከምኡውን ⟨את⟩ ክልተ ኩላሊትን ⟨את⟩ እቲ ስብሒ እቲ ኣብ ልዕሊአን ዘሎ፣ እቲ ኣብ ልዕሊ ክንፍሪ ዘሎ፣ ⟨את⟩ እቲ ክፍሊ ኣብ ልዕሊ ኩሓ፣ ምስ ኩላሊት ክወግና እዩ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ክልተ ኩላሊት"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ኩላሊት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ስብሒ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ስብሒ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ… ዘሎ"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "ኣብ ልዕሊአን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ… ዘሎ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "ክንፍሪ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ክፍሊ"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ክፍሊ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ኩሓ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "ኩላሊት"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ክወግና"
+    }
+  ],
+  "timestamp": "2026-09-18T21:48:57.162136399Z",
+  "model": "glm-5.3"
+}

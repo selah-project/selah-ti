@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ወፈያ ናይ ኣፈይ በጃኻ ያህዌህ ተቐበለያ፣ ፍትሕትካ ድማ ኣምሃረኒ።",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "ወፈያ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ናይ ኣፈይ"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "ተቐበለያ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "በጃኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "ፍትሕትካ"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ኣምሃረኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:30:25.025605296Z",
+  "model": "glm-5.3"
+}

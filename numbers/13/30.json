@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ካልዕብ ድማ ⟨את⟩ ነቲ ህዝቢ ንሞሸ ኣስሓረዮ፤ ከምኡ ድማ «ንወጹ ነውርሳ ⟨את⟩ ኣታ፣ ምኽንያቱ ንኽእላ ኢና» በለ።",
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "ኣስሓረዮ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ካልዕብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ህዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ነቲ ህዝቢ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ከምኡ ድማ…በለ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ንወጹ"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "ነውርሳ"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "ነውርሳ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ኣታ (እታ ምድሪ)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "ክንክእል"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "ንኽእላ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ኣታ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:24:29.342858610Z",
+  "model": "glm-5.3"
+}

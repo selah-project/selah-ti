@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "እቲ ከተማ ብዙርያ፣ ካብ እቲ ሚሎ ክሳብ እቲ ዙርያ ሃነጸ፤ ዮኣብ ድማ ⟨את⟩ ውሑድ እቲ ከተማ ሓለዎ።",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ሃነጸ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እቲ ከተማ"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ብዙርያ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "እቲ ሚሎ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "እቲ ዙርያ"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "ዮኣብ"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ሓለዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ውሑድ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ውሑድ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "እቲ ከተማ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:36:20.876870175Z",
+  "model": "glm-5.3"
+}

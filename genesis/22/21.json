@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "⟨את⟩ ዕውጽ ብኩርኡን ⟨ואת⟩ ቡዝ ሓውኡን ⟨ואת⟩ ቅሙውኤል ኣቢ ኣራምን።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዕውጽ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ዕውጽ"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ብኩርኡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ቡዝ"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "ቡዝ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ሓውኡ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ቅሙውኤል"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "ቅሙውኤል"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ኣቢ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    }
+  ],
+  "timestamp": "2026-09-18T20:44:56.016842792Z",
+  "model": "glm-5.3"
+}

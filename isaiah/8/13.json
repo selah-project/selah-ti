@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ያህዌህ ጸባኦት ⟨את⟩ ቅዱስ ገበርዎ፤ ንሱ ድማ ፍርሃትኹም እዩ፣ ንሱ ድማ ርእይታኹም እዩ።",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ ጸባኦት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ቅዱስ ገበርዎ"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "ቅዱስ ገበርዎ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ ድማ"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "ፍርሃትኹም"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ ድማ"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "ርእይታኹም"
+    }
+  ],
+  "timestamp": "2026-09-19T01:44:21.999976679Z",
+  "model": "glm-5.3"
+}

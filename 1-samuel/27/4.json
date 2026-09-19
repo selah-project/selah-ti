@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ናብ ሻኡል ድማ ተወልፈ ከም ዳዊድ ናብ ጋት ሰዓቡ፤ ንሱ ድማ ደገና ንኽደልዎ ዀይኑ ኣይተወሰኸን።",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ተወልፈ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ናብ ሻኡል"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ሰዓቡ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ናብ ጋት"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይተወሰኸን"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ዀይኑ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደገና"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "ንኽደልዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:18:09.758330892Z",
+  "model": "glm-5.3"
+}

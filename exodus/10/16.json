@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ፓርዖ ድማ ንሞሸን ንኣሃሮንን ንኽጥውዖም ብቕጽበት ተኣኻኸበ፤ «ንያህዌህ ኤሎሂኩምን ንኹምውን ዓመጽኩ» በሎም።",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "ብቕጽበት ተኣኻኸበ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "ንኽጥውዖም"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ንሞሸ"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ንኣሃሮንን"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎም"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ዓመጽኩ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኤሎሂኩም"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "ንኹምውን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:17:29.752733734Z",
+  "model": "glm-5.3"
+}

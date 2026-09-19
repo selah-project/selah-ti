@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ካብ ቅድመኻ ፍርዲ ውጹእ፤ ዓይኒኻ ቲኻ ማላይ ይረኣያ።",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "ካብ ቅድመኻ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ፍርዲ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ውጹእ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ዓይኒኻ"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "ይረኣያ"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ማላይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:47:02.560900346Z",
+  "model": "glm-5.3"
+}

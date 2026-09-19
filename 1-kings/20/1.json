@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ወዲ ሓዳድ ንጉስ ኣራም ⟨את⟩ ኩሉ ሓይሉ ኣካቢሱ፣ ሰላሳን ክልተን ንጉሳት ⟨את⟩ ምስኡ፣ ፈረሰኛን መሃለን ነይሩ፤ ወጸ ድማ፣ ኣብ ልዕሊ ሽምሮን ኣከቦ፣ ምሳኣ ድማ ተዓገተ።",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ሓዳድ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "ኣካቢሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ሓይሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ሓይሉ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ሰላሳን"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ክልተን"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሳት"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ምስኡ"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "ፈረሰኛን"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "መሃለን"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ኣከቦ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ሽምሮን"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ተዓገተ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ምሳኣ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:44:37.339216299Z",
+  "model": "glm-5.3"
+}

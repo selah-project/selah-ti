@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 101,
+  "translation": "ልብ ዝዓቐጸ ካብኣይ ይርሕብ፤ ክፉእ ኣይፈልጦን እየ።",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "ልብ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ዝዓቐጸ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ይርሕብ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ካብኣይ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "እፈልጥ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:36.686587115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ትምህርቲ ዝፈትወ ፍልጠት ይፈትው፤ ተዛርብታ ዝጸልሞ ግና ከም እንስሳ ⟨እዩ⟩።",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ዝፈትወ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ትምህርቲ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ይፈትው"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ፍልጠት"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "ዝጸልሞ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ተዛርብታ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ከም እንስሳ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:48:08.610135386Z",
+  "model": "glm-5.3"
+}

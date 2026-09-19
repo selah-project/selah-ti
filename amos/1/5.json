@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 1:5",
+  "book": "amos",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣነ ብርዒኽ ደማስቆ እሰብር፣ ነቲ ኣብ ሸለቆ ኣወን ዘመነኛ እኽሪዑ፣ ነቲ ስጕም ካብ ቤት ኤደን ዝወስድ ድማ፤ ሕዝቢ ኣራም ናብ ቂር ክስደድ እዩ፣ በለ ያህዌህ።",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "እሰብር"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "ብርዒኽ"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ደማስቆ"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "እኽሪዑ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ዘመነኛ"
+    },
+    {
+      "surface": "מבקעת",
+      "gloss": "ካብ ሸለቆ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ኣወን"
+    },
+    {
+      "surface": "ותומך",
+      "gloss": "ዝወስድ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ስጕም"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ቤት"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ኤደን"
+    },
+    {
+      "surface": "וגלו",
+      "gloss": "ክስደዱ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ኣራም"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "ናብ ቂር"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:14:29.667123032Z",
+  "model": "glm-5.3"
+}

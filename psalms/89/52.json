@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ከምዚ ኣታዊትካ ያህዌህ ዝውሕሱሉ፣ ከምዚ ኣብ እግሪ ማሺያሕኻ ዝውሕሱሉ።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "ዝውሕሱሉ"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "ኣታዊትካ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "ዝውሕሱሉ"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "ኣብ እግሪ"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "ማሺያሕኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:17:21.286462528Z",
+  "model": "glm-5.3"
+}

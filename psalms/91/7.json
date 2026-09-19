@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 91,
+  "translation": "ሺሕ ኣብ ጎንኻ ይወድቕ፣ ወሽምተ ኣብ የማንካ፤ ናባኻ ግን ኣይቐርብን።",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "ይወድቕ"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "ኣብ ጎንካ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ሺሕ"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "ወሽምተ ድማ"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "ኣብ የማንካ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናባኻ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "ቐርብ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:42.943949996Z",
+  "model": "glm-5.3"
+}

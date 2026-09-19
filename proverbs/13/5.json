@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 13,
+  "translation": "ቃል ሓሶት እቲ ጻድቕ ይጸቕሎ እዩ፣ እቲ ክፉእ ድማ ይሕመቕን ይዕረፍን እዩ።",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ይጸቕሎ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቕ"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "ይሕመቕ"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "ይዕረፍ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:47:02.454218184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ነቲ ቤት ⟨את⟩ ንምንጻዕ ክልተ ወፍቲትን ዓንዲ ኣርዙስን ቀይሕ ስንባድን ኣዞብን ወሲዱ።",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "ንምንጻዕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ቤት"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ነቲ ቤት"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "ወፍቲት"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ዓንዲን"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ኣርዙስ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ቀይሕን"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ስንባድ"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "ኣዞብን"
+    }
+  ],
+  "timestamp": "2026-09-18T21:55:30.461693438Z",
+  "model": "glm-5.3"
+}

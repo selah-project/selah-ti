@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 20:11",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 20,
+  "translation": "ንጉስ እስራኤል ድማ መልሱ ተዛረበ፦ «ብሉ፦ ነቲ ዝተኣከበ ከም ነቲ ዝኸውኽ ኣይውራይን።»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መልሱ ተዛረበ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ብሉ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "ውራይን"
+    },
+    {
+      "surface": "חגר",
+      "gloss": "ነቲ ዝተኣከበ"
+    },
+    {
+      "surface": "כמפתח",
+      "gloss": "ከም ነቲ ዝኸውክ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:07:41.559216350Z",
+  "model": "glm-5.3"
+}

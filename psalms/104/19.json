@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 104:19",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 104,
+  "translation": "ጨረቃ ንበዓላት ገበረ፤ ፀሓይ ድማ ነቲ ውራዳ ትፈልጥ።",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ጨረቃ"
+    },
+    {
+      "surface": "למועדים",
+      "gloss": "ንበዓላት"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ፀሓይ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ትፈልጥ"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "ነቲ ውራዳ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:21:44.216746407Z",
+  "model": "glm-5.3"
+}

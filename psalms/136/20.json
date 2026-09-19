@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 136,
+  "translation": "ወን ንዕግ ንጉስ ባሻን፣ ምኽንዳዊ — ምኽንያቱ ናብ ዘለኣለም ሔሴዱ እዩ።",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "ወን ንዕግ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ባሻን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ናብ ዘለኣለም"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ሔሴዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:01.214030357Z",
+  "model": "glm-5.3"
+}

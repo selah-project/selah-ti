@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "የዳኽእ ዝወርድ ድማ ይሰጉም፡ እቶም ደካዊታት ብሓይሉ ይወድቑ።",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "የዳኽእ"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "ዝወርድ ድማ ይሰጉም"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ይወድቑ"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "ብሓይሉ"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "እቶም ደካዊታት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:44:41.700914398Z",
+  "model": "glm-5.3"
+}

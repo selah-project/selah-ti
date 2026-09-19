@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ኣብ ምሸት ድማ ላቫን ⟨את⟩ ለዓሃ ጓሉ ወሲዱ ⟨את⟩ ናብኡ ኣእተዋ፣ ንሱ ድማ ናብኣ ኣተወ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ኣብ ምሸት"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ወሲዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ለዓሃ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ለዓሃ"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ጓሉ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ኣእተዋ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ንሳ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ናብኡ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ኣተወ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ናብኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:50:39.419427672Z",
+  "model": "glm-5.3"
+}

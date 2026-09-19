@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "ኣብ እስራኤል ድማ ከም ሞሸ ዝኣመሰለ ነብዪ ደግሞ ኣይተበጽሐን፤ ያህዌህ ገጽ ምስ ገጽ ዝፈለጶኡ።",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "קם",
+      "gloss": "ተበጽሐ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ነብዪ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ኣብ እስራኤል"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "ከም ሞሸ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ዝፈለጶኡ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ገጽ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:15:41.440256934Z",
+  "model": "glm-5.3"
+}

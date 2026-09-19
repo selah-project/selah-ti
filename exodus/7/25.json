@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ሰባት መዓልታት ተማልአ፣ ድሕሪ ምውቃዕ ያህዌህ ⟨את⟩ እቲ ወዲ ለይቲ።",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "ተማልአ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "ምውቃዕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ወዲ ለይቲ"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "እቲ ወዲ ለይቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:17:29.424933362Z",
+  "model": "glm-5.3"
+}

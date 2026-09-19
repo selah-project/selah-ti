@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 16:14",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ስለዚ ነቲ ባሮ ባር ላሕይ ሮኣይ በሃሎ፤ እንሆ ኣብ መንጎ ቃደሽን ኣብ መንጎ በረድን ኣሎ።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ዚ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "በሃሎ"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "ነቲ ባሮ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ባር"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "ላሕይ"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ሮኣይ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እንሆ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ቃደሽ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "በረድ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:39:36.658948653Z",
+  "model": "glm-5.3"
+}

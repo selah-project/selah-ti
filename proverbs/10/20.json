@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ምርጫ ብር እዩ ልሳን ጻድቅ፤ ልቢ ኣጥፍዓት ድማ ከም ንእሽቶ።",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "ብር"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "ምርጫ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ልሳን"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ጻድቅ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ኣጥፍዓት"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ከም ንእሽቶ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:46:10.186894715Z",
+  "model": "glm-5.3"
+}

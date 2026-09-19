@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ኣይፈለጥዎን፣ ከምኡውን ኣይረድእዎን፤ ምኽንያቱ ካብ ምርኣይ ዓይኖም ተሓጺበ፣ ካብ ምርድእ ልቦም ተሓጺበ።",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ፈለጥዎን"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ከምኡውን ኣይ"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ረድእዎን"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "טח",
+      "gloss": "ተሓጺበ"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ካብ ምርኣይ"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ዓይኖም"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "ካብ ምርድእ"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "ልቦም"
+    }
+  ],
+  "timestamp": "2026-09-19T02:15:42.040354661Z",
+  "model": "glm-5.3"
+}

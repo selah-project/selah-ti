@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 114,
+  "translation": "ካብ ቅድሞ ׌συτጋ ምድሪ ተሓዘለት፣ ካብ ቅድሞ אלוה יעקב።",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "ካብ ቅድሞ"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ጎይታ"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "ተሓዘለት"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ካብ ቅድሞ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "אلوه"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "יעקב"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:45.211391295Z",
+  "model": "glm-5.3"
+}

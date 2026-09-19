@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 6:18",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ዳዊድ ምስ ኣወጸ እቲ ዕላ ወፈያን እተን ሰላም-ወፈያታትን፡⟨את⟩ እቲ ህዝቢ ብስም ያህዌህ ጸባኦት ባረኸ።",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ምስ ኣወጸ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "ኣወጸ"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "ዕላ ወፈያ"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "ሰላም-ወፈያታት"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ባረኸ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ብስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ጸባኦት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:27:08.631387707Z",
+  "model": "glm-5.3"
+}

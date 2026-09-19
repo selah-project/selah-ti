@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ሓይልካ ንሰንበታት ኣይትሃበን፣ መገድታትካውን ንምውዳእ ንጉሳት ኣይትሃበን።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ትሃብ"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "ንሰንበታት"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "ሓይልካ"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "ወመገድታትካ"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "ንምውዳእ"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "ንጉሳት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:00:55.598411183Z",
+  "model": "glm-5.3"
+}

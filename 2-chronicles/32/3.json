@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ምስ መኳንንቱን ጠንካሮቱን ተማከረ፣ እቶም ካብ ደገ ወጻኢ እቲ ከተማ ዝርከቡ ምንጭታት ⟨את⟩ ማይ ንምዝግኡ፤ ንሱውን ሓወይዎ።",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "ተማከረ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "መኳንንቱ"
+    },
+    {
+      "surface": "וגבריו",
+      "gloss": "ጠንካሮቱ"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "ንምዝግኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ማይ እቶም ምንጭታት"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "ማይ"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "እቶም ምንጭታት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ካብ ደገ ወጻኢ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "እቲ ከተማ"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "ሓወይዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:20:31.782924863Z",
+  "model": "glm-5.3"
+}

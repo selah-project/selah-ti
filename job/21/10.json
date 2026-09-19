@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 21:10",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ሓርማዮም ወሲኑ ኣይጎድልን፣ ላሕሚቶም ተወልዳ ኣይትሰዓርን።",
+  "tokens": [
+    {
+      "surface": "שורו",
+      "gloss": "ሓርማይ ኣቶም"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ወሲኑ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יגעל",
+      "gloss": "ኣይጎድልን"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "ተወልዳ"
+    },
+    {
+      "surface": "פרתו",
+      "gloss": "ላሕሚት ኣቶም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "ኣይትሰዓርን"
+    }
+  ],
+  "timestamp": "2026-09-19T06:13:28.613010943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ዕዚውን ሓደ ወሊዱ ⟨את⟩ ዘረሕያ፣ ዘረሕያውን ሓደ ወሊዱ ⟨את⟩ ምራዮት።",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "ዕዚውን"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ሓደ ወሊዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዘረሕያ"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "ዘረሕያ"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "ዘረሕያውን"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ሓደ ወሊዱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምራዮት"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "ምራዮት"
+    }
+  ],
+  "timestamp": "2026-09-19T07:32:18.015859173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 89,
+  "translation": "ምስ ተመራጭይ ኪዳን ቐረጕኩ፤ ንዳዊድ ኣገልገልተይ ኣይ በልኩ።",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "ቐረጕኩ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ኪዳን"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "ምስ ተመራጭይ"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ኣይ በልኩ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ንዳዊድ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ኣገልገልተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:16.384006656Z",
+  "model": "glm-5.3"
+}

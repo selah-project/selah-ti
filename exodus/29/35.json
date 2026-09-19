@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 29:35",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ነቲ ኣሕራንን ንውላዱን ከምዚ ተገብር፣ ኩሉ እዚ ዝኣዘዝኩስካ ⟨אתכה⟩፤ ሸውዓተ መዓልታት ኢዶም ኣእቱ።",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ተገብር"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ነቲ ኣሕራን"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ንውላዱን"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ-"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ዝኣዘዝኩስካ"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨אתכה⟩",
+      "marks": "ንስኻ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ሸውዓተ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ኣእቱ ምልኣት"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ኢዶም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:34:09.510203122Z",
+  "model": "glm-5.3"
+}

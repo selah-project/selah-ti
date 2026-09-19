@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ነቶም ክልተ ውላዳ ኣባኣ ድማ ⟨את⟩ ኣብ ውሽጢ ዝነገረ፦ ስም ሓደ ጌርሸም እዩ፣ ምኽንያቱ «ኣብ ምድሪ ረባዊቲ ሃገር ተባዕታይ እየ ነይረ» በለ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ክልተ ውላዳ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ውላዳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "גרשם"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ተባዕታይ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ነይረ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "ረባዊቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:25:36.688383579Z",
+  "model": "glm-5.3"
+}

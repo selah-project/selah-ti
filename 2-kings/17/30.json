@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ሰባት ባቢሎን ⟨את⟩ ሱኮት-ብኖት ገበሩ፣ ሰባት ኩት ⟨את⟩ ነርጋል ገበሩ፣ ሰባት ሕማት ድማ ⟨את⟩ ኣሺማ ገበሩ።",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባቢሎን"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሱኮት-ብኖት"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "ሱኮት"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ብኖት"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "כות",
+      "gloss": "ኩት"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነርጋል"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "ነርጋል"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ሕማት"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ገበሩ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሺማ"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "ኣሺማ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:30:57.471390389Z",
+  "model": "glm-5.3"
+}

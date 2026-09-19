@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኣብ እቲ ጽሑፍ ድማ ከምዚ ብምባል ጸሓፈ፦ «ኡርያ ⟨את⟩ ናብ ቅድሚ ገጽታ ናይ እቲ ጽኑዕ ውግእ ሃቡ፣ ካብ ድሕሪኡ ተመለሱ፣ ኪተታሕን ኪሞት።»",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ጸሓፈ"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "ኣብ እቲ ጽሑፍ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ከምዚ ብምባል"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ሃቡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኡርያ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ኡርያ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽታ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ናይ እቲ ውግእ"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "ጽኑዕ"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "ተመለሱ"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "ካብ ድሕሪኡ"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "ኪተታሕን"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ኪሞት"
+    }
+  ],
+  "timestamp": "2026-09-19T00:29:35.116729457Z",
+  "model": "glm-5.3"
+}

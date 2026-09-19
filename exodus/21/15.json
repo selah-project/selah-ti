@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ኣቦኡ ወይ ኣደኡ ዝወርዮ ብእምሉ ክቕተል እዩ።",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "ዝወርዮ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ወይ ኣደኡ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ብእምሉ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ክቕተል እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:28:05.072916252Z",
+  "model": "glm-5.3"
+}

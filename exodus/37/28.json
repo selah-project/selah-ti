@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 37,
+  "translation": "ወድሕሪኡ ⟨את⟩ ኣኽቢርታት ብዓንዲ ሽቲም ገበረ፤ ድማ ⟨אתם⟩ ብወርቂ ተሓባበሮም።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣኽቢርታት"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ኣኽቢርታት"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ዓንዲ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ሽቲም"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ተሓባበሮም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ኣኽቢርታት"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ወርቂ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:43:07.289502757Z",
+  "model": "glm-5.3"
+}

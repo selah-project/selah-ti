@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ቃይን ድማ ⟨את⟩ ሰበይቱ ሓበያ፤ ንሳ ድማ ኸውና፣ ሕኖኽ ድማ ሓጽረት። ንሱ ድማ ከተማ ሰርሖ፣ ነታ ከተማ ድማ ከም ስም ወዱ ሕኖኽ በሎ።",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ሓበያ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ቃይን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሰበይቱ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ሰበይቱ"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ኸውና"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ሓጽረት"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕኖኽ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ሕኖኽ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሰርሖ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ከም ስም"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ነታ ከተማ"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "ከም ስም"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዱ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ሕኖኽ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:31:14.199133319Z",
+  "model": "glm-5.3"
+}

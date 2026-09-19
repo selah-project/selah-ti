@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ኣብ ጉባኤ ህዝቢ ዪውርምዎ፣ ኣብ መንበር ሽማግለታት ድማ ዪስብሕዎ።",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "ዪውርምዎ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ኣብ ጉባኤ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "ኣብ መንበር"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ሽማግለታት"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "ዪስብሕዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:38.736369700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ኣቭራሃም ዝነበሮ ⟨את⟩ ዅሉ ንይጽሓቅ ሃበ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሃቐ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ኣቭራሃም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዅሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ዅሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ንይጽሓቅ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:47:37.992216389Z",
+  "model": "glm-5.3"
+}

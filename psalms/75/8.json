@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 75,
+  "translation": "ምኽንያቱ ኤሎሂም እዩ ፈላሚ፤ እዚ የውርዶ እሞ እቲ ካልኣይ ድማ የሕሉ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ፈላሊ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "የውርዶ"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "እቲ ካልኣይ"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "የሕሉ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:10:24.240382937Z",
+  "model": "glm-5.3"
+}

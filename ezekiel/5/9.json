@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ኣብኣኻ እውን ⟨את⟩ ዝገበርኩሉ ዘይኮነ ነገርን ⟨ואת⟩ ከምኡ ድማ እንግሮ ከይገበርኩ ዝኾነ ነገርን እገበር፣ ብምኽንያት ኩሉ ኣፍደጋትኻ።",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "እገበር"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ኣብኣኻ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝገበርኩሉ ዘይኮነ ነገር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ገበርኩ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ከምኡ እንግሮ ከይገበርኩ ዝኾነ ነገር"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ክገብር"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "እንግሮ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ብምኽንያት"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "ኣፍደጋትኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:23:49.208086886Z",
+  "model": "glm-5.3"
+}

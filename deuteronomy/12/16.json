@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ጥራይ እቲ ደም ኣይትብሉን፤ ኣብ ምድሪ ከም ማይ ኣብዛይዎ።",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ጥራይ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "እቲ ደም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ትብሉን"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ኣብዛይዎ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ከም ማይ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:55:56.281439689Z",
+  "model": "glm-5.3"
+}

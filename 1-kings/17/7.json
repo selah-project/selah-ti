@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ኮይኑ ድማ ኣብ መወዳእታ መዓልታት እቲ ሓውሒ ደረቐ፣ ምኽንያቱ ምኽሳል ኣብ ምድሪ ኣይነይርን።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኮይኑ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ኣብ መወዳእታ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "ደረቐ"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "እቲ ሓውሒ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "ምኽሳል"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:02:32.192159642Z",
+  "model": "glm-5.3"
+}

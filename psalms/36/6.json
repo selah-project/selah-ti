@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 36,
+  "translation": "ያህዌህ፣ ሔሴድካ ኣብ ሰማያት ኣሎ፤ እምነትካ ክሳብ ደመናታት ይበጽሕ እዩ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "ኣብ ሰማያት"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ሔሴድካ"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "እምነትካ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ደመናታት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:54:12.029748079Z",
+  "model": "glm-5.3"
+}

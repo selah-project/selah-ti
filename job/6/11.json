@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 6:11",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እንታይ ኩልናይ እዩ እሞ እኸተጸብእ? እንታይ ወጥያ እዩ እሞ ነፍሰይ እኣርይማ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ኩልናይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "እኸተጸብእ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "ወጥያ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "እኣርይማ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:04:18.010803634Z",
+  "model": "glm-5.3"
+}

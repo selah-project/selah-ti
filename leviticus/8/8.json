@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣብ ላዕሊኡ ⟨את⟩ እቲ ደረ-ልቢ ኣቐመጠ፣ ኣብ እቲ ደረ-ልቢ ድማ ⟨את⟩ ኡራይምን ⟨ואת⟩ ቱምምን ኣእተወ።",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ኣቐመጠ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ላዕሊኡ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ደረ-ልቢ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "እቲ ደረ-ልቢ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ኣእተወ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "እቲ ደረ-ልቢ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኡራይም"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "ኡራይም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "ቱምም"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "ቱምም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:53:36.739536938Z",
+  "model": "glm-5.3"
+}

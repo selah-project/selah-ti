@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 52,
+  "translation": "ጉድኣታት ብልሳንካ ትሓስብ፣ ከም ማንጻዪ ስሉስ፣ አብቲ ዘስርሕ አበዚኣይነት።",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "ጉድኣታት"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "ትሓስብ"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ብልሳንካ"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "ከም ማንጻዪ"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "ስሉስ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዘስርሕ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "አበዚኣይነት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:02:47.764725924Z",
+  "model": "glm-5.3"
+}

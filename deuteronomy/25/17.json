@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ኣስተውዕል እቲ ዝገበረካ ዓማሌቅ ⟨את⟩ ኣብ መገዲ፣ ኣብ እንተወጽእኹም ካብ ሚጽራይም።",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ኣስተውዕል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ዝገበረካ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ-"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበረካ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ዓማሌቅ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ኣብ መገዲ"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "ኣብ እንተወጽእኹም"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ካብ ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T23:03:37.096513303Z",
+  "model": "glm-5.3"
+}

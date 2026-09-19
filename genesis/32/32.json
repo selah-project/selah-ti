@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ንሱ ድማ ፕኑኤል ምስ ሓለፈ ⟨את⟩ ፀሓይ ኣብ ርእሱ ደየቐቶ፣ ንሱ ድማ ኣብ ልዕሊ ክርዑ ሓንኩስ ነበረ።",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "ደየቐቶ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ኣብ ርእሱ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ፀሓይ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ኣብ እዚ እንገበር ምስ ሓለፈ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ሓለፈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ፕኑኤል"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "ፕኑኤል"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ንሱ ድማ"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "ሓንኩስ ነበረ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "ክርዑ"
+    }
+  ],
+  "timestamp": "2026-09-18T20:52:34.550218389Z",
+  "model": "glm-5.3"
+}

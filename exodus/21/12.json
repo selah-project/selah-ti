@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ሰብ ዝሓትቶ እሞ ሞተ፣ ብሞት ይቕተል።",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "ዝሓትቶ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "እሞ ሞተ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ብሞት"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ይቕተል"
+    }
+  ],
+  "timestamp": "2026-09-18T21:27:07.780082923Z",
+  "model": "glm-5.3"
+}

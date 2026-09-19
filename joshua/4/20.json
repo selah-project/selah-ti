@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ከምኡውን እተን ክልተ ዓሰርተ መዓስንቲ ⟨את⟩ እዘን ካብ የርዳን ዝወሰዱሉ፣ የሆሹዋዕ ኣብ ግልገል ኣቕሚሑ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እተን ክልተ ዓሰርተ መዓስንቲ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ዓሰርተ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "እተን መዓስንቲ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "እዘን"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ዝወሰዱ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "የርዳን"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ኣቕሚሑ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "የሆሹዋዕ"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "ኣብ ግልገል"
+    }
+  ],
+  "timestamp": "2026-09-18T23:16:09.663474594Z",
+  "model": "glm-5.3"
+}

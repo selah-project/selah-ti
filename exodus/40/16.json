@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 40,
+  "translation": "ሞሸ ድማ ከም ኩሉ እቲ ያህዌህ ⟨את⟩ ዝኣዘዞ ከምኡ ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ከም ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ዝኣዘዞ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ሞሸ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ገበረ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:46:14.635235490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ከይቲ ኣፍታት ሓሶት ንያህዌህ ሓቕሳ እዩ፤ እቶም ብኣምና ዝገብሩ ግን ፍቕርቱ እዮም።",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "ሓቕሳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ኣፍታት"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "ዝገብሩ ግን"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ብኣምና"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "ፍቕርቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:47:03.687285664Z",
+  "model": "glm-5.3"
+}

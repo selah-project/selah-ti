@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ካብኡ ተኣሳሱሎም፣ ኣብ ⟨the⟩ ሩባ ዘረድ ድማ ሰፈሩ።",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "ካብኡ"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "ተኣሳሱሎም"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ሰፈሩ"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ኣብ ሩባ"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "ዘረድ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:29:00.287101245Z",
+  "model": "glm-5.3"
+}

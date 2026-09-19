@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 74,
+  "translation": "ምልክታትና ኣይረኣይናን፣ ነቢዪ ኸኣ ደጊምና የለን፣ ምስ ንሕና ⟨את⟩ እቲ ክሳብ መዓስ ዝፈልጥ ኸኣ የለን።",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "ምልክታትና"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "ረኣይናን"
+    },
+    {
+      "surface": "אין",
+      "gloss": "የለን"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደጊምና"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ነቢዪ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "የለን፣"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ምስ ንሕና",
+      "marks": "ምስ ንሕና"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ዝፈልጥ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "መዓስ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:09:38.159658268Z",
+  "model": "glm-5.3"
+}

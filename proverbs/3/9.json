@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ያህዌህን ⟨את⟩ ብንብረትካ ኣኽብሮ፣ ድማ ብበሊጹ ኩሉ ኣፍርቒትካ ኣኽብሮ።",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "ኣኽብሮ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "ብንብረትካ"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "ድማ ብበሊጹ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "ኣፍርቒትካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:42:07.300789035Z",
+  "model": "glm-5.3"
+}

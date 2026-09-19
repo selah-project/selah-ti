@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 131,
+  "translation": "እወ ነፍሰይ ኣሕሊየዋ ብርኩት ኣብኣታ ከም ተወጽዩ ቆልዑ ኣብ ኣደኡ፤ ከም ተወጽዩ ቆልዑ ኣባይ እያ ነፍሰይ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እወ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ብርኩት"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "ኣሕሊየያ"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "ብርኩት ኣብኣታ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "ከም ተወጽዩ ቆልዑ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ኣደኡ"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "ከም ተወጽዩ ቆልዑ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ኣባይ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:47.024027538Z",
+  "model": "glm-5.3"
+}

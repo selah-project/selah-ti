@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "መልኣኽ ያህዌህ ድማ ንኣባታ በሎ፦ «እብዛሕ እበዝን ንዘርኪ ⟨את⟩፣ ብዝብዛዕ ኣይቑጸርን።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ንኣባታ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "መልኣኽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "እብዛሕ"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "እበዝን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ንዘርኪ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ንዘርኪ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ይቑጸር"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ብዝብዛዕ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:24:16.982390817Z",
+  "model": "glm-5.3"
+}

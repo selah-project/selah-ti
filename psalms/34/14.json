@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 34,
+  "translation": "በታ ትርጉም ናትካ ካብ ክፉእ ሓልው፣ በታቶም ከንፈትካ ድማ ካብ ምዃብ ብተክለኝነት ጠሊም።",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "ሓልው"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "በታ ትርጉም ናትካ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ካብ ክፉእ"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "በታቶም ከንፈትካ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ካብ ምዃብ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ብተክለኝነት"
+    }
+  ],
+  "timestamp": "2026-09-19T04:53:07.611049791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ወዲ፣ ⟨את⟩ ያህዌህ ከምኡውን እቲ ንጉስን ስፈርሕ፤ ምስ ዝተለወጡ ግን ኣይትኸውን።",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "ስፈርሕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "እቲ ንጉስን"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "ዝተለወጡ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "ትኸውን"
+    }
+  ],
+  "timestamp": "2026-09-19T09:05:34.482514977Z",
+  "model": "glm-5.3"
+}

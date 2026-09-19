@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "እቲ ሕዝቢ ነቶም ኣብ የሩሻላይም ንኽነብሩ ብፈቃዶም ዝተበገሱ ሰባት ኩሎም በረከቶም።",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "በረከቶም"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቢ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ነቶም ኩሎም"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "ብፈቃዶም ዝተበገሱ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ንኽነብሩ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ኣብ የሩሻላይም"
+    }
+  ],
+  "timestamp": "2026-09-19T07:27:11.919875745Z",
+  "model": "glm-5.3"
+}

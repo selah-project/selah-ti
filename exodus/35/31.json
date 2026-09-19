@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 35,
+  "translation": "ንእሱ ድማ ብመንፈስ ኤሎሂም ብጥበብን ብምርዳእን ብፍልጠትንን ኣብ ኩሉ ግብሪን ⟨את⟩ ሞላዎ።",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "ሞላዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንእሱ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "መንፈስ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ብጥበብ"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "ብምርዳእ"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "ብፍልጠትን"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ኣብ ኩሉ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ግብሪ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:42:11.744975741Z",
+  "model": "glm-5.3"
+}

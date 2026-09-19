@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ነቲ መልኣኽ ምስ ኣይ ዝዛረብ ተዛረብኩ፦ «ናበይ እየን እታ ኤፋማ ⟨את⟩ እናወስዓ?»",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ተዛረብኩ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "መልኣኽ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ዝዛረብ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ምስ ኣይ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ናበይ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "እየን"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "እናወስዓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ኤፋማ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "እታ ኤፋማ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:33:26.230299401Z",
+  "model": "glm-5.3"
+}

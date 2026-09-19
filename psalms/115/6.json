@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 115,
+  "translation": "ኣደግኣም ኣሎዎም፣ ኣይሰምዑን፤ ኣፍንጫ ኣሎዎም፣ ኣይሕመቡን።",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "ኣደግኣም"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ኣሎዎም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ሰምዑ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ኣፍንጫ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ኣሎዎም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "ሕመቡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:27:13.070605917Z",
+  "model": "glm-5.3"
+}

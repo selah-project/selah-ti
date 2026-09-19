@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ማስኮት ንሓንሰብ፣ ቅንጭር ንኣውርድ፣ ቐንጢል ድማ ንጀርባ እስያት።",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "ማስኮት"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "ንሓንሰብ"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "ቅንጭር"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "ንኣውርድ"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "ንቐንጢልን"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "ንጀርባ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "እስያት"
+    }
+  ],
+  "timestamp": "2026-09-19T05:57:01.826728869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ዮኤል እቲ ርእሲ፣ ሻፋም እቲ ካልኣይ፣ ያዕናይን ሻፋጥን ኣብ ባሻን።",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "ዮኤል"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "እቲ ርእሲ"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "ሻፋም"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "እቲ ካልኣይ"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "ያዕናይ"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ሻፋጥ"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "ኣብ ባሻን"
+    }
+  ],
+  "timestamp": "2026-09-19T07:31:51.828009749Z",
+  "model": "glm-5.3"
+}

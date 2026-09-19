@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 10:23",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ንጉስ ሽሎሞ ድማ ኣብ ሃብትን ኣብ ጥበብን ካብ ኩሎም ነገስታት ዓለም ንላዕሊ ዓበየ።",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "ዓበየ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ካብ ኩሉ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ነገስታት"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ዓለም"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "ኣብ ሃብት"
+    },
+    {
+      "surface": "ולחכמה",
+      "gloss": "ንኣብ ጥበብ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:54:34.232205669Z",
+  "model": "glm-5.3"
+}

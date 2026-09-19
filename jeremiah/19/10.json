@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 19:10",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 19,
+  "translation": "ከኣ እቲ ቅልሒ ብቐደም ኣዕይንቲ እቶም ሰባት ምስኻ ⟨את⟩ ዝከዱ ትሰብሮ።",
+  "tokens": [
+    {
+      "surface": "ושברת",
+      "gloss": "ከኣ ትሰብር"
+    },
+    {
+      "surface": "הבקבק",
+      "gloss": "እቲ ቅልሒ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ብቐደም ኣዕይንቲ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "እቶም ሰባት"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ዝከዱ"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "ምስኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:45:10.269919689Z",
+  "model": "glm-5.3"
+}

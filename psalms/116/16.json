@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 116,
+  "translation": "ኣይ ያህዌህ፣ ምኽንያቱ ኣነ ኣገልጋይካ እየ፣ ኣነ ኣገልጋይካ፣ ወዲ ኣገልጋይትካ እየ፣ ኣስሪተይ ሓራ ኣውጺእካለይ።",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልጋይካ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ኣገልጋይካ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ኣገልጋይትካ"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "ሓራ ኣውጺእካለይ"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "ኣስሪተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:28:33.465414666Z",
+  "model": "glm-5.3"
+}

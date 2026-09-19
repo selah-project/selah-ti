@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 8:9",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ካብ ሓደ ካብኦም ንእሽተይቲ ቀንዲ ወጸት፤ ንሳ ድማ ብዙሕ ናብ ደቡብን ናብ ምብራቕን ናብ ምድሪ ሽወትን ዓበየት።",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ካብኦም"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ወጸ"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "ቀንዲ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "מצעירה",
+      "gloss": "ንእሽተይቲ"
+    },
+    {
+      "surface": "ותגדל",
+      "gloss": "ዓበየት"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ደቡብ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "ምብራቕ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "ምድሪ ሽወት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:58:54.362806589Z",
+  "model": "glm-5.3"
+}

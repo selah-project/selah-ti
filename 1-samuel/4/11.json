@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ኣብ እታ ሰዓት እቲ ኪሳል ኤሎሂም ተበገረ፤ ክልተ ውላድ ዔሊ ድማ — ሕፍኒን ፊንሕስን — ተቐተሉ።",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "እቲ ኪሳል"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "ተበገረ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ዔሊ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ተቐተሉ"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "ሕፍኒ"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "ፊንሕስ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:58:43.211412881Z",
+  "model": "glm-5.3"
+}

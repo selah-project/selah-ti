@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 9,
+  "translation": "ሞሸ ውን ፋሲኺታት ክገብሩ ኢሉ ንውላድ እስራኤል ተዛረበ።",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ሞሸ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ክገብሩ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ፋሲኺታት"
+    }
+  ],
+  "timestamp": "2026-09-18T22:21:10.665404850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 130,
+  "translation": "ምስኣታ ስሓቕ ኣሎ፣ ስለዚ ምእናት ክትፍርሕ ኢልካ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምስኣታ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ምስኣታ ኣሎ"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "ስሓቕ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ስለዚ ምእናት"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "ክትፍርሕ ኢልካ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:34:04.864034551Z",
+  "model": "glm-5.3"
+}

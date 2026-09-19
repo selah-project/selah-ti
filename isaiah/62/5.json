@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 62:5",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 62,
+  "translation": "ከምቲ ወጣብ ድንግል ከም ዝውስዳት፣ ውላድኪ ከምዚ ነዓኪ እዮም ይውስዱኪ፤ ከምቲ ሓርጉም ብዓዳላ ከም ዝደስዝ፣ ኤሎሂምኪ ድማ ብዓኪ ይደስይ እዩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "יבעל",
+      "gloss": "ይውስድ"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "ወጣብ"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "ድንግል"
+    },
+    {
+      "surface": "יבעלוך",
+      "gloss": "ይውስዱኪ"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ውላድኪ"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "ሓጐስ"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ሓርጉም"
+    },
+    {
+      "surface": "על",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ዓዳላ"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "ይደስይ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ብዓኪ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኤሎሂምኪ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:25:05.255660876Z",
+  "model": "glm-5.3"
+}

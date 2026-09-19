@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 21:2",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ንሱ ድማ ሓዎት ውላደ የሆሹፋጥ ነይርዎም፦ ዓዛርያ፣ ይሕኤል፣ ዝኽርያሁ፣ ዓዛርያሁ፣ ሚኻኤልን ሸፓጥያሁን፤ እዚኦም ኩሎም ውላደ የሆሹፋጥ ንጉሥ ይስራኤል እዮም።",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "ንሱ ድማ"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ሓዎት"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "የሆሹፋጥ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ዓዛርያ"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "ይሕኤል"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "ዝኽርያሁ"
+    },
+    {
+      "surface": "ועזריהו",
+      "gloss": "ዓዛርያሁ"
+    },
+    {
+      "surface": "ומיכאל",
+      "gloss": "ሚኻኤል"
+    },
+    {
+      "surface": "ושפטיהו",
+      "gloss": "ሸፓጥያሁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሎም"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "የሆሹፋጥ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉሥ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T08:09:26.674983036Z",
+  "model": "glm-5.3"
+}

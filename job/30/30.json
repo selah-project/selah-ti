@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ቆጻለተይ በዚ ጸልማት ኣብ ልዕለይ፣ ኣጽምዐይ ድማ ብሙቐት ተቓጺሉ።",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "ቆጻለተይ"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ጸልማት ኣብ ልዕለይ"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ኣብ ልዕለይ"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "ከምኡውን ኣጽምዐይ"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ተቓጺሉ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ብ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሙቐት"
+    }
+  ],
+  "timestamp": "2026-09-19T06:19:35.221992565Z",
+  "model": "glm-5.3"
+}

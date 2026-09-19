@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ከምኡውን ⟨את⟩ ይትርን ⟨את⟩ እርማድኣን ⟨את⟩ እሽተሞዓን ⟨את⟩ እርማድኣን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ይትር"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ይትር"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እርማድኣ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "እርማድኣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እሽተሞዓ"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "እሽተሞዓ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እርማድኣ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "እርማድኣ"
+    }
+  ],
+  "timestamp": "2026-09-18T23:30:42.261003285Z",
+  "model": "glm-5.3"
+}

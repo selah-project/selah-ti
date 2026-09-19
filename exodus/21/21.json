@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "«ግን ሓደ መዓልቲ ወይ ክልተ መዓልታት እንተ ተቐመጠ፣ ኣይተቐጻጸርን፣ ምኽንያቱ ንሱ ብርኡ እዩ።»",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ግን"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ሓደ መዓልቲ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "ክልተ መዓልታት"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ተቐመጠ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "ተቐጻጸረ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "ብርኡ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:27:12.132192584Z",
+  "model": "glm-5.3"
+}

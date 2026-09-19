@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 5:7",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ሰብ ንዕንወት ክውለድ እዩ፣ ኣውላድ ረሸፍ ድማ ንላዕሊ ይበርሁ እዮም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "ንዕንወት"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "ይውለድ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ኣውላድ…ውን"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "ረሸፍ"
+    },
+    {
+      "surface": "יגביהו",
+      "gloss": "ይበርሁ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ንላዕሊ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:06:09.838522507Z",
+  "model": "glm-5.3"
+}

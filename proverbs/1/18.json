@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 1:18",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ንሳቶም ንደሞም ይተጽዕኑ፣ ነቶም ነፍሲኦም ይሓብኡ።",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "לדמם",
+      "gloss": "ንደሞም"
+    },
+    {
+      "surface": "יארבו",
+      "gloss": "ይተጽዕኑ"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "ይሓብኡ"
+    },
+    {
+      "surface": "לנפשתם",
+      "gloss": "ንነፍሲኦም"
+    }
+  ],
+  "timestamp": "2026-09-19T05:40:37.283570393Z",
+  "model": "glm-5.3"
+}

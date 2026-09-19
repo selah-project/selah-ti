@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ምኽንዱ ካብ ያህዌህ ወጻኢ መን ኤሎሃ ኣሎ፧ ከምኡውን ብዘይ ኤሎሂምና መን ረኺ እዩ፧",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንዱ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "መን"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ኤሎሃ"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ካብ … ወጻኢ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ከምኡውን መን"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ረኺ"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ብዘይ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:34.928750059Z",
+  "model": "glm-5.3"
+}

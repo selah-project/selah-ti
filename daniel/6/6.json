@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 6:6",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ኣብ ዝምላእ እቲ ግዜ እዚኦም ተባዕታት «ነዚ ዳንያል ዝኾነ ኣበሳቢልቲ ኣይንረኽብን ኣብኡ፣ እንተ ዘይኮይና ኣብ ሕጊ ኤሎሃኡ ኣብ ዛዕባኡ ክንረኽብ ኢና» በሉ።",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "ኣብ ዝምላእ እቲ ግዜ"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "ተባዕታት"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "נהשכח",
+      "gloss": "ንረኽብን"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "ንዳንያል"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ነዚ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "ኣበሳቢልቲ"
+    },
+    {
+      "surface": "להן",
+      "gloss": "እንተ ዘይኮይና"
+    },
+    {
+      "surface": "השכחנה",
+      "gloss": "ክንረኽብ"
+    },
+    {
+      "surface": "עלוהי",
+      "gloss": "ኣብ ዛዕባኡ"
+    },
+    {
+      "surface": "בדת",
+      "gloss": "ኣብ ሕጊ"
+    },
+    {
+      "surface": "אלהה",
+      "gloss": "ኤሎሃኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:00:27.759035738Z",
+  "model": "glm-5.3"
+}

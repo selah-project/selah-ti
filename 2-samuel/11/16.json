@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ዮኣብ ነቲ ከተማ ኣብ ዝቆጻጸር እዩ ነይሩ፣ ኡርያን ⟨את⟩ ነቲ ቦታ ኣቐምጡፉ — ኣብ ዝፈልጥ ሓያላት ሰባት እንተሃለዉሉ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኰነ"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "ኣብ ዝቆጻጸር"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮኣብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ከተማ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ኣቐምጡፉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኡርያ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ኡርያ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ነቲ ቦታ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ዝፈልጥ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ሰባት"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ሓያላት"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:29:35.116882772Z",
+  "model": "glm-5.3"
+}

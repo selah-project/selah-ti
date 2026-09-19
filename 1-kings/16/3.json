@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ኣሎኒ ንባዓሻን ንስዓራኡን ክተሕዶ እየ፤ ⟨את⟩ ስዓራኻ ድማ ከም ስዓራ ያሮብዓም ወዲ ኔባት ክገብር እየ።",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "ኣሎኒ"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "ክተሕዶ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ን"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ባዓሻ"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ን፣"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ስዓራኡ"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ክገብር እየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስዓራኻ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ስዓራኻ"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "ከም ስዓራ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ያሮብዓም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ኔባት"
+    }
+  ],
+  "timestamp": "2026-09-19T08:44:05.096355556Z",
+  "model": "glm-5.3"
+}

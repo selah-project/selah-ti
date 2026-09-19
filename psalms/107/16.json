@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 107,
+  "translation": "ምኽንያቱ ኣፍደገታት ናስ ሰበረ፣ ዕርበታት ብረት ድማ ቈረጸ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ሰበረ"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ኣፍደገታት"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ናስ"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "ዕርበታት"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ብረት"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "ቈረጸ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:25:08.975281890Z",
+  "model": "glm-5.3"
+}

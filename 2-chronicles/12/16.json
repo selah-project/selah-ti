@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 12:16",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 12,
+  "translation": "ሮሓብዓም ድማ ምስ ኣቦታቱ ተኛ፣ ኣብ ከተማ ዳዊድ ተቐበረ፤ ወዱ ኣብያ ድማ ኣብ ክንዱ ነገሰ።",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ተኛ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ሮሓብዓም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ኣቦታቱ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ተቐበረ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ኣብ ከተማ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ነገሰ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ኣብያ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ወዱ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ኣብ ክንዱ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:04:39.353176695Z",
+  "model": "glm-5.3"
+}

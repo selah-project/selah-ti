@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 91,
+  "translation": "ነቲ ያህዌህ እብል፦ መሸገላይን ግንበይን ⟨እዩ⟩፤ ኤሎሂምይ፣ ኣብኡ እተኣማን።",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "እብል"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ነቲ ያህዌህ"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "መሸገላይ"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ንግንበይ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂምይ"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "እተኣማን"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ኣብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:19:15.833519273Z",
+  "model": "glm-5.3"
+}

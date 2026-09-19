@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 28:18",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 28,
+  "translation": "ነቲ ሞት ⟨את⟩ ኪዳንኹም ክተሓሽይ፣ ነቲ ሽኦል ⟨את⟩ ምርዳእኹም ኣይትቕመጥን፤ ሽገርቲ ምስ ዝሓልፍ፣ ንሱ ክትኸዱ ኢኹም።",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "ክተሓሽይ"
+    },
+    {
+      "surface": "בריתכם",
+      "gloss": "ኪዳንኹም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ሞት"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ሞት"
+    },
+    {
+      "surface": "וחזותכם",
+      "gloss": "ምርዳእኹም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ሽኦል"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ሽኦል"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ትቕመጥን"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "ሽገርቲ"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "ዝሓልፍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ዝሓልፍ"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ክትኸዱ ኢኹም"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "ክትኸዑ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:59:19.776916055Z",
+  "model": "glm-5.3"
+}

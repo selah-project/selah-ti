@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ንግስቲ ሳባ ድማ ⟨את⟩ ኩሉ ስነ-ፍልጠቲ ሽሎሞን ነቲ ኮነኦ ቤት ረኣየት።",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ረኣየት"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ንግስቲ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ሳባ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ስነ-ፍልጠቲ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ሽሎሞ"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ነቲ ቤት"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ…"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ኮነኦ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:55:29.620841261Z",
+  "model": "glm-5.3"
+}

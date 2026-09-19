@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 32:22",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 32,
+  "translation": "ያህዌህ ሕዝቅያስን ⟨את⟩ ኣብቶም ዝቐመጡ የሩሻላይምን ካብ ኢድ ሳንሕሪብ ንጉስ ኣሽርን ካብ ኢድ ኩሉን ናጸነ፤ ኣብ ዙሪያ ድማ ኣመሓይሾም።",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "ናጸነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሕዝቅያስ"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ሕዝቅያስ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብቶም ዝቐመጡ የሩሻላይም"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ኣብቶም ዝቐመጡ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "ሳንሕሪብ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ኣሽር"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ከምኡውን ካብ ኢድ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "ኣመሓይሾም"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ኣብ ዙሪያ"
+    }
+  ],
+  "timestamp": "2026-09-19T08:19:20.178054698Z",
+  "model": "glm-5.3"
+}

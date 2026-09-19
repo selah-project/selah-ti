@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "እሞ ካብ ሰብ እንስሳዊ እየ፣ ኣእምሮ ናይ ሰብ ድማ የለኒ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "እንስሳዊ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ካብ ሰብ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ድማ የለኒ"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "ኣእምሮ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ናይ ሰብ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:00:22.195946010Z",
+  "model": "glm-5.3"
+}

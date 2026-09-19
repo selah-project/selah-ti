@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 39,
+  "translation": "ካስዳይስ ድማ ⟨את⟩ ቤት እቲ ንጉስን ⟨את⟩ ቤት እቲ ህዝቢን ብሓዊ ኣቐጸሉ፤ እታ ምልጊባት የሩሻላይምን ⟨את⟩ ኣውደቕዎን።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት እቲ ንጉስ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት እቲ ህዝቢ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ኣቐጸሉ"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "ካስዳይስ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ብሓዊ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ምልጊባት የሩሻላይም"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "ምልጊባት"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "የሩሻላይም"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "ኣውደቕዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T03:03:11.187218539Z",
+  "model": "glm-5.3"
+}

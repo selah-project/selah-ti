@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ብዙሕ ኣይትግበር ኣብ ክፋሊ፣ እኳ ድማ ኣይኩን ዕሉል፤ ስለምንታይ ኣብ ቅድመ ግዜኻ ትሞት፧",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "ኣይትግበር ኣብ ክፋሊ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "እኳ ድማ ኣይ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ኣይትኩን"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ዕሉል"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ስለምንታይ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ትሞት"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ኣብ ቅድመ"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "ግዜኻ"
+    }
+  ],
+  "timestamp": "2026-09-19T06:42:46.923148159Z",
+  "model": "glm-5.3"
+}

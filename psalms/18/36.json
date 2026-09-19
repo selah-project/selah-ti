@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 18:36",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ንኣነ ጋንታ ናይ መድሓኒትካ ሃቢኻኒ፣ የማንካ ውን ተደግፈኒ፣ ትሕትናኻ ውን ዓበየኒ።",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "ሃቢኻኒ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንኣነ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ጋንታ"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "ናይ መድሓኒትካ"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "የማንካ ውን"
+    },
+    {
+      "surface": "תסעדני",
+      "gloss": "ተደግፈኒ"
+    },
+    {
+      "surface": "וענותך",
+      "gloss": "ትሕትናኻ ውን"
+    },
+    {
+      "surface": "תרבני",
+      "gloss": "ዓበየኒ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:48:35.504512855Z",
+  "model": "glm-5.3"
+}

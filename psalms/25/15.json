@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ነብይተይ ኩሉ ግዜ ናብ ያህዌህ እያ፣ ምኽንያቱ ንሱ ካብ መርበብ እግርተይ የውጽእ።",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ነብይተይ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ኩሉ ግዜ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "የውጽእ"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "ካብ መርበብ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "እግርተይ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:50:33.374893508Z",
+  "model": "glm-5.3"
+}

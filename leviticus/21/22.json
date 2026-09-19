@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ምስ ናይ ኤሎሂም ርዙእ ካብ ቅዱስ እቲ ቅዱሳትን ካብ ቅዱሳትን ድማ ክበልዕ ይኽእል እዩ።",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "ርዙእ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ናይ ኤሎሂም"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "ካብ ቅዱስ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "እቲ ቅዱሳት"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ከምኡውን ካብ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "እቲ ቅዱሳት"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ክበልዕ ይኽእል እዩ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:03:34.947310124Z",
+  "model": "glm-5.3"
+}

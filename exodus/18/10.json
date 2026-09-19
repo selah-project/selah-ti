@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ይትሮ ድማ በለ፦ ብሩኽ ያህዌህ፣ እቲ ንዓኻትኩም ⟨את⟩ ካብ ኢድ ሚጽራይምን ካብ ኢድ ፓርዖን ዝናጸፈ፣ እቲ ⟨את⟩ ህዝቢ ካብ ትሕቲ ኢድ ሚጽራይም ዝናጸፎ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "ይትሮ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ብሩኽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ዝናጸፈ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ንዓኻትኩም"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ካብ ኢድ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ንካብ ኢድ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ፓርዖ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ዝናጸፈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ህዝቢ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ካብ ትሕቲ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ኢድ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    }
+  ],
+  "timestamp": "2026-09-18T21:25:20.594124438Z",
+  "model": "glm-5.3"
+}

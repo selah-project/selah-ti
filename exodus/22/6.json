@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 22:6",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ሓደ ሰብ ንኸባበዓ ብርሕ ወይ መሳርሕቲ ንኽሕልዎ እንተ ሃበ፣ ካብ ቤት እቲ ሰብ እንተ ተሰሪቑ፣ እቲ ሃራሚ እንተ ተረኺቡ ክልተ ክፍልቲ ይከፍል።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ሃበ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሓደ ሰብ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ኸባበዓ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ብርሕ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ወይ"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "መሳርሕቲ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ንኽሕልዎ"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "እንተ ተሰሪቑ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ካብ ቤት"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ተረኺቡ"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "እቲ ሃራሚ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ይከፍል"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ክልተ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:30:06.063397330Z",
+  "model": "glm-5.3"
+}

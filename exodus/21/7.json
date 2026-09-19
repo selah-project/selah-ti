@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ከምኡውን ሰብ ⟨את⟩ ጓሉ ንኻንቲ እንተ ዘኣከለ፣ ከም ወጻታ እቶም ኣገልገልቲ ኣይትወጸን።",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ከምኡውን እንተ"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "ዘኣከለ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጓሉ"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ጓሉ"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "ንኻንቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ትወጽእ"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "ከም ወጻታ"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "እቶም ኣገልገልቲ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:27:18.160421005Z",
+  "model": "glm-5.3"
+}

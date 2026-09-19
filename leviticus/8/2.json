@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣሃሮንን ⟨את⟩ ውላዱን ምስኡን፣ እተክልቲ ልብስታትን ⟨את⟩ ዘይቲ ቅብኣን ⟨את⟩ በዓተ ሓጢኣትን ⟨את⟩ ክልተ በጃታትን ⟨את⟩ ቅርጺ እተኽሊን ⟨את⟩ ውሰድ።",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ውሰድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሃሮን"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ኣሃሮን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ውላዱ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ውላዱ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ምስኡ ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እተክልቲ ልብስታት"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "እተክልቲ ልብስታት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ዘይቲ ቅብኣ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ዘይቲ"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ቅብኣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "በዓተ ሓጢኣት"
+    },
+    {
+      "surface": "פר",
+      "gloss": "በዓት"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ሓጢኣት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ክልተ በጃታት"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ክልተ"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "በጃታት"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ቅርጺ እተኽሊ"
+    },
+    {
+      "surface": "סל",
+      "gloss": "ቅርጺ"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "እተኽሊ"
+    }
+  ],
+  "timestamp": "2026-09-18T21:51:45.064211906Z",
+  "model": "glm-5.3"
+}

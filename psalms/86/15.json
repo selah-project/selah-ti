@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 86,
+  "translation": "ንስኻ ግና ኣዶናይ፣ ኤል ምሕረታዊን ጸጋማዊን፣ ኣይቕጽል ብዓይኒ፣ ብሔሴድን ብሓቂን ዝበዝሕ።",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ንስኻ ግና"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "ምሕረታዊ"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "ጸጋማዊ ን"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ኣይቕጽል"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ብዓይኒ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ዝበዝሕ ብ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ሔሴድ"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ሓቂ ን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:15:45.787844044Z",
+  "model": "glm-5.3"
+}

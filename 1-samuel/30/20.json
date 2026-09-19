@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 30,
+  "translation": "ዳዊድ ድማ ⟨את⟩ ኩሉ እቲ ርግኣትን እቲ ብርታትን ወሰደ፤ ነቲ ከብቲ ኣብ ቅድሚ እቲ ከብቲ እቲ ኣንጸቡ፤ «እዚ ኣልቢት ዳዊድ እዩ» እውን በሉ።",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ወሰደ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እቲ ርግኣትን ብርታትን"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ርግኣት"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "ብርታትን"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "ኣንጸቡ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ኣብ ቅድሚ"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "ከብቲ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "በሉ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ኣልቢት"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    }
+  ],
+  "timestamp": "2026-09-19T00:18:38.534047040Z",
+  "model": "glm-5.3"
+}

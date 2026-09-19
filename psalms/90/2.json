@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 90,
+  "translation": "ቅድም ኩርቓት እንተ ተወልዓን ምድሪን ዓለምን ብዘይ ገበርካ፣ ካብ ዘለኣለም ክሳብ ዘለኣለም ንስኻ ኤል ኢኻ።",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "ቅድም"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ኩርቓት"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ተወልዓ"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "ብዘይ ገበርካ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "ዓለምን"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "ካብ ዘለኣለም"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ዘለኣለም"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ንስኻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኤል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:18:33.315262606Z",
+  "model": "glm-5.3"
+}

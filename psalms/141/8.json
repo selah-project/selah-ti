@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 141,
+  "translation": "ስለዚ ናብኻ ያህዌህ ኣዶናይ እዙያተይ ኣለዉ፤ ኣብኻ ተዓጸየ፤ ነፍሰይ ኣይተውግዕን።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኻ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "እዙያተይ"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ኣብኻ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ተዓጸየ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תער",
+      "gloss": "ተውግዕ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:37:30.246704608Z",
+  "model": "glm-5.3"
+}

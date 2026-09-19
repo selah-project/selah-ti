@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ከምኡውን ⟨את⟩ ወዲት እቲ ያዓና፣ ⟨את⟩ እቲ ታሕማስ፣ ⟨את⟩ እቲ ሻሓፕ፣ ⟨את⟩ እቲ ነጽ ንዓይነታሁ።",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ወዲት እቲ ያዓና"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ወዲት"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "እቲ ያዓና"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ታሕማስ"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "እቲ ታሕማስ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ሻሓፕ"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "እቲ ሻሓፕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ነጽ"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "እቲ ነጽ"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ንዓይነታሁ"
+    }
+  ],
+  "timestamp": "2026-09-18T22:55:23.881402966Z",
+  "model": "glm-5.3"
+}

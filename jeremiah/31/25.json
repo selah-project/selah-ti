@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 31,
+  "translation": "ምኽንያቱ ነፍሲ ዝደከመት ሓሊዐ ነይራ፣ ንነፍሲ ዝደአበት ድማ ኩለን ምሊአ ነይራ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הרויתי",
+      "gloss": "ሓሊዐ ነይራ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ዝደከመት"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ኩለን"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "ዝደአበት"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "ምሊአ ነይራ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:53:14.081547357Z",
+  "model": "glm-5.3"
+}

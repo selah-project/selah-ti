@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 137,
+  "translation": "ኣብ ሩባታት ባቢሎን እንቲ ተቐመጥና ንሕና፣ ከምኡውን በዛና፣ ኣብ ምዝኻርና ⟨את⟩ ጽዮን።",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ሩባታት"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ባቢሎን"
+    },
+    {
+      "surface": "שם",
+      "gloss": "እንቲ"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "ተቐመጥና"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "በዛና"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "ኣብ ምዝኻርና"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጽዮን"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ጽዮን"
+    }
+  ],
+  "timestamp": "2026-09-19T05:36:51.451023409Z",
+  "model": "glm-5.3"
+}

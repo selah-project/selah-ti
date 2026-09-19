@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 1:1",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ሰብ ነይሩ ኣብ ምድሪ ዑጽ፣ ኢዮብ ስሙ፤ እቲ ሰብ እቲ ድማ ብሉጽን ራዕዲን፣ ንኤሎሂም ዝፈርንን ካብ ክፉእ ዝተመለሰን ነይሩ።",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ሰብ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ኣብ ምድሪ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ዑጽ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ኢዮብ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ስሙ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ድማ ነይሩ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "እቲ ሰብ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "תם",
+      "gloss": "ብሉጽ"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ራዕዲ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ዝፈርን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "ዝተመለሰ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ካብ ክፉእ"
+    }
+  ],
+  "timestamp": "2026-09-19T09:05:45.333161202Z",
+  "model": "glm-5.3"
+}

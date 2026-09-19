@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 120,
+  "translation": "ያህዌህ ሆይ፣ ነፍሰይ ካብ ከርንንቲ ሓሶትን ካብ ልሳን ኣወዳድባን ናጽኣታ።",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "ናጽኣታ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "ካብ ከርንንቲ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ሓሶት"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "ካብ ልሳን"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ኣወዳድባ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:32:19.904360982Z",
+  "model": "glm-5.3"
+}

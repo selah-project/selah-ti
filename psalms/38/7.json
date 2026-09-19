@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 38,
+  "translation": "ተዘንጊዐ ብዙሕ ብጣዕሚ ተኣንጊዐ፣ ኩሉ መዓልቲ ብዝሓመቐ እነሽዕ እየ።",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "ተዘንጊዐ"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "ተኣንጊዐ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ብጣዕሚ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ብዝሓመቐ"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "እነሽዕ እየ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:55:54.879037329Z",
+  "model": "glm-5.3"
+}

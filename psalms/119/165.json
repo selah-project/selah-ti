@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 119,
+  "translation": "ሰላም ብዙሕ ነቶም ቶራኻ ዝፈትዉ ኣሎዎም፣ ካብ ምትንኻፍ ዝገብር ነገር ድማ የብሎምን።",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "ሰላም"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ብዙሕ"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ንዝፈትዉ"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ቶራኻ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ድማ የብሎምን"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ንኣይቶም"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "ካብ ምትንኻፍ ዝገብር ነገር"
+    }
+  ],
+  "timestamp": "2026-09-19T05:31:44.959956299Z",
+  "model": "glm-5.3"
+}

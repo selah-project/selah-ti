@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 25:7",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 25,
+  "translation": "ቁጽሮም ድማ ምስ ሓዎም መማሃርቲ ዜማ ናይ ያህዌህ፣ ኩሉ ዝስዕብ ኬልብርታይ ዓሰርተ ሸሞንተ ዓሰርተ ዓሰርተ ሸሞንተ ሸውዓተን ሸሞንተን ኾነ።",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ኾነ"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "ቁጽሮም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ሓዎም"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "መማሃርቲ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ዜማ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ናይ ያህዌህ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "ዝስዕብ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ኬልብርታይ"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "ዓሰርተ ሸሞንተ ሸውዓተን ሸሞንተ"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "ሸሞንተ"
+    }
+  ],
+  "timestamp": "2026-09-19T07:48:28.754331210Z",
+  "model": "glm-5.3"
+}

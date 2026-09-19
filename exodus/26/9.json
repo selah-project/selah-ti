@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "ti",
+  "chapter": 26,
+  "translation": "ንሓሙሽተ ዓሚራት ⟨את⟩ ብብዕቡን ትሰርሕ፣ ንሽዱሽተ ዓሚራት ድማ ⟨את⟩ ብብዕቡን ትሰርሕ፣ እታ ሻሽዓይቲ ዓሚራ ድማ ⟨את⟩ ናብ ቅድሚ ገጽ እቲ ዓዲና ትተወቕር።",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "ትሰርሕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሓሙሽተ ዓሚራት"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ሓሙሽተ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ዓሚራት"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ብብዕቡን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሽዱሽተ ዓሚራት"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ሽዱሽተ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ዓሚራት"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ብብዕቡን"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "ትተወቕር"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እታ ሻሽዓይቲ ዓሚራ"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "ዓሚራ"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "ሻሽዓይቲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ኣቢሉ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ቅድሚ ገጽ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "እቲ ዓዲና"
+    }
+  ],
+  "timestamp": "2026-09-18T21:31:52.906279809Z",
+  "model": "glm-5.3"
+}

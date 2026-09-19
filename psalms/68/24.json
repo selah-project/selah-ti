@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 68,
+  "translation": "ንኽትስብር እግርኻ ኣብ ደም፣ ልሳን ቅንበትኻ ካብ ጠላሕቲ ካብኡ ክሳብ።",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ንኽትስብር"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "ትስብር"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "እግርኻ"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ኣብ ደም"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ልሳን"
+    },
+    {
+      "surface": "כלביך",
+      "gloss": "ቅንበትኻ"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "ካብ ጠላሕቲ"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "ካብኡ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:06:21.141030581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "እቶም ፍልስጤም ⟨את⟩ ታቦት ኤሎሂም ወሲዶምዎ፣ ናብ ቤት ዳጎን ኣብዚዎን፣ ኣብ ጐን ዳጎን ኣቕሚጦምዎ።",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ወሲዶም"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "እቶም ፍልስጤም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ታቦት"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ታቦት"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ኣብዚዎን"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ቤት"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ዳጎን"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "ኣቕሚጦምዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብ ጐን"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ኣብ ጐን"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ዳጎን"
+    }
+  ],
+  "timestamp": "2026-09-19T00:00:38.552603907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ንሱ ⟨את⟩ ኤላት ሃንዶ ናብ ይሁዳ ድማ መሊሱዋ፣ ድሕሪ ምድኻም እቲ ንጉስ ምስ ኣቦታቱ።",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ሃንዶ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኤላት"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "ኤላት"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "መሊሱዋ"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ናብ ይሁዳ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ድሕሪ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ምድኻም ምስ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ምስ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ኣቦታቱ"
+    }
+  ],
+  "timestamp": "2026-09-19T01:27:21.785652387Z",
+  "model": "glm-5.3"
+}

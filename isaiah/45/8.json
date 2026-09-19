@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 45:8",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 45,
+  "translation": "ሰማያት ካብ ላዕሊ ተወርዱ፤ ደቀቃት ጽድቂ ይውሕራ፤ ምድሪ ተኺፊታ ውዕሊ ዕቁባ፣ ጽድቂ ድማ ኣብ ሓደ ተበግራ፤ ኣነ ያህዌህ እየ፣ ዓይ ፈጠርክዎ።",
+  "tokens": [
+    {
+      "surface": "הרעיפו",
+      "gloss": "ተወርዱ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ካብ ላዕሊ"
+    },
+    {
+      "surface": "ושחקים",
+      "gloss": "ደቀቃት ድማ"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "ይውሕራ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ጽድቂ"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ተኺፊታ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "ויפרו",
+      "gloss": "ድማ ዕቁቡ"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "ውዕሊ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ጽድቂ ድማ"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "ተበግራ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ኣብ ሓደ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "ዓይ ፈጠርክዎ"
+    }
+  ],
+  "timestamp": "2026-09-19T02:13:48.860667910Z",
+  "model": "glm-5.3"
+}

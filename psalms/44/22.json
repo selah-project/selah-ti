@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 44,
+  "translation": "ድዩ እዚ ኤሎሂም ኣይይመርምርን? ንሱ ምኽንያቱ ምስጢራት ልቢ ስለ ዝፈልጥ እዩ።",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ድዩ…ኣዮን"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "ይመርምር"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ይፈልጥ"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "ምስጢራት"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ልቢ"
+    }
+  ],
+  "timestamp": "2026-09-19T04:58:27.737361141Z",
+  "model": "glm-5.3"
+}

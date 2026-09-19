@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 56,
+  "translation": "ብኤሎሂም ቃል እዘኽብር እየ፤ ብያህዌህ ቃል እዘኽብር እየ።",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "ብኤሎሂም"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "እዘኽብር እየ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ብያህዌህ"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "እዘኽብር እየ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ቃል"
+    }
+  ],
+  "timestamp": "2026-09-19T05:02:10.588772256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 88,
+  "translation": "ምኽንያቱ ነፍሰይ ብእስራት ተመሊኣ እያ፣ ህይወተይ ድማ ንሽኦል በጺሓ እያ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ተመሊኣ"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "ብእስራት"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ነፍሰይ"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "ህይወተይ"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ንሽኦል"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "በጺሓ"
+    }
+  ],
+  "timestamp": "2026-09-19T05:16:25.157071596Z",
+  "model": "glm-5.3"
+}
