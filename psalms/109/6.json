@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 109,
+  "translation": "ኣብ ልዕሊኡ ክፉእ ትኣዘዞ፣ ሳጥን እውን ኣብ የማን ኢዱ ይቕምጥ።",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "ትኣዘዞ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊኡ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "ሳጥን"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ይቕምጥ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "የማን ኢዱ"
+    }
+  ],
+  "timestamp": "2026-09-21T15:28:55.524307007Z",
+  "model": "glm-5.3"
+}

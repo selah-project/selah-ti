@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 11:42",
+  "book": "daniel",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ኢዱ ኣብ እቶም ሃገራት ከሰደድ፤ ምድሪ ሚጽራይም ድማ ንምህዳም ኣይትከውንን።",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ከሰደድ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "ኣብ እቶም ሃገራት"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ምድሪ ድማ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ትከውን"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "ንምህዳም"
+    }
+  ],
+  "timestamp": "2026-09-21T15:27:32.345578655Z",
+  "model": "glm-5.3"
+}

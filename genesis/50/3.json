@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 50:3",
+  "book": "genesis",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ኣርባዕተ መዓልቲ ንንሱ ተፈጸመሉ፣ እኳ ደኣ ከምኡ እዮም መዓልታት ኣብ ዝተቐበኑ ዝፍጸሙ፤ ሚጽራይም ድማ ንንሱ ⟨אתו⟩ ሰብዑን መዓልታትን ኣቕረብዎ።",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "ተፈጸሙ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንንሱ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እኳ ደኣ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ከምኡ"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "ዝፍጸሙ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "החנטים",
+      "gloss": "ኣብ ዝተቐበኑ"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ኣቕረብዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ንንሱ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ሰብዑን"
+    },
+    {
+      "surface": "יום",
+      "gloss": "መዓልታትን"
+    }
+  ],
+  "timestamp": "2026-09-21T15:25:27.651913185Z",
+  "model": "glm-5.3"
+}

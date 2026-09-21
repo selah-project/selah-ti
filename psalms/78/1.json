@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 78,
+  "translation": "ስነ-ትምህርቲ ናይ ኣሳፍ። ሕዝቢይ ስማዕ ናብ ቶራይ፣ ኣዝዛትኩም ዕዘኑ ናብ ቃላት ኣፍይ።",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "ስነ-ትምህርቲ"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ናይ ኣሳፍ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ስማዕ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ሕዝቢይ"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ቶራይ"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "ዕዘኑ"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "ኣዝዛትኩም"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ናብ ቃላት"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ኣፍይ"
+    }
+  ],
+  "timestamp": "2026-09-21T15:28:07.254543903Z",
+  "model": "glm-5.3"
+}

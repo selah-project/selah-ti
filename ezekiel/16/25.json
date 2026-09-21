@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 16:25",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ኣብ ርእሲ ኩሉ መገዲ ሁዱድትኪ ሰሪቕኪ፣ ⟨את⟩ ጽብቓኪ ኣስጸብሓኪ፤ ንኩሉ ዝሓልፍ ድማ ⟨את⟩ ኣፍትኪ ኣፍንጠሕኪ፣ ⟨את⟩ ኣመንዩትኪ ኣዝዕብኪ።",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ርእሲ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "መገዲ"
+    },
+    {
+      "surface": "בנית",
+      "gloss": "ሰሪቕኪ"
+    },
+    {
+      "surface": "רמתך",
+      "gloss": "ሁዱድትኪ"
+    },
+    {
+      "surface": "ותתעבי",
+      "gloss": "ኣስጸብሓኪ-ውን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጽብቓኪ"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "ጽብቓኪ"
+    },
+    {
+      "surface": "ותפשקי",
+      "gloss": "ኣፍንጠሕኪ-ውን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣፍትኪ"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "ኣፍትኪ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ንኩሉ"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "ዝሓልፍ"
+    },
+    {
+      "surface": "ותרבי",
+      "gloss": "ኣዝዕብኪ-ውን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣመንዩትኪ"
+    },
+    {
+      "surface": "תזנתך",
+      "gloss": "ኣመንዩትኪ"
+    }
+  ],
+  "timestamp": "2026-09-21T15:28:29.235420243Z",
+  "model": "glm-5.3"
+}

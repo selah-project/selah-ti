@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 59,
+  "translation": "ብዘይ ኣበይነት ይህዱዩን ይዳሉን፤ ንምትዕጽባይ ተንቀሳቕስኒ፣ ረኣይ።",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "ብዘይ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ኣበይነት"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "ይህዱዩ"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "ይዳሉ"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "ተንቀሳቕስኒ"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "ንምትዕጽባይ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ረኣይ"
+    }
+  ],
+  "timestamp": "2026-09-21T15:29:11.763982403Z",
+  "model": "glm-5.3"
+}

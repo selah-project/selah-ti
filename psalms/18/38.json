@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ተቓወሞተይ እኸትኩ፣ ኣጠልጠልክዎም፤ ክሳብ ኣብ ዝወድኡ ኣይምለስኩን።",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "እኸትኩ"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ተቓወሞተይ"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "ኣጠልጠልክዎም"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይ-…-ን"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ምለስኩ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "ኣብ ዝወድኡ"
+    }
+  ],
+  "timestamp": "2026-09-21T15:29:18.500901557Z",
+  "model": "glm-5.3"
+}

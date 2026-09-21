@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "እቲ ንጉስ ድማ ንኣባታ «እንታይ ኣጋጭስኪ?» በላ፣ ንሳ ድማ «ብዛዕባ ሓቂ ሰበይቲ መቓብርቲ እየ፣ እቲ ሰብኣይይ ድማ ሞተ» በለት።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በላ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ንኣባታ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ኣጋጭስኪ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "በለት"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ብዛዕባ ሓቂ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ሰበይቲ"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "መቓብርቲ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "እየ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ሞተ"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "እቲ ሰብኣይይ"
+    }
+  ],
+  "timestamp": "2026-09-21T15:25:45.226780364Z",
+  "model": "glm-5.3"
+}

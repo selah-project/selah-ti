@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ዓትልያሃ ድማ ⟨את⟩ ድምጺ ኣሰሪቲን ህዝቢን ሰምዐት፣ ነቲ ህዝቢ ናብ ቤት ያህዌህ ኣተወት።",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "ሰምዐት"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "ዓትልያሃ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ድምጺ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ድምጺ"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "ኣሰሪቲ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢን"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ኣተወት"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ነቲ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ህዝቢ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ቤት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-21T15:26:00.168729254Z",
+  "model": "glm-5.3"
+}

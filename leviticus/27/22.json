@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "ti",
+  "chapter": 27,
+  "translation": "ኣብኡ እንተ ⟨את⟩ ሽዱኽ እቲ ዝገዝኦ ዝዘይኮነ ካብ ሽዱኽ ንብረቱ ንያህዌህ ይቕድስ።",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ኣብኡ እንተ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ሽዱኽ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ሽዱኽ"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "ዝገዝኦ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይ"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "ካብ ሽዱኽ"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "ንብረቱ"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "ይቕድስ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    }
+  ],
+  "timestamp": "2026-09-21T15:27:18.861660694Z",
+  "model": "glm-5.3"
+}

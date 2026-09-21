@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 56:6",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 56,
+  "translation": "ከምኡውን ውላድ ተማልኡይ ንያህዌህ ዝተጠርኡ፣ ንኽመልክቱሉን ስም ያህዌህ ⟨את⟩ ንኽፈቱን፣ ኣገልጋልቱ ንኽኾኑ፤ ኩሉ ሻባት ዝዕቆብ ምርኲሱ ዘይገብር፣ ኣብ ኪዳነይ ዝጸንዑ፣",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "ተማልኡይ"
+    },
+    {
+      "surface": "הנלוים",
+      "gloss": "ዝተጠርኡ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "לשרתו",
+      "gloss": "ንኽመልክቱሉ"
+    },
+    {
+      "surface": "ולאהבה",
+      "gloss": "ንኽፈቱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ስም"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ስም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ንኽኾኑ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንእሱ"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "ኣገልጋልቲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ዝዕቆብ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ሻባት"
+    },
+    {
+      "surface": "מחללו",
+      "gloss": "ምርኲሱ"
+    },
+    {
+      "surface": "ומחזיקים",
+      "gloss": "ዝጸንዑ"
+    },
+    {
+      "surface": "בבריתי",
+      "gloss": "ኣብ ኪዳነይ"
+    }
+  ],
+  "timestamp": "2026-09-21T15:30:33.626047219Z",
+  "model": "glm-5.3"
+}

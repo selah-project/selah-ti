@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "«ካብ ውሽጢ ውላደ እስራኤል ⟨את⟩ ኣሃዱም ውሲንቲ፣ ⟨אתם⟩ ከኣ ኣንጽሖም።»",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ውሲንቲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣሃዱም"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ኣሃዱም"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ካብ ውሽጢ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላደ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "ኣንጽሖም"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ኣሃዱም"
+    }
+  ],
+  "timestamp": "2026-09-21T15:26:00.289701306Z",
+  "model": "glm-5.3"
+}

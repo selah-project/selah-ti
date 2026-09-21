@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "«ብስርዓት እንታይ ክግበር ምስ ዋሽቲ እታ ንግስቲ፣ ብኢድ እቶም ኣጋልማት ትእዛዝ እቲ ንጉስ ኣህሽወሮሽ ⟨את⟩ ስለ ዝገበረቶ ኣይኮነን?»",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "ብስርዓት"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ክግበር"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "ምስ እታ ንግስቲ"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ዋሽቲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ስለ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ዝገበረቶን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ትእዛዝ"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "ትእዛዝ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "ኣህሽወሮሽ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ብኢድ"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "እቶም ኣጋልማት"
+    }
+  ],
+  "timestamp": "2026-09-21T15:29:48.242718684Z",
+  "model": "glm-5.3"
+}

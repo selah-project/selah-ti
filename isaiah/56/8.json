@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 56:8",
+  "book": "isaiah",
+  "lang": "ti",
+  "chapter": 56,
+  "translation": "ናይ ኣዶናይ ያህዌህ ቃል፣ እቲ ዝተጐድኡ ይስራኤል ዝኣክብ፣ ገና ኣብ ልዕሊኡ ምስ እቶም ዝተኣከቡ እኣክብ እየ።",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "ናይ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ኣዶናይ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מקבץ",
+      "gloss": "ዝኣክብ"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "ዝተጐድኡ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ገና"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "እኣክብ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ኣብ ልዕሊኡ"
+    },
+    {
+      "surface": "לנקבציו",
+      "gloss": "ምስ እቶም ዝተኣከቡ"
+    }
+  ],
+  "timestamp": "2026-09-21T15:30:33.626403788Z",
+  "model": "glm-5.3"
+}

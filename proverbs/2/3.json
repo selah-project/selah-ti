@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እሞ እንተ ብሕታዊ ምርዳእ ተጸውዐኻ፣ ናብ ምርዳእ ድማ ድምጺኻ ተወጺኣኻ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "እሞ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ብሕታዊ ምርዳእ"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ተጸውዐኻ"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "ናብ ምርዳእ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ተወጺኣኻ"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ድምጺኻ"
+    }
+  ],
+  "timestamp": "2026-09-21T15:28:58.288303218Z",
+  "model": "glm-5.3"
+}

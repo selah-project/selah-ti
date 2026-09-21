@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 23,
+  "translation": "ኣቦኻ ኣደኻ እንትዕወ ድማ ዝወለደትኻ ትሐሌ።",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "እንትዕወ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ኣቦኻ"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "ኣደኻ"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ትሐሌ"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "ዝወለደትኻ"
+    }
+  ],
+  "timestamp": "2026-09-21T15:27:41.674015720Z",
+  "model": "glm-5.3"
+}

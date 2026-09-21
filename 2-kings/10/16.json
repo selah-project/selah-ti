@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "በለ፦ «ንኻ ምስኒ ⟨את⟩ ተርኢ ኣብ ቐንየተይ ንያህዌህ።» ንሱ ድማ ኣብ ሰረገላኡ ኣሰዓርዎ።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ንኻ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ምስኒ ⟨את⟩",
+      "marks": "ንኻ ተርኢ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ተርኢ"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "ኣብ ቐንየተይ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ንያህዌህ"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "ኣሰዓርዎ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "የሆናዳብ (ንሱ)"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "ኣብ ሰረገላኡ"
+    }
+  ],
+  "timestamp": "2026-09-21T15:25:40.584048159Z",
+  "model": "glm-5.3"
+}

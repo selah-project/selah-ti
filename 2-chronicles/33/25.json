@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 33:25",
+  "book": "2-chronicles",
+  "lang": "ti",
+  "chapter": 33,
+  "translation": "ድማ ሕዝቢ ምድሪ ⟨את⟩ ኩሉ እቶም ኣብ ጎይታ ኣሞን ዝተባእሉ ቀተሎም፣ ንያህዌህ እንተይኣነ ውን ሕዝቢ ምድሪ ብስድራኡ ኣንቀሳቐሶ ኣብ ቦታኡ።",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "ቀተሎም"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እቶም ኣብ ጎይታ ኣሞን ዝተባእሉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "እቶም ዝተባእሉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ጎይታ"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "ኣሞን"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "ኣንቀሳቐሶ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ሕዝቢ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድሪ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ስድራኡ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ኣብ ቦታኡ"
+    }
+  ],
+  "timestamp": "2026-09-21T15:30:49.641361727Z",
+  "model": "glm-5.3"
+}

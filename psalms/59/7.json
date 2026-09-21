@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 59,
+  "translation": "ኣብ ፈነግ ይመልሱ፣ ከም ውሽላ ይጮኡ፣ ከተማ ድማ ይዘውሩ።",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ይመልሱ"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "ኣብ ፈነግ"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ይጮኡ"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "ከም ውሽላ"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "ይዘውሩ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ከተማ"
+    }
+  ],
+  "timestamp": "2026-09-21T15:29:11.764400856Z",
+  "model": "glm-5.3"
+}

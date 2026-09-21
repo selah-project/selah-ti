@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "ti",
+  "chapter": 18,
+  "translation": "ስለዚ ብኣይነት ኣጽንዓኻኒ ንውግእ፤ ተቓወምቲይ ትሕተይ ኣንቐጠቕጠካ።",
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "ኣጽንዓኻኒ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ኣይነት"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ንውግእ"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "ኣንቐጠቕጠካ"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "ተቓወምቲይ"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "ትሕተይ"
+    }
+  ],
+  "timestamp": "2026-09-21T15:29:18.501189256Z",
+  "model": "glm-5.3"
+}

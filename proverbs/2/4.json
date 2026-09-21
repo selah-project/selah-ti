@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 2:4",
+  "book": "proverbs",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "እንተ ከም ቐጠረ ተሓዲርካያ፣ ከም ተሓቢኡ ረዲማታት ድማ ተመርመርካያ።",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "እንተ"
+    },
+    {
+      "surface": "תבקשנה",
+      "gloss": "ተሓዲርካያ"
+    },
+    {
+      "surface": "ככסף",
+      "gloss": "ከም ቐጠረ"
+    },
+    {
+      "surface": "וכמטמונים",
+      "gloss": "ከም ተሓቢኡ ረዲማታት"
+    },
+    {
+      "surface": "תחפשנה",
+      "gloss": "ተመርመርካያ"
+    }
+  ],
+  "timestamp": "2026-09-21T15:28:58.288440538Z",
+  "model": "glm-5.3"
+}
