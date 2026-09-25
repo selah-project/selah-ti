@@ -5,20 +5,20 @@
   "book": "1-samuel",
   "lang": "ti",
   "chapter": 1,
-  "translation": "ነቲ ፋር ሓረምቱ፡ ⟨את⟩ ነቲ ቆልዑ ድማ ናብ ዔሊ ኣእተዉ።",
+  "translation": "እቲ በዓይን በዝሕዎ፡ እቲ ቌላዒ ትም ናብ ዔሊ ኣእተዉ። ⟨את⟩ ⟨את⟩",
   "tokens": [
     {
       "surface": "וישחטו",
-      "gloss": "ሓረምቱ"
+      "gloss": "በዝሕዎ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "እቲ ፋር"
+      "marks": "እቲ በዓይ"
     },
     {
       "surface": "הפר",
-      "gloss": "እቲ ፋር"
+      "gloss": "እቲ በዓይ"
     },
     {
       "surface": "ויביאו",
@@ -27,11 +27,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "እቲ ቆልዑ"
+      "marks": "እቲ ቌላዒ"
     },
     {
       "surface": "הנער",
-      "gloss": "እቲ ቆልዑ"
+      "gloss": "እቲ ቌላዒ"
     },
     {
       "surface": "אל",
@@ -42,6 +42,6 @@
       "gloss": "ዔሊ"
     }
   ],
-  "timestamp": "2026-09-18T23:57:03.354845122Z",
+  "timestamp": "2026-09-25T03:22:52.564116997Z",
   "model": "glm-5.3"
 }

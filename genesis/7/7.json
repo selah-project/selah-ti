@@ -5,48 +5,48 @@
   "book": "genesis",
   "lang": "ti",
   "chapter": 7,
-  "translation": "ኖኅ ድማ፣ ውላዱን ሰበይቱን ሰበይቲ ውላዱን ምሲኡ ናብ ⟨እታ⟩ ታቦት ኣተዩ፣ ብምኽንያት ማይ ናይ ⟨እቲ⟩ ሙሉት።",
+  "translation": "ኖኅ ድማ ምስ ወዲቱ፣ ምስ ሰበይቱ፣ ምስ ሰበይቲ ወዲቱ ⟨את⟩ ምስ ንሱ ንእቲ መርከብ ካብ ፊት ናይ እቲ ማይ መጥለቒ ኣተወ።",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "ኣተዩ"
+      "gloss": "ኣተወ"
     },
     {
       "surface": "נח",
-      "gloss": "ኖኅ ድማ"
+      "gloss": "ኖኅ"
     },
     {
       "surface": "ובניו",
-      "gloss": "ውላዱን"
+      "gloss": "ወዲቱ"
     },
     {
       "surface": "ואשתו",
-      "gloss": "ሰበይቱን"
+      "gloss": "ሰበይቱ"
     },
     {
       "surface": "ונשי",
-      "gloss": "ሰበይቲ ውላዱን"
+      "gloss": "ሰበይቲ"
     },
     {
       "surface": "בניו",
-      "gloss": "ውላዱ"
+      "gloss": "ወዲቱ"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "ምሲኡ"
+      "gloss": "⟨את⟩ ምስ ንሱ",
+      "marks": "ኖኅ"
     },
     {
       "surface": "אל",
-      "gloss": "ናብ"
+      "gloss": "ንእቲ መርከብ ናብ"
     },
     {
       "surface": "התבה",
-      "gloss": "ታቦት"
+      "gloss": "እቲ መርከብ"
     },
     {
       "surface": "מפני",
-      "gloss": "ብምኽንያት"
+      "gloss": "ካብ ፊት"
     },
     {
       "surface": "מי",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "המבול",
-      "gloss": "ሙሉት"
+      "gloss": "እቲ መጥለቒ"
     }
   ],
-  "timestamp": "2026-09-18T20:34:24.518801469Z",
+  "timestamp": "2026-09-25T04:09:10.833228193Z",
   "model": "glm-5.3"
 }

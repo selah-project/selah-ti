@@ -5,15 +5,15 @@
   "book": "1-chronicles",
   "lang": "ti",
   "chapter": 5,
-  "translation": "ኤልዓዛር ሓደ ወሊዱ ፒንሕስ፣ ፒንሕስ ሓደ ወሊዱ ኣቢሹዓ።",
+  "translation": "ኤልዕዛር ⟨את⟩ ፒንሕስ ወለደ፣ ፒንሕስ ድማ ⟨את⟩ ኣቢሽዋዕ ወለደ።",
   "tokens": [
     {
       "surface": "אלעזר",
-      "gloss": "ኤልዓዛር"
+      "gloss": "ኤልዕዛር"
     },
     {
       "surface": "הוליד",
-      "gloss": "ሓደ ወሊዱ"
+      "gloss": "ወለደ"
     },
     {
       "surface": "את",
@@ -30,18 +30,18 @@
     },
     {
       "surface": "הליד",
-      "gloss": "ሓደ ወሊዱ"
+      "gloss": "ወለደ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ኣቢሹዓ"
+      "marks": "ኣቢሽዋዕ"
     },
     {
       "surface": "אבישוע",
-      "gloss": "ኣቢሹዓ"
+      "gloss": "ኣቢሽዋዕ"
     }
   ],
-  "timestamp": "2026-09-19T07:32:18.015177397Z",
+  "timestamp": "2026-09-25T03:17:45.443900417Z",
   "model": "glm-5.3"
 }

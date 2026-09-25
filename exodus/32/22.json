@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "ti",
   "chapter": 32,
-  "translation": "ኣሃሮን ድማ በሎ፦ «ወዲ ጎይታይ፣ ኣይትዓየብ፤ ንስኻ ተረዲእካ ⟨את⟩ እቲ ሕዝቢ፣ ብሕታብ ምዃኑ።»",
+  "translation": "ኣሃሮን ድማ በለ፦ «ዓው ኣዶናይ ኣይትንደድ፤ ንስኻ ⟨את⟩ እቲ ህዝቢ ክትፈልጦ ኣለካ፣ እኳ ናብ ክፉእ ዝተዓለለ እዩ።»",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "በሎ"
+      "gloss": "በለ"
     },
     {
       "surface": "אהרן",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "ኣይ"
+      "gloss": "ኣይ-…-ን"
     },
     {
       "surface": "יחר",
-      "gloss": "ትዓየብ"
+      "gloss": "ክትንደድ"
     },
     {
       "surface": "אף",
-      "gloss": "ቍጭት"
+      "gloss": "ዓው"
     },
     {
       "surface": "אדני",
-      "gloss": "ጎይታይ"
+      "gloss": "ኣዶናይ"
     },
     {
       "surface": "אתה",
@@ -37,30 +37,30 @@
     },
     {
       "surface": "ידעת",
-      "gloss": "ተረዲእካ"
+      "gloss": "ክትፈልጦ ኣለካ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "እቲ ሕዝቢ"
+      "marks": "እቲ ህዝቢ"
     },
     {
       "surface": "העם",
-      "gloss": "እቲ ሕዝቢ"
+      "gloss": "እቲ ህዝቢ"
     },
     {
       "surface": "כי",
-      "gloss": "ከም"
+      "gloss": "እኳ"
     },
     {
       "surface": "ברע",
-      "gloss": "ብሕታብ"
+      "gloss": "ናብ ክፉእ"
     },
     {
       "surface": "הוא",
-      "gloss": "ምዃኑ"
+      "gloss": "እዩ"
     }
   ],
-  "timestamp": "2026-09-18T21:38:05.526621565Z",
+  "timestamp": "2026-09-25T03:53:12.321636053Z",
   "model": "glm-5.3"
 }

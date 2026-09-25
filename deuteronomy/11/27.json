@@ -5,62 +5,63 @@
   "book": "deuteronomy",
   "lang": "ti",
   "chapter": 11,
-  "translation": "እታ በረኻ ⟨את⟩ — ኣንተኩም ንትእዛዝ ያህዌህ ኤሎሂምኩም ከም እትሰምዑ፣ እታ ኣነ ዜዝዛዘዠኩም ሎሚ።",
+  "translation": "እቲ በረኻ፣ ኣብ እተዝ ተሰሚዕኩም ናብ ትእዛዛት ያህዌህ ኤሎሂምኩም፣ እተዝ ኣነ ይዓድዎ ⟨את⟩ ነኩም ሎሚ፤",
   "tokens": [
     {
-      "surface": "את",
+      "surface": "אֶֽת",
       "gloss": "⟨את⟩",
-      "marks": "እታ በረኻ"
+      "marks": "እቲ በረካ"
     },
     {
-      "surface": "הברכה",
-      "gloss": "እታ በረኻ"
+      "surface": "הַבְּרָכָ֑ה",
+      "gloss": "እቲ በረካ"
     },
     {
-      "surface": "אשר",
-      "gloss": "—"
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "እተዝ"
     },
     {
-      "surface": "תשמעו",
-      "gloss": "እትሰምዑ"
+      "surface": "תִּשְׁמְע֗וּ",
+      "gloss": "ተሰሚዕኩም"
     },
     {
-      "surface": "אל",
-      "gloss": "ን"
+      "surface": "אֶל",
+      "gloss": "ናብ"
     },
     {
-      "surface": "מצות",
-      "gloss": "ትእዛዝ"
+      "surface": "מִצְוֺת֙",
+      "gloss": "ትእዛዛት"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָ֣ה",
       "gloss": "ያህዌህ"
     },
     {
-      "surface": "אלהיכם",
+      "surface": "אֱלֹֽהֵיכֶ֔ם",
       "gloss": "ኤሎሂምኩም"
     },
     {
-      "surface": "אשר",
-      "gloss": "እታ"
+      "surface": "אֲשֶׁ֧ר",
+      "gloss": "እተዝ"
     },
     {
-      "surface": "אנכי",
+      "surface": "אָנֹכִ֛י",
       "gloss": "ኣነ"
     },
     {
-      "surface": "מצוה",
-      "gloss": "ዜዝዛዘዥ"
+      "surface": "מְצַוֶּ֥ה",
+      "gloss": "ይዓድዎ"
     },
     {
-      "surface": "אתכם",
-      "gloss": "⟨את⟩ ንኹም"
+      "surface": "אֶתְכֶ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "ነኩም (ተቐባሊ ብዙሕነት ሃልዮታዊ)"
     },
     {
-      "surface": "היום",
+      "surface": "הַיּֽוֹם",
       "gloss": "ሎሚ"
     }
   ],
-  "timestamp": "2026-09-18T22:52:08.298681438Z",
+  "timestamp": "2026-09-25T03:44:29.576128385Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "ti",
   "chapter": 14,
-  "translation": "ነቲ ዓንዲ ኣርዙስ ⟨את⟩ን ነቲ ኣዞብ ⟨את⟩ን ነቲ ቀይሕ ስንባድ ⟨את⟩ን ነቲ ህያው ወፍቲ ⟨את⟩ን ወሲዱ፣ ኣብ ደም እታ ተሰዲዓ ወፍቲን ኣብ እቲ ህያው ማይን ከም እሞ ነንብቦም፣ ነቲ ቤት ሸሞንተ ግዜ ይርጭዎ ነቲ ቤት።",
+  "translation": "ነጊሩ ድማ እቲ ዓንቀጻ ዘለዎ ሰዱ ኣርዛ ወሲዱ ማዕረ ኣብ ቤቱ ሰሙዓት እዋናት ይትንክፍ።",
   "tokens": [
     {
       "surface": "ולקח",
@@ -14,83 +14,83 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ነቲ ዓንዲ ኣርዙስ"
+      "marks": "እቲ ዓንቀጻ ዘለዎ ሰዱ ኣርዛ"
     },
     {
       "surface": "עץ",
-      "gloss": "ዓንዲ"
+      "gloss": "ሰዱ"
     },
     {
       "surface": "הארז",
-      "gloss": "ኣርዙስ"
+      "gloss": "ኣርዛ"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ነቲ ኣዞብ"
+      "marks": "እቲ ዑዝብ"
     },
     {
       "surface": "האזב",
-      "gloss": "ነቲ ኣዞብ"
+      "gloss": "እቲ ዑዝብ"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ነቲ ቀይሕ ስንባድ"
+      "marks": "ሽንያ ናይ ትሕቲ"
     },
     {
       "surface": "שני",
-      "gloss": "ቀይሕ"
+      "gloss": "ሽንያ"
     },
     {
       "surface": "התולעת",
-      "gloss": "ስንባድ"
+      "gloss": "ናይ ትሕቲ"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ነቲ ህያው ወፍቲ"
+      "marks": "እቲ ሕያው ዑዕዊ"
     },
     {
       "surface": "הצפר",
-      "gloss": "ወፍቲ"
+      "gloss": "ዑዕዊ"
     },
     {
       "surface": "החיה",
-      "gloss": "ህያው"
+      "gloss": "ሕያው"
     },
     {
       "surface": "וטבל",
-      "gloss": "ነንብቦም"
+      "gloss": "ኣእቲዎም"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "ነቶም ኩሎም"
+      "gloss": "⟨את⟩",
+      "marks": "ኣብ ደም እቲ ዝተቐተለት ዑዕዊ"
     },
     {
       "surface": "בדם",
-      "gloss": "ኣብ ደም"
+      "gloss": "ደም"
     },
     {
       "surface": "הצפר",
-      "gloss": "ወፍቲ"
+      "gloss": "ዑዕዊ"
     },
     {
       "surface": "השחוטה",
-      "gloss": "ተሰዲዓ"
+      "gloss": "ዝተቐተለት"
     },
     {
       "surface": "ובמים",
-      "gloss": "ኣብ ማይን"
+      "gloss": "ማይ"
     },
     {
       "surface": "החיים",
-      "gloss": "ህያው"
+      "gloss": "ሕያዋት"
     },
     {
       "surface": "והזה",
-      "gloss": "ይርጭዎ"
+      "gloss": "ይትንክፍ"
     },
     {
       "surface": "אל",
@@ -98,17 +98,17 @@
     },
     {
       "surface": "הבית",
-      "gloss": "ነቲ ቤት"
+      "gloss": "እቲ ቤት"
     },
     {
       "surface": "שבע",
-      "gloss": "ሸሞንተ"
+      "gloss": "ሰሙዓት"
     },
     {
       "surface": "פעמים",
-      "gloss": "ግዜ"
+      "gloss": "እዋናት"
     }
   ],
-  "timestamp": "2026-09-18T21:55:30.462094289Z",
+  "timestamp": "2026-09-25T04:29:49.227810932Z",
   "model": "glm-5.3"
 }

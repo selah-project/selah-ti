@@ -1,1 +1,95 @@
-{"tier":"glm-5.2","verse":21,"ref":"2-kings 17:21","book":"2-kings","lang":"ti","chapter":17,"translation":"ስለ ዝበገሰ እስራኤል ካብ ስድራ ዳዊድ፣ ያሮብዓም ወዲ ነባት ነገሥቲ ኣበዉ፤ ያሮብዓም ድማ እስራኤል ካብ ምክትል ያህዌህ ኣፈልዩ፣ ዓብይ በደል ኣበደሎም።","tokens":[{"surface":"כי","gloss":"ስለ ዝበገሰ"},{"surface":"קרע","gloss":"በገሰ"},{"surface":"ישראל","gloss":"እስራኤል"},{"surface":"מעל","gloss":"ካብ"},{"surface":"בית","gloss":"ስድራ"},{"surface":"דוד","gloss":"ዳዊድ"},{"surface":"וימליכו","gloss":"ነገሥቲ ኣበዉ"},{"surface":"את","gloss":"⟨את⟩","marks":"ያሮብዓም"},{"surface":"ירבעם","gloss":"ያሮብዓም"},{"surface":"בן","gloss":"ወዲ"},{"surface":"נבט","gloss":"ነባት"},{"surface":"וידא","gloss":"ኣፈልዩ"},{"surface":"ירבעם","gloss":"ያሮብዓም"},{"surface":"את","gloss":"⟨את⟩","marks":"እስራኤል"},{"surface":"ישראל","gloss":"እስራኤል"},{"surface":"מאחרי","gloss":"ካብ ምክትል"},{"surface":"יהוה","gloss":"ያህዌህ"},{"surface":"והחטיאם","gloss":"ኣበደሎም"},{"surface":"חטאה","gloss":"በደል"},{"surface":"גדולה","gloss":"ዓብይ"}],"timestamp":"2026-09-19T01:31:17.611616084Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 17:21",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "እስራኤል ካብ ስድራ ዳዊድ ስለ ዝተቓረዐ፣ ⟨את⟩ ያሮብዓም ወዲ ነባት ነገሥትዎ፣ ያሮብዓም ድማ ⟨את⟩ እስራኤል ካብ ምክትል ያህዌህ ኣምለጾ፣ ዓብይ ሓጢኣት ድማ ኣብርሂሎም።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ስለ ዝ"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "ተቓረዐ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ካብ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ስድራ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "ነገሥትዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያሮብዓም"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ያሮብዓም"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ወዲ"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ነባት"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "ኣምለጾ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ያሮብዓም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እስራኤል"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ካብ ምክትል"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "והחטיאם",
+      "gloss": "ኣብርሂሎም"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "ሓጢኣት"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ዓብይ"
+    }
+  ],
+  "timestamp": "2026-09-25T03:32:48.856553573Z",
+  "model": "glm-5.3"
+}

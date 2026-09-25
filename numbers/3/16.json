@@ -5,16 +5,16 @@
   "book": "numbers",
   "lang": "ti",
   "chapter": 3,
-  "translation": "ሞሸ ድማ ⟨את ሌዋውያን⟩ ብቃል ያህዌህ ከም እተኣዘዞ ቐጸሮም።",
+  "translation": "ሞሸ ድማ ከም ዝተኣዘዞ ብኣፈ ያህዌህ ⟨את⟩ ንኣቶም ቆጸሞ።",
   "tokens": [
     {
       "surface": "ויפקד",
-      "gloss": "ቐጸሮም"
+      "gloss": "ቆጸሞ"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ሌዋውያን"
+      "marks": "ንኣቶም"
     },
     {
       "surface": "משה",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "פי",
-      "gloss": "ቃል"
+      "gloss": "ኣፈ"
     },
     {
       "surface": "יהוה",
@@ -38,9 +38,9 @@
     },
     {
       "surface": "צוה",
-      "gloss": "እተኣዘዞ"
+      "gloss": "ዝተኣዘዞ"
     }
   ],
-  "timestamp": "2026-09-18T22:13:20.399517881Z",
+  "timestamp": "2026-09-25T04:36:14.663276834Z",
   "model": "glm-5.3"
 }

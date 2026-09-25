@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ti",
   "chapter": 78,
-  "translation": "ንኢዱኡ ኣይዝኾርዎን፣ ነቲ መዓልቲ ካብ ተጣባቒ እንተ ዝዓድሎም እውን።",
+  "translation": "ኣይዘኻስቱን ኢዱን ⟨את⟩፣ እቲ መዓልቲ ካብ ጸላእቲ ዝደገፎሞ።",
   "tokens": [
     {
       "surface": "לא",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "זכרו",
-      "gloss": "ዝኾርዎ"
+      "gloss": "ዘኻስቱን"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ንኢዱኡ"
+      "marks": "ኢዱን"
     },
     {
       "surface": "ידו",
-      "gloss": "ኢዱኡ"
+      "gloss": "ኢዱን"
     },
     {
       "surface": "יום",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "እንተ ዝ"
+      "gloss": "ዝ"
     },
     {
       "surface": "פדם",
-      "gloss": "ዝዓድሎም"
+      "gloss": "ደገፎሞ"
     },
     {
       "surface": "מני",
@@ -42,9 +42,9 @@
     },
     {
       "surface": "צר",
-      "gloss": "ተጣባቒ"
+      "gloss": "ጸላእቲ"
     }
   ],
-  "timestamp": "2026-09-19T05:11:25.801292260Z",
+  "timestamp": "2026-09-25T04:40:32.769556654Z",
   "model": "glm-5.3"
 }

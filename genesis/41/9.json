@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "ti",
   "chapter": 41,
-  "translation": "ሻር መስቲ ድማ ንፓርዖ ተዛረበ ኢሉ፦ «እተፈላለዩ ጥፍኣተይ ሎሚ እነ እየ የዘንብ።»",
+  "translation": "እቲ ሻረ መስቲ ምስ ፓርዖ ⟨את⟩ ተዛረቦ ኢሉ፦ «ሎሚ ⟨את⟩ ሓጢያተይ ኣነ እየ ዝጽንብር» በለ።",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "ተዛረበ ድማ"
+      "gloss": "ተዛረቦ"
     },
     {
       "surface": "שר",
-      "gloss": "ሻር"
+      "gloss": "ሻረ"
     },
     {
       "surface": "המשקים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ን",
+      "gloss": "⟨את⟩",
       "marks": "ፓርዖ"
     },
     {
@@ -35,25 +35,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ጥፍኣተይ"
+      "marks": "ሓጢያተይ"
     },
     {
       "surface": "חטאי",
-      "gloss": "ጥፍኣተይ"
+      "gloss": "ሓጢያተይ"
     },
     {
       "surface": "אני",
-      "gloss": "እነ"
+      "gloss": "ኣነ"
     },
     {
       "surface": "מזכיר",
-      "gloss": "የዘንብ"
+      "gloss": "ዝጽንብር"
     },
     {
       "surface": "היום",
       "gloss": "ሎሚ"
     }
   ],
-  "timestamp": "2026-09-18T21:01:51.745748607Z",
+  "timestamp": "2026-09-25T04:07:24.949926714Z",
   "model": "glm-5.3"
 }

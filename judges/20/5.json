@@ -5,75 +5,76 @@
   "book": "judges",
   "lang": "ti",
   "chapter": 20,
-  "translation": "ኣባይቲ ገባዕ ንዓይ ተቓልሱ፣ ኣብ ለይቲ ነቲ ቤት ኣኅበሩኒ፤ ንዓይ ንምቕተል ሓሰቡ፣ ነቲ ⟨את⟩ ፍልጻይ ድማ ሓመይዎ፣ ኮይና ሞተት።",
+  "translation": "ኣባላት ጋባዕ ኣብ ልዕለይ ተቓሊሶም ነይ ⟨את⟩ እቲ ቤት ኣብ ማይ ለይቲ ኣኽቢብዎ፤ ⟨את⟩ ነይ ንምግታእ ኣሰቡ፣ ⟨את⟩ ጓል-ጓላይ ድማ ኣጕሕሺዋ ኮይና ሞተት።",
   "tokens": [
     {
       "surface": "ויקמו",
-      "gloss": "ተቓልሱ"
+      "gloss": "ተቓሊሶም"
     },
     {
       "surface": "עלי",
-      "gloss": "ንዓይ"
+      "gloss": "ኣብ ልዕለይ"
     },
     {
       "surface": "בעלי",
-      "gloss": "ኣባይቲ"
+      "gloss": "ኣባላት"
     },
     {
       "surface": "הגבעה",
-      "gloss": "ገባዕ"
+      "gloss": "ጋባዕ"
     },
     {
       "surface": "ויסבו",
-      "gloss": "ኣኅበሩኒ"
+      "gloss": "ኣኽቢብዎ"
     },
     {
       "surface": "עלי",
-      "gloss": "ንዓይ"
+      "gloss": "ኣብ ልዕለይ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ቤት"
+      "marks": "እቲ ቤት"
     },
     {
       "surface": "הבית",
-      "gloss": "ነቲ ቤት"
+      "gloss": "እቲ ቤት"
     },
     {
       "surface": "לילה",
-      "gloss": "ኣብ ለይቲ"
+      "gloss": "ኣብ ማይ ለይቲ"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ ንዓይ"
+      "gloss": "⟨את⟩ ነይ",
+      "marks": "ነይ (ንሱ)"
     },
     {
       "surface": "דמו",
-      "gloss": "ሓሰቡ"
+      "gloss": "ኣሰቡ"
     },
     {
       "surface": "להרג",
-      "gloss": "ንምቕተል"
+      "gloss": "ንምግታእ"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ፍልጻይ"
+      "marks": "ጓል-ጓላይ"
     },
     {
       "surface": "פילגשי",
-      "gloss": "ነቲ ፍልጻይ"
+      "gloss": "ጓል-ጓላይ"
     },
     {
       "surface": "ענו",
-      "gloss": "ሓመይዎ"
+      "gloss": "ኣጕሕሺዋ"
     },
     {
       "surface": "ותמת",
       "gloss": "ሞተት"
     }
   ],
-  "timestamp": "2026-09-18T23:53:08.570552825Z",
+  "timestamp": "2026-09-25T04:25:54.998630201Z",
   "model": "glm-5.3"
 }

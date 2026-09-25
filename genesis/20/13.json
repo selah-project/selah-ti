@@ -5,24 +5,24 @@
   "book": "genesis",
   "lang": "ti",
   "chapter": 20,
-  "translation": "ምስ ኤሎሂም ⟨את⟩ ኣነ ካብ ቤት ኣቦይ ኣበጋግሰኒ፣ ነባዓ ንሳ እናበልኩ፦ እዚ ሔሴድኪ እዩ እትገብረኒ ምስኒ — ኣብ ኩሉ ቦታ እንእተትሉ፣ ኣነ ‹ሓወይ እዩ› በሊ።",
+  "translation": "ኤሎሂም ስለ ዝጐዓዘኒ ⟨את⟩ ካብ ቤት ኣቦይ፣ ነታ እናበልኋቶ፦ «እዚ ሔሴድኪ እዩ እትገብርኒ ዘለኻ፤ ኣብ ኩሉ ቦታ እንኣቱኡሉ ኣሕዊ እዩ በለኒ» እናበልኩ።",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ነይሩ"
+      "gloss": "ኰይኑ እናበለ"
     },
     {
       "surface": "כאשר",
-      "gloss": "ምስ"
+      "gloss": "ስለ ዝ"
     },
     {
       "surface": "התעו",
-      "gloss": "ኣበጋግሰኒ"
+      "gloss": "ጐዓዘኒ"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "ኣነ"
+      "marks": "ኤሎሂም"
     },
     {
       "surface": "אלהים",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "לה",
-      "gloss": "ነባዓ"
+      "gloss": "ነታ"
     },
     {
       "surface": "זה",
@@ -54,23 +54,23 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ከም"
+      "gloss": "እት"
     },
     {
       "surface": "תעשי",
-      "gloss": "ትገብሪ"
+      "gloss": "ገብርኒ"
     },
     {
       "surface": "עמדי",
-      "gloss": "ምስኒ"
+      "gloss": "ምሳይ"
     },
     {
       "surface": "אל",
-      "gloss": "ናብ"
+      "gloss": "ኣብ"
     },
     {
       "surface": "כל",
-      "gloss": "ኹሉ"
+      "gloss": "ኩሉ"
     },
     {
       "surface": "המקום",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ከም"
+      "gloss": "እን"
     },
     {
       "surface": "נבוא",
-      "gloss": "ንእተት"
+      "gloss": "ንኣቱኡሉ"
     },
     {
       "surface": "שמה",
@@ -90,21 +90,21 @@
     },
     {
       "surface": "אמרי",
-      "gloss": "በሊ"
+      "gloss": "በለኒ"
     },
     {
       "surface": "לי",
-      "gloss": "ነይ"
+      "gloss": "ንዓይ"
     },
     {
       "surface": "אחי",
-      "gloss": "ሓወይ"
+      "gloss": "ኣሕዊ"
     },
     {
       "surface": "הוא",
       "gloss": "እዩ"
     }
   ],
-  "timestamp": "2026-09-18T20:43:44.369532883Z",
+  "timestamp": "2026-09-25T04:03:26.461152231Z",
   "model": "glm-5.3"
 }

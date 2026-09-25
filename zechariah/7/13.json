@@ -5,27 +5,27 @@
   "book": "zechariah",
   "lang": "ti",
   "chapter": 7,
-  "translation": "ከምኡ ዀነ፦ ከም ዝጸወዐ እሞ ኣይሰምዑን፣ ከምኡ እና ይጸውዑ እሞ ኣይሰምዐን፣ በለ ያህዌህ ጸባኦት።",
+  "translation": "ኰይኑ ከምቲ ደወሎምን ኣይሰምዑን፣ ከምኡ እኳ እንተ ደወሉ ኣነ ኣይሰምዐን እየ በለ ያህዌህ ጸባኦት።",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ዀነ"
+      "gloss": "ኰይኑ"
     },
     {
       "surface": "כאשר",
-      "gloss": "ከም"
+      "gloss": "ከምቲ"
     },
     {
       "surface": "קרא",
-      "gloss": "ጸወዐ"
+      "gloss": "ደወለ"
     },
     {
       "surface": "ולא",
-      "gloss": "ኣይ"
+      "gloss": "ኣይ…ን"
     },
     {
       "surface": "שמעו",
-      "gloss": "ሰምዑን"
+      "gloss": "ሰምዑ"
     },
     {
       "surface": "כן",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "יקראו",
-      "gloss": "ይጸውዑ"
+      "gloss": "ደወሉ"
     },
     {
       "surface": "ולא",
-      "gloss": "ኣይ"
+      "gloss": "ኣይ…ን"
     },
     {
       "surface": "אשמע",
-      "gloss": "ሰምዐን"
+      "gloss": "ሰምዐኩ"
     },
     {
       "surface": "אמר",
@@ -56,6 +56,6 @@
       "gloss": "ጸባኦት"
     }
   ],
-  "timestamp": "2026-09-19T04:33:13.739165118Z",
+  "timestamp": "2026-09-25T04:42:25.738778589Z",
   "model": "glm-5.3"
 }

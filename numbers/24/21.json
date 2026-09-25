@@ -1,1 +1,58 @@
-{"tier":"glm-5.2","verse":21,"ref":"numbers 24:21","book":"numbers","lang":"ti","chapter":24,"translation":"ንቐኔይ ድማ ረኣየ፣ ምሳሉ ኣንሳእዩ በለ፦ ሓድሽ እዩ መቕሚጥካ፣ ኣብ ⟨ገደብ⟩ ድማ ጥጋኣ ዓቢኻ።","tokens":[{"surface":"וירא","gloss":"ረኣየ"},{"surface":"את","gloss":"⟨את⟩","marks":"ቐኔይ"},{"surface":"הקיני","gloss":"ቐኔይ"},{"surface":"וישא","gloss":"ኣንሳእዩ"},{"surface":"משלו","gloss":"ምሳሉ"},{"surface":"ויאמר","gloss":"በለ"},{"surface":"איתן","gloss":"ሓድሽ"},{"surface":"מושבך","gloss":"መቕሚጥካ"},{"surface":"ושים","gloss":"ዓቢኻ"},{"surface":"בסלע","gloss":"ኣብ ⟨ገደብ⟩"},{"surface":"קנך","gloss":"ጥጋኣ"}],"timestamp":"2026-09-18T22:32:14.348935384Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 24:21",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 24,
+  "translation": "ኣብ ቀይኒ እናረኣየ ⟨את⟩ ነቲ ቀይኒ፣ ምሳሉ ኣልዓለ እናበለ፦ «ሓያላይ ምስደቓኻ እዩ፣ ጥቓኻ ድማ ኣብ ወጥሪ ኣቕሚድካ።»",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "እናረኣየ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ቀይኒ"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "ነቲ ቀይኒ"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ኣልዓለ"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ምሳሉ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ሓያላይ"
+    },
+    {
+      "surface": "מושבך",
+      "gloss": "ምስደቓኻ"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "ኣቕሚድካ"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "ኣብ ወጥሪ"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "ጥቓኻ"
+    }
+  ],
+  "timestamp": "2026-09-25T04:37:06.164112974Z",
+  "model": "glm-5.3"
+}

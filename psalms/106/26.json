@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "ti",
   "chapter": 106,
-  "translation": "ድሕሪኡ ኢዱ ንኣይኦም ኣልዓለ፣ ኣብ ምድረ በዳ ንኽወድቖም።",
+  "translation": "ስለዚ ኢዱ ኣንሢሉ ንሳቶም ኣብ በረኻ ⟨את⟩ ንኽኣድኖም።",
   "tokens": [
     {
       "surface": "וישא",
-      "gloss": "ኣልዓለ"
+      "gloss": "ኣንሢሉ"
     },
     {
       "surface": "ידו",
@@ -17,22 +17,22 @@
     },
     {
       "surface": "להם",
-      "gloss": "ንኣይኦም"
+      "gloss": "ንሳቶም"
     },
     {
       "surface": "להפיל",
-      "gloss": "ንኽወድቖም"
+      "gloss": "ንኽኣድኖም"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "ንኣይኦም"
+      "marks": "በረኻ"
     },
     {
       "surface": "במדבר",
-      "gloss": "ኣብ ምድረ በዳ"
+      "gloss": "ኣብ በረኻ"
     }
   ],
-  "timestamp": "2026-09-19T05:24:45.821973785Z",
+  "timestamp": "2026-09-25T04:39:32.288919411Z",
   "model": "glm-5.3"
 }

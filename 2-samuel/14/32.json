@@ -1,1 +1,142 @@
-{"tier":"glm-5.2","verse":32,"ref":"2-samuel 14:32","book":"2-samuel","lang":"ti","chapter":14,"translation":"ኣብሽሎም ድማ ነቲ ዮኣብ በሎ፦ «እንሆ ነትኻ ሰዲደያ ኢለ፦ ናፍ ኣብዚ፣ ነትኻ ናብ እቲ ንጉስ ኢለ ክብለካ ኮይኑ ክሰድዓካ እየ — ስለስቱ ካብ ጌሹር መጺአ እየ? ኣነ ገና ኣብኡ ምስ ምንባር ዝሓሸ እዩ ነይሩ። ሕጂ ድማ ገጽ እቲ ንጉስ ክረኣየ እየ፤ ሓጢኣት እንተ ዝኾነብኒ ድማ ክቐትለኒ።»","tokens":[{"surface":"ויאמר","gloss":"በሎ"},{"surface":"אבשלום","gloss":"ኣብሽሎም"},{"surface":"אל","gloss":"ነቲ"},{"surface":"יואב","gloss":"ዮኣብ"},{"surface":"הנה","gloss":"እንሆ"},{"surface":"שלחתי","gloss":"ሰዲደያ"},{"surface":"אליך","gloss":"ነትኻ"},{"surface":"לאמר","gloss":"ኢለ"},{"surface":"בא","gloss":"ናፍ"},{"surface":"הנה","gloss":"ኣብዚ"},{"surface":"ואשלחה","gloss":"ክሰድዓካ"},{"surface":"אתך","gloss":"⟨את⟩","marks":"ነትኻ"},{"surface":"אל","gloss":"ናብ"},{"surface":"המלך","gloss":"እቲ ንጉስ"},{"surface":"לאמר","gloss":"ኢለ"},{"surface":"למה","gloss":"ስለስቱ"},{"surface":"באתי","gloss":"መጺአ"},{"surface":"מגשור","gloss":"ካብ ጌሹር"},{"surface":"טוב","gloss":"ዝሓሸ"},{"surface":"לי","gloss":"ንኹን"},{"surface":"עד","gloss":"ገና"},{"surface":"אני","gloss":"ኣነ"},{"surface":"שם","gloss":"ኣብኡ"},{"surface":"ועתה","gloss":"ሕጂ"},{"surface":"אראה","gloss":"ክረኣየ"},{"surface":"פני","gloss":"ገጽ"},{"surface":"המלך","gloss":"እቲ ንጉስ"},{"surface":"ואם","gloss":"እንተ"},{"surface":"יש","gloss":"ዝኾነ"},{"surface":"בי","gloss":"ኣብኒ"},{"surface":"עון","gloss":"ሓጢኣት"},{"surface":"והמתני","gloss":"ክቐትለኒ"}],"timestamp":"2026-09-19T00:33:46.952021213Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 14:32",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 14,
+  "translation": "ኣብሳሎም ድማ ንዮኣብ ተዛረበ፦ «እስከ ንምባል ናብኻ ሰደዕኩ፣ ኣብዚ ና፣ ᐨእኡ ኬብልኻ፣ ⟨את⟩ ንዓኻ ነቲ ንጉሥ ንምባል እስደዓ፣ ንምባል፦ እንታይ ምኽንያት ካብ ጌሹር መጸኹ? ኣብኡ ከም ዝነብር ኣነ ጽቡእ ነይሩኒ። ሕጂ ድማ ገጽ እቲ ንጉሥ ኬርኣየ እየ፤ ኣብኣይ ውን ኣበይታ እንተ ዝኾና ክቕብዐኒ።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ኣብሳሎም"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ን"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ዮኣብ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "እስከ"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ሰደዕኩ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ናብኻ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ንምባል"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ና"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ኣብዚ"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "እስደዓ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ንዓኻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉሥ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ንምባል"
+    },
+    {
+      "surface": "למה",
+      "gloss": "እንታይ ምኽንያት"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "መጸኹ"
+    },
+    {
+      "surface": "מגשור",
+      "gloss": "ካብ ጌሹር"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ጽቡእ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ከም ዝነብር"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ኣብኡ"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ኬርኣየ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ገጽ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉሥ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ውን እንተ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ዝኾና"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ኣብኣይ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ኣበይታ"
+    },
+    {
+      "surface": "והמתני",
+      "gloss": "ክቕብዐኒ"
+    }
+  ],
+  "timestamp": "2026-09-25T03:39:21.273169474Z",
+  "model": "glm-5.3"
+}

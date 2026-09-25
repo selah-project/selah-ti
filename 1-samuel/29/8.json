@@ -1,1 +1,109 @@
-{"tier":"glm-5.2","verse":8,"ref":"1-samuel 29:8","book":"1-samuel","lang":"ti","chapter":29,"translation":"ዳዊድ ድማ ንኣኪሽ በሎ፦ «እንታይ ድኣ ገበርኩ፧ እንታይ ረኺብካዮ ድማ ኣብ ባሮኻ፧ ካብቲ መዓልቲ ቅድሚኻ እተቐመጥኩ ክሳብ እዚ መዓልቲ እዚ፧ ስለዚ ኣይከድንን፣ ምስ ሒዙ ኣበይቲ ናይ ጎይታይ እቲ ንጉስ ንኽትጋደል፧»","tokens":[{"surface":"ויאמר","gloss":"በለ"},{"surface":"דוד","gloss":"ዳዊድ"},{"surface":"אל","gloss":"ን"},{"surface":"אכיש","gloss":"ኣኪሽ"},{"surface":"כי","gloss":"«...፧"},{"surface":"מה","gloss":"እንታይ"},{"surface":"עשיתי","gloss":"ገበርኩ"},{"surface":"ומה","gloss":"እንታይ...ድማ"},{"surface":"מצאת","gloss":"ረኺብካዮ"},{"surface":"בעבדך","gloss":"ኣብ ባሮኻ"},{"surface":"מיום","gloss":"ካብ መዓልቲ"},{"surface":"אשר","gloss":"እተ"},{"surface":"הייתי","gloss":"ተቐመጥኩ"},{"surface":"לפניך","gloss":"ቅድሚኻ"},{"surface":"עד","gloss":"ክሳብ"},{"surface":"היום","gloss":"እዚ መዓልቲ"},{"surface":"הזה","gloss":"እዚ"},{"surface":"כי","gloss":"ስለዚ"},{"surface":"לא","gloss":"ኣይ...ን"},{"surface":"אבוא","gloss":"እናኸድን"},{"surface":"ונלחמתי","gloss":"ንኽትጋደል...ንተዋጋእ"},{"surface":"באיבי","gloss":"ምስ ሒዙ ኣበይቲ"},{"surface":"אדני","gloss":"ናይ ጎይታይ"},{"surface":"המלך","gloss":"እቲ ንጉስ"}],"timestamp":"2026-09-19T00:19:56.301841740Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 29:8",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ዳዊድ ድማ ናብ ኣኪሽ በሎ፦ «እንታይ ገበርኩኒ፧ ካብቲ መዓልቲ ኣብ ቅድሚኻ እንተሃልዩ ክሳብ እዚ መዓልቲ እዚ ኣብ ባርያኻ እንታይ ረኣያ፧ ብኣይኮን ምስ ኣባጋላቲ ጎይታይ እቲ ንጉስ ክተዓጅመሉ ኣይኺደን።»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ዳዊድ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "ኣኪሽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ፡"
+    },
+    {
+      "surface": "מה",
+      "gloss": "እንታይ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ገበርኩኒ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ከምኡውን፡"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "ረኣያ"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "ኣብ ባርያኻ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ካብቲ መዓልቲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "እንተሃልዩ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ኣብ ቅድሚኻ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "እቲ መዓልቲ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "እኺድን"
+    },
+    {
+      "surface": "ונלחמתי",
+      "gloss": "ክተዓጅመሉ"
+    },
+    {
+      "surface": "באיבי",
+      "gloss": "ምስ ኣባጋላቲ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ጎይታይ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "እቲ ንጉስ"
+    }
+  ],
+  "timestamp": "2026-09-25T03:27:11.479639858Z",
+  "model": "glm-5.3"
+}

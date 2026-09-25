@@ -1,1 +1,95 @@
-{"tier":"glm-5.2","verse":15,"ref":"2-samuel 17:15","book":"2-samuel","lang":"ti","chapter":17,"translation":"ኹሺ ድማ ናብ ጸዶቅን ናብ ኣቢያታርን ኣካልቲ ኤሎሂም፦ «ከምዚኦም ከምዚኦም ኣኺቶፌል ⟨את⟩ ኣብሻሎምን ⟨ואת⟩ ሽማግለታት እስራኤልን ምክርዎ፤ ኣነ ድማ ከምዚኦም ከምዚኦም ምክሬ እየ» በሎም።","tokens":[{"surface":"ויאמר","gloss":"በሎም"},{"surface":"חושי","gloss":"ኹሺ"},{"surface":"אל","gloss":"ናብ"},{"surface":"צדוק","gloss":"ጸዶቅ"},{"surface":"ואל","gloss":"ንናብ"},{"surface":"אביתר","gloss":"ኣቢያታር"},{"surface":"הכהנים","gloss":"ኣካልቲ ኤሎሂም"},{"surface":"כזאת","gloss":"ከምዚኦም"},{"surface":"וכזאת","gloss":"ከምዚኦም"},{"surface":"יעץ","gloss":"ምክርዎ"},{"surface":"אחיתפל","gloss":"ኣኺቶፌል"},{"surface":"את","gloss":"⟨את⟩","marks":"ኣብሻሎም"},{"surface":"אבשלם","gloss":"ኣብሻሎም"},{"surface":"ואת","gloss":"⟨את⟩","marks":"ሽማግለታት እስራኤል"},{"surface":"זקני","gloss":"ሽማግለታት"},{"surface":"ישראל","gloss":"እስራኤል"},{"surface":"וכזאת","gloss":"ከምዚኦም"},{"surface":"וכזאת","gloss":""},{"surface":"יעצתי","gloss":"ምክሬ"},{"surface":"אני","gloss":"ኣነ"}],"timestamp":"2026-09-19T00:35:54.846402765Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 17:15",
+  "book": "2-samuel",
+  "lang": "ti",
+  "chapter": 17,
+  "translation": "ሑሺ ድማ ነቶም ካህናት ናብ ጸዱቅን ናብ ኣብያታርን «ከምዚን ከምዚን ኣሕቶፍል ⟨את⟩ ኣብሳሎምን ⟨ואת⟩ ሽማሕቲ እስራኤልን ምክርዎ፣ ኣነ ድማ ከምዚን ከምዚን ምክርኩ።» በሎም።",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "በሎም"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "ሑሺ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ጸዱቅ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ከምኡውን ናብ"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "ኣብያታር"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ካህናት"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "ምክርዎ"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "ኣሕቶፍል"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣብሳሎም"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "ኣብሳሎም"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ሽማሕቲ እስራኤል"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ሽማሕቲ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "ከምዚ"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "ምክርኩ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ኣነ"
+    }
+  ],
+  "timestamp": "2026-09-25T03:37:57.264314863Z",
+  "model": "glm-5.3"
+}

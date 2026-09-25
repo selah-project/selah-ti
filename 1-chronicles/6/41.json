@@ -5,37 +5,37 @@
   "book": "1-chronicles",
   "lang": "ti",
   "chapter": 6,
-  "translation": "ነቲ ናይ ⟨እታ⟩ ከተማ ሜዳ ድማን ⟨את⟩ ኣጋልባታታን ንከለብ ወዲ የፉኔ ሃቡ።",
+  "translation": "ድማ ⟨את⟩ ማዕዶ ናይ እቲ ከተማን ⟨את⟩ ገበናታታትን ንከሌብ ወዲ የፉነ ሃብዎ።",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ሜዳ ናይ ከተማ"
+      "marks": "ማዕዶ"
     },
     {
       "surface": "שדה",
-      "gloss": "ሜዳ"
+      "gloss": "ማዕዶ"
     },
     {
       "surface": "העיר",
-      "gloss": "ናይ እታ ከተማ"
+      "gloss": "ናይ እቲ ከተማ"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ኣጋልባታታታ"
+      "marks": "ገበናታታት"
     },
     {
       "surface": "חצריה",
-      "gloss": "ኣጋልባታታታ"
+      "gloss": "ገበናታታት"
     },
     {
       "surface": "נתנו",
-      "gloss": "ሃቡ"
+      "gloss": "ሃብዎ"
     },
     {
       "surface": "לכלב",
-      "gloss": "ንከለብ"
+      "gloss": "ንከሌብ"
     },
     {
       "surface": "בן",
@@ -43,9 +43,9 @@
     },
     {
       "surface": "יפנה",
-      "gloss": "የፉኔ"
+      "gloss": "የፉነ"
     }
   ],
-  "timestamp": "2026-09-19T07:33:39.056511084Z",
+  "timestamp": "2026-09-25T03:17:48.167264391Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,28 @@
   "book": "deuteronomy",
   "lang": "ti",
   "chapter": 22,
-  "translation": "እቶም ሽማግለታት እቲኣ ከተማ ⟨את⟩ እቲ ሰብ ወሲዶም ያጽንዕዎ።",
+  "translation": "ዝኾነ ብዝኾነ ዓቢታት እቲ ከተማ እታ ብዛዕባ ዝተዛረበሉ እቲ ሰብ ⟨את⟩ ወሲዶም፣ ነቲ ሰብ እውን ⟨את⟩ ይግልጹ።",
   "tokens": [
     {
       "surface": "ולקחו",
-      "gloss": "ወሲዶም"
+      "gloss": "ይወስዱን"
     },
     {
       "surface": "זקני",
-      "gloss": "ሽማግለታት"
+      "gloss": "ዓቢታት"
     },
     {
       "surface": "העיר",
-      "gloss": "ከተማ"
+      "gloss": "ናይ እቲ ከተማ"
     },
     {
       "surface": "ההוא",
-      "gloss": "እቲኣ"
+      "gloss": "እታ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "እቲ ሰብ"
+      "marks": "ነቲ ሰብ"
     },
     {
       "surface": "האיש",
@@ -34,14 +34,14 @@
     },
     {
       "surface": "ויסרו",
-      "gloss": "ያጽንዕዎ"
+      "gloss": "ይግልጹን"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "ንኡ"
+      "gloss": "⟨את⟩",
+      "marks": "ነቲ ሰብ"
     }
   ],
-  "timestamp": "2026-09-18T23:03:56.815676436Z",
+  "timestamp": "2026-09-25T03:45:13.654303378Z",
   "model": "glm-5.3"
 }

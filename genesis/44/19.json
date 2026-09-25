@@ -5,32 +5,32 @@
   "book": "genesis",
   "lang": "ti",
   "chapter": 44,
-  "translation": "«ጎይታ ⟨את⟩ ዓማውቱ ሓተቶም ኢሉ፦ ኣቦ ወይ ሓው ኣለኹም ድዩ?»",
+  "translation": "ኣዶናይ ንኣገልገልቱ ⟨את⟩ እናበለ ሓተተ፦ «ኣቦ ወይ ሓው ኣለኩም ድዩ?»",
   "tokens": [
     {
       "surface": "אדני",
-      "gloss": "ጎይታ"
+      "gloss": "ኣዶናይ"
     },
     {
       "surface": "שאל",
-      "gloss": "ሓተቶም"
+      "gloss": "ሓተተ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ዓማውቱ"
+      "marks": "ኣገልገልቱ"
     },
     {
       "surface": "עבדיו",
-      "gloss": "ዓማውቱ"
+      "gloss": "ንኣገልገልቱ"
     },
     {
       "surface": "לאמר",
-      "gloss": "ኢሉ"
+      "gloss": "እናበለ"
     },
     {
       "surface": "היש",
-      "gloss": "ኣለ"
+      "gloss": "ኣለ ድዩ"
     },
     {
       "surface": "לכם",
@@ -49,6 +49,6 @@
       "gloss": "ሓው"
     }
   ],
-  "timestamp": "2026-09-18T21:05:24.542683776Z",
+  "timestamp": "2026-09-25T04:06:22.516819722Z",
   "model": "glm-5.3"
 }

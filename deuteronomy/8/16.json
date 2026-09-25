@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":16,"ref":"deuteronomy 8:16","book":"deuteronomy","lang":"ti","chapter":8,"translation":"ኣብቲ ኣባትካ እንተ ዘይፈልጡዎ ማን፣ ኣብ ምድረ በዳ ዝመግበካ፣ ንምውድቕኻን ንምፍተናኻን፣ ኣብ መወዳእታኻ በሃናኻ እምበር።","tokens":[{"surface":"המאכלך","gloss":"ዝመግበካ"},{"surface":"מן","gloss":"ማን"},{"surface":"במדבר","gloss":"ኣብ ምድረ በዳ"},{"surface":"אשר","gloss":"እቲ"},{"surface":"לא","gloss":"እንተ ዘይ"},{"surface":"ידעון","gloss":"ፈልጡዎ"},{"surface":"אבתיך","gloss":"ኣባትካ"},{"surface":"למען","gloss":"ብምኽንያት"},{"surface":"ענתך","gloss":"ምውድቕኻ"},{"surface":"ולמען","gloss":"ድማ ብምኽንያት"},{"surface":"נסתך","gloss":"ምፍተናኻ"},{"surface":"להיטבך","gloss":"በሃናኻ"},{"surface":"באחריתך","gloss":"ኣብ መወዳእታኻ"}],"timestamp":"2026-09-18T22:52:31.524137095Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "ti",
+  "chapter": 8,
+  "translation": "ኣብ ምድረ-በዳ ኣቦታትካ ዘይፈልጡዎ ማን እቲ ዝመገበካ ኮይኑ፣ ንኽትሕዘኻን ኣብ መወዳእታኻ ክሓልወካ ድማ ንኽትኽተስንኻን ኢሉ እዩ።",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "እቲ ዝመገበካ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ማን"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ኣብ ምድረ-በዳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝኾነ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይፈልጡዎ"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "ኣይፈልጡን"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "ኣቦታትካ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ንኽትሕዘኻ"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "ንኽትሕዘካ"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ንኽትኽተስንካን"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "ንኽትፈትንካ"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "ንኽሓልወካ"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "ኣብ መወዳእታኻ"
+    }
+  ],
+  "timestamp": "2026-09-25T03:47:56.444291138Z",
+  "model": "glm-5.3"
+}

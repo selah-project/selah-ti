@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":11,"ref":"jeremiah 15:11","book":"jeremiah","lang":"ti","chapter":15,"translation":"በሎ ያህዌህ፦ ⟨እወ⟩ ነጻ ኣውጺአኒ ንበሩኣይ፤ ⟨እወ⟩ ኣብ እዋን ቕጽልን ኣብ እዋን ጸገምን ምስ ⟨את⟩ እቲ ተጋዳላይ ተማሓራኸብኩ።","tokens":[{"surface":"אמר","gloss":"በሎ"},{"surface":"יהוה","gloss":"ያህዌህ"},{"surface":"אם","gloss":"⟨እወ⟩"},{"surface":"לא","gloss":""},{"surface":"שרותך","gloss":"ነጻ ኣውጺአኒ"},{"surface":"לטוב","gloss":"ንበሩኣይ"},{"surface":"אם","gloss":"⟨እወ⟩"},{"surface":"לוא","gloss":""},{"surface":"הפגעתי","gloss":"ተማሓራኸብኩ"},{"surface":"בך","gloss":"ምስ"},{"surface":"בעת","gloss":"ኣብ እዋን"},{"surface":"רעה","gloss":"ቕጽል"},{"surface":"ובעת","gloss":"ኣብ እዋንን"},{"surface":"צרה","gloss":"ጸገም"},{"surface":"את","gloss":"⟨את⟩","marks":"እቲ ተጋዳላይ"},{"surface":"האיב","gloss":"እቲ ተጋዳላይ"}],"timestamp":"2026-09-19T02:39:55.449710394Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 15:11",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 15,
+  "translation": "ያህዌህ ተዛረበ፦ «ንሓቢያ ነጻኻ ንበጽሕ ዘይኮነን? ንሓቢያ ኣብ ግዜ ክፉእን ኣብ ግዜ ብሽታን ⟨את⟩ እቲ ኣጋንንቲ ምስ ንስኻ ዓዲኹ ኣይኮነን?»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ተዛረበ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ንሓቢያ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ዘይኮነን"
+    },
+    {
+      "surface": "שרותך",
+      "gloss": "ነጻኻ"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "ንበጽሕ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ንሓቢያ"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "הפגעתי",
+      "gloss": "ዓዲኹ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ምስ ንስኻ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ኣብ ግዜ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ክፉእ"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "ኣብ ግዜ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ብሽታ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ኣጋንንቲ"
+    },
+    {
+      "surface": "האיב",
+      "gloss": "እቲ ኣጋንንቲ"
+    }
+  ],
+  "timestamp": "2026-09-25T04:13:26.868586332Z",
+  "model": "glm-5.3"
+}

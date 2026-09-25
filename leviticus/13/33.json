@@ -5,59 +5,59 @@
   "book": "leviticus",
   "lang": "ti",
   "chapter": 13,
-  "translation": "ንሱ ድማ ክገብር እዩ፣ እቲ ኩነታት ግን ኣይገብርን፤ እቲ ኻህን ድማ ⟨את⟩ እቲ ኩነታት ሰባተ መዓልታት ካልኣይ ግዜ ይዕጾዮ።",
+  "translation": "ንሱ ድማ እቲ ቦታ ከይ ሓሊዙ እዩ ዝተኻለዎ፣ ⟨את⟩ እቲ ንጥቃዕ ግን ኣይኻልዖን፤ እቲ ኻህን ድማ ⟨את⟩ እቲ ንጥቃዕ ሰቡዕ መዓልታት ዳግማይ ግዜ ዓቲሩ እዩ።",
   "tokens": [
     {
-      "surface": "והתגלח",
-      "gloss": "ክገብር እዩ"
+      "surface": "וְהִתְגַּלָּח",
+      "gloss": "ተኻለዎ"
     },
     {
-      "surface": "ואת",
+      "surface": "וְאֶת",
       "gloss": "⟨את⟩",
-      "marks": "ኩነታት"
+      "marks": "እቲ ንጥቃዕ"
     },
     {
-      "surface": "הנתק",
-      "gloss": "ኩነታት"
+      "surface": "הַנֶּתֶק",
+      "gloss": "እቲ ንጥቃዕ"
     },
     {
-      "surface": "לא",
-      "gloss": "ኣይ"
+      "surface": "לֹא",
+      "gloss": "ኣይኮነን"
     },
     {
-      "surface": "יגלח",
-      "gloss": "ገብርን"
+      "surface": "יְגַלֵּחַ",
+      "gloss": "ይኻልዖን"
     },
     {
-      "surface": "והסגיר",
-      "gloss": "ይዕጾዮ"
+      "surface": "וְהִסְגִּיר",
+      "gloss": "ዓቲሩ"
     },
     {
-      "surface": "הכהן",
-      "gloss": "ኻህን"
+      "surface": "הַכֹּהֵן",
+      "gloss": "እቲ ኻህን"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "ኩነታት"
+      "marks": "እቲ ንጥቃዕ"
     },
     {
-      "surface": "הנתק",
-      "gloss": "ኩነታት"
+      "surface": "הַנֶּתֶק",
+      "gloss": "እቲ ንጥቃዕ"
     },
     {
-      "surface": "שבעת",
-      "gloss": "ሰባተ"
+      "surface": "שֶׁבַעַת",
+      "gloss": "ሰቡዕ"
     },
     {
-      "surface": "ימים",
+      "surface": "יָמִים",
       "gloss": "መዓልታት"
     },
     {
-      "surface": "שנית",
-      "gloss": "ካልኣይ ግዜ"
+      "surface": "שֵׁנִית",
+      "gloss": "ዳግማይ"
     }
   ],
-  "timestamp": "2026-09-18T21:56:43.834887430Z",
+  "timestamp": "2026-09-25T04:28:28.432072295Z",
   "model": "glm-5.3"
 }

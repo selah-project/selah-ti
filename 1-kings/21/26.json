@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":26,"ref":"1-kings 21:26","book":"1-kings","lang":"ti","chapter":21,"translation":"ንሱ ድማ ኣብ ድሕሪ እቶም ኣማልኽቲ ንክኸድ ብዙሕ ጸዊዕ ኣበየ፣ ከም ኩሉ እቲ ዝገበርዎ ኣሞራይ፣ እቶም ያህዌህ ካብ ቅድሚ ውላድ ይስራኤል ዝበጋሖም።","tokens":[{"surface":"ויתעב","gloss":"ጸዊዕ ኣበየ"},{"surface":"מאד","gloss":"ብዙሕ"},{"surface":"ללכת","gloss":"ንክኸድ"},{"surface":"אחרי","gloss":"ኣብ ድሕሪ"},{"surface":"הגללים","gloss":"እቶም ኣማልኽቲ"},{"surface":"ככל","gloss":"ከም ኩሉ"},{"surface":"אשר","gloss":"ዝ"},{"surface":"עשו","gloss":"ዝገበርו"},{"surface":"האמרי","gloss":"ኣሞራይ"},{"surface":"אשר","gloss":"ዝ"},{"surface":"הוריש","gloss":"ዝበጋሖ"},{"surface":"יהוה","gloss":"ያህዌህ"},{"surface":"מפני","gloss":"ካብ ቅድሚ"},{"surface":"בני","gloss":"ውላድ"},{"surface":"ישראל","gloss":"ይስራኤል"}],"timestamp":"2026-09-19T01:12:03.481422337Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 21:26",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 21,
+  "translation": "ኣብ ምክትታል ኣማልኽቲ ጥራይ ኣይኰነን፣ ከም ዝገበርዎ ኩሉ እቲ ኣሞራይ ኢኩኖም ዝኣሰረ ኣብ ታሕቲ ዓይኒ ውላድ እስራኤል — ኣብኡ እውን ዝዓበየ ርኵሰት ገበረ።",
+  "tokens": [
+    {
+      "surface": "ויתעב",
+      "gloss": "ርኵሰት ገበረ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ዝዓበየ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ንኽስገም"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ኣብ ምክትታል"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "ኣማልኽቲ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ከም ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ገበርዎ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "እቲ ኣሞራይ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "ኣቕረቦም"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ካብ ቅድመኦም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    }
+  ],
+  "timestamp": "2026-09-25T03:21:19.114876900Z",
+  "model": "glm-5.3"
+}

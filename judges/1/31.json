@@ -1,1 +1,96 @@
-{"tier":"glm-5.2","verse":31,"ref":"judges 1:31","book":"judges","lang":"ti","chapter":1,"translation":"ኣሸር እቶም ኣብ ዓኮ ዝነብርቲ ⟨את⟩ን እቶም ኣብ ጽዶን ዝነብርቲ ⟨את⟩ን ዓሕላብን ⟨את⟩ ኣኽዚብን ⟨את⟩ ሕልባን ⟨את⟩ ኣፌቅን ⟨את⟩ ረሖብን ኣይኣወግዮምን።","tokens":[{"surface":"אשר","gloss":"ኣሸር"},{"surface":"לא","gloss":"ኣይን"},{"surface":"הוריש","gloss":"ኣወግዮም"},{"surface":"את","gloss":"⟨את⟩","marks":"እቶም ኣብ ዓኮ ዝነብርቲ"},{"surface":"ישבי","gloss":"ዝነብርቲ"},{"surface":"עכו","gloss":"ዓኮ"},{"surface":"ואת","gloss":"⟨את⟩","marks":"እቶም ኣብ ጽዶን ዝነብርቲ"},{"surface":"יושבי","gloss":"ዝነብርቲ"},{"surface":"צידון","gloss":"ጽዶን"},{"surface":"ואת","gloss":"⟨את⟩","marks":"ዓሕላብ"},{"surface":"אחלב","gloss":"ዓሕላብ"},{"surface":"ואת","gloss":"⟨את⟩","marks":"ኣኽዚብ"},{"surface":"אכזיב","gloss":"ኣኽዚብ"},{"surface":"ואת","gloss":"⟨את⟩","marks":"ሕልባ"},{"surface":"חלבה","gloss":"ሕልባ"},{"surface":"ואת","gloss":"⟨את⟩","marks":"ኣፌቅ"},{"surface":"אפיק","gloss":"ኣ፜ቅ"},{"surface":"ואת","gloss":"⟨את⟩","marks":"ረሖብ"},{"surface":"רחב","gloss":"ረሖብ"}],"timestamp":"2026-09-18T23:33:56.686260734Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 1:31",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኣሸር ኣይብገሎን፣ ነቶም ኣብ ዓኮ ዝቐመጡን ነቶም ኣብ ጽድኦን ዝቐመጡን ⟨את⟩ ዓኮ ኣብዞም ዝነብሩን ⟨את⟩ ኣኽዚብን ⟨את⟩ ኽልባን ⟨את⟩ ኣፊቅን ⟨את⟩ ረኽብን ኣይሓወጾምን።",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ኣሸር"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይብገሎን"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "ኣይሓወጾምን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ኣብ ዓኮ ዝቐመጡ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ኣብ ዓኮ ዝቐመጡ"
+    },
+    {
+      "surface": "עכו",
+      "gloss": "ዓኮ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ነቶም ኣብ ጽድኦን ዝቐመጡ"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ኣብ ጽድኦን ዝቐመጡ"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ጽድኦን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣኽላብ"
+    },
+    {
+      "surface": "אחלב",
+      "gloss": "ኣኽላብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣኽዚብ"
+    },
+    {
+      "surface": "אכזיב",
+      "gloss": "ኣኽዚብ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኽልባ"
+    },
+    {
+      "surface": "חלבה",
+      "gloss": "ኽልባ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኣፊቅ"
+    },
+    {
+      "surface": "אפיק",
+      "gloss": "ኣፊቅ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ረኽብ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ረኽብ"
+    }
+  ],
+  "timestamp": "2026-09-25T04:24:04.908272965Z",
+  "model": "glm-5.3"
+}

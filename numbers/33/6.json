@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "ti",
   "chapter": 33,
-  "translation": "ካብ ሱኮት ተነሺኦም ኣብ ኤታም ሰፈሩ፣ እታ ኣብ ወሰን በረሃ ዘላ እያ።",
+  "translation": "ካብ ሱኮት ተነሱ፣ ኣብ ኤታም ድማ፣ እታ ኣብ ዳርጊ ⟨እታ⟩ በረኻ ዘላ፣ ተቐመጡ።",
   "tokens": [
     {
       "surface": "ויסעו",
-      "gloss": "ተነሺኦም"
+      "gloss": "ተነሱ"
     },
     {
       "surface": "מסכת",
-      "gloss": "ካብ ሱኮት"
+      "gloss": "ሱኮት"
     },
     {
       "surface": "ויחנו",
-      "gloss": "ሰፈሩ"
+      "gloss": "ተቐመጡ"
     },
     {
       "surface": "באתם",
@@ -25,17 +25,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "እታ ዘላ"
+      "gloss": "እታ … ዘላ"
     },
     {
       "surface": "בקצה",
-      "gloss": "ኣብ ወሰን"
+      "gloss": "ኣብ ዳርጊ"
     },
     {
       "surface": "המדבר",
-      "gloss": "በᨭሓ"
+      "gloss": "በረኻ"
     }
   ],
-  "timestamp": "2026-09-18T22:42:20.201416244Z",
+  "timestamp": "2026-09-25T04:37:36.093721487Z",
   "model": "glm-5.3"
 }

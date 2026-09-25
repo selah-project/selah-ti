@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "ti",
   "chapter": 6,
-  "translation": "ኣብ ኣካልኡ ድማ ኢሉ ነቲ ውፈያ ኣብ ማዕበል ነቲ መሠወኪ ዝበላዮ ሓዊ ይሓብርዮ ድማ ኣብ ድሕረይ ነቲ መሠወኪ ይቕምጦ።",
+  "translation": "እቲ ኻህን ልብሲ ቖልባጤ የለብሰ፣ ኮታት ቖልባጤ ድማ ኣብ ስጋኡ የለብሰ፤ ⟨את⟩ እቲ ኣፍርስ እቲ እሳት ⟨את⟩ ዕልልታ ኣብ መሠወሪ እትበልዑ የቐዕሮ፣ ኣብ ጎንደ መሠወሪ ድማ የቕምጦ።",
   "tokens": [
     {
       "surface": "ולבש",
-      "gloss": "ይልበስ"
+      "gloss": "የለብሰ"
     },
     {
       "surface": "הכהן",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "מדו",
-      "gloss": "ቈላም ስንጭሮኡ"
+      "gloss": "ልብሲ ቖልባጤ"
     },
     {
       "surface": "בד",
-      "gloss": "ቈላም"
+      "gloss": "ቖልባጤ"
     },
     {
       "surface": "ומכנסי",
-      "gloss": "ቈላም ስንጭሮኡ"
+      "gloss": "ኮታት"
     },
     {
       "surface": "בד",
-      "gloss": "ቈላም"
+      "gloss": "ቖልባጤ"
     },
     {
       "surface": "ילבש",
-      "gloss": "ይልበስ"
+      "gloss": "የለብሰ"
     },
     {
       "surface": "על",
@@ -45,37 +45,37 @@
     },
     {
       "surface": "והרים",
-      "gloss": "ይሓብርዮ"
+      "gloss": "የቐዕሮ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ሓመድ"
+      "marks": "እቲ ኣፍርስ"
     },
     {
       "surface": "הדשן",
-      "gloss": "ሓመድ"
+      "gloss": "እቲ ኣፍርስ"
     },
     {
       "surface": "אשר",
-      "gloss": "ዝ"
+      "gloss": "እትበልዑ"
     },
     {
       "surface": "תאכל",
-      "gloss": "ዝበላዮ"
+      "gloss": "እትበልዑ"
     },
     {
       "surface": "האש",
-      "gloss": "ሓዊ"
+      "gloss": "እቲ እሳት"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ውፈያ"
+      "marks": "ዕልልታ"
     },
     {
       "surface": "העלה",
-      "gloss": "ውፈያ"
+      "gloss": "ዕልልታ"
     },
     {
       "surface": "על",
@@ -83,21 +83,21 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "መሠወኪ"
+      "gloss": "መሠወሪ"
     },
     {
       "surface": "ושמו",
-      "gloss": "ይቕምጦ"
+      "gloss": "የቕምጦ"
     },
     {
       "surface": "אצל",
-      "gloss": "ኣብ ድሕረይ"
+      "gloss": "ኣብ ጎንደ"
     },
     {
       "surface": "המזבח",
-      "gloss": "መሠወኪ"
+      "gloss": "መሠወሪ"
     }
   ],
-  "timestamp": "2026-09-18T21:50:51.776987553Z",
+  "timestamp": "2026-09-25T04:31:15.640215509Z",
   "model": "glm-5.3"
 }

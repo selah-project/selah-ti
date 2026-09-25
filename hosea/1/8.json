@@ -5,28 +5,28 @@
   "book": "hosea",
   "lang": "ti",
   "chapter": 1,
-  "translation": "ነቲ ሎ-ረሓማ ሓጸበት፣ ደጊማ ሓረስታን ወዲ ወለደት።",
+  "translation": "ሎሩሕመትን ⟨את⟩ ምስ ኣጥበት ኰነት፣ ወዲ ወለደት።",
   "tokens": [
     {
       "surface": "ותגמל",
-      "gloss": "ሓጸበት"
+      "gloss": "ኣጥበት"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ሎ-ረሓማ"
+      "marks": "ሎሩሕመትን"
     },
     {
       "surface": "לא",
-      "gloss": "ሎ-"
+      "gloss": "ሎ"
     },
     {
       "surface": "רחמה",
-      "gloss": "ረሓማ"
+      "gloss": "ሩሕመት"
     },
     {
       "surface": "ותהר",
-      "gloss": "ደጊማ ሓረስታን"
+      "gloss": "ኰነት"
     },
     {
       "surface": "ותלד",
@@ -37,6 +37,6 @@
       "gloss": "ወዲ"
     }
   ],
-  "timestamp": "2026-09-19T04:06:46.383102094Z",
+  "timestamp": "2026-09-25T04:09:31.761846226Z",
   "model": "glm-5.3"
 }

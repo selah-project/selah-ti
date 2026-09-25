@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":21,"ref":"job 7:21","book":"job","lang":"ti","chapter":7,"translation":"ድሕሪ ምእማን ድማ ነፍሲ ከይተሓለወካ ክትኽእል — ስለ ምን ኣይተሓለወካን፧","tokens":[{"surface":"ומה","gloss":"ስለ ምን፧"},{"surface":"לא","gloss":"ኣይ-…-ን"},{"surface":"תשא","gloss":"ከይተሓለወካ"},{"surface":"פשעי","gloss":"ብደሃተይ"},{"surface":"ותעביר","gloss":"ከይተሓለወካ"},{"surface":"את","gloss":"⟨את⟩","marks":"ኣበይተይ"},{"surface":"עוני","gloss":"ኣበይተይ"},{"surface":"כי","gloss":"ስለ"},{"surface":"עתה","gloss":"ሕጂ"},{"surface":"לעפר","gloss":"ናብ እኽሊ፣ ንእኽሊ"},{"surface":"אשכב","gloss":"ኽብረስኡ"},{"surface":"ושחרתני","gloss":"ንዓይ ምንዓሽኒ"},{"surface":"ואינני","gloss":"ኣይእንሰንን"}],"timestamp":"2026-09-19T06:04:30.396790302Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 7:21",
+  "book": "job",
+  "lang": "ti",
+  "chapter": 7,
+  "translation": "ወሲኩን ብደተይ ወሲኩን ሕጂ ናብ እኽሊ እተኛእ እየ፤ ተሓቲትካኒ ድማ የለን።",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "ወሲኩን ስለ ዝኾነ ሕጂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ይሕርም"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ብደተይ"
+    },
+    {
+      "surface": "ותעביר",
+      "gloss": "ድማ ይሓልፍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ክህደተይ"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "ክህደተይ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ስለ ዝኾነ ሕጂ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ሕጂ"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ናብ እኽሊ"
+    },
+    {
+      "surface": "אשכב",
+      "gloss": "እተኛእ"
+    },
+    {
+      "surface": "ושחרתני",
+      "gloss": "ተሓቲትካኒ ድማ"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "የለን"
+    }
+  ],
+  "timestamp": "2026-09-25T04:20:02.974583690Z",
+  "model": "glm-5.3"
+}

@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "ti",
   "chapter": 14,
-  "translation": "ያህዌህ ጸባኦት ቐጸለ ኢሉ፦ ብውኑ ከም ዝሓሰብኩዎ ከምኡ ኾነ፣ ከም ዝሓዘኩዎ ድማ ትቕምጥ እያ።",
+  "translation": "ያህዌህ ጸባኦት ተማሲሑ እናበለ፦ ከም ዝሓሰብኩ ከምኡ ተፈጸመ፣ ከም ዝወሰንኩ ድማ ንሳ ከምኡ ትቕድም።",
   "tokens": [
     {
       "surface": "נשבע",
-      "gloss": "ቐጸለ"
+      "gloss": "ተማሲሑ"
     },
     {
       "surface": "יהוה",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "ኢሉ"
+      "gloss": "እናበለ"
     },
     {
       "surface": "אם",
-      "gloss": "ብውኑ"
+      "gloss": "ኣብኡ"
     },
     {
       "surface": "לא",
-      "gloss": ""
+      "gloss": "ኣይኮነን"
     },
     {
       "surface": "כאשר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "דמיתי",
-      "gloss": "ዝሓሰብኩዎ"
+      "gloss": "ዝሓሰብኩ"
     },
     {
       "surface": "כן",
@@ -45,25 +45,25 @@
     },
     {
       "surface": "היתה",
-      "gloss": "ኾነ"
+      "gloss": "ተፈጸመ"
     },
     {
       "surface": "וכאשר",
-      "gloss": "ከም"
+      "gloss": "ከም…ድማ"
     },
     {
       "surface": "יעצתי",
-      "gloss": "ዝሓዘኩዎ"
+      "gloss": "ዝወሰንኩ"
     },
     {
       "surface": "היא",
-      "gloss": "እታ"
+      "gloss": "ንሳ"
     },
     {
       "surface": "תקום",
-      "gloss": "ትቕምጥ"
+      "gloss": "ትቕድም"
     }
   ],
-  "timestamp": "2026-09-19T01:48:38.835474729Z",
+  "timestamp": "2026-09-25T04:10:01.527422635Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "ti",
   "chapter": 2,
-  "translation": "ሸሻን ⟨את⟩ ኣዱኡ ለይረሕዓ ባሩሉ ንሰበይቲ ሃበ፤ ንሱ ድማ ንዓታይ ወለደቶ።",
+  "translation": "ሸሻን ንይርሓ ኣገልጋሉ ናብ ሰበይቲ ስዒባ ⟨את⟩ ጓሉ ሃበ፤ ንሳ ድማ ልዑሉ ⟨את⟩ ዓታይ ወለደቶ።",
   "tokens": [
     {
       "surface": "ויתן",
@@ -18,23 +18,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ኣዱኡ"
+      "marks": "ጓሉ"
     },
     {
       "surface": "בתו",
-      "gloss": "ኣዱኡ"
+      "gloss": "ጓሉ"
     },
     {
       "surface": "לירחע",
-      "gloss": "ለይረሕዓ"
+      "gloss": "ንይርሓ"
     },
     {
       "surface": "עבדו",
-      "gloss": "ባሩሉ"
+      "gloss": "ኣገልጋሉ"
     },
     {
       "surface": "לאשה",
-      "gloss": "ንሰበይቲ"
+      "gloss": "ናብ ሰበይቲ"
     },
     {
       "surface": "ותלד",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "ንሱ"
+      "gloss": "ልዑሉ"
     },
     {
       "surface": "את",
@@ -54,6 +54,6 @@
       "gloss": "ዓታይ"
     }
   ],
-  "timestamp": "2026-09-19T07:29:08.922234111Z",
+  "timestamp": "2026-09-25T03:17:18.014902491Z",
   "model": "glm-5.3"
 }

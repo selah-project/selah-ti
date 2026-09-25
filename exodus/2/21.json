@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "ti",
   "chapter": 2,
-  "translation": "ሞሸ ምስ ⟨את⟩ እቲ ሰብ ክነብር ተሰማዕዎ፣ ንሞሸ ድማ ⟨את⟩ ጽፖራ ዓርኩ ሃበ።",
+  "translation": "ሞሸ ⟨את⟩ ምስ እቲ ሰብ ⟨ክነብር⟩ በዚ ተሓሰበ፤ ንሱ ድማ ⟨את⟩ ጽፓራ ዓይንቱ ንሞሸ ሃቈ።",
   "tokens": [
     {
       "surface": "ויואל",
-      "gloss": "ተሰማዕዎ"
+      "gloss": "ተሓሰበ"
     },
     {
       "surface": "משה",
-      "gloss": "ሞḉ"
+      "gloss": "ሞሸ"
     },
     {
       "surface": "לשבת",
@@ -30,26 +30,26 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "ሃበ"
+      "gloss": "ሃቈ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ጽፖራ"
+      "marks": "ጽፓራ"
     },
     {
       "surface": "צפרה",
-      "gloss": "ጽፖራ"
+      "gloss": "ጽፓራ"
     },
     {
       "surface": "בתו",
-      "gloss": "ዓርኩ"
+      "gloss": "ዓይንቱ"
     },
     {
       "surface": "למשה",
-      "gloss": "ንሞḉ"
+      "gloss": "ንሞሸ"
     }
   ],
-  "timestamp": "2026-09-18T21:11:47.494462386Z",
+  "timestamp": "2026-09-25T03:51:27.190911355Z",
   "model": "glm-5.3"
 }

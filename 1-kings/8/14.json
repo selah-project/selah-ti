@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "ti",
   "chapter": 8,
-  "translation": "እቲ ንጉስ ገጹ ቀየረ፣ ነቲ ኹሉ ጉባኤ የስራኤል ⟨את⟩ ተባረኸ፤ ነቲ ኹሉ ጉባኤ የስራኤል እና ቆም ኣሎ።",
+  "translation": "ነጋድቱ ⟨את⟩ ገጹ ገይሩ ኩሉ ስብሕ እስራኤል ባረኽ፤ ኩሉ ስብሕ እስራኤል ድማ ኮነ ኮነ ተቐምጡ።",
   "tokens": [
     {
       "surface": "ויסב",
-      "gloss": "ቀየረ"
+      "gloss": "ገይሩ"
     },
     {
       "surface": "המלך",
-      "gloss": "እቲ ንጉስ"
+      "gloss": "ነጋድቱ"
     },
     {
       "surface": "את",
@@ -26,42 +26,42 @@
     },
     {
       "surface": "ויברך",
-      "gloss": "ተባረኸ"
+      "gloss": "ባረኸ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ኹሉ ጉባኤ የስራኤል"
+      "marks": "ኩሉ ስብሕ እስራኤል"
     },
     {
       "surface": "כל",
-      "gloss": "ኹሉ"
+      "gloss": "ኩሉ"
     },
     {
       "surface": "קהל",
-      "gloss": "ጉባኤ"
+      "gloss": "ስብሕ"
     },
     {
       "surface": "ישראל",
-      "gloss": "የስራኤል"
+      "gloss": "እስራኤል"
     },
     {
       "surface": "וכל",
-      "gloss": "ነቲ ኹሉ"
+      "gloss": "ኩሉ ድማ"
     },
     {
       "surface": "קהל",
-      "gloss": "ጉባኤ"
+      "gloss": "ስብሕ"
     },
     {
       "surface": "ישראל",
-      "gloss": "የስራኤል"
+      "gloss": "እስራኤል"
     },
     {
       "surface": "עמד",
-      "gloss": "እና ቆም ኣሎ"
+      "gloss": "ተቐምጡ"
     }
   ],
-  "timestamp": "2026-09-19T00:56:11.458257647Z",
+  "timestamp": "2026-09-25T03:22:01.976662803Z",
   "model": "glm-5.3"
 }

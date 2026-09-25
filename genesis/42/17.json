@@ -5,24 +5,24 @@
   "book": "genesis",
   "lang": "ti",
   "chapter": 42,
-  "translation": "ንእሽተኦም ድማ ናብ መቕጾ ሰለስተ መዓልታት ኣከቦም።",
+  "translation": "ንሳቶም ኣካቲቱ ⟨את⟩ ኣብ ቤት ማእስር ሰለስተ መዓልታት ኣቲርዎም።",
   "tokens": [
     {
       "surface": "ויאסף",
-      "gloss": "ኣከቦም"
+      "gloss": "ኣካቲቱ ኣቲርዎም"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ንእሽተኦም"
+      "marks": "ንሳቶም ኣብ ቤት ማእስር"
     },
     {
       "surface": "אל",
-      "gloss": "ናብ"
+      "gloss": "ኣብ"
     },
     {
       "surface": "משמר",
-      "gloss": "መቕጾ"
+      "gloss": "ቤት ማእስር"
     },
     {
       "surface": "שלשת",
@@ -33,6 +33,6 @@
       "gloss": "መዓልታት"
     }
   ],
-  "timestamp": "2026-09-18T21:03:03.978312586Z",
+  "timestamp": "2026-09-25T04:06:34.145260712Z",
   "model": "glm-5.3"
 }

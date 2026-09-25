@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":16,"ref":"jeremiah 50:16","book":"jeremiah","lang":"ti","chapter":50,"translation":"ካብ ባቢሎን ኣዝጊ ውዒሉ፣ ኣብ ዕለት መኽሮ ማጅል ዝጥሕዕ እውን፤ ብሰይፊ ኣጽራሪ ኩሉ ናብ ህዝቡ ይምለስ፣ ኩሉ ከኣ ናብ ምድሩ ይሰውር።","tokens":[{"surface":"כרתו","gloss":"ውዒሉ"},{"surface":"זורע","gloss":"ኣዝጊ"},{"surface":"מבבל","gloss":"ካብ ባቢሎን"},{"surface":"ותפש","gloss":"እና ኸደ"},{"surface":"מגל","gloss":"ማጅል"},{"surface":"בעת","gloss":"ኣብ ዕለት"},{"surface":"קציר","gloss":"መኽሮ"},{"surface":"מפני","gloss":"ብ"},{"surface":"חרב","gloss":"ሰይፊ"},{"surface":"היונה","gloss":"ኣጽራሪ"},{"surface":"איש","gloss":"ኩሉ"},{"surface":"אל","gloss":"ናብ"},{"surface":"עמו","gloss":"ህዝቡ"},{"surface":"יפנו","gloss":"ይምለስ"},{"surface":"ואיש","gloss":"ኩሉ ከኣ"},{"surface":"לארצו","gloss":"ናብ ምድሩ"},{"surface":"ינסו","gloss":"ይሰውር"}],"timestamp":"2026-09-19T03:14:59.349756906Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 50:16",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 50,
+  "translation": "ካብ ባቢሎን ⟨እቲ⟩ ኣዝሚድ ቆርጽዎ፣ ኣብ ዕዉት ግበርቲ ⟨እቲ⟩ መእሻ ዝሓዝን ቆርጽዎ፤ ካብ ፊት ሰይፍ ናይ ⟨እታ ኣጭቢጻይት⟩ ነፍሲ ወከፍ ናብ ህዝቢኡ ይምለስ፣ ከምኡውን ነፍሲ ወከፍ ናብ ምድሩ ይሽርሽር።",
+  "tokens": [
+    {
+      "surface": "כרתו",
+      "gloss": "ቆርጽዎ"
+    },
+    {
+      "surface": "זורע",
+      "gloss": "ኣዝሚድ"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "ካብ ባቢሎን"
+    },
+    {
+      "surface": "ותפש",
+      "gloss": "ዝሓዝን"
+    },
+    {
+      "surface": "מגל",
+      "gloss": "መእሻ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ኣብ ዕዉት"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ግበርቲ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ካብ ፊት"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፍ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "እታ ኣጭቢጻይት"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ህዝቢኡ"
+    },
+    {
+      "surface": "יפנו",
+      "gloss": "ይምለሱ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ከምኡውን ሓደ"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "ናብ ምድሩ"
+    },
+    {
+      "surface": "ינסו",
+      "gloss": "ይሽርሽሩ"
+    }
+  ],
+  "timestamp": "2026-09-25T04:18:28.080027510Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":12,"ref":"micah 4:12","book":"micah","lang":"ti","chapter":4,"translation":"ንሳቶም ግን መርሃባት ያህዌህ ኣይፈልጡን፣ ኣማኺሉ ድማ ኣይረድኡን፤ ስለ ዝተዓበየ ከም እኽሊ ናብ ኣውጻኢ ኣካቢዶም እዩ።","tokens":[{"surface":"והמה","gloss":"ንሳቶም"},{"surface":"לא","gloss":"ኣይ"},{"surface":"ידעו","gloss":"ኣይፈልጡን"},{"surface":"מחשבות","gloss":"መርሃባት"},{"surface":"יהוה","gloss":"ያህዌህ"},{"surface":"ולא","gloss":"ድማ ኣይ"},{"surface":"הבינו","gloss":"ኣይረድኡን"},{"surface":"עצתו","gloss":"ኣማኺሉ"},{"surface":"כי","gloss":"ስለ"},{"surface":"קבצם","gloss":"ኣካቢዶም"},{"surface":"כעמיר","gloss":"ከም እኽሊ"},{"surface":"גרנה","gloss":""}],"timestamp":"2026-09-19T04:23:07.088345289Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 4:12",
+  "book": "micah",
+  "lang": "ti",
+  "chapter": 4,
+  "translation": "ንሳቶም ግና ስርዕታት ያህዌህ ኣይፈለጥን፣ ኣማኺር ያህዌህን ኣይረድእን፤ እምኒ ⟨ንሳቶም⟩ ከም ኣምባር ናብ ደገ-መዓርጊ ኣካይዱዎም እዩ።",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "ንሳቶም"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይን"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ኣይፈለጥን"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ስርዕታት"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ኣይን"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "ኣይረድእን"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "ኣማኺር ያህዌህ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "እምኒ"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "ኣካይዱዎም"
+    },
+    {
+      "surface": "כעמיר",
+      "gloss": "ከም ኣምባር"
+    },
+    {
+      "surface": "גרנה",
+      "gloss": "ናብ ደገ-መዓርጊ"
+    }
+  ],
+  "timestamp": "2026-09-25T04:33:20.346019822Z",
+  "model": "glm-5.3"
+}

@@ -5,20 +5,20 @@
   "book": "genesis",
   "lang": "ti",
   "chapter": 35,
-  "translation": "ያዕቆቭ ድማ ኤሎሂም ምስኡ ⟨את⟩ ኣብኡ እትተዛረቦ እቲ ቦታ ስም ቤት ኤል በለ።",
+  "translation": "ያዕቆብ ድማ ⟨את⟩ ስም እቲ ቦታ ኤሎሂም ኣብኡ ⟨את⟩ ምስ ዝተዛረቦ ቤት-ኤል በሎ።",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "ሰይም በለ"
+      "gloss": "ድማ በሎ"
     },
     {
       "surface": "יעקב",
-      "gloss": "ያዕቆቭ"
+      "gloss": "ያዕቆብ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ስም እቲ ቦታ"
+      "marks": "ስም"
     },
     {
       "surface": "שם",
@@ -30,16 +30,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ዝ"
+      "gloss": "እቲ ዝ"
     },
     {
       "surface": "דבר",
-      "gloss": "ተዛረበ"
+      "gloss": "ተዛረቦ"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ምስ ንሱ"
+      "gloss": "⟨את⟩ ምስ"
     },
     {
       "surface": "שם",
@@ -58,6 +57,6 @@
       "gloss": "ኤል"
     }
   ],
-  "timestamp": "2026-09-18T20:57:07.812115373Z",
+  "timestamp": "2026-09-25T04:05:02.233712209Z",
   "model": "glm-5.3"
 }

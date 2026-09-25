@@ -1,1 +1,79 @@
-{"tier":"glm-5.2","verse":6,"ref":"1-samuel 6:6","book":"1-samuel","lang":"ti","chapter":6,"translation":"ከምኡውን ስለዚ ⟨את⟩ ልብኩም ተወፍዩ፣ ከም ዝገበሩ ሚጽራይምን ፓርዖን ⟨את⟩ ልቦም; הᲀ","tokens":[{"surface":"ולמה","gloss":"ስለዚ ስለምን"},{"surface":"תכבדו","gloss":"ተወፍዩ"},{"surface":"את","gloss":"⟨את⟩","marks":"ልብኩም"},{"surface":"לבבכם","gloss":"ልብኩም"},{"surface":"כאשר","gloss":"ከም"},{"surface":"כבדו","gloss":"ገበሩ"},{"surface":"מצרים","gloss":"ሚጽራይም"},{"surface":"ופרעה","gloss":"ፓርዖን"},{"surface":"את","gloss":"⟨את⟩","marks":"ልቦም"},{"surface":"לבם","gloss":"ልቦም"},{"surface":"הלוא","gloss":"'ስኣን ደኣ"},{"surface":"כאשר","gloss":"ከም"},{"surface":"התעלל","gloss":"ዝተጋበረሉ"},{"surface":"בהם","gloss":"ኣብ ልዕሎም"},{"surface":"וישלחום","gloss":"ሰሓቡዎም"},{"surface":"וילכו","gloss":"ከዱ"}],"timestamp":"2026-09-19T08:39:44.252138128Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ስለዚ ንስኻትኩም ስለ እንታይ ነቲ ⟨את⟩ ልብኩም ተከብድክም ከም ሚጽራይምን ፓርዖንን ⟨את⟩ ልቦም ከም ዝከብድዎ? ንሱ ብዙሕ ከም ዝገበረሎም ኣይኮነን ሰደድዎም እሞ ከዱ?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "ስለ እንታይ"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "ተከብድክም"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልብኩም"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ልብኩም"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "ዝከብድዎ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይምን"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "ፓርዖንን"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ልቦም"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ልቦም"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ኣይኮነን"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "ዝገበረሎም"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ኣብ እምኖም"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "ሰደድዎም"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ከዱ"
+    }
+  ],
+  "timestamp": "2026-09-25T03:29:03.020743Z",
+  "model": "glm-5.3"
+}

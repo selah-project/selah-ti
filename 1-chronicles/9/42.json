@@ -5,50 +5,50 @@
   "book": "1-chronicles",
   "lang": "ti",
   "chapter": 9,
-  "translation": "ኣካዝ ድማ ኣቦ ያዕራ እዩ፤ ያዕራ ድማ ኣቦ ዓለሜት፣ ዓዝማቨትን ዝምሪን እዩ፤ ዝምሪ ድማ ኣቦ ሞጻ እዩ።",
+  "translation": "ያእዛን ድማ ያዕራሃን ሓበ፤ ⟨את⟩ ያዕራሃ ድማ ⟨את⟩ ዓለመትን ⟨את⟩ ዓዝማወትን ⟨את⟩ ዝምሪን ሓበ፤ ዝምሪ ድማ ⟨את⟩ ሞጻ ሓበ።",
   "tokens": [
     {
       "surface": "ואחז",
-      "gloss": "ኣካዝ"
+      "gloss": "ያእዛን ድማ"
     },
     {
       "surface": "הוליד",
-      "gloss": "ኣቦ"
+      "gloss": "ሓበ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ያዕራ"
+      "marks": "ያዕራሃ"
     },
     {
       "surface": "יערה",
-      "gloss": "ያዕራ"
+      "gloss": "ያዕራሃ"
     },
     {
       "surface": "ויערה",
-      "gloss": "ያዕራ"
+      "gloss": "ያዕራሃ ድማ"
     },
     {
       "surface": "הוליד",
-      "gloss": "ኣቦ"
+      "gloss": "ሓበ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ዓለሜት"
+      "marks": "ዓለመት"
     },
     {
       "surface": "עלמת",
-      "gloss": "ዓለሜት"
+      "gloss": "ዓለመት"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ዓዝማቨት"
+      "marks": "ዓዝማወት"
     },
     {
       "surface": "עזמות",
-      "gloss": "ዓዝማቨት"
+      "gloss": "ዓዝማወት"
     },
     {
       "surface": "ואת",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "וזמרי",
-      "gloss": "ዝምሪ"
+      "gloss": "ዝምሪ ድማ"
     },
     {
       "surface": "הוליד",
-      "gloss": "ኣቦ"
+      "gloss": "ሓበ"
     },
     {
       "surface": "את",
@@ -77,6 +77,6 @@
       "gloss": "ሞጻ"
     }
   ],
-  "timestamp": "2026-09-19T07:37:13.992330562Z",
+  "timestamp": "2026-09-25T03:17:41.329943646Z",
   "model": "glm-5.3"
 }

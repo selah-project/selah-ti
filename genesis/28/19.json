@@ -5,20 +5,20 @@
   "book": "genesis",
   "lang": "ti",
   "chapter": 28,
-  "translation": "ነቲ ስም እቲ ቦታ እቲ ንቤት ኤል በሎ፤ እቲ ስም እቲ ከተማ ግን ቐደሙ ሉዝ ነይሩ።",
+  "translation": "ንእስም ⟨את⟩ እቲ ቦታ ከይዲ ቤት ኤል ሰይሙ፣ ግን ስም እቲ ከተማ ናይ ሉዝ ቀዳማይ ነይሩ።",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "በሎ"
+      "gloss": "ሰይሙ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ነቲ ስም"
+      "marks": "እስም"
     },
     {
       "surface": "שם",
-      "gloss": "ስም"
+      "gloss": "እስም"
     },
     {
       "surface": "המקום",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "እቲ"
+      "gloss": "ከይዲ"
     },
     {
       "surface": "בית",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "לראשנה",
-      "gloss": "ቐደሙ"
+      "gloss": "ቀዳማይ"
     }
   ],
-  "timestamp": "2026-09-18T20:49:53.235361544Z",
+  "timestamp": "2026-09-25T04:04:30.426654130Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "ti",
   "chapter": 12,
-  "translation": "ያህዌህ ድማ ንፓርዖ ⟨את⟩ ቤቱን ብዓቢ ሕማቓት፣ ብዛዕባ ሳራይ ሰበይቲ ኣቭራሃም፣ ሓመቖ።",
+  "translation": "ያህዌህ ድማ ⟨את⟩ ፓርዖንን ⟨את⟩ ቤቱን ብዓቢቲ መርዚታት መታዎ፤ ስለ ነገር ሻራይ፣ ናይ ኣቭራም ሰበይቲ።",
   "tokens": [
     {
       "surface": "וינגע",
-      "gloss": "ሓመቖ"
+      "gloss": "መታዎ"
     },
     {
       "surface": "יהוה",
@@ -18,40 +18,40 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ፓርዖ"
+      "marks": "ፓርዖን"
     },
     {
       "surface": "פרעה",
-      "gloss": "ፓርዖ"
+      "gloss": "ፓርዖን"
     },
     {
       "surface": "נגעים",
-      "gloss": "ሕማቓት"
+      "gloss": "መርዚታት"
     },
     {
       "surface": "גדלים",
-      "gloss": "ዓቢታት"
+      "gloss": "ዓቢቲ"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ቤቱ"
+      "marks": "ቤቱን"
     },
     {
       "surface": "ביתו",
-      "gloss": "ቤቱ"
+      "gloss": "ቤቱን"
     },
     {
       "surface": "על",
-      "gloss": "ብ"
+      "gloss": "ስለ"
     },
     {
       "surface": "דבר",
-      "gloss": "ብዛዕባ"
+      "gloss": "ነገር"
     },
     {
       "surface": "שרי",
-      "gloss": "ሳራይ"
+      "gloss": "ሻራይ"
     },
     {
       "surface": "אשת",
@@ -59,9 +59,9 @@
     },
     {
       "surface": "אברם",
-      "gloss": "ኣቭራሃም"
+      "gloss": "ኣቭራም"
     }
   ],
-  "timestamp": "2026-09-19T08:24:20.927876938Z",
+  "timestamp": "2026-09-25T04:02:39.253476305Z",
   "model": "glm-5.3"
 }

@@ -1,1 +1,137 @@
-{"tier":"glm-5.2","verse":18,"ref":"nehemiah 5:18","book":"nehemiah","lang":"ti","chapter":5,"translation":"ድሕሪ እዚ ድማ ኣብ ቐንዲ ሰዓት እቲ ኣብ ሓደ መዓልቲ ዝተዳለወ ነበረ ሓደ ከብት ተቓሊሱ፣ ሽዱሽቓ ምርጫ ርእሲ እንስሳታት፣ ንሳቶም ድማ ዝተዳለዉ ነበሩ፤ ኣብ ዓሰርተ መዓልታት ውሽጢ ኩሉ ጠሪ ብብዝሒ ተዳልወለይ። ኣብ ኩሉ እዚ ከኣ ምግቢ እቲ ኣመላኽ ኣይኣክእልን ነበር፣ ምኽንያቱ እቲ ግብሪ ኣብ እዚ ሕዝቢ እዚ ከቢድ ነበረ።","tokens":[{"surface":"ואשר","gloss":"ድሕሪ እዚ"},{"surface":"היה","gloss":"ነበረ"},{"surface":"נעשה","gloss":"ዝተዳለወ"},{"surface":"ליום","gloss":"ንሓደ መዓልቲ"},{"surface":"אחד","gloss":"ሓደ"},{"surface":"שור","gloss":"ከብት"},{"surface":"אחד","gloss":"ሓደ"},{"surface":"צאן","gloss":"ርእሲ እንስሳታት"},{"surface":"שש","gloss":"ሽዱሽቓ"},{"surface":"בררות","gloss":"ምርጫ"},{"surface":"וצפרים","gloss":"ከምኡውን ዑፉታት"},{"surface":"נעשו","gloss":"ተዳለዉ"},{"surface":"לי","gloss":"ንኣነ"},{"surface":"ובין","gloss":"ከምኡውን ኣብ ውሽጢ"},{"surface":"עשרת","gloss":"ዓሰርተ"},{"surface":"ימים","gloss":"መዓልታት"},{"surface":"בכל","gloss":"ብኩሉ"},{"surface":"יין","gloss":"ጠሪ"},{"surface":"להרבה","gloss":"ብብዝሒ"},{"surface":"ועם","gloss":"ከምኡውን ኣብ"},{"surface":"זה","gloss":"እዚ"},{"surface":"לחם","gloss":"ምግቢ"},{"surface":"הפחה","gloss":"ናይ እቲ ኣመላኽ"},{"surface":"לא","gloss":"ኣይ"},{"surface":"בקשתי","gloss":"ኣይኣክእልን ነበር"},{"surface":"כי","gloss":"ምኽንያቱ"},{"surface":"כבדה","gloss":"ከቢድ"},{"surface":"העבדה","gloss":"እቲ ግብሪ"},{"surface":"על","gloss":"ኣብ"},{"surface":"העם","gloss":"እቲ ሕዝቢ"},{"surface":"הזה","gloss":"እዚ"}],"timestamp":"2026-09-19T07:15:32.176335599Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 5:18",
+  "book": "nehemiah",
+  "lang": "ti",
+  "chapter": 5,
+  "translation": "ከምቲ ንሓደ መዓልቲ ዝተዳለወ ሓደ ከብቲ ተባዕቲ፣ ሽድሽዲ ተመሪጽቲ ሓርማዝቲ ነይሩ፤ እንስሳት እውን ንዓይ ተዳለወ፣ ኣብ መንጎ ኣሰርተ መዓልታት ከኣ ኩሉ ወይኒ ብብዝሒ ነይሩ፤ ምስ እዚ ኩሉ ግን ናይ እቲ ገዛኢ ዳቦ ኣይሓተትኩን፣ ምኽንያቱ እቲ ኣገልግሎት ብዙሕ ኮይኑ ተቐመጠ ኣብ ልዕሊ እቲ ህዝቢ እዚ።",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ከምቲ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ነይሩ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ዝተዳለወ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ንሓደ መዓልቲ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ከብቲ ተባዕቲ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ሓደ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ሓርማዝቲ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ሽድሽዲ"
+    },
+    {
+      "surface": "בררות",
+      "gloss": "ተመሪጽቲ"
+    },
+    {
+      "surface": "וצפרים",
+      "gloss": "እንስሳት እውን"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "ተዳለወ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ኣብ መንጎ"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ኣሰርተ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "መዓልታት"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ወይኒ"
+    },
+    {
+      "surface": "להרבה",
+      "gloss": "ብብዝሒ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ምስ እዚ ግን"
+    },
+    {
+      "surface": "זה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ዳቦ"
+    },
+    {
+      "surface": "הפחה",
+      "gloss": "ናይ እቲ ገዛኢ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "ሓተትኩ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "ብዙሕ ኮይኑ ተቐመጠ"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "እቲ ኣገልግሎት"
+    },
+    {
+      "surface": "על",
+      "gloss": "ኣብ ልዕሊ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ህዝቢ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    }
+  ],
+  "timestamp": "2026-09-25T04:33:20.855997199Z",
+  "model": "glm-5.3"
+}

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "ti",
   "chapter": 1,
-  "translation": "የሆሹዋዕ ወዲ ናይ ኡን፣ ኣብ ቅድሚኻ እትሓብኦ ዘለች፣ ንሳ ኣብኡ ትእቲ፤ ⟨אתו⟩ ኣጸንእዎ፣ እሞ እስራኤል ክወርሳ እያ እሞ።",
+  "translation": "የሆሹዋዕ ወዲ ኖን ኣብ ቅድሚኻ እትቆም፣ ንሱ ነታ ይኣቱ እዩ፤ ⟨את⟩ ንየሆሹዋዕ ኣጽንዖ፣ ምኽንያቱ ንሱ ነታ ⟨את⟩ ይስራኤል ክውርሳ እዩ።",
   "tokens": [
     {
       "surface": "יהושע",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "נון",
-      "gloss": "ናይ ኡን"
+      "gloss": "ኖን"
     },
     {
       "surface": "העמד",
-      "gloss": "እትሓብኦ ዘለች"
+      "gloss": "እትቆም"
     },
     {
       "surface": "לפניך",
@@ -29,47 +29,47 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ንሳ"
+      "gloss": "ንሱ"
     },
     {
       "surface": "יבא",
-      "gloss": "ትእቲ"
+      "gloss": "ይኣቱ"
     },
     {
       "surface": "שמה",
-      "gloss": "ኣብኡ"
+      "gloss": "ነታ"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "ንየሆሹዋዕ"
+      "gloss": "⟨את⟩",
+      "marks": "ንየሆሹዋዕ ኣጽንዖ"
     },
     {
       "surface": "חזק",
-      "gloss": "ኣጸንእዎ"
+      "gloss": "ኣጽንዖ"
     },
     {
       "surface": "כי",
-      "gloss": "እሞ"
+      "gloss": "ምኽንያቱ"
     },
     {
       "surface": "הוא",
-      "gloss": "ንሳ"
+      "gloss": "ንሱ"
     },
     {
       "surface": "ינחלנה",
-      "gloss": "ክወርሳ"
+      "gloss": "ክውርሳ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "እስራኤል"
+      "marks": "ይስራኤል"
     },
     {
       "surface": "ישראל",
-      "gloss": "እስራኤል"
+      "gloss": "ይስራኤል"
     }
   ],
-  "timestamp": "2026-09-18T22:45:00.535467362Z",
+  "timestamp": "2026-09-25T03:44:54.806063625Z",
   "model": "glm-5.3"
 }

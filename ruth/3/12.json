@@ -5,15 +5,15 @@
   "book": "ruth",
   "lang": "ti",
   "chapter": 3,
-  "translation": "«ሕጂ ድማ፣ ብሓቂ እዩ፣ ኣነ ወዲ-ዓሚን እየ፣ ግን ውን ካብኣይ ዝቐረበ ወዲ-ዓሚን ኣሎ።»",
+  "translation": "ኣብዚ ብሓቂ ኣነ ኣራቲ እየ፣ ግና ካባይ ንሑድ ዝኾነ ኣራቲ ውን ኣሎ።",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "ሕጂ ድማ"
+      "gloss": "ኣብዚ"
     },
     {
       "surface": "כי",
-      "gloss": "ከም"
+      "gloss": "⟨እውን⟩"
     },
     {
       "surface": "אמנם",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "כי",
-      "gloss": "እምኒ"
+      "gloss": "⟨ን⟩"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "⟨ኣነ⟩"
     },
     {
       "surface": "גאל",
-      "gloss": "ወዲ-ዓሚን"
+      "gloss": "ኣራቲ"
     },
     {
       "surface": "אנכי",
-      "gloss": "ኣነ"
+      "gloss": "እየ"
     },
     {
       "surface": "וגם",
-      "gloss": "ግን ውን"
+      "gloss": "ግና ውን"
     },
     {
       "surface": "יש",
@@ -45,17 +45,17 @@
     },
     {
       "surface": "גאל",
-      "gloss": "ወዲ-ዓሚን"
+      "gloss": "ኣራቲ"
     },
     {
       "surface": "קרוב",
-      "gloss": "ዝቐረበ"
+      "gloss": "ካባይ ንሑድ ዝኾነ"
     },
     {
       "surface": "ממני",
-      "gloss": "ካብኣይ"
+      "gloss": "⟨ካባይ⟩"
     }
   ],
-  "timestamp": "2026-09-19T06:31:53.678337491Z",
+  "timestamp": "2026-09-25T04:40:47.436973151Z",
   "model": "glm-5.3"
 }

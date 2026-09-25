@@ -1,1 +1,29 @@
-{"tier":"glm-5.2","verse":4,"ref":"1-chronicles 1:4","book":"1-chronicles","lang":"ti","chapter":1,"translation":"ኖኽ፣ ሽም፣ ሕምን ያፈትን።","tokens":[{"surface":"נח","gloss":"ኖኽ"},{"surface":"שם","gloss":"ሽም"},{"surface":"חם","gloss":""},{"surface":"ויפת","gloss":"ያፈትን"}],"timestamp":"2026-09-19T07:28:08.541608819Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "ti",
+  "chapter": 1,
+  "translation": "ኖኽ፣ ሸም፣ ኻምን ያፍትን።",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "ኖኽ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ሸም"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ኻም"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "ያፍትን"
+    }
+  ],
+  "timestamp": "2026-09-25T03:16:51.176899374Z",
+  "model": "glm-5.3"
+}

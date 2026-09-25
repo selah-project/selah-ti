@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "ti",
   "chapter": 135,
-  "translation": "ስዓር ለዊ፣ ያህዌህ ባርኽዎ፤ ዜገዱ ያህዌህ፣ ያህዌህ ባርኽዎ።",
+  "translation": "ወዲ ስድራ ላዊ ያህዌህ ባርኩ፣ ዜገርዓይ ያህዌህ ያህዌህ ባርኩ።",
   "tokens": [
     {
       "surface": "בית",
-      "gloss": "ስዓር"
+      "gloss": "ስድራ ላዊ"
     },
     {
       "surface": "הלוי",
-      "gloss": "ለዊ"
+      "gloss": "ላዊ"
     },
     {
       "surface": "ברכו",
-      "gloss": "ባርኽዎ"
+      "gloss": "ባርኩ"
     },
     {
       "surface": "את",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "יראי",
-      "gloss": "ዜገዱ"
+      "gloss": "ዜገርዓይ"
     },
     {
       "surface": "יהוה",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ברכו",
-      "gloss": "ባርኽዎ"
+      "gloss": "ባርኩ"
     },
     {
       "surface": "את",
@@ -50,6 +50,6 @@
       "gloss": "ያህዌህ"
     }
   ],
-  "timestamp": "2026-09-19T05:34:14.735402902Z",
+  "timestamp": "2026-09-25T04:40:31.828580610Z",
   "model": "glm-5.3"
 }

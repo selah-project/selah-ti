@@ -5,54 +5,54 @@
   "book": "leviticus",
   "lang": "ti",
   "chapter": 16,
-  "translation": "ንቅዱስ ቅዱሳን ⟨את⟩ ዓደት መውዓልቲን ⟨את⟩ መሠዊእቲን ይብቅዕ፤ ንካህናትን ንኹሉ ሕዝቢ ቅጸለን ድማ ይብቅዕ።",
+  "translation": "ንቅዱስነት ⟨את⟩ ቅዱስ መቕደስን ⟨את⟩ ድንኳን መውዓሊን ⟨את⟩ መሠዊዕን ይካፈር፤ ንካህናትን ንኹሉ ሕዝቢ ስብሻን ድማ ይካፈር።",
   "tokens": [
     {
       "surface": "וכפר",
-      "gloss": "ይብቅዕ"
+      "gloss": "ይካፈር"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ቅዱስ ቅዱሳን"
+      "marks": "ቅዱስ መቕደስ"
     },
     {
       "surface": "מקדש",
-      "gloss": "ቅዱስ"
+      "gloss": "መቕደስ"
     },
     {
       "surface": "הקדש",
-      "gloss": "ቅዱሳን"
+      "gloss": "ቅዱስነት"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ዓደት መውዓልቲ"
+      "marks": "ድንኳን መውዓሊ"
     },
     {
       "surface": "אהל",
-      "gloss": "ዓደት"
+      "gloss": "ድንኳን"
     },
     {
       "surface": "מועד",
-      "gloss": "መውዓልቲ"
+      "gloss": "መውዓሊ"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "መሠዊእቲ"
+      "marks": "መሠዊዕ"
     },
     {
       "surface": "המזבח",
-      "gloss": "መሠዊእቲ"
+      "gloss": "መሠዊዕ"
     },
     {
       "surface": "יכפר",
-      "gloss": "ይብቅዕ"
+      "gloss": "ይካፈር"
     },
     {
       "surface": "ועל",
-      "gloss": "ን"
+      "gloss": "ን-"
     },
     {
       "surface": "הכהנים",
@@ -60,7 +60,7 @@
     },
     {
       "surface": "ועל",
-      "gloss": "ን"
+      "gloss": "ን-"
     },
     {
       "surface": "כל",
@@ -72,13 +72,13 @@
     },
     {
       "surface": "הקהל",
-      "gloss": "ቅጸል"
+      "gloss": "ስብሻ"
     },
     {
       "surface": "יכפר",
-      "gloss": "ይብቅዕ"
+      "gloss": "ይካፈር"
     }
   ],
-  "timestamp": "2026-09-18T21:58:51.775371775Z",
+  "timestamp": "2026-09-25T04:30:03.638604803Z",
   "model": "glm-5.3"
 }

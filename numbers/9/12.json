@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "ti",
   "chapter": 9,
-  "translation": "ክሳብ ቀዳም ከምኡ ኣይተሪፉን፣ ከብዲ እውን ኣይተበታተኑን፤ ነቲ ቤሳ ብመሊእ ሕግጋቱ ክገብርዎ።",
+  "translation": "ክሳብ ቀዳሕ ካብኡ ኣይሓዱዎን፣ ጠንጋር ድማ ኣብ ውሽጡ ኣይሰብርዎን፤ ከም ኩሉ ስርዓት ናይ ፓሳሕ እኒ ⟨את⟩ ይፍጽምዎ።",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "ኣይ-…ን"
+      "gloss": "ኣይ-…-ን"
     },
     {
       "surface": "ישאירו",
-      "gloss": "ክተሪፉ"
+      "gloss": "ይሓዱዎ"
     },
     {
       "surface": "ממנו",
-      "gloss": "ከምኡ"
+      "gloss": "ካብኡ"
     },
     {
       "surface": "עד",
@@ -25,46 +25,46 @@
     },
     {
       "surface": "בקר",
-      "gloss": "ቀዳም"
+      "gloss": "ቀዳሕ"
     },
     {
       "surface": "ועצם",
-      "gloss": "ከብዲ እውን"
+      "gloss": "ጠንጋር ድማ"
     },
     {
       "surface": "לא",
-      "gloss": "ኣይ-…ን"
+      "gloss": "ኣይ-…-ን"
     },
     {
       "surface": "ישברו",
-      "gloss": "ክተበታተኑ"
+      "gloss": "ይሰብርዎ"
     },
     {
       "surface": "בו",
-      "gloss": "ኣብ"
+      "gloss": "ኣብ ውሽጡ"
     },
     {
       "surface": "ככל",
-      "gloss": "ብመሊእ"
+      "gloss": "ከም ኩሉ"
     },
     {
       "surface": "חקת",
-      "gloss": "ሕጊ"
+      "gloss": "ስርዓት"
     },
     {
       "surface": "הפסח",
-      "gloss": "ናይ ቤሳ"
+      "gloss": "ናይ ፓሳሕ"
     },
     {
       "surface": "יעשו",
-      "gloss": "ክገብርዎ"
+      "gloss": "ይፍጽምዎ"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ነቲ ቤሳ"
+      "marks": "ኣቱ (ፓሳሕ)"
     }
   ],
-  "timestamp": "2026-09-18T22:20:17.843538811Z",
+  "timestamp": "2026-09-25T04:38:45.376373164Z",
   "model": "glm-5.3"
 }

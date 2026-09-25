@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "ti",
   "chapter": 15,
-  "translation": "ንኣጋግ ንጉስ ዓማልቅ ሕያው ሒዙ፣ ኩሉ ህዝቢ ድማ ብሕይወት ገበረ —",
+  "translation": "ዓቕቦ ⟨את⟩ ኣጋግ ንጉስ ዓማሌቅ ሕያው ኮይኑ፣ ⟨ואת⟩ ኩሉ ሕዝቢ ብፍርዲ ሰይፊ ኣጠፈሸ።",
   "tokens": [
     {
       "surface": "ויתפש",
-      "gloss": "ሒዙ"
+      "gloss": "ዓቕቦ"
     },
     {
       "surface": "את",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "עמלק",
-      "gloss": "ዓማልቅ"
+      "gloss": "ዓማሌቅ"
     },
     {
       "surface": "חי",
@@ -35,29 +35,29 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ኹሉ እቲ ህዝቢ"
+      "marks": "ኩሉ ሕዝቢ"
     },
     {
       "surface": "כל",
-      "gloss": "ኹሉ"
+      "gloss": "ኩሉ"
     },
     {
       "surface": "העם",
-      "gloss": "እቲ ህዝቢ"
+      "gloss": "ሕዝቢ"
     },
     {
       "surface": "החרים",
-      "gloss": "ኣጥፊአ"
+      "gloss": "ኣጠፈሸ"
     },
     {
       "surface": "לפי",
-      "gloss": "ብጽምጽ"
+      "gloss": "ብፍርዲ"
     },
     {
       "surface": "חרב",
-      "gloss": "ሰይፍ"
+      "gloss": "ሰይፊ"
     }
   ],
-  "timestamp": "2026-09-19T00:06:45.657455097Z",
+  "timestamp": "2026-09-25T03:24:24.272555827Z",
   "model": "glm-5.3"
 }

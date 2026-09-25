@@ -1,1 +1,46 @@
-{"tier":"glm-5.2","verse":40,"ref":"ezekiel 16:40","book":"ezekiel","lang":"ti","chapter":16,"translation":"ስብሰት ኣኼቡ ኣብ ልዕልካ፤ ብዕንጻ ድማ የበዝሕዎ፤ ነቲ ⟨את⟩ ብጸዓት ድማ ይቕተሉኻ፤ ማሕደር ሰይፍ ከኣ ይስሕቡኻ።","tokens":[{"surface":"והעלו","gloss":"ድማ የቐይርዎ"},{"surface":"עליך","gloss":"ኣብ ልዕልካ"},{"surface":"קהל","gloss":"ስብሰት"},{"surface":"ורגמו","gloss":"ድማ የረግምዎ"},{"surface":"אותך","gloss":"⟨את⟩ ⟨אותך⟩","marks":"ኣብ ጸዓት"},{"surface":"באבן","gloss":"ብጸዓት"},{"surface":"ובתקוך","gloss":"ድማ ይሰቕሉኻ"},{"surface":"בחרבותם","gloss":"ብሰይፍቲኦም"}],"timestamp":"2026-09-19T03:32:05.023527803Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "ጉባኤ ኣብ ላዕልኻ የለዓሉ፣ ⟨את⟩ ብዕንጻ ይረግሙካሉ፣ ብሰይፍቶም ድማ ይቐትሑናሉ።",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "የለዓሉ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ኣብ ላዕልኻ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ጉባኤ"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "ይረግሙካሉ"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "ንንስኻ"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ብዕንጻ"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "ይቐትሑናሉ"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "ብሰይፍቶም"
+    }
+  ],
+  "timestamp": "2026-09-25T03:56:42.365020658Z",
+  "model": "glm-5.3"
+}

@@ -5,20 +5,20 @@
   "book": "lamentations",
   "lang": "ti",
   "chapter": 3,
-  "translation": "ኣብ ጸልማት ንዓኣ ኣእቲሉ ከደ፣ ብብርሃን ግን ኣይኮነን።",
+  "translation": "ንዓይ ⟨את⟩ ኣምጺኡ ኣብ ጸልማት ኣትዩ ዓዲሙ ከደ፣ ብዘይ ብርሃን።",
   "tokens": [
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩",
-      "marks": "ንዓኣ"
+      "gloss": "ንዓይ ⟨את⟩",
+      "marks": "ኣምጺኡ (נהג)"
     },
     {
       "surface": "נהג",
-      "gloss": "ኣእቲሉ"
+      "gloss": "ኣምጺኡ"
     },
     {
       "surface": "וילך",
-      "gloss": "ከደ"
+      "gloss": "ዓዲሙ ከደ"
     },
     {
       "surface": "חשך",
@@ -26,13 +26,13 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ኣይ…ን"
+      "gloss": "ብዘይ"
     },
     {
       "surface": "אור",
       "gloss": "ብርሃን"
     }
   ],
-  "timestamp": "2026-09-19T06:35:09.010080175Z",
+  "timestamp": "2026-09-25T04:27:43.408628862Z",
   "model": "glm-5.3"
 }

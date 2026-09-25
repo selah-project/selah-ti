@@ -1,1 +1,110 @@
-{"tier":"glm-5.2","verse":7,"ref":"2-kings 3:7","book":"2-kings","lang":"ti","chapter":3,"translation":"ከደ ድማ ናብ ይሆሹፋጥ ንጉስ ይሁዳ ብለመድ ኣቢሉ «እቲ ንጉስ ሞኣብ ኣባይ ደው በለ፤ ምስዘይ ናብ ሞኣብ ናብ ምዃት ትኸድያ?» በሎ። ንሱ ድማ «እወጽእ እየ፤ ከም ኣነ ከምኡውን ንስኻ፤ ከም ህዝበይ ህዝብካ፤ ከም ፈረሰንተይ ፈረሰንተኻ» በለ።","tokens":[{"surface":"וילך","gloss":"ከደ"},{"surface":"וישלח","gloss":"ብለመድ ኣቢሉ"},{"surface":"אל","gloss":"ናብ"},{"surface":"יהושפט","gloss":"ይሆሹፋጥ"},{"surface":"מלך","gloss":"ንጉስ"},{"surface":"יהודה","gloss":"ይሁዳ"},{"surface":"לאמר","gloss":"ብለመድ"},{"surface":"מלך","gloss":"እቲ ንጉስ"},{"surface":"מואב","gloss":"ሞኣብ"},{"surface":"פשע","gloss":"ደው በለ"},{"surface":"בי","gloss":"ኣባይ"},{"surface":"התלך","gloss":"ትኸድያ"},{"surface":"אתי","gloss":"⟨את⟩ ምስ ኣነ"},{"surface":"אל","gloss":"ናብ"},{"surface":"מואב","gloss":"ሞኣብ"},{"surface":"למלחמה","gloss":"ናብ ምዃት"},{"surface":"ויאמר","gloss":"በለ"},{"surface":"אעלה","gloss":"እወጽእ እየ"},{"surface":"כמוני","gloss":"ከም ኣነ"},{"surface":"כמוך","gloss":"ከምኡውን ንስኻ"},{"surface":"כעמי","gloss":"ከም ህዝበይ"},{"surface":"כעמך","gloss":"ህዝብካ"},{"surface":"כסוסי","gloss":"ከም ፈረሰንተይ"},{"surface":"כסוסיך","gloss":"ፈረሰንተኻ"}],"timestamp":"2026-09-19T01:14:35.685277132Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 3:7",
+  "book": "2-kings",
+  "lang": "ti",
+  "chapter": 3,
+  "translation": "ከደ፣ ንየሆሹጻጥ ንጉስ ይሁዳ ልኣኽ ሰደደ እናበለ፦ «ንጉስ ሞኣብ ኣባይ ተቓልሐ፤ ናብ ሞኣብ ንሓዊ ምስኣይ ⟨את⟩ ትኸድድኒ?» ንሱ ድማ «እወንቕጠል እየ፤ ከምኣንትካ እየ፣ ህዝቢይ ከም ህዝብካ፣ ፈረሰኛይ ከም ፈረሰኛኻ» በለ።",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ከደ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ሰደደ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "የሆሹጻጥ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ይሁዳ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "እናበለ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ንጉስ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ተቓልሐ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ኣባይ"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "ትኸድድ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ምስኣይ",
+      "marks": "ናብ ሞኣብ ንሓዊ ምስኣይ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ናብ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ሞኣብ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ንሓዊ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "በለ"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "እወንቕጠል"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "ከምኣንትካ"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ከምኣንትካ"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "ከም ህዝቢይ"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "ከም ህዝብካ"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "ከም ፈረሰኛይ"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "ከም ፈረሰኛኻ"
+    }
+  ],
+  "timestamp": "2026-09-25T03:35:12.788932250Z",
+  "model": "glm-5.3"
+}

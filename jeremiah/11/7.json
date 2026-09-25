@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":7,"ref":"jeremiah 11:7","book":"jeremiah","lang":"ti","chapter":11,"translation":"ምኽንያቱ ንኣቦታትኩም ብዝበለ መስኪ ኣበልኩ፣ ኣብቲ መዓልቲ እናወጽእክዎም ካብ ምድሪ ሚጽራይም ክሳብ ሎሚ እዚ መዓልቲ፣ ብሉፉ ተንቕሕን ብዝበለ ኣመልኲትን፣ ንበሎም፦ «ኣብ ቓለ ሰምዑኒ።»","tokens":[{"surface":"כי","gloss":"ምኽንያቱ"},{"surface":"העד","gloss":"መስኪ"},{"surface":"העדתי","gloss":"ኣበልኩ"},{"surface":"באבותיכם","gloss":"ንኣቦታትኩም"},{"surface":"ביום","gloss":"ኣብቲ መዓልቲ"},{"surface":"העלותי","gloss":"እናወጽእክዎም"},{"surface":"אותם","gloss":"⟨את⟩ ዎም"},{"surface":"מארץ","gloss":"ካብ ምድሪ"},{"surface":"מצרים","gloss":"ሚጽራይም"},{"surface":"ועד","gloss":"ክሳብ"},{"surface":"היום","gloss":"እቲ መዓልቲ"},{"surface":"הזה","gloss":"እዚ"},{"surface":"השכם","gloss":"ብሉፉ ተንቕሕ"},{"surface":"והעד","gloss":"ኣመልኲትን"},{"surface":"לאמר","gloss":"ንበሎም"},{"surface":"שמעו","gloss":"ሰምዑ"},{"surface":"בקולי","gloss":"ኣብ ቓለ"}],"timestamp":"2026-09-19T02:39:15.440441263Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 11:7",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ምኽንያቱ ንኣቦታትኩም ቐይምኩ እናመስክርኩ፣ ኣብቲ መዓልቲ ⟨את⟩ ንሳቶም ካብ ምድሪ ሚጽራይም እናወጺእኩ፣ ክሳብ እዚ መዓልቲ እዚ፣ ቀደምኩ እናመስክርኩ ኢለ ድማ፦ «ድምጼ ሰማዑ» በልኩ።",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "העד",
+      "gloss": "ቐይምኩ"
+    },
+    {
+      "surface": "העדתי",
+      "gloss": "እናመስክርኩ"
+    },
+    {
+      "surface": "באבותיכם",
+      "gloss": "ንኣቦታትኩም"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ኣብቲ መዓልቲ"
+    },
+    {
+      "surface": "העלותי",
+      "gloss": "እናወጺእኩ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ምድሪ ሚጽራይም"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ካብ ምድሪ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ሚጽራይም"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ክሳብ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "መዓልቲ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "እዚ"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "ቀደምኩ"
+    },
+    {
+      "surface": "והעד",
+      "gloss": "እናመስክርኩ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ኢለ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ሰማዑ"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ድምጼ"
+    }
+  ],
+  "timestamp": "2026-09-25T04:12:22.151752679Z",
+  "model": "glm-5.3"
+}

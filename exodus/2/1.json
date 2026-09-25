@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "ti",
   "chapter": 2,
-  "translation": "ሓደ ሰብ ካብ ስድራ ሌዊ ከደ፣ ንዓመዲ ሌዊ እውን ወሲዱ።",
+  "translation": "ሰብ ካብ ስድራ ሌዊ ከደ፣ ድማ ⟨את⟩ ናይ ሌዊ ጓል ወሲኹ።",
   "tokens": [
     {
       "surface": "וילך",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "ሓደ ሰብ"
+      "gloss": "ሰብ"
     },
     {
       "surface": "מבית",
-      "gloss": "ካብ ስድራ"
+      "gloss": "ካብ ስዓራ"
     },
     {
       "surface": "לוי",
@@ -25,22 +25,22 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "ወሲዱ"
+      "gloss": "ወሲኹ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ዓመዲ ሌዊ"
+      "marks": "ናይ ሌዊ ጓል"
     },
     {
       "surface": "בת",
-      "gloss": "ዓመዲ"
+      "gloss": "ጓል"
     },
     {
       "surface": "לוי",
       "gloss": "ሌዊ"
     }
   ],
-  "timestamp": "2026-09-18T21:11:34.607343329Z",
+  "timestamp": "2026-09-25T03:51:12.721587486Z",
   "model": "glm-5.3"
 }

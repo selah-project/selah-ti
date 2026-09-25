@@ -5,48 +5,51 @@
   "book": "numbers",
   "lang": "ti",
   "chapter": 16,
-  "translation": "እታ ምድሪ ⟨את⟩ ኣፋያ ኣፍተተትን ድማ፣ ⟨את⟩ ዓቕሎምን ⟨את⟩ ቤታቶምን ነቶም ናብ ᧴קורח ዝነበሩ ኩሉ ሰብን ⟨את⟩ ኩሉ ንብረቶምን ሰበለቶም።",
+  "translation": "ምድሪ ⟨את⟩ ኣፋ ኸፈትታ ንሳቶምን ⟨את⟩ ገዛታቶምን ወልቐት፣ ንዅሉ ሰብ ናይ ቈራሕን ⟨את⟩ ዅሉ ንብረቶምን ድማ።",
   "tokens": [
     {
       "surface": "ותפתח",
-      "gloss": "ድማ ኣፍተተት"
+      "gloss": "ኸፈትታ"
     },
     {
       "surface": "הארץ",
-      "gloss": "እታ ምድሪ"
+      "gloss": "ምድሪ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ኣፋያ"
+      "marks": "ኣፋ"
     },
     {
       "surface": "פיה",
-      "gloss": "ኣፋያ"
+      "gloss": "ኣፋ"
     },
     {
       "surface": "ותבלע",
-      "gloss": "ሰበለቶም"
+      "gloss": "ወልቐት"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ኣታቶም"
+      "gloss": "⟨את⟩",
+      "marks": "ንሳቶም"
     },
     {
       "surface": "ואת",
-      "gloss": "ድማ ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "ገዛታቶም"
     },
     {
       "surface": "בתיהם",
-      "gloss": "ቤታቶም"
+      "gloss": "ገዛታቶም"
     },
     {
       "surface": "ואת",
-      "gloss": "ድማ ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "ዅሉ ሰብ"
     },
     {
       "surface": "כל",
-      "gloss": "ኩሉ"
+      "gloss": "ዅሉ"
     },
     {
       "surface": "האדם",
@@ -54,25 +57,26 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ዝ"
+      "gloss": "ናይ"
     },
     {
       "surface": "לקרח",
-      "gloss": "ናብ ᧴קורח ዝነበሩ"
+      "gloss": "ቈራሕ"
     },
     {
       "surface": "ואת",
-      "gloss": "ድማ ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "ዅሉ ንብረቶም"
     },
     {
       "surface": "כל",
-      "gloss": "ኩሉ"
+      "gloss": "ዅሉ"
     },
     {
       "surface": "הרכוש",
       "gloss": "ንብረቶም"
     }
   ],
-  "timestamp": "2026-09-18T22:28:01.575321846Z",
+  "timestamp": "2026-09-25T04:34:40.344788185Z",
   "model": "glm-5.3"
 }

@@ -1,1 +1,98 @@
-{"tier":"glm-5.2","verse":24,"ref":"judges 16:24","book":"judges","lang":"ti","chapter":16,"translation":"እቲ ህዝቢ ንሱ ምስ ረኣዮ ኣምላኾም ኣመስገነ፣ ምኽንያቱ እናበሉ፦ «ኣምላኽና ⟨את⟩ ጸላእናን ⟨את⟩ ሃገርና ሓዊሩን ቀተልቲና ዝበዝሐን ኣብ ኢድና ሃበ።»","tokens":[{"surface":"ויראו","gloss":"ረኣዩ"},{"surface":"אתו","gloss":"⟨את⟩","marks":"ንሱ (ሳምሶን)"},{"surface":"העם","gloss":"እቲ ህዝቢ"},{"surface":"ויהללו","gloss":"ኣመስገኑ"},{"surface":"את","gloss":"⟨את⟩","marks":"ኣምላኾም"},{"surface":"אלהיהם","gloss":"ኣምላኾም"},{"surface":"כי","gloss":"ምኽንያቱ"},{"surface":"אמרו","gloss":"እናበሉ"},{"surface":"נתן","gloss":"ሃበ"},{"surface":"אלהינו","gloss":"ኣምላኽና"},{"surface":"בידנו","gloss":"ኣብ ኢድና"},{"surface":"את","gloss":"⟨את⟩","marks":"ጸላእና"},{"surface":"אויבנו","gloss":"ጸላእና"},{"surface":"ואת","gloss":"⟨את⟩","marks":"ሓዊሩ"},{"surface":"מחריב","gloss":"ሓዊሩ"},{"surface":"ארצנו","gloss":"ሃገርና"},{"surface":"ואשר","gloss":"ዝበዝሐ"},{"surface":"הרבה","gloss":"ኣበዝሐ"},{"surface":"את","gloss":"⟨את⟩","marks":"ቀተልቲና"},{"surface":"חללינו","gloss":"ቀተልቲና"}],"timestamp":"2026-09-18T23:51:09.664302971Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 16:24",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 16,
+  "translation": "እቲ ሕዝቒ ኸኣ ⟨את⟩ ረኣየ፣ ንኣማልክቶምን ድማ ⟨את⟩ መስገነ፤ ምኽንያቱ እናበሉ እዮም፦ «ኣማልክትና ⟨את⟩ ጸላእትናን ⟨את⟩ ምድርና ዝገደፈርን ብዙሕ ዝተቐተሉና ዝገበርን ኣብ ኢድና ሃቐና።»",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ረኣየ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ንሱ",
+      "marks": "እቲ ሕዝቒ (ንሳሞን ረኣዩ)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "እቲ ሕዝቒ"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "መስገነ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኣማልክቶም"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ኣማልክቶም"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ምኽንያቱ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "እናበሉ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ሃቐ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኣማልክትና"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "ኣብ ኢድና"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ጸላእትና"
+    },
+    {
+      "surface": "אויבנו",
+      "gloss": "ጸላእትና"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ድማ ⟨את⟩",
+      "marks": "ዝገደፈር ምድርና"
+    },
+    {
+      "surface": "מחריב",
+      "gloss": "ዝገደፈር"
+    },
+    {
+      "surface": "ארצנו",
+      "gloss": "ምድርና"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ከምኡውን"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ብዙሕ ገበረ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ዝተቐተሉና"
+    },
+    {
+      "surface": "חללינו",
+      "gloss": "ዝተቐተሉና"
+    }
+  ],
+  "timestamp": "2026-09-25T04:24:51.820853154Z",
+  "model": "glm-5.3"
+}

@@ -5,44 +5,44 @@
   "book": "deuteronomy",
   "lang": "ti",
   "chapter": 27,
-  "translation": "ኣብ ቀን እትሻጥሩ ⟨את⟩ ዮርዳኖስ ናብ እቲ ምድሪ እታ ያህዌህ ኤሎሂምካ ዝህበካ ኮይና ንኻ ዓባይቲ ድንጋያት ከተቐምጡን ብሕጽርሚ ከተሓጽርዎምን ይኸውን።",
+  "translation": "ኣብታ መዓልቲ እተዓቢሩምዋ ⟨את⟩ የርዳን ናብታ ምድሪ እትያህዌህ ኤሎሂምኩም እትሃበኩምዋ ነቲ ደው ንዓይኩም ዓቢት ዕምባታት ተኽለም፣ ⟨אתם⟩ ድማ ብሲድ ተሸፍኑ።",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "ይኸውን"
+      "gloss": "ኰይኑ እዩ ኣብታ"
     },
     {
       "surface": "ביום",
-      "gloss": "ኣብ ቀን"
+      "gloss": "መዓልቲ"
     },
     {
       "surface": "אשר",
-      "gloss": "እት"
+      "gloss": "እትዓቢሩምዋ"
     },
     {
       "surface": "תעברו",
-      "gloss": "እትሻጥሩ"
+      "gloss": "ተዓቢሩም"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ዮርዳኖስ"
+      "marks": "የርዳን"
     },
     {
       "surface": "הירדן",
-      "gloss": "ዮርዳኖስ"
+      "gloss": "የርዳን"
     },
     {
       "surface": "אל",
-      "gloss": "ናብ"
+      "gloss": "ናብታ"
     },
     {
       "surface": "הארץ",
-      "gloss": "እቲ ምድሪ"
+      "gloss": "ምድሪ"
     },
     {
       "surface": "אשר",
-      "gloss": "እታ"
+      "gloss": "እትያህዌህ"
     },
     {
       "surface": "יהוה",
@@ -50,45 +50,46 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "ኤሎሂምካ"
+      "gloss": "ኤሎሂምኩም"
     },
     {
       "surface": "נתן",
-      "gloss": "ዝህበካ"
+      "gloss": "ሃበኩምዋ"
     },
     {
       "surface": "לך",
-      "gloss": "ንኻ"
+      "gloss": "ንዓይኩም"
     },
     {
       "surface": "והקמת",
-      "gloss": "ተቐምጡ"
+      "gloss": "ተኽለም"
     },
     {
       "surface": "לך",
-      "gloss": "ንኻ"
+      "gloss": "ንዓይኩም"
     },
     {
       "surface": "אבנים",
-      "gloss": "ድንጋያት"
+      "gloss": "ዕምባታት"
     },
     {
       "surface": "גדלות",
-      "gloss": "ዓባይቲ"
+      "gloss": "ዓቢት"
     },
     {
       "surface": "ושדת",
-      "gloss": "ተሓጽርዎም"
+      "gloss": "ተሸፍኑ"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ነቶም"
+      "gloss": "⟨אתם⟩",
+      "marks": "ብሲድ"
     },
     {
       "surface": "בשיד",
-      "gloss": "ብሕጽርሚ"
+      "gloss": "ብሲድ"
     }
   ],
-  "timestamp": "2026-09-18T23:06:41.676592767Z",
+  "timestamp": "2026-09-25T03:46:30.422456411Z",
   "model": "glm-5.3"
 }

@@ -1,1 +1,71 @@
-{"tier":"glm-5.2","verse":54,"ref":"1-kings 22:54","book":"1-kings","lang":"ti","chapter":22,"translation":"ንባዓል ሰርሐ ⟨את⟩ ባዓልን ከይዲ ሰገደ ልኡ፤ ንያህዌህ ኤሎሂም ናይ እስራኤል ኣስቐጸለ፣ ብዝኾነ እቲ ኣቡኡ ዝገበሮ ከምኡ ኣይተኸየምን።","tokens":[{"surface":"ויעבד","gloss":"ሰርሐ"},{"surface":"את","gloss":"⟨את⟩","marks":"ባዓል"},{"surface":"הבעל","gloss":"ባዓል"},{"surface":"וישתחוה","gloss":"ሰገደ"},{"surface":"לו","gloss":"ልኡ"},{"surface":"ויכעס","gloss":"ኣስቐጸለ"},{"surface":"את","gloss":"⟨את⟩","marks":"ያህዌህ"},{"surface":"יהוה","gloss":"ያህዌህ"},{"surface":"אלהי","gloss":"ኤሎሂም ናይ"},{"surface":"ישראל","gloss":"እስራኤል"},{"surface":"ככל","gloss":"ብዝኾነ"},{"surface":"אשר","gloss":"እቲ"},{"surface":"עשה","gloss":"ዝገበሮ"},{"surface":"אביו","gloss":"ኣቡኡ"}],"timestamp":"2026-09-19T01:11:35.232692671Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-kings 22:54",
+  "book": "1-kings",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ንባዓል ኣገልገሎ፣ ንሱ ሰገድዎ እውን፣ ያህዌህ ኤሎሂም ናይ ይስራኤል ኣስቐጣዕዎ፣ ከም ብሉኡ ኩሉ እቲ ዝገበረ ኣቦኡ።",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "ኣገልገሎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ባዓል"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ባዓል"
+    },
+    {
+      "surface": "וישתחוה",
+      "gloss": "ሰገድዎ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ንሱ"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "ኣስቐጣዕዎ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ያህዌህ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ኤሎሂም"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ይስራኤል"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ከም ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ ዝ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበረ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ኣቦኡ"
+    }
+  ],
+  "timestamp": "2026-09-25T03:21:35.187252989Z",
+  "model": "glm-5.3"
+}

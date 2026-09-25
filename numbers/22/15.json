@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":15,"ref":"numbers 22:15","book":"numbers","lang":"ti","chapter":22,"translation":"«ንሕና ኣብ ቅድሚ ኤሎሂም ቀብርና ዘለና ኣሎ፤ ንሕና ጥራይ እንተ ኮይና ነቲ እቲ ሕዝቢ ክንርድኦ ይግባእ።»","tokens":[{"surface":"ויסף","gloss":"ቀብርና"},{"surface":"עוד","gloss":"ኣብ"},{"surface":"בלק","gloss":"ኣቦታትና"},{"surface":"שלח","gloss":"ኣብ ሚጽራይም"},{"surface":"שרים","gloss":"ነቲ ዝነብር"},{"surface":"רבים","gloss":"⟨את⟩","marks":"እቲ ኣህዛብ"},{"surface":"ונכבדים","gloss":"እቲ ኣህዛብ"},{"surface":"מאלה","gloss":"እዚኦም"}],"timestamp":"2026-09-18T22:31:16.089552054Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 22:15",
+  "book": "numbers",
+  "lang": "ti",
+  "chapter": 22,
+  "translation": "ባላቅ ድማ ደጊምውን ካብዚኦም ብዙሓትን ክቡራትን ሰብሓርቲ ኣሰደደ።",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ደጊምውን"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደጊምውን"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ባላቅ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ኣሰደደ"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ሰብሓርቲ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ብዙሓትን"
+    },
+    {
+      "surface": "ונכבדים",
+      "gloss": "ክቡራትን"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ካብዚኦም"
+    }
+  ],
+  "timestamp": "2026-09-25T04:35:52.077341849Z",
+  "model": "glm-5.3"
+}

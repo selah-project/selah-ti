@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "ti",
   "chapter": 29,
-  "translation": "ቓስ ᙎהוה ብሒድብ ⟨እዩ⟩፤ ቓስ יהוה ብውዑይ ክብሪ ⟨እዩ⟩።",
+  "translation": "ድምጺ ያህዌህ ብኃይል፣ ድምጺ ያህዌህ ብክብሪ ዝተመልአ።",
   "tokens": [
     {
       "surface": "קול",
-      "gloss": "ቓል"
+      "gloss": "ድምጺ"
     },
     {
       "surface": "יהוה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "בכח",
-      "gloss": "ብሒድብ"
+      "gloss": "ብኃይል"
     },
     {
       "surface": "קול",
-      "gloss": "ቓል"
+      "gloss": "ድምጺ"
     },
     {
       "surface": "יהוה",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "בהדר",
-      "gloss": "ብውዑይ ክብሪ"
+      "gloss": "ብክብሪ"
     }
   ],
-  "timestamp": "2026-09-19T04:51:41.986581855Z",
+  "timestamp": "2026-09-25T04:40:14.862436605Z",
   "model": "glm-5.3"
 }

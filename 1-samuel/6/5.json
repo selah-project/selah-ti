@@ -1,1 +1,99 @@
-{"tier":"glm-5.2","verse":5,"ref":"1-samuel 6:5","book":"1-samuel","lang":"ti","chapter":6,"translation":"ስለዚ ቅርጺ ዕብሪኩምን ቅርጺ ኣውጻታትኩምን እቶም ዝጥፍኡ ⟨את⟩ ምድሪ ክትገብሩ፣ ናብ ኤሎሂ ኢስራኤል ክብሪ ክትሃቡ፤ ደሊ ᢳᡱᡱᡱ","tokens":[{"surface":"ועשיתם","gloss":"ክትገብሩ"},{"surface":"צלמי","gloss":"ቅርጺ"},{"surface":"עפליכם","gloss":"ዕብሪኩም"},{"surface":"וצלמי","gloss":"ቅርጺ"},{"surface":"עכבריכם","gloss":"ኣውጻታትኩም"},{"surface":"המשחיתם","gloss":"እቶም ዝጥፍኡ"},{"surface":"את","gloss":"⟨את⟩","marks":"ምድሪ"},{"surface":"הארץ","gloss":"ምድሪ"},{"surface":"ונתתם","gloss":"ክትሃቡ"},{"surface":"לאלהי","gloss":"ናብ ኤሎሂ"},{"surface":"ישראל","gloss":"ኢስራኤል"},{"surface":"כבוד","gloss":"ክብሪ"},{"surface":"אולי","gloss":"ደሊ"},{"surface":"יקל","gloss":"ይቐንስ"},{"surface":"את","gloss":"⟨את⟩","marks":"ኢድኡ"},{"surface":"ידו","gloss":"ኢድኡ"},{"surface":"מעליכם","gloss":"ካብ ኣብ ልዕሊኩም"},{"surface":"ומעל","gloss":"ከምኡውን ካብ ልዕሊ"},{"surface":"אלהיכם","gloss":"ኣማልኽትኩም"},{"surface":"ומעל","gloss":"ከምኡውን ካብ ልዕሊ"},{"surface":"ארצכם","gloss":"ምድርኩም"}],"timestamp":"2026-09-19T08:39:44.251691039Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 6:5",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "ስለዚ ቅርጺ ዕቀፍትኹምን ቅርጺ ኣክብሪትኹምን እቶም ⟨את⟩ ምድር ዝሓብስሱ ትገብሩ፣ ንኤሎሂ ኢስራኤል ክብሪ ትሃቡ፣ ድሕሪ ንሱ ⟨את⟩ ኢዱ ካብ ላዕሊኹምን ካብ ኣማልኽትኹምን ካብ ምድርኹምን ከም ዝቐንስ ይኽእል እዩ።",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "ትገብሩ"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "ቅርጺ"
+    },
+    {
+      "surface": "עפליכם",
+      "gloss": "ዕቀፍትኹም"
+    },
+    {
+      "surface": "וצלמי",
+      "gloss": "ንቅርጺ…ን"
+    },
+    {
+      "surface": "עכבריכם",
+      "gloss": "ኣክብሪትኹም"
+    },
+    {
+      "surface": "המשחיתם",
+      "gloss": "እቶም ዝሓብስሱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ምድር"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ምድር"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ትሃቡ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ንኤሎሂ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ኢስራኤል"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ክብሪ"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ድሕሪ…ከም ዝኽእል"
+    },
+    {
+      "surface": "יקל",
+      "gloss": "ይቐንስ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ኢዱ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ኢዱ"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "ካብ ላዕሊኹም"
+    },
+    {
+      "surface": "ומעל",
+      "gloss": "ንካብ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ኣማልኽትኹም"
+    },
+    {
+      "surface": "ומעל",
+      "gloss": "ንካብ"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ምድርኹም"
+    }
+  ],
+  "timestamp": "2026-09-25T03:29:16.360540461Z",
+  "model": "glm-5.3"
+}

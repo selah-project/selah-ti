@@ -5,23 +5,23 @@
   "book": "2-samuel",
   "lang": "ti",
   "chapter": 13,
-  "translation": "ኣብዚ እውን ጎይታይ እቲ ንጉስ ነቲ ቃል ናብ ልቡ ኣይውስኽን፣ ኩሉ ውላድ እቲ ንጉስ ሞትዎም ንኽብል፤ ኣብኡ ኣምኖን ብብዕሉ ጥራይ ሞተ።",
+  "translation": "ስለዚ ጎይታ እቲ ንጉስ ነቲ ቃል ናብ ልቡ ኣይኣቱ፦ «ኹሉ ውላድ እቲ ንጉስ ሞይቶም» ኢሉ፤ ኣምኖን ጥራይ ሞተ።",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "ኣብዚ እውን"
+      "gloss": "ስለዚ"
     },
     {
       "surface": "אל",
-      "gloss": "ኣይ…ን"
+      "gloss": "ኣይ"
     },
     {
       "surface": "ישם",
-      "gloss": "ይውስኽ"
+      "gloss": "የኣቱ"
     },
     {
       "surface": "אדני",
-      "gloss": "ጎይታይ"
+      "gloss": "ጎይታ"
     },
     {
       "surface": "המלך",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "דבר",
-      "gloss": "ቃል"
+      "gloss": "ነቲ ቃል"
     },
     {
       "surface": "לאמר",
-      "gloss": "ንኽብል"
+      "gloss": "ኢሉ"
     },
     {
       "surface": "כל",
-      "gloss": "ኩሉ"
+      "gloss": "ኹሉ"
     },
     {
       "surface": "בני",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "מתו",
-      "gloss": "ሞትዎም"
+      "gloss": "ሞይቶም"
     },
     {
       "surface": "כי",
-      "gloss": "ምኽንያቱ"
+      "gloss": "ግን"
     },
     {
       "surface": "אם",
-      "gloss": "ኣብኡ"
+      "gloss": "ጥራይ"
     },
     {
       "surface": "אמנון",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "לבדו",
-      "gloss": "ብብዕሉ ጥራይ"
+      "gloss": "ብውልቑ"
     },
     {
       "surface": "מת",
       "gloss": "ሞተ"
     }
   ],
-  "timestamp": "2026-09-19T00:30:44.111346891Z",
+  "timestamp": "2026-09-25T03:39:02.861222801Z",
   "model": "glm-5.3"
 }

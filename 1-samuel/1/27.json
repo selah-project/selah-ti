@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "ti",
   "chapter": 1,
-  "translation": "ንእዚ ቆልዑ እዚ እየ ጸለምኩ፡ ያህዌህ ድማ ነቲ ዝሓቐንኩ ካብኡ እቲ ሓቐንኩዎ ሃቐኒ።",
+  "translation": "ነዚ እዚ ወዲ ነዚ እዚ ተሰገዕኩ፣ ያህዌህ ድማ ⟨את⟩ እቲ ሓቱትተይ እታ ካብኡ እትሓቱ ዝነበረት ኣብኡ ሓበኒ።",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "ን- እዚ ቆልዑ"
+      "gloss": "ነዚ"
     },
     {
       "surface": "הנער",
-      "gloss": "እዚ ቆልዑ"
+      "gloss": "እቲ ወዲ"
     },
     {
       "surface": "הזה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "התפללתי",
-      "gloss": "ጸለምኩ"
+      "gloss": "ተሰገዕኩ"
     },
     {
       "surface": "ויתן",
-      "gloss": "ሃቐኒ"
+      "gloss": "ሃበ"
     },
     {
       "surface": "יהוה",
@@ -33,30 +33,30 @@
     },
     {
       "surface": "לי",
-      "gloss": "ንኣነ"
+      "gloss": "ንኣቶ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "እቲ ዝሓቐንኩዎ"
+      "marks": "እቲ ሓቱትተይ"
     },
     {
       "surface": "שאלתי",
-      "gloss": "እቲ ዝሓቐንኩዎ"
+      "gloss": "ሓቱትተይ"
     },
     {
       "surface": "אשר",
-      "gloss": "ዝ"
+      "gloss": "እታ"
     },
     {
       "surface": "שאלתי",
-      "gloss": "ሓቐንኩ"
+      "gloss": "እትሓቱ"
     },
     {
       "surface": "מעמו",
       "gloss": "ካብኡ"
     }
   ],
-  "timestamp": "2026-09-18T23:57:03.355259594Z",
+  "timestamp": "2026-09-25T03:23:01.022290361Z",
   "model": "glm-5.3"
 }

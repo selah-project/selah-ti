@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":5,"ref":"zechariah 6:5","book":"zechariah","lang":"ti","chapter":6,"translation":"እቲ መልኣኽ ምላሲ እናበለ ናባይ በለ፦ «እዚኦም ኣርባዕተ ንፋሳት ሰማያት እዮም፣ ካብ ምቕራብ ቅድሚ ጎይታ ኩሉ ምድሪ ዝወጹ እዮም።»","tokens":[{"surface":"ויען","gloss":"ምላሲ እናበለ"},{"surface":"המלאך","gloss":"እቲ መልኣኽ"},{"surface":"ויאמר","gloss":"በለ"},{"surface":"אלי","gloss":"ናባይ"},{"surface":"אלה","gloss":"እዚኦም"},{"surface":"ארבע","gloss":"ኣርባዕተ"},{"surface":"רחות","gloss":"ንፋሳት"},{"surface":"השמים","gloss":"ሰማያት"},{"surface":"יוצאות","gloss":"ዝወጹ"},{"surface":"מהתיצב","gloss":"ካብ ምቕራብ"},{"surface":"על","gloss":"ቅድሚ"},{"surface":"אדון","gloss":"ጎይታ"},{"surface":"כל","gloss":"ኩሉ"},{"surface":"הארץ","gloss":"ምድሪ"}],"timestamp":"2026-09-19T04:35:31.007353926Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 6:5",
+  "book": "zechariah",
+  "lang": "ti",
+  "chapter": 6,
+  "translation": "እቲ መልኣኽ ድማ መልሲ ሀበኒ ከምዚ በለኒ፦ «እዚኦም ኣርባዕተ ትንፋሳት ሰማያት እዮም፣ ካብ ምቕማጥ ቅድሚ ጎይታ ኩሉ እቲ ምድሪ ዝወጹእ እየን።»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "መልሲ ሀበኒ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "እቲ መልኣኽ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ከምዚ በለኒ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ንዓይ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "እዚኦም"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ኣርባዕተ"
+    },
+    {
+      "surface": "רחות",
+      "gloss": "ትንፋሳት"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ሰማያት"
+    },
+    {
+      "surface": "יוצאות",
+      "gloss": "ዝወጹእ እየን"
+    },
+    {
+      "surface": "מהתיצב",
+      "gloss": "ካብ ምቕማጥ ቅድሚ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ቅድሚ"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ጎይታ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "እቲ ምድሪ"
+    }
+  ],
+  "timestamp": "2026-09-25T04:42:02.412812499Z",
+  "model": "glm-5.3"
+}

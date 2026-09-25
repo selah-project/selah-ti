@@ -1,1 +1,55 @@
-{"tier":"glm-5.2","verse":9,"ref":"jeremiah 2:9","book":"jeremiah","lang":"ti","chapter":2,"translation":"ስለዚ ድማ ደግሞ ክገዝኣኩም እየ፣ ብኣፈልቲ ያህዌህ፣ እውን ⟨את⟩ ውላድ ውላድኩም ክገዝኣዮም እየ።","tokens":[{"surface":"לכן","gloss":"ስለዚ"},{"surface":"עד","gloss":"ደግሞ"},{"surface":"אריב","gloss":"ክገዝኣኩም"},{"surface":"אתכם","gloss":"⟨את⟩","marks":"ንስኻትኩም"},{"surface":"נאם","gloss":"ብኣፈልቲ"},{"surface":"יהוה","gloss":"ያህዌህ"},{"surface":"ואת","gloss":"⟨את⟩","marks":"ውላድ ውላድኩም"},{"surface":"בני","gloss":"ውላድ"},{"surface":"בניכם","gloss":"ውላድኩም"},{"surface":"אריב","gloss":"ክገዝኣዮም"}],"timestamp":"2026-09-19T02:25:44.864814908Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "ti",
+  "chapter": 2,
+  "translation": "ስለዚ ድማ ደግሞ ምስ ንስኻትኩም ⟨את⟩ ክኣራኺብ እየ፣ ኣማርያ ያህዌህ፣ ንውላድ ውላድኩም ድማ ⟨את⟩ ክኣራኺብ እየ።",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ስለዚ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ክኣራኺብ እየ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ንስኻትኩም",
+      "marks": "ንስኻትኩም"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ኣማርያ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ን-",
+      "marks": "ውላድ ውላድኩም"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ውላድ"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ውላድኩም"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ክኣራኺብ እየ"
+    }
+  ],
+  "timestamp": "2026-09-25T04:12:39.038884635Z",
+  "model": "glm-5.3"
+}

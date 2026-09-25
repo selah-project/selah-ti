@@ -5,28 +5,28 @@
   "book": "psalms",
   "lang": "ti",
   "chapter": 31,
-  "translation": "ኣብ ኢድካ ትንፋሼ ኣኻድእ፤ ነፊድካኒ ያህዌህ፣ ኤል ሓቂ።",
+  "translation": "«ኣብ ኢድኻ ነፍሰይ እተዓተትኩ፤ ያህዌህ ኤል ሓቂ ⟨את⟩ ኣድሒነኒ ኣለኻ»",
   "tokens": [
     {
       "surface": "בידך",
-      "gloss": "ኣብ ኢድካ"
+      "gloss": "ኣብ ኢድኻ"
     },
     {
       "surface": "אפקיד",
-      "gloss": "ኣኻድእ"
+      "gloss": "እተዓተትኩ"
     },
     {
       "surface": "רוחי",
-      "gloss": "ትንፋሼ"
+      "gloss": "ነፍሰይ"
     },
     {
       "surface": "פדיתה",
-      "gloss": "ነፊድካኒ"
+      "gloss": "ኣድሒነኒ ኣለኻ"
     },
     {
       "surface": "אותי",
       "gloss": "⟨את⟩",
-      "marks": "ነኣነ"
+      "marks": "ኣነ"
     },
     {
       "surface": "יהוה",
@@ -41,6 +41,6 @@
       "gloss": "ሓቂ"
     }
   ],
-  "timestamp": "2026-09-19T04:52:19.387997282Z",
+  "timestamp": "2026-09-25T04:41:16.786719237Z",
   "model": "glm-5.3"
 }

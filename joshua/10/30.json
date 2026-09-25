@@ -1,1 +1,120 @@
-{"tier":"glm-5.2","verse":30,"ref":"joshua 10:30","book":"joshua","lang":"ti","chapter":10,"translation":"ያህዌህ ድማ ነታ ከኣ ⟨את⟩ ንጉሳን ኣብ ኢድ እስራኤል ሃበ፤ ነታ ብናይ ሰይፊ ጠብዕ ድማ ሰበረዋን ⟨את⟩ ኩሉ ነፍሲ እታ ኣብ ውሽጣ ዘላ፤ ሓዱሽ ኣይተሪፈሉን፤ ንንጉሳ ድማ ከም ዝገበረ ንንጉስ ዪሪሆ ከምኡ ገበረላ።","tokens":[{"surface":"ויתן","gloss":"ሃቐ"},{"surface":"יהוה","gloss":"ያህዌህ"},{"surface":"גם","gloss":"ከኣ"},{"surface":"אותה","gloss":"⟨את⟩","marks":"ነታ"},{"surface":"ביד","gloss":"ኣብ ኢድ"},{"surface":"ישראל","gloss":"እስራኤል"},{"surface":"ואת","gloss":"⟨את⟩","marks":"ንጉሳን"},{"surface":"מלכה","gloss":"ንጉሳን"},{"surface":"ויכה","gloss":"ሰበረዋን"},{"surface":"לפי","gloss":"ብናይ ጠብዕ"},{"surface":"חרב","gloss":"ሰይፊ"},{"surface":"ואת","gloss":"⟨את⟩","marks":"ኩሉ ነፍሲ"},{"surface":"כל","gloss":"ኩሉ"},{"surface":"הנפש","gloss":"ነፍሲ"},{"surface":"אשר","gloss":"እታ ዘላ"},{"surface":"בה","gloss":"ኣብ ውሽጣ"},{"surface":"לא","gloss":"ኣይ-…-ን"},{"surface":"השאיר","gloss":"ኣይተሪፈሉን"},{"surface":"בה","gloss":"ኣብኣ"},{"surface":"שריד","gloss":"ሓዱሽ"},{"surface":"ויעש","gloss":"ገበረላ"},{"surface":"למלכה","gloss":"ንንጉሳ"},{"surface":"כאשר","gloss":"ከም ዝገበረ"},{"surface":"עשה","gloss":"ገበረ"},{"surface":"למלך","gloss":"ንንጉስ"},{"surface":"יריחו","gloss":"ዪሪሆ"}],"timestamp":"2026-09-18T23:25:26.208356393Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 10:30",
+  "book": "joshua",
+  "lang": "ti",
+  "chapter": 10,
+  "translation": "ያህዌህ ድማ ⟨את⟩ ነታውን ሃባታ ኣብ ኢድ እስራኤል፣ ⟨את⟩ ንንጉሳን ብጠብያ ሰይፊ ደቂቓቶ፣ ⟨את⟩ ኩሉ ነፍሲ እታ ኣብኣ ዘላ — ተሪ ኣብኣ ኣይሓደገን፣ ንንጉሳ ድማ ከም ዝገበረሉ ንንጉስ የሪሕው ከምኡ ገበረላ።",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ሃባታ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ድማ"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ነታ ኣብ ኢድ እስራኤል"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ኣብ ኢድ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "እስራኤል"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ንንጉሳ"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ንጉሳ"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "ደቂቓቶ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ብጠብያ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ሰይፊ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ ነፍሲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ነፍሲ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እታ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ኣይ…ን"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ሓደገ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ኣብኣ"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "ተሪ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ገበረላ"
+    },
+    {
+      "surface": "למלכה",
+      "gloss": "ንንጉሳ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ከም"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ዝገበረ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ንንጉስ"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "የሪሕው"
+    }
+  ],
+  "timestamp": "2026-09-25T04:20:38.334737288Z",
+  "model": "glm-5.3"
+}

@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "ti",
   "chapter": 55,
-  "translation": "ከምኡ እውን ቃለይ ካብ ኣፌ እንተ ወጺኡ ባዶ ከይተመለሰለይ፣ ነቲ ⟨את⟩ እቲ ዝደለኩዎ ክገብርን ነቲ ዝለኣኾዎ ክዓቢን እዩ።",
+  "translation": "ከምኡ እዩ ቃለይ እቲ ካብ ኣፉይ ዝወጽእ፤ ባዶ ኮይኑ ናባይ ኣይውስኽን፣ እምበር ዝደለኹዎ ⟨את⟩ እቲ ገበረ፣ እቲ ዝለኣኾ ድማ ኣወጸዮ።",
   "tokens": [
     {
       "surface": "כן",
-      "gloss": "ከምኡ እውን"
+      "gloss": "ከምኡ"
     },
     {
       "surface": "יהיה",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "אשר",
-      "gloss": "እንተ ወጺኡ"
+      "gloss": "እቲ"
     },
     {
       "surface": "יצא",
-      "gloss": "ካብ ኣፌ ወጺኡ"
+      "gloss": "ዝወጽእ"
     },
     {
       "surface": "מפי",
-      "gloss": "ካብ ኣፌ"
+      "gloss": "ካብ ኣፉይ"
     },
     {
       "surface": "לא",
-      "gloss": "ከይ"
+      "gloss": "ኣይ"
     },
     {
       "surface": "ישוב",
-      "gloss": "ተመለሰ"
+      "gloss": "ይውስኽን"
     },
     {
       "surface": "אלי",
@@ -45,46 +45,46 @@
     },
     {
       "surface": "ריקם",
-      "gloss": "ባዶ"
+      "gloss": "ባዶ ኮይኑ"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "እምበር"
     },
     {
       "surface": "אם",
-      "gloss": "እንተ"
+      "gloss": ""
     },
     {
       "surface": "עשה",
-      "gloss": "ክገብር"
+      "gloss": "ገበረ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "እቲ ዝደለኩዎ"
+      "marks": "እቲ ዝደለኹዎ"
     },
     {
       "surface": "אשר",
-      "gloss": "እቲ ዝደለኩዎ"
+      "gloss": "እቲ"
     },
     {
       "surface": "חפצתי",
-      "gloss": "እቲ ዝደለኩዎ"
+      "gloss": "ዝደለኹዎ"
     },
     {
       "surface": "והצליח",
-      "gloss": "ክዓቢ"
+      "gloss": "ኣወጸዝድማ"
     },
     {
       "surface": "אשר",
-      "gloss": "እቲ ዝለኣኾዎ"
+      "gloss": "እቲ"
     },
     {
       "surface": "שלחתיו",
-      "gloss": "ዝለኣኾዎ"
+      "gloss": "ዝለኣኾ"
     }
   ],
-  "timestamp": "2026-09-19T02:18:56.441078104Z",
+  "timestamp": "2026-09-25T04:11:27.559228091Z",
   "model": "glm-5.3"
 }

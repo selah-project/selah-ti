@@ -5,20 +5,20 @@
   "book": "deuteronomy",
   "lang": "ti",
   "chapter": 13,
-  "translation": "⟨את⟩ ኩሉ ቃል እቲ ኣነ ዝእዝዞ ንኣኹም ነቱ ተጠንቐቑ ንብሉ፤ ኩም ኣብ ልዕሊኡ ኣይትውስክን፣ ካብኡ ድማ ኣይትጐድልን።",
+  "translation": "ንኩሉ ⟨את⟩ ቓል እቲ ኣነ ዝኣዝዘኩም ⟨את⟩ ነንትኩም — ⟨את⟩ ኢኻ ክትሓልውዎ ክትገብርዎ እኹም፤ ኣብ ልዕሊኡ ኣይትወስኽዎን፣ ኣውን ካብኡ ኣይትንኽዎን።",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ኩሉ"
+      "marks": "ንኩሉ ቓል"
     },
     {
       "surface": "כל",
-      "gloss": "ኩሉ"
+      "gloss": "ንኩሉ"
     },
     {
       "surface": "הדבר",
-      "gloss": "ቃል"
+      "gloss": "ቓል"
     },
     {
       "surface": "אשר",
@@ -30,33 +30,33 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "ዝእዝዞ"
+      "gloss": "ዝኣዝዘኩም"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "ንኣኹም"
+      "marks": "ነንትኩም"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ነቱ"
+      "marks": "ኢኻ"
     },
     {
       "surface": "תשמרו",
-      "gloss": "ተጠንቐቑ"
+      "gloss": "ክትሓልውዎ"
     },
     {
       "surface": "לעשות",
-      "gloss": "ንብሉ"
+      "gloss": "ክትገብርዎ"
     },
     {
       "surface": "לא",
-      "gloss": "ኣይ"
+      "gloss": "ኣይ…ን"
     },
     {
       "surface": "תסף",
-      "gloss": "ትውስክን"
+      "gloss": "ክትወስኽዎ"
     },
     {
       "surface": "עליו",
@@ -64,17 +64,17 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ኣይ"
+      "gloss": "-ውን ኣይ…ን"
     },
     {
       "surface": "תגרע",
-      "gloss": "ትጐድልን"
+      "gloss": "ክትንኽዎ"
     },
     {
       "surface": "ממנו",
       "gloss": "ካብኡ"
     }
   ],
-  "timestamp": "2026-09-18T22:58:55.570253362Z",
+  "timestamp": "2026-09-25T03:45:10.677665758Z",
   "model": "glm-5.3"
 }

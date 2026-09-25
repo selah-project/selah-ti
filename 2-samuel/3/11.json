@@ -5,46 +5,47 @@
   "book": "2-samuel",
   "lang": "ti",
   "chapter": 3,
-  "translation": "ንሱ ድማ ደግማይ ⟨את⟩ ኣብነር ቓል ክመልሶ ኣይኰነን፣ ስለ ምፍራሑ ⟨ኢዩ⟩ ንኡ።",
+  "translation": "ንሱ ድማ ድሕሪታ ንኣብነር ⟨את⟩ ቃል ክመልስ ኣይከኣሎን፣ ስለ ዝሓዘሉ ⟨ንሱ⟩ ⟨את⟩።",
   "tokens": [
     {
-      "surface": "ולא",
-      "gloss": "ድማ ኣይኰነን"
+      "surface": "וְלֹֽא",
+      "gloss": "ኣይ…ን"
     },
     {
-      "surface": "יכל",
-      "gloss": "ኣይክእልን"
+      "surface": "יָכֹ֣ל",
+      "gloss": "ከኣለ"
     },
     {
-      "surface": "עוד",
-      "gloss": "ደግማይ"
+      "surface": "ע֔וֹד",
+      "gloss": "ድሕሪታ"
     },
     {
-      "surface": "להשיב",
-      "gloss": "ክመልሶ"
+      "surface": "לְהָשִׁ֥יב",
+      "gloss": "ንምምላስ"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
       "marks": "ኣብነር"
     },
     {
-      "surface": "אבנר",
+      "surface": "אַבְנֵ֖ר",
       "gloss": "ኣብነር"
     },
     {
-      "surface": "דבר",
-      "gloss": "ቓል"
+      "surface": "דָּבָ֑ר",
+      "gloss": "ቃል"
     },
     {
-      "surface": "מיראתו",
-      "gloss": "ስለ ምፍራሑ"
+      "surface": "מִיִּרְאָת֖וֹ",
+      "gloss": "ስለ ምድምስስ ንሱ"
     },
     {
-      "surface": "אתו",
-      "gloss": "⟨את⟩"
+      "surface": "אֹתֽוֹ",
+      "gloss": "⟨את⟩",
+      "marks": "ንሱ"
     }
   ],
-  "timestamp": "2026-09-19T00:21:33.437240847Z",
+  "timestamp": "2026-09-25T03:41:51.870308854Z",
   "model": "glm-5.3"
 }

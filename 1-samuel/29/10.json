@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":10,"ref":"1-samuel 29:10","book":"1-samuel","lang":"ti","chapter":29,"translation":"ሕጂ ድማ ኣብ ንግሆ ተበልዑ፤ ኣገልገልቲ ጎይታኻ ምሳኻ ⟨את⟩ ዝመጹ፤ ኣብ ጠዓሚ ምስ ተበለዕኩምን ብርሃን ምስ ወጸልኩምን ብሉኻትኩም።","tokens":[{"surface":"ועתה","gloss":"ሕጂ"},{"surface":"השכם","gloss":"ኣብ ንግሆ ተበልዑ"},{"surface":"בבקר","gloss":"ኣብ ንግሆ"},{"surface":"ועבדי","gloss":"ኣገልገልቲ"},{"surface":"אדניך","gloss":"ጎይታኻ"},{"surface":"אשר","gloss":"ዝ"},{"surface":"באו","gloss":"ዝመጹ"},{"surface":"אתך","gloss":"⟨את⟩","marks":"ምሳኻ"},{"surface":"והשכמתם","gloss":"ምስ ተበለዕኩምን"},{"surface":"בבקר","gloss":"ኣብ ጠዓሚ"},{"surface":"ואור","gloss":"ብርሃን ምስ ወጸ"},{"surface":"לכם","gloss":"ንዓኻትኩም"},{"surface":"ולכו","gloss":"ብሉኻትኩም"}],"timestamp":"2026-09-19T00:16:34.059997798Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "ti",
+  "chapter": 29,
+  "translation": "ስለዚ ሎሚ ኣብ ጥዋእ ኰስኻ፣ ኣገልገልቲ ናይ ጐይታኻ ዝምስ ⟨את⟩ ንስኻ ዝመጹ፣ ኣብ ጥዋእ ምስ ተንስእኹም ብርሃን ምስ ኣብለዩ ንስኻትኩም ከይዱ።",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ስለዚ ሎሚ"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "ኣብ ጥዋእ ኰስኻ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ኣብ ጥዋእ"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "ኣገልገልቲ"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ናይ ጐይታኻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ዝ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ዝመጹ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ምስ ⟨את⟩",
+      "marks": "ንስኻ"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "ምስ ተንስእኹም"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ኣብ ጥዋእ"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ብርሃን ምስ ኣብለዩ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ንስኻትኩም"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ከይዱ"
+    }
+  ],
+  "timestamp": "2026-09-25T03:27:43.767802536Z",
+  "model": "glm-5.3"
+}

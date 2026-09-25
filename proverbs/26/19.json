@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "ti",
   "chapter": 26,
-  "translation": "…ከምኡ እዩ እቲ ሰብ ኣብ መሓላ ⟨את⟩ ዓርኩኡ ዝበልዕን በልዎን፦ ‹ኣይኮንኩን፣ እስከ ደልዩ እየ!›",
+  "translation": "ከምኡ እዩ እቲ ሰብ ዝተቓልሶ ⟨את⟩ መርበቡን፣ «ንጸውዓይ ኣይኮንንን እየ?» ድማ ዝብል።",
   "tokens": [
     {
       "surface": "כן",
@@ -17,34 +17,34 @@
     },
     {
       "surface": "רמה",
-      "gloss": "ዝበልዕ"
+      "gloss": "ዝተቓልሶ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ዓርኩኡ"
+      "marks": "መርበቡን"
     },
     {
       "surface": "רעהו",
-      "gloss": "ዓርኩኡ"
+      "gloss": "መርበቡን"
     },
     {
       "surface": "ואמר",
-      "gloss": "በልዎን"
+      "gloss": "ድማ ዝብል"
     },
     {
       "surface": "הלא",
-      "gloss": "ዓይ ዶ"
+      "gloss": "ኣይ…ንን"
     },
     {
       "surface": "משחק",
-      "gloss": "ደልዩ"
+      "gloss": "ንጸውዓይ"
     },
     {
       "surface": "אני",
-      "gloss": "ኣነ"
+      "gloss": "እየ"
     }
   ],
-  "timestamp": "2026-09-19T05:57:30.651839707Z",
+  "timestamp": "2026-09-25T04:40:04.042610876Z",
   "model": "glm-5.3"
 }

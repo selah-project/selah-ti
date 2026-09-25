@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "ti",
   "chapter": 7,
-  "translation": "ሞሸን ኣሃሮንን ገበሩ፤ ከም እትኣዘዞም ያህዌህ ልክዕ ከምኡ ገበሩ።",
+  "translation": "ሞሸን ኣሃሮንን ከም ዝኣዘዞም ያህዌህ ⟨את⟩ ከምኣ ገበሩ።",
   "tokens": [
     {
       "surface": "ויעש",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "משה",
-      "gloss": "ሞሸን"
+      "gloss": "ሞሸ"
     },
     {
       "surface": "ואהרן",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "ከም"
+      "gloss": "ከም ዝ"
     },
     {
       "surface": "צוה",
-      "gloss": "እትኣዘዞም"
+      "gloss": "ኣዘዞም"
     },
     {
       "surface": "יהוה",
@@ -34,17 +34,17 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ንሶም (ሞሸንን ኣሃሮንን)"
+      "marks": "ንሳቶም"
     },
     {
       "surface": "כן",
-      "gloss": "ልክዕ ከምኡ"
+      "gloss": "ከምኣ"
     },
     {
       "surface": "עשו",
       "gloss": "ገበሩ"
     }
   ],
-  "timestamp": "2026-09-18T21:12:17.100618598Z",
+  "timestamp": "2026-09-25T03:55:33.548189331Z",
   "model": "glm-5.3"
 }

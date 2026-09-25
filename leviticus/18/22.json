@@ -5,27 +5,28 @@
   "book": "leviticus",
   "lang": "ti",
   "chapter": 18,
-  "translation": "ו ⟨את⟩ ተባዕታይ ከም ምድርፋቲ ሰበይቲ ኣይትትሓውሽን — ሓራም እዩ።",
+  "translation": "ምስ ወንቐጺ ⟨את⟩ ከም ምድምድ ሰበይቲ ኣትተኣከብ፤ ትዕብሃ እያ።",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "ו ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "ወንቐጺ"
     },
     {
       "surface": "זכר",
-      "gloss": "ተባዕታይ"
+      "gloss": "ወንቐጺ"
     },
     {
       "surface": "לא",
-      "gloss": "ኣይ…ን"
+      "gloss": "ኣት"
     },
     {
       "surface": "תשכב",
-      "gloss": "ትትሓውሽ"
+      "gloss": "ኣትተኣከብ"
     },
     {
       "surface": "משכבי",
-      "gloss": "ከም ምድርፋቲ"
+      "gloss": "ምድምድ"
     },
     {
       "surface": "אשה",
@@ -33,13 +34,13 @@
     },
     {
       "surface": "תועבה",
-      "gloss": "ሓራም"
+      "gloss": "ትዕብሃ"
     },
     {
       "surface": "הוא",
-      "gloss": "እዩ"
+      "gloss": "እያ"
     }
   ],
-  "timestamp": "2026-09-18T21:58:51.302193245Z",
+  "timestamp": "2026-09-25T04:30:07.408956812Z",
   "model": "glm-5.3"
 }

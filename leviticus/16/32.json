@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "ti",
   "chapter": 16,
-  "translation": "ነቲ ካህን ዝቐብኦን ነቲ ⟨את⟩ ኢዱ ዝምልኦን ንካህንነት ኣብ ቦታ ኣቦኡ ይስሓቶ፣ ከምኡውን ⟨את⟩ ልብሲ በፍቱ፣ ልብሲ ቅዱስነት ይልበስ።",
+  "translation": "እቲ ካህን ዝቐብኖን ⟨את⟩ ከምኡውን ኢዱን ዝምላኦን ኣብ ቦታ ኣቡኡ ንካህነት ይካፍር፣ ድማ ስብራት ናይ በፍቱ ⟨את⟩ ይልብስ፣ ቅዱሳት ስብራት።",
   "tokens": [
     {
       "surface": "וכפר",
-      "gloss": "ይስሓቶ"
+      "gloss": "ይካፍር"
     },
     {
       "surface": "הכהן",
-      "gloss": "ነቲ ካህን"
+      "gloss": "እቲ ካህን"
     },
     {
       "surface": "אשר",
@@ -21,33 +21,33 @@
     },
     {
       "surface": "ימשח",
-      "gloss": "ዝቐብኦ"
+      "gloss": "ዝቐብኖ"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ነቲ ካህን"
+      "marks": "እቲ ካህን"
     },
     {
       "surface": "ואשר",
-      "gloss": "ድማ ነቲ"
+      "gloss": "ከምኡውን ዝ"
     },
     {
       "surface": "ימלא",
-      "gloss": "ዝምልኦ"
+      "gloss": "ዝምላኦ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ኢዱ"
+      "marks": "ኢዱን"
     },
     {
       "surface": "ידו",
-      "gloss": "ኢዱ"
+      "gloss": "ኢዱን"
     },
     {
       "surface": "לכהן",
-      "gloss": "ንካህንነት"
+      "gloss": "ንካህነት"
     },
     {
       "surface": "תחת",
@@ -55,34 +55,34 @@
     },
     {
       "surface": "אביו",
-      "gloss": "ኣቦኡ"
+      "gloss": "ኣቡኡ"
     },
     {
       "surface": "ולבש",
-      "gloss": "ይልበስ"
+      "gloss": "ድማ ይልብስ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ልብሲ በፍቱ"
+      "marks": "ስብራት ናይ በፍቱ"
     },
     {
       "surface": "בגדי",
-      "gloss": "ልብሲ"
+      "gloss": "ስብራት"
     },
     {
       "surface": "הבד",
-      "gloss": "በፍቱ"
+      "gloss": "ናይ በፍቱ"
     },
     {
       "surface": "בגדי",
-      "gloss": "ልብሲ"
+      "gloss": "ስብራት"
     },
     {
       "surface": "הקדש",
-      "gloss": "ቅዱስነት"
+      "gloss": "ቅዱስ"
     }
   ],
-  "timestamp": "2026-09-18T22:00:45.312077165Z",
+  "timestamp": "2026-09-25T04:29:22.525696456Z",
   "model": "glm-5.3"
 }

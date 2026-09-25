@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":24,"ref":"judges 11:24","book":"judges","lang":"ti","chapter":11,"translation":"እወ፣ እቲ ከሞስ ኣምላኽካ ዝወርስካዮ፣ ⟨את⟩ ንእሽቶ ትወርሶ ደይ? ድማ ነቲ ያህዌህ ኤሎሂምና ካብ ቅድምና ዝኣልዎ፣ ⟨ואת⟩ ኩሉ ንሕና ነውርሶ።","tokens":[{"surface":"הלא","gloss":"እወ… ደይ?"},{"surface":"את","gloss":"⟨את⟩","marks":"እቲ ከሞስ ዝወርስካዮ"},{"surface":"אשר","gloss":"ዝወርስካዮ"},{"surface":"יורישך","gloss":"ከሞስ ዝሃበካ"},{"surface":"כמוש","gloss":"ከሞስ"},{"surface":"אלהיך","gloss":"ኣምላኽካ"},{"surface":"אותו","gloss":"⟨את⟩ ⟨אותו⟩","marks":"ንእሽቶ ትወርሶ"},{"surface":"תירש","gloss":"ትወርሶ"},{"surface":"ואת","gloss":"⟨ואת⟩","marks":"ኩሉ"},{"surface":"כל","gloss":"ኩሉ"},{"surface":"אשר","gloss":"ዝኣልዎ"},{"surface":"הוריש","gloss":"ዝኣልዎ"},{"surface":"יהוה","gloss":"ያህዌህ"},{"surface":"אלהינו","gloss":"ኤሎሂምና"},{"surface":"מפנינו","gloss":"ካብ ቅድምና"},{"surface":"אותו","gloss":"⟨את⟩ ⟨אותו⟩","marks":"ኩሉ ነውርሶ"},{"surface":"נירש","gloss":"ንሕና ነውርሶ"}],"timestamp":"2026-09-18T23:46:21.983523086Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 11:24",
+  "book": "judges",
+  "lang": "ti",
+  "chapter": 11,
+  "translation": "ንኩምሽ ኣማልክትካ ⟨את⟩ እቲ ዝሓበካ ኣይትወርስካሉ ኣይኮነን፧ ⟨את⟩ ኩሉ እቲ ያህዌህ ኤሎሂምና ካብ ቅደምና ዝወረሰናሉ ድማ ነወርሶ ኢና።",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ኣይኮነን፧"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "እቲ ዝሓበካ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "יורישך",
+      "gloss": "ዝሓበካ"
+    },
+    {
+      "surface": "כמוש",
+      "gloss": "ኩምሽ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ኣማልክትካ"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ኣይትወርስካሉ"
+    },
+    {
+      "surface": "תירש",
+      "gloss": "ኣይትወርስካሉ ኣይኮነን"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ኩሉ እቲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ኩሉ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "እቲ"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "ዝወረሰናሉ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ያህዌህ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ኤሎሂምና"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "ካብ ቅደምና"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ነወርሶ ኢና"
+    },
+    {
+      "surface": "נירש",
+      "gloss": "ነወርሶ ኢና"
+    }
+  ],
+  "timestamp": "2026-09-25T04:25:21.444086268Z",
+  "model": "glm-5.3"
+}
